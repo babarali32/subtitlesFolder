@@ -1,0 +1,3966 @@
+﻿1
+00:00:05,440 --> 00:00:19,920
+I month.
+
+2
+00:00:21,800 --> 00:00:23,160
+All right, guys.
+
+3
+00:00:23,160 --> 00:00:25,320
+Let's.
+
+4
+00:00:26,080 --> 00:00:28,040
+Yes, yes, yes. Actually,
+like I said, late.
+
+5
+00:00:28,040 --> 00:00:30,360
+I mean, you there does go. But
+
+6
+00:00:35,880 --> 00:00:38,600
+so now, basically, so far what we did,
+
+7
+00:00:39,720 --> 00:00:42,280
+we understood the concept of base.
+
+8
+00:00:42,280 --> 00:00:45,960
+You are right,
+which is equivalent to your base.
+
+9
+00:00:45,960 --> 00:00:48,000
+You are held in Java.
+
+10
+00:00:48,000 --> 00:00:51,920
+Rest assured API,
+first thing we cover, like
+
+11
+00:00:52,320 --> 00:00:55,920
+we know how to prepare the request, how
+
+12
+00:00:55,920 --> 00:00:59,800
+to send the request,
+how to get the response right,
+
+13
+00:00:59,800 --> 00:01:05,920
+and how to verify and validate
+all of the responses.
+
+14
+00:01:05,920 --> 00:01:10,600
+Right now, when you say verification
+for right when we say verification part.
+
+15
+00:01:10,840 --> 00:01:14,680
+So in verification and verification,
+we are not only relying on one
+
+16
+00:01:14,680 --> 00:01:18,240
+particular type of validation verification
+check point, we are very plain
+
+17
+00:01:19,000 --> 00:01:20,400
+status code.
+
+18
+00:01:20,520 --> 00:01:23,600
+We are verifying body message, verifying
+
+19
+00:01:23,760 --> 00:01:27,360
+string in the body, verifying the value
+of a string in the body.
+
+20
+00:01:27,840 --> 00:01:28,480
+Right.
+
+21
+00:01:28,480 --> 00:01:30,880
+All of these things
+we are verify is indeed
+
+22
+00:01:35,440 --> 00:01:36,000
+right.
+
+23
+00:01:36,000 --> 00:01:38,400
+So these all are the things.
+
+24
+00:01:38,400 --> 00:01:40,440
+These all are the things we covered.
+
+25
+00:01:40,440 --> 00:01:42,640
+Find after this.
+
+26
+00:01:42,640 --> 00:01:45,280
+A next point which we covered is
+
+27
+00:01:46,400 --> 00:01:48,320
+integration
+
+28
+00:01:50,240 --> 00:01:54,320
+of rest
+
+29
+00:01:54,320 --> 00:01:58,600
+assured API, integration of rest assured
+API with
+
+30
+00:01:59,880 --> 00:02:02,760
+with particular part
+
+31
+00:02:04,640 --> 00:02:06,920
+with key part right there.
+
+32
+00:02:06,960 --> 00:02:10,160
+Also we did
+so we wrote normal scenarios training
+
+33
+00:02:10,440 --> 00:02:13,320
+in these scenarios
+we are questioning their data.
+
+34
+00:02:13,760 --> 00:02:17,720
+So we have seen two ways
+to parse their data so far.
+
+35
+00:02:17,720 --> 00:02:19,520
+How many of was
+
+36
+00:02:22,080 --> 00:02:24,240
+how many was two is the first one is
+
+37
+00:02:24,840 --> 00:02:28,160
+the first one is why are they is
+
+38
+00:02:29,440 --> 00:02:31,680
+the first one is there
+
+39
+00:02:34,320 --> 00:02:35,640
+method
+
+40
+00:02:36,480 --> 00:02:38,560
+right where we declare the body right?
+
+41
+00:02:38,560 --> 00:02:40,720
+And from there
+we provide their data, right?
+
+42
+00:02:40,760 --> 00:02:42,640
+Using the methodology.
+
+43
+00:02:42,640 --> 00:02:44,800
+Second way is
+
+44
+00:02:44,800 --> 00:02:47,800
+can we escapes using
+
+45
+00:02:49,840 --> 00:02:51,000
+data table from feature.
+
+46
+00:02:52,440 --> 00:02:52,800
+Okay.
+
+47
+00:02:53,160 --> 00:02:56,880
+So either we can parsed their data
+by declaring one particular
+
+48
+00:02:56,880 --> 00:03:01,400
+payload of matter in one particular class
+called API payload constant.
+
+49
+00:03:02,480 --> 00:03:05,960
+Or we can simply parse
+the values in the form of key.
+
+50
+00:03:05,960 --> 00:03:08,920
+And when you've been using data table
+from P2P
+
+51
+00:03:10,440 --> 00:03:14,200
+to industrial,
+
+52
+00:03:14,200 --> 00:03:21,520
+despite everyone.
+
+53
+00:03:21,520 --> 00:03:25,440
+No, no, here we are, We have seen this.
+
+54
+00:03:25,440 --> 00:03:27,400
+But also what is that?
+
+55
+00:03:27,400 --> 00:03:32,040
+When we pass the data in the formal data
+tables detecting migrate.
+
+56
+00:03:32,320 --> 00:03:36,360
+So it is retrieving key and value
+which makes,
+
+57
+00:03:36,360 --> 00:03:38,440
+which makes maps.
+
+58
+00:03:39,400 --> 00:03:41,800
+So when it creates maps, I'm seeing
+
+59
+00:03:42,160 --> 00:03:46,360
+what the data table object
+I'm using this object will return
+
+60
+00:03:46,360 --> 00:03:51,720
+my value as as next flight as maps.
+
+61
+00:03:51,960 --> 00:03:57,320
+So one key one value together the way
+the one that is key value pair mapping.
+
+62
+00:03:57,320 --> 00:03:58,960
+Right. So we are getting this map.
+
+63
+00:03:58,960 --> 00:04:01,560
+We keep adding one by one,
+one by one, one by one.
+
+64
+00:04:01,560 --> 00:04:02,720
+Make all the maps together.
+
+65
+00:04:04,200 --> 00:04:05,280
+That's what we are doing.
+
+66
+00:04:05,280 --> 00:04:05,720
+Correct.
+
+67
+00:04:06,240 --> 00:04:08,800
+And if you if you watch the video,
+
+68
+00:04:09,040 --> 00:04:11,560
+you must have motivated
+
+69
+00:04:13,400 --> 00:04:16,560
+find three.
+
+70
+00:04:16,560 --> 00:04:20,640
+No, no, let's do the same operation.
+
+71
+00:04:21,000 --> 00:04:21,400
+Right.
+
+72
+00:04:21,400 --> 00:04:24,000
+Let's do the same operation in addition.
+
+73
+00:04:25,600 --> 00:04:29,560
+So far, we pass the data layer data table.
+
+74
+00:04:31,200 --> 00:04:33,800
+We pass the data by a normal method.
+
+75
+00:04:35,240 --> 00:04:37,440
+Remember, we had added
+
+76
+00:04:37,440 --> 00:04:39,600
+one more dependency called Jason,
+
+77
+00:04:40,680 --> 00:04:43,880
+so via JSON, also via JSON object.
+
+78
+00:04:43,880 --> 00:04:48,040
+Also, we can pass the data
+because Java allows to short API
+
+79
+00:04:48,200 --> 00:04:52,120
+allows us to data to be sent
+in JSON tournament
+
+80
+00:04:53,440 --> 00:04:55,840
+data to be sending JSON forward.
+
+81
+00:04:55,840 --> 00:04:58,880
+Correct?
+
+82
+00:04:58,880 --> 00:04:59,520
+That is correct.
+
+83
+00:04:59,520 --> 00:05:02,880
+Or not.
+
+84
+00:05:02,880 --> 00:05:06,960
+So now what I'm going to do is see here
+
+85
+00:05:08,120 --> 00:05:09,840
+the same scenario, right?
+
+86
+00:05:09,840 --> 00:05:11,920
+The same scenario.
+I'm going to write again
+
+87
+00:05:13,000 --> 00:05:14,920
+right this time
+
+88
+00:05:14,920 --> 00:05:18,840
+I am going to create, this time
+I'm going to create the body.
+
+89
+00:05:18,840 --> 00:05:24,240
+And we declared the employee
+in which I am going to pass the data here.
+
+90
+00:05:24,280 --> 00:05:25,560
+I'm going to see
+
+91
+00:05:27,600 --> 00:05:29,760
+Jason work through.
+
+92
+00:05:30,400 --> 00:05:32,520
+So I am seen here
+
+93
+00:05:33,680 --> 00:05:36,760
+using JSON.
+
+94
+00:05:36,760 --> 00:05:38,120
+So now see what I'm going to do.
+
+95
+00:05:38,120 --> 00:05:41,880
+I would, I think, given a request,
+is prepared for creating an employee
+
+96
+00:05:42,400 --> 00:05:44,600
+via Jason Field.
+
+97
+00:05:45,600 --> 00:05:49,000
+Now what is this Jason
+This is something we need to understand.
+
+98
+00:05:49,000 --> 00:05:51,800
+What is this? Jason Field
+
+99
+00:05:52,240 --> 00:05:54,680
+Guys, any idea, any guesses
+what I'm doing here?
+
+100
+00:05:55,040 --> 00:05:55,560
+What is this?
+
+101
+00:05:55,560 --> 00:05:57,640
+And build any guesses
+
+102
+00:06:05,400 --> 00:06:08,120
+like Excel?
+
+103
+00:06:08,200 --> 00:06:09,920
+Marty Yes.
+
+104
+00:06:09,920 --> 00:06:10,760
+Got it.
+
+105
+00:06:10,760 --> 00:06:13,120
+Got the body from Swag update.
+
+106
+00:06:13,520 --> 00:06:16,080
+So first first to let me do one thing.
+
+107
+00:06:16,080 --> 00:06:19,360
+Let me just create this request first,
+
+108
+00:06:19,360 --> 00:06:23,160
+let me create the stem of this request
+and then we will do further part.
+
+109
+00:06:23,760 --> 00:06:28,200
+So from API donor,
+I'm going to change this bag
+
+110
+00:06:28,840 --> 00:06:31,320
+at the moment,
+I'm going to change this date.
+
+111
+00:06:31,640 --> 00:06:34,760
+I will make it to generate this data.
+
+112
+00:06:35,080 --> 00:06:39,240
+And then when I run this
+part, when I run this bar,
+
+113
+00:06:40,280 --> 00:06:41,480
+that will
+
+114
+00:06:43,800 --> 00:06:45,920
+Naughton is not day.
+
+115
+00:06:45,920 --> 00:06:46,720
+I want to do this.
+
+116
+00:06:46,720 --> 00:06:49,760
+Don't.
+
+117
+00:06:49,760 --> 00:06:53,560
+So first we got this request, right?
+
+118
+00:06:53,560 --> 00:06:59,080
+We got this step for the request
+that I bet
+
+119
+00:06:59,120 --> 00:07:01,920
+I have to add this particular step
+which we just created
+
+120
+00:07:03,440 --> 00:07:08,000
+once in API workflow steps.
+
+121
+00:07:08,000 --> 00:07:08,600
+Right.
+
+122
+00:07:09,640 --> 00:07:12,160
+So here, here I'm going to write
+
+123
+00:07:12,760 --> 00:07:16,040
+this is that I'm going to write
+this particular step. You
+
+124
+00:07:17,560 --> 00:07:20,160
+now see now see here
+
+125
+00:07:22,200 --> 00:07:26,040
+I'm going to write
+a request is equal to given
+
+126
+00:07:26,760 --> 00:07:31,120
+dark proposed header
+where the values would be.
+
+127
+00:07:31,120 --> 00:07:33,000
+My API
+
+128
+00:07:35,480 --> 00:07:36,960
+constants
+
+129
+00:07:37,440 --> 00:07:40,400
+dark header content
+
+130
+00:07:45,040 --> 00:07:45,840
+comma
+
+131
+00:07:46,680 --> 00:07:49,680
+API Constants Dark content.
+
+132
+00:07:51,120 --> 00:07:51,960
+Dark.
+
+133
+00:07:51,960 --> 00:07:53,720
+Another header.
+
+134
+00:07:54,200 --> 00:07:56,040
+Again, I'm creating the employee,
+
+135
+00:07:56,040 --> 00:07:58,320
+but this time I'm going to use slower
+
+136
+00:07:59,320 --> 00:08:00,560
+shock. No, no, no.
+
+137
+00:08:00,560 --> 00:08:01,880
+I'm just copying this part.
+
+138
+00:08:01,880 --> 00:08:05,480
+I could have copy pasted also,
+but I'm typing so that you guys can see.
+
+139
+00:08:05,480 --> 00:08:08,760
+Okay, so now
+
+140
+00:08:09,280 --> 00:08:13,000
+first for Turner Case
+with the given keyword
+
+141
+00:08:13,480 --> 00:08:15,480
+first header API cons
+
+142
+00:08:16,080 --> 00:08:19,560
+contain date
+and the value is obtained back
+
+143
+00:08:22,680 --> 00:08:23,480
+after this.
+
+144
+00:08:23,480 --> 00:08:28,800
+Another header is guys,
+what is another header?
+
+145
+00:08:28,800 --> 00:08:32,520
+We can try API constant start
+
+146
+00:08:33,640 --> 00:08:36,920
+header for authorization
+
+147
+00:08:37,080 --> 00:08:39,120
+and then the value of authorization
+
+148
+00:08:39,120 --> 00:08:42,080
+we are taking from which plus from
+
+149
+00:08:43,280 --> 00:08:46,240
+generate token steps are broken
+
+150
+00:08:49,680 --> 00:08:52,360
+down to confirm this.
+
+151
+00:08:52,520 --> 00:08:56,400
+Now here, here we need to provide body
+because we are going
+
+152
+00:08:56,400 --> 00:08:57,960
+to create the employee.
+
+153
+00:08:57,960 --> 00:09:01,200
+So here we are going to create the body,
+
+154
+00:09:02,400 --> 00:09:06,600
+this body, whatever the body,
+I'm going to provide it.
+
+155
+00:09:06,600 --> 00:09:07,760
+We just put it like this.
+
+156
+00:09:07,760 --> 00:09:10,760
+As of now,
+I'm not doing anything because first
+
+157
+00:09:10,760 --> 00:09:18,600
+I have to make the body.
+
+158
+00:09:18,600 --> 00:09:23,520
+So now, now if you see,
+I go here in my payload constricts
+
+159
+00:09:25,200 --> 00:09:28,080
+So far
+I created this particular method, right?
+
+160
+00:09:28,680 --> 00:09:29,840
+I created this method.
+
+161
+00:09:29,840 --> 00:09:33,120
+So I provided this particular part
+as a normal string.
+
+162
+00:09:33,120 --> 00:09:39,640
+You see, basically, you see this
+aggravated normally the string.
+
+163
+00:09:40,240 --> 00:09:44,560
+This time I'm seeing, I am seeing
+I don't want to pass this string
+
+164
+00:09:44,560 --> 00:09:49,000
+because I have JSON
+so I can provide my head just an object.
+
+165
+00:09:49,000 --> 00:09:51,280
+All the vendors, all the vendors.
+
+166
+00:09:51,520 --> 00:09:53,880
+So the format should not be this much.
+
+167
+00:09:53,880 --> 00:09:56,160
+If you took the form
+which would be very easy.
+
+168
+00:09:56,160 --> 00:09:58,760
+And what is there for me? Right.
+
+169
+00:09:58,760 --> 00:10:00,000
+I'm going to a public
+
+170
+00:10:01,640 --> 00:10:04,720
+static method of this grade.
+
+171
+00:10:04,720 --> 00:10:05,560
+Static method.
+
+172
+00:10:05,560 --> 00:10:10,680
+I'm c to create, deploy, or D
+
+173
+00:10:12,960 --> 00:10:15,480
+system by mistake.
+
+174
+00:10:15,520 --> 00:10:19,440
+And because this method
+is also going to return this train.
+
+175
+00:10:19,440 --> 00:10:20,680
+So I'm going to write the string
+
+176
+00:10:20,680 --> 00:10:25,320
+because all of the values I'm having,
+it all are in the string, right?
+
+177
+00:10:25,560 --> 00:10:29,160
+So let's see how I write.
+
+178
+00:10:29,160 --> 00:10:31,560
+I have to write first here.
+
+179
+00:10:31,560 --> 00:10:33,080
+Jason
+
+180
+00:10:35,080 --> 00:10:36,240
+Object.
+
+181
+00:10:36,920 --> 00:10:39,200
+Jason Object
+
+182
+00:10:39,240 --> 00:10:42,360
+object is equals to nil
+
+183
+00:10:44,040 --> 00:10:45,600
+is an object
+
+184
+00:10:47,360 --> 00:10:47,840
+based.
+
+185
+00:10:47,840 --> 00:10:48,840
+This is not Jason.
+
+186
+00:10:48,840 --> 00:10:50,040
+We have already used.
+
+187
+00:10:50,040 --> 00:10:52,400
+We have already added right enough.
+
+188
+00:10:52,400 --> 00:10:54,800
+I'm not exempt by remember were
+
+189
+00:10:57,240 --> 00:11:02,000
+I remember or not.
+
+190
+00:11:02,000 --> 00:11:08,640
+But are you guys following me as of now?
+
+191
+00:11:08,640 --> 00:11:12,160
+Fine. So here, here I'm going to write.
+
+192
+00:11:12,200 --> 00:11:16,920
+See, there's this JSON object
+whenever we use the JSON language.
+
+193
+00:11:17,240 --> 00:11:20,920
+So tell me in just a language,
+we pass the values in which one
+
+194
+00:11:26,000 --> 00:11:28,120
+is know that the structure is
+
+195
+00:11:30,880 --> 00:11:32,480
+not satisfying.
+
+196
+00:11:32,480 --> 00:11:34,960
+In JSON,
+we pass values in which what is this?
+
+197
+00:11:35,760 --> 00:11:40,480
+Yes. Maps key
+and then you got a key and value, right?
+
+198
+00:11:41,120 --> 00:11:45,560
+So what is the method
+to add the value in this particular map?
+
+199
+00:11:46,040 --> 00:11:47,760
+So this object is the map.
+
+200
+00:11:47,760 --> 00:11:50,000
+So what is the method to add the value
+
+201
+00:11:50,920 --> 00:11:53,000
+map going to put?
+
+202
+00:11:53,560 --> 00:11:56,640
+C, it is asking for key and value
+book, correct?
+
+203
+00:11:57,480 --> 00:11:59,160
+It is.
+
+204
+00:11:59,160 --> 00:12:03,360
+It is asking for both D and value
+because both are a string.
+
+205
+00:12:04,480 --> 00:12:06,720
+So here d we can provide from
+
+206
+00:12:08,440 --> 00:12:09,480
+right based.
+
+207
+00:12:10,840 --> 00:12:13,600
+We can provide a key from here.
+
+208
+00:12:13,600 --> 00:12:17,160
+Let's provide the key and the value
+I can provide from here.
+
+209
+00:12:17,160 --> 00:12:20,160
+Let's see, the value is
+
+210
+00:12:20,480 --> 00:12:23,680
+what?
+
+211
+00:12:23,680 --> 00:12:26,160
+Again, all we did to put
+
+212
+00:12:27,600 --> 00:12:35,680
+in the second key would be my employ.
+
+213
+00:12:35,680 --> 00:12:38,320
+Last name, common value would be my
+
+214
+00:12:39,320 --> 00:12:40,160
+doctor
+
+215
+00:12:42,160 --> 00:12:44,840
+object or put
+
+216
+00:12:55,040 --> 00:12:55,760
+within,
+
+217
+00:12:56,480 --> 00:12:59,240
+but it would be my name. It's
+
+218
+00:12:59,880 --> 00:13:40,800
+object.
+
+219
+00:13:40,800 --> 00:13:43,600
+We should put
+
+220
+00:14:15,000 --> 00:14:16,040
+right case.
+
+221
+00:14:16,200 --> 00:14:18,840
+So it is returning me one JSON object.
+
+222
+00:14:19,440 --> 00:14:20,200
+It is returning.
+
+223
+00:14:20,200 --> 00:14:22,200
+You want one? Just an object.
+
+224
+00:14:22,200 --> 00:14:25,720
+So to convert any object to a string,
+what is the method?
+
+225
+00:14:27,160 --> 00:14:29,720
+It is returning with this object.
+
+226
+00:14:29,720 --> 00:14:33,360
+Now delegates which metrolite call dart
+
+227
+00:14:34,800 --> 00:14:36,960
+goose not do string.
+
+228
+00:14:37,200 --> 00:14:41,160
+So what this method does,
+this particular method will return
+
+229
+00:14:41,280 --> 00:14:44,400
+one JSON object in a string format where
+
+230
+00:14:44,400 --> 00:14:47,440
+I'm having all of these values,
+
+231
+00:14:47,440 --> 00:14:48,960
+but I'm having all of this values.
+
+232
+00:14:48,960 --> 00:14:49,720
+Is this clear?
+
+233
+00:14:49,720 --> 00:14:52,600
+And despite
+
+234
+00:14:52,800 --> 00:14:57,360
+to do one, please take it.
+
+235
+00:14:57,720 --> 00:14:58,320
+Please write it.
+
+236
+00:14:58,320 --> 00:14:58,720
+Everyone.
+
+237
+00:14:58,720 --> 00:15:45,360
+Once everyone is done with it.
+
+238
+00:15:45,360 --> 00:15:48,480
+All right, well, that's great.
+
+239
+00:15:48,480 --> 00:15:51,080
+It's time they think of this
+once they are done.
+
+240
+00:15:51,080 --> 00:15:55,320
+Otherwise, if they fall behind, it's
+very hard for them to follow.
+
+241
+00:15:55,680 --> 00:15:56,200
+Thanks, but
+
+242
+00:16:11,520 --> 00:16:12,880
+can you please be sure?
+
+243
+00:16:12,880 --> 00:16:24,640
+Make sure 77
+
+244
+00:16:48,040 --> 00:16:51,120
+can be a bit true for a second.
+
+245
+00:16:52,720 --> 00:16:55,680
+Is API workflow or feature API.
+
+246
+00:16:55,680 --> 00:16:58,000
+But because
+
+247
+00:17:00,920 --> 00:17:01,440
+the steps.
+
+248
+00:17:01,440 --> 00:17:02,720
+Okay, from
+
+249
+00:17:03,280 --> 00:17:04,320
+there you
+
+250
+00:17:07,560 --> 00:17:08,760
+here we are going to write.
+
+251
+00:17:08,760 --> 00:17:11,040
+We didn't write anything yet
+so we are going to write now.
+
+252
+00:17:11,520 --> 00:17:14,120
+So guys, buddy, we have created language.
+
+253
+00:17:14,160 --> 00:17:17,240
+We use creative when we use opposed
+one note.
+
+254
+00:17:17,280 --> 00:17:19,560
+These are two different approaches.
+
+255
+00:17:19,560 --> 00:17:23,200
+You should be having multiple features
+to try when you work in the industry.
+
+256
+00:17:23,520 --> 00:17:25,960
+We cannot stick to one particular
+approach, right?
+
+257
+00:17:25,960 --> 00:17:26,400
+That's why
+
+258
+00:17:26,400 --> 00:17:30,400
+we are providing you multiple approaches
+and then you can do this or do that.
+
+259
+00:17:30,400 --> 00:17:31,680
+To do that, great.
+
+260
+00:17:31,680 --> 00:17:39,000
+If you provide, it shows diversity
+in your experience, one or the other,
+
+261
+00:17:39,440 --> 00:17:40,840
+multiple features to play
+
+262
+00:17:42,000 --> 00:17:42,720
+fine.
+
+263
+00:17:42,800 --> 00:17:46,640
+So now here I'm going to write API payload
+constants,
+
+264
+00:17:46,640 --> 00:17:50,160
+start, create, employ body using Jason.
+
+265
+00:17:50,640 --> 00:17:55,280
+So this time here
+I was calling normal body.
+
+266
+00:17:55,280 --> 00:17:58,560
+Normal body here
+I'm calling my Jason body.
+
+267
+00:17:58,800 --> 00:18:00,040
+Can you see guys
+
+268
+00:18:00,720 --> 00:18:03,080
+get I'm calling my somebody cut it
+
+269
+00:18:05,920 --> 00:18:09,040
+now rest of the things
+the rest of the things if you see
+
+270
+00:18:09,440 --> 00:18:13,360
+a list of all these steps are same list
+all this gives us
+
+271
+00:18:13,520 --> 00:18:16,080
+is this correct enemy
+
+272
+00:18:17,160 --> 00:18:19,440
+list thunderstorms are seen.
+
+273
+00:18:19,440 --> 00:18:33,360
+Is it is it going to affect?
+
+274
+00:18:33,360 --> 00:18:34,480
+No. Great.
+
+275
+00:18:34,480 --> 00:18:38,160
+Because it is just a different way
+of passing the data.
+
+276
+00:18:38,160 --> 00:18:40,760
+But the operation is
+anything is going to be see,
+
+277
+00:18:41,280 --> 00:18:45,920
+it's the operation is team correct?
+
+278
+00:18:45,920 --> 00:18:46,200
+Correct.
+
+279
+00:18:46,200 --> 00:18:47,280
+The students
+
+280
+00:18:51,720 --> 00:18:52,280
+fine.
+
+281
+00:18:52,280 --> 00:18:56,560
+So now this time, this time
+when I'm done with my feature, finally,
+
+282
+00:18:57,400 --> 00:19:02,280
+when I'm done with my build constraints,
+which I created here, write this part.
+
+283
+00:19:03,280 --> 00:19:04,320
+And then
+
+284
+00:19:05,400 --> 00:19:06,920
+after this, when I'm
+
+285
+00:19:06,920 --> 00:19:09,360
+done, my API workflow steps,
+
+286
+00:19:10,160 --> 00:19:12,280
+which is available here, right,
+
+287
+00:19:12,960 --> 00:19:16,040
+then what I can do simply
+I should go in appearance.
+
+288
+00:19:16,760 --> 00:19:19,320
+I will run this particular
+once in any fine.
+
+289
+00:19:19,440 --> 00:19:36,720
+So this one, working by any
+
+290
+00:19:38,320 --> 00:19:40,360
+given object, is prepared
+
+291
+00:19:40,360 --> 00:19:43,240
+for creating an employ
+by a adjacent build.
+
+292
+00:19:43,560 --> 00:19:45,640
+So this time I'm using Jason below.
+
+293
+00:19:46,040 --> 00:19:51,600
+Post call is made to zero one verify right
+employed created convinced message
+
+294
+00:19:51,600 --> 00:19:56,400
+employed created in value both matches
+we got this employ 80
+
+295
+00:19:56,600 --> 00:19:59,520
+and this employed is also stored
+as a global variable.
+
+296
+00:20:00,240 --> 00:20:02,960
+Right.
+Everything is working final one guys.
+
+297
+00:20:02,960 --> 00:20:03,600
+Tell me
+
+298
+00:20:09,240 --> 00:20:11,640
+everything is working fine.
+
+299
+00:20:11,760 --> 00:20:18,360
+Nice.
+
+300
+00:20:18,360 --> 00:20:20,720
+Now let's look at the code.
+
+301
+00:20:20,720 --> 00:20:23,240
+We actually thought we
+
+302
+00:20:27,840 --> 00:20:30,360
+panicked and before
+
+303
+00:20:30,360 --> 00:20:34,280
+every single request it is generating
+automatically and capturing this.
+
+304
+00:20:34,440 --> 00:20:37,440
+We are using this
+for all kind of a request.
+
+305
+00:20:38,640 --> 00:20:39,720
+So now see guys,
+
+306
+00:20:39,720 --> 00:20:44,720
+first way we posited industry involvement
+in the multi metatrader method.
+
+307
+00:20:44,720 --> 00:20:48,520
+We called thinking to be repository
+data from data people.
+
+308
+00:20:49,080 --> 00:20:51,560
+How do we we parsed the data
+
+309
+00:20:51,640 --> 00:20:55,920
+for creating an employee via JSON object.
+
+310
+00:20:56,160 --> 00:20:58,200
+No thought we
+
+311
+00:20:59,280 --> 00:21:01,600
+like two approaches here.
+
+312
+00:21:01,600 --> 00:21:03,640
+I showed from the API perspective.
+
+313
+00:21:04,080 --> 00:21:07,800
+One approach I showed that is like
+detectable from the perspective, right?
+
+314
+00:21:08,040 --> 00:21:11,960
+So this is not just
+just if I were just one way from kicking,
+
+315
+00:21:11,960 --> 00:21:15,880
+but we should have to this particular
+by to break from the Google participant.
+
+316
+00:21:16,080 --> 00:21:17,480
+So let's do it.
+
+317
+00:21:17,480 --> 00:21:19,320
+I'm going to write this scenario, right?
+
+318
+00:21:19,320 --> 00:21:23,640
+I'm going to write this scenario
+workflow part right workflow part
+
+319
+00:21:24,720 --> 00:21:29,440
+in this one, right employee ID
+and everything creates contains.
+
+320
+00:21:29,440 --> 00:21:31,800
+Fine. Let's take this scenario again.
+
+321
+00:21:33,600 --> 00:21:34,320
+It doesn't matter
+
+322
+00:21:34,320 --> 00:21:38,080
+whether you are calling this data
+from your
+
+323
+00:21:38,080 --> 00:21:41,280
+first part or second part
+anyway, we are going to change it now.
+
+324
+00:21:41,640 --> 00:21:43,760
+So how are we going to change scene?
+
+325
+00:21:44,240 --> 00:21:46,640
+I'm going to let here write to make
+
+326
+00:21:46,800 --> 00:21:49,760
+to make this particular part more dynamic
+
+327
+00:21:50,280 --> 00:21:54,040
+when I'm seeing more dynamics
+to how first to admit ideas and ideas.
+
+328
+00:21:55,080 --> 00:21:57,120
+So I'm going to write my scenarios, create
+
+329
+00:22:00,480 --> 00:22:02,600
+I need, I need
+
+330
+00:22:03,680 --> 00:22:06,840
+better make it
+
+331
+00:22:08,400 --> 00:22:10,920
+even given.
+
+332
+00:22:11,400 --> 00:22:13,800
+Okay, see, this is interesting, but given
+
+333
+00:22:15,480 --> 00:22:17,520
+our request
+
+334
+00:22:17,760 --> 00:22:20,640
+is prepared for
+
+335
+00:22:22,320 --> 00:22:23,760
+creating
+
+336
+00:22:25,440 --> 00:22:28,680
+and employ
+
+337
+00:22:31,280 --> 00:22:33,680
+creating an employee with
+
+338
+00:22:35,520 --> 00:22:37,320
+dynamic data.
+
+339
+00:22:37,320 --> 00:22:40,400
+So guys see how I can foster dynamic data.
+
+340
+00:22:40,680 --> 00:22:45,600
+The only thing you need to take care of
+is the format of posting that indictments.
+
+341
+00:22:45,600 --> 00:22:47,240
+First name, middle name, last name.
+
+342
+00:22:47,240 --> 00:22:48,840
+Don't fasten gender.
+
+343
+00:22:48,840 --> 00:22:52,520
+No forced otherwise in your
+first name it is male and
+
+344
+00:22:53,520 --> 00:22:54,480
+female.
+
+345
+00:22:54,480 --> 00:22:56,240
+Don't do this right.
+
+346
+00:22:56,640 --> 00:22:59,120
+We need to make sure.
+
+347
+00:22:59,720 --> 00:23:02,080
+We need to make sure
+which part we are calling one
+
+348
+00:23:02,080 --> 00:23:05,600
+by one based upon a generic
+creating the employee here you see.
+
+349
+00:23:06,000 --> 00:23:08,000
+Right.
+So what? All are the things we need?
+
+350
+00:23:08,000 --> 00:23:10,920
+We need first name, last name,
+middle name,
+
+351
+00:23:10,920 --> 00:23:13,680
+gender, birthdate, status, job data.
+
+352
+00:23:14,120 --> 00:23:16,560
+We need all these things face.
+
+353
+00:23:17,040 --> 00:23:19,560
+We need all these
+things are not for creating the employee.
+
+354
+00:23:21,120 --> 00:23:24,840
+So now,
+now we can pause this data on drink time.
+
+355
+00:23:24,840 --> 00:23:27,920
+We should not store these things
+in our API payload.
+
+356
+00:23:27,920 --> 00:23:29,520
+Constance Right.
+
+357
+00:23:29,520 --> 00:23:31,160
+So you mean the sequence minded?
+
+358
+00:23:31,160 --> 00:23:32,520
+Yes. Sequence maker.
+
+359
+00:23:32,520 --> 00:23:34,480
+Not here where I tell you that.
+
+360
+00:23:34,480 --> 00:23:36,360
+Don't worry, I need it.
+
+361
+00:23:36,360 --> 00:23:39,360
+So first firstly, I'm
+
+362
+00:23:39,360 --> 00:23:42,080
+going to provide my force
+to be as business.
+
+363
+00:23:42,720 --> 00:23:45,000
+Now see you guys how things work.
+
+364
+00:23:45,000 --> 00:23:47,280
+Remember, we passed the values
+
+365
+00:23:47,480 --> 00:23:50,600
+in our scenario itself when we were using
+
+366
+00:23:51,240 --> 00:23:56,640
+when we are using the killer, like
+
+367
+00:23:57,680 --> 00:24:01,560
+remember this part of not everyone?
+
+368
+00:24:01,560 --> 00:24:05,200
+And the second one I would put is
+
+369
+00:24:06,360 --> 00:24:11,280
+so the third one is the last name.
+
+370
+00:24:11,280 --> 00:24:14,440
+So I'm going to put this Mike
+
+371
+00:24:14,640 --> 00:24:17,400
+after Mike,
+what is the next thing We have?
+
+372
+00:24:17,400 --> 00:24:18,560
+Gender.
+
+373
+00:24:18,560 --> 00:24:22,720
+So gender in for men
+because Dennis surrogate
+
+374
+00:24:22,840 --> 00:24:27,640
+Mike all three are men
+according to my understanding point
+
+375
+00:24:28,840 --> 00:24:33,840
+Now here are
+
+376
+00:24:34,400 --> 00:24:36,880
+there is no surety for anything nowadays,
+
+377
+00:24:38,440 --> 00:24:40,680
+but so I'm going to write in
+
+378
+00:24:40,720 --> 00:24:45,680
+1212 2018
+it is both name, last name and then.
+
+379
+00:24:45,680 --> 00:24:47,480
+Really? Yes. Correct.
+
+380
+00:24:47,480 --> 00:24:48,200
+Correct.
+
+381
+00:24:48,240 --> 00:24:50,720
+First name, last name and middle name.
+
+382
+00:24:51,000 --> 00:24:54,240
+Then your gender.
+
+383
+00:24:54,480 --> 00:24:57,520
+Then your date of birth after the birth.
+
+384
+00:24:57,720 --> 00:25:00,560
+Next thing is your employee status.
+
+385
+00:25:00,560 --> 00:25:02,480
+So I'm saying it is employee.
+
+386
+00:25:02,480 --> 00:25:04,600
+And then the next thing is your job title.
+
+387
+00:25:04,680 --> 00:25:05,920
+So I will say you
+
+388
+00:25:07,640 --> 00:25:10,040
+guys now see this part clear to everyone.
+
+389
+00:25:10,760 --> 00:25:13,800
+These are the things we provide
+generally in the body.
+
+390
+00:25:13,800 --> 00:25:16,720
+Now I'm providing it in any, you know,
+
+391
+00:25:16,840 --> 00:25:21,080
+scenario, any issue in this part.
+
+392
+00:25:21,080 --> 00:25:21,720
+Anyone
+
+393
+00:25:23,880 --> 00:25:27,040
+let me write it the segment.
+
+394
+00:25:27,520 --> 00:25:31,240
+So this should remind you that dynamic
+
+395
+00:25:31,240 --> 00:25:34,440
+to generate the step for us
+to see how these things work,
+
+396
+00:25:35,120 --> 00:25:38,000
+this thing work
+to generate the step for us.
+
+397
+00:25:38,000 --> 00:25:40,560
+I have to go in API and
+
+398
+00:25:40,560 --> 00:25:43,080
+I have to change this to dynamic
+
+399
+00:25:43,080 --> 00:25:48,560
+and then I will make it to true.
+
+400
+00:25:48,560 --> 00:25:51,720
+Now let's run this part,
+
+401
+00:25:51,720 --> 00:25:58,120
+this one, this part.
+
+402
+00:25:58,120 --> 00:25:59,040
+Congratulations.
+
+403
+00:25:59,040 --> 00:26:00,560
+Because this is a
+
+404
+00:26:00,840 --> 00:26:02,880
+copy this time here,
+
+405
+00:26:03,240 --> 00:26:07,400
+change it to false again, go to API, work
+
+406
+00:26:07,400 --> 00:26:11,880
+a step and here in the end simply it is
+
+407
+00:26:13,560 --> 00:26:14,800
+simply write this one
+
+408
+00:26:17,360 --> 00:26:19,160
+now. Now if you see
+
+409
+00:26:19,160 --> 00:26:21,920
+here, what is the next thing we have to do
+
+410
+00:26:23,360 --> 00:26:25,800
+was to remove this code.
+
+411
+00:26:25,800 --> 00:26:28,840
+Now Seagate,
+it is asking for so many strings.
+
+412
+00:26:28,840 --> 00:26:31,680
+And you see you guys
+
+413
+00:26:31,680 --> 00:26:35,040
+see a string string,
+two, three, four, five, six, seven.
+
+414
+00:26:35,160 --> 00:26:36,160
+Right.
+
+415
+00:26:36,160 --> 00:26:39,480
+So make sure at which point you provided
+which is string.
+
+416
+00:26:39,480 --> 00:26:41,520
+For example, here you provided what
+
+417
+00:26:43,320 --> 00:26:45,000
+you provided, what the theme
+
+418
+00:26:45,000 --> 00:26:48,000
+beat underscore or
+
+419
+00:26:48,000 --> 00:26:49,640
+forced me.
+
+420
+00:26:49,640 --> 00:26:53,400
+I'm providing the argument
+in the second one you provided here.
+
+421
+00:26:53,400 --> 00:26:56,400
+The underscore last name
+
+422
+00:26:57,520 --> 00:27:05,080
+in the third one is EMV underscore.
+
+423
+00:27:05,080 --> 00:27:05,680
+Right?
+
+424
+00:27:05,800 --> 00:27:10,280
+And then you provided here,
+it would be your guys.
+
+425
+00:27:10,320 --> 00:27:11,640
+What was the fourth thing?
+
+426
+00:27:11,640 --> 00:27:13,920
+First name, last name, middle name.
+
+427
+00:27:13,920 --> 00:27:14,880
+And then
+
+428
+00:27:19,400 --> 00:27:20,480
+gender.
+
+429
+00:27:20,480 --> 00:27:22,920
+What what would happen
+if I did not work here?
+
+430
+00:27:23,120 --> 00:27:35,280
+Then what would happen?
+
+431
+00:27:35,280 --> 00:27:36,600
+Not for any database.
+
+432
+00:27:36,600 --> 00:27:39,800
+Not one of the data will come,
+but it will hand it right.
+
+433
+00:27:40,200 --> 00:27:43,400
+Your gender will be handling
+your date of birth,
+
+434
+00:27:43,600 --> 00:27:45,920
+or your date of birth
+will be handled in your gender. One
+
+435
+00:27:47,240 --> 00:27:47,840
+Right
+
+436
+00:27:48,600 --> 00:27:51,720
+How Arguments Spouse Goes
+The first argument will take
+
+437
+00:27:51,720 --> 00:27:55,680
+which value the first argument first name,
+which venue?
+
+438
+00:27:55,680 --> 00:28:01,920
+First venue second
+which venue would we take? Lugo
+
+439
+00:28:03,120 --> 00:28:06,800
+This argument we take
+which will do first venue.
+
+440
+00:28:07,200 --> 00:28:10,120
+So if you provide the male here,
+if you provide gender here,
+
+441
+00:28:10,200 --> 00:28:11,880
+then what would happen?
+
+442
+00:28:12,480 --> 00:28:16,160
+Then your gender become like.
+
+443
+00:28:16,160 --> 00:28:18,720
+If you provide data, what then?
+
+444
+00:28:18,720 --> 00:28:19,560
+What would happen?
+
+445
+00:28:19,560 --> 00:28:22,440
+You don't want to become venues, right?
+
+446
+00:28:22,520 --> 00:28:25,680
+So please take care of this part
+
+447
+00:28:27,200 --> 00:28:28,200
+after gender.
+
+448
+00:28:28,200 --> 00:28:32,520
+That is next thing would be have to
+provide is E and B underscore
+
+449
+00:28:33,720 --> 00:28:36,360
+would be in there scalability
+
+450
+00:28:36,960 --> 00:28:39,280
+and then we need e and be underscore
+
+451
+00:28:39,640 --> 00:28:44,440
+and next thing is status
+which is status jobs to this correct.
+
+452
+00:28:44,440 --> 00:28:45,040
+Okay.
+
+453
+00:28:45,360 --> 00:28:48,280
+Let me split it.
+
+454
+00:28:48,280 --> 00:28:49,720
+Explore this part. Also
+
+455
+00:28:51,160 --> 00:28:54,840
+let this part also.
+
+456
+00:28:55,280 --> 00:28:57,560
+So next thing is E and B
+
+457
+00:28:57,840 --> 00:29:00,080
+underscore we need is
+
+458
+00:29:01,200 --> 00:29:02,440
+the job
+
+459
+00:29:03,520 --> 00:29:05,560
+guys see I'm handling all seven
+
+460
+00:29:05,560 --> 00:29:09,520
+you all 17 correct.
+
+461
+00:29:09,520 --> 00:29:10,880
+Correct case
+
+462
+00:29:12,760 --> 00:29:14,480
+I'm handling all those.
+
+463
+00:29:14,480 --> 00:29:19,000
+So now now in the multi in the body
+how I'm going to write this
+
+464
+00:29:19,880 --> 00:29:22,200
+that is very important in the body first
+
+465
+00:29:22,600 --> 00:29:24,800
+first
+we have to make a method for this right.
+
+466
+00:29:25,200 --> 00:29:29,080
+So how we make a method for this part,
+that's what we need to understand.
+
+467
+00:29:29,640 --> 00:29:30,640
+Let's go to the body.
+
+468
+00:29:30,640 --> 00:29:33,840
+It is the body API payload
+
+469
+00:29:34,080 --> 00:29:38,240
+constants are two bodies
+we have already created.
+
+470
+00:29:38,240 --> 00:29:39,600
+Initialize
+
+471
+00:29:43,000 --> 00:29:46,680
+to what is we have already created.
+
+472
+00:29:47,280 --> 00:29:50,000
+After this I'm creating yet another part
+
+473
+00:29:50,120 --> 00:29:52,080
+I'm seeing this
+
+474
+00:29:54,120 --> 00:29:55,240
+public
+
+475
+00:29:56,720 --> 00:29:59,280
+static which returns this spring.
+
+476
+00:30:00,000 --> 00:30:01,200
+It is a b load
+
+477
+00:30:02,520 --> 00:30:07,560
+more than me, b load more dynamic.
+
+478
+00:30:07,880 --> 00:30:10,320
+But here here what I'm going to do see
+
+479
+00:30:10,920 --> 00:30:13,600
+using the same JSON object,
+
+480
+00:30:13,600 --> 00:30:17,280
+using the same this an object you see
+
+481
+00:30:17,280 --> 00:30:19,440
+the same JSON object I'm using here,
+
+482
+00:30:20,680 --> 00:30:25,320
+but but I am parsing the string,
+the parameters
+
+483
+00:30:25,720 --> 00:30:28,440
+so the string should be mine and beat
+
+484
+00:30:28,440 --> 00:30:31,440
+underscored was.
+
+485
+00:30:31,440 --> 00:30:33,960
+And this part, this part
+
+486
+00:30:34,640 --> 00:30:38,400
+I'm going to pass.
+
+487
+00:30:38,400 --> 00:30:43,760
+It makes sense.
+
+488
+00:30:43,760 --> 00:30:44,640
+Makes sense. Guys.
+
+489
+00:30:44,640 --> 00:30:48,800
+What I'm doing.
+
+490
+00:30:48,800 --> 00:30:51,360
+Guys make sense what I'm doing.
+
+491
+00:30:52,200 --> 00:30:55,120
+So now let me quickly copy this
+things from here.
+
+492
+00:30:55,120 --> 00:30:55,960
+First
+
+493
+00:31:00,760 --> 00:31:49,240
+is to give,
+
+494
+00:31:49,240 --> 00:31:50,080
+finalize
+
+495
+00:31:53,760 --> 00:31:56,920
+C status with status Job
+title will go in the job
+
+496
+00:31:56,920 --> 00:32:00,600
+title, gender will go into gender mode,
+they will go into body.
+
+497
+00:32:00,760 --> 00:32:05,240
+So everything I detail what we are
+passing from a feature
+
+498
+00:32:05,240 --> 00:32:09,520
+by the same detail
+should be filled in this particular part.
+
+499
+00:32:10,960 --> 00:32:13,480
+This students
+should be free in this particular part.
+
+500
+00:32:13,640 --> 00:32:19,920
+Right.
+
+501
+00:32:19,920 --> 00:32:20,160
+Right.
+
+502
+00:32:20,160 --> 00:32:20,880
+Based
+
+503
+00:32:26,040 --> 00:32:26,680
+point.
+
+504
+00:32:27,120 --> 00:32:29,760
+Now I will go in my workflow steps
+
+505
+00:32:30,000 --> 00:32:32,560
+where
+I have to write this particular steps
+
+506
+00:32:32,840 --> 00:32:36,240
+so guys see how to prepare the request
+for creating the employed.
+
+507
+00:32:36,320 --> 00:32:39,680
+Simple request is equals to
+
+508
+00:32:41,200 --> 00:32:43,200
+given days.
+
+509
+00:32:43,200 --> 00:32:46,720
+What is the next thing you have to write
+given now without looking at the code?
+
+510
+00:32:46,720 --> 00:32:52,480
+Tell me, given that.
+
+511
+00:32:52,480 --> 00:32:54,000
+Come on, stop writing.
+
+512
+00:32:54,000 --> 00:32:54,720
+Tell me now. Here.
+
+513
+00:32:54,720 --> 00:32:57,720
+First we are going to make the request
+
+514
+00:32:58,800 --> 00:32:59,440
+title,
+
+515
+00:33:01,960 --> 00:33:03,960
+which I get
+
+516
+00:33:06,600 --> 00:33:08,640
+first, which ends
+
+517
+00:33:11,160 --> 00:33:14,160
+PPA constants Dark
+
+518
+00:33:15,360 --> 00:33:16,280
+Radar
+
+519
+00:33:19,440 --> 00:33:23,400
+on the date
+and the value is also from API.
+
+520
+00:33:23,400 --> 00:33:26,000
+Constants don't contain the
+
+521
+00:33:27,400 --> 00:33:30,160
+not another header
+
+522
+00:33:33,720 --> 00:33:36,960
+API constants don't
+
+523
+00:33:38,840 --> 00:33:42,240
+for authorization comma value
+
+524
+00:33:44,400 --> 00:33:48,160
+values coming from my token
+
+525
+00:33:58,600 --> 00:34:01,360
+not grace.
+
+526
+00:34:01,440 --> 00:34:10,360
+What is the next thing?
+
+527
+00:34:10,360 --> 00:34:11,640
+Not that body that is
+
+528
+00:34:14,240 --> 00:34:14,720
+right.
+
+529
+00:34:14,720 --> 00:34:17,360
+Next thing is body.
+
+530
+00:34:17,360 --> 00:34:19,440
+So now now in body.
+
+531
+00:34:19,440 --> 00:34:23,920
+This time
+I will call an API below to consider.
+
+532
+00:34:23,920 --> 00:34:28,400
+It's not which body below
+the more dynamic see
+
+533
+00:34:29,360 --> 00:34:31,440
+it is asking to pass.
+
+534
+00:34:31,640 --> 00:34:34,640
+It is asking to pass all with a string one
+by one.
+
+535
+00:34:34,640 --> 00:34:37,360
+Correct? Correct.
+
+536
+00:34:37,360 --> 00:34:38,720
+All the data.
+
+537
+00:34:38,720 --> 00:34:42,280
+So fine
+column was basically and B hostname
+
+538
+00:34:43,560 --> 00:34:45,680
+comma and B
+
+539
+00:34:46,440 --> 00:34:49,440
+last name comma MP.
+
+540
+00:34:50,400 --> 00:34:54,880
+Now MP
+
+541
+00:34:55,080 --> 00:34:58,320
+after first name, last name, middle name.
+
+542
+00:34:58,320 --> 00:34:59,760
+Then we need
+
+543
+00:35:00,520 --> 00:35:01,600
+gender
+
+544
+00:35:02,240 --> 00:35:05,120
+mark after gender, we need the MP
+
+545
+00:35:05,760 --> 00:35:08,240
+body Gomer.
+
+546
+00:35:08,240 --> 00:35:10,680
+Then we need MP
+
+547
+00:35:10,680 --> 00:35:13,640
+status comma,
+
+548
+00:35:13,640 --> 00:35:15,840
+then we need MP operator.
+
+549
+00:35:16,640 --> 00:35:19,800
+Right. And
+
+550
+00:35:22,200 --> 00:35:23,440
+let's see how many.
+
+551
+00:35:23,440 --> 00:35:26,800
+One, two, three, four, five, six,
+seven, three.
+
+552
+00:35:27,280 --> 00:35:35,240
+One, two, three, four, five, six, seven.
+
+553
+00:35:35,240 --> 00:35:35,600
+So far.
+
+554
+00:35:35,600 --> 00:35:53,520
+So what do we want?
+
+555
+00:35:53,520 --> 00:35:56,600
+And then just on the part again,
+same verification, validation,
+
+556
+00:35:56,760 --> 00:35:58,240
+everything we can write here.
+
+557
+00:35:58,240 --> 00:35:59,280
+But right now
+
+558
+00:35:59,280 --> 00:36:03,680
+I'm going to show you just simple
+this request how request is coming, right?
+
+559
+00:36:03,920 --> 00:36:05,080
+So the request, whatever
+
+560
+00:36:05,080 --> 00:36:09,160
+the request will be right,
+or even if you want to see response.
+
+561
+00:36:09,160 --> 00:36:13,800
+Also no issues
+simply write response is equals to
+
+562
+00:36:15,200 --> 00:36:17,000
+request or
+
+563
+00:36:17,000 --> 00:36:22,880
+when door.
+
+564
+00:36:22,880 --> 00:36:26,760
+The data that we provided in beta file
+protected was just
+
+565
+00:36:27,360 --> 00:36:31,200
+the name of the state. Oh.
+
+566
+00:36:32,760 --> 00:36:40,880
+Which when you're talking
+I didn't get that.
+
+567
+00:36:40,880 --> 00:36:44,800
+This is
+this is the method name inside method.
+
+568
+00:36:44,800 --> 00:36:48,000
+We used to use an object
+India some object.
+
+569
+00:36:48,680 --> 00:36:53,120
+We are providing the key and the value
+we're passing in the value
+
+570
+00:36:53,120 --> 00:36:56,160
+we are passing from this particular part
+on right
+
+571
+00:37:02,280 --> 00:37:03,240
+already.
+
+572
+00:37:03,240 --> 00:37:06,880
+And then simply,
+once we get this data from here,
+
+573
+00:37:07,360 --> 00:37:11,080
+we can simply verify
+based on the values like this
+
+574
+00:37:12,800 --> 00:37:13,080
+being.
+
+575
+00:37:13,080 --> 00:37:16,560
+Can someone be sure this method
+
+576
+00:37:18,520 --> 00:37:19,680
+let's can
+
+577
+00:37:19,680 --> 00:37:23,000
+someone please share this particular
+method
+
+578
+00:37:28,440 --> 00:37:37,960
+with an X?
+
+579
+00:37:37,960 --> 00:37:50,280
+So you guys in this part,
+is there anyone who has any question
+
+580
+00:37:50,520 --> 00:37:53,400
+in this particular part
+how we made this law?
+
+581
+00:37:53,400 --> 00:37:55,880
+The more dynamic any question in this
+
+582
+00:38:12,160 --> 00:38:13,200
+is a we want done with
+
+583
+00:38:13,200 --> 00:38:35,280
+writing this particular part, like
+
+584
+00:38:36,320 --> 00:38:38,480
+should we execute this? Not
+
+585
+00:38:43,640 --> 00:38:45,600
+perfect.
+
+586
+00:38:45,600 --> 00:38:49,320
+It's going to be at an edge.
+
+587
+00:38:49,320 --> 00:39:22,480
+This is fine.
+
+588
+00:39:22,480 --> 00:39:27,560
+Finally, one,
+
+589
+00:39:27,560 --> 00:39:31,040
+if you want to see what is the response
+we got right.
+
+590
+00:39:31,440 --> 00:39:33,200
+So no shoes
+
+591
+00:39:33,800 --> 00:39:36,240
+will go here, right?
+
+592
+00:39:36,240 --> 00:39:39,640
+Well, making the post code go inside this
+
+593
+00:39:40,280 --> 00:39:44,080
+and simply
+we will write here responds door
+
+594
+00:39:45,720 --> 00:39:47,000
+to print.
+
+595
+00:39:47,280 --> 00:39:49,440
+So pretty print will always will
+
+596
+00:39:49,440 --> 00:39:52,480
+always print
+
+597
+00:39:52,960 --> 00:39:54,720
+a value which we are looking forward to.
+
+598
+00:39:54,720 --> 00:39:57,120
+Mine says 200.
+
+599
+00:39:57,120 --> 00:39:58,080
+Okay.
+
+600
+00:39:58,520 --> 00:40:00,800
+In which point you're making us check that
+
+601
+00:40:04,840 --> 00:40:05,680
+nasty case.
+
+602
+00:40:05,680 --> 00:40:09,600
+Is this the value we provided
+then is Mike So again
+
+603
+00:40:10,000 --> 00:40:13,680
+the similar to work and employed
+job better and status?
+
+604
+00:40:15,360 --> 00:40:16,040
+Is this the same?
+
+605
+00:40:16,040 --> 00:40:19,760
+We provided another feature find correct
+so it means correctly the
+
+606
+00:40:19,800 --> 00:40:20,760
+days passing this
+
+607
+00:40:21,840 --> 00:40:22,440
+right.
+
+608
+00:40:22,440 --> 00:40:25,560
+It is taking their data
+from our feature file.
+
+609
+00:40:26,040 --> 00:40:29,240
+In another scenario
+it is taking the data from what?
+
+610
+00:40:29,320 --> 00:40:30,400
+Just an object.
+
+611
+00:40:30,400 --> 00:40:33,120
+In one more scenario,
+it was taking the data
+
+612
+00:40:33,120 --> 00:40:36,800
+from our normal data table
+and in for the scenario,
+
+613
+00:40:36,800 --> 00:40:40,800
+it was taking the data
+from normal method in extreme point.
+
+614
+00:40:41,280 --> 00:40:44,880
+So we have seen for
+we is now trying to create the employs
+
+615
+00:40:45,160 --> 00:40:47,720
+the same way you can get the employee,
+retrieve the employer,
+
+616
+00:40:47,760 --> 00:40:50,120
+you can do
+whatever you want to do, right? Correct.
+
+617
+00:40:50,400 --> 00:40:54,360
+So now just just want to show you
+one small scenario here. Now,
+
+618
+00:40:55,720 --> 00:40:58,120
+another scenario really is one
+very simple one.
+
+619
+00:40:58,120 --> 00:40:59,440
+I'm going to show you
+
+620
+00:41:15,440 --> 00:41:17,040
+three different in a post code, right?
+
+621
+00:41:17,040 --> 00:41:17,880
+Yes. Yes.
+
+622
+00:41:17,880 --> 00:41:23,080
+Because in most call after hitting the end
+point, we are getting the response.
+
+623
+00:41:23,080 --> 00:41:26,560
+Some pretty prints, implements
+receiving the response.
+
+624
+00:41:26,760 --> 00:41:29,880
+So after hitting the point
+of leaving the post code,
+
+625
+00:41:29,880 --> 00:41:35,240
+we can get the response the moment we got
+the response was to detect the student
+
+626
+00:41:40,720 --> 00:41:41,600
+the least understood
+
+627
+00:41:41,600 --> 00:41:50,720
+this point.
+
+628
+00:41:50,720 --> 00:41:57,360
+Now let me ask one thing next.
+
+629
+00:41:57,360 --> 00:42:00,000
+Creating the employee
+
+630
+00:42:00,840 --> 00:42:03,080
+and updating the employee.
+
+631
+00:42:03,080 --> 00:42:05,680
+So these are same scenarios
+
+632
+00:42:05,680 --> 00:42:11,640
+or different scenarios.
+
+633
+00:42:11,640 --> 00:42:15,840
+Different scenarios might be possible
+that I'm generating the employee.
+
+634
+00:42:15,840 --> 00:42:20,000
+A new embroidery is fine, but it struck
+When you do that, I have to update
+
+635
+00:42:20,000 --> 00:42:23,800
+the details of this only employee
+which I just generated or created.
+
+636
+00:42:24,400 --> 00:42:26,600
+Grade might be possible.
+
+637
+00:42:26,720 --> 00:42:29,800
+I have two of the details of the employee.
+
+638
+00:42:29,800 --> 00:42:30,480
+Great.
+
+639
+00:42:30,560 --> 00:42:31,800
+Which is something else.
+
+640
+00:42:31,800 --> 00:42:34,360
+Simply to update the details.
+
+641
+00:42:34,360 --> 00:42:37,840
+We have to rely on one
+specific information right.
+
+642
+00:42:37,840 --> 00:42:40,440
+And that information is unique, correct?
+
+643
+00:42:40,440 --> 00:42:43,560
+So we have to parse that information
+like this one
+
+644
+00:42:43,560 --> 00:42:46,520
+example my employ 80.
+
+645
+00:42:47,040 --> 00:42:49,800
+So when we pass the employer,
+we pass this data.
+
+646
+00:42:50,680 --> 00:42:51,760
+Where we pass this data
+
+647
+00:42:54,840 --> 00:42:55,680
+in order to
+
+648
+00:42:55,680 --> 00:42:59,360
+update the information
+we have seen trigger document.
+
+649
+00:42:59,560 --> 00:43:03,200
+So the document sees
+you have to pass this data.
+
+650
+00:43:03,200 --> 00:43:03,720
+We're
+
+651
+00:43:11,240 --> 00:43:13,440
+in method No, Alex, the initial
+
+652
+00:43:15,400 --> 00:43:20,080
+yes in body of the bus
+just to see this document.
+
+653
+00:43:20,560 --> 00:43:20,880
+Right.
+
+654
+00:43:20,880 --> 00:43:24,840
+And inspect the document,
+you would find a difference in the body,
+
+655
+00:43:24,840 --> 00:43:28,560
+a difference in the body of the employee
+
+656
+00:43:28,880 --> 00:43:31,560
+and all of the employee.
+
+657
+00:43:31,560 --> 00:43:32,840
+What is the difference?
+
+658
+00:43:32,840 --> 00:43:35,960
+Their difference is in one body, employee
+
+659
+00:43:36,120 --> 00:43:39,360
+ID is mandatory.
+
+660
+00:43:39,360 --> 00:43:40,920
+Employee 80 is mandatory.
+
+661
+00:43:40,920 --> 00:43:45,960
+Interpreting the correct.
+
+662
+00:43:45,960 --> 00:43:48,200
+So now, now let's do this.
+
+663
+00:43:48,640 --> 00:44:01,480
+Okay, let's do this first.
+
+664
+00:44:01,480 --> 00:44:04,600
+So now you sent me
+
+665
+00:44:05,000 --> 00:44:05,720
+here.
+
+666
+00:44:06,040 --> 00:44:08,920
+Oh, come on, keep.
+
+667
+00:44:08,920 --> 00:44:13,800
+Recently
+we created one particular employee here.
+
+668
+00:44:13,840 --> 00:44:16,320
+See, this is the employer. But is that.
+
+669
+00:44:16,920 --> 00:44:19,400
+This is the employer? Correct?
+
+670
+00:44:19,400 --> 00:44:20,280
+It's. Copy this.
+
+671
+00:44:20,280 --> 00:44:22,440
+And can you show your API constant?
+
+672
+00:44:22,880 --> 00:44:23,840
+Sure, Why not?
+
+673
+00:44:25,160 --> 00:44:25,800
+This is my
+
+674
+00:44:25,800 --> 00:44:39,400
+API Constants.
+
+675
+00:44:39,400 --> 00:44:41,200
+EPA payroll constant.
+
+676
+00:44:41,200 --> 00:44:42,480
+Fine. So
+
+677
+00:45:27,800 --> 00:45:28,840
+shall we proceed further?
+
+678
+00:45:28,840 --> 00:45:33,600
+And this.
+
+679
+00:45:33,600 --> 00:45:34,760
+So first.
+
+680
+00:45:34,760 --> 00:45:38,560
+First, let's make the body right
+for updating the employee.
+
+681
+00:45:38,880 --> 00:45:41,360
+Let's make the body
+for updating the employee.
+
+682
+00:45:41,360 --> 00:45:45,640
+If we put it here,
+this and I'm going to use
+
+683
+00:45:45,640 --> 00:45:48,440
+I'm going to use this same object here.
+
+684
+00:45:49,120 --> 00:45:51,280
+I'm saying here
+
+685
+00:45:53,760 --> 00:45:55,320
+update
+
+686
+00:45:55,840 --> 00:46:01,240
+employee body cutting,
+update employee body.
+
+687
+00:46:01,240 --> 00:46:01,600
+Right.
+
+688
+00:46:01,600 --> 00:46:06,040
+And this part, this part
+I'm not going to use from here. See?
+
+689
+00:46:07,400 --> 00:46:09,080
+Audience would
+
+690
+00:46:17,320 --> 00:46:17,800
+right
+
+691
+00:46:18,280 --> 00:46:20,400
+now, guys, what is the difference here?
+
+692
+00:46:20,880 --> 00:46:24,680
+The one thing I have to add,
+which is a part of my body,
+
+693
+00:46:25,200 --> 00:46:28,080
+which is a mandatory part of my body,
+I should see is
+
+694
+00:46:30,680 --> 00:46:33,000
+raised and me, what is the mandatory part?
+
+695
+00:46:33,000 --> 00:46:35,760
+One more thing is here in this body,
+we have to change one thing.
+
+696
+00:46:35,760 --> 00:46:40,720
+What is that?
+
+697
+00:46:40,720 --> 00:46:47,600
+What happened to this?
+
+698
+00:46:47,600 --> 00:46:49,720
+What is my consumables
+
+699
+00:47:28,240 --> 00:47:29,640
+output
+
+700
+00:47:33,480 --> 00:47:34,080
+file?
+
+701
+00:47:34,680 --> 00:47:35,720
+So not Friday.
+
+702
+00:47:35,720 --> 00:47:38,560
+All we did not put This should be my
+
+703
+00:47:43,480 --> 00:47:45,600
+employee I.D.
+
+704
+00:47:46,280 --> 00:47:47,280
+karma.
+
+705
+00:47:47,720 --> 00:47:50,400
+This should be my value.
+
+706
+00:47:50,400 --> 00:47:54,000
+Correct? Is this correct?
+
+707
+00:47:54,000 --> 00:47:58,440
+Okay, so I'm going to update my value
+against this particular user.
+
+708
+00:47:58,800 --> 00:48:01,560
+Is this one is this one Fine.
+
+709
+00:48:02,000 --> 00:48:04,120
+So now let's write one scenario.
+
+710
+00:48:05,040 --> 00:48:07,000
+My body is ready now, right?
+
+711
+00:48:07,000 --> 00:48:10,560
+This body is for updating the employee
+with the body details.
+
+712
+00:48:11,000 --> 00:48:16,000
+So to specify one particular information,
+one particular entry.
+
+713
+00:48:16,000 --> 00:48:16,360
+Right.
+
+714
+00:48:16,360 --> 00:48:20,760
+We have to use this particular part.
+
+715
+00:48:20,760 --> 00:48:25,920
+So let's go ahead and do it now.
+
+716
+00:48:26,280 --> 00:48:31,760
+So here I'm going to go and write
+another scenario.
+
+717
+00:48:31,760 --> 00:48:33,960
+My system basically needs restart.
+
+718
+00:48:34,800 --> 00:48:38,320
+Now you can see 19 date is working.
+
+719
+00:48:38,720 --> 00:48:44,320
+The idea is running on low memory.
+
+720
+00:48:44,320 --> 00:48:46,000
+I need to close something up.
+
+721
+00:48:46,000 --> 00:49:09,120
+Let me close this part.
+
+722
+00:49:09,120 --> 00:49:09,520
+Okay.
+
+723
+00:49:09,520 --> 00:49:13,000
+I'm feeling okay.
+
+724
+00:49:13,000 --> 00:49:13,440
+Fine.
+
+725
+00:49:13,440 --> 00:49:17,560
+So now, after this, after this, I'm
+going to write another scenario.
+
+726
+00:49:17,600 --> 00:49:18,200
+Giving
+
+727
+00:49:19,200 --> 00:49:21,160
+scenario is
+
+728
+00:49:21,560 --> 00:49:24,120
+a updating the employee
+
+729
+00:49:25,400 --> 00:49:26,280
+saying
+
+730
+00:49:29,480 --> 00:49:30,160
+write
+
+731
+00:49:31,280 --> 00:49:32,280
+my case.
+
+732
+00:49:32,280 --> 00:49:34,080
+So I'm going to a given.
+
+733
+00:49:34,080 --> 00:49:36,680
+Given a request is
+
+734
+00:49:39,960 --> 00:49:43,720
+for updating the
+
+735
+00:49:44,800 --> 00:49:46,360
+existing
+
+736
+00:49:47,480 --> 00:49:48,800
+details.
+
+737
+00:49:49,440 --> 00:49:50,640
+So then
+
+738
+00:49:52,680 --> 00:49:55,360
+call is made
+
+739
+00:49:55,800 --> 00:49:59,040
+to the employee.
+
+740
+00:49:59,880 --> 00:50:02,040
+Then what would happen is
+
+741
+00:50:03,520 --> 00:50:05,040
+there's what should be the status called
+
+742
+00:50:05,040 --> 00:50:13,080
+I should get from here.
+
+743
+00:50:13,080 --> 00:50:15,560
+Update the employee.
+
+744
+00:50:15,720 --> 00:50:20,240
+Then the status would for
+
+745
+00:50:21,880 --> 00:50:24,040
+you being an
+
+746
+00:50:25,360 --> 00:50:28,200
+should be 200
+
+747
+00:50:29,520 --> 00:50:31,120
+200. Right.
+
+748
+00:50:31,760 --> 00:50:33,800
+So now let me right here.
+
+749
+00:50:33,840 --> 00:50:35,560
+It says
+
+750
+00:50:36,400 --> 00:50:38,880
+update employee
+
+751
+00:50:38,880 --> 00:50:41,480
+it's take this part going to render
+
+752
+00:50:42,840 --> 00:50:45,560
+provide this here
+
+753
+00:50:46,000 --> 00:50:50,280
+is equals to date okay
+
+754
+00:51:14,880 --> 00:51:17,480
+my typing must be
+
+755
+00:51:39,600 --> 00:51:42,920
+right and right
+
+756
+00:51:44,200 --> 00:52:06,480
+my next bullet complete this to everyone
+and everyone completes.
+
+757
+00:52:06,480 --> 00:52:07,560
+Then once
+
+758
+00:52:23,200 --> 00:52:25,720
+for to start morning.
+
+759
+00:52:25,720 --> 00:52:26,280
+It's evening.
+
+760
+00:52:26,280 --> 00:52:31,080
+Getting a DNA in the morning.
+
+761
+00:52:31,080 --> 00:52:34,760
+They don't come here in the evening
+like it's already 930 by night,
+
+762
+00:52:34,760 --> 00:52:35,520
+not even evening.
+
+763
+00:52:35,520 --> 00:52:37,440
+So they come like 7 a.m.
+
+764
+00:52:37,440 --> 00:52:38,760
+in the morning, 7:30 a.m.
+
+765
+00:52:38,760 --> 00:52:42,240
+in the morning.
+
+766
+00:52:42,240 --> 00:52:43,840
+That's when these are times that
+
+767
+00:52:44,880 --> 00:52:48,520
+daylight saving is over. But
+
+768
+00:52:51,400 --> 00:52:54,200
+if big if become twice,
+
+769
+00:52:54,200 --> 00:52:58,760
+it means someone is in trouble
+because they never double check.
+
+770
+00:52:58,760 --> 00:53:02,040
+And if they're double checking,
+it means they're going to get someone
+
+771
+00:53:02,040 --> 00:53:09,840
+put into the hospital.
+
+772
+00:53:09,840 --> 00:53:12,920
+Days delayed saving
+say gains are being modified
+
+773
+00:53:12,920 --> 00:53:14,000
+really great
+
+774
+00:53:18,840 --> 00:53:22,040
+in March 2nd week first week global
+
+775
+00:53:25,200 --> 00:53:26,640
+it's 13th
+
+776
+00:53:26,640 --> 00:53:28,720
+13th of March golfing.
+
+777
+00:53:30,240 --> 00:53:32,120
+Yes I can work off my trade bill
+
+778
+00:53:32,120 --> 00:53:45,120
+second week of November current.
+
+779
+00:53:45,120 --> 00:53:48,920
+We don't even we don't have delayed saving
+but we have to adjust our timings rate
+
+780
+00:53:48,960 --> 00:53:50,160
+according to the US. Timing.
+
+781
+00:53:50,160 --> 00:53:52,440
+Next I'm asking.
+
+782
+00:53:52,440 --> 00:53:54,800
+Currently
+I'm taking session from 5:30 a.m.
+
+783
+00:53:54,840 --> 00:53:56,800
+in the morning after daylight saving.
+
+784
+00:53:56,800 --> 00:53:59,080
+I could make the shift from fourth
+b m in the morning.
+
+785
+00:53:59,640 --> 00:54:00,640
+Sketty
+
+786
+00:54:02,880 --> 00:54:03,440
+next weekend.
+
+787
+00:54:03,440 --> 00:54:04,360
+We don't have plans, right?
+
+788
+00:54:04,360 --> 00:54:07,200
+I don't know. That's
+but I really don't know Even better.
+
+789
+00:54:08,440 --> 00:54:11,920
+It started better, to be honest.
+
+790
+00:54:11,920 --> 00:54:17,720
+All people have, but.
+
+791
+00:54:18,240 --> 00:54:19,520
+All right, fine.
+
+792
+00:54:19,520 --> 00:54:23,040
+So let's execute this part.
+
+793
+00:54:23,040 --> 00:54:25,680
+Let's execute this part
+
+794
+00:54:25,720 --> 00:54:28,280
+and someone share the upgrade
+employee body method.
+
+795
+00:54:28,960 --> 00:54:31,480
+Jimmy, you see here
+
+796
+00:54:31,480 --> 00:54:32,040
+you can, right?
+
+797
+00:54:32,040 --> 00:54:34,320
+You know, just I'm giving you by
+you can read
+
+798
+00:55:18,400 --> 00:55:20,480
+done fine.
+
+799
+00:55:20,480 --> 00:55:22,880
+It's good to pay at any cost.
+
+800
+00:55:23,120 --> 00:55:25,520
+Generate the steps
+
+801
+00:55:37,960 --> 00:55:39,680
+we go to this three steps.
+
+802
+00:55:39,680 --> 00:55:41,120
+Copy this
+
+803
+00:55:44,200 --> 00:55:46,480
+going to API workflow steps
+
+804
+00:55:48,280 --> 00:55:51,360
+here after this part
+
+805
+00:55:56,040 --> 00:55:58,520
+I'm going to write this three steps on.
+
+806
+00:55:58,520 --> 00:55:59,160
+Fine.
+
+807
+00:55:59,840 --> 00:56:01,920
+So now to prepare request.
+
+808
+00:56:01,920 --> 00:56:05,040
+First, today's fundamental reason
+for preparing the request
+
+809
+00:56:05,040 --> 00:56:06,480
+or it is different
+
+810
+00:56:09,120 --> 00:56:11,520
+reason for automate for preparing
+
+811
+00:56:11,520 --> 00:56:14,680
+the request would be similar Mark
+because because you are is equal to Ms.
+
+812
+00:56:14,680 --> 00:56:16,800
+you are in. So it would be seen
+
+813
+00:56:16,800 --> 00:56:20,880
+not only thing, the only thing
+we would be changing here is
+
+814
+00:56:21,880 --> 00:56:23,960
+I'm going to write read
+
+815
+00:56:25,480 --> 00:56:28,880
+something to find.
+
+816
+00:56:28,880 --> 00:56:31,840
+The only thing I'm going to write
+is in body.
+
+817
+00:56:32,880 --> 00:56:35,880
+I'm going to provide API below
+
+818
+00:56:36,280 --> 00:56:38,840
+the constant start of employment
+
+819
+00:56:40,680 --> 00:56:42,960
+of employee body.
+
+820
+00:56:42,960 --> 00:56:46,920
+This is the only thing I change
+the method, otherwise the rest all are.
+
+821
+00:56:46,920 --> 00:56:48,440
+The things are same here.
+
+822
+00:56:48,440 --> 00:56:52,960
+If you see the all are that
+these are see if you see this
+
+823
+00:56:53,400 --> 00:56:54,720
+clearly one
+
+824
+00:57:04,080 --> 00:57:05,760
+Now here I'm going to write
+
+825
+00:57:05,760 --> 00:57:09,720
+this particular write response I need.
+
+826
+00:57:10,080 --> 00:57:15,400
+So for response I have to write a request
+for hitting the end point.
+
+827
+00:57:15,400 --> 00:57:17,280
+Which keyword this
+
+828
+00:57:18,680 --> 00:57:20,400
+or hitting the end point
+
+829
+00:57:20,400 --> 00:57:26,560
+which keyword know
+
+830
+00:57:27,880 --> 00:57:31,000
+yes when
+
+831
+00:57:31,000 --> 00:57:34,240
+bent to perform action
+in order to pick the end point.
+
+832
+00:57:34,640 --> 00:57:35,360
+No rejection.
+
+833
+00:57:35,360 --> 00:57:40,920
+We are going to provide date, get
+
+834
+00:57:42,720 --> 00:57:45,680
+to update the employ we need put
+
+835
+00:57:48,240 --> 00:57:49,000
+we need input.
+
+836
+00:57:49,000 --> 00:57:51,760
+And here I'm going to write from API.
+
+837
+00:57:52,280 --> 00:57:57,240
+Constance dog of date employee you want to
+
+838
+00:57:58,800 --> 00:58:02,720
+update employee you are.
+
+839
+00:58:02,720 --> 00:58:12,720
+Is this correct?
+
+840
+00:58:12,720 --> 00:58:16,200
+So now from the response from the response
+
+841
+00:58:16,200 --> 00:58:19,160
+which I'm getting, I'm
+going to perform verification.
+
+842
+00:58:19,440 --> 00:58:21,840
+So for verification,
+which we're going to use,
+
+843
+00:58:23,400 --> 00:58:26,360
+then start a circuit
+
+844
+00:58:26,760 --> 00:58:30,920
+board status, put on 200
+
+845
+00:58:32,520 --> 00:58:37,320
+clear, always,
+
+846
+00:58:38,440 --> 00:58:42,440
+always done is always
+because I used to ask them questions
+
+847
+00:58:42,440 --> 00:58:45,920
+when I was in college,
+even in my organization.
+
+848
+00:58:45,920 --> 00:58:49,440
+Also, I used to ask questions like day
+
+849
+00:58:51,000 --> 00:58:53,640
+in music, the response is equal to return.
+
+850
+00:58:53,840 --> 00:58:57,160
+Yes, you can call this
+because this is just a variable name rate.
+
+851
+00:58:57,160 --> 00:59:00,320
+You can provide variable
+anything but that.
+
+852
+00:59:00,320 --> 00:59:03,040
+The response with the computer,
+all you provide should be positive.
+
+853
+00:59:03,280 --> 00:59:05,400
+But for this to
+the supporting student is to
+
+854
+00:59:08,000 --> 00:59:09,960
+sorry my rate
+
+855
+00:59:11,240 --> 00:59:12,080
+by now
+
+856
+00:59:12,080 --> 00:59:15,120
+because we have already passed it
+in each of my
+
+857
+00:59:16,320 --> 00:59:17,600
+actions. Similar.
+
+858
+00:59:17,600 --> 00:59:19,600
+Yeah, action would be similar.
+
+859
+00:59:19,600 --> 00:59:24,160
+Action is similar.
+
+860
+00:59:24,160 --> 00:59:24,680
+Fine.
+
+861
+00:59:25,600 --> 00:59:26,320
+Okay. So far.
+
+862
+00:59:26,320 --> 00:59:28,600
+So what these three methods,
+
+863
+00:59:29,400 --> 00:59:31,480
+these three steps clear to everyone.
+
+864
+00:59:33,240 --> 00:59:36,440
+There is nothing like rocket science,
+which we are really even.
+
+865
+00:59:36,440 --> 00:59:37,720
+I know that's the question.
+
+866
+00:59:37,720 --> 00:59:40,520
+And the operation is very small
+and very little.
+
+867
+00:59:40,520 --> 00:59:42,440
+But still I'm asking again and again.
+
+868
+00:59:42,440 --> 00:59:45,440
+I even I know what we are doing simply
+we are updating
+
+869
+00:59:45,440 --> 00:59:48,600
+one particular part
+we have to change in detail to
+
+870
+00:59:48,600 --> 00:59:51,640
+and if you want you again,
+if you don't want, don't
+
+871
+00:59:52,320 --> 00:59:55,920
+even if you do this
+right, it's not going to affect
+
+872
+00:59:56,400 --> 00:59:58,480
+because optional trait
+
+873
+00:59:59,800 --> 01:00:02,160
+fine.
+
+874
+01:00:02,160 --> 01:00:04,880
+Anyone has any confusion,
+any question in this
+
+875
+01:00:16,000 --> 01:00:18,000
+good guys should
+
+876
+01:00:18,000 --> 01:00:21,240
+we proceed further in executing
+
+877
+01:00:31,560 --> 01:00:35,120
+let's go ahead in our people and apart
+
+878
+01:00:36,120 --> 01:00:39,120
+from here, let's try it
+and then sequence to false
+
+879
+01:00:39,120 --> 01:00:57,720
+and execute this.
+
+880
+01:00:57,720 --> 01:01:00,120
+Why not now? Please ask.
+
+881
+01:01:00,120 --> 01:01:02,640
+Please ask me. You go based it executed.
+
+882
+01:01:02,880 --> 01:01:04,520
+We have updated the details.
+
+883
+01:01:04,520 --> 01:01:07,640
+The employers right
+
+884
+01:01:08,040 --> 01:01:09,080
+And this
+
+885
+01:01:10,920 --> 01:01:12,760
+now further verification
+
+886
+01:01:12,760 --> 01:01:17,640
+very different Yeah so please check
+was distracted the complete employed to
+
+887
+01:01:17,640 --> 01:01:23,120
+which employee you made If you check Asia
+in our API payroll constraints
+
+888
+01:01:23,360 --> 01:01:26,160
+we provide that specific entry in our body
+
+889
+01:01:27,320 --> 01:01:30,920
+of these check rate of in your body
+what you are working
+
+890
+01:01:30,920 --> 01:01:34,680
+because already only happen
+when you are providing wrong.
+
+891
+01:01:35,120 --> 01:01:36,960
+So please check that
+
+892
+01:01:41,600 --> 01:01:44,080
+he didn't to employees then I think
+
+893
+01:02:08,880 --> 01:02:09,840
+this by forced
+
+894
+01:02:09,840 --> 01:02:12,920
+we created the data
+and from there I provided this
+
+895
+01:02:16,160 --> 01:02:16,680
+gunning.
+
+896
+01:02:17,120 --> 01:02:20,080
+Wow got an employee to complete.
+
+897
+01:02:20,080 --> 01:02:21,040
+Could be a copy paste.
+
+898
+01:02:21,040 --> 01:02:25,000
+Edit even if it is a part that also
+it can be a past.
+
+899
+01:02:25,000 --> 01:02:27,360
+But what that opinion is,
+is waiting around.
+
+900
+01:02:27,360 --> 01:02:32,400
+But what any point or any piece you want
+or even a simple matter to click there.
+
+901
+01:02:32,400 --> 01:02:35,080
+Also.
+
+902
+01:02:35,080 --> 01:02:35,760
+All right.
+
+903
+01:02:35,760 --> 01:02:41,120
+Student So now if you see here in this API
+workflow feature, we have provided
+
+904
+01:02:41,120 --> 01:02:46,200
+updated employee passing data
+from multiple different employees, right?
+
+905
+01:02:46,200 --> 01:02:50,560
+Providing data from Jason From data table
+from normal part, right?
+
+906
+01:02:50,880 --> 01:02:53,760
+So it automatically generating same day.
+
+907
+01:02:53,760 --> 01:02:56,520
+We are getting the information,
+also retrieving the data.
+
+908
+01:02:56,960 --> 01:02:57,680
+Correct.
+
+909
+01:02:58,760 --> 01:03:00,680
+And it describes
+
+910
+01:03:01,120 --> 01:03:04,280
+it. We first commit the code
+which we have developed
+
+911
+01:03:04,360 --> 01:03:05,800
+so far
+
+912
+01:03:15,320 --> 01:03:18,240
+for handling the data dynamic exit sheet.
+
+913
+01:03:18,240 --> 01:03:20,480
+Remember,
+we already have the code for sent to me,
+
+914
+01:03:21,720 --> 01:03:23,040
+but we already have a
+
+915
+01:03:23,040 --> 01:03:27,120
+code for the exam.
+
+916
+01:03:27,120 --> 01:03:30,520
+So from there, from that particular
+method, we have to go in
+
+917
+01:03:30,520 --> 01:03:33,360
+and we have to handle the keys
+and then use right
+
+918
+01:03:38,760 --> 01:03:39,960
+is released. Yes.
+
+919
+01:03:39,960 --> 01:03:47,320
+The updated code
+has been pushed to the repository.
+
+920
+01:03:47,320 --> 01:03:50,320
+Right guys?
+
+921
+01:03:50,320 --> 01:03:52,480
+All right. So now,
+
+922
+01:03:52,880 --> 01:03:55,840
+now here, here
+
+923
+01:03:55,960 --> 01:04:00,280
+let me write that
+
+924
+01:04:04,280 --> 01:04:06,400
+and right,
+
+925
+01:04:08,080 --> 01:04:08,800
+we are done.

@@ -1,0 +1,9130 @@
+﻿1
+00:01:46,600 --> 00:01:48,640
+You hear me now?
+
+2
+00:01:49,160 --> 00:02:17,360
+I'm. Your
+
+3
+00:02:17,800 --> 00:02:21,360
+life is not working today.
+
+4
+00:02:22,000 --> 00:02:25,240
+But if I can hear you,
+
+5
+00:02:26,440 --> 00:02:27,560
+I'm doing it.
+
+6
+00:02:27,560 --> 00:02:29,240
+How are you guys?
+
+7
+00:02:29,600 --> 00:02:36,880
+Oh, look what you just.
+
+8
+00:02:36,880 --> 00:03:01,080
+Just word to leave
+
+9
+00:03:09,920 --> 00:03:11,960
+this file today.
+
+10
+00:03:12,480 --> 00:03:14,720
+I think someone's
+
+11
+00:03:16,560 --> 00:03:18,480
+loved your days
+
+12
+00:03:19,320 --> 00:03:22,240
+and their.
+
+13
+00:03:26,000 --> 00:03:28,880
+We already checked it.
+
+14
+00:03:28,880 --> 00:03:30,320
+This thing is better. From what?
+
+15
+00:03:30,320 --> 00:03:37,400
+Not as well.
+
+16
+00:03:37,400 --> 00:03:39,960
+I share some videos on.
+
+17
+00:03:39,960 --> 00:03:43,080
+On regular expressions
+
+18
+00:03:43,800 --> 00:03:46,760
+that you guys watched that video
+
+19
+00:03:50,400 --> 00:03:55,200
+in the war time.
+
+20
+00:03:55,200 --> 00:04:04,120
+Did it make sense?
+
+21
+00:04:04,120 --> 00:04:07,120
+And what about the types of variables
+
+22
+00:04:19,360 --> 00:04:20,760
+that a
+
+23
+00:04:23,760 --> 00:04:26,000
+it is stuff, right
+
+24
+00:04:27,600 --> 00:04:28,480
+now as easy
+
+25
+00:04:28,480 --> 00:04:45,800
+peasy now.
+
+26
+00:04:45,800 --> 00:04:46,520
+All right.
+
+27
+00:04:46,520 --> 00:04:50,160
+So yesterday we discussed about the Spain.
+
+28
+00:04:51,000 --> 00:04:53,360
+I just made much of the export testing.
+
+29
+00:04:54,880 --> 00:04:56,400
+It's known
+
+30
+00:05:00,360 --> 00:05:02,240
+they're importing on paper
+
+31
+00:05:02,240 --> 00:05:06,040
+to deal with.
+
+32
+00:05:06,040 --> 00:05:09,280
+It's a bit complicated
+but almost there are
+
+33
+00:05:09,280 --> 00:05:14,360
+there's just give me just 2 minutes
+and I'll be right back on.
+
+34
+00:05:14,360 --> 00:05:15,160
+Let me
+
+35
+00:05:19,560 --> 00:05:19,880
+think.
+
+36
+00:05:19,880 --> 00:05:22,640
+You'll see.
+
+37
+00:05:27,480 --> 00:05:28,720
+So let me just
+
+38
+00:05:30,000 --> 00:05:54,520
+go. So
+
+39
+00:05:54,520 --> 00:05:57,600
+we're discussing about the 10-Q.
+
+40
+00:05:58,480 --> 00:06:00,760
+We discussed our the this method
+
+41
+00:06:02,360 --> 00:06:07,200
+and we discussed about the replace
+all method.
+
+42
+00:06:08,160 --> 00:06:12,440
+Can you guys tell the difference
+between replace and replace all?
+
+43
+00:06:13,360 --> 00:06:15,720
+So we discussed toolmakers, replacement
+replace or
+
+44
+00:06:19,480 --> 00:06:21,120
+service train
+
+45
+00:06:21,120 --> 00:06:35,160
+here.
+
+46
+00:06:35,160 --> 00:06:36,480
+Replace will replace.
+
+47
+00:06:36,480 --> 00:06:39,480
+One of the ones was replaced.
+
+48
+00:06:39,480 --> 00:07:25,640
+All will replace everything that's been.
+
+49
+00:07:31,680 --> 00:07:33,880
+So if we have the strings.
+
+50
+00:07:33,880 --> 00:07:35,120
+So you got the new guys?
+
+51
+00:07:35,120 --> 00:07:38,200
+I'm saying that the replacement third
+
+52
+00:07:39,280 --> 00:07:42,120
+player only
+
+53
+00:07:43,120 --> 00:07:45,000
+replace one occurrence.
+
+54
+00:07:45,000 --> 00:07:45,760
+Right.
+
+55
+00:07:46,760 --> 00:07:48,960
+So I said
+
+56
+00:07:50,320 --> 00:08:12,280
+replace.
+
+57
+00:08:12,280 --> 00:08:15,480
+So this first occurrence
+should be replaced, Right.
+
+58
+00:08:15,480 --> 00:08:18,160
+Will that occur with new
+
+59
+00:08:18,160 --> 00:08:24,120
+and this should stay the same right.
+
+60
+00:08:24,120 --> 00:08:26,880
+This is what the replace method
+
+61
+00:08:27,200 --> 00:08:31,400
+is for.
+
+62
+00:08:31,400 --> 00:08:41,440
+No, just bought
+
+63
+00:08:41,440 --> 00:08:44,240
+when we replaced.
+
+64
+00:08:47,400 --> 00:08:50,440
+So what is the difference
+between replace and replace or
+
+65
+00:08:53,400 --> 00:08:54,000
+replace?
+
+66
+00:08:54,000 --> 00:08:56,960
+First method only first. Yes.
+
+67
+00:08:58,080 --> 00:09:00,680
+So that's the difference
+between replace and replace.
+
+68
+00:09:00,680 --> 00:09:02,080
+All is that.
+
+69
+00:09:02,080 --> 00:09:06,120
+So if you hover your mouse over the method
+name,
+
+70
+00:09:07,560 --> 00:09:09,480
+replace all we can do.
+
+71
+00:09:09,480 --> 00:09:11,120
+We can add range.
+
+72
+00:09:11,120 --> 00:09:15,520
+What we wanna replace.
+
+73
+00:09:15,520 --> 00:09:21,120
+Replace each substring of this string
+that matches the letter of their sequence
+
+74
+00:09:21,120 --> 00:09:24,160
+with specified letter and replacement of
+
+75
+00:09:25,360 --> 00:09:26,640
+the replacement. Here.
+
+76
+00:09:26,640 --> 00:09:27,680
+From beginning of this
+
+77
+00:09:27,680 --> 00:09:31,080
+change of the end, for example,
+this will be the best blah blah blah.
+
+78
+00:09:31,560 --> 00:09:34,280
+So this replace method in here,
+
+79
+00:09:35,400 --> 00:09:38,280
+we cannot pass
+the regular expression in here.
+
+80
+00:09:38,520 --> 00:09:40,560
+It does not take the regular expression
+
+81
+00:09:41,480 --> 00:09:44,400
+there that replaced all method.
+
+82
+00:09:44,400 --> 00:09:46,800
+It works on the
+
+83
+00:09:46,800 --> 00:09:56,440
+regular expression.
+
+84
+00:09:56,440 --> 00:09:59,160
+So you guys can also see the arguments
+
+85
+00:10:00,240 --> 00:10:03,560
+and replace what we are passing appendix.
+
+86
+00:10:03,600 --> 00:10:05,480
+So these are regular expressions.
+
+87
+00:10:05,480 --> 00:10:09,960
+They are also bar radicals
+and in the replace method
+
+88
+00:10:09,960 --> 00:10:14,600
+we are passing the target sequence,
+the sequence that we want to replace
+
+89
+00:10:15,200 --> 00:10:18,560
+and the string
+with which we want the replacement.
+
+90
+00:10:19,560 --> 00:10:22,200
+So this is the difference in here.
+
+91
+00:10:22,200 --> 00:10:31,840
+We pass that regular expression.
+
+92
+00:10:31,840 --> 00:10:33,760
+Most of the time
+
+93
+00:10:34,200 --> 00:10:37,560
+you guys will be using the replace
+all that
+
+94
+00:10:43,760 --> 00:10:47,080
+because it supports the
+
+95
+00:10:47,080 --> 00:10:50,720
+functionality of the place as the
+
+96
+00:10:50,720 --> 00:11:00,720
+and then it also support
+provided of expression.
+
+97
+00:11:03,960 --> 00:11:06,040
+So if we have
+
+98
+00:11:06,040 --> 00:11:09,760
+the same display are two plus ten years
+
+99
+00:11:09,760 --> 00:11:22,760
+long month.
+
+100
+00:11:22,760 --> 00:11:27,440
+The output of replace and replace
+all is the same. Yes,
+
+101
+00:11:28,840 --> 00:11:31,760
+yes it is same.
+
+102
+00:11:31,840 --> 00:11:44,520
+The it should not be same thing.
+
+103
+00:11:45,920 --> 00:11:48,360
+What is the difference again
+between the two?
+
+104
+00:11:48,360 --> 00:11:52,200
+Okay, so the difference is so let's say
+
+105
+00:11:52,200 --> 00:11:55,600
+if we have to use regular expression
+
+106
+00:11:56,920 --> 00:12:10,440
+in here,
+
+107
+00:12:10,440 --> 00:12:15,360
+you may be remove
+these special characters.
+
+108
+00:12:15,360 --> 00:12:18,240
+So can you guys
+tell me the regular expression for there
+
+109
+00:12:18,320 --> 00:12:22,040
+if I want to remove these regular these
+
+110
+00:12:23,240 --> 00:12:25,680
+special characters from here,
+
+111
+00:12:25,680 --> 00:13:09,240
+what can I write?
+
+112
+00:13:09,240 --> 00:13:11,360
+Not off
+
+113
+00:13:16,080 --> 00:13:18,840
+a capital air capital Z.
+
+114
+00:13:18,840 --> 00:13:21,720
+So we don't want to replace it.
+
+115
+00:13:21,720 --> 00:13:25,200
+Capital to Capital Z, All the letters
+
+116
+00:13:26,240 --> 00:13:30,600
+in between, including the C and see,
+we don't want to replace
+
+117
+00:13:31,080 --> 00:13:35,960
+the lowercase letters from A to Z,
+and we don't want to replace the numbers
+
+118
+00:13:35,960 --> 00:13:38,200
+from 0 to 9.
+
+119
+00:13:38,200 --> 00:13:42,440
+Other than that, if we have anything,
+we want to replace that
+
+120
+00:13:42,480 --> 00:13:52,640
+right?
+
+121
+00:13:52,640 --> 00:13:53,560
+That's
+
+122
+00:14:09,600 --> 00:14:12,120
+something wrong.
+
+123
+00:14:12,120 --> 00:14:15,200
+Learn did not work with C line D
+
+124
+00:14:15,240 --> 00:14:18,800
+or do not want because
+
+125
+00:14:32,520 --> 00:14:35,200
+we will have to replace
+with something well,
+
+126
+00:14:36,280 --> 00:14:41,200
+so it should be in here.
+
+127
+00:14:41,960 --> 00:14:51,840
+Which would not be SDR.
+
+128
+00:14:51,840 --> 00:14:54,680
+Replace the word SDR. Yes.
+
+129
+00:14:54,680 --> 00:14:59,000
+So we were trying to replace with this
+SDR to.
+
+130
+00:14:59,240 --> 00:15:02,320
+Okay, go getting it now.
+
+131
+00:15:02,320 --> 00:15:03,240
+Let's find
+
+132
+00:15:04,600 --> 00:15:08,400
+who will be seen with
+
+133
+00:15:10,080 --> 00:15:32,440
+the replacement.
+
+134
+00:15:32,440 --> 00:15:35,360
+So you guys see the difference
+
+135
+00:15:35,360 --> 00:15:38,760
+The moment you replace all method,
+
+136
+00:15:39,800 --> 00:15:44,080
+it takes the regular expressions, okay,
+It can replace it.
+
+137
+00:15:44,400 --> 00:15:48,080
+If we don't want to replace
+special characters like this,
+
+138
+00:15:48,080 --> 00:15:53,760
+then for this code will be
+no need to have the type each.
+
+139
+00:15:53,760 --> 00:15:56,640
+Then yes.
+
+140
+00:15:56,640 --> 00:15:58,800
+So the regular expressions.
+
+141
+00:15:58,800 --> 00:16:01,400
+They also work like the all conditions.
+
+142
+00:16:01,400 --> 00:16:07,280
+So one way of doing that is to specify
+all the characters that you don't want
+
+143
+00:16:07,280 --> 00:16:12,800
+to replace with this hex symbol system
+out as they are to this world.
+
+144
+00:16:12,840 --> 00:16:17,160
+So we are to make the
+
+145
+00:16:17,440 --> 00:16:20,280
+you guys see this replace on method.
+
+146
+00:16:20,880 --> 00:16:26,520
+It takes the regular expressions
+and it replaces the values in here.
+
+147
+00:16:26,520 --> 00:16:31,280
+But if we try to post this
+regular expression to this replace method,
+
+148
+00:16:32,280 --> 00:16:35,920
+we don't get the expected output.
+
+149
+00:16:35,920 --> 00:16:40,440
+It is not doing the replacement because it
+does not work on the regular expression.
+
+150
+00:16:40,440 --> 00:16:43,320
+It is still looking for this string
+
+151
+00:16:43,920 --> 00:16:47,360
+inside this SDR variable.
+
+152
+00:16:47,480 --> 00:16:48,080
+Okay.
+
+153
+00:16:48,160 --> 00:16:51,160
+And it only replaces the letter,
+
+154
+00:16:51,160 --> 00:16:55,400
+which means if to see
+is the exact detector
+
+155
+00:16:55,440 --> 00:16:59,120
+that we boss in here,
+then only it will do the replacement.
+
+156
+00:16:59,120 --> 00:17:02,680
+While it is replaced by the method,
+it can take the regular expressions.
+
+157
+00:17:02,680 --> 00:17:05,560
+We can pass different backgrounds,
+
+158
+00:17:05,800 --> 00:17:10,000
+all the rules that are appeared
+in the regular expressions.
+
+159
+00:17:10,000 --> 00:17:16,080
+We can be used to.
+
+160
+00:17:16,080 --> 00:17:17,000
+All right.
+
+161
+00:17:17,000 --> 00:17:19,960
+So and then we started discussing about
+
+162
+00:17:19,960 --> 00:17:23,280
+the string builder in this train class.
+
+163
+00:17:23,360 --> 00:17:27,440
+So you guys were asking, for example.
+
+164
+00:17:27,440 --> 00:17:29,520
+So let me show you an example.
+
+165
+00:17:29,520 --> 00:17:30,880
+So let's say
+
+166
+00:17:31,560 --> 00:17:34,400
+I have a variable that specifically
+
+167
+00:17:39,880 --> 00:17:42,680
+with empty like note
+
+168
+00:17:42,800 --> 00:18:01,920
+and I have a loop.
+
+169
+00:18:01,920 --> 00:18:05,160
+And if would try to change the
+
+170
+00:18:06,200 --> 00:18:08,520
+context of this SDR
+
+171
+00:18:08,640 --> 00:18:21,560
+three, again, I am just using the slope
+
+172
+00:18:21,560 --> 00:18:24,960
+just to make changes
+to this thing again and again.
+
+173
+00:18:26,040 --> 00:18:28,080
+And then I print out
+
+174
+00:18:28,200 --> 00:18:33,960
+the value of a static.
+
+175
+00:18:33,960 --> 00:18:37,200
+Yes, I get this zero one, two,
+three and four.
+
+176
+00:18:37,600 --> 00:18:41,760
+So can you guys tell me
+if there is any issue
+
+177
+00:18:41,760 --> 00:18:51,360
+with this code?
+
+178
+00:18:51,360 --> 00:18:57,160
+So the concepts that were discussed
+about the string builder
+
+179
+00:18:57,160 --> 00:19:01,200
+and string class, it is related to that.
+
+180
+00:19:01,200 --> 00:19:04,200
+It is related to memory.
+
+181
+00:19:04,280 --> 00:19:05,760
+They are integer string
+
+182
+00:19:05,760 --> 00:19:15,640
+and integer.
+
+183
+00:19:15,640 --> 00:19:19,560
+Think about what is happening
+inside the memory when we are trying
+
+184
+00:19:19,560 --> 00:19:25,720
+to make this variable
+start again and again.
+
+185
+00:19:25,720 --> 00:19:27,920
+I think I do. Often.
+
+186
+00:19:28,080 --> 00:19:30,720
+Yes, we can apply an integer twisting
+
+187
+00:19:31,200 --> 00:19:33,240
+using this string definition,
+
+188
+00:19:33,760 --> 00:19:36,640
+which was using one variable.
+
+189
+00:19:37,560 --> 00:19:40,920
+So the type of the
+variable is starting, right?
+
+190
+00:19:41,920 --> 00:19:43,320
+So what happens?
+
+191
+00:19:43,320 --> 00:19:47,880
+What happens is when we try to store
+
+192
+00:19:47,880 --> 00:19:53,800
+something inside is being a variable.
+
+193
+00:19:53,800 --> 00:19:55,480
+So what will happen?
+
+194
+00:19:56,240 --> 00:19:59,880
+It will check if something
+
+195
+00:20:00,840 --> 00:20:04,080
+so strings they are immutable, right?
+
+196
+00:20:04,320 --> 00:20:06,360
+Means they cannot be changed.
+
+197
+00:20:06,840 --> 00:20:11,840
+But what I am doing in here
+I am changing the value of this SDR
+
+198
+00:20:11,880 --> 00:20:14,720
+to the again and again inside the loop.
+
+199
+00:20:15,280 --> 00:20:19,680
+So what will happen
+Every time we update the value of
+
+200
+00:20:19,680 --> 00:20:23,480
+SDR geometry,
+it will first go inside the memory.
+
+201
+00:20:23,880 --> 00:20:29,000
+It will check
+if there is any variable which contains
+
+202
+00:20:29,640 --> 00:20:32,760
+the content that we are trying
+
+203
+00:20:32,760 --> 00:20:35,160
+to store in this SDR tree.
+
+204
+00:20:35,880 --> 00:20:38,880
+If the contents are already
+inside the memory,
+
+205
+00:20:39,640 --> 00:20:42,800
+no new variable, no new memory
+
+206
+00:20:42,840 --> 00:20:48,600
+location will be declared
+and this SDR tree will apply to back
+
+207
+00:20:48,600 --> 00:20:53,200
+memory location
+that already contains the data. So
+
+208
+00:20:54,640 --> 00:20:56,840
+this is it later does not that are lost?
+
+209
+00:20:56,840 --> 00:20:59,520
+Let me copy this code
+
+210
+00:20:59,520 --> 00:21:02,600
+and let me paste
+
+211
+00:21:02,600 --> 00:21:05,880
+it inside of the intelligent
+
+212
+00:21:14,880 --> 00:21:15,600
+interior.
+
+213
+00:21:15,600 --> 00:21:17,880
+It can detect these kind of issues. Right?
+
+214
+00:21:18,200 --> 00:21:21,080
+So if I hello to my mouse over in here,
+it says
+
+215
+00:21:21,640 --> 00:21:24,800
+spring concatenation inside a loop
+
+216
+00:21:25,240 --> 00:21:29,880
+convert to variable
+SDR tree from string the string builder.
+
+217
+00:21:30,040 --> 00:21:30,640
+Okay.
+
+218
+00:21:30,840 --> 00:21:35,200
+And with the help of one click
+it will automatically change
+
+219
+00:21:35,240 --> 00:21:38,960
+the string the string builder
+because it can do that.
+
+220
+00:21:38,960 --> 00:21:42,360
+What we are trying to write
+and it can detect
+
+221
+00:21:42,360 --> 00:21:46,920
+which types of classes
+we are trying to use for that purpose.
+
+222
+00:21:47,480 --> 00:21:51,200
+If it finds an issue,
+it can tell you the issues
+
+223
+00:21:51,200 --> 00:21:53,600
+and it will fix those issues also.
+
+224
+00:21:54,600 --> 00:21:58,920
+So in that it is saying that the operation
+that you are trying to perform must,
+
+225
+00:21:59,040 --> 00:22:03,520
+if you know what string
+builder is more appropriate class.
+
+226
+00:22:04,000 --> 00:22:05,880
+But this type of operation.
+
+227
+00:22:07,040 --> 00:22:11,400
+Okay, because what we are doing,
+
+228
+00:22:11,400 --> 00:22:16,320
+we are changing the contents of this thing
+variable again and again
+
+229
+00:22:16,960 --> 00:22:21,760
+and when we change the contents
+of this string variable again and again,
+
+230
+00:22:22,200 --> 00:22:24,600
+it is not the command IT operation, okay?
+
+231
+00:22:24,840 --> 00:22:30,240
+If we have these kind of requirements,
+we should always be going with string
+
+232
+00:22:30,240 --> 00:22:33,920
+builder class and this is how we will
+distinguish the class.
+
+233
+00:22:33,920 --> 00:22:37,240
+We like String builder,
+same as we created the objects
+
+234
+00:22:37,240 --> 00:22:39,880
+like any of the class,
+we are the name of the class
+
+235
+00:22:40,960 --> 00:22:42,760
+object name
+
+236
+00:22:43,200 --> 00:22:48,160
+equal to sign the new keyword
+and then add the name of the class name.
+
+237
+00:22:48,160 --> 00:22:53,200
+Then these parentheses
+and then instead of deck
+
+238
+00:22:53,200 --> 00:22:57,760
+plus sign.
+
+239
+00:22:57,760 --> 00:23:01,760
+So soon you guys going to be,
+I think, this setter that we will be
+
+240
+00:23:01,760 --> 00:23:03,040
+starting using intelligent.
+
+241
+00:23:04,200 --> 00:23:05,280
+How dare you ask us
+
+242
+00:23:05,280 --> 00:23:09,000
+to iterate on opposite Eclipse?
+
+243
+00:23:09,000 --> 00:23:11,960
+So we thought we were using
+string incorrectly.
+
+244
+00:23:11,960 --> 00:23:14,040
+We were supposed to use string builder.
+
+245
+00:23:14,040 --> 00:23:19,000
+When we use things that need to have
+the information cluster and change. Yes.
+
+246
+00:23:19,680 --> 00:23:26,600
+So you use the variables
+if they are constantly,
+
+247
+00:23:26,600 --> 00:23:31,320
+if distinguishable is constantly,
+
+248
+00:23:31,320 --> 00:23:37,680
+you are updating it constantly.
+
+249
+00:23:37,680 --> 00:23:40,200
+You should be use
+
+250
+00:23:41,880 --> 00:23:44,040
+string builder class
+
+251
+00:23:44,040 --> 00:23:49,160
+instead of string, which
+
+252
+00:24:01,040 --> 00:24:03,400
+and that is because it's self memory.
+
+253
+00:24:03,680 --> 00:24:07,600
+So it's not because it saves memory,
+
+254
+00:24:07,600 --> 00:24:10,080
+it's because the code is not
+
+255
+00:24:11,400 --> 00:24:13,040
+is not.
+
+256
+00:24:14,680 --> 00:24:16,920
+At least this.
+
+257
+00:24:16,920 --> 00:24:21,480
+If you try to roll this operation
+with string, it will take more time.
+
+258
+00:24:22,000 --> 00:24:23,440
+Okay?
+
+259
+00:24:23,440 --> 00:24:32,920
+It will take more time.
+
+260
+00:24:32,920 --> 00:24:38,480
+Append means and calculation.
+
+261
+00:24:38,480 --> 00:24:42,400
+Append means concatenation.
+
+262
+00:24:42,400 --> 00:24:47,160
+So this down for you as.
+
+263
+00:24:47,160 --> 00:24:50,040
+But when you have the
+
+264
+00:24:51,160 --> 00:24:54,600
+image, the
+
+265
+00:24:56,800 --> 00:24:59,080
+you or
+
+266
+00:25:04,000 --> 00:25:06,120
+the variable
+
+267
+00:25:14,640 --> 00:25:18,600
+always to
+
+268
+00:25:28,680 --> 00:25:32,000
+string is not
+
+269
+00:25:32,400 --> 00:25:59,520
+rendered in here.
+
+270
+00:25:59,520 --> 00:26:01,200
+Returns
+
+271
+00:26:03,920 --> 00:26:06,120
+every time
+
+272
+00:26:06,480 --> 00:26:07,200
+we're
+
+273
+00:26:09,120 --> 00:26:19,200
+going to be memory. The
+
+274
+00:26:25,080 --> 00:26:27,280
+that when the
+
+275
+00:26:31,440 --> 00:26:34,680
+would expire
+when we are updating the variables
+
+276
+00:26:34,680 --> 00:26:38,120
+again and again, we should always be using
+distinguish good plus
+
+277
+00:26:39,320 --> 00:26:41,880
+nice things normal connections traveling
+
+278
+00:26:41,880 --> 00:26:44,240
+while this schools
+
+279
+00:26:46,800 --> 00:26:48,920
+so it will be back
+
+280
+00:26:48,920 --> 00:26:51,520
+if you guys get the job
+
+281
+00:26:51,520 --> 00:26:54,720
+in a good company good companies
+they some of the companies
+
+282
+00:26:54,720 --> 00:26:58,120
+they will be paying you
+two months paid holiday
+
+283
+00:26:59,040 --> 00:27:02,080
+and you guys can enjoy
+
+284
+00:27:03,120 --> 00:27:05,400
+anywhere like two months in FS
+
+285
+00:27:05,440 --> 00:27:08,880
+and IP sector use only five days a week.
+
+286
+00:27:09,840 --> 00:27:12,720
+So and if you guys are working
+
+287
+00:27:14,400 --> 00:27:15,920
+accidentally,
+
+288
+00:27:15,920 --> 00:27:19,760
+you can use two months,
+you can do the tasks.
+
+289
+00:27:20,040 --> 00:27:22,720
+So they will not be watching
+most of the time.
+
+290
+00:27:22,720 --> 00:27:23,920
+They will not be watching.
+
+291
+00:27:23,920 --> 00:27:27,560
+You are given the task you have completed.
+
+292
+00:27:27,600 --> 00:27:32,440
+You you've been completed
+during your job acting night on the
+
+293
+00:27:32,960 --> 00:27:36,360
+on the week and you can set every
+we have most of the jobs.
+
+294
+00:27:36,360 --> 00:27:40,720
+They are online so
+never had more than three weeks we do that
+
+295
+00:27:40,920 --> 00:27:48,080
+so I disagree it's a little different
+from other sectors.
+
+296
+00:27:48,080 --> 00:27:51,600
+So is it clear days
+when you guys should be using this thing
+
+297
+00:27:51,600 --> 00:27:53,680
+and when you should
+be using this finger? This
+
+298
+00:27:59,120 --> 00:28:02,400
+is so let me
+
+299
+00:28:04,080 --> 00:28:07,440
+show you some
+
+300
+00:28:09,320 --> 00:28:10,320
+some methods.
+
+301
+00:28:10,320 --> 00:28:13,360
+I'm just speaking with turbulence.
+
+302
+00:28:13,480 --> 00:28:15,120
+So if we press stock
+
+303
+00:28:15,120 --> 00:28:18,600
+so we have this open method in this thing
+builder task.
+
+304
+00:28:18,600 --> 00:28:22,840
+Now this the brand method
+is exactly the same as you guys have that
+
+305
+00:28:23,000 --> 00:28:27,960
+didn't get method or, or the plus operator
+that you guys use in this thing.
+
+306
+00:28:27,960 --> 00:28:32,600
+Builder class to append
+multiple things to a string variable. But
+
+307
+00:28:34,440 --> 00:28:37,120
+and it can also work with features.
+
+308
+00:28:37,120 --> 00:28:41,040
+Does booleans and any other type of
+
+309
+00:28:42,560 --> 00:28:44,280
+then we have the job act
+
+310
+00:28:44,280 --> 00:28:47,600
+method is the exactly same name.
+
+311
+00:28:47,640 --> 00:28:49,800
+Look, it's not you, it's me.
+
+312
+00:28:49,800 --> 00:28:52,640
+I just have something
+I need to work out a place.
+
+313
+00:28:52,640 --> 00:28:53,960
+But we had good time.
+
+314
+00:28:53,960 --> 00:28:57,480
+We don't really do that,
+
+315
+00:28:59,920 --> 00:29:02,680
+but it will be doing
+
+316
+00:29:02,680 --> 00:29:05,400
+much more
+than the single classes like that.
+
+317
+00:29:06,000 --> 00:29:09,120
+So the started method is exactly the same
+
+318
+00:29:09,360 --> 00:29:14,640
+as the dark matter from this string class.
+
+319
+00:29:14,640 --> 00:29:17,480
+And you guys don't
+need to worry about this code.
+
+320
+00:29:17,480 --> 00:29:22,080
+Why these input screens?
+
+321
+00:29:22,080 --> 00:29:27,440
+So in the single class
+we have that equals to method.
+
+322
+00:29:27,960 --> 00:29:31,320
+But sorry, in this thing
+we have the equals method
+
+323
+00:29:31,920 --> 00:29:35,160
+equals the method and here we have
+this compared to method.
+
+324
+00:29:35,600 --> 00:29:36,240
+Okay.
+
+325
+00:29:36,600 --> 00:29:41,120
+And then we have some additional matters
+in here.
+
+326
+00:29:41,120 --> 00:29:44,120
+Like for example, in distinguish
+
+327
+00:29:44,160 --> 00:29:48,120
+in class,
+you can delete certain characters from,
+
+328
+00:29:49,280 --> 00:29:50,960
+from a certain index to a
+
+329
+00:29:50,960 --> 00:29:57,920
+certain index.
+
+330
+00:29:57,920 --> 00:30:00,400
+And then you were going to get the jobs
+
+331
+00:30:01,440 --> 00:30:03,520
+index of
+
+332
+00:30:03,520 --> 00:30:06,320
+and as we can delete
+
+333
+00:30:06,320 --> 00:30:10,200
+some characters from in between,
+we have the insert
+
+334
+00:30:10,200 --> 00:30:14,160
+method that inserts the characters
+in between these two letters.
+
+335
+00:30:14,160 --> 00:30:19,520
+They are very useful.
+
+336
+00:30:19,520 --> 00:30:22,440
+And one more thing that
+
+337
+00:30:22,600 --> 00:30:24,880
+the substring method again, same
+
+338
+00:30:27,160 --> 00:30:30,000
+size, same.
+
+339
+00:30:30,000 --> 00:30:32,560
+And we want one more thing that if
+
+340
+00:30:34,960 --> 00:30:37,040
+if you guys have a string variable,
+
+341
+00:30:38,560 --> 00:30:41,000
+let's say for example,
+
+342
+00:30:41,000 --> 00:30:46,120
+if for some reason you are given a string,
+but then you want to use
+
+343
+00:30:46,800 --> 00:30:50,520
+the methods from the string builder class,
+or if you are given
+
+344
+00:30:50,520 --> 00:30:55,760
+a single class object and you want to use
+some methods from distinct class.
+
+345
+00:30:56,120 --> 00:30:59,400
+So how we can convert
+between these two classes.
+
+346
+00:30:59,400 --> 00:31:02,520
+So let's say for example,
+if I have this string for
+
+347
+00:31:06,560 --> 00:31:12,120
+the I
+
+348
+00:31:14,240 --> 00:31:16,320
+will put it inside
+
+349
+00:31:32,400 --> 00:31:35,760
+my don't show that option
+
+350
+00:31:35,840 --> 00:31:38,360
+Master String Builder because
+
+351
+00:31:41,600 --> 00:31:42,760
+so assume you are
+
+352
+00:31:42,760 --> 00:31:45,800
+trying to use the name of the class,
+right?
+
+353
+00:31:45,840 --> 00:31:48,680
+Right. SDR for the name of the object.
+
+354
+00:31:48,680 --> 00:31:52,920
+Remember, if we have the quality methods,
+we use the name of the object,
+
+355
+00:31:52,920 --> 00:31:56,880
+not not the class name.
+
+356
+00:31:56,880 --> 00:31:59,480
+So just type SDR for not string band.
+
+357
+00:31:59,480 --> 00:32:01,480
+Is it in here?
+
+358
+00:32:01,480 --> 00:32:07,200
+Because I have given the name to my object
+as String builder.
+
+359
+00:32:07,200 --> 00:32:10,520
+I will.
+
+360
+00:32:10,560 --> 00:32:13,600
+I encourage you guys to at least
+
+361
+00:32:15,360 --> 00:32:17,440
+read the description of delete
+
+362
+00:32:17,440 --> 00:32:20,480
+and insert
+method from this string builder class.
+
+363
+00:32:22,320 --> 00:32:22,680
+All right.
+
+364
+00:32:22,680 --> 00:32:27,960
+So let's say, guys, that if I have this
+string and I want to convert this thing
+
+365
+00:32:28,080 --> 00:32:33,280
+to a string builder record, maybe I want
+to use some methods from this thing.
+
+366
+00:32:33,280 --> 00:32:36,400
+We're a class,
+so what I can do, I declare the
+
+367
+00:32:40,680 --> 00:32:42,080
+object
+
+368
+00:32:50,320 --> 00:32:52,520
+in and
+
+369
+00:32:53,840 --> 00:32:57,480
+we have anyone on sport channel
+what should be there
+
+370
+00:32:57,600 --> 00:32:59,200
+that's hard and interesting.
+
+371
+00:32:59,200 --> 00:33:00,520
+Some issues
+
+372
+00:33:02,880 --> 00:33:04,160
+you can post in here
+
+373
+00:33:04,160 --> 00:33:07,080
+if you are not getting good response
+
+374
+00:33:11,040 --> 00:33:12,960
+single string.
+
+375
+00:33:12,960 --> 00:33:14,920
+Well, until
+
+376
+00:33:15,920 --> 00:33:18,680
+single or append,
+
+377
+00:33:18,680 --> 00:33:19,600
+that's it.
+
+378
+00:33:19,600 --> 00:33:22,640
+Then you have a little mouse
+over this, over this append,
+
+379
+00:33:22,640 --> 00:33:42,600
+and then you tell me
+what kind of energy you are getting on.
+
+380
+00:33:42,840 --> 00:33:50,640
+You. Can you guys tried this quote?
+
+381
+00:33:51,920 --> 00:33:54,240
+No, no, it's not eclipse data. The
+
+382
+00:33:55,560 --> 00:34:00,560
+this this class is available
+in Java eight.
+
+383
+00:34:00,560 --> 00:34:03,760
+But then you guys tried this code
+
+384
+00:34:07,800 --> 00:34:10,560
+in the method append
+
+385
+00:34:10,920 --> 00:34:14,440
+in this undefined
+father die string builder.
+
+386
+00:34:15,400 --> 00:34:17,880
+Okay, so
+
+387
+00:34:20,960 --> 00:34:21,680
+for hard
+
+388
+00:34:21,680 --> 00:34:26,480
+have you given your class
+the same name as String builder
+
+389
+00:34:27,480 --> 00:34:28,600
+by creating the class?
+
+390
+00:34:28,600 --> 00:34:30,960
+What was the name
+that you guys gave to your class?
+
+391
+00:34:30,960 --> 00:34:37,760
+And you have like for example,
+I have you on this recap or column.
+
+392
+00:34:37,760 --> 00:34:49,400
+What is the name
+that you guys have given to your class?
+
+393
+00:34:49,400 --> 00:34:51,520
+You guys must be using this. Yes.
+
+394
+00:34:52,400 --> 00:34:56,960
+So for how do you are now
+if you guys should not made this mistake.
+
+395
+00:34:56,960 --> 00:34:58,640
+So remember, this has happened.
+
+396
+00:34:58,640 --> 00:35:01,360
+This happened with
+this a scanner glass as that.
+
+397
+00:35:02,760 --> 00:35:04,800
+Remember, if we have a class
+
+398
+00:35:04,800 --> 00:35:09,960
+defined in JDK
+and, if we try to define our own class
+
+399
+00:35:09,960 --> 00:35:14,040
+with the same name,
+we can get this conflict right.
+
+400
+00:35:15,480 --> 00:35:17,760
+So now Java is trying to find this
+
+401
+00:35:17,760 --> 00:35:21,000
+method
+from the class that you guys have defined.
+
+402
+00:35:21,200 --> 00:35:24,440
+And because there is no append
+method in that class
+
+403
+00:35:24,720 --> 00:35:28,080
+now it is giving you that added.
+
+404
+00:35:28,080 --> 00:35:32,680
+So make sure guys this name of the class
+is something different
+
+405
+00:35:32,760 --> 00:35:41,600
+and different
+than the string builder class.
+
+406
+00:35:41,600 --> 00:35:42,840
+And you guys can.
+
+407
+00:35:42,840 --> 00:35:46,320
+Instead of creating new class,
+you guys can quickly
+
+408
+00:35:47,680 --> 00:35:48,520
+oops,
+
+409
+00:35:49,320 --> 00:35:52,960
+right click on it
+and then you can refactor and you can name
+
+410
+00:35:54,200 --> 00:36:02,760
+and are you you also are
+you are also making the same mistake.
+
+411
+00:36:02,760 --> 00:36:05,040
+Make sure guys we don't define the classes
+
+412
+00:36:06,200 --> 00:36:08,720
+that are already defined in the JDK.
+
+413
+00:36:09,120 --> 00:36:11,800
+Otherwise there will be a conflict. And
+
+414
+00:36:13,120 --> 00:36:15,880
+in Java, preferably classes that you guys
+
+415
+00:36:15,880 --> 00:36:19,320
+are creating over the classes
+that are defined by Java base
+
+416
+00:36:27,000 --> 00:36:27,800
+statement.
+
+417
+00:36:27,960 --> 00:36:32,120
+So what we can do
+if we have to convert this thing
+
+418
+00:36:32,240 --> 00:36:36,560
+object listing builder,
+we can simply pass this
+
+419
+00:36:36,960 --> 00:36:39,800
+inside these parentheses like this.
+
+420
+00:36:40,080 --> 00:36:40,720
+Okay.
+
+421
+00:36:41,600 --> 00:36:44,840
+And now we can use any methods
+
+422
+00:36:44,840 --> 00:36:48,160
+from this builder class.
+
+423
+00:36:48,160 --> 00:36:51,880
+Like for example,
+there is a building method
+
+424
+00:36:52,800 --> 00:36:57,840
+to reverse the strings inside
+string Google class.
+
+425
+00:36:57,920 --> 00:37:00,200
+Okay, so we don't have to write any loop.
+
+426
+00:37:00,200 --> 00:37:02,000
+We don't have to do anything.
+
+427
+00:37:02,000 --> 00:37:05,840
+And now if we put in
+
+428
+00:37:06,960 --> 00:37:10,040
+SDR, there is
+
+429
+00:37:18,280 --> 00:37:19,640
+and you're going to see
+
+430
+00:37:19,640 --> 00:37:23,520
+everything has been reversed automatically
+because there is
+
+431
+00:37:24,160 --> 00:37:28,000
+a building method in this thing where
+the class will be worse than the strings.
+
+432
+00:37:28,800 --> 00:37:30,880
+And same is the case with other methods.
+
+433
+00:37:31,000 --> 00:37:35,200
+You guys can use many, many different
+useful methods from distinguish
+
+434
+00:37:35,280 --> 00:37:46,240
+or class.
+
+435
+00:37:46,240 --> 00:37:46,600
+You guys.
+
+436
+00:37:46,600 --> 00:37:54,880
+What would replace the shortened spin?
+
+437
+00:37:54,880 --> 00:37:56,200
+Let me
+
+438
+00:37:57,800 --> 00:38:00,200
+then move this to this
+
+439
+00:38:01,960 --> 00:38:04,560
+thing.
+
+440
+00:38:04,560 --> 00:38:07,360
+Is it better now?
+
+441
+00:38:07,360 --> 00:38:13,160
+Literally just through word by word.
+
+442
+00:38:13,160 --> 00:38:17,280
+So what it is doing,
+it is fixing this last character
+
+443
+00:38:18,360 --> 00:38:20,280
+and it just pressing it in here.
+
+444
+00:38:20,280 --> 00:38:23,680
+Then it is picking this word
+displacing in here.
+
+445
+00:38:24,080 --> 00:38:27,240
+So it is not only reversing the class,
+
+446
+00:38:27,240 --> 00:38:30,840
+but it is also changing
+the position of those words.
+
+447
+00:38:31,120 --> 00:38:32,960
+What are the most useful methods?
+
+448
+00:38:32,960 --> 00:38:35,320
+Last thing that you suggest.
+
+449
+00:38:35,320 --> 00:38:39,240
+So most of the time
+you guys will be using this
+
+450
+00:38:39,240 --> 00:38:43,800
+reverse method
+that those delete and insert methods.
+
+451
+00:38:43,800 --> 00:38:47,120
+They are very useful
+because if you try to do
+
+452
+00:38:47,120 --> 00:38:51,720
+the same operation with String Glass,
+you guys have to write a lot of both.
+
+453
+00:38:51,720 --> 00:38:52,800
+And I tried to matter.
+
+454
+00:38:52,800 --> 00:38:59,000
+Guys try to write the method
+in which you can insert the characters,
+
+455
+00:38:59,000 --> 00:39:03,800
+add specific positions, and you delete
+the characters explicitly position
+
+456
+00:39:06,200 --> 00:39:07,880
+doing my homework.
+
+457
+00:39:08,480 --> 00:39:11,280
+So as
+I have told you guys in your real life,
+
+458
+00:39:12,360 --> 00:39:16,080
+everything, almost
+everything is already built for you.
+
+459
+00:39:16,160 --> 00:39:18,240
+Okay, you guys just are.
+
+460
+00:39:18,320 --> 00:39:23,360
+You guys should just know how
+to use that code that is already there.
+
+461
+00:39:23,760 --> 00:39:31,000
+How to decode, how to use the libraries
+and how to integrate those.
+
+462
+00:39:31,520 --> 00:39:35,840
+So it's very rare
+that you guys will be writing methods.
+
+463
+00:39:35,840 --> 00:39:38,280
+All of you guys will be writing new book.
+
+464
+00:39:38,800 --> 00:39:44,880
+If most of the time it's integration.
+
+465
+00:39:44,880 --> 00:39:46,920
+We just need to pass the interviews.
+
+466
+00:39:47,160 --> 00:39:51,200
+No. Silva After passing the interviews,
+if you guys don't perform,
+
+467
+00:39:51,200 --> 00:39:54,480
+they will never fly. Too
+
+468
+00:39:54,720 --> 00:39:56,440
+likely to go there.
+
+469
+00:39:56,440 --> 00:39:59,640
+So reversing the lines, words
+and position. Yes.
+
+470
+00:39:59,640 --> 00:40:03,000
+So the homework was something different,
+right?
+
+471
+00:40:03,960 --> 00:40:07,360
+In the homework this the Java.
+
+472
+00:40:08,160 --> 00:40:14,200
+It should be at the last position,
+not on the first position
+
+473
+00:40:22,120 --> 00:40:25,560
+and getting put into it.
+
+474
+00:40:27,800 --> 00:40:31,640
+So if you guys have any questions
+you can ask.
+
+475
+00:40:32,480 --> 00:40:35,800
+So I will encourage you
+to explore this thing,
+
+476
+00:40:35,800 --> 00:40:37,360
+build the class
+
+477
+00:40:40,440 --> 00:40:41,520
+now, otherwise
+
+478
+00:40:41,520 --> 00:41:17,840
+we can start the tasks,
+just log period on that or
+
+479
+00:41:17,880 --> 00:41:36,920
+we go over all of this.
+
+480
+00:41:36,920 --> 00:41:41,680
+So this one, your task number one,
+the testing that will hold a sentence,
+
+481
+00:41:42,440 --> 00:41:45,960
+write a program to get a new stain
+and without any spaces.
+
+482
+00:41:46,200 --> 00:41:48,800
+How would you reverse this thing
+that occurred back then?
+
+483
+00:41:48,800 --> 00:41:51,880
+It would be reverse
+that string word by word.
+
+484
+00:41:52,720 --> 00:41:56,520
+So this was your first
+
+485
+00:41:56,520 --> 00:42:01,360
+task, right?
+
+486
+00:42:01,360 --> 00:42:03,280
+You're just doing that to reward
+a sentence.
+
+487
+00:42:03,280 --> 00:42:06,160
+Write a program to get
+
+488
+00:42:06,160 --> 00:42:08,520
+a new string
+
+489
+00:42:10,800 --> 00:42:13,240
+without any spaces.
+
+490
+00:42:13,240 --> 00:42:16,200
+It was task number seven.
+
+491
+00:42:16,200 --> 00:42:21,280
+This is not the task number one.
+
+492
+00:42:21,280 --> 00:42:24,200
+Then you guys and the requirements
+podcast number.
+
+493
+00:42:24,200 --> 00:42:26,400
+Once you know I'm in total
+
+494
+00:42:28,680 --> 00:42:30,560
+reach at this thing.
+
+495
+00:42:30,560 --> 00:42:33,720
+Okay, so
+
+496
+00:42:39,840 --> 00:42:42,400
+let's say I have this string sphere
+
+497
+00:42:52,440 --> 00:42:52,720
+fixed.
+
+498
+00:42:52,720 --> 00:43:26,920
+Number one, what I am doing string.
+
+499
+00:43:26,920 --> 00:43:35,760
+So should I use the replace method order
+replace all method.
+
+500
+00:43:35,760 --> 00:43:37,280
+I can use the boat.
+
+501
+00:43:37,280 --> 00:43:40,680
+Okay, I can use the boat.
+I can use replace.
+
+502
+00:43:40,680 --> 00:43:42,920
+I can use the replacement.
+
+503
+00:43:42,920 --> 00:44:11,760
+Okay.
+
+504
+00:44:11,760 --> 00:44:12,800
+Because
+
+505
+00:44:13,680 --> 00:44:15,840
+that's where to use the replace
+
+506
+00:44:15,840 --> 00:44:17,960
+augment and I get all
+
+507
+00:44:19,120 --> 00:44:20,040
+of these standards.
+
+508
+00:44:20,040 --> 00:44:22,080
+That is both hard work. Okay.
+
+509
+00:44:22,080 --> 00:44:25,120
+But most of the time you guys will be
+using the replace all method
+
+510
+00:44:25,200 --> 00:44:27,520
+that my produce overall more powerful.
+
+511
+00:44:28,400 --> 00:44:30,480
+And you guys tell me if I
+
+512
+00:44:32,320 --> 00:44:35,000
+if I bring this out,
+
+513
+00:44:35,000 --> 00:44:37,480
+will I get spaces or I will get
+
+514
+00:44:37,480 --> 00:44:41,000
+the original sentence?
+
+515
+00:44:41,000 --> 00:44:44,040
+So will I get a new sentence
+without spaces
+
+516
+00:44:44,040 --> 00:44:58,160
+or with spaces?
+
+517
+00:44:58,160 --> 00:45:02,520
+Let me let me surprise you.
+
+518
+00:45:02,520 --> 00:45:04,200
+I am still getting the
+
+519
+00:45:07,680 --> 00:45:09,680
+sentence with spaces.
+
+520
+00:45:09,680 --> 00:45:13,000
+Why? I am still directing the sentence
+
+521
+00:45:13,000 --> 00:45:18,480
+with spaces
+Because strings, they are immutable.
+
+522
+00:45:19,720 --> 00:45:21,120
+The value.
+
+523
+00:45:21,120 --> 00:45:26,040
+Once we have stored
+something inside a string,
+
+524
+00:45:26,040 --> 00:45:28,320
+that thing can not be changed
+
+525
+00:45:29,120 --> 00:45:32,840
+unless and until we reassign that string,
+I think.
+
+526
+00:45:33,280 --> 00:45:36,240
+But if so,
+
+527
+00:45:37,440 --> 00:45:39,840
+if I have a
+
+528
+00:45:39,840 --> 00:45:43,440
+thing very that
+
+529
+00:45:53,640 --> 00:45:54,360
+it's being built.
+
+530
+00:45:54,360 --> 00:45:57,640
+It is not immutable
+
+531
+00:46:00,520 --> 00:46:02,400
+that needs
+
+532
+00:46:03,120 --> 00:46:04,960
+to connect. Lost this one. Right.
+
+533
+00:46:04,960 --> 00:46:06,200
+This is five.
+
+534
+00:46:06,200 --> 00:46:15,240
+Can I close this one?
+
+535
+00:46:15,240 --> 00:46:18,760
+But if I have a string builder class
+
+536
+00:46:20,880 --> 00:46:24,600
+and if I say
+
+537
+00:46:31,560 --> 00:46:33,840
+do you start in the and
+
+538
+00:46:39,120 --> 00:46:42,920
+let me try to sign
+
+539
+00:46:46,640 --> 00:46:47,760
+and try to find
+
+540
+00:46:47,760 --> 00:46:49,960
+either retrospectively change
+
+541
+00:47:08,840 --> 00:47:10,960
+the let's use the previous matter.
+
+542
+00:47:10,960 --> 00:47:11,520
+Okay.
+
+543
+00:47:11,680 --> 00:47:16,680
+So in here again, I am trying to perform
+
+544
+00:47:18,360 --> 00:47:19,680
+an operation
+
+545
+00:47:19,680 --> 00:47:23,280
+but it won't will be replace
+all method for me.
+
+546
+00:47:23,280 --> 00:47:26,280
+Look,
+it took hours but no it will not work.
+
+547
+00:47:26,360 --> 00:47:28,960
+You guys must be doing something wrong.
+
+548
+00:47:28,960 --> 00:47:33,240
+So let me also do this.
+
+549
+00:47:33,240 --> 00:47:40,800
+This or method.
+
+550
+00:47:40,800 --> 00:47:42,840
+So if I have replace all method
+
+551
+00:47:49,800 --> 00:47:51,720
+so I get
+
+552
+00:47:51,720 --> 00:47:55,200
+this first full output
+and still I am getting original contents
+
+553
+00:47:55,200 --> 00:47:56,800
+with spaces
+
+554
+00:47:59,360 --> 00:48:00,240
+get noise.
+
+555
+00:48:00,240 --> 00:48:03,080
+It will not even work
+with double backwards.
+
+556
+00:48:03,120 --> 00:48:09,600
+Less than this. Yes.
+
+557
+00:48:09,760 --> 00:48:15,200
+Let's try to print out the original value
+of SDR like I am doing in here.
+
+558
+00:48:15,200 --> 00:48:17,440
+Try to print out that SDR value.
+
+559
+00:48:18,360 --> 00:48:19,840
+Then you will see these spaces.
+
+560
+00:48:19,840 --> 00:48:23,040
+They are still there.
+
+561
+00:48:23,040 --> 00:48:25,560
+Maya, you are also doing the same mistake.
+
+562
+00:48:25,560 --> 00:48:32,520
+You guys are not printing
+the original variable.
+
+563
+00:48:32,520 --> 00:48:36,280
+You just tried to print out
+the original variable in which you are
+
+564
+00:48:36,280 --> 00:48:40,200
+trying to make these changes.
+
+565
+00:48:40,200 --> 00:48:48,400
+Look new with the same new.
+
+566
+00:48:48,440 --> 00:48:52,680
+You guys are not printing out it,
+you are only printing out
+
+567
+00:48:53,040 --> 00:48:58,440
+the output of this replace all matter.
+
+568
+00:48:58,440 --> 00:49:02,040
+Yes, SDR is still
+same because it is immutable,
+
+569
+00:49:03,800 --> 00:49:06,840
+so I can show you the difference in here.
+
+570
+00:49:06,840 --> 00:49:11,080
+So if we try to call a method
+
+571
+00:49:11,080 --> 00:49:14,280
+on a string builder class.
+
+572
+00:49:14,560 --> 00:49:16,000
+So I want you to focus in here.
+
+573
+00:49:16,000 --> 00:49:18,160
+Guys, this is important.
+
+574
+00:49:18,160 --> 00:49:23,040
+If I try to call in method on the string
+class,
+
+575
+00:49:23,400 --> 00:49:29,560
+that is changing the output
+of that variable, the regional variable,
+
+576
+00:49:30,320 --> 00:49:33,200
+the changes, they are not made
+to the original variable.
+
+577
+00:49:33,200 --> 00:49:35,400
+It still stays the same.
+
+578
+00:49:35,400 --> 00:49:39,560
+But if I am trying to do something
+with the string builder
+
+579
+00:49:39,560 --> 00:49:42,800
+class, the changes
+
+580
+00:49:42,840 --> 00:49:46,240
+they are made to the original variable.
+
+581
+00:49:46,400 --> 00:49:49,320
+Okay. In case of singular. Why?
+
+582
+00:49:49,320 --> 00:49:54,000
+Because string builders,
+they are mutable, means
+
+583
+00:49:54,000 --> 00:50:04,000
+they can change
+in the values of their variables.
+
+584
+00:50:04,000 --> 00:50:07,720
+So you guys see in here
+I declare this variable,
+
+585
+00:50:08,080 --> 00:50:10,360
+but this time it's a string builder
+
+586
+00:50:11,520 --> 00:50:14,240
+I call a method in here.
+
+587
+00:50:14,240 --> 00:50:16,760
+I am also not reassigning the value,
+right?
+
+588
+00:50:17,240 --> 00:50:18,960
+I am doing the same in here.
+
+589
+00:50:18,960 --> 00:50:21,160
+I am calling a method
+I am not reassigning.
+
+590
+00:50:21,480 --> 00:50:25,640
+But when I try to print out
+the original variables, value
+
+591
+00:50:26,200 --> 00:50:29,520
+the contents for the string distressing,
+
+592
+00:50:30,360 --> 00:50:35,040
+but the context for the string
+builder date changes. Why?
+
+593
+00:50:35,040 --> 00:50:38,640
+Because the strings they are immutable.
+
+594
+00:50:38,640 --> 00:50:43,320
+That means they cannot be changed and
+is a very important interview question.
+
+595
+00:50:43,640 --> 00:50:48,960
+They will ask you What is the difference
+between string and string builder class?
+
+596
+00:50:49,840 --> 00:50:54,640
+So your answer should be a string
+is a immutable, strings are immutable.
+
+597
+00:50:54,960 --> 00:50:56,400
+Then you guys should tell.
+
+598
+00:50:56,400 --> 00:51:00,000
+Then you should be using this string class
+and then you should be using
+
+599
+00:51:00,000 --> 00:51:02,120
+the string class.
+
+600
+00:51:03,280 --> 00:51:05,880
+The thing builder can build
+the original string again,
+
+601
+00:51:07,400 --> 00:51:08,440
+you you can say the
+
+602
+00:51:08,440 --> 00:51:12,200
+changes
+they are made to the original variable.
+
+603
+00:51:12,240 --> 00:51:16,120
+Then think of this thing
+builder are immutable,
+
+604
+00:51:16,120 --> 00:51:19,560
+but strings without string building
+
+605
+00:51:19,560 --> 00:51:21,760
+spring in the string will
+that are immutable,
+
+606
+00:51:21,760 --> 00:51:25,240
+but strings
+without string builder is unstable.
+
+607
+00:51:26,280 --> 00:51:30,040
+So for having simple ways,
+you can say this string class is immutable
+
+608
+00:51:30,600 --> 00:51:32,600
+and the string builder classes mutate with
+
+609
+00:51:41,200 --> 00:51:44,840
+does that mean and is immutable.
+
+610
+00:51:45,440 --> 00:51:48,920
+So yes, the in all the primitive types
+
+611
+00:51:48,920 --> 00:51:52,400
+they are mutable,
+
+612
+00:51:52,400 --> 00:51:57,440
+but as the primitive data types,
+they don't have any methods.
+
+613
+00:51:58,200 --> 00:52:02,920
+So you will not be able
+to check the mutability
+
+614
+00:52:02,920 --> 00:52:06,200
+like I am showing for Distinguish
+the class.
+
+615
+00:52:06,760 --> 00:52:09,040
+Yes, we can change multiple times there.
+
+616
+00:52:09,200 --> 00:52:12,120
+The whole reason
+the string builder class exist.
+
+617
+00:52:12,600 --> 00:52:16,240
+If we have to change multiple times,
+if we have to change the value
+
+618
+00:52:16,240 --> 00:52:18,280
+of the variable multiple times.
+
+619
+00:52:18,280 --> 00:52:19,520
+Always, always.
+
+620
+00:52:19,520 --> 00:52:24,040
+We distinguish class still string builder
+pretty much every year since the value.
+
+621
+00:52:24,040 --> 00:52:28,760
+And that value does not change.
+
+622
+00:52:28,760 --> 00:52:31,880
+So the string builder
+pretty much really assigns the value.
+
+623
+00:52:31,880 --> 00:52:35,120
+That value does not change.
+
+624
+00:52:35,400 --> 00:52:39,840
+No, we we say we
+we explain this concept like this that
+
+625
+00:52:40,920 --> 00:52:44,720
+the string builder class is mutable means
+
+626
+00:52:45,080 --> 00:52:50,200
+any changes
+that we are performing on this object,
+
+627
+00:52:50,440 --> 00:52:52,920
+they will be reflected
+in the original variable.
+
+628
+00:52:53,320 --> 00:52:53,920
+Okay.
+
+629
+00:52:54,040 --> 00:52:59,160
+But distinct class is immutable means
+it cannot be changed.
+
+630
+00:52:59,640 --> 00:53:03,840
+So once we have declared something,
+it will always stay the same
+
+631
+00:53:03,880 --> 00:53:12,720
+unless and until we re assigned the value.
+
+632
+00:53:12,720 --> 00:53:14,880
+Now you guys can also say this, right?
+
+633
+00:53:15,120 --> 00:53:16,720
+You guys can also.
+
+634
+00:53:16,720 --> 00:53:20,920
+Maybe so you guys can can say it
+that what if
+
+635
+00:53:21,000 --> 00:53:23,280
+what if we do this
+
+636
+00:53:30,080 --> 00:53:31,800
+so this is one
+
+637
+00:53:31,800 --> 00:53:35,600
+more type of syntax
+will replace a string sustain.
+
+638
+00:53:35,880 --> 00:53:38,040
+Sorry. On this basis
+
+639
+00:53:38,640 --> 00:53:43,680
+they can also be represented with this
+to backwards slash it.
+
+640
+00:53:43,680 --> 00:53:47,880
+And as in regular expression,
+this is how we represent
+
+641
+00:53:47,880 --> 00:53:52,000
+a string space.
+
+642
+00:53:52,000 --> 00:53:56,960
+So what if I am explicitly
+assigning the value now
+
+643
+00:53:57,480 --> 00:54:05,760
+the contents of the original variable,
+they will change, right?
+
+644
+00:54:06,240 --> 00:54:09,480
+So what I am saying is things are
+
+645
+00:54:10,800 --> 00:54:11,440
+immutable.
+
+646
+00:54:11,440 --> 00:54:18,160
+They cannot we change then how the value
+of this SDR tool got updated, right?
+
+647
+00:54:18,320 --> 00:54:19,920
+It should not be updated.
+
+648
+00:54:19,920 --> 00:54:22,840
+It should still be having these spaces.
+
+649
+00:54:23,160 --> 00:54:26,720
+If the values of these
+things cannot change.
+
+650
+00:54:26,880 --> 00:54:32,880
+Can you guys
+can you explain what is going on in here?
+
+651
+00:54:32,880 --> 00:54:39,880
+Reassigning and changing?
+
+652
+00:54:39,880 --> 00:54:42,040
+So this is this
+is what is happening in here two days.
+
+653
+00:54:43,920 --> 00:54:45,840
+So when we
+
+654
+00:54:45,840 --> 00:54:48,960
+when we declare this thing a memory
+
+655
+00:54:48,960 --> 00:54:51,120
+location inside,
+
+656
+00:54:51,960 --> 00:54:55,400
+the computer will be occupied
+and it will be placed
+
+657
+00:54:55,480 --> 00:55:00,240
+this string will be placed
+with spaces inside that box.
+
+658
+00:55:00,840 --> 00:55:04,720
+And now that variable
+is actually pointing to that box.
+
+659
+00:55:05,040 --> 00:55:08,640
+When we say the strings are immutable,
+we mean that
+
+660
+00:55:08,640 --> 00:55:12,920
+the contents of this box
+can not be changed again.
+
+661
+00:55:13,640 --> 00:55:15,440
+But what can we do?
+
+662
+00:55:15,440 --> 00:55:17,720
+We can create a new box.
+
+663
+00:55:17,720 --> 00:55:22,360
+So when we are removing the spaces and
+when we are actually assigning the value,
+
+664
+00:55:22,400 --> 00:55:26,840
+what is happening behind the scenes
+in new boxes being created?
+
+665
+00:55:26,880 --> 00:55:30,360
+Because now the contents of this box
+
+666
+00:55:31,480 --> 00:55:34,320
+and this box, they are not same, okay?
+
+667
+00:55:34,800 --> 00:55:36,440
+Because the conditions are same.
+
+668
+00:55:36,440 --> 00:55:43,320
+So Java will create a new box
+and then this new box will be
+
+669
+00:55:43,320 --> 00:55:47,520
+we are pointing to this new box in here,
+but we will need to note box.
+
+670
+00:55:48,200 --> 00:55:51,480
+It will always be staying unchanged.
+
+671
+00:55:51,520 --> 00:55:54,280
+Okay, so this is what what would we say?
+
+672
+00:55:54,280 --> 00:55:57,480
+That settings are mutable,
+strings are immutable.
+
+673
+00:55:57,480 --> 00:56:02,400
+We say once a memory box for a string
+object is created inside
+
+674
+00:56:02,800 --> 00:56:06,800
+the computer's memory,
+that box be contained.
+
+675
+00:56:06,800 --> 00:56:09,000
+Inside that box is never change.
+
+676
+00:56:09,600 --> 00:56:15,320
+If we are trying to change the contents
+in new boxes created in new memory.
+
+677
+00:56:15,360 --> 00:56:21,000
+Sally created and then the variable binds
+to that new box.
+
+678
+00:56:21,360 --> 00:56:24,000
+But in the case of this thing builder
+
+679
+00:56:24,480 --> 00:56:27,360
+only one box is declared
+inside the memory.
+
+680
+00:56:27,400 --> 00:56:32,520
+When we said string builder SDR
+to only one box was declared.
+
+681
+00:56:33,000 --> 00:56:38,000
+When we call this reverse, the changes
+were made to this original box.
+
+682
+00:56:38,400 --> 00:56:41,280
+Okay. No, no, no new box was created.
+
+683
+00:56:41,280 --> 00:56:46,600
+That's why we see the changes
+in the original variable in here.
+
+684
+00:56:46,600 --> 00:56:51,600
+So that original box will be a store
+consuming more memory that is unused.
+
+685
+00:56:51,720 --> 00:56:52,760
+Yes, ma'am.
+
+686
+00:56:52,760 --> 00:56:57,200
+So in this string,
+so that's why intelligible saying
+
+687
+00:56:57,520 --> 00:57:01,080
+when I was changing the value
+of that string again and again,
+
+688
+00:57:01,440 --> 00:57:04,280
+I was creating each time
+I was creating a new box
+
+689
+00:57:04,760 --> 00:57:07,080
+for each iteration,
+I was creating a new box.
+
+690
+00:57:07,640 --> 00:57:08,160
+That's why.
+
+691
+00:57:08,160 --> 00:57:09,720
+And DeLaria told me in their task
+
+692
+00:57:09,720 --> 00:57:14,040
+that this is not the most efficient
+approach that you are
+
+693
+00:57:15,000 --> 00:57:15,960
+using in here.
+
+694
+00:57:15,960 --> 00:57:17,040
+Okay? You are.
+
+695
+00:57:17,040 --> 00:57:19,560
+For each iteration,
+
+696
+00:57:19,560 --> 00:57:21,040
+you are creating a new box.
+
+697
+00:57:21,040 --> 00:57:27,000
+Maybe you should go with the String
+Builder class to save some memory.
+
+698
+00:57:27,000 --> 00:57:29,840
+Is it clear now which
+
+699
+00:57:37,880 --> 00:57:41,520
+So I saw this
+two times during the interviews.
+
+700
+00:57:41,760 --> 00:57:45,480
+So they asked a student
+to write a piece of code
+
+701
+00:57:45,480 --> 00:57:49,560
+and they said that this piece of code
+should complete this
+
+702
+00:57:49,560 --> 00:57:54,800
+task in in this time
+and time was in millis and in microseconds
+
+703
+00:57:55,280 --> 00:57:58,440
+and when I was solving that interview
+
+704
+00:57:58,440 --> 00:58:01,080
+and when I used the string class,
+
+705
+00:58:01,880 --> 00:58:06,000
+the test cases for that question
+were not passing and the editor lost that.
+
+706
+00:58:06,000 --> 00:58:09,040
+This code that you guys have written,
+it is taking more time.
+
+707
+00:58:09,520 --> 00:58:12,520
+Then I replaced this thing
+with String Builder
+
+708
+00:58:12,520 --> 00:58:16,560
+and then the than we did
+wasn't much so of the components
+
+709
+00:58:16,560 --> 00:58:21,600
+they will be explicitly asking you
+to write more efficient code
+
+710
+00:58:22,680 --> 00:58:24,240
+which one is recommended to you.
+
+711
+00:58:24,240 --> 00:58:29,920
+So Shareef if you are not planning
+to change the contents
+
+712
+00:58:29,920 --> 00:58:32,920
+of this variable again and again,
+
+713
+00:58:34,000 --> 00:58:36,360
+always, always go with the string class.
+
+714
+00:58:37,320 --> 00:58:41,640
+If you are planning to change the contents
+of a variable again and again,
+
+715
+00:58:42,840 --> 00:58:46,240
+try to use distinguish the class.
+
+716
+00:58:46,240 --> 00:58:49,960
+Does the string builder
+reassign the string
+
+717
+00:58:50,400 --> 00:58:53,320
+so it does not reassign the string
+hallmark?
+
+718
+00:58:53,360 --> 00:58:56,880
+It actually the changes
+to that original box.
+
+719
+00:58:57,400 --> 00:58:59,880
+So if we are making changes
+to the original box,
+
+720
+00:59:00,240 --> 00:59:02,520
+then we don't need to do anything right.
+
+721
+00:59:02,520 --> 00:59:05,280
+We don't need to reassign
+
+722
+00:59:05,280 --> 00:59:06,960
+whenever we have a new box,
+
+723
+00:59:06,960 --> 00:59:16,640
+then we need to reassign it. So.
+
+724
+00:59:16,640 --> 00:59:20,640
+So can you guys now explain the difference
+between string and string
+
+725
+00:59:20,640 --> 00:59:24,880
+builder glass
+if someone asks you so keep things busy.
+
+726
+00:59:26,120 --> 00:59:28,040
+It's about saving memory.
+
+727
+00:59:28,040 --> 00:59:31,600
+I Yes, spinning
+it can save a lot of memory
+
+728
+00:59:32,080 --> 00:59:36,960
+because every time you declare
+a new string variable, it checks
+
+729
+00:59:37,560 --> 00:59:41,400
+if indeed the content that you are trying
+to store in that variable,
+
+730
+00:59:41,400 --> 00:59:44,400
+it will go inside the memory
+and it will check
+
+731
+00:59:44,920 --> 00:59:48,120
+if that variable is already declared
+or not.
+
+732
+00:59:48,960 --> 00:59:49,680
+Okay.
+
+733
+00:59:49,920 --> 00:59:54,440
+So if that variable is already declared
+and memory location is already there,
+
+734
+00:59:54,440 --> 00:59:59,160
+that contains the exact same string,
+it will not be creating a new box.
+
+735
+00:59:59,600 --> 01:00:04,800
+It will be reassigning that box.
+
+736
+01:00:04,800 --> 01:00:06,960
+Yes, it is similar to yesterday's example.
+
+737
+01:00:06,960 --> 01:00:07,880
+Lots of accidents.
+
+738
+01:00:07,880 --> 01:00:10,200
+So you guys asked me to show an example.
+
+739
+01:00:10,200 --> 01:00:12,840
+That's why I'm showing this example.
+
+740
+01:00:12,840 --> 01:00:13,600
+String Builder.
+
+741
+01:00:13,600 --> 01:00:15,920
+If you need to keep reassigning. Yes.
+
+742
+01:00:15,920 --> 01:00:19,880
+If we need to keep reassigning,
+that's when we should be using this thing.
+
+743
+01:00:19,920 --> 01:00:23,640
+The class is all about memory.
+Interesting.
+
+744
+01:00:23,640 --> 01:00:27,280
+And the reason that is why I'm focusing,
+why I'm stressing so much
+
+745
+01:00:27,920 --> 01:00:34,120
+this spring class
+is the most widely used class in Java.
+
+746
+01:00:34,120 --> 01:00:39,000
+You will not find any real life
+application without the string class
+
+747
+01:00:39,480 --> 01:00:42,840
+and it can greatly affect the performance
+
+748
+01:00:42,840 --> 01:00:46,840
+if you are not properly using
+the string or string class,
+
+749
+01:00:47,840 --> 01:00:50,600
+why would you run to the singular before
+
+750
+01:00:52,720 --> 01:00:53,200
+alone?
+
+751
+01:00:53,200 --> 01:00:56,880
+You mean when we were showing
+the simpler examples for you guys
+
+752
+01:00:58,200 --> 01:00:59,960
+in classes? No.
+
+753
+01:00:59,960 --> 01:01:05,040
+So most of the time
+you guys will be using the string class
+
+754
+01:01:05,120 --> 01:01:09,520
+only when you are changing the contents
+of the variable again and again.
+
+755
+01:01:09,520 --> 01:01:12,240
+Then you will be using this singular
+class.
+
+756
+01:01:12,240 --> 01:01:16,280
+Testing is still
+the most widely used class in Java.
+
+757
+01:01:17,160 --> 01:01:17,640
+Okay.
+
+758
+01:01:17,640 --> 01:01:21,240
+It's not that it's now useless
+and you should go always with this thing.
+
+759
+01:01:21,240 --> 01:01:22,080
+Builder.
+
+760
+01:01:22,080 --> 01:01:26,000
+Remember guys going to use this thing
+and when to use this finger class.
+
+761
+01:01:26,280 --> 01:01:29,360
+Can you guys quickly tell me
+when you should be using the string class
+
+762
+01:01:29,360 --> 01:01:37,560
+and when you guys should be using this
+finger to class?
+
+763
+01:01:37,560 --> 01:01:38,880
+Remember, things happen, guys.
+
+764
+01:01:38,880 --> 01:01:43,520
+Remember Android and iPhone, iPhone,
+the things that iPhone can do
+
+765
+01:01:43,520 --> 01:01:46,720
+in six gigabyte, It cannot it shouldn't
+
+766
+01:01:46,720 --> 01:01:49,680
+do that even in 12 gigabytes.
+
+767
+01:01:50,480 --> 01:02:06,880
+So this is the reason behind.
+
+768
+01:02:06,880 --> 01:02:08,920
+Yes, iPhone users distinguish the
+
+769
+01:02:22,240 --> 01:02:24,120
+thing with the
+
+770
+01:02:25,080 --> 01:02:26,640
+base system, which is
+
+771
+01:02:26,640 --> 01:02:28,840
+I don't remember fastest boom
+
+772
+01:02:30,520 --> 01:02:31,840
+greenglass glass. We ordered one.
+
+773
+01:02:31,840 --> 01:02:35,280
+We don't change the code
+while we use Angular one.
+
+774
+01:02:35,280 --> 01:02:39,640
+We change the code constantly
+so that instead of saying change the core,
+
+775
+01:02:39,640 --> 01:02:44,520
+you should say change the contents
+of the string variable.
+
+776
+01:02:45,360 --> 01:02:47,760
+When strings keep changing,
+we use Angular.
+
+777
+01:02:47,760 --> 01:02:51,200
+Yes, perfect answer string.
+
+778
+01:02:51,200 --> 01:02:54,840
+When you are not planning for changes
+in the contents
+
+779
+01:02:54,840 --> 01:02:58,520
+of string. Yes.
+
+780
+01:02:58,680 --> 01:03:00,360
+And are you guys doing
+
+781
+01:03:00,360 --> 01:03:04,040
+some kind of sessions
+with your group methods?
+
+782
+01:03:04,600 --> 01:03:07,800
+Do they teach each other
+
+783
+01:03:08,160 --> 01:03:11,960
+or to try to explain the concept concepts
+to each other?
+
+784
+01:03:12,440 --> 01:03:14,040
+Remember, guys,
+
+785
+01:03:14,400 --> 01:03:16,880
+I have seen students, very good students
+
+786
+01:03:18,600 --> 01:03:22,640
+all doing everything on schedule,
+performing very well in the class,
+
+787
+01:03:22,960 --> 01:03:26,560
+but because they lack
+the communication skills, it takes
+
+788
+01:03:26,760 --> 01:03:29,720
+sometimes one or two months for them
+to get a job.
+
+789
+01:03:30,320 --> 01:03:33,680
+And the students
+who are even below average or average
+
+790
+01:03:34,320 --> 01:03:37,160
+because they have good
+communication skills, because they know
+
+791
+01:03:37,480 --> 01:03:42,480
+how to explain something to others, they
+they can get their jobs in within weeks.
+
+792
+01:03:42,760 --> 01:03:46,200
+So interviews
+they will not be knowing your background.
+
+793
+01:03:46,280 --> 01:03:48,720
+They don't know what you know
+or what you don't know.
+
+794
+01:03:48,720 --> 01:03:54,680
+It's how you explain this is how they will
+be checking the way you explain things.
+
+795
+01:03:54,720 --> 01:03:55,360
+Okay.
+
+796
+01:03:55,760 --> 01:03:58,080
+So try to focus on that.
+
+797
+01:03:58,080 --> 01:04:00,880
+Okay. Here's my problem.
+It is very important.
+
+798
+01:04:00,880 --> 01:04:04,000
+Very, very important.
+
+799
+01:04:04,000 --> 01:04:06,560
+In a single event,
+you want to make changes
+
+800
+01:04:09,160 --> 01:04:13,000
+and we
+
+801
+01:04:13,000 --> 01:04:16,520
+bounce ideas off each other
+and turn to each other for help.
+
+802
+01:04:16,720 --> 01:04:26,840
+There.
+
+803
+01:04:26,840 --> 01:04:30,400
+So this is how we solve the task. One
+
+804
+01:04:32,560 --> 01:04:33,840
+Are there any questions?
+
+805
+01:04:33,840 --> 01:04:40,640
+So my communication skill is below
+zero negative.
+
+806
+01:04:40,640 --> 01:04:41,240
+I am good.
+
+807
+01:04:41,240 --> 01:04:42,000
+I think so.
+
+808
+01:04:42,000 --> 01:04:46,320
+I do two or three interviews
+already for different different jobs.
+
+809
+01:04:46,720 --> 01:04:48,600
+They explain on average disorders.
+
+810
+01:04:48,600 --> 01:04:51,360
+They will say like 8 to 10 interviews.
+
+811
+01:04:51,840 --> 01:04:56,080
+So before they get the job,
+but only because you guys
+
+812
+01:04:56,080 --> 01:04:57,280
+have to learn so many things.
+
+813
+01:04:57,280 --> 01:05:00,000
+In the interview, this gentleman.
+
+814
+01:05:00,000 --> 01:05:01,160
+But if you're if your
+
+815
+01:05:01,160 --> 01:05:04,560
+communication skills are good,
+you guys will be very, very good.
+
+816
+01:05:05,240 --> 01:05:07,080
+Soft skills are important.
+
+817
+01:05:07,080 --> 01:05:09,080
+I am my native language
+
+818
+01:05:12,600 --> 01:05:13,920
+and you do the place
+
+819
+01:05:13,920 --> 01:05:16,280
+all with the string builder class.
+
+820
+01:05:17,680 --> 01:05:20,280
+So this will replace all methods for Hunt.
+
+821
+01:05:20,280 --> 01:05:23,960
+I think the replace out
+method is is a little different
+
+822
+01:05:23,960 --> 01:05:27,720
+in this finger class.
+
+823
+01:05:27,720 --> 01:05:30,360
+Why is it not working in single class?
+
+824
+01:05:30,360 --> 01:05:33,120
+Yes. Look, it's different. Okay?
+
+825
+01:05:33,720 --> 01:05:38,280
+So these replace all matter
+to the regular expressions.
+
+826
+01:05:38,280 --> 01:05:40,440
+It's only available in the string class.
+
+827
+01:05:40,800 --> 01:05:44,880
+So that's why I have told
+you guys how to convert back and forth.
+
+828
+01:05:44,880 --> 01:05:48,520
+Your finger instinct, the classes
+you guys remember.
+
+829
+01:05:48,880 --> 01:05:55,240
+So in the last example, let's see,
+
+830
+01:05:55,240 --> 01:05:58,800
+you want to use some matters
+from distinguish the class.
+
+831
+01:05:58,800 --> 01:06:03,720
+So you take your string,
+you place is inside these practices
+
+832
+01:06:03,720 --> 01:06:07,560
+and now you have a string builder and
+
+833
+01:06:09,000 --> 01:06:11,760
+once and now if you want to go back to the
+
+834
+01:06:13,200 --> 01:06:15,520
+string class, what you can do,
+
+835
+01:06:15,520 --> 01:06:17,880
+you can see
+
+836
+01:06:21,120 --> 01:06:23,200
+thing builder dot will spin.
+
+837
+01:06:23,200 --> 01:06:27,240
+Okay,
+so this boasting to convert the string
+
+838
+01:06:27,600 --> 01:06:29,800
+builder object back to a string.
+
+839
+01:06:30,280 --> 01:06:32,840
+And if you want to convert a string
+
+840
+01:06:32,840 --> 01:06:36,400
+to expand builder,
+you step inside these band and tissues.
+
+841
+01:06:36,400 --> 01:06:38,760
+Okay?
+That's how you convert back and forth.
+
+842
+01:06:38,760 --> 01:06:41,400
+So use the method from both the classes.
+
+843
+01:06:42,000 --> 01:06:44,560
+I asked them, maybe ones that I could not
+graduate.
+
+844
+01:06:44,560 --> 01:06:48,880
+Will will learn more about string builder
+like string functions. No,
+
+845
+01:06:50,400 --> 01:06:52,240
+we will not be learning
+
+846
+01:06:52,240 --> 01:06:54,480
+our P functions from this thing or class.
+
+847
+01:06:55,760 --> 01:06:58,440
+So I hope you guys can use the methods
+
+848
+01:06:58,440 --> 01:07:01,000
+from the string builder
+if they are needed.
+
+849
+01:07:01,200 --> 01:07:01,920
+Right.
+
+850
+01:07:01,920 --> 01:07:05,880
+You can just hover your mouse over
+the matter, you can read the description
+
+851
+01:07:06,200 --> 01:07:07,640
+and you can figure it out.
+
+852
+01:07:07,640 --> 01:07:12,320
+And if this is how I want to do
+of how to solve
+
+853
+01:07:12,320 --> 01:07:17,280
+the problems related to these classes,
+let's say you have to reverse something.
+
+854
+01:07:17,280 --> 01:07:19,120
+Let's say you have to replace something,
+
+855
+01:07:19,120 --> 01:07:22,560
+you have to search something or whatever
+you guys are planning to do.
+
+856
+01:07:23,200 --> 01:07:27,440
+Try to search that function,
+try to search that on the Google fast.
+
+857
+01:07:27,440 --> 01:07:28,520
+So let's see, for example,
+
+858
+01:07:28,520 --> 01:07:32,200
+how to reverse testing,
+using using distinguishable class.
+
+859
+01:07:32,640 --> 01:07:35,440
+The moment you type,
+you will be able to find out
+
+860
+01:07:35,440 --> 01:07:39,480
+if there are any methods that can reverse
+the string or not from this single class
+
+861
+01:07:40,560 --> 01:07:42,600
+or you guys can press this,
+
+862
+01:07:42,600 --> 01:07:45,760
+you can type the variable name
+and then you can press start
+
+863
+01:07:45,760 --> 01:07:49,920
+and you can go through all the methods
+that are present inside the name.
+
+864
+01:07:51,560 --> 01:07:55,920
+But honestly, even though I suck at Job
+and I keep applying for a job
+
+865
+01:07:55,920 --> 01:08:00,200
+and speak with my confidence, there's
+a lot of different scenarios differently.
+
+866
+01:08:01,080 --> 01:08:04,360
+There are like rules. It
+
+867
+01:08:06,360 --> 01:08:08,280
+is it clear days
+
+868
+01:08:09,640 --> 01:08:12,280
+how to convert
+is being a twisting builder.
+
+869
+01:08:12,280 --> 01:08:15,720
+Interesting thing that
+
+870
+01:08:18,600 --> 01:08:20,200
+works on the task.
+
+871
+01:08:20,200 --> 01:08:21,400
+Number two
+
+872
+01:08:28,640 --> 01:08:29,440
+appeared
+
+873
+01:08:29,440 --> 01:08:54,760
+right in front,
+
+874
+01:08:54,760 --> 01:08:59,040
+but we are testing
+that should be combination of letters.
+
+875
+01:08:59,080 --> 01:09:01,400
+Number and special factors.
+
+876
+01:09:01,400 --> 01:09:04,880
+Find out how many characters are there
+
+877
+01:09:04,880 --> 01:09:09,440
+in a string.
+
+878
+01:09:09,440 --> 01:09:10,800
+So here it is.
+
+879
+01:09:10,800 --> 01:09:14,560
+Is short for alphanumeric.
+
+880
+01:09:14,560 --> 01:09:17,000
+So Thursday I have this thing
+
+881
+01:09:19,560 --> 01:09:20,440
+that's on
+
+882
+01:09:24,280 --> 01:09:25,840
+me. I
+
+883
+01:09:25,960 --> 01:09:29,600
+guess the above is some numbers
+
+884
+01:09:31,680 --> 01:09:36,080
+and some special characters,
+
+885
+01:09:36,080 --> 01:09:39,240
+and I want to find out
+
+886
+01:09:40,440 --> 01:09:43,240
+how many
+alphanumeric characters are there.
+
+887
+01:09:43,360 --> 01:09:45,200
+How can I do that, guys?
+
+888
+01:09:45,200 --> 01:09:56,960
+Which method I can use to find this out.
+
+889
+01:09:56,960 --> 01:10:08,000
+So first I can replace so.
+
+890
+01:10:08,000 --> 01:10:09,600
+So what I can do?
+
+891
+01:10:09,600 --> 01:10:12,320
+I can replace these to
+
+892
+01:10:13,040 --> 01:10:17,600
+I can remove these three characters
+from the string
+
+893
+01:10:17,600 --> 01:10:22,120
+and then I can use the length
+method to call
+
+894
+01:10:22,680 --> 01:10:26,240
+how many alphanumeric characters
+are there.
+
+895
+01:10:26,640 --> 01:10:27,040
+Okay.
+
+896
+01:10:27,600 --> 01:10:31,000
+So I can say
+
+897
+01:10:31,920 --> 01:10:35,160
+replace everything,
+
+898
+01:10:35,160 --> 01:10:37,480
+but not uppercase
+
+899
+01:10:37,480 --> 01:10:41,480
+and lowercase letters.
+
+900
+01:10:41,480 --> 01:10:45,400
+Sorry, lowercase letters
+and then numbers from 0 to 9.
+
+901
+01:10:46,280 --> 01:10:48,840
+Okay, So don't replace these
+
+902
+01:10:48,840 --> 01:10:51,680
+and replace everything
+
+903
+01:10:51,920 --> 01:10:55,720
+with with nothing,
+
+904
+01:10:55,720 --> 01:10:58,400
+which means they will be removed
+from the string.
+
+905
+01:10:59,160 --> 01:11:01,680
+And then I can use method
+
+906
+01:11:01,680 --> 01:11:06,520
+of chaining means
+I can multiple methods in a single row
+
+907
+01:11:07,280 --> 01:11:09,760
+on a string variable
+
+908
+01:11:10,440 --> 01:11:15,240
+and I can the length method in here think
+
+909
+01:11:23,400 --> 01:11:25,520
+so. Now I get the answer.
+
+910
+01:11:25,520 --> 01:11:28,360
+No matter you think about this,
+
+911
+01:11:28,360 --> 01:11:43,560
+we should.
+
+912
+01:11:43,560 --> 01:11:45,600
+If yes, this way is also good.
+
+913
+01:11:45,600 --> 01:11:49,440
+But remember, guys,
+these are regular expressions.
+
+914
+01:11:50,520 --> 01:11:52,720
+They are not very powerful,
+
+915
+01:11:52,720 --> 01:11:55,120
+but they are also super, super fast.
+
+916
+01:11:55,840 --> 01:11:59,760
+The Loop series that you are writing,
+it will be way slower
+
+917
+01:12:00,960 --> 01:12:02,520
+than this regular expression.
+
+918
+01:12:02,520 --> 01:12:07,480
+So if you are looking for something
+of something that also performs
+
+919
+01:12:07,480 --> 01:12:10,680
+well, you should be using
+the regular expressions.
+
+920
+01:12:10,680 --> 01:12:16,160
+But if the task is to just
+get good results, then it's also good.
+
+921
+01:12:16,160 --> 01:12:17,400
+Why numbers?
+
+922
+01:12:17,400 --> 01:12:20,200
+So that's what if you guys have done it
+
+923
+01:12:20,200 --> 01:12:22,320
+only for four letters.
+
+924
+01:12:23,360 --> 01:12:24,720
+Okay, we can remove this.
+
+925
+01:12:24,720 --> 01:12:28,200
+So in here
+alpha means alphanumeric characters.
+
+926
+01:12:28,600 --> 01:12:31,480
+But the idea
+
+927
+01:12:31,480 --> 01:12:33,480
+if you guys have solved it,
+only four letters,
+
+928
+01:12:33,480 --> 01:12:49,680
+it's out of.
+
+929
+01:12:49,680 --> 01:12:51,280
+So let me answer
+
+930
+01:13:00,200 --> 01:13:00,600
+this.
+
+931
+01:13:00,600 --> 01:13:05,200
+Characters.
+
+932
+01:13:05,200 --> 01:13:09,680
+If you guys search on the Google,
+you see Alpha means alphanumeric.
+
+933
+01:13:10,440 --> 01:13:13,840
+So alphanumeric,
+also known as alphanumeric, simply refers
+
+934
+01:13:13,840 --> 01:13:18,400
+to the type of Latin,
+blah, blah, blah, 0 to 9 and then A to Z.
+
+935
+01:13:18,960 --> 01:13:22,080
+Okay, so do you guys search on the Google
+or you just
+
+936
+01:13:23,120 --> 01:13:25,800
+thought that maybe Alpha means
+
+937
+01:13:25,800 --> 01:13:30,240
+only B characters?
+
+938
+01:13:30,240 --> 01:13:33,600
+So that's why I am writing
+
+939
+01:13:33,600 --> 01:13:37,120
+the numbers as well in here.
+
+940
+01:13:37,680 --> 01:13:39,880
+Is it good now?
+
+941
+01:13:39,880 --> 01:13:43,400
+I understood it wrong.
+
+942
+01:13:43,400 --> 01:13:47,720
+It does includes a few special characters.
+
+943
+01:13:47,720 --> 01:13:50,400
+It also includes a few special characters
+and deliver.
+
+944
+01:13:50,400 --> 01:13:51,320
+Which one?
+
+945
+01:13:52,120 --> 01:13:54,480
+I don't think so
+concludes the special characters.
+
+946
+01:13:55,200 --> 01:13:56,280
+What is it?
+
+947
+01:13:56,520 --> 01:13:57,120
+Okay.
+
+948
+01:13:57,120 --> 01:14:00,440
+Some common symbols
+such as not a terrorist.
+
+949
+01:14:00,960 --> 01:14:02,560
+And this
+
+950
+01:14:04,480 --> 01:14:08,400
+I search 0029 is called alphanumeric.
+
+951
+01:14:08,960 --> 01:14:11,160
+And what we did the idea was this okay,
+
+952
+01:14:11,800 --> 01:14:17,000
+so how could do know certain characters
+and then how to coin, how to count
+
+953
+01:14:17,400 --> 01:14:21,840
+which characters are left behind.
+
+954
+01:14:21,840 --> 01:14:25,040
+If I feel home task, it's easy 100%
+
+955
+01:14:25,040 --> 01:14:30,520
+sure I do something wrong.
+
+956
+01:14:30,520 --> 01:14:32,160
+We find a good time.
+
+957
+01:14:32,160 --> 01:14:33,920
+You guys will be playing now.
+
+958
+01:14:33,920 --> 01:14:39,320
+You guys will be good.
+
+959
+01:14:39,320 --> 01:14:41,960
+It was a bit confusing.
+
+960
+01:14:41,960 --> 01:14:45,280
+So if something is confusing guys
+you can post in this for channel,
+
+961
+01:14:45,400 --> 01:14:48,880
+you guys can drag
+me and I will help you out
+
+962
+01:14:49,840 --> 01:14:50,560
+inside of
+
+963
+01:14:50,560 --> 01:14:53,840
+characters you specify
+if you want letters on
+
+964
+01:14:54,240 --> 01:14:55,160
+those
+
+965
+01:14:56,960 --> 01:14:59,240
+insert characters, you specify
+
+966
+01:14:59,240 --> 01:15:02,760
+If you want letters now
+and then you rephrase the question.
+
+967
+01:15:03,440 --> 01:15:06,560
+Then you explain this one more time.
+
+968
+01:15:06,560 --> 01:15:09,200
+So Abdul, in here
+
+969
+01:15:10,200 --> 01:15:12,440
+we are first replacing
+
+970
+01:15:14,280 --> 01:15:15,480
+everything.
+
+971
+01:15:15,480 --> 01:15:17,760
+So this is the not similar practice,
+correct?
+
+972
+01:15:17,760 --> 01:15:19,080
+Means not
+
+973
+01:15:20,400 --> 01:15:22,920
+this, this this means the not that.
+
+974
+01:15:23,560 --> 01:15:25,720
+So I am saying replace everything
+
+975
+01:15:27,160 --> 01:15:29,760
+other than uppercase here
+
+976
+01:15:29,760 --> 01:15:33,720
+to the location
+to the and numbers from 0 to 9
+
+977
+01:15:35,160 --> 01:15:36,000
+with nothing.
+
+978
+01:15:36,000 --> 01:15:41,160
+Which means if there is anything
+other than these three things,
+
+979
+01:15:41,800 --> 01:15:45,240
+it will be removed from this thing.
+
+980
+01:15:45,760 --> 01:15:49,200
+And after that task has performed so off.
+
+981
+01:15:49,200 --> 01:15:53,200
+So once I get the results back from this,
+replace all methods,
+
+982
+01:15:53,800 --> 01:15:56,280
+I am calling this length method on that.
+
+983
+01:15:57,200 --> 01:16:05,680
+So this is what is going on in here.
+
+984
+01:16:05,680 --> 01:16:10,520
+First, I am removing
+the special characters from this meeting
+
+985
+01:16:10,920 --> 01:16:14,400
+and then that
+I am counting the remaining letters.
+
+986
+01:16:14,440 --> 01:16:17,600
+So once first I remove this, this one,
+these three things
+
+987
+01:16:18,160 --> 01:16:21,080
+that I am left with the numbers
+and I personally.
+
+988
+01:16:21,080 --> 01:16:23,520
+And then I am counting those pins
+
+989
+01:16:24,760 --> 01:16:27,600
+and four equals to alphanumeric in Java.
+
+990
+01:16:27,600 --> 01:16:31,640
+I'll Yes, actually
+
+991
+01:16:31,640 --> 01:16:34,400
+let me do this
+
+992
+01:16:42,560 --> 01:17:18,200
+this slide, this is my understanding
+
+993
+01:17:18,640 --> 01:17:43,480
+and someone says programing is easy.
+
+994
+01:17:43,480 --> 01:17:45,600
+All right, let's solve the next task
+
+995
+01:17:47,200 --> 01:17:54,200
+is a player Abdul,
+the person that did not come
+
+996
+01:17:54,200 --> 01:17:56,360
+and say that to me, I would say
+
+997
+01:18:03,880 --> 01:18:04,400
+so should
+
+998
+01:18:04,400 --> 01:18:07,600
+we move to the next task
+based on all questions
+
+999
+01:18:07,600 --> 01:18:37,360
+all good, then we do it after debate.
+
+1000
+01:18:37,920 --> 01:18:41,720
+So far, yes, we can do it after the break.
+
+1001
+01:18:43,400 --> 01:18:51,120
+Do you guys want a break?
+
+1002
+01:18:51,120 --> 01:18:51,880
+It was fair.
+
+1003
+01:18:51,880 --> 01:18:54,800
+So, first of all,
+I know that your time would be
+
+1004
+01:18:57,800 --> 01:19:00,600
+well, you both discussed solutions. Yes.
+
+1005
+01:19:00,880 --> 01:19:03,680
+I always hear of the board after the class
+
+1006
+01:19:03,680 --> 01:19:05,040
+on the YouTube
+
+1007
+01:19:20,800 --> 01:19:21,320
+that both.
+
+1008
+01:19:21,320 --> 01:19:26,880
+Yes, I will share this solution
+as often happens as well for the year cup.
+
+1009
+01:19:26,880 --> 01:19:29,880
+So right now
+I am posting the solutions on the canvas
+
+1010
+01:19:31,000 --> 01:19:33,160
+so and I forget
+
+1011
+01:19:33,600 --> 01:19:37,200
+to upload the solutions,
+find it at oppose this week.
+
+1012
+01:19:37,320 --> 01:19:40,480
+So I will share the solutions
+after this class.
+
+1013
+01:19:42,160 --> 01:19:44,640
+This a man manager is saying
+get more winners
+
+1014
+01:19:45,640 --> 01:19:47,400
+before we go on break.
+
+1015
+01:19:47,400 --> 01:19:50,480
+Let's let's quickly you solve this fast
+
+1016
+01:19:50,480 --> 01:19:52,920
+so you have a sitting
+
+1017
+01:19:53,400 --> 01:19:54,280
+Saturday.
+
+1018
+01:19:54,280 --> 01:19:57,120
+Is it raining? We have a Java class.
+
+1019
+01:19:57,560 --> 01:20:15,880
+All right.
+
+1020
+01:20:15,880 --> 01:20:18,960
+And how would you find out
+
+1021
+01:20:18,960 --> 01:20:21,000
+how many sentences are there
+
+1022
+01:20:23,160 --> 01:20:24,120
+industry.
+
+1023
+01:20:24,120 --> 01:20:29,040
+So can you guys tell me?
+
+1024
+01:20:29,040 --> 01:20:32,280
+I can use the split method, right?
+
+1025
+01:20:32,840 --> 01:20:33,800
+The split worker.
+
+1026
+01:20:33,800 --> 01:20:34,840
+I won't work.
+
+1027
+01:20:34,840 --> 01:20:46,760
+What should be my condition to split?
+
+1028
+01:20:46,760 --> 01:20:47,920
+Only question What?
+
+1029
+01:20:47,920 --> 01:20:49,920
+What about this thought sign?
+
+1030
+01:20:49,920 --> 01:20:53,520
+This is also the indication
+of a sentence, right?
+
+1031
+01:20:53,520 --> 01:20:58,520
+The sentence can end on a period
+on a exclamation mark on a question.
+
+1032
+01:20:58,520 --> 01:20:59,360
+Question mark.
+
+1033
+01:20:59,360 --> 01:21:04,120
+Right now we have something
+which which notes doodles for English
+
+1034
+01:21:06,080 --> 01:21:07,200
+was posted.
+
+1035
+01:21:07,200 --> 01:21:09,280
+It was question mark in the
+in the question
+
+1036
+01:21:13,400 --> 01:21:14,680
+for. Okay.
+
+1037
+01:21:14,680 --> 01:21:17,280
+So let me appear that
+
+1038
+01:21:22,240 --> 01:21:26,760
+so all question marks one question
+
+1039
+01:21:27,480 --> 01:21:30,160
+and then we're going okay,
+
+1040
+01:21:31,080 --> 01:21:34,080
+then we can use the question mark in here.
+
+1041
+01:21:34,640 --> 01:21:37,720
+But in real life,
+what will be happening, guys?
+
+1042
+01:21:38,040 --> 01:21:41,040
+You guys encounter
+
+1043
+01:21:41,040 --> 01:21:43,080
+a period, right?
+
+1044
+01:21:43,560 --> 01:21:46,440
+And this exclamation mark, right?
+
+1045
+01:21:47,320 --> 01:21:52,000
+So I if I want to find the sentences
+
+1046
+01:21:52,320 --> 01:21:55,200
+and I want to write genetic code
+
+1047
+01:21:55,840 --> 01:21:59,040
+that will work on any type of paragraph,
+
+1048
+01:21:59,720 --> 01:22:03,520
+then I should be looking
+for these three conditions.
+
+1049
+01:22:04,040 --> 01:22:10,080
+Okay, so the split matter
+where the subject method will return,
+
+1050
+01:22:10,080 --> 01:22:22,320
+we guys,
+it will return me and then add it.
+
+1051
+01:22:22,320 --> 01:22:25,000
+And how can I find the length of an edit
+
+1052
+01:22:30,440 --> 01:22:31,400
+document?
+
+1053
+01:22:31,400 --> 01:22:32,040
+All right.
+
+1054
+01:22:32,160 --> 01:22:37,200
+So I also have this length method
+on this thing with the parentheses.
+
+1055
+01:22:37,200 --> 01:22:38,400
+So can you guys tell me
+
+1056
+01:22:38,400 --> 01:22:42,560
+in this thing we use these length,
+but in here we are using this line.
+
+1057
+01:22:42,560 --> 01:22:49,040
+So what is the difference? Yes.
+
+1058
+01:22:49,360 --> 01:22:50,880
+So there are three sentences in
+
+1059
+01:22:59,440 --> 01:23:03,720
+this weird integer call, this split node.
+
+1060
+01:23:04,760 --> 01:23:07,840
+Yes. It's also fine if you are planning
+
+1061
+01:23:07,840 --> 01:23:11,280
+to use that variable in the future code,
+
+1062
+01:23:12,440 --> 01:23:14,280
+then you should be storing
+
+1063
+01:23:14,280 --> 01:23:16,840
+the results first in a variable
+
+1064
+01:23:17,560 --> 01:23:21,800
+and then you can display the contents
+yourself.
+
+1065
+01:23:21,800 --> 01:23:25,640
+So it's absolutely.
+
+1066
+01:23:25,640 --> 01:23:26,560
+Are there any questions?
+
+1067
+01:23:26,560 --> 01:23:27,160
+Great
+
+1068
+01:23:32,080 --> 01:23:33,720
+for everybody.
+
+1069
+01:23:33,720 --> 01:23:48,760
+Can you enough
+
+1070
+01:23:48,760 --> 01:23:52,120
+for my use for this task.
+
+1071
+01:23:53,160 --> 01:23:56,360
+So guys always,
+always try to avoid flawed laws.
+
+1072
+01:23:56,600 --> 01:24:01,840
+They are
+they are not good for performance.
+
+1073
+01:24:01,840 --> 01:24:06,280
+If we have a break open recap class,
+please be sure.
+
+1074
+01:24:08,160 --> 01:24:09,480
+Why were you why
+
+1075
+01:24:09,480 --> 01:24:12,360
+we don't use length and then parentheses.
+
+1076
+01:24:12,480 --> 01:24:15,960
+So can someone tell now why
+we didn't use the land?
+
+1077
+01:24:16,440 --> 01:24:20,120
+So now I think in here why we are using
+
+1078
+01:24:20,400 --> 01:24:29,320
+to weed out those bad entities.
+
+1079
+01:24:29,320 --> 01:24:32,440
+Can you guys tell me the difference
+between land with been
+
+1080
+01:24:32,920 --> 01:24:44,320
+and without benefits?
+
+1081
+01:24:44,320 --> 01:24:53,720
+Yes. Okay.
+
+1082
+01:24:53,760 --> 01:24:56,760
+Yes. It's also good for this example.
+
+1083
+01:24:57,240 --> 01:24:58,640
+I think it's awesome.
+
+1084
+01:24:58,640 --> 01:25:01,400
+So this land is a property.
+
+1085
+01:25:01,400 --> 01:25:03,480
+It's a fear.
+
+1086
+01:25:03,480 --> 01:25:06,400
+You guys remember the how it class.
+
+1087
+01:25:06,520 --> 01:25:09,000
+What does the what does this thing work.
+
+1088
+01:25:09,000 --> 01:25:11,120
+What are the things that a class contains?
+
+1089
+01:25:11,600 --> 01:25:14,360
+If you ask and have matters and
+
+1090
+01:25:14,360 --> 01:25:17,520
+a class can have properties three years.
+
+1091
+01:25:18,000 --> 01:25:20,720
+So the this land is actually
+
+1092
+01:25:20,720 --> 01:25:24,240
+a field on the add a class.
+
+1093
+01:25:24,240 --> 01:25:27,120
+That field contains the number of
+
+1094
+01:25:28,560 --> 01:25:30,720
+elements that are dead in an attic
+
+1095
+01:25:31,000 --> 01:25:35,040
+while that land with these better pieces.
+
+1096
+01:25:35,440 --> 01:25:38,200
+It's a method on the string class.
+
+1097
+01:25:38,400 --> 01:25:42,080
+So whenever you have to count
+the number of characters in testing,
+
+1098
+01:25:42,440 --> 01:25:44,600
+we use the land to be the parentheses.
+
+1099
+01:25:45,080 --> 01:25:50,000
+But whenever we have to find out
+how many elements are there in a string
+
+1100
+01:25:50,720 --> 01:25:54,360
+in, an in an edit,
+we use this length field
+
+1101
+01:25:54,640 --> 01:26:00,000
+and because this split method,
+because it is a returning, it's an attic.
+
+1102
+01:26:00,440 --> 01:26:03,560
+So that's why we use to this land in here.
+
+1103
+01:26:04,560 --> 01:26:10,760
+Okay.
+
+1104
+01:26:10,760 --> 01:26:11,520
+All right.
+
+1105
+01:26:11,520 --> 01:26:16,120
+This placement, please remind me
+about the recording when you guys are back
+
+1106
+01:26:16,440 --> 01:26:18,760
+in there. 70
+
+1107
+01:26:23,280 --> 01:26:25,640
+after recording
+
+1108
+01:26:28,000 --> 01:26:29,920
+and less notes.
+
+1109
+01:26:29,920 --> 01:26:55,000
+All the next problem.
+
+1110
+01:26:55,000 --> 01:26:57,080
+How would you reverse this thing?
+
+1111
+01:26:58,440 --> 01:27:00,960
+Is it cold there in your city?
+
+1112
+01:27:01,080 --> 01:27:02,400
+No, not that. Or
+
+1113
+01:27:11,080 --> 01:27:13,840
+so let's bring this stream.
+
+1114
+01:27:14,080 --> 01:27:23,040
+SDR. I heard in Tajikistan
+
+1115
+01:27:23,040 --> 01:27:26,160
+it goes to -20 or 30, right?
+
+1116
+01:27:26,400 --> 01:27:29,760
+This in winter
+
+1117
+01:27:32,360 --> 01:27:34,320
+will not go below
+
+1118
+01:27:34,320 --> 01:27:37,480
+minus one or minus four max of minus two.
+
+1119
+01:27:38,320 --> 01:27:40,800
+And I am from all
+
+1120
+01:27:43,120 --> 01:27:46,520
+see you. So,
+
+1121
+01:27:48,000 --> 01:27:51,240
+so let's figure we have a state
+
+1122
+01:28:06,120 --> 01:28:08,520
+and I want to reverse.
+
+1123
+01:28:08,520 --> 01:28:11,760
+So I don't want to
+change the positions in here,
+
+1124
+01:28:12,760 --> 01:28:15,160
+but I want to reverse
+
+1125
+01:28:15,160 --> 01:28:17,440
+the letters in each work.
+
+1126
+01:28:17,840 --> 01:28:21,320
+So this the position of this
+will states same
+
+1127
+01:28:23,480 --> 01:28:28,320
+now three degrees centigrade.
+
+1128
+01:28:28,320 --> 01:28:52,680
+So how can I do that days
+What should be my first approach?
+
+1129
+01:28:52,680 --> 01:28:56,040
+So first I should get each word
+
+1130
+01:28:57,480 --> 01:29:00,080
+from this sentence.
+
+1131
+01:29:00,760 --> 01:29:04,760
+I did with low,
+but if I start, approach would be bad.
+
+1132
+01:29:05,040 --> 01:29:08,040
+But I think the first
+
+1133
+01:29:08,040 --> 01:29:11,280
+I split and I get
+
+1134
+01:29:12,960 --> 01:29:15,000
+the entity
+
+1135
+01:29:21,760 --> 01:29:22,240
+in here.
+
+1136
+01:29:22,240 --> 01:29:27,680
+So I say ASCII or split,
+
+1137
+01:29:27,680 --> 01:29:30,880
+you just defy these space.
+
+1138
+01:29:31,280 --> 01:29:34,080
+So after this I will be getting an area
+
+1139
+01:29:34,200 --> 01:29:36,480
+with individual
+
+1140
+01:29:37,680 --> 01:29:38,760
+words. Okay?
+
+1141
+01:29:38,760 --> 01:29:43,200
+And then I can do I can start a loop.
+
+1142
+01:29:43,720 --> 01:29:47,640
+Okay, Get each
+
+1143
+01:29:47,640 --> 01:29:51,600
+word one by one
+
+1144
+01:29:55,720 --> 01:29:57,600
+from this addy
+
+1145
+01:30:02,520 --> 01:30:04,960
+and then I can reverse it.
+
+1146
+01:30:05,520 --> 01:30:08,120
+I can reverse it.
+
+1147
+01:30:08,120 --> 01:30:13,960
+So let's try
+
+1148
+01:30:13,960 --> 01:30:18,320
+to use the method
+from the string builder class.
+
+1149
+01:30:18,760 --> 01:30:22,320
+So all if if you guys have a method
+
+1150
+01:30:23,120 --> 01:30:25,440
+for something, always try to pressure
+
+1151
+01:30:25,440 --> 01:30:28,840
+that method because these letters,
+they are written by experts.
+
+1152
+01:30:28,840 --> 01:30:31,240
+Okay,
+so whatever code you will be writing,
+
+1153
+01:30:31,240 --> 01:30:34,720
+there are chances that the code
+that is written by Java guys,
+
+1154
+01:30:34,720 --> 01:30:38,040
+or if you are using some library
+that will be more efficient,
+
+1155
+01:30:39,240 --> 01:30:42,240
+can we reverse using our gloss bottle?
+
+1156
+01:30:42,560 --> 01:30:43,680
+Yes, we can
+
+1157
+01:30:46,600 --> 01:30:49,880
+bring B for I learned C++.
+
+1158
+01:30:49,880 --> 01:30:51,480
+Yes, we can also use that.
+
+1159
+01:30:51,480 --> 01:30:55,440
+And so how can I convert
+
+1160
+01:30:55,880 --> 01:30:58,960
+is spin boosting builder nice E
+
+1161
+01:31:00,920 --> 01:31:02,880
+Let's say you want to use a method
+
+1162
+01:31:02,880 --> 01:31:05,520
+from this thing builder class
+that reverse method.
+
+1163
+01:31:06,560 --> 01:31:09,840
+So how can I can work this word spin
+
+1164
+01:31:09,880 --> 01:31:29,000
+twisting builder.
+
+1165
+01:31:29,000 --> 01:31:39,560
+So I build the
+
+1166
+01:31:43,440 --> 01:31:44,400
+string
+
+1167
+01:31:45,440 --> 01:31:47,840
+weird word or new
+
+1168
+01:31:50,600 --> 01:31:51,920
+and then
+
+1169
+01:31:55,840 --> 01:31:56,920
+import
+
+1170
+01:31:57,440 --> 01:31:59,880
+and I pass
+
+1171
+01:31:59,960 --> 01:32:01,640
+this word
+
+1172
+01:32:02,000 --> 01:32:03,080
+in here.
+
+1173
+01:32:03,080 --> 01:32:03,920
+All right.
+
+1174
+01:32:04,720 --> 01:32:09,120
+And then what I can do, I can do
+
+1175
+01:32:09,120 --> 01:32:13,480
+we have use string word
+so you guys don't have to use this thing.
+
+1176
+01:32:13,480 --> 01:32:18,200
+Builder I'm using String Builder
+because there is already a method
+
+1177
+01:32:19,320 --> 01:32:22,840
+present inside the string builder
+to reverse a string.
+
+1178
+01:32:22,840 --> 01:32:23,360
+Okay.
+
+1179
+01:32:23,400 --> 01:32:26,920
+And we should always,
+always prefer the building meters
+
+1180
+01:32:28,240 --> 01:32:32,640
+to solve these problems.
+
+1181
+01:32:32,640 --> 01:32:36,600
+Well, can I request nice line
+we are converting to array.
+
+1182
+01:32:37,320 --> 01:32:39,760
+So if we don't convert it to any,
+
+1183
+01:32:40,360 --> 01:32:42,760
+then how can I get these words
+
+1184
+01:32:44,040 --> 01:32:44,800
+from this
+
+1185
+01:32:44,800 --> 01:32:50,400
+sentence? Now?
+
+1186
+01:32:50,400 --> 01:32:55,960
+Because remember, I want to reverse this
+string word of dialog.
+
+1187
+01:32:55,960 --> 01:33:00,280
+I don't want to change the position
+of this word in here in last.
+
+1188
+01:33:00,800 --> 01:33:04,080
+So if you are only writing the reverse
+
+1189
+01:33:04,080 --> 01:33:08,960
+for loop, the position of this,
+it will be in the last of the Yes,
+
+1190
+01:33:08,960 --> 01:33:14,640
+it will be reversed,
+but the position will be at the last.
+
+1191
+01:33:14,640 --> 01:33:17,240
+So that's why I am getting a letter.
+
+1192
+01:33:18,000 --> 01:33:20,480
+I am reversing it
+
+1193
+01:33:20,520 --> 01:33:22,280
+and then I am appending it.
+
+1194
+01:33:22,280 --> 01:33:26,960
+So what I can do,
+I can apply a loop in here, right?
+
+1195
+01:33:27,480 --> 01:33:29,560
+I can say it's string builder
+
+1196
+01:33:32,600 --> 01:33:36,440
+or replace
+
+1197
+01:33:40,640 --> 01:33:42,320
+or reverse
+
+1198
+01:33:42,520 --> 01:33:42,840
+meaning.
+
+1199
+01:33:42,840 --> 01:33:45,840
+Then I can print out
+
+1200
+01:33:46,880 --> 01:33:53,960
+the spacing here.
+
+1201
+01:33:53,960 --> 01:33:57,720
+So what I am going in here,
+I get this, I reverse it.
+
+1202
+01:33:57,720 --> 01:34:02,000
+I printed, then I get is
+I reverse it I printed without finger.
+
+1203
+01:34:02,000 --> 01:34:07,440
+The class can be reversed
+using only a gloss loop or with word
+
+1204
+01:34:08,680 --> 01:34:12,120
+no. If you want to replace.
+
+1205
+01:34:12,120 --> 01:34:15,720
+So if you want a reverse loop
+you cannot use and are lost.
+
+1206
+01:34:15,720 --> 01:34:32,720
+What looks like that.
+
+1207
+01:34:32,720 --> 01:34:35,760
+But instead of putting
+
+1208
+01:34:37,920 --> 01:34:39,480
+lazy basically
+
+1209
+01:34:39,480 --> 01:34:42,840
+is reversed by the position of this word.
+
+1210
+01:34:42,840 --> 01:34:44,200
+This is not changed.
+
+1211
+01:34:44,200 --> 01:34:46,400
+It's still the first word in the sentence
+
+1212
+01:34:51,640 --> 01:34:54,520
+and in the paper.
+
+1213
+01:34:54,520 --> 01:34:59,840
+Guys, I am sure you guys have tried
+to build atomic bombs for this example,
+
+1214
+01:34:59,920 --> 01:35:07,240
+for this task right.
+
+1215
+01:35:07,240 --> 01:35:09,880
+And we just two words.
+
+1216
+01:35:10,640 --> 01:35:15,280
+What do you mean just do words?
+
+1217
+01:35:15,280 --> 01:35:16,800
+Check this, please.
+
+1218
+01:35:16,800 --> 01:35:21,840
+If we use land without that
+and to see is in reverse.
+
+1219
+01:35:22,480 --> 01:35:24,680
+Correct inherit.
+
+1220
+01:35:24,680 --> 01:35:27,240
+We use land without that indices
+
+1221
+01:35:28,440 --> 01:35:29,640
+into reverse.
+
+1222
+01:35:29,640 --> 01:35:30,520
+Now, what do you mean?
+
+1223
+01:35:30,520 --> 01:35:34,240
+Can you leave your question
+
+1224
+01:35:35,040 --> 01:35:37,600
+String Reverse word
+
+1225
+01:35:39,000 --> 01:35:41,320
+thought is
+
+1226
+01:35:42,320 --> 01:35:44,080
+so said if this is not correct
+
+1227
+01:35:44,080 --> 01:35:48,960
+because you see, the position of the
+world today has been change.
+
+1228
+01:35:50,760 --> 01:35:53,400
+We want to change the position of words.
+
+1229
+01:35:53,720 --> 01:35:56,400
+If this is the first word, it should stay
+
+1230
+01:35:56,440 --> 01:36:06,360
+the first word.
+
+1231
+01:36:06,360 --> 01:36:19,920
+Instead, I understood the problem
+
+1232
+01:36:19,920 --> 01:36:22,800
+as reversing the order of first Berkeley,
+having that
+
+1233
+01:36:23,120 --> 01:36:24,720
+in fact
+
+1234
+01:36:26,480 --> 01:36:27,640
+ordered it for
+
+1235
+01:36:27,640 --> 01:36:36,960
+no work.
+
+1236
+01:36:36,960 --> 01:36:38,280
+Nothing is wrong.
+
+1237
+01:36:38,280 --> 01:36:41,560
+And let's see,
+you are getting the expected output.
+
+1238
+01:36:43,360 --> 01:36:45,720
+Expect something else
+
+1239
+01:36:45,960 --> 01:36:48,240
+on line nine. Why we use.
+
+1240
+01:36:48,240 --> 01:36:52,240
+So if we don't use this,
+there will be no spaces between the words.
+
+1241
+01:36:53,280 --> 01:36:59,560
+So the let's say if I don't do this,
+
+1242
+01:36:59,560 --> 01:37:04,880
+then there will be no spaces.
+
+1243
+01:37:04,880 --> 01:37:07,040
+Or finally I
+
+1244
+01:37:09,240 --> 01:37:12,600
+buried specification
+
+1245
+01:37:14,200 --> 01:37:15,360
+inhumane.
+
+1246
+01:37:15,360 --> 01:37:23,760
+Okay, so let me do this.
+
+1247
+01:37:23,760 --> 01:37:26,440
+So it
+
+1248
+01:37:26,600 --> 01:37:30,600
+for example is in
+
+1249
+01:37:35,400 --> 01:37:41,360
+this auction
+
+1250
+01:37:42,360 --> 01:38:07,680
+here this in me up to the last
+
+1251
+01:38:08,400 --> 01:38:10,040
+the slides
+
+1252
+01:38:17,560 --> 01:38:22,000
+so that didn't express the all the
+
+1253
+01:39:06,080 --> 01:39:08,400
+you did better now was
+
+1254
+01:39:08,560 --> 01:39:10,800
+probably has been is this is
+
+1255
+01:39:22,560 --> 01:39:23,160
+variance
+
+1256
+01:39:23,160 --> 01:39:26,400
+I believe this word is an understood
+
+1257
+01:39:26,400 --> 01:39:28,520
+reverse so
+
+1258
+01:39:29,280 --> 01:39:49,560
+no I would remove to the next guys go to
+
+1259
+01:39:49,600 --> 01:39:53,440
+is is it possible we learn you guys
+
+1260
+01:39:53,760 --> 01:39:56,400
+I believe this was
+
+1261
+01:40:09,040 --> 01:40:12,120
+all right it's fine
+so if something is not clear.
+
+1262
+01:40:12,120 --> 01:40:15,040
+That's why I asked you for your feedback.
+
+1263
+01:40:15,040 --> 01:40:18,760
+So that we can update things.
+
+1264
+01:40:18,760 --> 01:40:22,000
+Maybe adding some examples, but the tasks
+
+1265
+01:40:22,320 --> 01:40:25,480
+if there is an extended tasks, but
+
+1266
+01:40:37,040 --> 01:40:41,320
+and you guys see
+the same problem in ripples,
+
+1267
+01:40:41,400 --> 01:40:44,920
+maybe if some ripples are there,
+you guys want more examples.
+
+1268
+01:40:44,920 --> 01:40:46,520
+You can also point those out.
+
+1269
+01:40:46,520 --> 01:40:48,720
+I will fix those.
+
+1270
+01:40:48,960 --> 01:40:52,800
+The How would you check
+if this thing is wrong or not?
+
+1271
+01:40:52,800 --> 01:41:41,680
+Yeah.
+
+1272
+01:41:41,680 --> 01:41:46,920
+Corrective for loop and I used to
+pull matters but the result is different.
+
+1273
+01:41:47,880 --> 01:41:51,560
+I will be reverse is being
+
+1274
+01:42:04,360 --> 01:42:08,040
+or loop and booleans
+
+1275
+01:42:09,000 --> 01:42:11,720
+is is
+
+1276
+01:42:12,600 --> 01:42:16,480
+the this all of this nice.
+
+1277
+01:42:16,480 --> 01:42:22,360
+Can you tell me which words are palindrome
+and which words which ones are not?
+
+1278
+01:42:22,360 --> 01:42:27,040
+And it does tell me the definition.
+
+1279
+01:42:27,040 --> 01:42:36,920
+If you reverse the word,
+it will still be same.
+
+1280
+01:42:36,920 --> 01:42:38,800
+So you guys already know that.
+
+1281
+01:42:38,800 --> 01:42:41,600
+So the simplest definition
+is that if you reverse testing
+
+1282
+01:42:42,880 --> 01:42:45,600
+and if this thing stays same,
+
+1283
+01:42:45,600 --> 01:42:48,160
+that word is a better drum, Right?
+
+1284
+01:42:48,160 --> 01:42:48,960
+Can you read?
+
+1285
+01:42:48,960 --> 01:42:52,720
+You can read from both sides. Yes.
+
+1286
+01:42:52,720 --> 01:43:03,360
+So it's very simple task, right.
+
+1287
+01:43:03,360 --> 01:43:05,520
+Have it string.
+
+1288
+01:43:05,520 --> 01:43:09,560
+Right.
+
+1289
+01:43:09,560 --> 01:43:20,760
+Are you the Spring Builder class?
+
+1290
+01:43:20,760 --> 01:43:23,600
+Like macro is equal to
+
+1291
+01:43:28,920 --> 01:43:29,640
+because that is.
+
+1292
+01:43:29,640 --> 01:43:31,880
+But it didn't matter
+what they were assisting.
+
+1293
+01:43:32,440 --> 01:43:34,920
+So let me try use that
+
+1294
+01:43:54,080 --> 01:43:56,480
+is after the reversal.
+
+1295
+01:43:57,640 --> 01:43:59,560
+If they are
+
+1296
+01:43:59,560 --> 01:44:02,640
+or it was just to be
+
+1297
+01:44:05,880 --> 01:44:07,800
+I see
+
+1298
+01:44:16,000 --> 01:44:20,120
+use string for string
+but what is also good
+
+1299
+01:44:20,120 --> 01:44:24,520
+but then you guys are dealing with
+with the class.
+
+1300
+01:44:24,520 --> 01:44:28,920
+Okay otherwise
+if you compare the performance of string
+
+1301
+01:44:28,920 --> 01:44:33,000
+builder and string buffer,
+this thing builder is faster
+
+1302
+01:44:33,400 --> 01:44:35,800
+string buffer slower
+
+1303
+01:44:36,640 --> 01:44:39,280
+and we use sentence for example.
+
+1304
+01:44:40,520 --> 01:44:43,520
+Yes, we can use the sentence
+as I used to fall
+
+1305
+01:44:43,520 --> 01:44:47,680
+open, made it so it can check sentence.
+
+1306
+01:44:47,680 --> 01:44:49,320
+Okay.
+
+1307
+01:44:49,320 --> 01:44:51,400
+So yes,
+you guys can use the sentences as well.
+
+1308
+01:44:52,120 --> 01:44:55,480
+No lemon normal and
+
+1309
+01:44:55,880 --> 01:44:58,160
+how would you check if a string is wrong
+
+1310
+01:44:58,200 --> 01:45:24,520
+or not?
+
+1311
+01:45:24,520 --> 01:45:53,280
+I used to place or to get rid of spaces
+and then check into reverse.
+
+1312
+01:45:53,280 --> 01:45:58,360
+So we need to convert that I so to YouTube
+Google and I could not find it
+
+1313
+01:45:59,880 --> 01:46:03,360
+and use use sentence. So
+
+1314
+01:46:04,640 --> 01:46:07,880
+if we understand the logic yes this is
+
+1315
+01:46:08,160 --> 01:46:11,000
+give me some sentences that you guys want
+
+1316
+01:46:11,080 --> 01:46:11,880
+to check
+
+1317
+01:46:14,600 --> 01:46:17,000
+your full years for.
+
+1318
+01:46:17,000 --> 01:46:29,200
+No non one.
+
+1319
+01:46:29,200 --> 01:46:34,800
+It's not wrong because of the spaces.
+
+1320
+01:46:35,360 --> 01:46:37,600
+Let's so if we reverse this thing
+
+1321
+01:46:38,200 --> 01:46:40,960
+this thing is not same
+because of the spaces.
+
+1322
+01:46:41,360 --> 01:46:46,200
+If we remove the spaces,
+maybe then it is same.
+
+1323
+01:46:46,200 --> 01:46:50,880
+And for that the approaches
+that the other students are mentioning,
+
+1324
+01:46:50,880 --> 01:46:55,440
+like they moving the spaces
+and then special characters
+
+1325
+01:46:55,440 --> 01:46:59,200
+from in between,
+maybe you guys can use that approach.
+
+1326
+01:46:59,560 --> 01:47:00,240
+Okay.
+
+1327
+01:47:01,080 --> 01:47:03,200
+For all these approaches,
+they are also good.
+
+1328
+01:47:03,200 --> 01:47:06,120
+Could you please copy paste your code,
+
+1329
+01:47:06,120 --> 01:47:07,080
+make sure
+
+1330
+01:47:25,200 --> 01:47:32,200
+that is God.
+
+1331
+01:47:32,200 --> 01:47:38,160
+Please explain on line one.
+
+1332
+01:47:38,160 --> 01:47:44,640
+So in here we are trying to compare
+escaping with the string builder object.
+
+1333
+01:47:44,640 --> 01:47:50,080
+Okay, so because the singular object
+is something different
+
+1334
+01:47:50,080 --> 01:47:53,280
+and a string object is different,
+so we will be getting a false.
+
+1335
+01:47:53,760 --> 01:47:58,440
+So I am converting that string builder
+object to this thing back
+
+1336
+01:47:58,880 --> 01:48:06,600
+before the confetti. It
+
+1337
+01:48:07,840 --> 01:48:10,600
+is. Is not this a very wrong?
+
+1338
+01:48:10,600 --> 01:48:20,080
+Says you're smart. Yes.
+
+1339
+01:48:20,080 --> 01:48:22,680
+Ignore this is so you guys can
+
+1340
+01:48:24,240 --> 01:48:27,200
+get these kind of small issues
+like converting
+
+1341
+01:48:27,200 --> 01:48:30,200
+uppercase and lowercase things
+before you do the comparison.
+
+1342
+01:48:30,920 --> 01:48:33,480
+So we use this string builder only
+
+1343
+01:48:33,480 --> 01:48:37,280
+for the last method
+and then return it to anonymous thing.
+
+1344
+01:48:37,280 --> 01:48:38,040
+Yes, ma'am.
+
+1345
+01:48:38,040 --> 01:48:42,880
+You're right.
+
+1346
+01:48:42,880 --> 01:48:46,640
+Are there other questions
+or should we move to the next task
+
+1347
+01:49:21,720 --> 01:49:24,800
+I would use where those things
+
+1348
+01:49:24,800 --> 01:49:29,480
+without the temporary variable
+are we doing preference for model? Yes.
+
+1349
+01:49:30,040 --> 01:49:32,840
+So tomorrow, do you guys know?
+
+1350
+01:49:32,840 --> 01:49:33,480
+So here.
+
+1351
+01:49:33,480 --> 01:49:34,800
+Have you guys
+
+1352
+01:49:35,640 --> 01:49:40,040
+attended any session with Serial? No.
+
+1353
+01:49:40,600 --> 01:49:42,840
+So Suhail will be teaching you the review
+
+1354
+01:49:46,960 --> 01:49:49,040
+and to review,
+
+1355
+01:49:49,600 --> 01:49:54,720
+and you guys can discuss the wrappers
+or any other things that you, based on.
+
+1356
+01:49:54,720 --> 01:49:57,440
+Does he like means?
+Oh, yes, he likes means
+
+1357
+01:50:08,760 --> 01:50:09,600
+on canvas.
+
+1358
+01:50:09,600 --> 01:50:15,120
+I only have rapid solutions,
+but I will share the remaining solutions.
+
+1359
+01:50:15,120 --> 01:50:16,840
+Does he go fast?
+
+1360
+01:50:16,840 --> 01:50:20,880
+You guys can ask
+if the if any instructor is going fast,
+
+1361
+01:50:20,880 --> 01:50:23,280
+you guys can ask the instructor
+to slow down.
+
+1362
+01:50:24,400 --> 01:50:25,960
+What did I do wrong?
+
+1363
+01:50:25,960 --> 01:50:28,800
+I am getting the wrong output.
+
+1364
+01:50:28,800 --> 01:50:58,040
+Now you're going to just give.
+
+1365
+01:50:58,040 --> 01:51:01,280
+So you show me the output
+
+1366
+01:51:01,280 --> 01:51:04,440
+you'll need to.
+
+1367
+01:51:04,440 --> 01:51:10,440
+Newbold Looks good.
+
+1368
+01:51:10,440 --> 01:51:22,600
+Starting with Then you are reversing gear
+and then you are comparing it.
+
+1369
+01:51:22,600 --> 01:51:23,560
+Yes, I will.
+
+1370
+01:51:23,560 --> 01:51:29,520
+That last one? Yes.
+
+1371
+01:51:29,520 --> 01:51:33,520
+So you are missing.
+
+1372
+01:51:33,520 --> 01:51:37,040
+You are not forcing this string
+to distinguish your class.
+
+1373
+01:51:37,120 --> 01:51:40,000
+So you are checking an empty string
+
+1374
+01:51:40,440 --> 01:51:43,520
+against this thing
+
+1375
+01:51:43,520 --> 01:51:47,280
+and that's why you are not getting the
+
+1376
+01:51:47,640 --> 01:51:49,880
+as the use of all his means.
+
+1377
+01:51:49,880 --> 01:51:50,400
+I think
+
+1378
+01:51:52,600 --> 01:51:53,120
+nobody.
+
+1379
+01:51:53,120 --> 01:51:54,160
+No, don't worry.
+
+1380
+01:51:54,160 --> 01:51:59,120
+I will bring you any experience thing
+for maybe any task.
+
+1381
+01:51:59,640 --> 01:52:03,920
+So I saw one this thing before is used
+when you guys will be
+
+1382
+01:52:04,200 --> 01:52:09,440
+and market ready for it because
+we will not be going over market ready.
+
+1383
+01:52:09,960 --> 01:52:13,320
+So that's why we're going to extract
+
+1384
+01:52:23,760 --> 01:52:27,360
+from the after.
+
+1385
+01:52:27,360 --> 01:52:30,760
+If you guys want to learn
+something special and if there are
+
+1386
+01:52:34,000 --> 01:52:36,680
+enough students invested,
+maybe you guys can
+
+1387
+01:52:37,360 --> 01:52:40,240
+maybe we can arrange a special session
+on those things.
+
+1388
+01:52:40,640 --> 01:52:45,520
+If you guys want to learn expressions
+or any other thing in Java,
+
+1389
+01:52:46,080 --> 01:52:53,840
+if there are students interested,
+then I can arrange these sessions on that.
+
+1390
+01:52:53,840 --> 01:52:55,800
+So let's say guys, I want to the place.
+
+1391
+01:52:55,800 --> 01:52:59,840
+So inside this SDR,
+I want to place this on one
+
+1392
+01:52:59,840 --> 01:53:02,840
+and in turn this SDR I want to place
+
+1393
+01:53:04,320 --> 01:53:06,360
+without needing any
+
+1394
+01:53:06,360 --> 01:53:10,160
+other variable
+or add a or something like that.
+
+1395
+01:53:10,440 --> 01:53:11,840
+If I'm to do that.
+
+1396
+01:53:11,840 --> 01:53:14,400
+Guys,
+you remember the problem for the integers.
+
+1397
+01:53:14,400 --> 01:53:18,120
+So that would be just without needing
+any other variables.
+
+1398
+01:53:18,120 --> 01:53:25,520
+So the same problem.
+
+1399
+01:53:25,520 --> 01:53:30,720
+So first we say SDR is equal to SDR
+
+1400
+01:53:33,080 --> 01:53:35,480
+plus SDR.
+
+1401
+01:53:35,720 --> 01:53:39,840
+So once we do this, what will be stored
+
+1402
+01:53:39,840 --> 01:53:42,000
+inside the SDR
+
+1403
+01:53:50,680 --> 01:53:51,200
+request?
+
+1404
+01:53:51,200 --> 01:53:54,120
+And what if we use yes,
+you guys can use to replace
+
+1405
+01:53:54,120 --> 01:53:59,800
+as well. Yes.
+
+1406
+01:54:00,760 --> 01:54:28,520
+Can you replace as well?
+
+1407
+01:54:28,520 --> 01:54:36,360
+So we are missing them.
+
+1408
+01:54:36,360 --> 01:54:45,520
+So start acting out
+
+1409
+01:54:47,880 --> 01:54:49,960
+values of
+
+1410
+01:54:51,880 --> 01:55:05,680
+be. So this is how we replace it.
+
+1411
+01:55:05,840 --> 01:55:09,120
+Be like just saw the time
+we are running out of time.
+
+1412
+01:55:09,960 --> 01:55:12,840
+So let me quickly explain things
+
+1413
+01:55:13,360 --> 01:55:18,600
+so we have this thing in here
+then we combine these two strings.
+
+1414
+01:55:18,600 --> 01:55:20,520
+So then we will be having this
+
+1415
+01:55:30,120 --> 01:55:32,360
+and on this line what we are doing
+
+1416
+01:55:36,080 --> 01:55:37,000
+to get back
+
+1417
+01:55:37,000 --> 01:55:40,800
+the SDR to I, we are saying
+
+1418
+01:55:40,960 --> 01:55:44,600
+replace the contents of this SDR,
+
+1419
+01:55:44,600 --> 01:55:47,800
+so remove the contents of SDR to Okay.
+
+1420
+01:55:48,120 --> 01:55:52,200
+So right now the SDR to it contains
+
+1421
+01:55:52,720 --> 01:55:56,200
+is sort of all right,
+after we replace this old one
+
+1422
+01:55:56,200 --> 01:55:59,120
+with nothing inside the SDR,
+
+1423
+01:55:59,480 --> 01:56:03,480
+we will be left with this bottom right
+
+1424
+01:56:04,880 --> 01:56:07,760
+and then we are saying again, replace
+
+1425
+01:56:09,880 --> 01:56:13,840
+on this SDR again, replace this time SDR.
+
+1426
+01:56:13,840 --> 01:56:16,520
+So replace this one.
+So you will be left with this one.
+
+1427
+01:56:16,520 --> 01:56:19,800
+And then we are picking SDR and SDR one
+
+1428
+01:56:22,040 --> 01:56:24,720
+that's German or substituting zero SDR.
+
+1429
+01:56:25,320 --> 01:56:28,360
+This approach is also good,
+but this one is easier
+
+1430
+01:56:28,360 --> 01:56:31,720
+to understand.
+
+1431
+01:56:31,720 --> 01:56:34,840
+Using this updating
+method, it's a little harder to understand
+
+1432
+01:56:40,200 --> 01:56:41,200
+over two days.
+
+1433
+01:56:41,200 --> 01:56:54,760
+So did you
+guys have any questions from this task?
+
+1434
+01:56:54,760 --> 01:57:00,520
+All right.
+
+1435
+01:57:00,520 --> 01:57:03,240
+So are you doing. I'm going to go class.
+
+1436
+01:57:03,240 --> 01:57:05,920
+We will be using that class again
+
+1437
+01:57:05,920 --> 01:57:14,480
+and again and again.
+
+1438
+01:57:14,480 --> 01:57:18,320
+So today's topic is about the types
+of variables at the end.
+
+1439
+01:57:18,320 --> 01:57:21,840
+It is one of the easiest topics.
+
+1440
+01:57:22,280 --> 01:57:24,320
+Again, one of the easiest topics.
+
+1441
+01:57:24,960 --> 01:57:29,240
+So you guys learn
+how to that are types, right?
+
+1442
+01:57:29,400 --> 01:57:33,240
+And based on those data types
+you do find different variable
+
+1443
+01:57:33,240 --> 01:57:36,160
+that's like strings,
+boolean, blah, blah blah.
+
+1444
+01:57:36,880 --> 01:57:40,040
+Today
+we will learn about the types of variables
+
+1445
+01:57:40,520 --> 01:57:43,160
+with respect to their scope.
+
+1446
+01:57:43,160 --> 01:57:47,120
+By scope I mean if I declare a variable
+
+1447
+01:57:48,800 --> 01:57:51,480
+in a class or inside a method
+
+1448
+01:57:52,640 --> 01:57:55,040
+where I can access that variable,
+
+1449
+01:57:55,440 --> 01:57:58,320
+where
+I can not access that variable and how
+
+1450
+01:57:59,320 --> 01:58:03,200
+the memory is consumed under the hood.
+
+1451
+01:58:04,000 --> 01:58:06,040
+So let's say, for example,
+
+1452
+01:58:07,720 --> 01:58:14,160
+I have this name.
+
+1453
+01:58:14,160 --> 01:58:17,120
+So then you guys tell me how many types of
+
+1454
+01:58:19,000 --> 01:58:23,160
+variables are there?
+
+1455
+01:58:23,160 --> 01:58:37,200
+Three types, right?
+
+1456
+01:58:37,200 --> 01:58:37,960
+Any guy's name?
+
+1457
+01:58:37,960 --> 01:58:59,800
+No, they start date, local and instance.
+
+1458
+01:59:00,160 --> 01:59:03,760
+So the variables,
+
+1459
+01:59:04,680 --> 01:59:07,200
+the variables which are declared
+
+1460
+01:59:08,240 --> 01:59:11,040
+outside of the method,
+
+1461
+01:59:11,040 --> 01:59:17,080
+but inside a class of this class,
+it starts from this bracket scale,
+
+1462
+01:59:17,160 --> 01:59:18,520
+this bracket.
+
+1463
+01:59:19,080 --> 01:59:21,480
+And in here we have this method
+
+1464
+01:59:21,480 --> 01:59:24,240
+and then we are declaring some variables.
+
+1465
+01:59:24,680 --> 01:59:29,440
+Okay, so the variables
+which are declared outside of methods
+
+1466
+01:59:30,600 --> 01:59:34,440
+or a block of code, you guys will learn
+about, say, a block of code.
+
+1467
+01:59:34,440 --> 01:59:37,280
+Is this using these parentheses in here?
+
+1468
+01:59:37,320 --> 01:59:42,280
+Okay, so a loop is a block of code
+a suitable block of code.
+
+1469
+01:59:43,040 --> 01:59:46,720
+A constructor is a block of code
+and method is a block of block.
+
+1470
+01:59:46,960 --> 01:59:51,880
+So if a variable is declared
+outside of a block board,
+
+1471
+01:59:52,800 --> 01:59:56,480
+but inside a class, we call that variable
+
+1472
+01:59:56,480 --> 02:00:09,360
+as the instance variable.
+
+1473
+02:00:09,360 --> 02:00:15,520
+So this is an instance 50,
+
+1474
+02:00:15,520 --> 02:00:19,880
+because an instance.
+
+1475
+02:00:19,880 --> 02:00:23,400
+But if we declare a variable
+
+1476
+02:00:23,480 --> 02:00:27,720
+inside a law or a switch case statement
+
+1477
+02:00:27,720 --> 02:00:31,920
+or inside the metadata constructor,
+you guys don't know about the constructor.
+
+1478
+02:00:32,320 --> 02:00:34,400
+So those variables,
+
+1479
+02:00:35,320 --> 02:00:37,920
+they are called local variables.
+
+1480
+02:00:37,920 --> 02:00:41,320
+So let's say
+if I declare a variable in here
+
+1481
+02:00:49,760 --> 02:00:52,560
+because this variable
+
+1482
+02:00:52,560 --> 02:00:55,880
+is inside this method,
+
+1483
+02:00:56,760 --> 02:01:00,040
+so this variable will be local
+to this variable.
+
+1484
+02:01:00,040 --> 02:01:22,800
+So let's say, for example,
+you fly, you have another method.
+
+1485
+02:01:22,800 --> 02:01:25,560
+So what I can do,
+
+1486
+02:01:25,560 --> 02:01:29,760
+because this name of variable
+is an instance variable,
+
+1487
+02:01:29,800 --> 02:01:34,360
+I can use that variable inside any method
+
+1488
+02:01:35,320 --> 02:01:39,840
+which is inside of this class,
+but the local variables
+
+1489
+02:01:40,120 --> 02:01:42,960
+which are declared inside a block of code,
+
+1490
+02:01:43,680 --> 02:01:45,800
+we cannot access
+
+1491
+02:01:47,280 --> 02:01:50,320
+those here but outside of that block.
+
+1492
+02:01:50,320 --> 02:01:53,520
+So for example, if I see
+
+1493
+02:01:54,280 --> 02:01:57,320
+the value of time,
+I will be getting another
+
+1494
+02:01:57,840 --> 02:02:02,480
+because this variable
+is only only available to this method
+
+1495
+02:02:02,640 --> 02:02:06,360
+starting from this can bracket
+do this calibrate.
+
+1496
+02:02:07,080 --> 02:02:10,520
+If this is the second type of variable,
+
+1497
+02:02:10,520 --> 02:02:13,000
+they are the local database,
+local variables
+
+1498
+02:02:13,560 --> 02:02:20,880
+before we can use them.
+
+1499
+02:02:20,880 --> 02:02:24,680
+Before we can use them,
+we should initialize them.
+
+1500
+02:02:24,720 --> 02:02:27,640
+I think we must initialize them
+before we use them.
+
+1501
+02:02:28,080 --> 02:02:32,840
+But the instant variables, we can use them
+without the initialization as that
+
+1502
+02:02:36,360 --> 02:02:37,680
+kind of thing here.
+
+1503
+02:02:37,680 --> 02:02:42,440
+So local variables are only local
+to that specific block of core.
+
+1504
+02:02:42,440 --> 02:02:46,320
+It can be a loop if you're declared
+a variable inside a loop,
+
+1505
+02:02:47,040 --> 02:02:51,560
+that variable is only accessible
+inside of that group.
+
+1506
+02:02:51,880 --> 02:02:54,840
+If we try to access it
+outside of that group,
+
+1507
+02:02:55,360 --> 02:03:00,240
+we will not be to.
+
+1508
+02:03:00,240 --> 02:03:01,680
+And then
+
+1509
+02:03:04,600 --> 02:03:06,960
+as the line is
+
+1510
+02:03:16,560 --> 02:03:24,920
+that time is a local, we
+
+1511
+02:03:28,560 --> 02:03:30,080
+associate
+
+1512
+02:03:33,480 --> 02:03:35,640
+a false
+
+1513
+02:03:37,600 --> 02:03:38,280
+method
+
+1514
+02:03:42,400 --> 02:03:46,720
+and then we have something
+called as static variables.
+
+1515
+02:03:46,720 --> 02:03:50,520
+Now statically idea
+they are same as instance variables.
+
+1516
+02:03:51,320 --> 02:03:53,400
+They are outside of a block of code,
+
+1517
+02:03:54,240 --> 02:03:56,280
+but with a static feature
+
+1518
+02:03:57,480 --> 02:04:07,320
+like this, it's
+
+1519
+02:04:11,960 --> 02:04:15,160
+not so you guys
+
+1520
+02:04:15,960 --> 02:04:21,080
+can you guys now identify
+if a variable is local static
+
+1521
+02:04:21,440 --> 02:04:27,240
+or instance?
+
+1522
+02:04:27,240 --> 02:04:30,480
+Okay, now let's discuss why
+
+1523
+02:04:30,480 --> 02:04:34,640
+we have these three types of variables
+and, why we are learning them again
+
+1524
+02:04:34,800 --> 02:04:38,720
+when we should be using
+which type of variable, which
+
+1525
+02:04:40,480 --> 02:04:43,320
+these instance variables are nice,
+
+1526
+02:04:44,080 --> 02:04:47,960
+they are available
+starting from this curly bracket.
+
+1527
+02:04:48,240 --> 02:04:49,560
+So this curly bracket.
+
+1528
+02:04:49,560 --> 02:04:53,280
+Okay, if you have thousand meters in here,
+
+1529
+02:04:53,880 --> 02:04:59,480
+these will be available
+to all those 1000 letters.
+
+1530
+02:04:59,480 --> 02:05:02,480
+We can access these instance variables
+
+1531
+02:05:03,400 --> 02:05:07,920
+and the static variables
+by creating the objects of them.
+
+1532
+02:05:08,120 --> 02:05:09,040
+Okay.
+
+1533
+02:05:09,040 --> 02:05:12,280
+But we cannot do the same
+with local variables.
+
+1534
+02:05:12,280 --> 02:05:18,960
+Now, these instance variables,
+they will stay in the memory.
+
+1535
+02:05:18,960 --> 02:05:21,800
+So let me
+
+1536
+02:05:23,320 --> 02:05:25,600
+f we created subclass.
+
+1537
+02:05:26,040 --> 02:05:43,840
+That's what's.
+
+1538
+02:05:43,840 --> 02:05:46,960
+And it is a static ever used inside
+
+1539
+02:05:46,960 --> 02:05:50,560
+what not We can not have a static method
+inside a method.
+
+1540
+02:05:50,760 --> 02:05:53,360
+So for example, if by state
+
+1541
+02:05:53,360 --> 02:05:55,440
+starting in here I will be getting in at
+
+1542
+02:05:57,400 --> 02:06:01,120
+not positive.
+
+1543
+02:06:01,120 --> 02:06:04,360
+If I said go no, this is for
+
+1544
+02:06:04,600 --> 02:06:08,960
+new or
+
+1545
+02:06:14,680 --> 02:06:16,400
+no name
+
+1546
+02:06:19,600 --> 02:06:19,920
+pending.
+
+1547
+02:06:19,920 --> 02:06:21,880
+There's definitely a name for
+
+1548
+02:06:29,760 --> 02:06:33,520
+local inside public static wide which
+
+1549
+02:06:39,520 --> 02:06:42,440
+local inside public static one. Yes.
+
+1550
+02:06:42,440 --> 02:06:44,640
+So the method can be anywhere.
+
+1551
+02:06:44,640 --> 02:06:46,360
+It can be the mean method.
+
+1552
+02:06:46,360 --> 02:06:49,120
+It can be a static method,
+not strictly methods
+
+1553
+02:06:50,400 --> 02:06:56,520
+or all variables
+that would declare inside methods.
+
+1554
+02:06:56,520 --> 02:07:19,360
+They are local variables.
+
+1555
+02:07:19,360 --> 02:07:22,080
+So let me debug this code
+
+1556
+02:07:25,840 --> 02:07:28,200
+and let me show you why
+
+1557
+02:07:28,760 --> 02:07:31,920
+we have these different types of variables
+
+1558
+02:07:31,920 --> 02:07:36,520
+and how the memory under the hood
+is declared
+
+1559
+02:07:36,520 --> 02:07:40,800
+for these types of variables
+and how it is contained.
+
+1560
+02:07:40,800 --> 02:07:44,520
+So the best approach that guys,
+
+1561
+02:07:45,960 --> 02:07:48,520
+if you are solving a problem
+
+1562
+02:07:48,520 --> 02:07:51,720
+and if you have to create a class for that
+
+1563
+02:07:52,560 --> 02:07:55,440
+always, always try to avoid
+
+1564
+02:07:55,920 --> 02:07:58,440
+these instance variables.
+
+1565
+02:07:59,080 --> 02:08:02,280
+The reason is that the instance
+
+1566
+02:08:02,280 --> 02:08:07,000
+variables are and until this object dog.
+
+1567
+02:08:07,280 --> 02:08:10,320
+So as far as this dog object
+
+1568
+02:08:10,320 --> 02:08:16,120
+stays inside the memory,
+these instance variables,
+
+1569
+02:08:16,520 --> 02:08:20,520
+they will keep occupying the memory
+inside your computer.
+
+1570
+02:08:21,040 --> 02:08:21,560
+Okay.
+
+1571
+02:08:21,720 --> 02:08:25,440
+But on the other
+hand these local variables,
+
+1572
+02:08:27,080 --> 02:08:29,160
+the moment the
+
+1573
+02:08:29,160 --> 02:08:35,040
+this sleep method is executed,
+these local variables,
+
+1574
+02:08:35,040 --> 02:08:38,840
+even if you have million of variables
+inside this method.
+
+1575
+02:08:39,960 --> 02:08:43,800
+So once the execution for this
+method starts,
+
+1576
+02:08:44,520 --> 02:08:47,320
+those variables will be declared
+inside the memory.
+
+1577
+02:08:47,760 --> 02:08:51,840
+And as soon as you guys are done
+executing this
+
+1578
+02:08:51,840 --> 02:08:55,440
+method, as soon as Java is done
+executing this method,
+
+1579
+02:08:56,000 --> 02:08:59,400
+all those local variables
+
+1580
+02:08:59,920 --> 02:09:04,640
+are destroyed and the memory is free
+to be used by other programs.
+
+1581
+02:09:04,640 --> 02:09:07,760
+But the instant variables,
+
+1582
+02:09:07,760 --> 02:09:12,080
+they will be staying in the memory forever
+
+1583
+02:09:12,280 --> 02:09:15,960
+as long as we have this object
+inside the memory.
+
+1584
+02:09:16,160 --> 02:09:17,120
+So let me show you that.
+
+1585
+02:09:17,120 --> 02:09:28,200
+So let's say, for example,
+if I debug this program.
+
+1586
+02:09:28,200 --> 02:09:30,720
+So right now
+we are inside of me in a method
+
+1587
+02:09:31,200 --> 02:09:34,440
+and no variable is declared
+inside the method.
+
+1588
+02:09:34,760 --> 02:09:36,720
+The moment I execute
+
+1589
+02:09:37,760 --> 02:09:38,600
+this line of
+
+1590
+02:09:38,600 --> 02:09:44,040
+core, now we have this dog
+
+1591
+02:09:44,760 --> 02:09:48,360
+and you guys see inside this dog a color
+
+1592
+02:09:48,360 --> 02:09:51,480
+and the name variable is declared.
+
+1593
+02:09:52,160 --> 02:09:52,800
+Okay.
+
+1594
+02:09:52,800 --> 02:09:55,920
+Even though
+if I don't have to use those variables,
+
+1595
+02:09:55,920 --> 02:10:00,040
+even though I don't
+all the methods on this object, the moment
+
+1596
+02:10:00,040 --> 02:10:06,440
+I, I create the object,
+
+1597
+02:10:06,440 --> 02:10:11,720
+the variables, all the variables,
+all the instance variables
+
+1598
+02:10:12,080 --> 02:10:16,680
+that are there inside this class,
+they will be declared
+
+1599
+02:10:16,680 --> 02:10:21,160
+inside the memory
+and they will start occupying the memory.
+
+1600
+02:10:21,240 --> 02:10:26,920
+Okay, If I execute the next line,
+the variable is there.
+
+1601
+02:10:27,120 --> 02:10:29,040
+But watch what happens, guys.
+
+1602
+02:10:29,040 --> 02:10:33,240
+Right now in here
+we don't have this times variables.
+
+1603
+02:10:33,680 --> 02:10:34,520
+Okay.
+
+1604
+02:10:34,920 --> 02:10:39,920
+But I watch what happens
+when I execute this method.
+
+1605
+02:10:40,080 --> 02:10:40,320
+Okay.
+
+1606
+02:10:40,320 --> 02:10:42,840
+If I go inside this memory method.
+
+1607
+02:10:43,400 --> 02:10:43,920
+Okay.
+
+1608
+02:10:44,400 --> 02:10:47,080
+The moment I go inside this method,
+
+1609
+02:10:48,960 --> 02:10:53,560
+the times variable will be declared.
+
+1610
+02:10:53,560 --> 02:10:56,520
+And as soon as I am done
+
+1611
+02:10:56,560 --> 02:11:00,000
+executing that method,
+that variable is gone.
+
+1612
+02:11:00,360 --> 02:11:04,640
+That complete stack press
+for that matter is gone.
+
+1613
+02:11:05,080 --> 02:11:08,040
+But but that our desktop
+
+1614
+02:11:08,800 --> 02:11:12,360
+will still have this color and name inside
+the memory.
+
+1615
+02:11:12,360 --> 02:11:14,880
+These local variables.
+
+1616
+02:11:14,880 --> 02:11:15,600
+They are
+
+1617
+02:11:16,320 --> 02:11:19,200
+always, always recommended to be okay.
+
+1618
+02:11:19,760 --> 02:11:23,480
+They only occupied memory for the moment.
+
+1619
+02:11:23,800 --> 02:11:26,880
+Your method is in execution
+
+1620
+02:11:27,000 --> 02:11:31,160
+means when Java
+and it is for microseconds.
+
+1621
+02:11:31,160 --> 02:11:31,760
+Okay.
+
+1622
+02:11:31,800 --> 02:11:36,280
+When Java starts the execution
+of your method or any block of code,
+
+1623
+02:11:36,920 --> 02:11:39,800
+these variables
+they are instantly declared
+
+1624
+02:11:40,800 --> 02:11:43,320
+and once Java is done
+
+1625
+02:11:43,320 --> 02:11:46,840
+executing that block of code,
+they disappear from the method.
+
+1626
+02:11:46,840 --> 02:11:49,160
+Okay,
+so they are super, super memory efficient.
+
+1627
+02:11:49,760 --> 02:11:52,080
+But these instances variables
+
+1628
+02:11:53,200 --> 02:11:55,200
+and they will stay in the memory
+
+1629
+02:11:55,320 --> 02:11:58,680
+as far as the objects
+out there in the memory.
+
+1630
+02:11:59,240 --> 02:12:04,480
+And even if you have million variables
+in here, the moment you create the object,
+
+1631
+02:12:05,040 --> 02:12:09,640
+the memory for all those 1
+million variables will be occupied.
+
+1632
+02:12:10,200 --> 02:12:13,320
+Even if you are using
+only one of those videos.
+
+1633
+02:12:13,720 --> 02:12:17,480
+So these instant variables,
+they are highly, highly discouraged.
+
+1634
+02:12:17,920 --> 02:12:21,800
+But when I should be using the instance
+variables,
+
+1635
+02:12:21,840 --> 02:12:25,760
+does it mean that instance variables
+they are useless?
+
+1636
+02:12:25,920 --> 02:12:28,320
+No, they are not useless.
+
+1637
+02:12:28,320 --> 02:12:33,960
+So you should be using an instance
+variable.
+
+1638
+02:12:33,960 --> 02:12:39,120
+Then you have to share something
+between your methods.
+
+1639
+02:12:39,240 --> 02:12:43,440
+So you guys see this name
+inside the stock class.
+
+1640
+02:12:44,120 --> 02:12:46,880
+This slave
+method can access this name, right?
+
+1641
+02:12:47,280 --> 02:12:49,440
+This method in objects of this name.
+
+1642
+02:12:49,800 --> 02:12:54,880
+But this times it is only only accessible
+to the sleep better.
+
+1643
+02:12:55,240 --> 02:12:58,800
+So what if I have to share
+some information
+
+1644
+02:12:59,280 --> 02:13:01,760
+between my class matters?
+
+1645
+02:13:02,160 --> 02:13:06,480
+If I have these kind of requirements,
+then I should be going.
+
+1646
+02:13:06,520 --> 02:13:08,600
+For instance, variables.
+
+1647
+02:13:08,600 --> 02:13:12,840
+Otherwise, always, always local
+variables are recommended.
+
+1648
+02:13:13,440 --> 02:13:23,520
+Is it clear this?
+
+1649
+02:13:23,520 --> 02:13:25,720
+Can you give a practical example?
+
+1650
+02:13:26,800 --> 02:13:28,200
+Yes. Yes.
+
+1651
+02:13:28,200 --> 02:13:30,720
+Java Economics.
+
+1652
+02:13:31,200 --> 02:13:33,480
+Yes. We Will do the example the last.
+
+1653
+02:13:34,040 --> 02:13:36,560
+Now what about this?
+
+1654
+02:13:36,560 --> 02:13:38,440
+These static variables?
+
+1655
+02:13:38,440 --> 02:13:38,800
+Okay.
+
+1656
+02:13:38,800 --> 02:13:41,240
+When we should be using the static videos.
+
+1657
+02:13:41,400 --> 02:13:42,840
+Now to
+
+1658
+02:13:43,200 --> 02:13:45,080
+understand this
+
+1659
+02:13:46,240 --> 02:13:49,320
+whenever actually let me
+
+1660
+02:13:50,320 --> 02:14:10,280
+let me create one more.
+
+1661
+02:14:10,280 --> 02:14:11,720
+I have created two.
+
+1662
+02:14:11,720 --> 02:14:15,040
+There are two objects from this class
+
+1663
+02:14:16,040 --> 02:14:21,960
+I haven't added on in bigger times.
+
+1664
+02:14:21,960 --> 02:14:22,640
+Okay. Yes.
+
+1665
+02:14:22,640 --> 02:14:32,120
+I need to update.
+
+1666
+02:14:32,120 --> 02:14:35,720
+So when I create the objects from a class,
+
+1667
+02:14:35,720 --> 02:14:39,120
+this is what happens inside the mapping
+
+1668
+02:14:40,640 --> 02:14:43,160
+or this dog to
+
+1669
+02:14:46,520 --> 02:14:48,760
+in name variable will be declared
+
+1670
+02:14:50,160 --> 02:14:54,000
+and a value of this. Yes.
+
+1671
+02:14:54,600 --> 02:14:57,920
+Right.
+
+1672
+02:14:57,920 --> 02:15:00,640
+Will be stored inside that way.
+
+1673
+02:15:00,840 --> 02:15:03,000
+Then a color variable will be declared.
+
+1674
+02:15:04,320 --> 02:15:06,440
+So this is dog to object
+
+1675
+02:15:18,600 --> 02:15:21,400
+and then another object
+
+1676
+02:15:21,720 --> 02:15:27,120
+created inside of the memory
+that will called a dog.
+
+1677
+02:15:27,120 --> 02:15:28,320
+If it's one.
+
+1678
+02:15:28,320 --> 02:15:32,800
+And again, a copy of the instance
+variables will be created.
+
+1679
+02:15:33,240 --> 02:15:36,400
+And in this time in here
+we are only storing
+
+1680
+02:15:36,440 --> 02:15:41,240
+Jasper, and inside the color
+
+1681
+02:15:42,600 --> 02:15:45,040
+will only store in black.
+
+1682
+02:15:45,040 --> 02:15:49,360
+The black instance variables
+each time we create
+
+1683
+02:15:50,040 --> 02:15:54,560
+a new object is separate copy of instance
+
+1684
+02:15:54,560 --> 02:15:57,360
+variables is created for each object,
+
+1685
+02:15:57,720 --> 02:16:00,760
+and then we can store
+
+1686
+02:16:00,760 --> 02:16:04,880
+object specific data inside of that copy.
+
+1687
+02:16:05,320 --> 02:16:11,600
+But when we declare a static variable,
+then we declare a static variable.
+
+1688
+02:16:12,400 --> 02:16:18,080
+There is a separate memory location
+that is called static area.
+
+1689
+02:16:18,080 --> 02:16:21,560
+So these all of these objects
+and these memory locations,
+
+1690
+02:16:21,560 --> 02:16:24,000
+they are being created inside the heap.
+
+1691
+02:16:24,000 --> 02:16:27,000
+So inside the event there are five
+
+1692
+02:16:27,560 --> 02:16:30,480
+special memory areas inside your RAM.
+
+1693
+02:16:30,480 --> 02:16:35,000
+When you execute a Java program,
+there are five special memory areas.
+
+1694
+02:16:35,000 --> 02:16:37,080
+We will not be going into the details.
+
+1695
+02:16:37,080 --> 02:16:40,440
+So one of them is called the static area
+and the other one is called the
+
+1696
+02:16:41,440 --> 02:16:42,360
+heap.
+
+1697
+02:16:42,760 --> 02:16:44,960
+So all of these objects,
+
+1698
+02:16:45,600 --> 02:16:52,680
+they are created on your heap,
+
+1699
+02:16:52,680 --> 02:16:55,080
+but these static variables,
+
+1700
+02:16:55,880 --> 02:17:00,680
+they are declared inside the static area.
+
+1701
+02:17:01,080 --> 02:17:05,760
+And even if you create a 1 million objects
+of a class,
+
+1702
+02:17:06,600 --> 02:17:09,400
+only one memory location
+
+1703
+02:17:09,560 --> 02:17:13,200
+will be declared
+for this static variables.
+
+1704
+02:17:13,320 --> 02:17:15,600
+Okay, For instance, variables.
+
+1705
+02:17:16,440 --> 02:17:18,720
+If you create 1 million objects,
+
+1706
+02:17:19,520 --> 02:17:21,920
+1 million copies will be declared.
+
+1707
+02:17:22,560 --> 02:17:24,760
+But static variables,
+
+1708
+02:17:25,680 --> 02:17:27,680
+only one memory location is
+
+1709
+02:17:28,360 --> 02:17:31,760
+and that memory location is shared
+
+1710
+02:17:32,120 --> 02:17:35,600
+across all the objects, all the objects.
+
+1711
+02:17:35,600 --> 02:17:38,640
+So if
+
+1712
+02:17:39,040 --> 02:17:41,560
+if I say
+
+1713
+02:17:45,920 --> 02:17:48,880
+so, let me, let me.
+
+1714
+02:17:49,680 --> 02:17:50,680
+So just to show.
+
+1715
+02:17:50,680 --> 02:17:52,040
+So if
+
+1716
+02:17:53,160 --> 02:17:56,520
+if I say dog dot
+
+1717
+02:17:58,640 --> 02:18:00,720
+number of flags
+
+1718
+02:18:01,000 --> 02:18:04,480
+and if I say four in here nice.
+
+1719
+02:18:04,960 --> 02:18:07,520
+I am setting the value
+
+1720
+02:18:07,520 --> 02:18:11,520
+using dog object to this static variable.
+
+1721
+02:18:12,040 --> 02:18:15,000
+Okay. But watch what happens if
+
+1722
+02:18:20,800 --> 02:18:23,480
+if I try
+
+1723
+02:18:23,480 --> 02:18:26,280
+to bring back to using the dog
+
+1724
+02:18:26,440 --> 02:18:36,160
+to object,
+I will be getting the same value,
+
+1725
+02:18:36,360 --> 02:18:41,160
+but I will be getting the same value.
+
+1726
+02:18:41,160 --> 02:18:42,760
+So I get four.
+
+1727
+02:18:42,760 --> 02:18:45,320
+But for instance variables.
+
+1728
+02:18:46,200 --> 02:18:50,080
+If I store something inside
+
+1729
+02:18:52,200 --> 02:18:54,000
+an instance variable.
+
+1730
+02:18:54,000 --> 02:18:57,920
+Okay, so in here
+I am setting the value of this name again
+
+1731
+02:18:58,480 --> 02:19:00,720
+using the dog dollar object.
+
+1732
+02:19:00,720 --> 02:19:03,720
+But if I try to get to that value
+
+1733
+02:19:04,760 --> 02:19:06,880
+using a dog tool object,
+
+1734
+02:19:08,240 --> 02:19:10,880
+I will be getting
+
+1735
+02:19:10,880 --> 02:19:13,560
+nothing. If
+
+1736
+02:19:13,560 --> 02:19:15,040
+so, I get.
+
+1737
+02:19:15,040 --> 02:19:20,440
+And so the values of this static
+variable static is
+
+1738
+02:19:20,800 --> 02:19:25,040
+something is common
+for all the objects of that class
+
+1739
+02:19:25,680 --> 02:19:28,640
+one object
+and stored the value inside that variable.
+
+1740
+02:19:28,800 --> 02:19:31,720
+All other objects will see the same.
+
+1741
+02:19:31,720 --> 02:19:36,960
+Okay, Only one memory location is shared
+across all the objects,
+
+1742
+02:19:37,480 --> 02:19:41,000
+like for instance variables. Each
+
+1743
+02:19:42,000 --> 02:19:42,680
+gets a
+
+1744
+02:19:42,680 --> 02:19:46,760
+separate copy of instance variables
+from that object.
+
+1745
+02:19:46,760 --> 02:19:50,080
+Okay, so whenever you guys
+
+1746
+02:19:50,080 --> 02:19:54,360
+have to share something across
+all the objects of a class,
+
+1747
+02:19:55,040 --> 02:19:57,600
+then should I use the instance variable
+or the static
+
+1748
+02:19:57,600 --> 02:20:01,440
+variable?
+
+1749
+02:20:01,440 --> 02:20:04,000
+The static variable. Right.
+
+1750
+02:20:04,000 --> 02:20:09,840
+And if I know that
+something will spare same
+
+1751
+02:20:10,880 --> 02:20:14,280
+for all the objects, so should I
+
+1752
+02:20:14,280 --> 02:20:17,440
+indicate a static variable for that
+or an instance variable?
+
+1753
+02:20:19,120 --> 02:20:22,440
+If I know that something will space
+
+1754
+02:20:22,440 --> 02:20:25,440
+same for all the objects.
+
+1755
+02:20:25,920 --> 02:20:28,560
+Should I declare a static variable
+or instance
+
+1756
+02:20:28,560 --> 02:20:35,400
+variable?
+
+1757
+02:20:35,400 --> 02:20:40,440
+So all the dogs,
+all the healthy, not affected
+
+1758
+02:20:40,920 --> 02:20:47,080
+dogs, not defective dogs,
+they will be having four legs right.
+
+1759
+02:20:47,080 --> 02:20:51,240
+But if I try to store back
+
+1760
+02:20:51,760 --> 02:20:55,960
+inside an instance variable,
+what will happen
+
+1761
+02:20:56,840 --> 02:20:59,080
+for each dog
+
+1762
+02:20:59,080 --> 02:21:01,800
+in new memory location will be created.
+
+1763
+02:21:02,160 --> 02:21:05,480
+I don't want to do that
+because I know all the dogs.
+
+1764
+02:21:05,480 --> 02:21:07,480
+They will be having four legs right?
+
+1765
+02:21:07,680 --> 02:21:12,880
+Then why should I declare separate
+memory locations for all the objects?
+
+1766
+02:21:12,880 --> 02:21:15,760
+Why should I declare instance variables
+
+1767
+02:21:16,280 --> 02:21:19,320
+if I know that a piece of information
+
+1768
+02:21:19,360 --> 02:21:23,240
+will be staying the same
+for all the objects?
+
+1769
+02:21:23,240 --> 02:21:24,160
+Right.
+
+1770
+02:21:24,160 --> 02:21:28,480
+So then I should be going
+with static variables.
+
+1771
+02:21:29,320 --> 02:21:34,160
+But if I know that
+the information can change
+
+1772
+02:21:35,200 --> 02:21:38,040
+object to object,
+
+1773
+02:21:38,040 --> 02:21:42,320
+then I should be declaring an instance
+variable for that.
+
+1774
+02:21:42,320 --> 02:21:46,160
+I know that one
+dog can have maybe Casper, name
+
+1775
+02:21:46,160 --> 02:21:48,840
+the other dog and have Casper
+skied the other dog.
+
+1776
+02:21:49,400 --> 02:21:51,480
+Another dog maybe can having another name.
+
+1777
+02:21:52,000 --> 02:21:55,160
+So I know that the information
+is changing.
+
+1778
+02:21:55,440 --> 02:21:57,240
+Object to object.
+
+1779
+02:21:57,240 --> 02:22:00,640
+Now I should not be going for instance
+variables.
+
+1780
+02:22:00,640 --> 02:22:05,200
+Now I should be declaring a sorry,
+I should not be going for static variables
+
+1781
+02:22:05,200 --> 02:22:08,960
+and now I should declare
+an instance variable again
+
+1782
+02:22:08,960 --> 02:22:12,600
+because I know each
+object can have a different value.
+
+1783
+02:22:13,680 --> 02:22:17,040
+Is it clear, guys, when we should be
+using this static variable,
+
+1784
+02:22:17,040 --> 02:22:19,480
+then when we should be using the instance
+variables
+
+1785
+02:22:20,960 --> 02:22:24,360
+and the use case for local variables?
+
+1786
+02:22:24,840 --> 02:22:27,480
+It is always, always recommended.
+
+1787
+02:22:27,760 --> 02:22:29,760
+Always, always recommended. Okay,
+
+1788
+02:22:30,840 --> 02:22:32,480
+so let's do an example.
+
+1789
+02:22:32,480 --> 02:22:33,360
+Let's do an example.
+
+1790
+02:22:33,360 --> 02:22:36,640
+Then I will write some notes for you
+and I hope
+
+1791
+02:22:36,840 --> 02:22:39,200
+it will be clear
+
+1792
+02:22:46,040 --> 02:22:47,640
+that this advanced part of Java,
+
+1793
+02:22:47,640 --> 02:22:49,840
+it is more related to
+
+1794
+02:22:51,120 --> 02:22:53,280
+how you write better programs.
+
+1795
+02:22:53,600 --> 02:22:54,320
+Okay.
+
+1796
+02:22:54,600 --> 02:22:58,200
+How you manage your code,
+the basic concepts that you guys
+
+1797
+02:22:58,200 --> 02:23:01,120
+have learned in the first part,
+they will be staying the same.
+
+1798
+02:23:01,960 --> 02:23:02,760
+In this.
+
+1799
+02:23:02,760 --> 02:23:07,920
+We will only be learning rules
+that will help write better programs.
+
+1800
+02:23:07,920 --> 02:23:19,600
+Okay, so
+
+1801
+02:23:19,720 --> 02:23:23,920
+let's say I have left
+
+1802
+02:23:24,120 --> 02:23:28,880
+you have this syntax order right?
+
+1803
+02:23:28,880 --> 02:23:33,520
+And I have this variable spool
+
+1804
+02:23:35,760 --> 02:23:38,560
+inside here.
+
+1805
+02:23:38,560 --> 02:23:40,440
+So can you guys tell me,
+
+1806
+02:23:40,440 --> 02:23:43,520
+should I go, for instance, variable
+
+1807
+02:23:43,560 --> 02:23:51,600
+or static variable?
+
+1808
+02:23:51,600 --> 02:23:52,880
+Yes, sure.
+
+1809
+02:23:53,560 --> 02:23:57,280
+Because I know for all the syntax students
+
+1810
+02:23:58,280 --> 02:24:01,280
+this school
+will be staying the same right?
+
+1811
+02:24:01,280 --> 02:24:06,200
+So I should be declaring
+this variable is static
+
+1812
+02:24:06,200 --> 02:24:09,560
+variable.
+
+1813
+02:24:09,560 --> 02:24:11,160
+What about the name guys?
+
+1814
+02:24:12,560 --> 02:24:15,680
+What about the name?
+
+1815
+02:24:15,680 --> 02:24:18,600
+Should it be spectate or insurgents?
+
+1816
+02:24:19,520 --> 02:24:22,720
+Because each student
+
+1817
+02:24:22,720 --> 02:24:26,280
+will be having most probably
+they will be having different names.
+
+1818
+02:24:27,080 --> 02:24:31,320
+So I should be going with so static
+variable are not changing.
+
+1819
+02:24:31,320 --> 02:24:34,080
+Why every variable in the first place?
+
+1820
+02:24:34,480 --> 02:24:35,280
+No. No. Not me.
+
+1821
+02:24:35,280 --> 02:24:39,000
+Yes. So a lot of teachers,
+they will try to confuse this concept.
+
+1822
+02:24:39,600 --> 02:24:43,800
+So they think that static means
+not change.
+
+1823
+02:24:43,840 --> 02:24:46,400
+But in Java this is not what it means.
+
+1824
+02:24:47,160 --> 02:24:49,920
+Static means static is a special area
+
+1825
+02:24:50,320 --> 02:24:52,520
+inside of the memory of your computer
+
+1826
+02:24:53,240 --> 02:24:58,160
+that holds the values
+which are shared across all the variables.
+
+1827
+02:24:58,920 --> 02:24:59,640
+Okay.
+
+1828
+02:24:59,880 --> 02:25:01,960
+That's why they have these static name.
+
+1829
+02:25:03,000 --> 02:25:05,280
+Yes. The real word meaning of static
+
+1830
+02:25:05,280 --> 02:25:09,600
+is not changing,
+but this is not what we mean in here.
+
+1831
+02:25:09,600 --> 02:25:14,560
+That will mean that the memory area
+where this variable will be declared.
+
+1832
+02:25:14,560 --> 02:25:17,240
+Okay, So yes, it can change its values.
+
+1833
+02:25:17,240 --> 02:25:19,080
+That's why we speak of quality video. But
+
+1834
+02:25:21,360 --> 02:25:23,640
+those
+things which can not change their values,
+
+1835
+02:25:23,640 --> 02:25:26,000
+they are the constants in programing
+
+1836
+02:25:26,880 --> 02:25:31,640
+because they are constants in programing.
+
+1837
+02:25:31,640 --> 02:25:34,080
+So don't don't confuse this static name
+
+1838
+02:25:35,600 --> 02:25:39,120
+with the with the variable
+that cannot change
+
+1839
+02:25:39,120 --> 02:25:43,240
+because its value.
+
+1840
+02:25:43,240 --> 02:25:47,280
+Then we have more than one static variable
+and one plus yes,
+
+1841
+02:25:47,280 --> 02:25:51,840
+we can have as many static variables
+as as you guys want
+
+1842
+02:25:53,600 --> 02:25:55,200
+to be.
+
+1843
+02:25:55,200 --> 02:25:57,680
+One illogical thing of Java.
+
+1844
+02:25:58,680 --> 02:26:02,280
+So to you guys,
+it might look illogical because.
+
+1845
+02:26:02,280 --> 02:26:06,480
+You guys don't know
+about the memory structure of a computer,
+
+1846
+02:26:07,160 --> 02:26:10,000
+so that's why
+it might be confusing for you.
+
+1847
+02:26:10,080 --> 02:26:13,200
+Why don't you also do to Java on YouTube
+
+1848
+02:26:13,920 --> 02:26:16,080
+simpler than what do you send us to watch?
+
+1849
+02:26:17,600 --> 02:26:20,440
+Okay, I will try that.
+
+1850
+02:26:20,440 --> 02:26:24,720
+So right now I am super busy in
+my masters, in my research in
+
+1851
+02:26:25,840 --> 02:26:26,760
+in the areas
+
+1852
+02:26:26,760 --> 02:26:29,160
+of blockchain and artificial intelligence.
+
+1853
+02:26:29,800 --> 02:26:32,480
+So maybe once I am done
+
+1854
+02:26:32,480 --> 02:26:36,360
+with my research, maybe then I would think
+about creating a YouTube channel.
+
+1855
+02:26:36,920 --> 02:26:41,160
+The content of variable
+cannot be changed with static.
+
+1856
+02:26:41,160 --> 02:26:41,600
+No, no no.
+
+1857
+02:26:41,600 --> 02:26:43,560
+This is what I am telling the context.
+
+1858
+02:26:43,560 --> 02:26:45,040
+They can be changed.
+
+1859
+02:26:45,040 --> 02:26:48,360
+They can be changed.
+
+1860
+02:26:48,360 --> 02:26:54,080
+What I work
+on, softwares that can act as humans.
+
+1861
+02:26:54,240 --> 02:26:57,360
+So we would in in artificial
+
+1862
+02:26:57,920 --> 02:27:01,880
+would try to build softwares
+which can replace humans.
+
+1863
+02:27:02,040 --> 02:27:05,280
+So the things that humans can do
+would try to write softwares that
+
+1864
+02:27:07,440 --> 02:27:08,960
+differently.
+
+1865
+02:27:08,960 --> 02:27:11,120
+A computer can also do those tasks
+
+1866
+02:27:12,840 --> 02:27:15,280
+then will be instructed by robots there.
+
+1867
+02:27:16,320 --> 02:27:18,920
+So I am thinking of creating a robot
+
+1868
+02:27:18,920 --> 02:27:22,120
+to answer your questions
+in this syntax or channel.
+
+1869
+02:27:23,280 --> 02:27:31,640
+Maybe I will do my take on bad. So
+
+1870
+02:27:33,160 --> 02:27:34,200
+the name it
+
+1871
+02:27:34,200 --> 02:27:37,440
+can change for all of the instances.
+
+1872
+02:27:37,440 --> 02:27:42,680
+So I will declare an instance
+variable in here.
+
+1873
+02:27:42,680 --> 02:27:43,440
+Okay.
+
+1874
+02:27:44,240 --> 02:27:46,240
+And what about guys?
+
+1875
+02:27:46,240 --> 02:27:49,560
+If I have a variable
+
+1876
+02:27:50,480 --> 02:27:51,360
+duration?
+
+1877
+02:27:51,360 --> 02:27:57,200
+Of course.
+
+1878
+02:27:57,200 --> 02:27:59,160
+Or should I declare it?
+
+1879
+02:27:59,160 --> 02:28:00,840
+Instance?
+
+1880
+02:28:01,400 --> 02:28:03,480
+A lot of ifs and escorts.
+
+1881
+02:28:03,680 --> 02:28:09,560
+So yes, people, they think that the EIA
+is about a lot of conditions,
+
+1882
+02:28:09,560 --> 02:28:13,560
+but this is not how it works.
+
+1883
+02:28:13,560 --> 02:28:16,760
+So again, this information,
+it will be staying.
+
+1884
+02:28:16,760 --> 02:28:19,560
+Same for all the students
+
+1885
+02:28:19,840 --> 02:28:22,800
+in all the student.
+
+1886
+02:28:22,800 --> 02:28:26,200
+So I should be declaring it as static
+
+1887
+02:28:27,680 --> 02:28:32,680
+and what about the ID?
+
+1888
+02:28:33,200 --> 02:28:37,080
+So students in the in the colleges
+and universities, they have IDs, right?
+
+1889
+02:28:37,760 --> 02:28:42,320
+So should it be static or instant?
+
+1890
+02:28:42,320 --> 02:28:43,880
+It should be
+
+1891
+02:28:45,080 --> 02:28:45,480
+okay.
+
+1892
+02:28:49,120 --> 02:28:50,880
+And then
+
+1893
+02:28:53,240 --> 02:28:55,920
+let let's try to have that
+
+1894
+02:28:57,720 --> 02:28:58,760
+made up method
+
+1895
+02:29:00,080 --> 02:29:04,200
+or calculate speed.
+
+1896
+02:29:04,440 --> 02:29:09,040
+Okay. So
+
+1897
+02:29:13,560 --> 02:29:16,480
+let's say maybe
+
+1898
+02:29:17,240 --> 02:29:18,400
+media
+
+1899
+02:29:21,480 --> 02:29:24,160
+or on
+
+1900
+02:29:24,800 --> 02:29:29,720
+the property
+
+1901
+02:29:30,600 --> 02:29:34,640
+that is required to only be one.
+
+1902
+02:29:34,680 --> 02:29:40,040
+So I am just trying to do calculations,
+just just to show you
+
+1903
+02:29:40,040 --> 02:29:42,480
+the use of local variables
+
+1904
+02:29:43,200 --> 02:29:47,680
+and then maybe recalculate the fee
+
+1905
+02:29:50,800 --> 02:29:51,320
+when we are
+
+1906
+02:29:51,320 --> 02:29:54,040
+trying to do some calculations
+inside the method.
+
+1907
+02:29:54,520 --> 02:29:58,200
+And for that
+we need to declare some local variables.
+
+1908
+02:29:58,480 --> 02:30:00,320
+Okay.
+
+1909
+02:30:00,320 --> 02:30:03,440
+So if you uncover that face
+
+1910
+02:30:03,880 --> 02:30:07,000
+other than these,
+if health conditions, you will find it.
+
+1911
+02:30:07,200 --> 02:30:12,000
+There is a lot of math
+going behind the scenes, so there are
+
+1912
+02:30:13,200 --> 02:30:16,520
+no if s conditions in AA
+
+1913
+02:30:17,600 --> 02:30:18,360
+there can be.
+
+1914
+02:30:18,360 --> 02:30:22,040
+I mean,
+but if you if you really look at the code,
+
+1915
+02:30:22,040 --> 02:30:27,280
+you will find that 90% of the times
+these are derivatives and
+
+1916
+02:30:29,080 --> 02:30:30,640
+other under
+
+1917
+02:30:32,000 --> 02:30:34,400
+concepts from the Met
+
+1918
+02:30:34,480 --> 02:30:36,600
+author, it's super hard finally.
+
+1919
+02:30:37,320 --> 02:30:42,480
+So maybe current one multiplied by 1000
+
+1920
+02:30:42,680 --> 02:30:45,320
+and then plus
+
+1921
+02:30:50,000 --> 02:30:53,440
+1000 multiplied
+by maybe six or something like that.
+
+1922
+02:30:53,440 --> 02:30:53,960
+Okay.
+
+1923
+02:30:53,960 --> 02:30:56,600
+Maybe because calculations
+they super complex.
+
+1924
+02:30:56,600 --> 02:30:59,160
+So this is how we calculate 50.
+
+1925
+02:30:59,280 --> 02:31:02,440
+So I can see
+
+1926
+02:31:03,800 --> 02:31:05,880
+it's just a made up examples
+
+1927
+02:31:16,440 --> 02:31:19,800
+like this.
+
+1928
+02:31:19,800 --> 02:31:23,560
+Let me clear professor class
+
+1929
+02:31:36,960 --> 02:31:45,440
+you for you
+
+1930
+02:31:45,600 --> 02:31:48,360
+and on the
+
+1931
+02:31:51,120 --> 02:31:52,760
+I believe me
+
+1932
+02:31:54,800 --> 02:31:55,880
+even though I was
+
+1933
+02:31:55,880 --> 02:32:00,440
+the position holder in my district
+if and I got
+
+1934
+02:32:00,640 --> 02:32:03,840
+I done my
+I did my bachelors on scholarship
+
+1935
+02:32:04,640 --> 02:32:07,840
+I got a scholarship
+from the prime minister of Pakistan
+
+1936
+02:32:07,840 --> 02:32:11,880
+but this I and this master's on that,
+as I have
+
+1937
+02:32:11,880 --> 02:32:14,080
+thought many times to work
+
+1938
+02:32:18,880 --> 02:32:19,920
+very hard,
+
+1939
+02:32:19,920 --> 02:32:24,720
+very hard.
+
+1940
+02:32:24,720 --> 02:32:25,200
+All right.
+
+1941
+02:32:25,200 --> 02:32:30,240
+So next fight to declare
+when all of this for the next slide. Yes.
+
+1942
+02:32:30,240 --> 02:32:33,640
+So in real life, you guys will be creating
+
+1943
+02:32:35,120 --> 02:32:37,040
+separate files.
+
+1944
+02:32:37,320 --> 02:32:43,120
+So that's
+why I try to use the best practices.
+
+1945
+02:32:43,120 --> 02:32:43,680
+All right.
+
+1946
+02:32:43,680 --> 02:32:48,520
+So let's create some objects
+
+1947
+02:33:07,080 --> 02:33:07,680
+then.
+
+1948
+02:33:08,240 --> 02:33:12,200
+Let's try to pull
+
+1949
+02:33:14,880 --> 02:33:25,600
+in names.
+
+1950
+02:33:25,720 --> 02:33:29,600
+And just any idea
+
+1951
+02:33:32,160 --> 02:33:34,640
+want to
+
+1952
+02:33:37,200 --> 02:33:38,280
+not there
+
+1953
+02:33:38,280 --> 02:33:45,800
+how these guys find you.
+
+1954
+02:33:45,800 --> 02:33:49,280
+So syntax there they used to have
+
+1955
+02:33:49,720 --> 02:33:51,880
+child companies
+
+1956
+02:33:52,680 --> 02:33:54,600
+in different countries, India,
+
+1957
+02:33:54,600 --> 02:33:57,160
+Pakistan and other countries.
+
+1958
+02:33:57,720 --> 02:34:02,800
+So I was basically hired
+with one of those companies and then
+
+1959
+02:34:04,240 --> 02:34:08,040
+I switched to syntax.
+
+1960
+02:34:08,040 --> 02:34:10,480
+There is one more recommended
+approach, guys.
+
+1961
+02:34:10,640 --> 02:34:28,640
+So although if you guys see so
+
+1962
+02:34:30,440 --> 02:34:32,760
+if I execute
+
+1963
+02:34:35,960 --> 02:34:37,560
+you guys there they are both.
+
+1964
+02:34:37,560 --> 02:34:41,160
+So although the static variables
+
+1965
+02:34:42,120 --> 02:34:45,680
+they can be excess just by writing
+
+1966
+02:34:46,680 --> 02:34:50,400
+the name of the object
+
+1967
+02:34:52,440 --> 02:34:53,640
+and then the variable
+
+1968
+02:34:53,640 --> 02:34:59,000
+in, but it is not recommended
+
+1969
+02:35:00,040 --> 02:35:01,960
+to use them like this.
+
+1970
+02:35:01,960 --> 02:35:09,520
+Instead we have it different syntax.
+
+1971
+02:35:09,520 --> 02:35:12,600
+So what we can do as we know that
+
+1972
+02:35:12,600 --> 02:35:14,920
+the static variables
+
+1973
+02:35:15,840 --> 02:35:18,000
+they will always be having
+
+1974
+02:35:18,160 --> 02:35:21,680
+same value for all the objects.
+
+1975
+02:35:22,280 --> 02:35:23,640
+So what do we do?
+
+1976
+02:35:23,640 --> 02:35:24,720
+What we can do?
+
+1977
+02:35:24,720 --> 02:35:28,800
+We can use the name of the class
+
+1978
+02:35:29,640 --> 02:35:33,480
+and then we can directly call
+these static variables.
+
+1979
+02:35:33,520 --> 02:35:37,040
+Okay?
+And this is the recommended approach.
+
+1980
+02:35:37,160 --> 02:35:42,080
+And they are also called
+class level variables, okay?
+
+1981
+02:35:42,560 --> 02:35:48,720
+And because they belong
+to class to objects, so they they should,
+
+1982
+02:35:48,880 --> 02:35:53,360
+if you guys have to access them,
+always use the name of the class
+
+1983
+02:35:54,520 --> 02:35:56,560
+and then the name must be very different.
+
+1984
+02:35:56,560 --> 02:35:56,920
+Okay.
+
+1985
+02:35:57,360 --> 02:36:01,920
+And as we have the static variables,
+there are static methods,
+
+1986
+02:36:02,280 --> 02:36:05,480
+but we will learn about those matters
+later on.
+
+1987
+02:36:06,960 --> 02:36:09,320
+So this is the recommended approach.
+
+1988
+02:36:09,320 --> 02:36:14,640
+If are there any questions,
+
+1989
+02:36:14,640 --> 02:36:17,560
+guys, we are left.
+
+1990
+02:36:18,280 --> 02:36:20,480
+We only have 5 minutes.
+
+1991
+02:36:20,480 --> 02:36:23,200
+Simon typed in notes for you
+in the next class.
+
+1992
+02:36:24,760 --> 02:36:27,640
+Let me
+
+1993
+02:36:31,160 --> 02:36:40,200
+just.
+
+1994
+02:36:40,200 --> 02:36:43,840
+Okay, So is there anyone
+who can take this responsibility?
+
+1995
+02:36:43,840 --> 02:36:48,200
+So I will add that student
+to the previous batch.
+
+1996
+02:36:48,200 --> 02:36:49,440
+Batch nine.
+
+1997
+02:36:49,440 --> 02:36:52,680
+Right now they are applying on the jobs
+and they are sharing
+
+1998
+02:36:53,080 --> 02:36:56,680
+what kind of questions
+they are getting in their interviews
+
+1999
+02:36:56,680 --> 02:36:58,960
+and in the coding class.
+
+2000
+02:36:59,000 --> 02:37:03,840
+So if someone from
+you can take this responsibility,
+
+2001
+02:37:04,600 --> 02:37:08,720
+I can add that student to the channel
+
+2002
+02:37:08,720 --> 02:37:11,560
+and he can collect
+all the interview questions
+
+2003
+02:37:12,360 --> 02:37:16,200
+and and share those questions
+and then test
+
+2004
+02:37:16,440 --> 02:37:20,880
+with the rest of the solution for us,
+maybe in the form of this Google doc
+
+2005
+02:37:20,880 --> 02:37:37,920
+or something like that, or one
+
+2006
+02:37:39,040 --> 02:37:40,800
+is my suggestion
+
+2007
+02:37:40,800 --> 02:37:45,480
+any of the task again, please.
+
+2008
+02:37:45,480 --> 02:37:49,040
+So I want a student
+to take this responsibility.
+
+2009
+02:37:49,040 --> 02:37:50,120
+There.
+
+2010
+02:37:50,280 --> 02:37:51,760
+He collects the questions
+
+2011
+02:37:51,760 --> 02:37:55,080
+from previous batches,
+the interview questions, decoding tasks,
+
+2012
+02:37:55,800 --> 02:37:59,840
+and he shares those solutions,
+those those questions
+
+2013
+02:37:59,920 --> 02:38:06,720
+with dispatch students.
+
+2014
+02:38:06,720 --> 02:38:09,360
+I shot it already.
+
+2015
+02:38:09,360 --> 02:38:14,880
+So again, I already.
+
+2016
+02:38:14,880 --> 02:38:18,080
+Okay.
+
+2017
+02:38:18,080 --> 02:38:21,880
+So naturally, student from previous batch,
+
+2018
+02:38:21,880 --> 02:38:24,480
+he collected some questions
+
+2019
+02:38:32,560 --> 02:38:38,040
+and he has filled this repository
+
+2020
+02:38:44,360 --> 02:38:47,280
+and these are the names of the companies.
+
+2021
+02:38:48,160 --> 02:38:50,440
+These are the interview questions.
+
+2022
+02:38:50,440 --> 02:38:54,120
+Let me share this link with you guys.
+
+2023
+02:38:55,240 --> 02:38:58,720
+I sure you can continue
+adding to this repository.
+
+2024
+02:38:58,720 --> 02:39:01,960
+Maybe, or maybe you can create your own
+
+2025
+02:39:02,760 --> 02:39:05,680
+so that we don't mess up
+the questions from
+
+2026
+02:39:07,880 --> 02:39:10,000
+previous batches within me share.
+
+2027
+02:39:10,040 --> 02:39:12,520
+You can do it.
+
+2028
+02:39:12,520 --> 02:39:16,080
+So we have another repository
+that we will be sharing with you.
+
+2029
+02:39:16,440 --> 02:39:18,560
+The official index repository.
+
+2030
+02:39:18,840 --> 02:39:21,960
+But what happens
+is that with time companies,
+
+2031
+02:39:21,960 --> 02:39:25,400
+they keep on adding
+new interview questions, new
+
+2032
+02:39:27,080 --> 02:39:28,360
+new order in desk.
+
+2033
+02:39:28,360 --> 02:39:32,520
+So that way we can we and these
+I think they are also
+
+2034
+02:39:33,560 --> 02:39:36,240
+Celexa for example
+if you open up this question
+
+2035
+02:39:37,200 --> 02:39:42,760
+so they asked this how do you rate
+yourself in Java I said 2.5.
+
+2036
+02:39:43,280 --> 02:39:46,560
+So the previous best students, they also
+
+2037
+02:39:47,640 --> 02:39:50,040
+share the of the answers
+
+2038
+02:39:50,200 --> 02:39:53,640
+that they have given back.
+
+2039
+02:39:53,640 --> 02:39:57,040
+And at the end
+you said I will rate you as 4.9.
+
+2040
+02:39:57,120 --> 02:40:00,000
+So we both meant
+all the conversation has happened.
+
+2041
+02:40:00,440 --> 02:40:02,120
+After he
+
+2042
+02:40:02,400 --> 02:40:04,120
+learned about
+
+2043
+02:40:04,520 --> 02:40:07,560
+a student that he she knows
+
+2044
+02:40:07,560 --> 02:40:12,480
+better than he did learning
+how to execute slap statement
+
+2045
+02:40:12,480 --> 02:40:16,080
+in Java at the same time using Java.
+
+2046
+02:40:16,680 --> 02:40:18,840
+So you guys will be learning about these
+
+2047
+02:40:19,200 --> 02:40:22,000
+all of these things later on,
+
+2048
+02:40:22,000 --> 02:40:24,480
+maybe in around three weeks.
+
+2049
+02:40:24,480 --> 02:40:27,560
+So if you guys at this point,
+if you guys don't understand
+
+2050
+02:40:27,560 --> 02:40:29,640
+any of the questions,
+you guys can ignore them.
+
+2051
+02:40:30,000 --> 02:40:33,960
+Next, you guys will be starting
+operatively when we start doing selenium
+
+2052
+02:40:34,760 --> 02:40:36,760
+and then Jenkins and expert.
+
+2053
+02:40:37,560 --> 02:40:39,720
+So all of these questions,
+they are formed here.
+
+2054
+02:40:40,280 --> 02:40:44,200
+So those questions
+which make sense at this point,
+
+2055
+02:40:45,280 --> 02:40:47,760
+you guys can just go through them
+
+2056
+02:40:47,760 --> 02:40:50,240
+so for example brain tired
+
+2057
+02:40:50,240 --> 02:40:52,800
+non repeated correct in a string.
+
+2058
+02:40:53,520 --> 02:40:56,040
+Okay, so you guys can solve this one.
+
+2059
+02:40:56,360 --> 02:40:57,000
+Okay.
+
+2060
+02:40:57,000 --> 02:40:59,920
+I suggest you do not look at this solution
+
+2061
+02:41:01,080 --> 02:41:01,640
+first.
+
+2062
+02:41:01,640 --> 02:41:04,040
+Try to solve this problem on your own
+
+2063
+02:41:04,640 --> 02:41:07,440
+and then you guys
+can check out the solution from here.
+
+2064
+02:41:07,720 --> 02:41:10,120
+Okay.
+
+2065
+02:41:10,120 --> 02:41:13,920
+These are the interview questions
+that these out of it and this mapped out
+
+2066
+02:41:13,920 --> 02:41:16,720
+entry, blah, blah, blah.
+You guys can ignore them for now.
+
+2067
+02:41:16,800 --> 02:41:19,400
+Okay.
+
+2068
+02:41:19,400 --> 02:41:21,400
+Soon everything will start to made sense.
+
+2069
+02:41:22,200 --> 02:41:24,480
+And then I want you to
+
+2070
+02:41:25,240 --> 02:41:27,440
+I just want you
+to keep an eye on this as well,
+
+2071
+02:41:27,840 --> 02:41:32,280
+because who really
+we really get this from.
+
+2072
+02:41:33,040 --> 02:41:35,320
+So I will be adding new questions
+
+2073
+02:41:35,320 --> 02:41:38,520
+and things to this repository. This
+
+2074
+02:41:44,360 --> 02:41:45,360
+are there any questions?
+
+2075
+02:41:45,360 --> 02:41:45,800
+Right.
+
+2076
+02:41:45,800 --> 02:41:48,280
+So I have to share the rapid solutions
+with you
+
+2077
+02:41:49,120 --> 02:41:52,320
+and I hope you guys are doing the quiz.
+
+2078
+02:41:52,320 --> 02:41:56,760
+I will share this board and the recording
+will be available tomorrow morning.
+
+2079
+02:41:57,840 --> 02:41:59,440
+Then you should be.
+
+2080
+02:41:59,440 --> 02:42:01,440
+It's a yes or
+
+2081
+02:42:04,440 --> 02:42:07,320
+are these questions
+accessed on Google, right? Yes.
+
+2082
+02:42:07,320 --> 02:42:25,200
+And these can be accessed on Google Drive.
+
+2083
+02:42:25,200 --> 02:42:29,040
+Extended articles, seeing
+
+2084
+02:42:35,440 --> 02:42:36,400
+already.
+
+2085
+02:42:36,400 --> 02:42:41,520
+So I have recorded this video and I
+have tried my best to edit it.
+
+2086
+02:42:41,920 --> 02:42:47,200
+Maybe I should send that
+to those Sebastian so I will be shared.
+
+2087
+02:42:47,200 --> 02:42:50,840
+I am recording the video for the Mac users
+in both of the videos.
+
+2088
+02:42:50,840 --> 02:42:51,800
+They are ready.
+
+2089
+02:42:51,800 --> 02:42:55,360
+I will share those videos
+before such this class
+
+2090
+02:42:56,000 --> 02:42:58,800
+and then you guys can install
+installed intelligent and hopefully
+
+2091
+02:42:59,000 --> 02:43:02,040
+from the center this class will
+you start to use the intelligent.
+
+2092
+02:43:03,200 --> 02:43:05,400
+So will I be added to their channel?
+
+2093
+02:43:05,400 --> 02:43:08,680
+Yes, I will add you build the agenda
+
+2094
+02:43:09,800 --> 02:43:12,520
+so when the students
+they start to apply on the jobs of the
+
+2095
+02:43:12,760 --> 02:43:16,640
+are separate channels
+like technical jobs for interview
+
+2096
+02:43:16,680 --> 02:43:19,040
+application are lost
+Java and things like that.
+
+2097
+02:43:19,520 --> 02:43:21,960
+So I will add you to those that
+
+2098
+02:43:27,760 --> 02:43:28,720
+older days
+
+2099
+02:43:28,720 --> 02:43:32,240
+if you guys don't have any question
+
+2100
+02:43:32,240 --> 02:43:38,000
+since you're excluded
+today, take some rest.
+
+2101
+02:43:38,760 --> 02:43:39,560
+Good night.
+
+2102
+02:43:39,560 --> 02:43:41,840
+And I.

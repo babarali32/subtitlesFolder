@@ -1,0 +1,7212 @@
+﻿1
+00:00:02,440 --> 00:00:03,000
+That's
+
+2
+00:00:11,040 --> 00:00:12,120
+kind of the.
+
+3
+00:00:12,120 --> 00:00:12,800
+Yeah.
+
+4
+00:00:13,000 --> 00:00:15,200
+They're going to start
+
+5
+00:00:16,320 --> 00:00:16,760
+early.
+
+6
+00:00:16,760 --> 00:00:19,960
+So yesterday what you were doing.
+
+7
+00:00:20,280 --> 00:00:24,240
+Let me just open up the notes for the
+so that we can continue
+
+8
+00:00:24,240 --> 00:00:31,680
+from the same point doing of.
+
+9
+00:00:31,680 --> 00:00:35,160
+So the last example which we were learning
+
+10
+00:00:35,160 --> 00:00:37,440
+was to do
+
+11
+00:00:40,840 --> 00:00:42,360
+a comment
+
+12
+00:00:42,520 --> 00:00:46,080
+in which sorry
+we had to create two branches in parallel
+
+13
+00:00:46,400 --> 00:00:49,680
+and then merge them to single main branch.
+
+14
+00:00:49,680 --> 00:00:52,400
+And in there we witnessed
+
+15
+00:00:53,040 --> 00:00:55,720
+another kind of merged
+
+16
+00:00:55,720 --> 00:01:00,360
+legislative need which get close to
+the first one was fast forward.
+
+17
+00:01:00,360 --> 00:01:02,280
+The second one we just discussed
+
+18
+00:01:02,280 --> 00:01:05,480
+that we did not know that
+what kind of merge this was.
+
+19
+00:01:06,080 --> 00:01:09,880
+Okay,
+so let's get into a little bit of you
+
+20
+00:01:10,080 --> 00:01:12,640
+before we actually begin that of
+
+21
+00:01:16,120 --> 00:01:16,680
+let's see,
+
+22
+00:01:16,680 --> 00:01:25,200
+how much do you remember?
+
+23
+00:01:25,200 --> 00:01:25,440
+Okay.
+
+24
+00:01:25,440 --> 00:01:32,400
+So this is the scenario
+that we have right?
+
+25
+00:01:32,400 --> 00:01:35,640
+We created to run this planet one,
+planet two.
+
+26
+00:01:36,360 --> 00:01:41,640
+Now tell me, guys,
+if I want to merge, let it so and mean
+
+27
+00:01:43,240 --> 00:01:44,920
+what kind of merge strategy
+
+28
+00:01:44,920 --> 00:01:47,040
+is going to be used by here
+
+29
+00:01:51,280 --> 00:01:54,560
+the faster because it is going to check
+
+30
+00:01:54,680 --> 00:01:56,960
+that if see merge
+
+31
+00:01:58,840 --> 00:02:02,360
+manage created the branch
+the last minute merges
+
+32
+00:02:03,040 --> 00:02:06,280
+right now
+that is the last limit still see merge
+
+33
+00:02:06,280 --> 00:02:09,280
+it will say yes when use
+
+34
+00:02:09,280 --> 00:02:11,200
+last forever
+
+35
+00:02:11,440 --> 00:02:14,840
+most technique and in there
+
+36
+00:02:17,800 --> 00:02:19,680
+are see merge will start
+
+37
+00:02:19,680 --> 00:02:23,760
+finding do see six of other
+
+38
+00:02:23,920 --> 00:02:27,280
+now when you want to merge
+that one with the main
+
+39
+00:02:30,240 --> 00:02:33,040
+this path are going to be possible. Now
+
+40
+00:02:38,200 --> 00:02:41,720
+no this time fast forward
+is not going to be possible.
+
+41
+00:02:42,240 --> 00:02:44,800
+So what will happen
+
+42
+00:02:52,960 --> 00:03:02,280
+so there there may be some polarity.
+
+43
+00:03:03,240 --> 00:03:05,960
+Is it necessary
+that we will be having a merge
+
+44
+00:03:08,160 --> 00:03:09,640
+try conflict.
+
+45
+00:03:10,400 --> 00:03:11,640
+We will be having a conflict.
+
+46
+00:03:11,640 --> 00:03:14,040
+Is it necessary?
+
+47
+00:03:14,040 --> 00:03:15,720
+Yes. That's not necessarily.
+
+48
+00:03:15,720 --> 00:03:18,160
+Those of you are saying
+that you only have a conflict.
+
+49
+00:03:18,160 --> 00:03:20,760
+No, it's
+not that we will be having a conflict.
+
+50
+00:03:21,560 --> 00:03:24,600
+The right answer to this question
+is that now
+
+51
+00:03:25,320 --> 00:03:31,560
+you will have to do a manual merge
+or maybe you're just going
+
+52
+00:03:31,560 --> 00:03:35,400
+to choose another strategy of merge
+with this, which is called
+
+53
+00:03:38,080 --> 00:03:41,640
+Three Minds are recursive merge,
+
+54
+00:03:42,760 --> 00:03:49,400
+but Anthony Ramos are recursive merge.
+
+55
+00:03:49,440 --> 00:03:54,120
+There may or may not be a conflict.
+
+56
+00:03:54,120 --> 00:03:57,240
+Conflict is like, you know,
+
+57
+00:03:57,240 --> 00:03:59,120
+another part of the story.
+
+58
+00:03:59,120 --> 00:04:00,000
+It may be there.
+
+59
+00:04:00,000 --> 00:04:02,160
+It may not be there
+when there is a conflict.
+
+60
+00:04:02,200 --> 00:04:04,320
+We are going to do that too.
+
+61
+00:04:04,320 --> 00:04:04,680
+Okay.
+
+62
+00:04:04,680 --> 00:04:09,640
+So let's assume that none of the user
+
+63
+00:04:09,960 --> 00:04:13,160
+planet, one of planet to make changes
+
+64
+00:04:14,040 --> 00:04:17,880
+on the same lines of the food
+anywhere in the project.
+
+65
+00:04:18,240 --> 00:04:21,360
+So tell me,
+is there going to be any conflict
+
+66
+00:04:21,360 --> 00:04:27,480
+then?
+
+67
+00:04:27,480 --> 00:04:30,000
+Okay, There is going to be no conflict.
+
+68
+00:04:31,800 --> 00:04:33,120
+So this is going to
+
+69
+00:04:33,120 --> 00:04:39,000
+come in here.
+
+70
+00:04:39,000 --> 00:04:41,920
+Okay. So what will happen
+if there is no conflict?
+
+71
+00:04:41,920 --> 00:04:49,920
+Let's say we are in the condition
+of no conflict, so it will happen.
+
+72
+00:04:50,360 --> 00:04:52,520
+There should see five go.
+
+73
+00:04:52,520 --> 00:04:54,760
+What should happen? And you guys predicted
+
+74
+00:04:55,720 --> 00:04:57,240
+merge happen and what what
+
+75
+00:04:57,240 --> 00:05:05,760
+happens when a merge happens? Yes.
+
+76
+00:05:05,880 --> 00:05:07,400
+Now what will happen?
+
+77
+00:05:07,400 --> 00:05:12,080
+These two comments are going to get merged
+
+78
+00:05:12,960 --> 00:05:15,600
+and they will create a new
+
+79
+00:05:19,560 --> 00:05:25,080
+comet
+which will have both DC five and six.
+
+80
+00:05:25,080 --> 00:05:41,320
+Cool.
+
+81
+00:05:41,320 --> 00:05:43,680
+And what class seven? What do you mean?
+
+82
+00:05:43,720 --> 00:06:19,120
+That in one class?
+
+83
+00:06:19,120 --> 00:06:21,840
+This is not for class, this is for Comet.
+
+84
+00:06:22,320 --> 00:06:23,280
+Okay?
+
+85
+00:06:23,880 --> 00:06:27,720
+And it's not going to combine
+
+86
+00:06:27,720 --> 00:06:31,320
+classes
+at this point to combine the both cause.
+
+87
+00:06:31,880 --> 00:06:36,920
+Okay, so
+
+88
+00:06:40,560 --> 00:06:41,120
+main class
+
+89
+00:06:41,120 --> 00:06:43,640
+will get to the poles of we want to do
+
+90
+00:06:45,480 --> 00:06:50,640
+if the codes are not on the same line,
+
+91
+00:06:51,720 --> 00:06:53,400
+it does not have a conflict.
+
+92
+00:06:53,400 --> 00:06:55,960
+It might be nine nine number then.
+
+93
+00:06:55,960 --> 00:07:03,240
+Yes, obviously it's going
+to incorporate the code for both of them.
+
+94
+00:07:03,240 --> 00:07:07,680
+If the line numbers are conflicting, then
+we will have to resolve that conflict.
+
+95
+00:07:08,280 --> 00:07:16,320
+Madam, does that answer your question
+
+96
+00:07:35,560 --> 00:07:35,880
+that you
+
+97
+00:07:35,880 --> 00:07:39,640
+were downloading right and then merge?
+
+98
+00:07:39,640 --> 00:07:40,160
+Okay.
+
+99
+00:07:40,560 --> 00:07:45,040
+Those of you who have questions,
+I shall let some of some it up
+
+100
+00:07:45,040 --> 00:07:49,840
+in one statement because it gets out of me
+to read it in bits.
+
+101
+00:07:49,840 --> 00:07:51,960
+So maybe I lose track.
+
+102
+00:07:51,960 --> 00:07:56,080
+So try to sum up all the question
+and one step.
+
+103
+00:07:57,360 --> 00:07:57,800
+Okay guys.
+
+104
+00:07:57,800 --> 00:08:01,520
+So I will deal about this
+recursive strategy, how it's working,
+
+105
+00:08:01,680 --> 00:08:02,880
+and I'll answer the question.
+
+106
+00:08:02,880 --> 00:08:06,800
+So if you have any, you just have them
+prepare to discuss them.
+
+107
+00:08:07,280 --> 00:08:10,240
+I'm with you about this
+if we have no conflict.
+
+108
+00:08:11,920 --> 00:08:16,040
+Okay, so let's discuss the case
+
+109
+00:08:16,360 --> 00:08:22,920
+when there is a problem.
+
+110
+00:08:22,920 --> 00:08:24,840
+Now let's sit that
+
+111
+00:08:27,280 --> 00:08:28,200
+in C5
+
+112
+00:08:28,200 --> 00:08:31,800
+there was a mean file
+
+113
+00:08:34,320 --> 00:08:38,080
+and you think there are all coming.
+
+114
+00:08:38,080 --> 00:08:43,640
+That's and let's say that in here
+we have ab1
+
+115
+00:08:43,800 --> 00:08:51,760
+and also in C six we had up B one.
+
+116
+00:08:51,760 --> 00:08:58,080
+The user one of that one made some changes
+on me and P one on line number
+
+117
+00:09:01,240 --> 00:09:05,120
+three and line number five
+
+118
+00:09:08,880 --> 00:09:14,160
+also the user to make some changes
+
+119
+00:09:14,320 --> 00:09:17,280
+in the main and P one on the line numbers
+
+120
+00:09:17,280 --> 00:09:29,760
+three and five.
+
+121
+00:09:29,760 --> 00:09:30,080
+Okay.
+
+122
+00:09:30,080 --> 00:09:33,480
+Now tell me that
+when we are going to merge, C five
+
+123
+00:09:34,600 --> 00:09:45,000
+is going to be a conflict.
+
+124
+00:09:45,000 --> 00:09:49,840
+Yes, because the same line numbers
+have been changed in the same files
+
+125
+00:09:50,280 --> 00:09:53,120
+and did does not know that which one
+
+126
+00:09:53,120 --> 00:09:57,520
+is the updated one
+and which one do you want to actually
+
+127
+00:09:58,040 --> 00:10:04,080
+assignment is that this is the updated way
+you are updated.
+
+128
+00:10:04,080 --> 00:10:08,880
+So what's going to happen
+A merge conflict is going to be a get
+
+129
+00:10:08,880 --> 00:10:12,920
+will not be able to resolve
+this kind of conflict on its own
+
+130
+00:10:12,920 --> 00:10:16,840
+and it just going to ask you to
+resolve it so it will open up
+
+131
+00:10:17,880 --> 00:10:20,120
+something like we witnessed yesterday.
+
+132
+00:10:20,960 --> 00:10:24,240
+These dots that you had had and
+
+133
+00:10:26,120 --> 00:10:28,800
+like this time with
+
+134
+00:10:29,040 --> 00:10:30,760
+I guess there was
+
+135
+00:10:31,680 --> 00:10:34,040
+mudslides or incoming side,
+
+136
+00:10:34,040 --> 00:10:37,240
+there is going to be one code
+and there's going to be the other two.
+
+137
+00:10:38,240 --> 00:10:41,280
+You can either decide to keyboard
+for that.
+
+138
+00:10:41,280 --> 00:10:44,480
+You see these lines
+
+139
+00:10:45,000 --> 00:10:45,960
+or you can decide to
+
+140
+00:10:45,960 --> 00:10:49,320
+simply get one of the two
+
+141
+00:10:49,800 --> 00:10:50,760
+that you're going to see.
+
+142
+00:10:50,760 --> 00:10:55,320
+And depending upon which code
+you actually need.
+
+143
+00:10:55,320 --> 00:11:01,080
+So it's possible that you say, okay,
+I want to keep the changes made by user
+
+144
+00:11:01,080 --> 00:11:05,480
+three and I don't want to have the changes
+buttons one
+
+145
+00:11:05,480 --> 00:11:08,000
+So you can delete this line
+and keep this line
+
+146
+00:11:09,360 --> 00:11:12,880
+for the one and choose to keep this line
+
+147
+00:11:13,080 --> 00:11:17,000
+and delete this one.
+
+148
+00:11:17,000 --> 00:11:20,040
+That's your choice.
+
+149
+00:11:20,040 --> 00:11:23,880
+And once you have resolve the conflict,
+you run the code, it's working fine
+
+150
+00:11:23,880 --> 00:11:25,040
+and you're sure about it.
+
+151
+00:11:25,040 --> 00:11:27,280
+Then what's going
+to happen? You are going to
+
+152
+00:11:28,280 --> 00:11:29,160
+come at it.
+
+153
+00:11:29,160 --> 00:11:32,160
+So it gets merged
+
+154
+00:11:32,520 --> 00:11:35,840
+to resolve the conflict
+
+155
+00:11:36,640 --> 00:11:46,320
+and you merge.
+
+156
+00:11:46,320 --> 00:11:59,720
+Okay, so this one,
+
+157
+00:11:59,720 --> 00:12:01,720
+this is a clearly
+
+158
+00:12:03,480 --> 00:12:10,640
+unsupported recursive merge.
+
+159
+00:12:10,640 --> 00:12:12,640
+And this one also in this.
+
+160
+00:12:12,640 --> 00:12:16,600
+Like we have to just discuss
+do one extra and course
+
+161
+00:12:16,880 --> 00:12:25,360
+that's it.
+
+162
+00:12:25,360 --> 00:12:29,160
+Okay, so now we are going to do something.
+
+163
+00:12:29,160 --> 00:12:30,040
+Examples.
+
+164
+00:12:30,040 --> 00:12:34,360
+So yesterday what we did, we actually
+
+165
+00:12:37,200 --> 00:12:38,480
+so this step we were done,
+
+166
+00:12:38,480 --> 00:12:41,400
+we merged our code of planet One
+
+167
+00:12:42,240 --> 00:12:46,680
+and applied to into our main branch
+and we did that stuff
+
+168
+00:12:46,840 --> 00:12:52,360
+in our local repository right.
+
+169
+00:12:52,360 --> 00:12:54,840
+So all of you have crashed up
+to that point.
+
+170
+00:12:54,960 --> 00:12:59,080
+I believe.
+
+171
+00:12:59,080 --> 00:13:03,320
+So we will be starting
+from that point over and
+
+172
+00:13:06,920 --> 00:13:09,080
+I want you guys to open up
+
+173
+00:13:09,080 --> 00:13:11,640
+your GitHub accounts
+
+174
+00:13:25,200 --> 00:13:25,920
+of this.
+
+175
+00:13:25,920 --> 00:13:30,120
+So let's go to the zip screen,
+which we had that
+
+176
+00:13:30,120 --> 00:13:34,920
+sort of system for.
+
+177
+00:13:34,920 --> 00:13:36,720
+Okay. So I'm going to
+
+178
+00:13:41,080 --> 00:13:42,600
+open up this
+
+179
+00:13:42,600 --> 00:13:46,560
+diagram
+again that is going to redo this stuff.
+
+180
+00:13:46,560 --> 00:13:50,000
+Now, my showing you the map
+
+181
+00:13:50,000 --> 00:13:53,280
+to how you can proceed with merging
+
+182
+00:13:53,840 --> 00:13:56,000
+if you want to merge on
+
+183
+00:13:57,160 --> 00:14:06,800
+GitHub, then we start blank.
+
+184
+00:14:06,800 --> 00:14:07,600
+New exercise.
+
+185
+00:14:07,600 --> 00:14:10,560
+Mine was not working well yesterday.
+
+186
+00:14:10,560 --> 00:14:15,040
+How soon you can get the code
+from my GitHub or anyone else
+
+187
+00:14:15,040 --> 00:14:19,720
+but doing this example over and over
+again, it's not going to be possible.
+
+188
+00:14:19,720 --> 00:14:20,720
+I'm really sorry.
+
+189
+00:14:20,720 --> 00:14:23,440
+It's going to take a lot of time and
+
+190
+00:14:24,560 --> 00:14:26,040
+I cannot do that.
+
+191
+00:14:26,040 --> 00:14:28,800
+I have a lot of the new stuff
+to teach you guys.
+
+192
+00:14:29,480 --> 00:14:31,920
+So if you want to have the code,
+
+193
+00:14:31,920 --> 00:14:34,120
+you can have my code, I can schedule
+
+194
+00:14:36,040 --> 00:14:40,360
+and I can
+you help us get the pool to the method.
+
+195
+00:14:40,360 --> 00:14:43,280
+I talked to you
+yesterday and then we can do
+
+196
+00:14:44,240 --> 00:14:44,520
+this.
+
+197
+00:14:44,520 --> 00:14:45,360
+Mention the steps.
+
+198
+00:14:45,360 --> 00:14:54,520
+If you remember.
+
+199
+00:14:54,520 --> 00:14:59,080
+So okay, yesterday what we did is that we
+
+200
+00:15:00,440 --> 00:15:05,040
+solved the conflicts on the local
+and we pretend to be a team.
+
+201
+00:15:05,040 --> 00:15:09,440
+The WHO has downloaded the apple
+
+202
+00:15:09,760 --> 00:15:14,120
+known to Apple and checking the code
+that if it's working fine.
+
+203
+00:15:14,240 --> 00:15:18,120
+Yes if it's that personality,
+merge them locally.
+
+204
+00:15:18,880 --> 00:15:21,440
+Okay. Let's assume that he was successful.
+
+205
+00:15:21,480 --> 00:15:23,840
+We check the code and he has
+
+206
+00:15:24,880 --> 00:15:27,720
+done everything locally
+and he wants to update them.
+
+207
+00:15:28,000 --> 00:15:34,920
+So what he's going to do,
+if he wants to update the remote
+
+208
+00:15:36,000 --> 00:15:37,920
+from the local
+
+209
+00:15:38,280 --> 00:15:41,080
+and he has merged everything,
+what should be
+
+210
+00:15:41,320 --> 00:15:46,800
+his next step?
+
+211
+00:15:46,800 --> 00:15:47,600
+Cool.
+
+212
+00:15:48,000 --> 00:15:52,840
+He already pulled up
+so I will then he put plugin he's
+
+213
+00:15:52,840 --> 00:16:03,560
+now doing updates on local right.
+
+214
+00:16:03,560 --> 00:16:05,880
+Yes comment and then he will push the pool
+
+215
+00:16:12,360 --> 00:16:13,400
+updates and the view.
+
+216
+00:16:13,400 --> 00:16:15,960
+Let me show you
+
+217
+00:16:23,280 --> 00:16:26,280
+get log of
+
+218
+00:16:28,080 --> 00:16:30,120
+the plans have been more successful.
+
+219
+00:16:30,120 --> 00:16:32,840
+It is our last commit
+
+220
+00:16:32,960 --> 00:16:35,040
+which was made on Saturday,
+
+221
+00:16:35,040 --> 00:16:37,920
+January 29 at this particular time.
+
+222
+00:16:38,840 --> 00:16:41,000
+So we did that actually.
+
+223
+00:16:41,680 --> 00:16:46,520
+Thank you for having my back over here.
+
+224
+00:16:46,520 --> 00:16:50,480
+The Yeah we have another
+
+225
+00:16:59,440 --> 00:17:01,240
+yes. Now
+
+226
+00:17:02,040 --> 00:17:04,400
+I have the option to push it
+
+227
+00:17:04,640 --> 00:17:07,480
+and update everything,
+but we will not be doing that
+
+228
+00:17:07,480 --> 00:17:12,560
+because I want to teach you guys
+another method of doing this on GitHub.
+
+229
+00:17:13,440 --> 00:17:16,440
+Okay,
+so now I'm going to open up the GitHub
+
+230
+00:17:17,320 --> 00:17:20,960
+and I'm going to show you guys
+how you can proceed
+
+231
+00:17:20,960 --> 00:17:24,720
+with doing all the stuff on this
+
+232
+00:17:24,720 --> 00:17:29,680
+particular platform.
+
+233
+00:17:29,680 --> 00:17:33,960
+So right now I'm going to pretend
+to be the person who worked on
+
+234
+00:17:34,960 --> 00:17:37,280
+Planet One.
+
+235
+00:17:37,280 --> 00:17:37,760
+Okay?
+
+236
+00:17:37,880 --> 00:17:42,080
+I was done working on slide one
+and I'm sure that my code is correct
+
+237
+00:17:42,080 --> 00:17:45,240
+and I want someone to review it and merge.
+
+238
+00:17:45,440 --> 00:17:47,800
+So what should be my step?
+
+239
+00:17:47,800 --> 00:17:59,080
+What should I do?
+
+240
+00:17:59,080 --> 00:18:27,400
+Make upload request? Yes.
+
+241
+00:18:27,400 --> 00:18:30,480
+So simply click on all requests
+
+242
+00:18:30,920 --> 00:18:35,720
+and create a new request.
+
+243
+00:18:35,720 --> 00:18:37,720
+So my piece is going to be made
+
+244
+00:18:40,000 --> 00:18:42,160
+and I'm going to merge
+
+245
+00:18:43,400 --> 00:18:49,880
+my Planet one, including.
+
+246
+00:18:49,880 --> 00:18:53,680
+So I have selected base as me
+and the one branch
+
+247
+00:18:53,680 --> 00:18:57,600
+which I want to merge this planet. One
+
+248
+00:19:10,240 --> 00:19:11,880
+at the non
+
+249
+00:19:11,880 --> 00:19:14,080
+nuclear class
+
+250
+00:19:16,160 --> 00:19:18,760
+I've just been made over here
+
+251
+00:19:19,560 --> 00:19:21,600
+and that at one point you
+
+252
+00:19:24,120 --> 00:19:25,680
+and then I said
+
+253
+00:19:26,160 --> 00:19:35,840
+create a pull request.
+
+254
+00:19:35,840 --> 00:19:39,200
+Okay, so
+
+255
+00:19:41,000 --> 00:19:42,840
+now what is there?
+
+256
+00:19:42,840 --> 00:19:47,520
+We can see that
+these are the changes in both the
+
+257
+00:19:49,440 --> 00:19:53,440
+and both the branches.
+
+258
+00:19:53,440 --> 00:19:56,800
+So this is some additional code
+that I have in Planet one
+
+259
+00:19:59,400 --> 00:20:01,840
+which is not going to be there
+in my main works.
+
+260
+00:20:01,920 --> 00:20:04,080
+I can review that over here.
+
+261
+00:20:04,080 --> 00:20:04,480
+All right.
+
+262
+00:20:04,480 --> 00:20:06,720
+And I'll check it down in my
+
+263
+00:20:08,880 --> 00:20:09,920
+local computers.
+
+264
+00:20:09,920 --> 00:20:11,760
+Right now you are just using GitHub.
+
+265
+00:20:11,760 --> 00:20:14,400
+Okay, So I do not need to go into my local
+
+266
+00:20:15,600 --> 00:20:19,440
+review and I can have a reviewer
+reviewer assigned.
+
+267
+00:20:19,440 --> 00:20:22,040
+But right now
+you do not have any assigned.
+
+268
+00:20:22,360 --> 00:20:25,480
+I'll just assign syntax and badges myself
+
+269
+00:20:26,440 --> 00:20:32,840
+labels and I would say
+it's an enhancement.
+
+270
+00:20:32,840 --> 00:20:33,920
+None, nothing else.
+
+271
+00:20:33,920 --> 00:20:39,600
+I want to sum it up
+and I will just write the comment
+
+272
+00:20:39,600 --> 00:20:43,480
+that I have successfully
+
+273
+00:20:44,560 --> 00:20:46,640
+completed
+
+274
+00:20:47,040 --> 00:20:51,520
+the feature Planet one review
+
+275
+00:20:52,360 --> 00:20:54,680
+and please let us
+
+276
+00:21:02,880 --> 00:21:04,440
+okay, let me know what you guys
+
+277
+00:21:04,440 --> 00:21:08,760
+have done to do this one and then we'll be
+proceeding together forward
+
+278
+00:21:32,680 --> 00:21:33,000
+then.
+
+279
+00:21:34,280 --> 00:21:37,200
+Now say create, upload, request
+
+280
+00:21:38,440 --> 00:21:42,800
+so as being the person
+who will not like one, I have successfully
+
+281
+00:21:43,320 --> 00:21:51,320
+created a pull request.
+
+282
+00:21:51,320 --> 00:21:55,080
+Okay, now let's click on our A system
+
+283
+00:22:01,480 --> 00:22:01,960
+you give me.
+
+284
+00:22:01,960 --> 00:22:05,880
+Now you can follow me
+after this particular
+
+285
+00:22:09,840 --> 00:22:12,000
+stuff that you have done.
+
+286
+00:22:12,120 --> 00:22:13,520
+We open up a pull request.
+
+287
+00:22:13,520 --> 00:22:16,520
+Just if you want to do that,
+you can simply do that
+
+288
+00:22:17,320 --> 00:22:27,960
+on GitHub.
+
+289
+00:22:27,960 --> 00:22:29,400
+Okay, so now what?
+
+290
+00:22:29,400 --> 00:22:31,480
+What is going to happen?
+
+291
+00:22:31,720 --> 00:22:35,640
+The team is going to have a look
+at the requisite attributes.
+
+292
+00:22:35,640 --> 00:22:40,520
+You say that, okay, I got a pull request
+so that let me have a look at that.
+
+293
+00:22:40,880 --> 00:22:43,720
+You'll click on that pull request
+
+294
+00:22:43,720 --> 00:22:46,520
+and then you'll see that
+there's a pool request.
+
+295
+00:22:46,720 --> 00:22:50,360
+Say that we dropped
+that one has been added successfully
+
+296
+00:22:51,320 --> 00:22:53,760
+will say, okay, let's have a look at it.
+
+297
+00:22:53,760 --> 00:22:57,800
+It'll click on it.
+
+298
+00:22:57,800 --> 00:23:00,720
+And he'll say, okay, let's have first
+look at the files
+
+299
+00:23:01,360 --> 00:23:03,120
+to review the code with the.
+
+300
+00:23:03,120 --> 00:23:05,400
+He said that everything looks good
+
+301
+00:23:06,520 --> 00:23:09,520
+and then he'll go back to the conversation
+
+302
+00:23:17,040 --> 00:23:19,320
+and okay, wait, I'll go back to
+
+303
+00:23:23,880 --> 00:23:26,040
+the set.
+
+304
+00:23:26,040 --> 00:23:27,600
+A wait a second round.
+
+305
+00:23:27,600 --> 00:23:29,960
+Second has backstory, but I can select
+
+306
+00:23:50,080 --> 00:23:56,520
+was just in file changes.
+
+307
+00:23:56,520 --> 00:23:58,720
+And what is this?
+
+308
+00:23:58,720 --> 00:24:05,080
+Why is different file changes?
+
+309
+00:24:05,080 --> 00:24:06,560
+What do you mean by this?
+
+310
+00:24:06,560 --> 00:24:07,920
+I don't understand.
+
+311
+00:24:08,960 --> 00:24:10,280
+What is mine
+
+312
+00:24:10,280 --> 00:24:25,440
+different than yours? But.
+
+313
+00:24:25,440 --> 00:24:27,840
+Okay, so
+
+314
+00:24:33,840 --> 00:24:37,480
+like it's yours is also read.
+
+315
+00:24:37,520 --> 00:24:40,200
+It's not false.
+It's just that the view is different.
+
+316
+00:24:40,200 --> 00:24:48,600
+Let me see if how to change the view.
+
+317
+00:24:48,600 --> 00:24:53,040
+You're showing everything in one thing
+and that one's different.
+
+318
+00:24:53,040 --> 00:24:58,920
+Okay, so then you has that.
+
+319
+00:24:58,920 --> 00:25:00,200
+Yeah. Okay. Unified
+
+320
+00:25:01,600 --> 00:25:02,400
+and split.
+
+321
+00:25:02,400 --> 00:25:03,600
+Yeah. You can change the view.
+
+322
+00:25:03,600 --> 00:25:07,200
+Follow over here.
+
+323
+00:25:07,200 --> 00:25:10,280
+So don't get worried if it's unified.
+
+324
+00:25:10,280 --> 00:25:13,560
+Also, like, yeah, it makes sense to let's
+
+325
+00:25:13,560 --> 00:25:18,480
+have a look at unified one.
+
+326
+00:25:18,480 --> 00:25:20,480
+Exactly like it shows me now that
+
+327
+00:25:21,480 --> 00:25:23,960
+instead of this line,
+this line is going to be present.
+
+328
+00:25:24,440 --> 00:25:26,920
+This is the addition of the lines.
+
+329
+00:25:26,920 --> 00:25:29,520
+And these are also addition
+
+330
+00:25:29,520 --> 00:25:38,320
+of the lines.
+
+331
+00:25:38,320 --> 00:25:40,960
+Okay.
+Now let's get back to the composition.
+
+332
+00:25:41,240 --> 00:25:42,000
+Let's move it out.
+
+333
+00:25:42,000 --> 00:25:44,880
+At this point, you guys find some error.
+
+334
+00:25:45,160 --> 00:25:46,560
+I've I've been lucky.
+
+335
+00:25:46,560 --> 00:25:50,520
+I found some error
+and I do want to merge it right now.
+
+336
+00:25:50,520 --> 00:25:54,560
+So what I would say, I would say, hey,
+I've found that
+
+337
+00:25:54,960 --> 00:25:58,440
+your work has some errors.
+
+338
+00:25:58,960 --> 00:26:02,200
+Can you please
+
+339
+00:26:03,360 --> 00:26:05,520
+resolve them
+
+340
+00:26:05,760 --> 00:26:12,800
+all? Let me know.
+
+341
+00:26:12,800 --> 00:26:14,320
+I'll just comment on it. Right.
+
+342
+00:26:15,400 --> 00:26:16,040
+So this is the
+
+343
+00:26:16,040 --> 00:26:20,160
+conversation that is going on.
+
+344
+00:26:20,160 --> 00:26:21,360
+This was the message.
+
+345
+00:26:21,360 --> 00:26:24,280
+And then I applied this message.
+
+346
+00:26:25,520 --> 00:26:30,240
+Now the plan one user
+is going to have this message
+
+347
+00:26:30,240 --> 00:26:34,120
+on his previous right to view it
+and it will sit.
+
+348
+00:26:34,520 --> 00:26:36,480
+Okay, well, let me correct the error.
+
+349
+00:26:36,480 --> 00:26:40,080
+After getting the error, he's
+going to again update the message
+
+350
+00:26:41,600 --> 00:26:43,600
+and he will let the person know
+
+351
+00:26:43,600 --> 00:26:45,760
+that, yes, I have resolved it.
+
+352
+00:26:46,720 --> 00:26:50,280
+I was resolved the conflict or errors
+or whatever was there.
+
+353
+00:26:50,600 --> 00:26:54,160
+Can you not try to pull it
+on budget again?
+
+354
+00:26:55,240 --> 00:26:55,720
+Why not?
+
+355
+00:26:55,720 --> 00:26:58,400
+Sure I can do that right now.
+
+356
+00:26:58,400 --> 00:26:59,840
+Let's say he again.
+
+357
+00:26:59,840 --> 00:27:02,840
+You view the changes
+and this time he said that,
+
+358
+00:27:02,840 --> 00:27:05,280
+okay, everything looks good.
+
+359
+00:27:06,600 --> 00:27:10,240
+Go back to the optimization, see
+
+360
+00:27:10,320 --> 00:27:19,840
+everything that's good.
+
+361
+00:27:19,840 --> 00:27:26,440
+Perfect.
+
+362
+00:27:26,440 --> 00:27:29,520
+Breaking sounds as my sound breaking. Nice
+
+363
+00:27:31,440 --> 00:27:32,160
+of breaking.
+
+364
+00:27:32,160 --> 00:27:34,240
+So let
+
+365
+00:27:36,640 --> 00:27:36,960
+all in.
+
+366
+00:27:36,960 --> 00:27:40,760
+Great.
+
+367
+00:27:40,760 --> 00:27:44,400
+So now, once
+we have entered this comment message,
+
+368
+00:27:44,400 --> 00:27:46,720
+what we are going to do is to communicate
+
+369
+00:27:47,640 --> 00:27:52,480
+just to make sure that the conversation
+is nice and good and everyone
+
+370
+00:27:52,480 --> 00:27:57,040
+who goes through it also gets to know
+that what the progress is.
+
+371
+00:27:57,960 --> 00:28:00,760
+And then this is the point
+
+372
+00:28:01,200 --> 00:28:05,120
+where we will merge the branch
+by clicking on this button.
+
+373
+00:28:06,360 --> 00:28:11,000
+It shows us that this branch
+has no conflict with the base client.
+
+374
+00:28:11,120 --> 00:28:15,120
+It means that it will be merged
+automatically.
+
+375
+00:28:16,000 --> 00:28:19,920
+Now, from the options
+we have different kind of merge,
+
+376
+00:28:20,440 --> 00:28:26,040
+slash and merge, rebase and merge.
+
+377
+00:28:26,040 --> 00:28:28,320
+Okay. So what does this do?
+
+378
+00:28:28,320 --> 00:28:31,680
+Create a merge coming
+all commits from this branch
+
+379
+00:28:31,680 --> 00:28:36,680
+will be added to the base,
+but they are a merge come in but
+
+380
+00:28:36,880 --> 00:28:42,080
+it will take all the commits of the off
+the child branch and put them in
+
+381
+00:28:43,640 --> 00:28:45,000
+the parent branch.
+
+382
+00:28:45,000 --> 00:28:48,720
+Squash and merge scratching
+merge is going to basically
+
+383
+00:28:49,560 --> 00:28:53,360
+squash all the comments in the child
+branch.
+
+384
+00:28:53,360 --> 00:28:57,720
+Make it one comment
+and only add that particular company
+
+385
+00:28:58,000 --> 00:29:00,400
+commit in the baselines.
+
+386
+00:29:00,400 --> 00:29:04,120
+Right now
+we will be just using create a most common
+
+387
+00:29:04,120 --> 00:29:08,040
+the first one you logically need
+discretion merge and rebase
+
+388
+00:29:08,040 --> 00:29:11,080
+and once we are not going to be going into
+that so
+
+389
+00:29:11,080 --> 00:29:14,680
+simply select it.
+
+390
+00:29:14,680 --> 00:29:17,880
+Our most common.
+
+391
+00:29:17,880 --> 00:29:20,880
+After that we will simply click
+
+392
+00:29:20,880 --> 00:29:27,480
+on Merge to request.
+
+393
+00:29:27,480 --> 00:29:31,120
+So this is the commit message
+that is going to be placed.
+
+394
+00:29:32,200 --> 00:29:33,560
+This is our email address.
+
+395
+00:29:33,560 --> 00:29:37,880
+And then after that
+you will simply click on confirm merge
+
+396
+00:29:38,000 --> 00:29:43,840
+and it's going to start merge.
+
+397
+00:29:43,840 --> 00:29:48,480
+Okay.
+
+398
+00:29:48,480 --> 00:29:51,800
+Well, the request
+that says fully merged and close.
+
+399
+00:29:52,760 --> 00:29:55,560
+Now if I have a look at my request, it's
+
+400
+00:29:55,560 --> 00:29:58,800
+not going to be
+there because let's resolve
+
+401
+00:30:00,040 --> 00:30:01,880
+we have merged it.
+
+402
+00:30:01,880 --> 00:30:22,200
+So this point,
+do you guys have any questions?
+
+403
+00:30:22,200 --> 00:30:22,560
+Okay.
+
+404
+00:30:22,560 --> 00:30:27,960
+Let me show you on our system.
+
+405
+00:30:27,960 --> 00:30:28,240
+Okay.
+
+406
+00:30:28,240 --> 00:30:31,680
+Now we have read it one add.
+
+407
+00:30:31,800 --> 00:30:37,680
+If I have a look at the comments,
+
+408
+00:30:37,680 --> 00:30:40,760
+the feature update,
+one has been added successfully
+
+409
+00:30:41,320 --> 00:30:43,920
+and then after that commit the most commit
+
+410
+00:30:43,920 --> 00:30:50,840
+that it's there to.
+
+411
+00:30:50,840 --> 00:30:51,080
+Okay.
+
+412
+00:30:51,080 --> 00:30:55,440
+Meanwhile, let's say
+the planet two was also added
+
+413
+00:30:56,440 --> 00:30:59,200
+and this person who was working on
+
+414
+00:30:59,200 --> 00:31:02,640
+it also wants to merge in the main branch.
+
+415
+00:31:02,760 --> 00:31:06,120
+So what he will do again,
+he will go to pool request
+
+416
+00:31:09,360 --> 00:31:11,880
+and he'll click on
+
+417
+00:31:11,880 --> 00:31:17,960
+create new request.
+
+418
+00:31:17,960 --> 00:31:21,000
+This time the base is going to be main,
+but the other one
+
+419
+00:31:21,000 --> 00:31:28,560
+is going to be Planet two.
+
+420
+00:31:28,560 --> 00:31:33,840
+To do that, see that it shows
+the message can automatically merge
+
+421
+00:31:36,640 --> 00:31:39,120
+because there is
+
+422
+00:31:39,120 --> 00:31:41,520
+a conflict now.
+
+423
+00:31:41,600 --> 00:31:43,640
+So it has already did
+
+424
+00:31:43,640 --> 00:31:49,200
+detected that.
+
+425
+00:31:49,200 --> 00:31:51,680
+But still we can create a pull request.
+
+426
+00:31:51,680 --> 00:32:00,080
+So we will be creating
+first upload request.
+
+427
+00:32:00,080 --> 00:32:05,040
+I have added the feature to
+
+428
+00:32:09,400 --> 00:32:10,920
+and then will create
+
+429
+00:32:10,920 --> 00:32:24,600
+the pull requests.
+
+430
+00:32:24,600 --> 00:32:28,080
+Last time it was joined
+us that no conflicts.
+
+431
+00:32:28,400 --> 00:32:31,840
+The branch is able to merge, but this time
+you get a message to this branch.
+
+432
+00:32:31,840 --> 00:32:34,080
+Have a conflict that must be resolved
+
+433
+00:32:35,600 --> 00:32:36,960
+and it's showing.
+
+434
+00:32:36,960 --> 00:32:40,880
+It's showing us the file
+which says conflict.
+
+435
+00:32:40,880 --> 00:32:43,480
+So main Java has some politics right
+
+436
+00:32:53,240 --> 00:32:56,920
+now. Let's assume that this one request
+
+437
+00:32:57,960 --> 00:33:03,120
+of visible to are keenly
+
+438
+00:33:03,720 --> 00:33:06,240
+and he clicked on it
+he said okay apply it to
+
+439
+00:33:06,240 --> 00:33:09,840
+is that I want to add this feature
+to let me click on that
+
+440
+00:33:10,200 --> 00:33:15,360
+and then he'll say, okay, it is a conflict
+and it wants to be resolved.
+
+441
+00:33:15,720 --> 00:33:18,800
+Okay, let's resolve it.
+
+442
+00:33:18,840 --> 00:33:21,080
+Simply click on resolve Conflict
+
+443
+00:33:23,800 --> 00:33:24,440
+and it's going
+
+444
+00:33:24,440 --> 00:33:26,720
+to open up the school in front of him
+
+445
+00:33:27,520 --> 00:33:42,880
+like this.
+
+446
+00:33:42,880 --> 00:33:45,440
+Now he needs to select that record.
+
+447
+00:33:45,440 --> 00:33:46,920
+Does he want to keep.
+
+448
+00:33:46,920 --> 00:33:49,360
+So this is the code
+
+449
+00:33:50,800 --> 00:33:55,160
+coming from the planet to merge and
+this is the code which is already there.
+
+450
+00:33:55,320 --> 00:33:58,560
+They are both in conflict.
+
+451
+00:33:58,560 --> 00:34:02,280
+So in this scenario he will say, okay,
+I need both of them
+
+452
+00:34:02,280 --> 00:34:07,080
+because they both are a unique feature,
+so I need to move those lines
+
+453
+00:34:07,440 --> 00:34:10,440
+and we'll have both the codes
+
+454
+00:34:11,040 --> 00:34:14,280
+in his file menu job and after that
+
+455
+00:34:15,840 --> 00:34:18,400
+he will click on Mark as a result.
+
+456
+00:34:18,920 --> 00:34:20,400
+So resolve this conflict.
+
+457
+00:34:20,400 --> 00:34:23,880
+Let me know that
+we are going to click on Mark as result
+
+458
+00:35:06,880 --> 00:35:13,240
+of the conflict.
+
+459
+00:35:13,240 --> 00:35:15,920
+Okay, now let's click on Mark as a result
+
+460
+00:35:17,160 --> 00:35:22,360
+of its results.
+
+461
+00:35:22,360 --> 00:35:25,160
+Now we are going to click on commit marks
+
+462
+00:35:27,760 --> 00:35:28,360
+just once.
+
+463
+00:35:28,360 --> 00:35:29,400
+Here is all the conflict.
+
+464
+00:35:29,400 --> 00:35:32,680
+Now we have to commit the merge,
+so we click on commitments
+
+465
+00:35:40,040 --> 00:35:43,800
+to leave a message called Click
+successfully
+
+466
+00:35:44,840 --> 00:35:46,760
+Resolve
+
+467
+00:35:46,920 --> 00:36:02,080
+and ready to merge.
+
+468
+00:36:02,080 --> 00:36:05,920
+Well, we asked you got five of the lines
+
+469
+00:36:05,920 --> 00:36:09,920
+or different numbers
+and that's why do not have a conflict.
+
+470
+00:36:09,960 --> 00:36:13,040
+Remember I told you guys that the conflict
+is going to be there if
+
+471
+00:36:13,880 --> 00:36:16,800
+same goal is going to be there
+on the same line
+
+472
+00:36:16,800 --> 00:36:26,360
+number.
+
+473
+00:36:26,360 --> 00:36:27,240
+Yeah.
+
+474
+00:36:27,480 --> 00:36:30,240
+Okay. Now
+
+475
+00:36:30,320 --> 00:36:32,720
+will say comments
+
+476
+00:36:34,280 --> 00:36:38,000
+and after making a command
+
+477
+00:36:39,360 --> 00:36:42,280
+will click on large pull request
+
+478
+00:36:46,880 --> 00:36:49,280
+and then can follow
+
+479
+00:36:52,520 --> 00:36:53,960
+certain rules.
+
+480
+00:36:53,960 --> 00:36:54,280
+Okay.
+
+481
+00:36:54,280 --> 00:36:57,000
+So my it's all set up.
+
+482
+00:36:57,000 --> 00:36:58,920
+I have successfully been like that too.
+
+483
+00:36:58,920 --> 00:37:03,560
+I can simply go to my
+code now and I can see that
+
+484
+00:37:07,360 --> 00:37:10,600
+I have successfully merged it.
+
+485
+00:37:10,840 --> 00:37:15,320
+Let's have a look at comments.
+
+486
+00:37:15,320 --> 00:37:20,200
+So back to feature has been added
+and then after that we have
+
+487
+00:37:21,760 --> 00:37:26,600
+let us commit, which is this one.
+
+488
+00:37:26,600 --> 00:37:29,600
+And if I show you
+there have to just create at this point
+
+489
+00:37:33,360 --> 00:37:36,080
+it has the full code for planet
+
+490
+00:37:36,080 --> 00:37:41,960
+to kind of one.
+
+491
+00:37:41,960 --> 00:37:46,080
+Okay,
+so that's how you do a merge on GitHub.
+
+492
+00:37:46,920 --> 00:37:50,160
+So it's your own choice
+whether you want to do it on GitHub
+
+493
+00:37:50,160 --> 00:37:54,480
+or you want to do it on local,
+that's that's personally dependent on you
+
+494
+00:37:55,720 --> 00:37:56,720
+in your work environment.
+
+495
+00:37:56,720 --> 00:37:59,760
+It's going to be I do
+I will recommend that whenever you are
+
+496
+00:37:59,760 --> 00:38:02,760
+working on a project you want to merge,
+
+497
+00:38:03,960 --> 00:38:07,240
+just do it locally on your own system
+
+498
+00:38:10,720 --> 00:38:13,920
+because before merging,
+I really want you guys
+
+499
+00:38:13,920 --> 00:38:19,920
+to be sure that the code is working
+and there are no letters and then only.
+
+500
+00:38:19,920 --> 00:38:22,760
+So you cannot have
+this approach also that you
+
+501
+00:38:24,040 --> 00:38:26,040
+don't do repository on your system.
+
+502
+00:38:26,040 --> 00:38:27,840
+Switch to that branch.
+
+503
+00:38:27,840 --> 00:38:31,400
+Updated check
+whether everything is working fine.
+
+504
+00:38:31,400 --> 00:38:32,240
+Fine.
+
+505
+00:38:32,280 --> 00:38:36,560
+If yes, then you can simply come to get up
+and resolve that conflict.
+
+506
+00:38:37,120 --> 00:38:39,480
+Result of move.
+
+507
+00:38:39,480 --> 00:38:42,480
+So that's how you are.
+
+508
+00:38:46,560 --> 00:38:47,040
+Okay.
+
+509
+00:38:47,040 --> 00:39:13,320
+So to this point,
+any questions that you may have?
+
+510
+00:39:13,320 --> 00:39:14,920
+Nothing that
+
+511
+00:39:18,600 --> 00:39:22,560
+and now we are going to discuss
+
+512
+00:39:23,120 --> 00:39:26,640
+a few more information.
+
+513
+00:39:26,640 --> 00:39:30,440
+I think we will go ahead and
+
+514
+00:39:41,400 --> 00:39:43,480
+the largest in the
+
+515
+00:39:43,480 --> 00:39:47,720
+what we don't even need to go to our ID
+does all that you can do it and becomes
+
+516
+00:39:48,760 --> 00:39:52,360
+Yeah obviously like
+just like we did on the remote right now
+
+517
+00:39:52,360 --> 00:39:58,120
+we did not have to go to our I think
+we simply merged everything on the GitHub.
+
+518
+00:39:58,800 --> 00:40:04,960
+We did that
+without using any of the stuff.
+
+519
+00:40:04,960 --> 00:40:05,400
+Okay.
+
+520
+00:40:05,400 --> 00:40:09,440
+So a little bit more
+I'll teach you about GitHub.
+
+521
+00:40:10,040 --> 00:40:12,720
+If you click on inside
+
+522
+00:40:16,920 --> 00:40:19,880
+and then you click on what
+
+523
+00:40:23,000 --> 00:40:24,200
+here you can see
+
+524
+00:40:24,200 --> 00:40:27,720
+our is the workflow how they are
+
+525
+00:40:29,040 --> 00:40:31,080
+merging into mean, at which point
+
+526
+00:40:31,800 --> 00:40:33,960
+where they emerged
+
+527
+00:40:35,000 --> 00:40:38,040
+and have a view of that
+
+528
+00:40:38,120 --> 00:40:40,880
+by clicking on inside and then network
+
+529
+00:40:48,840 --> 00:40:49,480
+not done.
+
+530
+00:40:49,480 --> 00:40:53,760
+Today topics are almost ended,
+but you still have some examples
+
+531
+00:40:53,760 --> 00:40:56,200
+that I'll let you a few more.
+
+532
+00:40:57,400 --> 00:41:02,360
+So Okay, so I'm going to say
+but what do you mean was in GitHub?
+
+533
+00:41:02,360 --> 00:41:05,520
+Don't we need to pull that
+most code to our local.
+
+534
+00:41:06,640 --> 00:41:06,960
+Okay.
+
+535
+00:41:06,960 --> 00:41:09,320
+So even when we have emerged in GitHub
+
+536
+00:41:10,240 --> 00:41:13,440
+and we still want to work on that project,
+obviously
+
+537
+00:41:13,440 --> 00:41:16,600
+then we will pull that go into our logo
+
+538
+00:41:16,720 --> 00:41:31,400
+to update our local repository.
+
+539
+00:41:31,400 --> 00:41:31,920
+Okay.
+
+540
+00:41:31,920 --> 00:41:38,880
+And apart from that,
+do do we download a new clone?
+
+541
+00:41:40,200 --> 00:41:41,200
+If you are on a
+
+542
+00:41:41,200 --> 00:41:44,400
+new system,
+you do not have that project already.
+
+543
+00:41:45,040 --> 00:41:47,520
+Then you make a new clone.
+
+544
+00:41:47,520 --> 00:41:52,320
+But if you already have that project
+then you do not make an import.
+
+545
+00:41:52,320 --> 00:41:58,120
+You simply pull it right? Yes.
+
+546
+00:41:58,120 --> 00:42:29,760
+I should go ahead.
+
+547
+00:42:29,760 --> 00:42:32,960
+I think your terminal
+the only push left now
+
+548
+00:42:32,960 --> 00:42:36,080
+we do not need that
+because we did it on GitHub.
+
+549
+00:42:36,480 --> 00:42:37,400
+Yes, exactly.
+
+550
+00:42:37,400 --> 00:42:41,920
+We did that on GitHub
+and we would not need to push everything
+
+551
+00:42:41,920 --> 00:42:52,880
+from our local to remote
+because we did have a GitHub.
+
+552
+00:42:52,880 --> 00:42:53,440
+Okay.
+
+553
+00:42:53,440 --> 00:42:58,920
+So yeah, this is let's do one thing
+now, let's open up my funky one.
+
+554
+00:42:59,240 --> 00:43:03,520
+I'm opening up my funky folder
+and doing a big bash.
+
+555
+00:43:03,520 --> 00:43:06,720
+You two.
+
+556
+00:43:06,720 --> 00:43:14,760
+I also recommend that
+you guys do the same.
+
+557
+00:43:14,760 --> 00:43:16,600
+I open the funky
+
+558
+00:43:18,480 --> 00:43:20,320
+that we created yesterday and
+
+559
+00:43:20,320 --> 00:43:26,360
+I open up a big bash with you.
+
+560
+00:43:26,360 --> 00:43:31,760
+I do get more.
+
+561
+00:43:31,760 --> 00:43:39,080
+Just see the colors that are different.
+
+562
+00:43:39,080 --> 00:43:42,200
+Okay, so is my
+
+563
+00:43:44,560 --> 00:43:46,120
+local repository
+
+564
+00:43:46,120 --> 00:43:48,680
+of this particular user updated
+
+565
+00:44:11,160 --> 00:44:14,680
+that this
+this repo updated to a more or not
+
+566
+00:44:25,960 --> 00:44:27,280
+the saying no.
+
+567
+00:44:27,280 --> 00:44:29,960
+And what's your opinion the rest of you
+
+568
+00:44:34,680 --> 00:44:35,840
+just to negate
+
+569
+00:44:35,840 --> 00:44:41,480
+how much you said yes so right.
+
+570
+00:44:41,480 --> 00:44:43,800
+You mean yes or no.
+
+571
+00:44:44,600 --> 00:44:51,200
+So I'll repeat my question.
+
+572
+00:44:51,200 --> 00:44:52,480
+I will repeat my question.
+
+573
+00:44:52,480 --> 00:44:54,880
+The question is that
+
+574
+00:44:55,480 --> 00:44:57,400
+the user funky
+
+575
+00:44:57,400 --> 00:45:01,760
+who was working on Planet One,
+does it have the updated wrap,
+
+576
+00:45:01,960 --> 00:45:10,680
+which we just did some updates on?
+
+577
+00:45:10,680 --> 00:45:16,080
+No, it does not have it right because
+this is the funky user who worked on
+
+578
+00:45:17,080 --> 00:45:18,640
+Planet One. I got to
+
+579
+00:45:20,560 --> 00:45:21,280
+ask that.
+
+580
+00:45:21,280 --> 00:45:23,000
+I give you that information.
+
+581
+00:45:23,000 --> 00:45:26,280
+The funky user. What about that one?
+
+582
+00:45:26,280 --> 00:45:29,600
+So it does not have the updated wrap.
+
+583
+00:45:30,440 --> 00:45:32,840
+So he needs to update his record.
+
+584
+00:45:32,840 --> 00:45:40,440
+So what he will do is get fetch.
+
+585
+00:45:40,440 --> 00:45:42,440
+He sees that
+
+586
+00:45:42,520 --> 00:45:44,200
+there are two updates.
+
+587
+00:45:44,200 --> 00:45:46,680
+The main and the planet launch.
+
+588
+00:45:46,680 --> 00:45:49,200
+So if he wants to update the main
+branch, what
+
+589
+00:45:49,200 --> 00:45:50,960
+he's going to do
+
+590
+00:45:59,760 --> 00:46:01,880
+first to check out the mean
+
+591
+00:46:07,200 --> 00:46:09,960
+and then he ready to get
+
+592
+00:46:09,960 --> 00:46:21,200
+cool.
+
+593
+00:46:21,200 --> 00:46:24,480
+So after checking out Main and doing
+
+594
+00:46:24,480 --> 00:46:27,640
+Get cool, he is going to have
+
+595
+00:46:27,640 --> 00:48:09,840
+the updated code.
+
+596
+00:48:09,840 --> 00:48:13,520
+So we to mention this also
+
+597
+00:48:17,320 --> 00:48:18,280
+in order
+
+598
+00:48:18,280 --> 00:48:28,200
+to update your local branch. So
+
+599
+00:48:36,680 --> 00:48:40,400
+and then just before the
+
+600
+00:48:51,920 --> 00:48:54,760
+the let's do the thing for user
+
+601
+00:48:54,840 --> 00:48:58,720
+junkie there is my user jump in this.
+
+602
+00:49:00,040 --> 00:49:01,760
+So I open up
+
+603
+00:49:01,760 --> 00:49:04,960
+and I open up the git bash at this point.
+
+604
+00:49:05,720 --> 00:49:11,280
+Now I also want him
+to have the updated code,
+
+605
+00:49:11,280 --> 00:49:14,440
+so get
+
+606
+00:49:15,040 --> 00:49:16,360
+Jack out
+
+607
+00:49:17,960 --> 00:49:20,520
+me make sure that
+
+608
+00:49:20,640 --> 00:49:23,760
+that you are in the chunk
+you want the check user
+
+609
+00:49:27,640 --> 00:49:31,200
+effect to see that
+whether if he needs to update
+
+610
+00:49:31,200 --> 00:49:33,760
+yes he does need to update
+
+611
+00:49:34,520 --> 00:49:37,200
+and now get code
+
+612
+00:49:40,960 --> 00:49:44,440
+he all also now has the same updated code.
+
+613
+00:49:45,200 --> 00:49:58,040
+The update is that is zero. Okay
+
+614
+00:50:00,840 --> 00:50:03,240
+now let's start working on you require
+
+615
+00:50:05,360 --> 00:50:06,760
+let's do one more example
+
+616
+00:50:06,760 --> 00:50:10,080
+of the same stuff that we have done
+already.
+
+617
+00:50:11,240 --> 00:50:13,080
+Let's start
+
+618
+00:50:13,480 --> 00:50:21,840
+merging.
+
+619
+00:50:21,840 --> 00:50:22,120
+Okay.
+
+620
+00:50:22,120 --> 00:50:25,600
+Let's assume now that there is a new
+requirement requirement which says that
+
+621
+00:50:31,040 --> 00:50:36,600
+work on feature law.
+
+622
+00:50:36,600 --> 00:50:39,120
+And so he has to
+
+623
+00:50:42,920 --> 00:50:44,320
+work on one one
+
+624
+00:50:45,360 --> 00:50:48,240
+and funky has to work on
+
+625
+00:50:51,440 --> 00:50:54,240
+good, lawless, convoluted, convoluted.
+
+626
+00:50:54,920 --> 00:50:56,960
+What's the meaning of
+
+627
+00:50:57,400 --> 00:51:00,520
+file deletion like the Mathematica code
+
+628
+00:51:00,520 --> 00:51:12,560
+should work.
+
+629
+00:51:12,560 --> 00:51:13,160
+Yeah.
+
+630
+00:51:13,160 --> 00:51:17,400
+So get log is going to actually get you
+
+631
+00:51:17,480 --> 00:51:20,560
+a little bit confused over here
+
+632
+00:51:20,560 --> 00:51:23,320
+because it's going to show you it's random
+
+633
+00:51:25,200 --> 00:51:31,640
+and the only thing I would recommend
+that you get from at
+
+634
+00:51:31,640 --> 00:51:35,280
+this point is the hats and the commits
+
+635
+00:51:35,280 --> 00:51:39,480
+that they are finding.
+
+636
+00:51:39,480 --> 00:51:44,560
+Apart from that,
+I think if you get a log, one line,
+
+637
+00:51:44,880 --> 00:51:51,480
+it made me a little bit better picture.
+
+638
+00:51:51,480 --> 00:51:51,760
+Okay.
+
+639
+00:51:51,760 --> 00:51:55,080
+So now these are
+this is a kind of better picture
+
+640
+00:51:55,080 --> 00:52:02,400
+for your file logs.
+
+641
+00:52:02,480 --> 00:52:07,160
+This is a little bit to.
+
+642
+00:52:07,160 --> 00:52:10,560
+But the most important thing in this
+
+643
+00:52:10,560 --> 00:52:13,080
+is that your origin slash made
+
+644
+00:52:15,320 --> 00:52:18,400
+is on this particular
+kind of that's that's it.
+
+645
+00:52:18,600 --> 00:52:21,640
+This is your important
+information that lead to
+
+646
+00:52:22,720 --> 00:52:23,280
+your original
+
+647
+00:52:23,280 --> 00:52:26,160
+planning to then
+on this particular company.
+
+648
+00:52:26,440 --> 00:52:31,400
+But this log does not give us
+very good information about
+
+649
+00:52:31,640 --> 00:52:37,800
+whether this commit
+is included in our main branch or not.
+
+650
+00:52:38,080 --> 00:52:41,560
+This this information is not included
+in with log
+
+651
+00:52:41,880 --> 00:52:45,760
+in order to have a good of logs.
+
+652
+00:52:46,240 --> 00:52:48,960
+I would recommend that
+you go to your particular branch
+
+653
+00:52:48,960 --> 00:52:52,560
+on the GitHub and click
+on this particular comments over here
+
+654
+00:52:53,000 --> 00:52:57,120
+and then you'll see
+a nice and good history of the comments.
+
+655
+00:52:58,960 --> 00:53:00,840
+So whenever you want to have a look
+
+656
+00:53:00,840 --> 00:53:03,240
+at the logs in multiple branches
+
+657
+00:53:03,960 --> 00:53:06,200
+this go to GitHub and utilize whole.
+
+658
+00:53:06,600 --> 00:53:07,960
+It's a better
+
+659
+00:53:14,400 --> 00:53:17,000
+okay, so let's open up
+
+660
+00:53:17,080 --> 00:53:22,280
+the requirements
+so you have to work on one one.
+
+661
+00:53:22,280 --> 00:53:24,440
+So let's pretend to be chunky now.
+
+662
+00:53:24,440 --> 00:53:26,280
+Okay. So junkie is there
+
+663
+00:53:28,160 --> 00:53:30,840
+Oak Island Chunky Score System.
+
+664
+00:53:30,880 --> 00:53:34,000
+So Junkie wants to add a new lonely one.
+
+665
+00:53:35,640 --> 00:53:40,440
+I'll open up the console.
+
+666
+00:53:41,920 --> 00:53:44,840
+You are looking at
+what is going to be my very
+
+667
+00:53:44,840 --> 00:53:46,080
+first step
+
+668
+00:54:00,480 --> 00:54:02,000
+yet one
+
+669
+00:54:02,880 --> 00:54:04,160
+one, one.
+
+670
+00:54:04,440 --> 00:54:06,360
+And then check out of that one.
+
+671
+00:54:06,360 --> 00:54:08,400
+Check out one more
+
+672
+00:54:48,640 --> 00:54:51,320
+of this.
+
+673
+00:54:51,320 --> 00:54:53,800
+Basically drawing
+
+674
+00:54:53,800 --> 00:54:55,240
+a new
+
+675
+00:54:58,840 --> 00:54:59,720
+update
+
+676
+00:55:00,680 --> 00:55:01,760
+with me branch.
+
+677
+00:55:01,760 --> 00:55:22,440
+So this is our main branch,
+which is no update.
+
+678
+00:55:22,440 --> 00:55:25,280
+So this is just one.
+
+679
+00:55:25,280 --> 00:55:28,560
+And we created a new branch to let us see
+
+680
+00:55:30,800 --> 00:55:32,000
+more and more
+
+681
+00:55:38,600 --> 00:55:39,160
+open up
+
+682
+00:55:39,160 --> 00:55:43,920
+our intelligent junkie over here
+and how I switched to the branch.
+
+683
+00:55:43,920 --> 00:55:46,160
+I need to make sure of that.
+
+684
+00:55:46,160 --> 00:55:48,360
+Yes, I only need one for each.
+
+685
+00:55:50,000 --> 00:55:53,800
+Then I'll add and plus one more than one.
+
+686
+00:55:53,880 --> 00:55:58,560
+And our moon is going to have
+some kind of attributes.
+
+687
+00:55:58,560 --> 00:56:01,760
+Let's call them color only for now.
+
+688
+00:56:01,760 --> 00:56:03,480
+And training.
+
+689
+00:56:04,480 --> 00:56:07,080
+This what
+
+690
+00:56:07,080 --> 00:56:09,560
+else does it have ready is
+
+691
+00:56:10,880 --> 00:56:13,080
+saying
+
+692
+00:56:16,880 --> 00:56:19,640
+like intensity
+
+693
+00:56:23,960 --> 00:56:26,480
+in our main branch.
+
+694
+00:56:26,800 --> 00:56:28,920
+Oh, that's some
+
+695
+00:56:33,320 --> 00:56:35,960
+features of that in
+
+696
+00:56:45,520 --> 00:56:51,480
+11.11 or
+
+697
+00:56:53,000 --> 00:56:54,080
+the new
+
+698
+00:56:54,560 --> 00:56:55,760
+one one
+
+699
+00:58:16,280 --> 00:58:17,000
+you guys
+
+700
+00:58:17,000 --> 00:58:23,920
+Not until this point.
+
+701
+00:58:23,920 --> 00:58:28,480
+Probably the next step is going
+to be simply to commit this over here.
+
+702
+00:58:28,480 --> 00:58:32,480
+So get add dot get comment
+
+703
+00:58:32,520 --> 00:58:35,640
+dash AM and it'll make the commit
+they're find that
+
+704
+00:58:36,480 --> 00:58:39,280
+one feature
+
+705
+00:58:39,280 --> 00:58:46,200
+as been added.
+
+706
+00:58:46,200 --> 00:58:51,600
+So I just made a comment
+with all these features on one
+
+707
+00:58:52,880 --> 00:59:12,840
+line to name it means so.
+
+708
+00:59:12,840 --> 00:59:15,760
+Okay so now
+
+709
+00:59:16,800 --> 00:59:18,280
+let's
+
+710
+00:59:18,600 --> 00:59:19,720
+pretend
+
+711
+00:59:20,160 --> 00:59:23,240
+to be working on
+
+712
+00:59:23,280 --> 00:59:27,680
+some funky
+I to responsibilities to work out the move
+
+713
+00:59:27,680 --> 00:59:29,840
+to and make some changes in Sun
+
+714
+00:59:32,640 --> 00:59:34,000
+a bit. Sun.
+
+715
+00:59:34,000 --> 00:59:36,600
+I have an update.
+
+716
+00:59:36,600 --> 00:59:38,520
+Yeah I just it's not
+
+717
+00:59:44,960 --> 00:59:47,760
+so this is the responsibility of funky
+
+718
+01:00:04,840 --> 01:00:06,000
+left open up the
+
+719
+01:00:06,000 --> 01:00:09,360
+project for funky and I have it here.
+
+720
+01:00:09,800 --> 01:00:12,720
+Here it is.
+
+721
+01:00:12,720 --> 01:00:16,400
+So again, the first step is going to be
+to open up the terminal for Funky.
+
+722
+01:00:16,640 --> 01:00:19,800
+So make sure that you are terminal
+
+723
+01:00:19,800 --> 01:00:21,840
+for funky and then
+
+724
+01:00:23,280 --> 01:00:26,440
+create a new branch.
+
+725
+01:00:26,440 --> 01:00:32,000
+That branch, let's call it
+
+726
+01:00:33,960 --> 01:01:08,040
+what we want to.
+
+727
+01:01:08,040 --> 01:01:10,240
+So we are going to play
+
+728
+01:01:12,880 --> 01:01:15,360
+simply a new class named Mode
+
+729
+01:01:15,360 --> 01:01:19,560
+two and same features we had for than one.
+
+730
+01:01:19,560 --> 01:01:38,400
+We are going to add them over here.
+
+731
+01:01:38,400 --> 01:01:42,400
+Well, I have to be very honest with you.
+
+732
+01:01:42,400 --> 01:01:43,840
+We do have a way of doing that.
+
+733
+01:01:43,840 --> 01:01:49,320
+But I would like to,
+if you that I never commend you to use
+
+734
+01:01:50,560 --> 01:01:54,800
+your get with ideas
+and never rely on that.
+
+735
+01:01:55,080 --> 01:01:59,000
+And personally, I use that I have a don't
+have my own system
+
+736
+01:01:59,040 --> 01:02:06,000
+figuring it.
+
+737
+01:02:06,000 --> 01:02:06,240
+Okay.
+
+738
+01:02:06,240 --> 01:02:11,000
+Now in our main mode, what we are
+going to do we have to make some updates
+
+739
+01:02:11,600 --> 01:02:15,120
+regarding one
+but this time and let's do one
+
+740
+01:02:15,720 --> 01:02:19,000
+less accidentally, let's say we press
+
+741
+01:02:20,200 --> 01:02:21,320
+or here we started
+
+742
+01:02:21,320 --> 01:02:26,720
+deletion or modal features.
+
+743
+01:02:26,720 --> 01:02:28,880
+We did not did this on purpose. That's it.
+
+744
+01:02:29,480 --> 01:02:31,440
+Just by mistake
+
+745
+01:03:26,440 --> 01:03:27,240
+on purpose.
+
+746
+01:03:27,240 --> 01:03:30,720
+We are in general purpose,
+
+747
+01:03:30,720 --> 01:03:34,840
+purpose.
+
+748
+01:03:34,840 --> 01:03:35,160
+Okay.
+
+749
+01:03:35,160 --> 01:03:38,000
+So these are changes that you need
+and have.
+
+750
+01:03:38,160 --> 01:03:38,480
+Okay.
+
+751
+01:03:38,480 --> 01:03:42,760
+Now only one job is left
+for this particular user.
+
+752
+01:03:42,760 --> 01:03:45,720
+You also needs to do some updates in Sun.
+
+753
+01:03:47,320 --> 01:03:47,960
+So what do you think?
+
+754
+01:03:47,960 --> 01:03:51,000
+Should those changes be done right now
+or should you create
+
+755
+01:03:51,000 --> 01:04:05,440
+a new branch for that?
+
+756
+01:04:05,440 --> 01:04:10,280
+Well, I should be totally dependent on you
+that your own personal choice.
+
+757
+01:04:10,280 --> 01:04:14,880
+But obviously we are
+we are seeing that we are assuming
+
+758
+01:04:14,880 --> 01:04:17,560
+this is a big project complex group.
+
+759
+01:04:18,240 --> 01:04:22,000
+So I want
+honestly want to have a new branch.
+
+760
+01:04:22,000 --> 01:04:24,720
+No, I would like to on this front
+
+761
+01:04:25,040 --> 01:04:29,520
+for the update.
+
+762
+01:04:29,520 --> 01:04:32,800
+So simply say let's make our comment
+
+763
+01:04:42,960 --> 01:04:44,840
+bit at DOT,
+
+764
+01:04:45,480 --> 01:04:48,200
+get permission that I am
+
+765
+01:04:51,080 --> 01:04:55,000
+the new feature on to have been
+
+766
+01:05:08,000 --> 01:05:09,840
+and now I'm switching my terminals
+
+767
+01:05:09,840 --> 01:05:14,800
+that is now by now you guys should know
+how to make your comment
+
+768
+01:05:15,840 --> 01:05:41,520
+once you have added that.
+
+769
+01:05:41,520 --> 01:05:44,760
+Okay so this one everyone is with me.
+
+770
+01:05:44,960 --> 01:05:55,640
+Are we all synchronize?
+
+771
+01:05:55,640 --> 01:06:00,720
+Okay, let's do one more thing for both
+the users who worked on one
+
+772
+01:06:00,720 --> 01:06:06,720
+and two,
+let's push these branches to guitar.
+
+773
+01:06:06,720 --> 01:06:08,800
+So for chunky
+
+774
+01:06:08,800 --> 01:06:14,040
+get push dash
+you are region more than one.
+
+775
+01:06:14,920 --> 01:06:18,040
+I will press enter so if I have pushed
+
+776
+01:06:18,040 --> 01:06:22,760
+this bunch to the more and for funky
+
+777
+01:06:25,000 --> 01:06:26,960
+get push
+
+778
+01:06:26,960 --> 01:06:30,520
+that you do origin mode to
+
+779
+01:06:38,440 --> 01:06:42,000
+so both my branches are company
+
+780
+01:06:42,560 --> 01:07:03,120
+and they are sent on GitHub.
+
+781
+01:07:03,120 --> 01:07:06,160
+Okay now we want to also work on
+
+782
+01:07:07,920 --> 01:07:10,360
+the update strike in this time.
+
+783
+01:07:10,360 --> 01:07:13,440
+So for that
+for creating a new branch also.
+
+784
+01:07:13,440 --> 01:07:16,320
+So we should be create the new words from
+
+785
+01:07:18,040 --> 01:07:21,280
+this person
+who was working on more diversity
+
+786
+01:07:21,280 --> 01:07:23,280
+creative, not from
+
+787
+01:07:26,080 --> 01:07:42,480
+us. Well,
+
+788
+01:07:43,200 --> 01:07:45,640
+it depends upon few conditions.
+
+789
+01:07:46,440 --> 01:07:49,840
+Well,
+obviously it's pretty logical, right?
+
+790
+01:07:49,840 --> 01:07:52,480
+I would just let you know
+
+791
+01:07:53,400 --> 01:07:55,800
+the updates he wants to make are on.
+
+792
+01:07:55,800 --> 01:07:58,920
+So right.
+
+793
+01:07:58,920 --> 01:08:02,080
+He wants to make updates in some
+
+794
+01:08:02,080 --> 01:08:04,320
+of those updates.
+
+795
+01:08:04,320 --> 01:08:07,680
+But any just dependent on whatever he did
+
+796
+01:08:07,880 --> 01:08:09,560
+and see if
+
+797
+01:08:17,960 --> 01:08:22,400
+okay if they are very dependent on CAA
+let's say by chance
+
+798
+01:08:22,400 --> 01:08:33,000
+they were dependent on CAA,
+then he will be creating it for CAA.
+
+799
+01:08:33,240 --> 01:08:36,040
+But if they are independent
+then he will be creating for
+
+800
+01:08:37,160 --> 01:08:39,400
+the file. That's six.
+
+801
+01:08:39,400 --> 01:08:44,720
+Is this clear to everyone?
+
+802
+01:08:44,720 --> 01:08:49,400
+I said now maybe is like kind of what
+it to your already I guess
+
+803
+01:08:55,440 --> 01:08:57,680
+I'll agree so
+
+804
+01:08:59,080 --> 01:09:03,200
+as we are not dependent on CAA
+
+805
+01:09:03,640 --> 01:09:08,760
+the updates to be made in sun I'm
+not dependent on what we didn't see it.
+
+806
+01:09:09,200 --> 01:09:13,520
+We will be creating a new branch
+out of five guests
+
+807
+01:09:13,520 --> 01:09:14,960
+and six
+
+808
+01:09:21,240 --> 01:09:30,960
+sun updates.
+
+809
+01:09:30,960 --> 01:09:34,160
+So let's go to our user
+
+810
+01:09:34,160 --> 01:09:37,800
+who was working on to that.
+
+811
+01:09:37,920 --> 01:09:39,520
+Which one is that?
+
+812
+01:09:39,520 --> 01:09:41,640
+Yeah, that's funny.
+
+813
+01:09:41,640 --> 01:09:45,000
+So he was first
+checked out to the main branch
+
+814
+01:09:46,600 --> 01:09:49,760
+and then he will create a new branch
+
+815
+01:09:49,840 --> 01:09:53,800
+name sudden update
+
+816
+01:09:58,640 --> 01:10:01,120
+and then he will check to this
+
+817
+01:10:01,120 --> 01:10:08,960
+an update.
+
+818
+01:10:08,960 --> 01:10:13,520
+Okay he is in and sun updates
+now kept to minutes.
+
+819
+01:10:13,520 --> 01:10:17,720
+Read this one and let me know.
+
+820
+01:10:17,720 --> 01:10:20,040
+Oh you deleted your watch.
+
+821
+01:10:20,040 --> 01:10:22,800
+Just you have it on your remote right
+
+822
+01:10:23,640 --> 01:10:43,960
+that from your work
+so let's open up our intelligent
+
+823
+01:10:47,360 --> 01:10:49,600
+and let's have a look at the
+
+824
+01:10:49,920 --> 01:10:53,520
+funky one.
+
+825
+01:10:53,520 --> 01:10:55,440
+Okay so
+
+826
+01:10:55,960 --> 01:10:58,920
+simply we'll go to our
+
+827
+01:10:58,920 --> 01:11:00,000
+solar system.
+
+828
+01:11:00,000 --> 01:11:00,840
+Maybe
+
+829
+01:11:02,640 --> 01:11:06,200
+and we will change the name from moon to
+
+830
+01:11:07,680 --> 01:11:08,640
+planets.
+
+831
+01:11:08,640 --> 01:11:09,960
+No, no, I'm sorry, son.
+
+832
+01:11:09,960 --> 01:11:12,400
+I'm just one sun. So let's see. Let's.
+
+833
+01:11:12,600 --> 01:11:14,960
+I want to change this. Time to end.
+
+834
+01:11:16,000 --> 01:11:19,640
+So that's one update that we did.
+
+835
+01:11:19,640 --> 01:11:23,400
+I also want to, in my name,
+make this an integer,
+
+836
+01:11:23,560 --> 01:11:25,720
+that this temperature
+
+837
+01:11:33,000 --> 01:11:36,120
+best known in digital world.
+
+838
+01:11:36,280 --> 01:11:38,280
+So integer
+
+839
+01:11:38,280 --> 01:11:44,840
+being 17.
+
+840
+01:11:44,840 --> 01:11:45,040
+Okay.
+
+841
+01:11:45,040 --> 01:11:50,160
+So the updates that you need,
+we can update the template.
+
+842
+01:11:50,160 --> 01:11:52,120
+Just string to end.
+
+843
+01:11:52,120 --> 01:11:55,560
+And then when we made the update
+that we just
+
+844
+01:11:58,880 --> 01:12:02,200
+changed the temperature
+and moved the and got it.
+
+845
+01:12:02,200 --> 01:12:09,840
+Come on.
+
+846
+01:12:09,840 --> 01:12:22,640
+Okay, you guys let me know
+once you are done with this.
+
+847
+01:12:22,640 --> 01:12:24,600
+Okay? The next step is to
+
+848
+01:12:25,680 --> 01:12:28,400
+make a upcoming so get add dot
+
+849
+01:12:29,240 --> 01:12:31,200
+get comment
+
+850
+01:12:32,360 --> 01:12:35,000
+that share the updated
+
+851
+01:12:36,080 --> 01:12:39,200
+features of sun.
+
+852
+01:12:39,200 --> 01:12:44,800
+Then add.
+
+853
+01:12:44,800 --> 01:12:46,080
+Okay. Yeah. Good.
+
+854
+01:12:46,080 --> 01:12:48,840
+We made the comment
+I'm going to show you on simulation.
+
+855
+01:12:50,520 --> 01:12:54,240
+We simply made a comment like this.
+
+856
+01:12:54,240 --> 01:12:57,440
+Pretty nice and simple.
+
+857
+01:12:58,640 --> 01:12:59,960
+It does from here.
+
+858
+01:12:59,960 --> 01:13:03,280
+And the name is nine
+
+859
+01:13:03,280 --> 01:13:04,200
+Learning
+
+860
+01:13:06,440 --> 01:13:12,240
+just like this.
+
+861
+01:13:12,240 --> 01:13:17,320
+Okay, guys, so let's come to the point
+where are we going to merge
+
+862
+01:13:17,320 --> 01:13:20,760
+everything before that,
+I want you guys to tell me
+
+863
+01:13:21,400 --> 01:13:24,880
+I need to push some of this to do mode
+or to right.
+
+864
+01:13:24,880 --> 01:13:28,360
+So simply I'll go to my funky
+
+865
+01:13:28,400 --> 01:13:31,520
+head of said get push dash.
+
+866
+01:13:31,560 --> 01:13:34,400
+You are edge and
+
+867
+01:13:34,400 --> 01:13:37,960
+sun of the
+
+868
+01:13:38,440 --> 01:13:44,280
+Oh yeah do that to.
+
+869
+01:13:44,280 --> 01:13:47,560
+Okay now tell me,
+do you want to resolve them on GitHub
+
+870
+01:13:47,560 --> 01:13:51,720
+or do you want to resolve these conflicts
+on a local computer?
+
+871
+01:13:52,240 --> 01:13:52,880
+Make sure
+
+872
+01:13:59,040 --> 01:14:05,320
+that both are going to be just the same.
+
+873
+01:14:05,320 --> 01:14:08,280
+So let's choose one platform
+and we can work over do
+
+874
+01:14:13,200 --> 01:14:15,920
+a branding
+
+875
+01:14:16,280 --> 01:14:19,040
+which was used more at work.
+
+876
+01:14:20,280 --> 01:14:26,120
+Well, if you are an experienced person
+and you trust team, these are teammates
+
+877
+01:14:26,120 --> 01:14:30,880
+that they will be working time that
+obviously you'll be using GitHub more.
+
+878
+01:14:31,320 --> 01:14:33,800
+Yes, that's right.
+
+879
+01:14:34,680 --> 01:14:38,880
+But if you are an inexperienced person
+who does not trust your teammates,
+
+880
+01:14:39,840 --> 01:14:42,120
+then he is going to use the local one.
+
+881
+01:14:42,120 --> 01:14:44,000
+You need to download that check.
+
+882
+01:14:44,000 --> 01:14:48,040
+Go to my one
+and then you will be doing all the stuff.
+
+883
+01:14:48,960 --> 01:14:51,280
+So at work, mostly GitHub is used
+
+884
+01:14:54,280 --> 01:14:56,520
+because they don't have time actually to.
+
+885
+01:14:56,520 --> 01:14:59,400
+You know, that's your logic and stuff
+you don't do.
+
+886
+01:14:59,480 --> 01:15:02,640
+They don't do that.
+
+887
+01:15:02,640 --> 01:15:04,600
+Well, imagine in a company that
+
+888
+01:15:05,680 --> 01:15:07,920
+a person is no
+
+889
+01:15:08,640 --> 01:15:10,320
+checking your codes again and again.
+
+890
+01:15:10,320 --> 01:15:12,040
+Now we have leaders coming to you.
+
+891
+01:15:12,040 --> 01:15:14,360
+Hey, show me out, Show me a cool letter.
+
+892
+01:15:14,360 --> 01:15:16,520
+So this just doesn't work over there.
+
+893
+01:15:16,520 --> 01:15:18,480
+Everyone is responsible for their role.
+
+894
+01:15:18,480 --> 01:15:22,160
+So if you mess up your images
+from home and
+
+895
+01:15:23,600 --> 01:15:31,440
+some dangerous use.
+
+896
+01:15:31,440 --> 01:15:34,800
+So when you have
+that kind of responsibility,
+
+897
+01:15:35,880 --> 01:15:40,920
+trust me, your your brain,
+it doesn't let you make mistakes
+
+898
+01:15:40,920 --> 01:15:46,120
+it makes sure that you are responsible
+enough to do that
+
+899
+01:15:54,000 --> 01:15:55,080
+break.
+
+900
+01:15:55,080 --> 01:15:55,720
+Right.
+
+901
+01:15:55,720 --> 01:15:58,320
+Let's give a break to Dan and oh,
+
+902
+01:15:58,560 --> 01:16:06,400
+how about that?
+
+903
+01:16:06,400 --> 01:16:08,840
+I think you guys need great excuse
+for breaking it
+
+904
+01:16:13,400 --> 01:16:14,520
+at 730.
+
+905
+01:16:14,520 --> 01:16:18,320
+Let's meet at 1145.
+
+906
+01:16:18,840 --> 01:16:20,160
+Okay. You want 10 minutes?
+
+907
+01:16:20,160 --> 01:16:24,960
+All of you are good with ten.
+
+908
+01:16:24,960 --> 01:16:27,920
+15 is good. Okay. I hope to fortify
+
+909
+01:16:31,360 --> 01:16:33,160
+and then we'll be
+
+910
+01:16:33,160 --> 01:16:39,920
+resuming from this point.
+
+911
+01:16:39,920 --> 01:33:35,680
+But so
+
+912
+01:33:37,920 --> 01:33:42,960
+we are back.
+
+913
+01:33:42,960 --> 01:33:46,320
+And let's start
+
+914
+01:33:47,200 --> 01:33:47,480
+there.
+
+915
+01:33:47,480 --> 01:33:51,920
+We left having
+pushed the next branch on GitHub.
+
+916
+01:33:52,280 --> 01:33:54,880
+Yes, we have got this sun up.
+
+917
+01:33:54,880 --> 01:33:56,120
+This officer.
+
+918
+01:33:56,120 --> 01:33:59,160
+Let's open
+the GitHub, Let's go to our system
+
+919
+01:33:59,160 --> 01:34:02,560
+that lets you branches up.
+
+920
+01:34:03,240 --> 01:34:06,480
+Okay, so we have the moon one, two and sun
+
+921
+01:34:06,480 --> 01:34:09,560
+updates on this particular
+
+922
+01:34:09,560 --> 01:34:12,600
+branch.
+
+923
+01:34:12,600 --> 01:34:15,360
+Okay, Now let's do one thing.
+
+924
+01:34:15,480 --> 01:34:19,160
+Let's start opening up the pool request
+and most branches
+
+925
+01:34:19,160 --> 01:34:23,120
+one by one.
+
+926
+01:34:23,120 --> 01:34:27,600
+So let's first of all merge
+the branch seven
+
+927
+01:34:29,280 --> 01:34:31,680
+into the main branch.
+
+928
+01:34:31,680 --> 01:34:32,920
+So what do you guys think?
+
+929
+01:34:32,920 --> 01:34:36,760
+What kind of merge is supposed to happen
+When we was one
+
+930
+01:34:36,880 --> 01:34:39,960
+with the main four,
+
+931
+01:34:39,960 --> 01:34:41,880
+it's going to be fast.
+
+932
+01:34:41,880 --> 01:34:43,800
+Very much so.
+
+933
+01:34:43,800 --> 01:34:50,080
+Something like this is going to happen.
+
+934
+01:34:50,080 --> 01:34:50,320
+Right?
+
+935
+01:34:53,040 --> 01:34:53,440
+Okay.
+
+936
+01:34:53,440 --> 01:34:58,280
+So we will go to our pull request.
+
+937
+01:34:58,280 --> 01:35:01,680
+We will go to now new upon request
+
+938
+01:35:03,000 --> 01:35:06,960
+and then the base should be made
+and we should incorporate
+
+939
+01:35:08,120 --> 01:35:08,680
+more one.
+
+940
+01:35:08,680 --> 01:35:09,840
+And with that
+
+941
+01:35:14,080 --> 01:35:18,760
+we okay, now create one request.
+
+942
+01:35:20,160 --> 01:35:23,760
+The one has been added.
+
+943
+01:35:25,080 --> 01:35:27,640
+We merge
+
+944
+01:35:28,320 --> 01:35:31,400
+that nick on create pool request for
+
+945
+01:35:34,200 --> 01:35:34,680
+good.
+
+946
+01:35:35,800 --> 01:35:36,160
+Right.
+
+947
+01:35:37,560 --> 01:35:37,960
+Okay.
+
+948
+01:35:37,960 --> 01:35:41,720
+So as this is a password merge,
+I told you guys that are not going to
+
+949
+01:35:41,760 --> 01:35:44,040
+no conflicts when we are doing a pass.
+All right.
+
+950
+01:35:44,640 --> 01:35:46,800
+So it's good
+
+951
+01:35:47,160 --> 01:35:50,200
+value to be merged.
+
+952
+01:35:50,200 --> 01:35:53,480
+Thank you.
+
+953
+01:35:53,480 --> 01:35:57,280
+Because is the comment that we can have
+I'm just showing you that command
+
+954
+01:35:57,280 --> 01:36:00,600
+right now, a chat history
+regarding a particular branch
+
+955
+01:36:01,600 --> 01:36:04,320
+and then simply merge full
+
+956
+01:36:04,360 --> 01:36:10,280
+and confirm the month.
+
+957
+01:36:10,280 --> 01:36:11,960
+Let me show you the code
+
+958
+01:36:14,880 --> 01:36:15,320
+move.
+
+959
+01:36:15,320 --> 01:36:21,520
+One feature has been added
+is merge into my main branch.
+
+960
+01:36:21,520 --> 01:36:23,600
+So this is something that we are done.
+
+961
+01:36:23,600 --> 01:36:28,680
+We let me know
+when you guys are done to this point
+
+962
+01:36:28,680 --> 01:36:41,720
+and then we can proceed further.
+
+963
+01:36:41,720 --> 01:36:45,600
+Well, to delete a branch, you can
+
+964
+01:36:49,440 --> 01:36:50,200
+let us try
+
+965
+01:36:50,200 --> 01:36:53,040
+to delete this planet too
+because we do not need it.
+
+966
+01:36:53,320 --> 01:36:55,560
+Right? So
+
+967
+01:36:56,720 --> 01:36:59,480
+go to settings
+
+968
+01:37:01,920 --> 01:37:05,760
+but things we can do it from here.
+
+969
+01:37:05,760 --> 01:37:07,840
+Let me just quickly check the
+
+970
+01:37:09,480 --> 01:37:11,520
+branches,
+
+971
+01:37:12,200 --> 01:37:14,960
+actions and security
+
+972
+01:37:23,640 --> 01:37:24,440
+system
+
+973
+01:37:47,960 --> 01:37:51,160
+for somewhere zero here.
+
+974
+01:37:51,160 --> 01:37:52,120
+I just forgot that.
+
+975
+01:37:52,120 --> 01:37:54,280
+Okay. So
+
+976
+01:37:55,560 --> 01:37:57,160
+you do
+
+977
+01:38:02,360 --> 01:38:02,640
+okay.
+
+978
+01:38:02,640 --> 01:38:04,840
+View all matches and then okay.
+
+979
+01:38:05,240 --> 01:38:07,600
+Perfect scenario.
+
+980
+01:38:07,880 --> 01:38:10,640
+You need a branch,
+you simply click on your branches
+
+981
+01:38:10,640 --> 01:38:13,080
+and then we can delete them from here.
+
+982
+01:38:13,640 --> 01:38:15,720
+So if you want to do one,
+
+983
+01:38:15,880 --> 01:38:19,520
+we can simply click on this button
+and it's going to be deleted.
+
+984
+01:38:19,920 --> 01:38:21,280
+We want the planet to
+
+985
+01:38:22,560 --> 01:38:24,920
+get to leave that to
+
+986
+01:38:34,440 --> 01:38:35,720
+now. Planet one on Planet
+
+987
+01:38:35,720 --> 01:38:40,800
+two are not visible.
+
+988
+01:38:40,800 --> 01:38:44,240
+Okay, so now let's open up a pull request
+to merge
+
+989
+01:38:53,000 --> 01:38:54,600
+a start
+
+990
+01:38:54,600 --> 01:38:57,360
+A first,
+let's say we want to avoid sun updates.
+
+991
+01:38:57,360 --> 01:39:01,920
+First of all,
+I want you guys to tell me one thing is.
+
+992
+01:39:01,920 --> 01:39:10,800
+The merge going to be of it or not?
+
+993
+01:39:10,800 --> 01:39:13,960
+No, it's not going to be
+if that's our merge because the committees
+
+994
+01:39:14,000 --> 01:39:15,960
+we have changed
+
+995
+01:39:16,320 --> 01:39:29,920
+is there going to be any conflict?
+
+996
+01:39:29,920 --> 01:39:30,320
+Okay.
+
+997
+01:39:30,720 --> 01:39:33,720
+Is there going to be a conflict
+
+998
+01:39:37,960 --> 01:39:39,840
+way, way
+
+999
+01:39:39,920 --> 01:39:42,360
+and do not just copy
+
+1000
+01:39:42,880 --> 01:39:45,520
+one of what people are saying?
+
+1001
+01:39:45,600 --> 01:39:48,960
+Use your brain
+and then tell me, will there be conflict
+
+1002
+01:40:14,920 --> 01:40:18,560
+that be So when does a conflict occur?
+
+1003
+01:40:18,800 --> 01:40:35,440
+First of all, let's review that.
+
+1004
+01:40:35,440 --> 01:40:37,800
+No, that's not the product you is change.
+
+1005
+01:40:37,800 --> 01:40:43,720
+Remember I told you that a conflict occurs
+where the same lines are changed
+
+1006
+01:40:45,480 --> 01:40:46,800
+by two different
+
+1007
+01:40:46,800 --> 01:40:52,680
+persons, when same lines are changed
+by two different persons.
+
+1008
+01:40:52,680 --> 01:40:56,480
+And then there is a conflict
+because given is unable
+
+1009
+01:40:56,480 --> 01:41:00,120
+to decide that,
+which one do you want to keep?
+
+1010
+01:41:00,120 --> 01:41:01,000
+Remember?
+
+1011
+01:41:01,200 --> 01:41:07,680
+So now tell me, do you guys think that
+there will be a conflict?
+
+1012
+01:41:07,680 --> 01:41:11,440
+Let me show you what changed to solve it.
+
+1013
+01:41:11,760 --> 01:41:16,160
+We changed it to end and in our main
+we changed it to
+
+1014
+01:41:17,360 --> 01:41:18,160
+this one.
+
+1015
+01:41:18,160 --> 01:41:24,960
+Was this change by anyone else? No.
+
+1016
+01:41:25,600 --> 01:41:28,960
+So when get made the branch
+
+1017
+01:41:30,360 --> 01:41:32,760
+this town was different
+
+1018
+01:41:33,360 --> 01:41:36,120
+and now in the branch it was added.
+
+1019
+01:41:36,280 --> 01:41:39,480
+But now when it's going back,
+when we are merging it,
+
+1020
+01:41:40,560 --> 01:41:41,840
+it's still the same.
+
+1021
+01:41:41,840 --> 01:41:45,360
+When this particular branch
+was made right.
+
+1022
+01:41:45,400 --> 01:41:48,400
+The history of this particular line
+has not changed
+
+1023
+01:41:48,760 --> 01:41:52,320
+at that point.
+
+1024
+01:41:52,320 --> 01:41:54,600
+So the history is still the same.
+
+1025
+01:41:54,840 --> 01:41:58,480
+When spine to merge that back
+put the line,
+
+1026
+01:41:58,680 --> 01:42:02,480
+then there should not be a conflict
+according my concepts.
+
+1027
+01:42:02,480 --> 01:42:07,680
+Right.
+
+1028
+01:42:07,680 --> 01:42:11,880
+So as everyone hear about this
+that there is not going to be a conflict.
+
+1029
+01:42:11,880 --> 01:42:14,000
+It's anyone who is unclear, not sure.
+
+1030
+01:42:14,000 --> 01:42:14,560
+Let me know.
+
+1031
+01:42:14,560 --> 01:42:20,000
+We can go into more depth of this
+and have this conversation.
+
+1032
+01:42:20,000 --> 01:42:21,720
+Okay, so you guys and
+
+1033
+01:42:22,800 --> 01:42:26,360
+so let's try to open up the pool request
+
+1034
+01:42:26,360 --> 01:42:29,920
+and let's make a new pool request.
+
+1035
+01:42:31,080 --> 01:42:35,000
+So that updates
+
+1036
+01:42:36,760 --> 01:42:39,000
+able to merge, create, pull request.
+
+1037
+01:42:39,360 --> 01:42:41,160
+I'm not going to put any message.
+
+1038
+01:42:41,160 --> 01:42:43,560
+I'm just tired of that
+
+1039
+01:42:44,920 --> 01:42:45,640
+say checking
+
+1040
+01:42:45,640 --> 01:42:50,120
+the ability very do no conflicts
+because the history is same of that
+
+1041
+01:42:50,120 --> 01:42:52,600
+particular line
+when the branch was created
+
+1042
+01:42:54,640 --> 01:42:58,120
+multiple requests from
+
+1043
+01:42:58,560 --> 01:43:00,960
+and we are all over
+
+1044
+01:43:01,360 --> 01:43:08,560
+no conflicts at all.
+
+1045
+01:43:08,560 --> 01:43:12,600
+But this time
+the strategy use was a little different
+
+1046
+01:43:12,600 --> 01:43:35,560
+and it was a premium march.
+
+1047
+01:43:35,560 --> 01:43:37,680
+We now we want to march
+
+1048
+01:43:39,240 --> 01:43:41,240
+this one to
+
+1049
+01:43:41,480 --> 01:43:43,920
+tell me, will it be faster? Much
+
+1050
+01:43:47,480 --> 01:43:49,400
+not a lot fast,
+
+1051
+01:43:49,400 --> 01:43:51,840
+but at the end
+it's going to be other coercive
+
+1052
+01:43:52,520 --> 01:43:56,360
+merge that is going to happen.
+
+1053
+01:43:56,360 --> 01:44:19,200
+Are so let's create info request going to
+
+1054
+01:44:29,600 --> 01:44:31,000
+be equal requests
+
+1055
+01:44:31,000 --> 01:44:38,520
+to create request.
+
+1056
+01:44:38,520 --> 01:44:39,040
+Okay.
+
+1057
+01:44:39,400 --> 01:44:43,560
+Says that this branch has conflicts
+that must be resolved
+
+1058
+01:44:44,560 --> 01:44:46,480
+and these are the conflicts.
+
+1059
+01:44:46,480 --> 01:44:51,840
+Let's have a review.
+
+1060
+01:44:51,840 --> 01:44:56,080
+Okay.
+
+1061
+01:44:56,080 --> 01:44:58,360
+Now it's
+
+1062
+01:44:58,360 --> 01:45:00,040
+giving us
+
+1063
+01:45:01,000 --> 01:45:03,880
+those particular
+
+1064
+01:45:04,800 --> 01:45:09,240
+few pieces of code that were in conflict.
+
+1065
+01:45:10,160 --> 01:45:16,280
+But I left some space intentionally right?
+
+1066
+01:45:16,280 --> 01:45:18,840
+I left some space intentionally
+
+1067
+01:45:19,920 --> 01:45:28,360
+in order to avoid the conflict.
+
+1068
+01:45:28,360 --> 01:45:31,520
+But still, it's giving us this conflict.
+
+1069
+01:45:32,320 --> 01:45:39,240
+Why is that so?
+
+1070
+01:45:39,240 --> 01:45:52,280
+Part?
+
+1071
+01:45:52,280 --> 01:46:00,400
+Yeah, well,
+a big spaces, just like spaces, Yes.
+
+1072
+01:46:00,400 --> 01:46:05,360
+So what we did
+is that this code is very similar
+
+1073
+01:46:05,360 --> 01:46:10,920
+to this one, right?
+
+1074
+01:46:10,920 --> 01:46:13,880
+Like almost everything,
+
+1075
+01:46:13,880 --> 01:46:15,720
+all the lines are same.
+
+1076
+01:46:15,720 --> 01:46:18,280
+So giving you a little bit intelligent to
+
+1077
+01:46:20,400 --> 01:46:23,080
+sort it while merging it.
+
+1078
+01:46:23,760 --> 01:46:28,240
+It recognized that
+although the line spaces are not the same,
+
+1079
+01:46:28,240 --> 01:46:32,640
+but still this code
+is like very much close to each other.
+
+1080
+01:46:32,960 --> 01:46:35,560
+So there might be a conflict.
+
+1081
+01:46:35,720 --> 01:46:37,440
+There might be, there might be not.
+
+1082
+01:46:37,440 --> 01:46:41,160
+So instead of doing everything
+on its own, it gave you the
+
+1083
+01:46:43,720 --> 01:46:46,040
+authority to choose.
+
+1084
+01:46:46,040 --> 01:46:50,480
+Which one do you want to keep.
+
+1085
+01:46:50,480 --> 01:46:54,120
+So you just simply remove these names
+
+1086
+01:46:54,880 --> 01:46:57,760
+and then also like remove the space.
+
+1087
+01:46:57,760 --> 01:47:02,360
+And I would say, okay, now
+these variable names,
+
+1088
+01:47:02,360 --> 01:47:06,840
+I don't want to have the same one,
+so same mental one
+
+1089
+01:47:07,080 --> 01:47:12,280
+then one one and one.
+
+1090
+01:47:12,280 --> 01:47:12,560
+Okay.
+
+1091
+01:47:12,560 --> 01:47:16,440
+Do you guys get this concept that
+why are we having a conflict over here
+
+1092
+01:47:16,800 --> 01:47:19,120
+although the left spaces.
+
+1093
+01:47:19,240 --> 01:47:21,720
+So it's a good thing for us right because
+
+1094
+01:47:22,760 --> 01:47:24,800
+the variable names were all the same.
+
+1095
+01:47:24,800 --> 01:47:28,040
+So we wanted to know that
+
+1096
+01:47:29,400 --> 01:47:31,400
+if we had not named them
+
+1097
+01:47:31,400 --> 01:47:35,480
+same, same then most probably
+there wouldn't have been a conflict.
+
+1098
+01:47:35,720 --> 01:47:39,160
+But that's why we are putting a conflict
+that that's a good thing.
+
+1099
+01:47:39,920 --> 01:47:44,800
+We know now that this button up
+code needs some amendments.
+
+1100
+01:47:45,320 --> 01:47:47,880
+Obviously, that's resolved that conflict.
+
+1101
+01:47:47,880 --> 01:47:57,560
+Click on Mark as resolved
+and then commit merge.
+
+1102
+01:47:57,560 --> 01:48:02,280
+No conflicts
+other little from merge and everything is
+
+1103
+01:48:03,240 --> 01:48:04,120
+up to date
+
+1104
+01:48:04,120 --> 01:48:08,240
+in our solar system.
+
+1105
+01:48:08,240 --> 01:48:34,000
+So what we should.
+
+1106
+01:48:34,000 --> 01:48:35,960
+Well what of the code is more complex.
+
+1107
+01:48:35,960 --> 01:48:40,560
+So Mohammed,
+the first thing is that you would be
+
+1108
+01:48:40,600 --> 01:48:43,960
+obviously two people
+who are voting on the same project.
+
+1109
+01:48:44,760 --> 01:48:47,560
+The probability
+of having the same variable
+
+1110
+01:48:47,880 --> 01:48:50,880
+is very less. Why?
+
+1111
+01:48:50,880 --> 01:48:51,960
+Because
+
+1112
+01:48:52,520 --> 01:48:55,320
+you name the variables
+in an intelligent way.
+
+1113
+01:48:55,320 --> 01:48:58,080
+You name them so that
+
+1114
+01:48:58,080 --> 01:49:00,760
+they define what ever you are doing.
+
+1115
+01:49:01,240 --> 01:49:02,960
+So if you're already given
+different features
+
+1116
+01:49:02,960 --> 01:49:06,440
+that obviously you will be having
+different variable names.
+
+1117
+01:49:07,400 --> 01:49:10,320
+But if you get the same name,
+
+1118
+01:49:10,320 --> 01:49:14,640
+then they are going to be errors and bugs
+and you need to like debug it.
+
+1119
+01:49:15,360 --> 01:49:19,280
+So obviously
+it is not going to do everything for you.
+
+1120
+01:49:19,280 --> 01:49:27,760
+There is some caution
+that you have to do on your own to.
+
+1121
+01:49:27,760 --> 01:49:30,720
+So that is this is the complete
+workflow of our branch
+
+1122
+01:49:33,320 --> 01:49:34,800
+and you see how
+
+1123
+01:49:34,800 --> 01:49:39,680
+simple it becomes
+when we are working on this using branches
+
+1124
+01:49:39,680 --> 01:49:45,520
+and stuff
+to work on the same project. Yes.
+
+1125
+01:49:45,800 --> 01:49:48,720
+And that's because we are using
+the same variable name.
+
+1126
+01:49:48,720 --> 01:49:52,440
+And apart from that also
+we are also having seemed like a pool.
+
+1127
+01:49:52,560 --> 01:49:54,040
+So that's why
+
+1128
+01:49:54,640 --> 01:49:57,720
+now because there is a
+
+1129
+01:49:57,720 --> 01:50:00,560
+merging and
+
+1130
+01:50:02,320 --> 01:50:03,720
+resolving conflicts
+
+1131
+01:50:03,720 --> 01:50:11,640
+clear to all of you,
+
+1132
+01:50:11,640 --> 01:50:15,280
+you just have to be very clear
+about the concepts we are using.
+
+1133
+01:50:15,280 --> 01:50:16,480
+Very simple code.
+
+1134
+01:50:16,480 --> 01:50:18,640
+That's the reason I use doesn't look good
+
+1135
+01:50:18,680 --> 01:50:21,360
+just to make sure
+that all of your concepts are clear.
+
+1136
+01:50:22,440 --> 01:50:24,240
+Over all of these classes.
+
+1137
+01:50:24,240 --> 01:50:30,000
+I tried my best to incorporate each
+and every use case that benefits,
+
+1138
+01:50:30,000 --> 01:50:33,160
+but still there will be some scenarios
+which I hope
+
+1139
+01:50:34,360 --> 01:50:36,640
+it will be impossible
+for me to go through, because
+
+1140
+01:50:37,280 --> 01:50:39,720
+obviously all of you,
+when working with be using
+
+1141
+01:50:39,720 --> 01:50:43,640
+different kinds of approaches
+to, you know,
+
+1142
+01:50:43,640 --> 01:50:47,760
+work on branches and stuff like that,
+you will be using different approaches.
+
+1143
+01:50:49,080 --> 01:50:51,760
+But if
+you understand the concept of everything,
+
+1144
+01:50:51,760 --> 01:50:56,640
+how a conflict arises to resolve that,
+how does it happen?
+
+1145
+01:50:56,640 --> 01:50:57,360
+If you understand
+
+1146
+01:50:57,360 --> 01:51:00,880
+these concepts, I am pretty much sure
+that you will be able to easily
+
+1147
+01:51:01,800 --> 01:51:04,640
+resolve them and work your throughout.
+
+1148
+01:51:04,640 --> 01:51:08,800
+So this project is going to be
+a very good practice for all of you
+
+1149
+01:51:08,800 --> 01:51:13,800
+to actually work on it
+also and get your hands dirty or do
+
+1150
+01:51:14,960 --> 01:51:18,400
+anyone who has any problem
+while working on the project
+
+1151
+01:51:18,400 --> 01:51:21,480
+and doing it in
+the settlement shall tag me
+
+1152
+01:51:21,480 --> 01:51:31,560
+and I'll be there
+to help you out with the get part.
+
+1153
+01:51:31,560 --> 01:51:38,400
+Okay, so now of your comments, simply
+click on these comments that we have
+
+1154
+01:51:38,400 --> 01:51:41,800
+and if you want to any
+at any particular version,
+
+1155
+01:51:41,840 --> 01:51:44,160
+simply on
+
+1156
+01:51:45,240 --> 01:51:47,080
+the code that we have for this
+
+1157
+01:51:48,600 --> 01:51:49,600
+that talks us to
+
+1158
+01:51:49,600 --> 01:51:53,600
+that, it takes us to that particular code
+and what else we can do.
+
+1159
+01:51:53,600 --> 01:51:56,680
+We can also click browser at this point.
+
+1160
+01:51:56,680 --> 01:52:00,520
+It would then work out,
+which would be like our
+
+1161
+01:52:00,720 --> 01:52:03,320
+that was up to this point
+to the first commit.
+
+1162
+01:52:04,120 --> 01:52:08,440
+If I want to have this go up,
+I can simply download the zip file
+
+1163
+01:52:08,440 --> 01:52:11,880
+for this code
+and I can have this put the source code
+
+1164
+01:52:11,880 --> 01:52:14,880
+on my system.
+
+1165
+01:52:14,880 --> 01:52:18,480
+So that's a shortcut way of getting
+to previous comments,
+
+1166
+01:52:18,920 --> 01:52:25,120
+taking them in your system if you want
+a previous version or something like that.
+
+1167
+01:52:25,120 --> 01:52:28,400
+One of the things
+that I wanted to show you is that
+
+1168
+01:52:31,200 --> 01:52:32,800
+I don't want you guys to follow me.
+
+1169
+01:52:32,800 --> 01:52:35,840
+I'm just going to show you on my system
+
+1170
+01:52:37,840 --> 01:52:40,080
+with the correct
+
+1171
+01:52:40,320 --> 01:52:48,000
+use of one second.
+
+1172
+01:52:48,000 --> 01:52:48,280
+Okay?
+
+1173
+01:52:48,280 --> 01:52:54,600
+So just pay attention
+to whatever I'm doing.
+
+1174
+01:52:54,600 --> 01:52:56,840
+We know how to write someone.
+
+1175
+01:52:56,840 --> 01:52:59,640
+We can call if you want to, but right now
+
+1176
+01:52:59,880 --> 01:53:03,360
+we are not doing that.
+
+1177
+01:53:03,360 --> 01:53:03,880
+Okay, guys.
+
+1178
+01:53:03,880 --> 01:53:08,440
+So over here, what we see
+is that we see a lot of comments
+
+1179
+01:53:08,440 --> 01:53:12,000
+that are one, two, three, four,
+five, six, seven.
+
+1180
+01:53:12,560 --> 01:53:19,200
+So at any point in time
+we want to just delete this comment.
+
+1181
+01:53:19,200 --> 01:53:21,960
+You want to read this, come in
+
+1182
+01:53:23,080 --> 01:53:34,200
+and do that.
+
+1183
+01:53:34,200 --> 01:53:34,560
+Okay.
+
+1184
+01:53:34,560 --> 01:53:50,800
+How will this coming?
+
+1185
+01:53:50,800 --> 01:53:52,320
+We will never guess that.
+
+1186
+01:53:52,320 --> 01:53:56,520
+Okay.
+
+1187
+01:53:56,520 --> 01:54:00,320
+To the command to delete your command.
+
+1188
+01:54:01,560 --> 01:54:02,760
+It's not recommended.
+
+1189
+01:54:02,760 --> 01:54:05,720
+First of all, I not teach you that, but
+
+1190
+01:54:07,320 --> 01:54:09,600
+it's not recommended.
+
+1191
+01:54:09,880 --> 01:54:12,880
+Make sure that when you are making
+comments you are very vigilant about it.
+
+1192
+01:54:12,880 --> 01:54:15,640
+But obviously you can,
+you know, by mistake.
+
+1193
+01:54:15,640 --> 01:54:18,560
+Some make some make a comment
+and you want to.
+
+1194
+01:54:19,240 --> 01:54:20,640
+That can happen.
+
+1195
+01:54:20,640 --> 01:54:23,040
+So in order to welcome it,
+you will simply use the
+
+1196
+01:54:23,040 --> 01:54:26,280
+command, get reset.
+
+1197
+01:54:26,280 --> 01:54:26,920
+That's
+
+1198
+01:54:28,000 --> 01:54:29,200
+my typing
+
+1199
+01:54:29,640 --> 01:54:44,240
+for you.
+
+1200
+01:54:44,240 --> 01:54:46,880
+So that's the command that we use
+to delete the
+
+1201
+01:54:48,680 --> 01:54:52,080
+first coming,
+the latest one and move our hat
+
+1202
+01:54:52,080 --> 01:54:55,440
+to the second last comment.
+
+1203
+01:54:55,840 --> 01:54:57,120
+Get reset.
+
+1204
+01:54:57,120 --> 01:55:00,080
+I had one
+
+1205
+01:55:02,040 --> 01:55:03,520
+so you will see when I run
+
+1206
+01:55:03,520 --> 01:55:07,000
+this command might he did user
+the one is going to disappear.
+
+1207
+01:55:07,280 --> 01:55:09,920
+So let me run this
+
+1208
+01:55:12,480 --> 01:55:17,280
+and now let me show you the last.
+
+1209
+01:55:17,280 --> 01:55:20,400
+Is that the move
+the the last of it that we had?
+
+1210
+01:55:21,400 --> 01:55:22,560
+Yes, that's removed.
+
+1211
+01:55:22,560 --> 01:55:27,440
+So that's how you made your leave
+your comments in the
+
+1212
+01:55:28,440 --> 01:55:55,840
+local repository. But.
+
+1213
+01:55:55,840 --> 01:56:00,000
+Okay,
+So now if you want to observe, delete
+
+1214
+01:56:00,000 --> 01:56:03,840
+this particular command in your import
+repository, you have pushed it
+
+1215
+01:56:03,840 --> 01:56:06,320
+and you want what you needed from
+over there also.
+
+1216
+01:56:06,720 --> 01:56:36,480
+So what's the activity that.
+
+1217
+01:56:36,480 --> 01:56:37,120
+Okay, so
+
+1218
+01:56:39,000 --> 01:56:40,080
+let's see,
+
+1219
+01:56:40,720 --> 01:56:43,960
+we can use the command we push, but right.
+
+1220
+01:56:43,960 --> 01:56:46,680
+Not saying that it's not possible. Why?
+
+1221
+01:56:46,680 --> 01:56:50,600
+Because we deleted one
+which was already there in the requisite
+
+1222
+01:56:50,640 --> 01:56:56,400
+three and not seen that there is already
+some of in order to do this push,
+
+1223
+01:56:56,480 --> 01:57:02,920
+we have a command
+which is with push force.
+
+1224
+01:57:02,920 --> 01:57:07,680
+So we have to force push it
+and then it's going to be deleted
+
+1225
+01:57:07,680 --> 01:57:46,640
+on the remote.
+
+1226
+01:57:46,640 --> 01:57:47,640
+What about the history?
+
+1227
+01:57:47,640 --> 01:57:50,720
+The command is gone now delete it.
+
+1228
+01:57:52,080 --> 01:57:54,120
+We have deleted it.
+
+1229
+01:57:54,200 --> 01:57:56,760
+There is way to restore that.
+
+1230
+01:57:56,760 --> 01:58:04,320
+But I don't remember.
+
+1231
+01:58:04,320 --> 01:58:06,360
+The command
+
+1232
+01:58:06,960 --> 01:58:08,520
+did restart.
+
+1233
+01:58:08,520 --> 01:58:09,320
+Maybe
+
+1234
+01:58:25,200 --> 01:58:27,920
+not the person is not pleased or
+
+1235
+01:58:49,240 --> 01:58:52,000
+let me set them up.
+
+1236
+01:58:52,000 --> 01:58:55,920
+So if we use get reset command
+you can have that come back.
+
+1237
+01:58:57,240 --> 01:58:59,040
+This is the syntax for that.
+
+1238
+01:58:59,040 --> 01:59:01,360
+So whenever you need it simply no ruler
+
+1239
+01:59:02,080 --> 01:59:06,840
+is meant to be your best friend.
+
+1240
+01:59:06,840 --> 01:59:11,360
+Okay, so now let's discuss
+a few other things that we have and
+
+1241
+01:59:13,600 --> 01:59:13,920
+yeah,
+
+1242
+01:59:13,920 --> 01:59:16,720
+one thing that I wanted to discuss
+with you guys
+
+1243
+01:59:17,880 --> 01:59:20,240
+in your settings on GitHub,
+
+1244
+01:59:20,240 --> 01:59:23,040
+whenever you want someone to collaborate
+
+1245
+01:59:23,280 --> 01:59:25,680
+and work on your app
+is typically what you do.
+
+1246
+01:59:26,640 --> 01:59:30,320
+You simply
+go to the settings of that repository
+
+1247
+01:59:30,320 --> 01:59:35,760
+and then you go to collaborative of.
+
+1248
+01:59:35,880 --> 01:59:39,360
+Then you have to get the best
+before you get up.
+
+1249
+01:59:39,360 --> 01:59:40,200
+Give me a moment.
+
+1250
+01:59:40,200 --> 02:00:15,000
+Let me check my password.
+
+1251
+02:00:15,000 --> 02:00:17,840
+I think after that
+
+1252
+02:00:18,240 --> 02:00:22,080
+you add people, so add people and get
+
+1253
+02:00:22,080 --> 02:00:25,720
+someone would give me the yo yo user name
+
+1254
+02:00:26,760 --> 02:00:29,840
+anyone.
+
+1255
+02:00:29,840 --> 02:00:30,760
+You have that file.
+
+1256
+02:00:30,760 --> 02:00:33,200
+But I have not
+
+1257
+02:00:34,560 --> 02:00:37,000
+unfortunately had anyone
+
+1258
+02:00:38,400 --> 02:00:41,720
+so that's going to be here.
+
+1259
+02:00:41,720 --> 02:00:44,160
+I'll click on ADD
+
+1260
+02:00:45,200 --> 02:00:50,120
+to the user and now the person I sent in.
+
+1261
+02:00:50,120 --> 02:00:52,520
+Why do you need to go to your Gmail?
+
+1262
+02:00:53,200 --> 02:00:54,840
+What it is associated
+
+1263
+02:00:54,840 --> 02:00:58,640
+with this particular GitHub with
+you are going to have a message.
+
+1264
+02:00:58,640 --> 02:01:02,960
+You go to that email
+and you will see a pattern
+
+1265
+02:01:03,040 --> 02:01:07,280
+in why you need to accept that can work
+and then you will be able to work on this
+
+1266
+02:01:07,920 --> 02:01:10,200
+so I can go ahead
+and just accept whatever.
+
+1267
+02:01:11,320 --> 02:01:12,000
+So I'll just
+
+1268
+02:01:12,000 --> 02:01:15,800
+also in the right circle
+and just to give you guys an idea
+
+1269
+02:01:15,960 --> 02:01:17,760
+at people
+
+1270
+02:01:20,920 --> 02:01:28,280
+and to people out there.
+
+1271
+02:01:28,280 --> 02:01:32,960
+So that's how I'm inviting these people
+to work on my right.
+
+1272
+02:01:33,760 --> 02:01:38,040
+So now Say has accepted my request
+and she is a collaborative now.
+
+1273
+02:01:38,080 --> 02:01:44,040
+She can work on this particular episode.
+
+1274
+02:01:44,040 --> 02:01:50,000
+So now she let me make a push
+
+1275
+02:01:50,400 --> 02:01:52,560
+and pull from this very
+
+1276
+02:01:56,760 --> 02:01:59,640
+so whenever you want your friends
+to work on the same project,
+
+1277
+02:02:00,120 --> 02:02:06,360
+invite them as a collaborator.
+
+1278
+02:02:06,360 --> 02:02:09,560
+And apart from that, in the branches,
+
+1279
+02:02:10,320 --> 02:02:15,960
+we have some branch protection rules.
+
+1280
+02:02:15,960 --> 02:02:19,600
+So if I want to add some rule
+on the main branch,
+
+1281
+02:02:20,400 --> 02:02:23,720
+I can click on Add rule
+
+1282
+02:02:23,720 --> 02:02:26,960
+and they are going to be different
+protection techniques
+
+1283
+02:02:26,960 --> 02:02:31,800
+which I can have for this branch that says
+acquire pull request before merging.
+
+1284
+02:02:31,840 --> 02:02:33,800
+So whenever anyone wants to
+
+1285
+02:02:34,760 --> 02:02:36,800
+merge he has to
+
+1286
+02:02:36,800 --> 02:02:40,720
+make upload request force
+the data pool request.
+
+1287
+02:02:41,040 --> 02:02:44,640
+There is not going to be unloads
+like an animal
+
+1288
+02:02:44,640 --> 02:02:47,760
+this and no one is going to be able
+to push to my branch,
+
+1289
+02:02:48,560 --> 02:02:50,960
+almost to my branch,
+
+1290
+02:02:50,960 --> 02:02:54,840
+without making a pull request.
+
+1291
+02:02:54,840 --> 02:02:58,960
+And in order to approve the request
+required approvals,
+
+1292
+02:02:58,960 --> 02:03:02,040
+I can see of approvals required before
+
+1293
+02:03:02,040 --> 02:03:04,560
+it's able to merge,
+
+1294
+02:03:05,720 --> 02:03:11,400
+I can select one that's upon me.
+
+1295
+02:03:11,400 --> 02:03:11,760
+Okay.
+
+1296
+02:03:11,760 --> 02:03:15,600
+So then other options are also there
+that we can
+
+1297
+02:03:17,120 --> 02:03:20,160
+check in
+or check out if you want to, have them.
+
+1298
+02:03:21,200 --> 02:03:24,080
+So these are stuff that you can do
+with the branch
+
+1299
+02:03:24,080 --> 02:03:27,240
+protection rules.
+
+1300
+02:03:27,240 --> 02:03:31,080
+We can also change the branch and select
+
+1301
+02:03:31,080 --> 02:03:38,200
+any other boss over here, move
+
+1302
+02:03:38,320 --> 02:03:41,280
+one more to whatever.
+
+1303
+02:03:42,480 --> 02:03:44,840
+But unfortunately we cannot
+
+1304
+02:03:46,560 --> 02:03:49,440
+restrict users to push in
+
+1305
+02:03:49,440 --> 02:03:52,520
+main using these rules.
+
+1306
+02:03:53,280 --> 02:03:58,040
+We can restrict them one merging data,
+but we cannot restrict them
+
+1307
+02:03:58,040 --> 02:04:02,000
+from pushing the domain directly
+in this limited version.
+
+1308
+02:04:02,000 --> 02:04:02,760
+For that I can.
+
+1309
+02:04:02,760 --> 02:04:05,520
+We have to go for enterprise rules.
+
+1310
+02:04:05,520 --> 02:04:08,680
+Last time I checked,
+that was the scenario of, I don't know,
+
+1311
+02:04:08,840 --> 02:04:10,640
+maybe they have updated something or not.
+
+1312
+02:04:10,640 --> 02:04:13,080
+But last time it was not like that.
+
+1313
+02:04:13,080 --> 02:04:16,720
+So guys, please make sure
+that none of you is pushing and I'll be
+
+1314
+02:04:18,600 --> 02:04:21,320
+on. What else do you need inside?
+
+1315
+02:04:21,360 --> 02:04:26,120
+We have discussed about it.
+
+1316
+02:04:26,120 --> 02:04:28,440
+We can have a look at the network
+from over here.
+
+1317
+02:04:29,640 --> 02:04:32,520
+And then I need your opposite tree.
+
+1318
+02:04:32,520 --> 02:04:34,960
+I'm going to show you how can delete it.
+
+1319
+02:04:35,520 --> 02:04:38,280
+So in I'm Indonesia
+opposite to you go to settings
+
+1320
+02:04:38,280 --> 02:04:41,600
+and then at the end you see
+
+1321
+02:04:42,760 --> 02:04:45,400
+delete this represent you can delete.
+
+1322
+02:04:46,080 --> 02:04:48,760
+And once you have entered this
+
+1323
+02:04:48,760 --> 02:04:51,720
+and deleted this, you cannot have it back.
+
+1324
+02:04:51,720 --> 02:04:58,400
+I mean, maybe
+
+1325
+02:04:58,640 --> 02:05:01,440
+show you
+some of the tools that we have on our
+
+1326
+02:05:03,240 --> 02:05:11,880
+that help.
+
+1327
+02:05:11,880 --> 02:05:15,080
+So this is one of the three
+
+1328
+02:05:15,720 --> 02:05:18,000
+of one of the previous is
+
+1329
+02:05:19,320 --> 02:05:21,360
+31 coming to start on me
+
+1330
+02:05:21,560 --> 02:05:23,960
+if I show you development
+
+1331
+02:05:25,000 --> 02:05:27,800
+night set up main
+
+1332
+02:05:27,800 --> 02:05:30,720
+Wow so they have named it after do
+
+1333
+02:05:30,720 --> 02:05:33,920
+own matches
+
+1334
+02:05:33,920 --> 02:05:35,320
+pool requests.
+
+1335
+02:05:35,320 --> 02:05:38,640
+There's only one request that is pending
+
+1336
+02:05:40,440 --> 02:05:42,680
+and you guys can see the how they have,
+
+1337
+02:05:43,000 --> 02:05:43,920
+you know
+
+1338
+02:05:46,320 --> 02:05:50,320
+now name them fixed
+all the unrelated variables.
+
+1339
+02:05:50,320 --> 02:05:51,520
+Code one
+
+1340
+02:05:52,960 --> 02:05:54,480
+night star has been added
+
+1341
+02:05:54,480 --> 02:05:57,760
+updating my step and feature file
+the project update update.
+
+1342
+02:05:57,760 --> 02:06:02,280
+Some status
+details are updated from the example.
+
+1343
+02:06:02,280 --> 02:06:09,520
+So everything is no right align.
+
+1344
+02:06:09,520 --> 02:06:12,120
+That's the project
+of one of our previous batch
+
+1345
+02:06:13,240 --> 02:06:14,880
+which needed
+
+1346
+02:06:16,760 --> 02:06:17,760
+Don't
+
+1347
+02:06:20,280 --> 02:06:22,560
+let me show you
+the government history also.
+
+1348
+02:06:24,000 --> 02:06:26,160
+So this is the first comment that I made
+
+1349
+02:06:27,520 --> 02:06:30,800
+this the basic structure of the project
+which I will be uploading
+
+1350
+02:06:31,280 --> 02:06:33,280
+and from over there
+you guys will be working.
+
+1351
+02:06:33,320 --> 02:06:34,600
+What is going to be the workflow?
+
+1352
+02:06:34,600 --> 02:06:38,760
+I'll let you know tomorrow.
+
+1353
+02:06:38,760 --> 02:06:42,160
+And then each and every one of them has a
+
+1354
+02:06:43,440 --> 02:06:44,080
+contribution.
+
+1355
+02:06:44,080 --> 02:06:45,160
+DEADLINE
+
+1356
+02:07:07,640 --> 02:07:10,960
+How did you
+you collaborators who accepted you, right?
+
+1357
+02:07:10,960 --> 02:07:15,560
+So simply,
+I'll go 2 seconds of this collaborators,
+
+1358
+02:07:16,800 --> 02:07:20,480
+and I can see that only group was pending.
+
+1359
+02:07:20,680 --> 02:07:22,600
+The other people have accepted.
+
+1360
+02:07:22,600 --> 02:07:26,080
+So now you are a collaborator
+and so one is also
+
+1361
+02:07:26,080 --> 02:07:39,760
+collaborate.
+
+1362
+02:07:39,760 --> 02:07:42,320
+Okay, now
+some other information about GitHub.
+
+1363
+02:07:42,560 --> 02:07:45,880
+So on GitHub,
+you guys going to find out we have it
+
+1364
+02:07:47,320 --> 02:07:48,240
+how you are programing, you
+
+1365
+02:07:48,240 --> 02:07:52,640
+need anything like any coding stuff,
+you can have that on GitHub.
+
+1366
+02:07:52,800 --> 02:07:58,280
+It is a very important, which
+is being gained by a lot of big companies.
+
+1367
+02:07:58,720 --> 02:08:03,120
+For example,
+if you want to have a selenium Docker
+
+1368
+02:08:03,120 --> 02:08:06,480
+container image,
+so you can simply write non
+
+1369
+02:08:08,000 --> 02:08:10,280
+selenium Docker
+
+1370
+02:08:11,800 --> 02:08:15,360
+image.
+
+1371
+02:08:15,360 --> 02:08:20,320
+Yes, I've shown the out you see in.
+
+1372
+02:08:20,320 --> 02:08:23,960
+So there are two branches
+from that selenium tree
+
+1373
+02:08:24,160 --> 02:08:26,080
+that they're working on right now.
+
+1374
+02:08:26,080 --> 02:08:29,360
+Over here the whole code is uploaded
+
+1375
+02:08:30,600 --> 02:08:32,520
+but this particular
+
+1376
+02:08:32,520 --> 02:08:35,400
+repository, there are 108 contributors
+
+1377
+02:08:36,880 --> 02:08:43,800
+and there is a detail read me
+
+1378
+02:08:44,280 --> 02:08:47,840
+so I know you will be working on project
+and will be also adding a read me
+
+1379
+02:08:47,840 --> 02:08:51,480
+and there will be a detail instructions
+about what
+
+1380
+02:08:51,760 --> 02:08:56,040
+this repository is about.
+
+1381
+02:08:56,040 --> 02:09:02,200
+What is this community
+about how to start this project,
+
+1382
+02:09:02,200 --> 02:09:06,720
+what kind of browsers it uses
+and what are the different demands
+
+1383
+02:09:06,800 --> 02:09:09,160
+that you can use over there?
+
+1384
+02:09:09,160 --> 02:09:12,520
+What is a hub and what is a node?
+
+1385
+02:09:12,520 --> 02:09:15,480
+And using different violent machine,
+what you need to do.
+
+1386
+02:09:15,960 --> 02:09:18,400
+Like a lot of information
+there is in there
+
+1387
+02:09:18,840 --> 02:09:23,920
+everything that you need to know
+if they have a very good document of that.
+
+1388
+02:09:23,920 --> 02:09:26,760
+So this is the documentation
+of this particular project.
+
+1389
+02:09:27,120 --> 02:09:28,440
+This is an open source.
+
+1390
+02:09:28,440 --> 02:09:32,240
+So that's
+why everything is visible to everyone.
+
+1391
+02:09:32,520 --> 02:09:34,800
+But obviously
+when you do work in companies,
+
+1392
+02:09:35,040 --> 02:09:38,480
+you guys are not going to be
+working on open source thing.
+
+1393
+02:09:38,480 --> 02:09:40,240
+We will be working on some
+
+1394
+02:09:41,640 --> 02:09:45,200
+dedicated task of
+
+1395
+02:09:47,960 --> 02:09:50,000
+Now this for stuff I went through.
+
+1396
+02:09:50,000 --> 02:09:52,240
+It's very simply that my work is used.
+
+1397
+02:09:52,800 --> 02:09:54,840
+Let's say this is an open source project
+
+1398
+02:09:56,880 --> 02:09:58,920
+and I want to work on it.
+
+1399
+02:09:58,920 --> 02:10:01,200
+So I don't simply for this is different.
+
+1400
+02:10:02,080 --> 02:10:06,240
+Working means
+just like cloning this repository,
+
+1401
+02:10:06,240 --> 02:10:09,400
+but in the sense that I'm able to
+
+1402
+02:10:10,480 --> 02:10:13,240
+contribute to it without being invited
+
+1403
+02:10:13,240 --> 02:10:17,160
+as a collaborator,
+
+1404
+02:10:17,160 --> 02:10:19,680
+I can contribute to this positively
+
+1405
+02:10:20,200 --> 02:10:23,280
+without being invited as a collaborator.
+
+1406
+02:10:24,200 --> 02:10:27,600
+So I can simply make some at it
+
+1407
+02:10:27,600 --> 02:10:30,000
+this and have a clear request. Open
+
+1408
+02:10:31,320 --> 02:10:35,840
+the review my code of the thing
+that I have made some work contribution.
+
+1409
+02:10:35,840 --> 02:10:38,760
+Then they can simply help me out to.
+
+1410
+02:10:39,280 --> 02:10:40,960
+They can simply do the emergency.
+
+1411
+02:10:40,960 --> 02:10:41,840
+Thank you to me.
+
+1412
+02:10:41,840 --> 02:10:43,880
+I they'll say, Hey, stay away from that.
+
+1413
+02:10:44,160 --> 02:10:45,600
+That's it.
+
+1414
+02:10:45,600 --> 02:10:52,280
+So for me is something that you guys
+will not be using forever.
+
+1415
+02:10:52,280 --> 02:10:52,760
+Okay.
+
+1416
+02:10:52,760 --> 02:10:56,000
+So any questions
+that you may have let me know else
+
+1417
+02:10:56,280 --> 02:10:59,160
+I think we are pretty
+much done with everything
+
+1418
+02:11:00,240 --> 02:11:02,200
+related to better.
+
+1419
+02:11:03,760 --> 02:11:06,120
+And that will be so vital.
+
+1420
+02:11:06,120 --> 02:11:08,960
+One that's for any questions
+that you may have.
+
+1421
+02:11:08,960 --> 02:11:11,120
+And then we can end our session today.
+
+1422
+02:11:12,200 --> 02:11:15,240
+We will be having a session tomorrow
+
+1423
+02:11:15,240 --> 02:11:17,840
+in the morning and evening seven
+
+1424
+02:11:18,640 --> 02:11:20,880
+to discuss the project
+
+1425
+02:11:20,880 --> 02:11:24,200
+and give you the best.
+
+1426
+02:11:24,200 --> 02:11:25,160
+Well, nobody don't
+
+1427
+02:11:25,160 --> 02:11:28,880
+even because you are not going
+to the right email address, a lot of you
+
+1428
+02:11:28,880 --> 02:11:30,000
+are going to make this mistake.
+
+1429
+02:11:30,000 --> 02:11:33,320
+Make sure that you visit the same address
+with which you have registered.
+
+1430
+02:11:33,320 --> 02:12:00,960
+You get out in order to see what.
+
+1431
+02:12:00,960 --> 02:12:06,920
+No, you will get that.
+
+1432
+02:12:06,920 --> 02:12:07,320
+Okay.
+
+1433
+02:12:07,320 --> 02:12:11,920
+Any more questions?
+
+1434
+02:12:11,920 --> 02:12:12,720
+No questions.
+
+1435
+02:12:12,720 --> 02:12:15,080
+I'll be all good now
+
+1436
+02:12:17,920 --> 02:12:21,400
+let me get because that was easy.
+
+1437
+02:12:22,280 --> 02:12:27,000
+Really?
+
+1438
+02:12:27,000 --> 02:12:28,680
+Okay. Silence on this one too.
+
+1439
+02:12:28,680 --> 02:12:34,200
+But now I'm confused.
+
+1440
+02:12:34,200 --> 02:12:35,720
+Maybe it was easy.
+
+1441
+02:12:35,720 --> 02:12:39,920
+Or maybe it was vague.
+
+1442
+02:12:39,920 --> 02:12:43,800
+So what do you guys think?
+
+1443
+02:12:43,800 --> 02:12:59,880
+That is easy or difficult?
+
+1444
+02:12:59,880 --> 02:13:01,200
+Well, that's a very,
+
+1445
+02:13:02,280 --> 02:13:05,480
+you know.
+
+1446
+02:13:05,480 --> 02:13:05,880
+Yeah.
+
+1447
+02:13:05,880 --> 02:13:14,640
+So it depends it
+depends upon a lot of factors.
+
+1448
+02:13:14,640 --> 02:13:18,120
+What? Just tell me about the concepts.
+
+1449
+02:13:18,120 --> 02:13:21,000
+Like all the concepts
+that we have discussed.
+
+1450
+02:13:22,880 --> 02:13:24,920
+Obviously it's not going to be like that.
+
+1451
+02:13:24,920 --> 02:13:26,640
+You will not have to work on it.
+
+1452
+02:13:26,640 --> 02:13:28,320
+You have to do the project,
+
+1453
+02:13:28,320 --> 02:13:31,880
+you have to spend some time on it,
+then you will be very comfortable. But
+
+1454
+02:13:33,200 --> 02:13:35,400
+the concepts aren't the all clear to you.
+
+1455
+02:13:35,520 --> 02:13:36,960
+Do you guys
+
+1456
+02:13:44,000 --> 02:13:46,680
+okay, don't be nervous
+before making a comment.
+
+1457
+02:13:46,680 --> 02:13:50,080
+Even if you mess it up, you can always,
+you know, the lead
+
+1458
+02:13:50,520 --> 02:13:52,760
+up and going into
+
+1459
+02:14:01,720 --> 02:14:02,880
+is it all about get
+
+1460
+02:14:02,880 --> 02:14:06,280
+yeah that's all about that was is in full
+that's
+
+1461
+02:14:06,480 --> 02:14:10,040
+I think we have a lot of information
+that we discuss
+
+1462
+02:14:13,440 --> 02:14:15,960
+Oh well guys listen I remember one thing
+
+1463
+02:14:17,280 --> 02:14:17,960
+I shared
+
+1464
+02:14:17,960 --> 02:14:22,560
+with you.
+
+1465
+02:14:22,560 --> 02:14:26,200
+I shared with you guys
+the diagrams, remember,
+
+1466
+02:14:27,040 --> 02:14:29,640
+in which we have all the basic steps
+
+1467
+02:14:30,000 --> 02:14:34,680
+you guys have those diagrams with you.
+
+1468
+02:14:34,680 --> 02:14:38,040
+Okay, So
+
+1469
+02:14:38,720 --> 02:14:46,480
+let me just open them up.
+
+1470
+02:14:46,480 --> 02:14:52,160
+So these diagrams
+are going to have real life.
+
+1471
+02:14:52,160 --> 02:14:57,720
+So just make sure that when you get lost,
+
+1472
+02:14:57,720 --> 02:15:01,000
+you revisit them
+
+1473
+02:15:01,000 --> 02:15:02,760
+and you know
+
+1474
+02:15:03,440 --> 02:15:04,520
+your basics.
+
+1475
+02:15:04,520 --> 02:15:08,680
+Just realize them apart from these basics,
+
+1476
+02:15:08,680 --> 02:15:11,120
+I don't think you will be confused
+about anything else.
+
+1477
+02:15:11,120 --> 02:15:17,240
+Everything is going to be very much geared
+to our Yeah, it's on canvas.
+
+1478
+02:15:17,240 --> 02:15:17,800
+It's there.
+
+1479
+02:15:17,800 --> 02:15:21,400
+I uploaded the slides
+also the slides I'll for you
+
+1480
+02:15:21,400 --> 02:15:33,680
+that to you.
+
+1481
+02:15:33,680 --> 02:15:37,200
+So these are the slides
+I go at each and every slide
+
+1482
+02:15:37,200 --> 02:15:40,040
+only I think
+
+1483
+02:15:41,400 --> 02:15:46,160
+this slide is left.
+
+1484
+02:15:46,160 --> 02:15:48,560
+It's a little bit about centralized
+
+1485
+02:15:49,160 --> 02:15:51,920
+weeks, distributed weeks and
+
+1486
+02:15:53,160 --> 02:15:54,000
+local.
+
+1487
+02:15:54,040 --> 02:15:56,720
+So is something that is your homework.
+
+1488
+02:15:57,120 --> 02:16:01,760
+You guys are supposed to read it and
+you'll get the idea of what it is actually
+
+1489
+02:16:02,800 --> 02:16:05,160
+stashing. I have a slide for that.
+
+1490
+02:16:05,160 --> 02:16:09,160
+Do branches a little bit life or death
+
+1491
+02:16:09,160 --> 02:16:13,880
+password much and most conflict
+and when does of it arrives.
+
+1492
+02:16:13,880 --> 02:16:16,640
+These slides are also available for you
+on the canvas.
+
+1493
+02:16:16,720 --> 02:16:19,720
+You can have them go to them and read them
+
+1494
+02:16:20,880 --> 02:16:23,440
+and the notes.
+
+1495
+02:16:23,440 --> 02:16:25,800
+I will be uploading them too.
+
+1496
+02:16:25,800 --> 02:16:28,080
+I think that
+
+1497
+02:16:29,760 --> 02:16:32,040
+okay, class six and seven
+
+1498
+02:16:32,040 --> 02:16:34,480
+notes are combined
+
+1499
+02:16:36,360 --> 02:16:37,080
+taken out there.
+
+1500
+02:16:37,080 --> 02:16:38,560
+I hope that
+
+1501
+02:16:40,320 --> 02:16:42,120
+now you guys
+
+1502
+02:16:42,120 --> 02:16:45,560
+will be showing me
+good results in the good project there.
+
+1503
+02:16:45,760 --> 02:16:49,520
+That's that's the one where I don't know
+whether I have done a good job or not.
+
+1504
+02:16:49,520 --> 02:16:51,960
+So I'm looking forward to that.
+
+1505
+02:16:52,680 --> 02:16:55,920
+And the previous three batches, really,
+they may be crowded.
+
+1506
+02:16:56,360 --> 02:17:01,200
+No one had, you know, even a single posted
+
+1507
+02:17:02,520 --> 02:17:05,280
+and the support chatter that I didn't get.
+
+1508
+02:17:05,280 --> 02:17:07,360
+So I'm expecting the same from you.
+
+1509
+02:17:07,640 --> 02:17:09,000
+We did a lot of practice.
+
+1510
+02:17:09,000 --> 02:17:13,080
+We spend a lot of time
+and I'm pretty much sure that you guys
+
+1511
+02:17:13,080 --> 02:17:16,520
+will be able to do the project
+on your own, at least a big part.
+
+1512
+02:17:16,680 --> 02:17:23,400
+I trust you guys just make sure that you
+are following the steps one by one.
+
+1513
+02:17:23,840 --> 02:17:28,840
+And one of the more important thing in
+whenever you are working on your project
+
+1514
+02:17:28,880 --> 02:17:33,440
+is to work in a team as a team.
+
+1515
+02:17:33,440 --> 02:17:38,440
+So if anyone is having trouble,
+you guys have to help them out.
+
+1516
+02:17:38,440 --> 02:17:41,840
+You leave them and,
+you know, get the project,
+
+1517
+02:17:41,960 --> 02:17:45,240
+tried to do the project,
+just help that person out, use GitHub
+
+1518
+02:17:45,440 --> 02:17:50,880
+platform to communicate with each other,
+help out each other, try to
+
+1519
+02:17:51,880 --> 02:17:52,920
+make others.
+
+1520
+02:17:52,920 --> 02:17:54,480
+That's the opportunity there.
+
+1521
+02:17:54,480 --> 02:17:58,560
+You will be learning
+how you actually work together as team
+
+1522
+02:17:59,000 --> 02:18:04,240
+and how you help each other
+to reach the same level that you are.
+
+1523
+02:18:06,160 --> 02:18:10,320
+No, I would never showing you that
+because I highly describe that.
+
+1524
+02:18:10,320 --> 02:18:12,680
+In fact, I don't like it.
+
+1525
+02:18:12,680 --> 02:18:15,400
+I tough on lira, trust me.
+
+1526
+02:18:16,520 --> 02:18:18,560
+Like the previous batches.
+
+1527
+02:18:18,560 --> 02:18:22,600
+Few students figured that figured it
+and I also showed them in one class.
+
+1528
+02:18:22,600 --> 02:18:27,920
+But I strictly mentioned as good
+not not to do that anymore.
+
+1529
+02:18:27,920 --> 02:18:31,720
+Not to teach students
+how to use intelligent to push
+
+1530
+02:18:31,720 --> 02:18:34,080
+and do stuff like that.
+
+1531
+02:18:34,080 --> 02:18:38,440
+So there is there's a reason behind that.
+
+1532
+02:18:38,440 --> 02:18:42,920
+And that's that reason is that
+most of work working might not be using
+
+1533
+02:18:44,360 --> 02:18:45,600
+intelligent.
+
+1534
+02:18:45,600 --> 02:18:47,120
+You might not be using that.
+
+1535
+02:18:47,120 --> 02:18:49,040
+You might be working on
+something different. I mean,
+
+1536
+02:18:50,040 --> 02:18:50,760
+and one
+
+1537
+02:18:50,760 --> 02:18:54,640
+other reason is that when you guys start
+using automated
+
+1538
+02:18:54,640 --> 02:18:59,640
+to like intelligent work with you,
+you forget the come out of it.
+
+1539
+02:18:59,760 --> 02:19:01,520
+You don't even bother to go over there.
+
+1540
+02:19:01,520 --> 02:19:03,360
+And that's the biggest mistake.
+
+1541
+02:19:03,360 --> 02:19:06,880
+You forget the workflows,
+you start making mistakes
+
+1542
+02:19:07,480 --> 02:19:12,080
+and everything is, you know, messed up.
+
+1543
+02:19:16,600 --> 02:19:17,320
+Well, I don't I'm
+
+1544
+02:19:17,320 --> 02:19:20,400
+pretty sure that once
+you know how to use it in an intelligent
+
+1545
+02:19:20,400 --> 02:19:24,360
+you will be using that because we all us
+find a way to do it easily.
+
+1546
+02:19:25,200 --> 02:19:29,280
+So I would love to comment
+that it will disturb you.
+
+1547
+02:19:29,960 --> 02:19:31,320
+It will disturbed your workflows.
+
+1548
+02:19:31,320 --> 02:19:35,200
+And apart from that,
+you can never actually, you know,
+
+1549
+02:19:36,080 --> 02:19:42,560
+use that much power to debug your errors
+and maintain a smooth workflow.
+
+1550
+02:19:42,560 --> 02:19:45,400
+Using that is all you can do
+is make a bit of an addict.
+
+1551
+02:19:45,640 --> 02:19:48,680
+And you know, sometimes that's
+that's all you can do.
+
+1552
+02:19:49,200 --> 02:19:51,760
+So I don't want to do that.
+
+1553
+02:19:53,280 --> 02:19:55,400
+That's a favor from my side to you.
+
+1554
+02:19:55,400 --> 02:19:58,480
+You will get that in
+maybe one or two years.
+
+1555
+02:19:58,480 --> 02:20:00,560
+You'll know that was right about it.
+
+1556
+02:20:00,560 --> 02:20:02,840
+Not right now,
+but you will let us have enough
+
+1557
+02:20:04,000 --> 02:20:04,640
+of it.
+
+1558
+02:20:04,640 --> 02:20:07,120
+So anything else
+
+1559
+02:20:11,040 --> 02:20:11,800
+before
+
+1560
+02:20:21,440 --> 02:20:21,960
+looking
+
+1561
+02:20:24,000 --> 02:20:28,200
+for someone to ask me
+about the tab that we have.
+
+1562
+02:20:28,200 --> 02:20:30,560
+So let's have a look at them to
+
+1563
+02:20:37,400 --> 02:20:37,800
+think,
+
+1564
+02:20:39,640 --> 02:20:42,000
+Well, these are issues.
+
+1565
+02:20:42,000 --> 02:20:44,600
+You can open up a new issue
+if you want to.
+
+1566
+02:20:44,760 --> 02:20:51,320
+So most probably you will not
+be using this even if you want to.
+
+1567
+02:20:51,320 --> 02:20:55,480
+You can simply use tab in GitHub
+that allows you to
+
+1568
+02:20:56,280 --> 02:20:58,000
+post some kind of issues over here.
+
+1569
+02:20:58,000 --> 02:20:58,880
+So let's have a look.
+
+1570
+02:20:58,880 --> 02:21:03,680
+Let's try to create one.
+
+1571
+02:21:03,680 --> 02:21:06,080
+There is a plug
+
+1572
+02:21:06,160 --> 02:21:07,720
+in We
+
+1573
+02:21:08,560 --> 02:21:10,480
+each branch
+
+1574
+02:21:14,200 --> 02:21:28,760
+and the details.
+
+1575
+02:21:28,760 --> 02:21:33,360
+You can assign this
+issue to different people and
+
+1576
+02:21:34,560 --> 02:21:35,280
+you can
+
+1577
+02:21:35,280 --> 02:21:40,400
+label it also.
+
+1578
+02:21:40,400 --> 02:21:44,120
+So whenever you
+someone can click on this issue
+
+1579
+02:21:44,360 --> 02:21:46,760
+and have that, okay,
+there's a bug in the feature, but
+
+1580
+02:21:48,120 --> 02:21:49,600
+okay, let me have a look at that.
+
+1581
+02:21:49,600 --> 02:21:53,240
+So let's assume that one of your friend
+is having some issue,
+
+1582
+02:21:53,240 --> 02:21:57,120
+which is which he is unable to resolve,
+so he can simply post issue
+
+1583
+02:21:57,120 --> 02:22:00,120
+with the assign it
+to one of his other friends.
+
+1584
+02:22:00,680 --> 02:22:02,240
+Maybe you guys have time to address.
+
+1585
+02:22:02,240 --> 02:22:05,480
+Maybe you guys are unable to communicate
+via one chat
+
+1586
+02:22:05,480 --> 02:22:08,760
+at the same time one is working at night
+and one is working at day.
+
+1587
+02:22:08,760 --> 02:22:12,400
+This kind of differences might be there,
+so if you need someone helps,
+
+1588
+02:22:12,680 --> 02:22:16,600
+you can simply use create an issue
+to go and assign
+
+1589
+02:22:16,600 --> 02:22:20,400
+that that particular person
+which you think can help you out.
+
+1590
+02:22:21,000 --> 02:22:25,760
+And he is going to just view the issue
+and say, okay, how can I help that person?
+
+1591
+02:22:25,760 --> 02:22:30,840
+Maybe I'll go to this going into my own
+repository and I'll try to resolve it.
+
+1592
+02:22:32,280 --> 02:22:33,560
+So this is
+
+1593
+02:22:33,560 --> 02:22:39,000
+our issues is going to help you out
+once that is the scenario,
+
+1594
+02:22:39,000 --> 02:22:42,120
+then you guys can have a communication
+on that issue.
+
+1595
+02:22:42,640 --> 02:22:43,880
+I checked it.
+
+1596
+02:22:43,880 --> 02:22:48,000
+The problem is in your semicolon,
+
+1597
+02:22:49,000 --> 02:22:51,400
+let's say, and you can comment on
+
+1598
+02:22:52,440 --> 02:22:55,520
+our try using this updated code
+
+1599
+02:22:57,680 --> 02:22:59,000
+and you can post up here.
+
+1600
+02:22:59,000 --> 02:23:03,840
+So whenever he was here, you have this
+mark on his issue and I would see, okay,
+
+1601
+02:23:04,120 --> 02:23:07,000
+so I need to make these changes,
+something like that.
+
+1602
+02:23:07,760 --> 02:23:11,400
+And you guys can basically, you know, I'm
+going to get over here, will request
+
+1603
+02:23:11,400 --> 02:23:15,840
+you all know what is that actions.
+
+1604
+02:23:15,840 --> 02:23:17,960
+This is something that
+
+1605
+02:23:18,120 --> 02:23:20,560
+we want we talking about.
+
+1606
+02:23:20,560 --> 02:23:25,520
+This is the advanced features
+that GitHub was has
+
+1607
+02:23:25,520 --> 02:23:28,800
+with all the tools which we can integrate.
+
+1608
+02:23:29,600 --> 02:23:33,640
+There are going to
+be see, I see the pipeline,
+
+1609
+02:23:34,840 --> 02:23:38,040
+but They are usually
+paid they are not free most probably.
+
+1610
+02:23:38,040 --> 02:23:39,680
+Yeah, they are pre
+
+1611
+02:23:40,160 --> 02:23:42,800
+and then the projects
+
+1612
+02:23:49,680 --> 02:23:52,120
+we won't be discussing anything
+about project also
+
+1613
+02:23:53,040 --> 02:23:55,520
+because we do not have any wiki
+
+1614
+02:23:55,520 --> 02:23:57,960
+is again
+going to do left like this security
+
+1615
+02:23:58,840 --> 02:24:01,760
+this thing that is you know
+
+1616
+02:24:02,400 --> 02:24:07,400
+will be under the team lead or the one
+who is one of the representatives.
+
+1617
+02:24:07,880 --> 02:24:10,960
+So I guess you will also
+be not needing that inside.
+
+1618
+02:24:10,960 --> 02:24:15,680
+So we have discussed that you only need
+to know about net for other stuff
+
+1619
+02:24:16,080 --> 02:24:18,360
+that's not that much needed,
+but you can always
+
+1620
+02:24:19,720 --> 02:24:20,600
+in the settings.
+
+1621
+02:24:20,600 --> 02:24:24,320
+The important one was
+how to invite collaborator and branches.
+
+1622
+02:24:24,800 --> 02:24:28,680
+The next next ones are something
+that I think that it's
+
+1623
+02:24:28,760 --> 02:24:32,880
+okay even if we don't cover them.
+
+1624
+02:24:32,880 --> 02:24:34,920
+So that's all about GitHub.
+
+1625
+02:24:35,400 --> 02:24:36,960
+Thank you all for your time
+
+1626
+02:24:38,760 --> 02:24:39,640
+and tomorrow is
+
+1627
+02:24:39,640 --> 02:24:43,720
+not going to be any recap,
+No review tomorrow.
+
+1628
+02:24:43,720 --> 02:24:48,000
+Tomorrow is just going to be
+a one hour session in which you guys
+
+1629
+02:24:48,000 --> 02:24:51,000
+will be giving a brief overview of how
+
+1630
+02:24:51,000 --> 02:24:55,280
+to do your project and that's it.
+
+1631
+02:24:55,960 --> 02:24:59,960
+Nothing else.
+
+1632
+02:24:59,960 --> 02:25:03,240
+So make sure I'm sure all of you out there
+who are not there, they can
+
+1633
+02:25:04,200 --> 02:25:09,920
+watch the video recording later on.
+
+1634
+02:25:09,920 --> 02:25:12,040
+And best of luck,
+everyone, for your projects.
+
+1635
+02:25:12,040 --> 02:25:16,080
+I really appreciate that
+you guys put in your best effort.
+
+1636
+02:25:16,080 --> 02:25:17,160
+That's
+
+1637
+02:25:18,600 --> 02:25:20,960
+everything that you have until this point.
+
+1638
+02:25:22,400 --> 02:25:24,040
+You guys will be practicing that.
+
+1639
+02:25:24,040 --> 02:25:26,400
+So make sure that you spend
+a lot of time on it
+
+1640
+02:25:27,000 --> 02:25:28,600
+and review everything that you have done.
+
+1641
+02:25:28,600 --> 02:25:32,240
+And after that,
+you will be having just two more topics.
+
+1642
+02:25:32,480 --> 02:25:35,760
+Maybe you want us to add an API
+and then you will be graduating
+
+1643
+02:25:35,760 --> 02:25:41,840
+and you will be in the job market
+pursuing your dream of a good, handsome
+
+1644
+02:25:42,000 --> 02:25:46,040
+salary,
+working in the fields in real time. And
+
+1645
+02:25:47,040 --> 02:25:50,640
+that's what we can go there, right?
+
+1646
+02:25:51,480 --> 02:25:59,320
+So that's your time to practice.
+
+1647
+02:25:59,320 --> 02:26:04,440
+I know this assistant project
+is just for the example
+
+1648
+02:26:04,440 --> 02:26:08,400
+you will be working on Index MSW.
+
+1649
+02:26:08,400 --> 02:26:13,440
+Not so surprising.
+
+1650
+02:26:13,440 --> 02:26:16,840
+How did you put that project?
+
+1651
+02:26:16,840 --> 02:26:17,880
+I don't know.
+
+1652
+02:26:18,560 --> 02:26:20,040
+I think you guys did.
+
+1653
+02:26:20,040 --> 02:26:21,000
+You guys
+
+1654
+02:26:21,560 --> 02:26:23,440
+notified about that?
+
+1655
+02:26:23,440 --> 02:26:25,240
+You need to make
+
+1656
+02:26:25,360 --> 02:26:26,400
+jobs.
+
+1657
+02:26:26,400 --> 02:26:29,400
+What you guys know decide about that
+
+1658
+02:26:30,000 --> 02:26:31,920
+are you do you already have rooms.
+
+1659
+02:26:31,920 --> 02:26:33,480
+I don't know that
+
+1660
+02:26:33,480 --> 02:26:37,720
+you can have groups already
+so you will be working on the same group.
+
+1661
+02:26:37,760 --> 02:26:41,680
+So I think minimum is at least
+three people at a maximum
+
+1662
+02:26:41,680 --> 02:26:45,840
+was like 5 to 7 people,
+nor less than three.
+
+1663
+02:26:46,800 --> 02:26:55,520
+So that's that's the requirement.
+
+1664
+02:26:55,520 --> 02:26:55,920
+Okay.
+
+1665
+02:26:55,920 --> 02:26:58,120
+So best of luck, everyone.
+
+1666
+02:26:58,120 --> 02:27:00,240
+I'll see you guys tomorrow in the morning.
+
+1667
+02:27:00,640 --> 02:27:02,760
+Sorry. Evening, everyone in for me.
+
+1668
+02:27:03,240 --> 02:27:05,160
+And we will have that session.
+
+1669
+02:27:05,160 --> 02:27:06,000
+Okay. Take care.
+
+1670
+02:27:07,720 --> 02:27:09,600
+Have a good
+
+1671
+02:27:09,600 --> 02:27:18,120
+day at.

@@ -1,0 +1,10058 @@
+﻿1
+00:00:09,640 --> 00:00:11,200
+All right, guys.
+
+2
+00:00:12,000 --> 00:00:15,680
+Last number one, NBA.
+
+3
+00:00:15,680 --> 00:00:18,040
+And I've already started recording it.
+
+4
+00:00:18,040 --> 00:00:20,360
+You see, it's already started.
+
+5
+00:00:20,880 --> 00:00:22,880
+Okay.
+
+6
+00:00:22,880 --> 00:00:25,680
+I hope everyone can hear me clearly
+
+7
+00:00:29,680 --> 00:00:32,960
+once you're nice, because today
+
+8
+00:00:33,200 --> 00:00:36,120
+the only thing you have to do is
+
+9
+00:00:36,600 --> 00:00:38,720
+listen to them speak.
+
+10
+00:00:39,320 --> 00:00:41,520
+Just listen to me what I'm saying.
+
+11
+00:00:41,520 --> 00:00:43,880
+See what I'm doing here on the screen.
+
+12
+00:00:44,080 --> 00:00:44,720
+Right?
+
+13
+00:00:44,720 --> 00:00:46,840
+You don't have to touch anything.
+
+14
+00:00:46,840 --> 00:00:48,360
+Anything, Billy.
+
+15
+00:00:48,360 --> 00:00:49,320
+Right. And that.
+
+16
+00:00:49,320 --> 00:00:53,160
+So you will be able to understand
+every single thing.
+
+17
+00:00:53,160 --> 00:00:55,680
+What I'm going to teach
+
+18
+00:00:56,400 --> 00:01:01,560
+just fine.
+
+19
+00:01:01,560 --> 00:01:05,080
+First, understand, let's start from a
+
+20
+00:01:07,200 --> 00:01:10,560
+the time
+
+21
+00:01:20,600 --> 00:01:24,240
+simple language,
+
+22
+00:01:24,240 --> 00:01:27,720
+full form is application
+
+23
+00:01:29,040 --> 00:01:31,040
+programing
+
+24
+00:01:36,000 --> 00:01:39,600
+interface.
+
+25
+00:01:39,600 --> 00:01:40,320
+What is it?
+
+26
+00:01:40,320 --> 00:01:43,360
+Is a master expert, by the way. It
+
+27
+00:01:46,240 --> 00:01:50,880
+application programing interface API.
+
+28
+00:01:51,200 --> 00:01:53,720
+This is the full form,
+just simply for right
+
+29
+00:01:54,920 --> 00:01:59,600
+now. Let me explain to you what API is
+
+30
+00:02:05,080 --> 00:02:06,360
+my medium.
+
+31
+00:02:06,360 --> 00:02:16,680
+I don't even know the meaning of one word
+from this for fine
+
+32
+00:02:20,400 --> 00:02:22,640
+application programing interface.
+
+33
+00:02:22,640 --> 00:02:32,520
+You guys must have seen.
+
+34
+00:02:32,520 --> 00:02:34,960
+Uh. Okay,
+
+35
+00:02:34,960 --> 00:02:38,400
+now you guys must have seen
+this many people names, I would say
+
+36
+00:02:38,400 --> 00:02:39,360
+hundreds of times.
+
+37
+00:02:39,360 --> 00:02:43,200
+Google things,
+which I'm going to explain, you know.
+
+38
+00:02:43,840 --> 00:02:45,920
+But you didn't observe them
+
+39
+00:02:46,200 --> 00:02:49,080
+the way I want you to observe from now
+what works.
+
+40
+00:02:49,440 --> 00:02:52,920
+So now, from today onwards,
+after that glass, whenever
+
+41
+00:02:52,920 --> 00:02:56,480
+you look at those things,
+your perceptions will completely changed.
+
+42
+00:02:57,320 --> 00:02:59,760
+It will be changed
+because of the explanation
+
+43
+00:02:59,760 --> 00:03:02,840
+you're going to have from today.
+All right.
+
+44
+00:03:03,040 --> 00:03:06,960
+So in this post,
+Glass will see the significance of it,
+
+45
+00:03:07,920 --> 00:03:10,200
+rate the use of it,
+
+46
+00:03:10,200 --> 00:03:13,240
+how it has changed, significant how
+
+47
+00:03:13,600 --> 00:03:17,320
+it has brought significant change
+on dinner table for all of us.
+
+48
+00:03:17,880 --> 00:03:21,240
+How big connects
+so many things, how it provides
+
+49
+00:03:21,440 --> 00:03:24,760
+so many benefits in our lives
+right from now,
+
+50
+00:03:24,760 --> 00:03:27,240
+and how we generally use them
+in this industry.
+
+51
+00:03:28,080 --> 00:03:31,320
+Without this,
+I don't think that anyone from us is
+
+52
+00:03:32,320 --> 00:03:34,440
+surviving day in this digital world.
+
+53
+00:03:35,160 --> 00:03:40,440
+Let's start them one by one right?
+
+54
+00:03:40,440 --> 00:04:05,800
+First, let's consider one example
+a very simple example.
+
+55
+00:04:05,800 --> 00:04:08,920
+What is this based?
+
+56
+00:04:08,920 --> 00:04:12,120
+This is a restaurant
+called a Message in my husband.
+
+57
+00:04:13,280 --> 00:04:16,120
+All right.
+
+58
+00:04:16,120 --> 00:04:21,120
+So restaurants, this is my message
+
+59
+00:04:22,480 --> 00:04:26,000
+for Katrina because what it was doing.
+
+60
+00:04:26,360 --> 00:04:28,000
+So let's play
+
+61
+00:04:29,920 --> 00:04:32,280
+right now.
+
+62
+00:04:32,280 --> 00:04:36,200
+Now, let's see in this in this restaurant.
+
+63
+00:04:36,560 --> 00:04:37,960
+In this restaurant right.
+
+64
+00:04:37,960 --> 00:04:39,720
+Maryam threw a party movement.
+
+65
+00:04:39,720 --> 00:04:41,760
+That's what they meant, a Katrina.
+
+66
+00:04:41,760 --> 00:04:44,600
+They all came to the party.
+
+67
+00:04:44,600 --> 00:04:47,160
+They all came to the party.
+
+68
+00:04:47,160 --> 00:04:51,120
+Now, let me give you
+the internal arrangement of this.
+
+69
+00:04:51,360 --> 00:04:52,560
+This is their table, right.
+
+70
+00:04:52,560 --> 00:04:54,800
+Which is available here in my their right.
+
+71
+00:04:55,440 --> 00:04:58,480
+And these are the chairs available
+like so here,
+
+72
+00:04:58,520 --> 00:05:00,320
+see my safety
+
+73
+00:05:01,920 --> 00:05:04,040
+right it Katrina is sitting
+
+74
+00:05:08,400 --> 00:05:12,760
+on Maryam Izadi certainly her mother also.
+
+75
+00:05:12,760 --> 00:05:13,080
+Right.
+
+76
+00:05:13,080 --> 00:05:16,400
+Or what was passing
+by saw Maryam Coleman here also joining
+
+77
+00:05:16,400 --> 00:05:18,600
+so what this sitting in the group
+
+78
+00:05:20,320 --> 00:05:24,480
+but now now
+
+79
+00:05:26,880 --> 00:05:28,800
+this is the very basic example
+
+80
+00:05:28,800 --> 00:05:31,920
+I'm giving you a very basic exam
+
+81
+00:05:31,920 --> 00:05:34,800
+not on this day, but on this table.
+
+82
+00:05:34,800 --> 00:05:35,760
+You for people.
+
+83
+00:05:35,760 --> 00:05:38,560
+Absolutely right.
+
+84
+00:05:38,560 --> 00:05:45,240
+If you need something to eat,
+listen carefully.
+
+85
+00:05:45,240 --> 00:05:52,200
+This if you need something to eat, trade,
+there is a kitchen available
+
+86
+00:05:52,800 --> 00:05:55,560
+right where ship is making so many things.
+
+87
+00:05:56,360 --> 00:06:00,240
+So Chef Sylvain is available.
+
+88
+00:06:00,240 --> 00:06:03,720
+Right ship is cooking everything
+
+89
+00:06:03,720 --> 00:06:05,840
+right now.
+
+90
+00:06:05,840 --> 00:06:08,560
+If you need something
+
+91
+00:06:08,560 --> 00:06:10,960
+from me, for example,
+
+92
+00:06:10,960 --> 00:06:13,680
+produce, you're asking them,
+What do you do?
+
+93
+00:06:14,240 --> 00:06:14,760
+Right.
+
+94
+00:06:14,760 --> 00:06:15,280
+I'm sorry.
+
+95
+00:06:15,280 --> 00:06:18,040
+I'm sorry if I misspelled this, but.
+
+96
+00:06:18,040 --> 00:06:18,720
+Okay.
+
+97
+00:06:18,760 --> 00:06:19,920
+If you need this on me,
+
+98
+00:06:19,920 --> 00:06:23,400
+we're saying we come together
+to give whatever the things you need.
+
+99
+00:06:24,200 --> 00:06:27,360
+Will you be able to communicate
+
+100
+00:06:27,560 --> 00:06:34,400
+directly with me?
+
+101
+00:06:34,400 --> 00:06:35,360
+That's good. You can have
+
+102
+00:06:38,040 --> 00:06:39,720
+Jimmy Castro's friend get request.
+
+103
+00:06:39,720 --> 00:06:42,840
+I, Jimmy, No,
+
+104
+00:06:43,440 --> 00:06:45,640
+you cannot communicate with me directly.
+
+105
+00:06:46,080 --> 00:06:46,920
+Right?
+
+106
+00:06:47,400 --> 00:06:49,400
+You communicate here.
+
+107
+00:06:49,800 --> 00:06:52,680
+You communicate here with a person.
+
+108
+00:06:52,680 --> 00:06:55,600
+We call him maybe a waiter
+
+109
+00:06:55,600 --> 00:06:57,680
+or a server or some of the things. Right?
+
+110
+00:06:57,920 --> 00:07:01,360
+So let's say
+your server guy is available yet
+
+111
+00:07:01,400 --> 00:07:04,280
+his name assignments
+
+112
+00:07:05,400 --> 00:07:08,680
+like my best friend assignments.
+
+113
+00:07:09,640 --> 00:07:11,720
+He's a bit in my company
+
+114
+00:07:12,800 --> 00:07:15,760
+because he is my best friend.
+
+115
+00:07:15,760 --> 00:07:17,960
+There's what I do with my best friend
+most of the times.
+
+116
+00:07:19,360 --> 00:07:21,160
+Like So now.
+
+117
+00:07:21,160 --> 00:07:24,280
+Now what do you usually do?
+
+118
+00:07:24,280 --> 00:07:26,760
+Simonds and Mr.
+
+119
+00:07:26,760 --> 00:07:31,200
+Simonds will ask you, ma'am,
+what you need it.
+
+120
+00:07:31,320 --> 00:07:33,680
+Miriam's is I need this burrito.
+
+121
+00:07:33,680 --> 00:07:35,880
+Assignments will come to me.
+
+122
+00:07:36,080 --> 00:07:38,240
+Assignments will ask me first,
+
+123
+00:07:39,120 --> 00:07:41,520
+Do we have burritos straight?
+
+124
+00:07:42,480 --> 00:07:44,600
+If I say yes, we do.
+
+125
+00:07:45,840 --> 00:07:47,520
+Yes, we do have.
+
+126
+00:07:47,520 --> 00:07:48,120
+Right.
+
+127
+00:07:48,120 --> 00:07:49,800
+Then it says will get fine.
+
+128
+00:07:49,800 --> 00:07:52,000
+She ask for one burrito, right?
+
+129
+00:07:52,000 --> 00:07:53,920
+She asks for one burrito. Right.
+
+130
+00:07:53,920 --> 00:07:55,080
+Make it
+
+131
+00:07:55,920 --> 00:07:57,720
+right, make it once.
+
+132
+00:07:57,720 --> 00:07:58,800
+But it is really not.
+
+133
+00:07:58,800 --> 00:08:00,760
+Who will you going to make this?
+
+134
+00:08:00,760 --> 00:08:03,640
+I am a chef, right? This is my that.
+
+135
+00:08:03,800 --> 00:08:08,320
+I'm going to make it like.
+
+136
+00:08:08,880 --> 00:08:11,880
+So if I'm going to make it
+
+137
+00:08:11,880 --> 00:08:15,520
+after cooking your burrito,
+after making you connect
+
+138
+00:08:15,600 --> 00:08:21,880
+directly, come and give it to you.
+
+139
+00:08:21,880 --> 00:08:24,920
+Do not look right.
+
+140
+00:08:26,920 --> 00:08:28,960
+Like who?
+
+141
+00:08:28,960 --> 00:08:31,840
+Who is going to who is going to delivery
+
+142
+00:08:33,520 --> 00:08:35,560
+this Mr. Simas.
+
+143
+00:08:35,560 --> 00:08:38,360
+So you will send this burrito wire, Mr.
+
+144
+00:08:38,360 --> 00:08:39,840
+Simas and Mr.
+
+145
+00:08:39,840 --> 00:08:42,600
+Simon is going to deliver it on your team,
+
+146
+00:08:43,640 --> 00:08:47,000
+Correct?
+
+147
+00:08:47,000 --> 00:08:48,520
+Is this correct
+
+148
+00:08:50,440 --> 00:08:50,920
+enemy?
+
+149
+00:08:50,920 --> 00:08:53,920
+How many times
+how many times you did this in your
+
+150
+00:09:03,480 --> 00:09:04,920
+multiple times?
+
+151
+00:09:04,920 --> 00:09:06,760
+Thousands of times. Millions of times.
+
+152
+00:09:06,760 --> 00:09:07,840
+Alex is exceptional.
+
+153
+00:09:07,840 --> 00:09:09,920
+These are just one very nice,
+
+154
+00:09:11,120 --> 00:09:13,120
+great.
+
+155
+00:09:13,120 --> 00:09:15,400
+Maybe you're saying one way everything
+
+156
+00:09:16,440 --> 00:09:18,440
+might be fine.
+
+157
+00:09:18,440 --> 00:09:21,800
+So now, now see why.
+
+158
+00:09:21,800 --> 00:09:25,000
+Why you cannot communicate with chefs
+
+159
+00:09:26,280 --> 00:09:30,720
+Because of so many reasons.
+
+160
+00:09:30,720 --> 00:09:32,600
+Because of so many reasons.
+
+161
+00:09:32,600 --> 00:09:35,880
+Let me tell you, some of
+
+162
+00:09:36,560 --> 00:09:38,680
+the first reason might be
+
+163
+00:09:38,680 --> 00:09:41,280
+because you guys know
+English extremely well.
+
+164
+00:09:42,120 --> 00:09:42,840
+Right?
+
+165
+00:09:42,880 --> 00:09:45,280
+And that guys, chefs or Italian
+
+166
+00:09:46,280 --> 00:09:49,160
+explained it extremely well, Benny.
+
+167
+00:09:49,880 --> 00:09:53,160
+But you guys don't know how to speak
+Italian.
+
+168
+00:09:53,640 --> 00:09:55,720
+He doesn't know how to speak English.
+
+169
+00:09:56,280 --> 00:09:59,040
+Now, people from two different languages
+
+170
+00:09:59,040 --> 00:10:01,160
+cannot communicate with each other,
+
+171
+00:10:02,920 --> 00:10:05,000
+cannot communicate with each other.
+
+172
+00:10:05,000 --> 00:10:05,640
+Right?
+
+173
+00:10:05,920 --> 00:10:10,200
+So if if you cannot communicate
+with each other what you need,
+
+174
+00:10:10,480 --> 00:10:14,400
+you need someone in intermediate grade.
+
+175
+00:10:14,440 --> 00:10:18,720
+You need intermediate who can establish
+
+176
+00:10:19,120 --> 00:10:22,640
+a connection in between you and chef.
+
+177
+00:10:23,120 --> 00:10:25,680
+So who can take your order?
+
+178
+00:10:25,680 --> 00:10:29,120
+Go there in the order
+bank and delivery on your table.
+
+179
+00:10:29,240 --> 00:10:31,200
+You need someone like this. Correct?
+
+180
+00:10:32,960 --> 00:10:35,000
+You need someone considered.
+
+181
+00:10:35,000 --> 00:10:36,560
+We will translate Zima.
+
+182
+00:10:36,560 --> 00:10:39,040
+That one was
+This can also be an example. Great.
+
+183
+00:10:39,480 --> 00:10:40,880
+We need someone in between.
+
+184
+00:10:40,880 --> 00:10:41,600
+Correct.
+
+185
+00:10:43,080 --> 00:10:45,040
+So who can help us in
+
+186
+00:10:45,040 --> 00:10:48,160
+communicating with the chef what it is.
+
+187
+00:10:48,200 --> 00:10:50,000
+It would be this
+
+188
+00:10:50,360 --> 00:10:53,240
+second reason.
+
+189
+00:10:53,240 --> 00:10:56,680
+Right now we're talking for
+small restaurant, great small restaurant.
+
+190
+00:10:56,680 --> 00:11:02,520
+We're not involved right now,
+but if you go to any first grade,
+
+191
+00:11:02,640 --> 00:11:06,520
+maybe you are at the eighth floor on ninth
+or 10th floor of the you
+
+192
+00:11:06,520 --> 00:11:08,560
+that you're ordering from. Right.
+
+193
+00:11:08,760 --> 00:11:12,000
+But the restaurant is not available
+in the same to the restaurant, maybe
+
+194
+00:11:12,600 --> 00:11:16,800
+in the ground floor or maybe in the top
+of a beautiful it could be possibly
+
+195
+00:11:18,200 --> 00:11:19,040
+right place.
+
+196
+00:11:19,040 --> 00:11:24,160
+So what chef
+and you guys are not at the same place
+
+197
+00:11:25,240 --> 00:11:27,000
+when you both are not in the same place.
+
+198
+00:11:27,000 --> 00:11:29,680
+It's impossible
+to connect with each other.
+
+199
+00:11:29,680 --> 00:11:32,440
+Right? You're not going to call anyone
+to the ship
+
+200
+00:11:32,480 --> 00:11:35,000
+and the name of the page you have.
+I did this, but you have this.
+
+201
+00:11:35,160 --> 00:11:36,120
+You don't have the money.
+
+202
+00:11:36,120 --> 00:11:38,160
+Even got it and is not.
+
+203
+00:11:38,400 --> 00:11:41,040
+You know that
+he doesn't have that much of time
+
+204
+00:11:41,320 --> 00:11:44,680
+that he will going to accept your call
+
+205
+00:11:44,760 --> 00:11:46,800
+waiting making something in the restaurant
+
+206
+00:11:48,160 --> 00:11:51,360
+at the same time you cannot do this
+
+207
+00:11:52,600 --> 00:11:54,720
+right this he cannot do this.
+
+208
+00:11:54,720 --> 00:11:57,480
+So again
+you need someone who can communicate
+
+209
+00:11:57,720 --> 00:12:00,320
+in between you and the chef.
+
+210
+00:12:00,800 --> 00:12:02,840
+Speak now.
+
+211
+00:12:02,840 --> 00:12:06,360
+Now, when we talk about this part,
+when we talked about this
+
+212
+00:12:06,360 --> 00:12:09,680
+part, this situation, here,
+we have three things.
+
+213
+00:12:09,680 --> 00:12:11,160
+First, medium
+
+214
+00:12:13,280 --> 00:12:14,640
+thinking.
+
+215
+00:12:14,640 --> 00:12:16,680
+So that is a chef.
+
+216
+00:12:17,640 --> 00:12:18,520
+Third,
+
+217
+00:12:19,920 --> 00:12:24,680
+silence is a wait, right?
+
+218
+00:12:25,440 --> 00:12:27,600
+It is, but she is a customer.
+
+219
+00:12:28,440 --> 00:12:31,760
+So customer, waiter and shame.
+
+220
+00:12:32,920 --> 00:12:34,920
+When we talk about blind
+
+221
+00:12:34,920 --> 00:12:38,280
+server architecture, remember one thing.
+
+222
+00:12:38,560 --> 00:12:39,600
+Remember one thing.
+
+223
+00:12:39,600 --> 00:12:43,400
+The one the one who makes a request.
+
+224
+00:12:43,400 --> 00:12:47,800
+The one the one who gives
+the order is like
+
+225
+00:12:49,440 --> 00:12:53,520
+the one who provides,
+who provides the food.
+
+226
+00:12:53,720 --> 00:12:57,240
+Who makes the food is server
+
+227
+00:12:58,400 --> 00:13:02,600
+and the one
+the one who is transporting this order.
+
+228
+00:13:02,880 --> 00:13:06,960
+Taking the dishes back to you
+on your table is your
+
+229
+00:13:08,440 --> 00:13:17,440
+If is your
+
+230
+00:13:28,840 --> 00:13:31,560
+Nona's good API is timer's
+
+231
+00:13:32,720 --> 00:13:35,000
+server is so that
+
+232
+00:13:35,280 --> 00:13:38,560
+remember the chef chef cannot be a waiter
+
+233
+00:13:39,080 --> 00:13:41,640
+and Victor cannot be a she. Read
+
+234
+00:13:49,560 --> 00:13:50,600
+the is understood this
+
+235
+00:13:50,600 --> 00:13:53,760
+first example
+what I explained about restaurant
+
+236
+00:14:02,280 --> 00:14:02,800
+three
+
+237
+00:14:08,320 --> 00:14:09,520
+Now here
+
+238
+00:14:09,520 --> 00:14:13,080
+when we talk about client server
+architecture, right.
+
+239
+00:14:13,080 --> 00:14:18,360
+Remember if you understand this term,
+what is Glen server architecture right.
+
+240
+00:14:18,520 --> 00:14:23,480
+And you implement the things the way
+I'm trying to explain you entire
+
+241
+00:14:23,520 --> 00:14:27,600
+a bar is a piece of cake.
+
+242
+00:14:27,600 --> 00:14:29,760
+Entire A bar is a piece of cake.
+
+243
+00:14:30,480 --> 00:14:33,320
+The only thing you should understand
+is what I'm explaining.
+
+244
+00:14:33,320 --> 00:14:34,280
+You truly
+
+245
+00:14:36,560 --> 00:14:38,280
+connect connecting people
+
+246
+00:14:38,280 --> 00:14:41,480
+right after connecting people disappears,
+
+247
+00:14:42,520 --> 00:14:42,800
+right?
+
+248
+00:14:42,800 --> 00:14:45,320
+We don't need that kind of a
+
+249
+00:14:51,000 --> 00:14:51,840
+Gardner.
+
+250
+00:14:51,840 --> 00:14:52,680
+Right.
+
+251
+00:14:52,880 --> 00:14:55,920
+Is this butterscotch?
+
+252
+00:14:55,920 --> 00:14:58,680
+If we discuss after we send it
+
+253
+00:14:58,680 --> 00:14:59,280
+right?
+
+254
+00:14:59,760 --> 00:15:00,960
+So now,
+
+255
+00:15:01,960 --> 00:15:05,880
+now, here it you see in client
+
+256
+00:15:06,000 --> 00:15:10,640
+server
+architecture, right when you're customer.
+
+257
+00:15:10,640 --> 00:15:15,320
+But in this particular example
+as a customer, you are a client.
+
+258
+00:15:15,520 --> 00:15:17,880
+As a chef is chef and Ms.
+
+259
+00:15:17,880 --> 00:15:19,320
+is a server.
+
+260
+00:15:19,320 --> 00:15:19,600
+Right?
+
+261
+00:15:19,600 --> 00:15:21,160
+And this waiter, Mr.
+
+262
+00:15:21,160 --> 00:15:25,560
+Simonds, he is an API is an API.
+
+263
+00:15:26,000 --> 00:15:27,360
+So the order you give
+
+264
+00:15:29,120 --> 00:15:31,080
+listen one more point again,
+
+265
+00:15:31,080 --> 00:15:34,440
+the order you give in this situation,
+
+266
+00:15:34,440 --> 00:15:36,480
+we call this order as
+
+267
+00:15:40,080 --> 00:15:43,880
+a request
+
+268
+00:15:45,160 --> 00:15:46,600
+request.
+
+269
+00:15:47,160 --> 00:15:50,080
+So assignments beg your request, right?
+
+270
+00:15:50,080 --> 00:15:54,680
+It API take your request to home
+
+271
+00:15:55,840 --> 00:15:56,880
+server
+
+272
+00:15:57,720 --> 00:16:00,240
+and then server answers to your request
+
+273
+00:16:01,200 --> 00:16:03,520
+Server answers to your request.
+
+274
+00:16:03,520 --> 00:16:07,240
+So the answer settlement is giving you.
+
+275
+00:16:07,680 --> 00:16:11,000
+So the answer server is giving you.
+
+276
+00:16:11,400 --> 00:16:13,120
+We call it
+
+277
+00:16:16,600 --> 00:16:19,520
+response.
+
+278
+00:16:19,520 --> 00:16:22,080
+We call it a response. Understood.
+
+279
+00:16:23,040 --> 00:16:25,520
+The one you say is request.
+
+280
+00:16:26,520 --> 00:16:30,000
+The one you receive is response.
+
+281
+00:16:30,000 --> 00:16:32,720
+So the one client is sending request.
+
+282
+00:16:33,440 --> 00:16:38,160
+EPA is taking your request to data server
+
+283
+00:16:38,760 --> 00:16:42,600
+server is providing something to API
+that is response.
+
+284
+00:16:42,800 --> 00:16:46,640
+So API is again
+taking back this response to that line.
+
+285
+00:16:46,840 --> 00:16:52,600
+So blind server connected
+via API client is sending request APIs,
+
+286
+00:16:52,600 --> 00:16:54,920
+taking the request, taking it to
+
+287
+00:16:55,720 --> 00:16:58,080
+someone
+instead of what is returning the response.
+
+288
+00:16:58,080 --> 00:17:03,920
+Again, it is taking this response
+and delivering it back to the customer or
+
+289
+00:17:05,600 --> 00:17:09,800
+playing server architecture using API
+
+290
+00:17:10,440 --> 00:17:12,560
+in normal length windows to
+
+291
+00:17:17,520 --> 00:17:18,120
+the ones we're doing.
+
+292
+00:17:18,120 --> 00:17:20,240
+So far so good or not
+
+293
+00:17:25,000 --> 00:17:26,040
+nice,
+
+294
+00:17:27,080 --> 00:17:29,680
+but do you want me to go slow
+
+295
+00:17:29,840 --> 00:17:32,000
+or the point
+
+296
+00:17:35,880 --> 00:17:38,040
+after a long time
+
+297
+00:17:38,040 --> 00:17:44,560
+and then the device?
+
+298
+00:17:44,560 --> 00:17:48,480
+Right now
+let me give you the example of API
+
+299
+00:17:48,480 --> 00:17:50,760
+how API box is you could see
+
+300
+00:17:52,040 --> 00:17:54,560
+and then you will be blown away
+
+301
+00:17:55,520 --> 00:17:57,960
+by thinking that, Oh,
+
+302
+00:17:57,960 --> 00:18:01,280
+I'm seeing API every day
+and I wasn't aware of it.
+
+303
+00:18:01,720 --> 00:18:02,640
+Seeing
+
+304
+00:18:06,000 --> 00:18:08,960
+first this example clearly,
+so I'm not going to use it anymore.
+
+305
+00:18:09,240 --> 00:18:10,480
+It will deliver
+
+306
+00:18:11,520 --> 00:18:16,560
+liquid logic.
+
+307
+00:18:16,560 --> 00:18:19,840
+Tell me some of the banks,
+some of the famous banks of use
+
+308
+00:18:20,520 --> 00:18:22,960
+the name of those banks
+
+309
+00:18:24,240 --> 00:18:28,440
+which you guys are using, Bank of America
+
+310
+00:18:30,560 --> 00:18:32,160
+cheese
+
+311
+00:18:36,160 --> 00:18:41,400
+for Wells Fargo,
+
+312
+00:18:41,400 --> 00:18:46,560
+Hong Kong and Shanghai
+Banking Corporation.
+
+313
+00:18:46,560 --> 00:18:48,160
+You'd be fine.
+
+314
+00:18:48,160 --> 00:18:50,160
+Enough, enough, enough, enough.
+
+315
+00:18:50,160 --> 00:18:52,200
+I don't want bank account in any of them.
+
+316
+00:18:52,640 --> 00:18:54,960
+And that's Scream five is more than
+
+317
+00:18:56,000 --> 00:18:58,600
+B and C, D, C, u, ABC, x, y, z.
+
+318
+00:18:58,600 --> 00:19:00,920
+When you do three every bank
+Lloyd user got
+
+319
+00:19:02,440 --> 00:19:07,920
+25 banks is c d d Bank of America
+
+320
+00:19:08,120 --> 00:19:10,960
+is Wells Fargo, HSBC right
+
+321
+00:19:12,240 --> 00:19:14,400
+now tell me how many of you guys
+
+322
+00:19:14,600 --> 00:19:16,720
+are using this credit debit cards,
+
+323
+00:19:17,840 --> 00:19:22,320
+specifically debit card to withdraw
+the money from the ATMs and everything
+
+324
+00:19:23,880 --> 00:19:24,400
+almost.
+
+325
+00:19:24,400 --> 00:19:26,560
+All right.
+
+326
+00:19:26,560 --> 00:19:29,000
+And don't take the responsibility
+for every one
+
+327
+00:19:29,920 --> 00:19:33,840
+about yourself.
+
+328
+00:19:33,840 --> 00:19:36,360
+I just delivered an audit.
+
+329
+00:19:36,360 --> 00:19:39,320
+Someone said I don't use
+by using it on my behalf,
+
+330
+00:19:40,800 --> 00:19:42,560
+but majority,
+
+331
+00:19:42,560 --> 00:19:47,120
+you use this card rate, fine.
+
+332
+00:19:47,120 --> 00:19:50,680
+Have you ever observe then
+if you have a card
+
+333
+00:19:50,680 --> 00:19:54,440
+of Bank of America
+radio Bank account in Bank of America.
+
+334
+00:19:54,920 --> 00:19:57,840
+But if you go to a be a machine
+
+335
+00:19:59,720 --> 00:20:02,880
+automatic bid machine,
+everyone knows Indian Railways.
+
+336
+00:20:03,600 --> 00:20:07,760
+The machines we generally use it will do
+the amount they do to check the status.
+
+337
+00:20:07,800 --> 00:20:11,960
+Even this idiom belongs to Chase Bank.
+
+338
+00:20:12,600 --> 00:20:15,760
+This APM is for kids bank right
+
+339
+00:20:17,160 --> 00:20:20,120
+race If you go there.
+
+340
+00:20:20,120 --> 00:20:22,200
+If you go there,
+
+341
+00:20:22,320 --> 00:20:25,160
+if you go there in this bank
+
+342
+00:20:25,160 --> 00:20:29,760
+here, a machine is available
+and you insert your card
+
+343
+00:20:29,760 --> 00:20:33,200
+which is available in Bank of America,
+
+344
+00:20:33,800 --> 00:20:37,000
+but your account is available
+in Bank of America.
+
+345
+00:20:37,680 --> 00:20:40,960
+But you are you forget about
+how many dollars yet charging
+
+346
+00:20:40,960 --> 00:20:44,880
+and why they're chatting and not willing
+to talk about the job is not right.
+
+347
+00:20:45,120 --> 00:20:48,000
+We are going to talk about the school
+right.
+
+348
+00:20:48,280 --> 00:20:50,720
+Money comes first. Everything.
+
+349
+00:20:50,720 --> 00:20:51,960
+I'm explaining something.
+
+350
+00:20:51,960 --> 00:20:53,440
+No one is going to focus on that.
+
+351
+00:20:53,440 --> 00:20:56,320
+Everyone's thinking
+I have to pay the money.
+
+352
+00:20:56,680 --> 00:20:58,800
+We don't have to pay the charge.
+
+353
+00:20:58,800 --> 00:21:02,320
+See here, here
+
+354
+00:21:02,320 --> 00:21:05,400
+in this ADB,
+
+355
+00:21:05,400 --> 00:21:09,600
+a card that you have,
+this card is Bank of America card.
+
+356
+00:21:10,320 --> 00:21:11,000
+Great.
+
+357
+00:21:11,120 --> 00:21:17,040
+But the ATM you're using this is belong
+to the 18 belongs to your she bank.
+
+358
+00:21:18,080 --> 00:21:20,800
+But still the moment you inside your card
+
+359
+00:21:20,800 --> 00:21:28,680
+it shows your date on one.
+
+360
+00:21:28,680 --> 00:21:31,680
+It shows your little notation
+
+361
+00:21:31,920 --> 00:21:32,560
+right
+
+362
+00:21:35,640 --> 00:21:38,840
+now Now just consider the same situation.
+
+363
+00:21:38,840 --> 00:21:41,280
+Just consider the same situation.
+
+364
+00:21:41,280 --> 00:21:43,040
+All bank can integrate.
+
+365
+00:21:43,040 --> 00:21:47,640
+It's like this it money is trying to exist
+in another form
+
+366
+00:21:48,000 --> 00:21:53,760
+and as opens up hopefully is
+but it shows at another point.
+
+367
+00:21:53,760 --> 00:21:55,840
+Miracle Epsilon
+
+368
+00:21:56,800 --> 00:21:57,560
+three.
+
+369
+00:21:58,680 --> 00:22:00,480
+Is it possible?
+
+370
+00:22:01,200 --> 00:22:04,480
+Is it possible?
+
+371
+00:22:04,480 --> 00:22:06,480
+No, no, no, no, not it's north.
+
+372
+00:22:06,760 --> 00:22:09,720
+See, Marina is already
+logged in in her form,
+
+373
+00:22:10,240 --> 00:22:12,160
+and that is loaded in her phone.
+
+374
+00:22:12,160 --> 00:22:14,760
+So if you logged in with your account,
+
+375
+00:22:14,760 --> 00:22:17,280
+you can not
+it can not show any of that account.
+
+376
+00:22:17,840 --> 00:22:20,000
+Right.
+It can not show any of that account.
+
+377
+00:22:20,560 --> 00:22:24,000
+But but here in this A.T.M.,
+
+378
+00:22:24,360 --> 00:22:27,960
+a guy from Bank of America
+from d d bank chains
+
+379
+00:22:27,960 --> 00:22:33,160
+bends for just b c from any bank,
+from any bank rate.
+
+380
+00:22:33,160 --> 00:22:35,800
+You have a debit card or debit card.
+
+381
+00:22:35,960 --> 00:22:40,680
+You want to withdraw some money,
+you go in any of the atrium right there.
+
+382
+00:22:40,680 --> 00:22:46,680
+You use your card and it will allow you to
+withdraw your money.
+
+383
+00:22:46,680 --> 00:22:48,880
+It will allow you to withdraw your money.
+Right.
+
+384
+00:22:49,200 --> 00:22:51,880
+This is the functionality everyone knows.
+
+385
+00:22:52,280 --> 00:22:53,640
+That's how things work in. Let
+
+386
+00:22:55,320 --> 00:22:56,440
+everyone
+
+387
+00:22:57,160 --> 00:22:59,160
+Now let me give you how
+
+388
+00:22:59,160 --> 00:23:01,400
+this things work in banking.
+
+389
+00:23:02,400 --> 00:23:10,960
+See, that's
+
+390
+00:23:44,520 --> 00:23:45,240
+fine.
+
+391
+00:23:45,400 --> 00:23:48,160
+So now, now see what happens.
+
+392
+00:23:48,720 --> 00:23:51,080
+This database.
+
+393
+00:23:51,080 --> 00:23:53,400
+This database is available.
+
+394
+00:23:53,600 --> 00:23:55,280
+They will find their trade.
+
+395
+00:23:55,280 --> 00:23:57,320
+What example? Bank of America.
+
+396
+00:23:57,360 --> 00:24:03,240
+Read all the all the information related
+to the customers accounts and everything.
+
+397
+00:24:03,560 --> 00:24:06,200
+Bank of America put all this information
+
+398
+00:24:06,480 --> 00:24:09,280
+here in its database
+
+399
+00:24:09,360 --> 00:24:11,160
+right now.
+
+400
+00:24:11,160 --> 00:24:14,480
+Don't you think that is
+data is very, very important
+
+401
+00:24:14,480 --> 00:24:19,680
+for the bank?
+
+402
+00:24:19,680 --> 00:24:21,240
+It is very important.
+
+403
+00:24:21,240 --> 00:24:26,360
+Can they share their data
+with any other bank,
+
+404
+00:24:26,360 --> 00:24:29,240
+For example,
+this is their database or Chase Bank.
+
+405
+00:24:30,160 --> 00:24:33,600
+This is their data for us.
+
+406
+00:24:36,240 --> 00:24:39,480
+No, they cannot share any data
+with any other bank.
+
+407
+00:24:39,960 --> 00:24:42,680
+Correct.
+
+408
+00:24:42,680 --> 00:24:44,400
+Any other data with the credit.
+
+409
+00:24:44,400 --> 00:24:46,600
+History is not the financial data, Right.
+
+410
+00:24:46,680 --> 00:24:50,200
+It's your record
+just to give you more loan or something.
+
+411
+00:24:50,320 --> 00:24:50,840
+Right.
+
+412
+00:24:51,000 --> 00:24:56,000
+So see,
+Bank of America has its own database,
+
+413
+00:24:56,160 --> 00:25:01,280
+which is purely Securency, right?
+
+414
+00:25:01,520 --> 00:25:06,120
+Chase Bank has its own database, which is
+purely secured, and at the same time
+
+415
+00:25:06,400 --> 00:25:10,480
+the bank has its own redundancies
+or just purely secured seats.
+
+416
+00:25:10,480 --> 00:25:11,120
+Correct?
+
+417
+00:25:11,640 --> 00:25:14,280
+So we have multiple database for
+
+418
+00:25:14,280 --> 00:25:19,400
+multiple banks.
+
+419
+00:25:19,400 --> 00:25:20,200
+The point
+
+420
+00:25:25,600 --> 00:25:28,080
+multiple database for multiple banks.
+
+421
+00:25:28,400 --> 00:25:34,000
+Then how is it possible
+that when they try to insert my bank card
+
+422
+00:25:34,320 --> 00:25:40,200
+right in any other way as these bank AGM,
+it is able to rate
+
+423
+00:25:40,440 --> 00:25:43,600
+this particular bank
+is able to fetch my data?
+
+424
+00:25:44,280 --> 00:25:49,520
+How is it possible when bank is not going
+to allow the access to their databases,
+
+425
+00:25:49,520 --> 00:25:53,120
+to any of their main, then how does a be a
+machine is getting my data.
+
+426
+00:25:53,640 --> 00:25:57,720
+That is the only question.
+
+427
+00:25:57,720 --> 00:26:04,200
+See how it looks.
+
+428
+00:26:04,200 --> 00:26:08,760
+Remember all these banks,
+whatever the private banks are available,
+
+429
+00:26:08,760 --> 00:26:11,400
+public banks are available, government
+banks are available.
+
+430
+00:26:11,760 --> 00:26:14,560
+They all are connected to federal bank
+
+431
+00:26:16,080 --> 00:26:18,960
+better Bank is basically
+a government government bank.
+
+432
+00:26:20,320 --> 00:26:23,000
+Even centralized bank, federal bank.
+
+433
+00:26:23,960 --> 00:26:27,120
+It owns this federal bank owns
+all the banks.
+
+434
+00:26:27,560 --> 00:26:28,160
+Right?
+
+435
+00:26:28,400 --> 00:26:31,680
+So all banks, for example,
+it is Bank of America,
+
+436
+00:26:32,000 --> 00:26:34,880
+Chase Bank, any bank, any other bank.
+
+437
+00:26:34,880 --> 00:26:39,240
+All these banks are connected
+to federal banks or not. The
+
+438
+00:26:40,800 --> 00:26:42,960
+all these are connected to
+
+439
+00:26:42,960 --> 00:26:43,800
+connect.
+
+440
+00:26:43,920 --> 00:26:48,240
+So now here, here, here,
+every bank is connected.
+
+441
+00:26:48,240 --> 00:26:51,480
+This one, this one, maybe some World Bank.
+
+442
+00:26:51,480 --> 00:26:52,080
+Right.
+
+443
+00:26:52,320 --> 00:26:55,640
+And then this A-Team, this A.T.M.
+
+444
+00:26:55,640 --> 00:26:58,120
+machine, the Indian machine we talk about.
+
+445
+00:26:58,240 --> 00:26:58,920
+Right.
+
+446
+00:26:59,120 --> 00:27:03,120
+This data machine from Let's see,
+she has been trained.
+
+447
+00:27:03,600 --> 00:27:06,240
+It is connected
+to this centralized server.
+
+448
+00:27:07,320 --> 00:27:08,080
+Okay?
+
+449
+00:27:08,440 --> 00:27:10,560
+It is connected
+to this centralized server.
+
+450
+00:27:10,560 --> 00:27:13,400
+So now what is happening at
+
+451
+00:27:14,520 --> 00:27:16,040
+the moment, right?
+
+452
+00:27:16,040 --> 00:27:18,680
+See how it works?
+
+453
+00:27:18,680 --> 00:27:21,320
+All these banks are connected to Central
+bank, right?
+
+454
+00:27:21,960 --> 00:27:25,600
+The moment you insert your card, you get
+
+455
+00:27:25,600 --> 00:27:27,920
+the moment to insert your card.
+
+456
+00:27:27,920 --> 00:27:33,080
+It sends a message, a signal
+to just bank that, Hey, I got one card
+
+457
+00:27:33,080 --> 00:27:36,720
+having the number one, two, three, four,
+five, six, seven, eight, nine.
+
+458
+00:27:37,800 --> 00:27:41,160
+Do we have any detail
+for this particular card?
+
+459
+00:27:41,840 --> 00:27:43,320
+So just banks is.
+
+460
+00:27:43,320 --> 00:27:46,760
+No, we don't have any user with this data.
+
+461
+00:27:47,080 --> 00:27:51,200
+It transfers that request to us
+and delays the database.
+
+462
+00:27:51,720 --> 00:27:55,800
+So now here in this centralized database.
+
+463
+00:27:55,800 --> 00:27:56,520
+Right.
+
+464
+00:27:56,520 --> 00:28:00,760
+Because their data was not able to phone
+inches bank.
+
+465
+00:28:01,040 --> 00:28:01,400
+Right.
+
+466
+00:28:01,400 --> 00:28:05,880
+What is being does it send your request
+to federal bank database
+
+467
+00:28:06,640 --> 00:28:09,480
+here in central bank
+see Bank of America is available.
+
+468
+00:28:10,040 --> 00:28:12,280
+Chase Bank is available right.
+
+469
+00:28:12,280 --> 00:28:15,600
+Citibank is available,
+Wells Fargo is available.
+
+470
+00:28:15,720 --> 00:28:17,520
+Other banks are also available.
+
+471
+00:28:17,520 --> 00:28:20,680
+So now it quickly
+check with everyone who you have.
+
+472
+00:28:20,840 --> 00:28:22,560
+You have it is. Yes.
+
+473
+00:28:23,520 --> 00:28:25,720
+Bank of America says yes, I do have
+
+474
+00:28:27,000 --> 00:28:29,080
+I do have this database available with me.
+
+475
+00:28:29,520 --> 00:28:35,840
+Find it sense
+that the risk to Bank of America, someone.
+
+476
+00:28:35,840 --> 00:28:39,080
+But now when it sends
+that it goes to Bank of America.
+
+477
+00:28:39,080 --> 00:28:43,920
+Central Bank of America says yes,
+it is a customer, a gentleman customer
+
+478
+00:28:44,240 --> 00:28:48,600
+having everything in the account
+allow him to use his account.
+
+479
+00:28:48,920 --> 00:28:52,920
+So the moment it sends this message,
+this is what we call response.
+
+480
+00:28:52,920 --> 00:28:55,560
+The response comes back to the central
+bank.
+
+481
+00:28:55,560 --> 00:28:57,720
+It transfers back to the bank.
+
+482
+00:28:58,000 --> 00:29:00,520
+Just bank shows the same thing unexpected.
+
+483
+00:29:00,880 --> 00:29:03,880
+And that's
+how you generally take your money
+
+484
+00:29:04,000 --> 00:29:04,920
+from the
+
+485
+00:29:10,160 --> 00:29:11,080
+industrial
+
+486
+00:29:14,800 --> 00:29:15,360
+underscored
+
+487
+00:29:15,360 --> 00:29:21,480
+everyone.
+
+488
+00:29:21,480 --> 00:29:25,080
+Now let's talk about $3
+
+489
+00:29:26,960 --> 00:29:28,400
+to spark
+
+490
+00:29:29,240 --> 00:29:30,600
+your favorite.
+
+491
+00:29:30,600 --> 00:29:33,000
+Everyone's favorite, $3.
+
+492
+00:29:34,240 --> 00:29:37,160
+Why? Why they charged this three bucks?
+
+493
+00:29:37,800 --> 00:29:39,200
+What is the reason behind it?
+
+494
+00:29:39,200 --> 00:29:44,880
+Why did you have to this three bucks?
+
+495
+00:29:44,880 --> 00:29:49,520
+Basically because they can.
+
+496
+00:29:49,520 --> 00:29:50,520
+Right.
+
+497
+00:29:50,640 --> 00:29:53,640
+So remember, remember case
+
+498
+00:29:54,200 --> 00:29:59,240
+if you use the same bank
+18 various account exist.
+
+499
+00:29:59,240 --> 00:30:00,640
+You don't have to charge anything.
+
+500
+00:30:02,520 --> 00:30:02,920
+If you
+
+501
+00:30:02,920 --> 00:30:06,080
+use someone else's a DRM,
+then you have to charge.
+
+502
+00:30:06,800 --> 00:30:08,840
+You have to be right
+
+503
+00:30:10,440 --> 00:30:11,680
+that in case
+
+504
+00:30:11,920 --> 00:30:16,200
+why is it
+see if your account is inches bank
+
+505
+00:30:17,040 --> 00:30:21,480
+and you put you inside your card
+in the ATM that Adam is also
+
+506
+00:30:21,480 --> 00:30:25,520
+in the juice bank, it simply sends
+you requested it's simplest answer
+
+507
+00:30:25,560 --> 00:30:28,600
+request here just makes is yes,
+we do have this.
+
+508
+00:30:29,760 --> 00:30:31,520
+We do have this. Okay.
+
+509
+00:30:31,520 --> 00:30:34,680
+So are they interacting
+with this federal bank services?
+
+510
+00:30:35,120 --> 00:30:36,160
+Are they interacting?
+
+511
+00:30:36,160 --> 00:30:38,520
+He is no right.
+
+512
+00:30:38,720 --> 00:30:41,160
+So there it provides
+a detail directly to you.
+
+513
+00:30:41,160 --> 00:30:43,240
+Just make sense.
+All right. We have this data.
+
+514
+00:30:43,520 --> 00:30:44,680
+We are not going to connect.
+
+515
+00:30:44,680 --> 00:30:48,080
+We are not going to leverage your services
+for this particular call.
+
+516
+00:30:48,080 --> 00:30:48,960
+That's fine.
+
+517
+00:30:48,960 --> 00:30:53,400
+We are going to allow this user
+to take anything from his account.
+
+518
+00:30:53,960 --> 00:30:54,320
+Right?
+
+519
+00:30:55,480 --> 00:30:58,600
+Right. But
+
+520
+00:30:58,680 --> 00:31:00,760
+when it comes to this centralized
+
+521
+00:31:00,760 --> 00:31:03,920
+database of central bank, this works.
+
+522
+00:31:04,280 --> 00:31:08,720
+This would be issues
+to this linking of connections,
+
+523
+00:31:08,720 --> 00:31:12,800
+everything to maintain this,
+to keep them updated.
+
+524
+00:31:13,160 --> 00:31:13,800
+Right.
+
+525
+00:31:13,800 --> 00:31:17,120
+And live and working and up all the time.
+
+526
+00:31:17,120 --> 00:31:18,720
+24 seven. Right.
+
+527
+00:31:18,720 --> 00:31:21,880
+It means it requires a lot of maintenance
+
+528
+00:31:25,080 --> 00:31:31,440
+rate case,
+
+529
+00:31:31,440 --> 00:31:34,360
+but it requires a lot of maintenance
+
+530
+00:31:34,640 --> 00:31:37,920
+so they can not charge with anyone
+about this maintenance.
+
+531
+00:31:37,920 --> 00:31:42,400
+So what they do is if you are using
+the services that only you have to charge,
+
+532
+00:31:42,960 --> 00:31:45,360
+if you don't use the services,
+you don't have to charge.
+
+533
+00:31:46,080 --> 00:31:50,120
+And that's that's
+why if you use any of that, Adam,
+
+534
+00:31:50,720 --> 00:31:54,080
+if you use any of that idiom,
+then only you have to pay this price.
+
+535
+00:31:54,240 --> 00:31:56,280
+Otherwise you don't have to pay this price
+
+536
+00:31:57,320 --> 00:31:58,400
+got replaced.
+
+537
+00:31:58,400 --> 00:32:00,640
+How We
+generally get the money from the Indian.
+
+538
+00:32:01,200 --> 00:32:05,840
+So now, now here,
+the one who is sending the request,
+
+539
+00:32:05,840 --> 00:32:07,280
+who is taking the response,
+
+540
+00:32:07,280 --> 00:32:11,040
+communicating with all the banks
+that were with federal Bank, everything.
+
+541
+00:32:11,040 --> 00:32:11,640
+Right?
+
+542
+00:32:11,800 --> 00:32:15,280
+Maybe other database of Bank of America
+is available in New York
+
+543
+00:32:15,720 --> 00:32:19,480
+and maybe the database of Chase Bank
+is available in Washington, DC
+
+544
+00:32:19,800 --> 00:32:22,960
+and maybe this federal bank
+centralized is robbery is available.
+
+545
+00:32:22,960 --> 00:32:25,520
+Maybe it's the Chicago, Illinois. Right.
+
+546
+00:32:25,720 --> 00:32:29,400
+And the guy is trying to get this money
+from to California.
+
+547
+00:32:29,600 --> 00:32:30,200
+Right.
+
+548
+00:32:30,280 --> 00:32:33,240
+So one is in Pacific, one is in Eastern
+
+549
+00:32:33,240 --> 00:32:36,360
+Time, one is in Central Bank.
+
+550
+00:32:36,360 --> 00:32:37,560
+All over the U.S.
+
+551
+00:32:37,560 --> 00:32:40,160
+things are distributed everywhere.
+
+552
+00:32:40,480 --> 00:32:43,200
+But then who is going to connect
+all these things together?
+
+553
+00:32:43,760 --> 00:32:45,080
+Who is sending this request?
+
+554
+00:32:45,080 --> 00:32:46,640
+Who is picking the response?
+
+555
+00:32:46,640 --> 00:32:48,080
+Everything. Who is doing
+
+556
+00:32:50,800 --> 00:32:51,520
+behind
+
+557
+00:32:52,560 --> 00:32:54,520
+FBI connect all this?
+
+558
+00:32:54,520 --> 00:32:57,520
+This comes together
+to make of one ecosystem,
+
+559
+00:32:58,080 --> 00:33:00,640
+to make one ecosystem.
+
+560
+00:33:00,640 --> 00:33:01,560
+All right.
+
+561
+00:33:01,880 --> 00:33:04,840
+Now, tell me since how long
+you have been using this services,
+
+562
+00:33:05,120 --> 00:33:16,120
+Indian services, long thing
+
+563
+00:33:17,560 --> 00:33:20,160
+since how many years
+when you have been using this?
+
+564
+00:33:20,560 --> 00:33:28,080
+18, maybe five, six, seven, eight,
+nine years, 18 years.
+
+565
+00:33:28,360 --> 00:33:30,280
+Right. It might be possible.
+
+566
+00:33:30,280 --> 00:33:34,280
+1983.
+
+567
+00:33:34,280 --> 00:33:35,800
+Like similar.
+
+568
+00:33:36,360 --> 00:33:38,720
+You are older than this planning.
+
+569
+00:33:38,720 --> 00:33:44,240
+Excellent.
+
+570
+00:33:44,240 --> 00:33:45,000
+All right.
+
+571
+00:33:45,000 --> 00:33:48,160
+So, see, we have been using this database
+
+572
+00:33:48,200 --> 00:33:51,240
+in so long,
+but we never knew that we're using API.
+
+573
+00:33:52,440 --> 00:33:56,280
+We are utilizing API visit
+
+574
+00:33:56,760 --> 00:33:58,000
+industrial, this example,
+
+575
+00:33:58,000 --> 00:34:09,440
+every one.
+
+576
+00:34:09,440 --> 00:34:12,920
+So for any confusion in describing
+what API means,
+
+577
+00:34:13,040 --> 00:34:24,200
+how we works.
+
+578
+00:34:24,200 --> 00:34:24,760
+Right.
+
+579
+00:34:24,760 --> 00:34:28,720
+So the first example, the first example
+which I gave you
+
+580
+00:34:28,960 --> 00:34:32,400
+was a completely non-technical example.
+
+581
+00:34:32,400 --> 00:34:34,000
+I took probably a length
+
+582
+00:34:36,600 --> 00:34:38,040
+and then the next example
+
+583
+00:34:38,040 --> 00:34:42,160
+which I give you, it is a little bit
+technical, little bit technical.
+
+584
+00:34:42,600 --> 00:34:46,120
+Right now the title exemple,
+which I'm going to give you
+
+585
+00:34:46,320 --> 00:34:48,840
+is more technical in More Easy,
+
+586
+00:34:49,240 --> 00:34:51,320
+which we use every now and then.
+
+587
+00:34:52,240 --> 00:34:58,160
+We use every now and then.
+
+588
+00:34:58,160 --> 00:34:58,720
+Right?
+
+589
+00:34:58,720 --> 00:35:05,160
+So let's go ahead and take that exam.
+
+590
+00:35:05,160 --> 00:35:18,920
+Zima Something came for you
+in the chat. Oh,
+
+591
+00:35:20,520 --> 00:35:22,000
+by the way, there is liquidity.
+
+592
+00:35:22,000 --> 00:35:25,360
+One thing we have an option
+where you can text first with your
+
+593
+00:35:26,760 --> 00:35:29,400
+in case in case if you need
+
+594
+00:35:29,760 --> 00:35:33,240
+we have that option.
+
+595
+00:35:33,240 --> 00:35:35,840
+Just it
+
+596
+00:35:37,160 --> 00:35:38,000
+it's for me.
+
+597
+00:35:38,000 --> 00:35:41,400
+Thank you so much matter.
+
+598
+00:35:41,400 --> 00:35:45,200
+So now see I'm going to open right
+one particular
+
+599
+00:35:46,560 --> 00:35:49,880
+application.
+
+600
+00:35:49,880 --> 00:35:51,960
+Let the journey begin.
+
+601
+00:35:53,040 --> 00:35:54,840
+Skyscanner don't go.
+
+602
+00:35:54,840 --> 00:35:56,880
+Not in the right.
+
+603
+00:35:58,320 --> 00:35:58,880
+What is this?
+
+604
+00:35:58,880 --> 00:36:01,160
+Days Skyscanner
+
+605
+00:36:14,320 --> 00:36:16,440
+great website, the book tickets, the link
+
+606
+00:36:17,600 --> 00:36:18,960
+basically.
+
+607
+00:36:19,040 --> 00:36:22,800
+So for example, if you want to book hotel
+for your upcoming vacation
+
+608
+00:36:22,800 --> 00:36:26,520
+in Santorini Island, Greece,
+you can go here, put your best in
+
+609
+00:36:27,480 --> 00:36:28,960
+if you want to book a tickets.
+
+610
+00:36:28,960 --> 00:36:31,320
+If your visit to India, come and meet.
+
+611
+00:36:31,920 --> 00:36:34,400
+I'm available right.
+
+612
+00:36:34,400 --> 00:36:38,280
+So you book tickets from here.
+
+613
+00:36:38,280 --> 00:36:41,080
+If you want to hire something
+in any other country
+
+614
+00:36:41,080 --> 00:36:43,320
+where you're traveling,
+great for vacation,
+
+615
+00:36:43,640 --> 00:36:47,320
+you can simply
+you can simply hire those car services.
+
+616
+00:36:47,320 --> 00:36:50,320
+Also from you know nice.
+
+617
+00:36:50,560 --> 00:36:51,520
+Makes them bank for sure.
+
+618
+00:36:51,520 --> 00:36:54,600
+No, just give me a heads up in advance
+before two weeks
+
+619
+00:36:54,600 --> 00:36:56,840
+and to be able to make some
+
+620
+00:37:01,200 --> 00:37:02,240
+Katrina
+
+621
+00:37:02,640 --> 00:37:09,240
+Internet.
+
+622
+00:37:09,240 --> 00:37:10,200
+Is it
+
+623
+00:37:16,760 --> 00:37:17,520
+when is going
+
+624
+00:37:17,520 --> 00:37:27,960
+to be committed?
+
+625
+00:37:27,960 --> 00:37:28,440
+So you need
+
+626
+00:37:41,880 --> 00:37:43,680
+how would I handle
+
+627
+00:37:45,800 --> 00:37:49,480
+why they're trying to ruinously
+
+628
+00:37:56,920 --> 00:37:59,640
+I already have 21 trainings in pipeline.
+
+629
+00:37:59,640 --> 00:38:28,120
+How can I make such a decision?
+
+630
+00:38:28,120 --> 00:38:29,280
+My plans can wait.
+
+631
+00:38:29,280 --> 00:38:31,760
+No, someone else will take this.
+
+632
+00:38:31,760 --> 00:38:32,720
+Basically
+
+633
+00:38:33,360 --> 00:38:35,280
+it conflict
+
+634
+00:38:41,240 --> 00:38:42,400
+work is a priority.
+
+635
+00:38:42,400 --> 00:38:46,080
+It simply does reality.
+
+636
+00:38:46,080 --> 00:38:48,720
+As long as you're working
+people just think
+
+637
+00:38:49,720 --> 00:38:53,440
+as long as you're delivering
+according to their requirements
+
+638
+00:38:53,440 --> 00:38:56,760
+of their requirement,
+they reach on you, talk to you.
+
+639
+00:38:56,760 --> 00:38:58,000
+That is you.
+
+640
+00:38:58,000 --> 00:39:00,080
+They give you money,
+they give you everything,
+
+641
+00:39:00,080 --> 00:39:01,640
+they give you your their time is.
+
+642
+00:39:01,640 --> 00:39:05,560
+But the moment you stop doing all of this
+things and you focus on the person,
+
+643
+00:39:05,560 --> 00:39:07,080
+they would forget.
+
+644
+00:39:07,080 --> 00:39:11,120
+They would forget for sure, Right?
+
+645
+00:39:11,400 --> 00:39:15,320
+The one rule that applies to
+this one is the rule of exchange.
+
+646
+00:39:16,160 --> 00:39:18,520
+You give you knowledge,
+you give your time,
+
+647
+00:39:18,840 --> 00:39:22,280
+and then they give you respect.
+
+648
+00:39:22,280 --> 00:39:23,480
+It is nothing great.
+
+649
+00:39:23,480 --> 00:39:28,880
+Giving selflessly to the community
+doesn't exist anymore.
+
+650
+00:39:29,520 --> 00:39:35,400
+It's simply to it.
+
+651
+00:39:35,400 --> 00:39:38,160
+No, I'm talking about in general,
+everywhere you go,
+
+652
+00:39:38,440 --> 00:39:42,080
+whether it is a business
+or it is any of that thing, everywhere
+
+653
+00:39:42,080 --> 00:39:48,080
+you go, right, it happens, right?
+
+654
+00:39:49,080 --> 00:39:51,040
+So it's it's better to
+
+655
+00:39:51,040 --> 00:39:55,240
+accept what it is and how we have.
+
+656
+00:39:55,240 --> 00:39:59,280
+So that that's
+why you have to be very nice, right?
+
+657
+00:40:00,360 --> 00:40:03,080
+You have to have more
+
+658
+00:40:03,080 --> 00:40:04,440
+knowledge like an export.
+
+659
+00:40:04,440 --> 00:40:08,480
+So when you open your mouth,
+you build people who you are busy.
+
+660
+00:40:08,480 --> 00:40:08,880
+Good.
+
+661
+00:40:09,760 --> 00:40:13,200
+So make sure
+whenever you just enter into the room,
+
+662
+00:40:13,200 --> 00:40:15,720
+you just light up being dead
+or with your presence.
+
+663
+00:40:15,880 --> 00:40:18,880
+That kind of knowledge,
+that kind of confidence must not educate.
+
+664
+00:40:19,240 --> 00:40:21,800
+You should get it actually right.
+
+665
+00:40:21,800 --> 00:40:24,720
+So that's where I'm focusing on is right.
+
+666
+00:40:25,080 --> 00:40:27,960
+The one you're talking about
+is not a big deal.
+
+667
+00:40:28,320 --> 00:40:30,960
+If I decide in the morning,
+in the afternoon, you didn't get a news
+
+668
+00:40:32,040 --> 00:40:34,440
+credit, that sort of big deal.
+
+669
+00:40:35,000 --> 00:40:37,040
+This is something we can do
+at any point of time.
+
+670
+00:40:37,080 --> 00:40:38,400
+Everyone is doing this.
+
+671
+00:40:38,400 --> 00:40:41,240
+But what I am doing,
+everyone cannot do it right.
+
+672
+00:40:41,520 --> 00:40:43,800
+So do the provision
+that everyone can not do.
+
+673
+00:40:43,800 --> 00:40:46,680
+And then automatically
+you will get more respect,
+
+674
+00:40:46,840 --> 00:40:51,360
+more valued.
+
+675
+00:40:51,360 --> 00:40:58,560
+Fine.
+
+676
+00:40:58,560 --> 00:41:00,080
+That that's what I'm betting you learn.
+
+677
+00:41:00,080 --> 00:41:03,160
+More commission engineers are available
+in the market right?
+
+678
+00:41:03,160 --> 00:41:06,320
+But once you start betting,
+they prevent in such a way
+
+679
+00:41:06,360 --> 00:41:09,760
+prepared yourself in such a weak
+field knowledge in such a way
+
+680
+00:41:10,000 --> 00:41:14,520
+that you can tell this right when making
+I wanted to your recruiter like this.
+
+681
+00:41:14,520 --> 00:41:17,680
+Okay go ahead find all the people
+
+682
+00:41:18,160 --> 00:41:20,720
+find the screen
+all other candidates in the US.
+
+683
+00:41:20,960 --> 00:41:24,400
+If you find someone like me
+hired him otherwise come in
+
+684
+00:41:26,040 --> 00:41:29,040
+like this kind of attitude you should get.
+
+685
+00:41:29,040 --> 00:41:32,520
+And believe me, the moment you get it,
+this type of attitude and the way
+
+686
+00:41:32,680 --> 00:41:36,600
+you give your interview with this
+attitude, they will not going anywhere.
+
+687
+00:41:36,680 --> 00:41:37,920
+They will come to you.
+
+688
+00:41:37,920 --> 00:41:41,520
+They will hire you or sure,
+because everyone needs exception.
+
+689
+00:41:41,520 --> 00:41:47,200
+And that is the industry.
+
+690
+00:41:47,200 --> 00:41:50,360
+They know her.
+
+691
+00:41:50,400 --> 00:41:52,240
+What is like that?
+
+692
+00:41:52,640 --> 00:41:53,800
+Try this.
+
+693
+00:41:53,800 --> 00:41:56,600
+Try this in books.
+
+694
+00:41:57,000 --> 00:42:00,120
+But you don't have to do this first.
+
+695
+00:42:00,120 --> 00:42:02,720
+Explain that
+explaining your knowledge in everything.
+
+696
+00:42:02,880 --> 00:42:06,000
+Otherwise you say, Hey,
+you will never find someone like me.
+
+697
+00:42:06,000 --> 00:42:08,040
+And he said, All right,
+what is an Indian web driver?
+
+698
+00:42:08,400 --> 00:42:11,720
+And you said Then he said, Yes,
+I will never find a person like you
+
+699
+00:42:12,920 --> 00:42:13,520
+to do it.
+
+700
+00:42:13,520 --> 00:42:19,680
+Okay?
+
+701
+00:42:19,680 --> 00:42:23,560
+Because you're completing something else
+and you're delivering something else,
+
+702
+00:42:23,560 --> 00:42:24,680
+sufficient or not, but
+
+703
+00:42:27,480 --> 00:42:30,000
+correct.
+
+704
+00:42:30,000 --> 00:42:34,520
+Now, let's come to the point again
+when you guys got some of the best wing,
+
+705
+00:42:35,520 --> 00:42:36,760
+but it's not a base work.
+
+706
+00:42:36,760 --> 00:42:39,120
+Some news I wasn't aware
+that is going to get engaged.
+
+707
+00:42:39,120 --> 00:42:41,320
+Congratulations to the brother.
+
+708
+00:42:41,320 --> 00:42:42,840
+Why you one
+
+709
+00:42:53,440 --> 00:42:56,520
+why So now
+
+710
+00:42:57,840 --> 00:43:00,000
+what I'm going to do here is
+
+711
+00:43:00,000 --> 00:43:08,760
+I am going to book a ticket.
+
+712
+00:43:08,760 --> 00:43:11,920
+I'm going to book a ticket from
+
+713
+00:43:12,680 --> 00:43:14,640
+New York to Mumbai.
+
+714
+00:43:14,640 --> 00:43:16,960
+Right. From New York to Melbourne.
+
+715
+00:43:16,960 --> 00:43:18,680
+I'm going to book
+
+716
+00:43:20,160 --> 00:43:22,560
+now see what happens
+
+717
+00:43:22,640 --> 00:43:27,840
+all 141,000 160,000.
+
+718
+00:43:28,320 --> 00:43:29,160
+Amazing.
+
+719
+00:43:29,160 --> 00:43:42,640
+Happy 705.
+
+720
+00:43:42,640 --> 00:43:44,320
+It's Indian Guernsey.
+
+721
+00:43:44,320 --> 00:43:45,280
+It will be
+
+722
+00:43:50,880 --> 00:43:53,880
+all over, Mother.
+
+723
+00:43:53,880 --> 00:43:56,480
+It's expensive.
+
+724
+00:43:56,480 --> 00:43:58,720
+Genocide, kind of.
+
+725
+00:43:58,720 --> 00:44:00,280
+Oh, it is.
+
+726
+00:44:00,280 --> 00:44:02,880
+You can consider
+
+727
+00:44:05,760 --> 00:44:07,920
+almost 2000,
+
+728
+00:44:08,440 --> 00:44:20,520
+almost 2000 books.
+
+729
+00:44:20,520 --> 00:44:21,080
+Right.
+
+730
+00:44:22,760 --> 00:44:25,960
+So now, now you see what is happening
+
+731
+00:44:26,640 --> 00:44:29,160
+when I start to Skyscanner that hey,
+Skyscanner
+
+732
+00:44:29,960 --> 00:44:32,520
+go great go here.
+
+733
+00:44:32,920 --> 00:44:35,200
+And once you go to this particular place,
+
+734
+00:44:35,680 --> 00:44:38,280
+find me, find a particular one,
+
+735
+00:44:39,200 --> 00:44:41,280
+Find me a particular flight
+
+736
+00:44:41,520 --> 00:44:44,320
+from Mumbai, New York to Mumbai.
+
+737
+00:44:45,160 --> 00:44:46,960
+Great.
+
+738
+00:44:46,960 --> 00:44:50,160
+New York, Dubai, cutting.
+
+739
+00:44:50,160 --> 00:44:54,920
+So what it does, what it did,
+basically it gave me multiple options.
+
+740
+00:44:55,320 --> 00:45:02,160
+See, Skyscanner
+says, okay, we have got the
+
+741
+00:45:04,560 --> 00:45:08,360
+we have United Airlines,
+
+742
+00:45:08,360 --> 00:45:12,760
+we have British Airways,
+
+743
+00:45:12,760 --> 00:45:17,160
+we have Etihad, we have India.
+
+744
+00:45:18,360 --> 00:45:20,960
+I'm just taking this plane
+
+745
+00:45:21,840 --> 00:45:26,880
+now. No, Nicole,
+
+746
+00:45:26,880 --> 00:45:28,760
+I will send your ticket.
+
+747
+00:45:29,920 --> 00:45:32,440
+I will send it.
+
+748
+00:45:32,440 --> 00:45:33,160
+Fine.
+
+749
+00:45:33,840 --> 00:45:36,320
+So now, see, Skyscanner
+
+750
+00:45:36,600 --> 00:45:39,600
+gave you five different rate.
+
+751
+00:45:39,760 --> 00:45:44,400
+Skyscanner gave you five different
+airline details for your search.
+
+752
+00:45:45,760 --> 00:45:48,120
+Now, for us, it is very easy.
+
+753
+00:45:48,120 --> 00:45:53,240
+They tell me one thing, Ari,
+connecting directly with Qatar Airlines,
+
+754
+00:45:53,240 --> 00:45:56,200
+United Airlines, British Airways,
+the dehydrated
+
+755
+00:45:57,600 --> 00:46:00,200
+out of interacting with them. No.
+
+756
+00:46:00,800 --> 00:46:03,400
+But can we see their flight schedule
+
+757
+00:46:03,400 --> 00:46:06,280
+from Mumbai to from New York to Mumbai?
+
+758
+00:46:06,280 --> 00:46:07,840
+We can see that
+
+759
+00:46:08,280 --> 00:46:09,360
+right now.
+
+760
+00:46:09,360 --> 00:46:14,160
+Just consider here in one place,
+take one destination.
+
+761
+00:46:14,160 --> 00:46:17,600
+You're getting all these options right
+with just one request.
+
+762
+00:46:18,840 --> 00:46:23,800
+How difficult would it be
+if we had to interact with Amy
+
+763
+00:46:23,880 --> 00:46:26,040
+with every other airlines?
+
+764
+00:46:26,360 --> 00:46:28,200
+We have to go to their website.
+
+765
+00:46:28,200 --> 00:46:32,160
+We have to invest their data,
+we have to get the information,
+
+766
+00:46:32,440 --> 00:46:35,440
+and then we have to compare the prices
+manually.
+
+767
+00:46:36,080 --> 00:46:36,720
+We have to check.
+
+768
+00:46:36,720 --> 00:46:40,560
+Okay, despite this point of time
+and having this much of money.
+
+769
+00:46:40,760 --> 00:46:44,000
+So I should go with this
+or when all this thing
+
+770
+00:46:44,000 --> 00:46:47,280
+now is doing by one particular part, go
+
+771
+00:46:49,040 --> 00:46:50,640
+Skyscanner.
+
+772
+00:46:51,240 --> 00:46:54,040
+So Skyscanner is taking care
+of all those things,
+
+773
+00:46:55,640 --> 00:47:01,200
+correct.
+
+774
+00:47:01,200 --> 00:47:04,600
+But in reality, Skyscanner
+
+775
+00:47:04,600 --> 00:47:09,080
+is not an airline,
+
+776
+00:47:09,080 --> 00:47:16,160
+which is Skyscanner is not an airline.
+
+777
+00:47:16,800 --> 00:47:19,360
+Then how is it possible that
+
+778
+00:47:19,360 --> 00:47:22,640
+Skyscanner is giving you the details
+of all these elements?
+
+779
+00:47:23,160 --> 00:47:23,800
+Right.
+
+780
+00:47:23,800 --> 00:47:26,760
+So now let's understand this hierarchy,
+
+781
+00:47:26,960 --> 00:47:36,280
+how things work in the banking sea.
+
+782
+00:47:36,280 --> 00:47:40,840
+You are sitting on your computer,
+you make a request, right?
+
+783
+00:47:41,280 --> 00:47:43,640
+You search for here
+
+784
+00:47:43,640 --> 00:47:46,520
+new your book movie.
+
+785
+00:47:46,520 --> 00:47:48,960
+That request went to Skyscanner.
+
+786
+00:47:48,960 --> 00:47:50,960
+The request went to Skyscanner.
+
+787
+00:47:50,960 --> 00:47:55,160
+Right now again, databases
+very important data is very important.
+
+788
+00:47:55,560 --> 00:47:56,400
+Correct.
+
+789
+00:47:56,400 --> 00:47:59,880
+So here Qatar Airways has its own database
+
+790
+00:48:00,680 --> 00:48:03,360
+data is its own database.
+
+791
+00:48:03,360 --> 00:48:07,600
+If Etihad has its own database,
+British Airways is exported, Right.
+
+792
+00:48:08,160 --> 00:48:13,760
+Skyscanner sends this request
+to databases, to all their databases.
+
+793
+00:48:13,760 --> 00:48:17,160
+These databases are available
+at different places.
+
+794
+00:48:17,560 --> 00:48:19,600
+Different places. Right.
+
+795
+00:48:19,600 --> 00:48:22,240
+This this Qatar Airways is
+
+796
+00:48:22,240 --> 00:48:25,160
+they these Etihad cities and British this.
+
+797
+00:48:25,240 --> 00:48:26,280
+All right.
+
+798
+00:48:26,520 --> 00:48:32,240
+We cannot share our database with you.
+
+799
+00:48:32,240 --> 00:48:35,160
+We cannot share our information with you.
+
+800
+00:48:35,800 --> 00:48:38,120
+The only thing you need,
+
+801
+00:48:38,360 --> 00:48:42,040
+the only thing you need,
+you will be able to take that.
+
+802
+00:48:42,480 --> 00:48:47,400
+How When I search for New York,
+the Mumbai isn't giving me any option
+
+803
+00:48:47,400 --> 00:48:53,720
+for release to London. No,
+
+804
+00:48:54,720 --> 00:48:57,480
+but do you think that is a disaster?
+
+805
+00:48:57,920 --> 00:49:00,080
+Etihad Airways do not.
+
+806
+00:49:00,120 --> 00:49:01,920
+And this British Airways
+
+807
+00:49:01,920 --> 00:49:05,480
+has only flights from New York
+to one with just one flight.
+
+808
+00:49:05,960 --> 00:49:10,680
+No, they are having hundreds of flights,
+thousands of flights all over the world.
+
+809
+00:49:11,120 --> 00:49:11,600
+Right.
+
+810
+00:49:11,600 --> 00:49:14,600
+But it is giving us segregated options.
+
+811
+00:49:15,000 --> 00:49:17,760
+Three third options, the options we need.
+
+812
+00:49:18,240 --> 00:49:19,720
+It means do advantages.
+
+813
+00:49:19,720 --> 00:49:24,360
+First, we are getting very sorted, things
+we don't have to be bothered about.
+
+814
+00:49:24,360 --> 00:49:26,840
+Okay,
+which one is from New York to Mumbai?
+
+815
+00:49:27,160 --> 00:49:29,560
+We don't have to worry about it,
+but It's very simple.
+
+816
+00:49:30,040 --> 00:49:35,000
+Second thing,
+these airlines are very reliable buy
+
+817
+00:49:35,080 --> 00:49:38,840
+because now they are shedding
+just one piece of information,
+
+818
+00:49:38,840 --> 00:49:42,000
+just one chunk of information
+or the complete information
+
+819
+00:49:42,000 --> 00:49:45,360
+from their database.
+
+820
+00:49:45,360 --> 00:49:46,000
+Right.
+
+821
+00:49:46,000 --> 00:49:49,520
+They are having the details of thousands
+of flights, but at the same time,
+
+822
+00:49:49,520 --> 00:49:51,480
+they are not providing
+all thousands of flights.
+
+823
+00:49:51,480 --> 00:49:54,480
+They're providing you
+just one flight detail
+
+824
+00:49:54,640 --> 00:49:57,880
+that you are expecting them
+to provide cutting.
+
+825
+00:49:58,480 --> 00:50:03,320
+So now Skyscanner
+how they are protecting their database.
+
+826
+00:50:03,360 --> 00:50:06,720
+Cadbury de pigeons in British Airways
+at this point of time,
+
+827
+00:50:07,120 --> 00:50:10,600
+they simply provide access via API.
+
+828
+00:50:11,240 --> 00:50:13,160
+They said we have made what
+
+829
+00:50:14,640 --> 00:50:15,880
+is Skyscanner.
+
+830
+00:50:15,880 --> 00:50:21,480
+If you need to read the information about
+the flights, use this particular API.
+
+831
+00:50:21,880 --> 00:50:25,480
+In this API, just the parameters unique.
+
+832
+00:50:25,720 --> 00:50:28,640
+For example, Mumbai
+to New York or for example
+
+833
+00:50:28,640 --> 00:50:32,880
+New York, London by example,
+the New Delhi, whatever the flight
+
+834
+00:50:32,880 --> 00:50:36,600
+you need,
+just provide those parameters in your API
+
+835
+00:50:36,920 --> 00:50:41,760
+and then we will give you the information
+about that particular location
+
+836
+00:50:42,000 --> 00:50:45,600
+and how many flights we have,
+what is the seed status
+
+837
+00:50:45,640 --> 00:50:49,720
+we have and every single thing
+about this particular park, right?
+
+838
+00:50:49,920 --> 00:50:53,360
+So it means sharing the small chunk
+of information
+
+839
+00:50:53,520 --> 00:50:57,280
+from the database can have fun,
+can be done by an API.
+
+840
+00:50:57,600 --> 00:50:59,560
+That's what Skyscanner is doing.
+
+841
+00:50:59,560 --> 00:51:03,240
+So now, now your flights trade,
+your flight tickets
+
+842
+00:51:03,240 --> 00:51:04,560
+may be available, right?
+
+843
+00:51:04,560 --> 00:51:08,800
+If someone else press some constraints
+here, then you book it via Skyscanner.
+
+844
+00:51:09,000 --> 00:51:13,160
+It charges convenience fee.
+
+845
+00:51:13,160 --> 00:51:16,240
+If you observe it, rules
+it, charge convenience fee,
+
+846
+00:51:17,080 --> 00:51:19,160
+Skyscanner every other website.
+
+847
+00:51:19,360 --> 00:51:20,080
+Right.
+
+848
+00:51:20,080 --> 00:51:22,640
+If you go here, for example,
+people try to book this ticket
+
+849
+00:52:23,440 --> 00:52:23,920
+all year.
+
+850
+00:52:23,920 --> 00:52:26,480
+Why did you look in the last adult show
+you right
+
+851
+00:52:27,040 --> 00:52:29,520
+with this price they will add some charge
+
+852
+00:52:29,760 --> 00:52:33,400
+they will add some charge, what we call it
+convenience fee rate.
+
+853
+00:52:33,760 --> 00:52:34,960
+Convenience fee.
+
+854
+00:52:34,960 --> 00:52:40,080
+So how how this part is this Skyscanner
+is making money via this particular one.
+
+855
+00:52:40,760 --> 00:52:43,680
+It basically provides
+you all this guidance.
+
+856
+00:52:43,960 --> 00:52:44,640
+Right.
+
+857
+00:52:44,680 --> 00:52:47,280
+And when you're making that request
+
+858
+00:52:47,280 --> 00:52:51,360
+at the time of checkout,
+at the time of making a payment from here,
+
+859
+00:52:51,600 --> 00:52:55,720
+right from here,
+it will charge some amount, for example,
+
+860
+00:52:56,320 --> 00:52:59,640
+of $10 or $15 or $20.
+
+861
+00:52:59,640 --> 00:53:01,680
+Maybe the digital will be all right.
+
+862
+00:53:02,040 --> 00:53:04,760
+So now now just imagine
+
+863
+00:53:04,760 --> 00:53:06,840
+airlines are getting their own money.
+
+864
+00:53:07,640 --> 00:53:09,440
+Right. And what do you think?
+
+865
+00:53:09,440 --> 00:53:13,760
+How many people use this Skyscanner
+or this type of websites day?
+
+866
+00:53:13,920 --> 00:53:17,000
+How many people use
+them throughout the world?
+
+867
+00:53:18,080 --> 00:53:19,040
+Too many.
+
+868
+00:53:19,120 --> 00:53:22,360
+Let's consider one.
+
+869
+00:53:22,360 --> 00:53:25,160
+We have almost homeless
+people on the planet,
+
+870
+00:53:25,400 --> 00:53:28,280
+almost 700 millions, right?
+
+871
+00:53:29,000 --> 00:53:30,440
+Almost 7 billion people.
+
+872
+00:53:30,440 --> 00:53:34,880
+We just consider .07 percent.
+
+873
+00:53:34,960 --> 00:53:39,520
+It is 1 million that 1 million users
+are making the request.
+
+874
+00:53:39,520 --> 00:53:39,800
+Right.
+
+875
+00:53:39,800 --> 00:53:43,560
+And they are made making their bookings
+by Skyscanner everyday.
+
+876
+00:53:44,640 --> 00:53:46,720
+No, Skyscanner is not doing anything.
+
+877
+00:53:46,920 --> 00:53:48,960
+It doesn't have any database.
+
+878
+00:53:48,960 --> 00:53:50,600
+It holds the information.
+
+879
+00:53:50,600 --> 00:53:54,400
+It fetches the information from several
+places and gives you that information.
+
+880
+00:53:54,400 --> 00:53:54,960
+Right.
+
+881
+00:53:55,040 --> 00:53:58,400
+So 1 million requests, if they charge just
+
+882
+00:53:58,720 --> 00:54:01,320
+ten bucks for every request and we see
+
+883
+00:54:02,920 --> 00:54:05,400
+how they're making a big
+
+884
+00:54:11,760 --> 00:54:15,120
+next business,
+
+885
+00:54:15,120 --> 00:54:17,800
+that's the business API has, right.
+
+886
+00:54:18,440 --> 00:54:21,000
+And that's
+why nowadays you'll see is my dream.
+
+887
+00:54:21,360 --> 00:54:23,960
+Make my dream easy.
+
+888
+00:54:23,960 --> 00:54:28,200
+Go and Skyscanner and so many other
+so many other
+
+889
+00:54:28,720 --> 00:54:32,720
+players are available in the market and
+they are providing a lot of facilities.
+
+890
+00:54:32,720 --> 00:54:34,080
+Expedia right.
+
+891
+00:54:34,080 --> 00:54:36,480
+And this one we call it
+
+892
+00:54:39,600 --> 00:54:40,520
+which one?
+
+893
+00:54:40,520 --> 00:54:43,520
+My area book this part hotels
+
+894
+00:54:43,520 --> 00:54:45,720
+or textbook Booking.com.
+
+895
+00:54:46,160 --> 00:54:46,920
+Right.
+
+896
+00:54:46,920 --> 00:54:50,400
+So so many so many websites are available
+in the market.
+
+897
+00:54:50,680 --> 00:54:54,080
+They generally provide
+this type of vassiliadis.
+
+898
+00:54:54,240 --> 00:54:54,880
+Right.
+
+899
+00:54:54,880 --> 00:54:58,960
+So they connect with the Airbnb right
+Airbnb connect.
+
+900
+00:54:59,280 --> 00:55:04,360
+So these these websites basically connect
+with hotels, connect
+
+901
+00:55:04,360 --> 00:55:09,560
+with of greens, connect
+with card renters, connects with airlines.
+
+902
+00:55:09,560 --> 00:55:10,160
+Right.
+
+903
+00:55:10,160 --> 00:55:13,280
+So now at one place
+you can book your hotel, so you can book
+
+904
+00:55:13,280 --> 00:55:16,920
+your cars, you can books your trains and
+you get booking flights and everything.
+
+905
+00:55:17,320 --> 00:55:20,520
+So it's not only about the facilities
+that they provide,
+
+906
+00:55:20,800 --> 00:55:23,560
+it's about the money
+also that they are making.
+
+907
+00:55:23,560 --> 00:55:28,280
+Because if a customer comes to their
+website, customer comes to their website,
+
+908
+00:55:28,600 --> 00:55:32,560
+their rate, this customer can booked
+every single thing.
+
+909
+00:55:32,560 --> 00:55:35,880
+So now this customer doesn't
+have to go to any other people
+
+910
+00:55:36,200 --> 00:55:38,400
+just when using one paid
+
+911
+00:55:38,880 --> 00:55:41,320
+customer can leverage every single thing,
+
+912
+00:55:41,760 --> 00:55:49,360
+every single industry.
+
+913
+00:55:49,360 --> 00:55:54,000
+Now if you're making a flight tickets
+flying, right, they charge $10
+
+914
+00:55:54,000 --> 00:55:59,480
+each site, $20 for your roundtrip profit
+and giving you a nominal charge.
+
+915
+00:55:59,480 --> 00:56:03,480
+It could be more because you're making
+a booking for $2,000.
+
+916
+00:56:03,480 --> 00:56:03,920
+Definitely.
+
+917
+00:56:03,920 --> 00:56:09,240
+They charge 25, $30 minimum,
+then hotel booking again, convenience
+
+918
+00:56:10,080 --> 00:56:13,600
+card rentals,
+an inconvenient fee from one particular
+
+919
+00:56:14,880 --> 00:56:15,600
+customer.
+
+920
+00:56:15,600 --> 00:56:18,600
+They can make 30 to $40
+just to understand.
+
+921
+00:56:18,600 --> 00:56:24,840
+Now it happens 365 days, 24 seven
+every single.
+
+922
+00:56:24,840 --> 00:56:29,640
+Their job is to make sure that their data
+is coming directly and people are able
+
+923
+00:56:29,640 --> 00:56:33,600
+to book their tickets, whatever
+they want to book, then it will double.
+
+924
+00:56:33,600 --> 00:56:37,480
+The only thing is management.
+
+925
+00:56:37,480 --> 00:56:41,080
+They are just managing their servers,
+they are just managing their websites.
+
+926
+00:56:41,080 --> 00:56:43,360
+They are providing you the facilities.
+
+927
+00:56:43,360 --> 00:56:46,320
+We go there,
+we provide our data, we provide that
+
+928
+00:56:46,360 --> 00:56:49,080
+email and phone number,
+name and every single thing.
+
+929
+00:56:49,320 --> 00:56:52,440
+And they use this data
+for marketing as well.
+
+930
+00:56:53,520 --> 00:56:56,920
+That's why
+sometimes you get messages from nowhere.
+
+931
+00:56:56,920 --> 00:56:59,880
+They are very happy with intensity
+
+932
+00:57:00,720 --> 00:57:03,000
+level with your loved ones.
+
+933
+00:57:03,000 --> 00:57:06,720
+They complete pursuit of use this quote
+on their website and user.
+
+934
+00:57:06,720 --> 00:57:08,080
+I got 50%.
+
+935
+00:57:08,080 --> 00:57:11,280
+You already provided your data
+to the website, right?
+
+936
+00:57:11,520 --> 00:57:12,000
+That's why
+
+937
+00:57:12,000 --> 00:57:15,120
+they are giving you this for the marketing
+purpose advertisement kind of stuff.
+
+938
+00:57:15,440 --> 00:57:18,800
+So if they have reply flights
+available, right, there is no
+
+939
+00:57:19,120 --> 00:57:23,320
+there are no people in the plane
+and they're giving you 50% discount rate.
+
+940
+00:57:23,640 --> 00:57:26,640
+Even if people booking that,
+it will to make money.
+
+941
+00:57:27,120 --> 00:57:29,280
+They're making money now from this. Right.
+
+942
+00:57:29,520 --> 00:57:31,440
+So there's some eBay books
+
+943
+00:57:34,320 --> 00:57:35,160
+connecting with
+
+944
+00:57:35,160 --> 00:57:38,960
+multiple databases of multiple airlines,
+making the relevant
+
+945
+00:57:38,960 --> 00:57:42,600
+information, providing it to your system,
+to the request.
+
+946
+00:57:42,600 --> 00:57:43,360
+You have made.
+
+947
+00:57:43,360 --> 00:57:45,720
+It gives you the response
+in return of that.
+
+948
+00:57:45,880 --> 00:57:49,120
+And then you start to your book,
+their tickets, their tickets, books.
+
+949
+00:57:49,120 --> 00:57:50,640
+By making a payment,
+
+950
+00:57:50,640 --> 00:57:54,800
+it connects you to Internet
+banking or via card to bank server.
+
+951
+00:57:55,000 --> 00:57:57,400
+From there you get confirmation.
+
+952
+00:57:57,520 --> 00:58:01,560
+So that is also eBay.com booking
+their tickets, getting them permission,
+
+953
+00:58:01,560 --> 00:58:05,600
+and it is also API call booking a hotel,
+get the details of the hotel.
+
+954
+00:58:05,600 --> 00:58:06,880
+There is also API.
+
+955
+00:58:06,880 --> 00:58:10,960
+And so every various API
+that connects multiple systems
+
+956
+00:58:10,960 --> 00:58:15,320
+together, industrial
+
+957
+00:58:23,400 --> 00:58:23,920
+so far
+
+958
+00:58:23,920 --> 00:58:29,360
+so good rate.
+
+959
+00:58:29,360 --> 00:58:33,720
+This is just
+this is just almost half of the class.
+
+960
+00:58:34,320 --> 00:58:39,360
+Tell me any confusion about API
+now you can you see how API is
+
+961
+00:58:39,400 --> 00:58:47,240
+are working in your lives.
+
+962
+00:58:47,240 --> 00:58:52,840
+Is it something regarding you something
+you know it was already there.
+
+963
+00:58:52,840 --> 00:58:53,880
+It was already there.
+
+964
+00:58:53,880 --> 00:58:57,800
+We just we just have to
+look at the look at the things within
+
+965
+00:59:03,040 --> 00:59:09,360
+like so no,
+
+966
+00:59:09,640 --> 00:59:13,080
+no whatever the things. Yes.
+
+967
+00:59:13,720 --> 00:59:17,560
+Getting whatever the things we learned
+so far is first
+
+968
+00:59:18,800 --> 00:59:19,920
+line,
+
+969
+00:59:20,560 --> 00:59:23,560
+second set of
+
+970
+00:59:23,560 --> 00:59:26,760
+code API,
+
+971
+00:59:26,760 --> 00:59:28,960
+The one was client.
+
+972
+00:59:28,960 --> 00:59:31,560
+What he does is sense that request
+
+973
+00:59:32,800 --> 00:59:35,840
+blind is the one who's saying stuff
+request
+
+974
+00:59:36,600 --> 00:59:39,960
+and server is the one who just wants to
+
+975
+00:59:39,960 --> 00:59:43,440
+that request.
+
+976
+00:59:43,440 --> 00:59:48,440
+Server is the one who responds
+to their request API.
+
+977
+00:59:49,240 --> 00:59:53,160
+Big care of transmitting
+this request in response
+
+978
+00:59:53,160 --> 00:59:56,000
+from blind server from server to play
+
+979
+00:59:58,920 --> 01:00:00,360
+in this case.
+
+980
+01:00:00,360 --> 01:00:05,280
+In this case this New York
+we played this and you you are a client.
+
+981
+01:00:05,280 --> 01:00:09,400
+You are sending this request and you get
+the response straight from Skyscanner.
+
+982
+01:00:10,320 --> 01:00:12,760
+These are the claims, right?
+
+983
+01:00:13,000 --> 01:00:15,840
+This is Skyscanner
+is the API who is going to working this
+
+984
+01:00:16,600 --> 01:00:19,560
+process, transmitting the
+information from here in this
+
+985
+01:00:23,720 --> 01:00:25,400
+industrial this everyone,
+
+986
+01:00:25,400 --> 01:00:27,800
+should we proceed further
+
+987
+01:00:37,680 --> 01:00:43,640
+now let's talk about
+
+988
+01:00:45,200 --> 01:00:46,560
+flying
+
+989
+01:00:48,320 --> 01:00:49,760
+server
+
+990
+01:00:52,320 --> 01:00:53,880
+architecture.
+
+991
+01:00:53,880 --> 01:00:56,960
+Mind you,
+
+992
+01:00:57,240 --> 01:01:00,320
+if I go to slides, you'll see
+
+993
+01:01:00,320 --> 01:01:02,120
+it's escapes.
+
+994
+01:01:02,440 --> 01:01:03,480
+This is very bad thing.
+
+995
+01:01:03,480 --> 01:01:05,920
+I never look at those clients.
+
+996
+01:01:05,920 --> 01:01:08,640
+Fine claims server architecture.
+
+997
+01:01:08,640 --> 01:01:13,560
+The first thing, the first thing
+we are going to go with, You see,
+
+998
+01:01:15,200 --> 01:01:19,240
+now, without looking at this picture,
+you can penetrate
+
+999
+01:01:19,240 --> 01:01:21,720
+what is sort of
+what in what is going right.
+
+1000
+01:01:23,120 --> 01:01:26,000
+It gives you one example.
+
+1001
+01:01:26,200 --> 01:01:27,600
+There is a server that connects
+
+1002
+01:01:27,600 --> 01:01:30,600
+with multiple text on it
+
+1003
+01:01:30,600 --> 01:01:38,480
+connects with your laptop,
+it connects with the Internet,
+
+1004
+01:01:38,480 --> 01:01:41,760
+it connects with the printer
+and with so many things, connect
+
+1005
+01:01:44,880 --> 01:01:47,240
+in technical terms I'm talking about.
+
+1006
+01:01:47,240 --> 01:01:52,080
+But the example which we see,
+it is more clear by looking at that.
+
+1007
+01:01:52,080 --> 01:01:53,200
+Now, if you understand,
+
+1008
+01:01:53,200 --> 01:01:56,680
+if you look at this particular one,
+after understanding those examples
+
+1009
+01:01:56,960 --> 01:02:01,200
+now, you'll be able to tell
+what is the server for the server who
+
+1010
+01:02:02,360 --> 01:02:04,120
+responds to the request.
+
+1011
+01:02:04,120 --> 01:02:06,680
+Now, who is going to make the request
+blind?
+
+1012
+01:02:06,960 --> 01:02:08,120
+So which are the client?
+
+1013
+01:02:08,120 --> 01:02:10,440
+You see, four clients are available here.
+
+1014
+01:02:11,120 --> 01:02:13,880
+If you want to print
+something by a server,
+
+1015
+01:02:13,880 --> 01:02:17,160
+you are connected to bring
+that you are connected to a domain, right?
+
+1016
+01:02:17,360 --> 01:02:20,520
+You just send a command it, okay,
+Bring this page and bring that.
+
+1017
+01:02:20,520 --> 01:02:22,160
+It will give you the page.
+
+1018
+01:02:22,160 --> 01:02:27,160
+Connect.
+
+1019
+01:02:27,160 --> 01:02:32,640
+So this is basically a physical server
+rate of 11 point.
+
+1020
+01:02:32,640 --> 01:02:35,720
+Now, this is something
+we need to understand
+
+1021
+01:02:35,760 --> 01:02:38,440
+client server architecture,
+
+1022
+01:02:39,560 --> 01:02:44,280
+blind server architecture,
+one by one will go
+
+1023
+01:02:44,280 --> 01:02:48,360
+and look all the categories of blind
+set of picture.
+
+1024
+01:02:48,720 --> 01:02:53,040
+Okay.
+
+1025
+01:02:53,040 --> 01:02:55,840
+Already case.
+
+1026
+01:02:55,840 --> 01:02:58,920
+So here, here, when we talk about claims
+
+1027
+01:02:58,920 --> 01:03:02,720
+server architecture, we have to make
+sure that we understand one
+
+1028
+01:03:09,240 --> 01:03:10,480
+layers.
+
+1029
+01:03:10,480 --> 01:03:12,680
+What are the layers specifically?
+
+1030
+01:03:12,680 --> 01:03:15,880
+See, we have three layers.
+
+1031
+01:03:16,200 --> 01:03:18,200
+The first is
+
+1032
+01:03:33,200 --> 01:03:35,040
+we have presentation
+
+1033
+01:03:35,040 --> 01:03:38,840
+layer, we have application layer
+
+1034
+01:03:39,920 --> 01:03:44,400
+and we have detail.
+
+1035
+01:03:44,400 --> 01:03:47,920
+Listen to this point carefully, guys,
+how many layers we have in
+
+1036
+01:03:47,920 --> 01:03:49,840
+any application
+
+1037
+01:03:55,960 --> 01:04:01,640
+with a kind of yes, three layers.
+
+1038
+01:04:01,640 --> 01:04:04,720
+We have not understand every single layer
+
+1039
+01:04:05,040 --> 01:04:12,360
+and every single layer.
+
+1040
+01:04:12,360 --> 01:04:14,800
+How many of you guys user index
+each item by far
+
+1041
+01:04:24,840 --> 01:04:27,760
+majority of US rate
+use this particular part.
+
+1042
+01:04:28,280 --> 01:04:31,040
+The majority of us use
+this particular part rate.
+
+1043
+01:04:31,760 --> 01:04:34,000
+The one you see on your screen,
+
+1044
+01:04:35,400 --> 01:04:38,000
+the one you see on your screen,
+we call it UI,
+
+1045
+01:04:39,000 --> 01:04:39,400
+right?
+
+1046
+01:04:39,520 --> 01:04:42,400
+User interface, front end
+
+1047
+01:04:43,200 --> 01:04:46,120
+so that we can communicate to the system,
+
+1048
+01:04:46,600 --> 01:04:49,960
+the one which we see here,
+the one which we see here
+
+1049
+01:04:50,000 --> 01:04:53,640
+on to our screen, because in this UI
+
+1050
+01:04:54,040 --> 01:05:06,480
+or we call this front end right,
+this is your presentation is
+
+1051
+01:05:07,640 --> 01:05:10,720
+because rendering something,
+
+1052
+01:05:10,720 --> 01:05:12,480
+then it presents something.
+
+1053
+01:05:12,480 --> 01:05:16,080
+So we call it presentation layer
+
+1054
+01:05:16,800 --> 01:05:17,520
+Discord,
+
+1055
+01:05:18,840 --> 01:05:21,640
+it presents something
+we call it because initially,
+
+1056
+01:05:22,240 --> 01:05:24,040
+but then you want
+
+1057
+01:05:26,880 --> 01:05:30,040
+when I right here user name
+
+1058
+01:05:33,040 --> 01:05:36,640
+and when I read your password,
+I click on log in button.
+
+1059
+01:05:37,400 --> 01:05:40,360
+It takes me to dashboard reach, right?
+
+1060
+01:05:40,800 --> 01:05:43,160
+It makes me for
+
+1061
+01:05:43,240 --> 01:05:45,400
+who said this,
+
+1062
+01:05:45,840 --> 01:05:49,000
+who said this to a chat and application
+that, hey,
+
+1063
+01:05:49,000 --> 01:05:53,080
+if someone enters admin
+as a username and password,
+
+1064
+01:05:53,400 --> 01:05:55,840
+you want to chat and clicks on logging
+button,
+
+1065
+01:05:56,160 --> 01:05:59,240
+you have to open only dashboard page
+
+1066
+01:05:59,440 --> 01:06:02,280
+not even page, not an employee bit.
+
+1067
+01:06:02,560 --> 01:06:04,200
+Who said this
+
+1068
+01:06:06,600 --> 01:06:09,120
+developer said the purpose
+
+1069
+01:06:09,160 --> 01:06:12,240
+of this, this
+and this was develop the application.
+
+1070
+01:06:12,640 --> 01:06:13,320
+Right.
+
+1071
+01:06:13,920 --> 01:06:18,160
+So basically, basically this is the logic.
+
+1072
+01:06:19,000 --> 01:06:20,040
+This is the logic.
+
+1073
+01:06:20,040 --> 01:06:25,240
+Somewhere someone has written this logic,
+
+1074
+01:06:25,240 --> 01:06:28,640
+correct?
+
+1075
+01:06:28,640 --> 01:06:30,760
+Some of this
+someone has written this project.
+
+1076
+01:06:31,200 --> 01:06:35,360
+So remember, this is not your data guys.
+
+1077
+01:06:35,680 --> 01:06:37,760
+Their data is coming from database.
+
+1078
+01:06:37,760 --> 01:06:40,080
+That is another thing, right?
+
+1079
+01:06:40,080 --> 01:06:42,200
+This is the logic that I'm talking about.
+
+1080
+01:06:42,360 --> 01:06:46,320
+If someone inverts username and password
+and that is correct, and when someone
+
+1081
+01:06:46,320 --> 01:06:50,320
+clicks on logging, you should not
+get that particular customer
+
+1082
+01:06:51,320 --> 01:06:51,960
+an error
+
+1083
+01:06:51,960 --> 01:06:55,520
+message, but instead
+you should provide this dashboard screen.
+
+1084
+01:06:55,960 --> 01:06:56,600
+Right?
+
+1085
+01:06:56,600 --> 01:07:03,320
+So it comes, it comes from application
+logic, where application near
+
+1086
+01:07:03,320 --> 01:07:06,720
+where business logic has been written
+that business logic is
+
+1087
+01:07:08,840 --> 01:07:09,720
+all right,
+
+1088
+01:07:10,120 --> 01:07:13,440
+where business started restricting
+
+1089
+01:07:13,480 --> 01:07:16,680
+this is the application. This
+
+1090
+01:07:16,680 --> 01:07:17,120
+kind of
+
+1091
+01:07:18,040 --> 01:07:19,560
+so now are two things we understood.
+
+1092
+01:07:19,560 --> 01:07:22,880
+First is using
+it has nothing to do with the logic.
+
+1093
+01:07:22,880 --> 01:07:24,800
+It is just a UI look and feel.
+
+1094
+01:07:24,800 --> 01:07:26,760
+What we are seeing there.
+
+1095
+01:07:26,760 --> 01:07:28,840
+User name well, which I do in blue.
+
+1096
+01:07:28,840 --> 01:07:32,880
+Kind of amazing
+when it comes to both username people.
+
+1097
+01:07:33,040 --> 01:07:36,280
+Extremely nice password, nice.
+
+1098
+01:07:36,280 --> 01:07:39,000
+Not logging button green.
+
+1099
+01:07:39,000 --> 01:07:40,720
+No business logic.
+
+1100
+01:07:40,720 --> 01:07:43,760
+See it's built
+this presentation layer application.
+
+1101
+01:07:43,760 --> 01:07:48,880
+This is if someone enters username
+and password correctly and clicks on
+
+1102
+01:07:48,880 --> 01:07:53,080
+logging button,
+then you should open only facebook page
+
+1103
+01:07:53,400 --> 01:07:59,280
+if someone enters username and password
+incorrect and clicks on login button,
+
+1104
+01:07:59,560 --> 01:08:02,400
+then instead of opening dashboard page
+
+1105
+01:08:02,400 --> 01:08:05,640
+this time
+you should provide an error message
+
+1106
+01:08:07,400 --> 01:08:08,640
+and error message
+
+1107
+01:08:08,640 --> 01:08:11,240
+and this should be the error message
+you should provide.
+
+1108
+01:08:11,640 --> 01:08:15,240
+Connect.
+
+1109
+01:08:15,240 --> 01:08:15,800
+Connect.
+
+1110
+01:08:16,280 --> 01:08:18,200
+So now this is the logic.
+
+1111
+01:08:18,200 --> 01:08:19,280
+This is the logic.
+
+1112
+01:08:19,280 --> 01:08:23,000
+Fine logic is available
+when in application
+
+1113
+01:08:23,960 --> 01:08:26,600
+like the third layer is their data.
+
+1114
+01:08:27,960 --> 01:08:29,520
+And thirdly is their data.
+
+1115
+01:08:29,520 --> 01:08:32,320
+Yet what does it mean to see
+
+1116
+01:08:33,160 --> 01:08:36,080
+business logic sees if someone enters
+
+1117
+01:08:36,440 --> 01:08:40,160
+correct username and password
+and click on in,
+
+1118
+01:08:40,520 --> 01:08:44,040
+you should provide dashboard page
+on dashboard page,
+
+1119
+01:08:44,200 --> 01:08:47,720
+you should provide all the details
+of the employees in every single.
+
+1120
+01:08:48,600 --> 01:08:51,040
+This is logic system, but they mean
+
+1121
+01:08:51,520 --> 01:09:00,680
+does logic have any data?
+
+1122
+01:09:00,680 --> 01:09:03,200
+No, no.
+
+1123
+01:09:03,600 --> 01:09:07,120
+Logic is kind of instructor logic.
+
+1124
+01:09:07,120 --> 01:09:10,840
+Just instruct the things
+logic sees everything, right?
+
+1125
+01:09:10,840 --> 01:09:11,640
+Business logic.
+
+1126
+01:09:11,640 --> 01:09:15,040
+Since everything that he application do
+this, do this, do this fine.
+
+1127
+01:09:15,440 --> 01:09:18,000
+Should this data,
+this data and district are fine,
+
+1128
+01:09:18,240 --> 01:09:21,320
+but the data is not with application.
+
+1129
+01:09:21,320 --> 01:09:23,080
+Their data is not in the business.
+
+1130
+01:09:23,080 --> 01:09:28,400
+Logic data is in data is in data layer
+
+1131
+01:09:28,920 --> 01:09:33,240
+x5 why we call it database
+or simple language.
+
+1132
+01:09:33,240 --> 01:09:36,720
+We colleague.
+
+1133
+01:09:36,720 --> 01:09:37,480
+So like
+
+1134
+01:09:40,960 --> 01:09:42,200
+server
+
+1135
+01:09:42,600 --> 01:09:45,200
+rate database or server
+
+1136
+01:09:46,240 --> 01:09:48,400
+or industrial
+
+1137
+01:09:50,680 --> 01:09:52,640
+and this world everyone
+
+1138
+01:09:52,800 --> 01:09:57,280
+now in more simple language,
+in more simple language,
+
+1139
+01:09:57,960 --> 01:10:00,320
+this presentation is your frontend
+
+1140
+01:10:01,560 --> 01:10:03,600
+this data and it is your bank
+
+1141
+01:10:04,320 --> 01:10:06,640
+and this application layer is
+
+1142
+01:10:06,640 --> 01:10:09,840
+your middleware.
+
+1143
+01:10:09,840 --> 01:10:14,880
+It is rooted in frontend, backend
+middleware,
+
+1144
+01:10:15,520 --> 01:10:18,360
+presentation layer application layer
+
+1145
+01:10:18,840 --> 01:10:21,680
+data. Yes.
+
+1146
+01:10:21,680 --> 01:10:25,680
+And this code against the meaning of three
+layers, presentation, net application
+
+1147
+01:10:25,680 --> 01:10:31,680
+layer and intelligence.
+
+1148
+01:10:31,680 --> 01:10:35,120
+When we connect
+with these three layers together,
+
+1149
+01:10:36,440 --> 01:10:39,280
+when we connect these three layers
+together,
+
+1150
+01:10:40,440 --> 01:10:42,920
+we get one and
+
+1151
+01:10:42,960 --> 01:10:45,440
+then you enter something,
+
+1152
+01:10:45,640 --> 01:10:48,120
+you provide some inputs,
+you get some output
+
+1153
+01:10:48,120 --> 01:10:50,840
+details coming on UI so you can see it
+easily.
+
+1154
+01:10:51,360 --> 01:10:53,520
+Middleware is providing the logic that,
+
+1155
+01:10:53,520 --> 01:10:57,280
+hey, if someone enters this party
+should provide this data databases.
+
+1156
+01:10:57,280 --> 01:10:59,760
+I have one information based on the logic.
+
+1157
+01:10:59,760 --> 01:11:02,680
+Just come to me.
+I will give you all the information there.
+
+1158
+01:11:02,680 --> 01:11:07,800
+So things we're going to be making for
+any of the application behind the scenes,
+
+1159
+01:11:07,800 --> 01:11:11,120
+these things that are going
+on, these three layers, all honestly
+
+1160
+01:11:12,120 --> 01:11:12,680
+great.
+
+1161
+01:11:12,720 --> 01:11:15,840
+And on
+the printing, on the presentation screen,
+
+1162
+01:11:16,080 --> 01:11:19,560
+we always get the output,
+which is nothing but the outcome
+
+1163
+01:11:19,560 --> 01:11:21,880
+of this particular part
+
+1164
+01:11:23,680 --> 01:11:24,800
+and the structure
+
+1165
+01:11:37,200 --> 01:11:41,880
+fine, let's cross it further.
+
+1166
+01:11:41,880 --> 01:11:47,440
+There.
+
+1167
+01:11:47,440 --> 01:11:51,520
+So now here, let's start with claims
+server architecture.
+
+1168
+01:11:51,840 --> 01:11:55,120
+In the first architecture I'm thinking is
+
+1169
+01:11:56,440 --> 01:11:58,920
+the architecture
+
+1170
+01:11:58,920 --> 01:12:09,160
+which when we are taking guys
+and we like the architecture, not what is
+
+1171
+01:12:09,160 --> 01:12:14,520
+this won't be an architecture goes,
+Have you ever heard about this one?
+
+1172
+01:12:14,520 --> 01:12:17,880
+Do you know
+
+1173
+01:12:21,120 --> 01:12:22,240
+Dominic's
+
+1174
+01:12:23,280 --> 01:12:29,120
+in a hundred kilometers
+
+1175
+01:12:29,120 --> 01:12:33,320
+enough.
+
+1176
+01:12:33,320 --> 01:12:36,680
+When you have presentation live
+
+1177
+01:12:50,040 --> 01:12:52,960
+your application layer
+
+1178
+01:12:55,080 --> 01:12:56,000
+and your data
+
+1179
+01:12:56,000 --> 01:13:00,320
+layer, your presentation layer,
+
+1180
+01:13:00,600 --> 01:13:04,800
+your application layer
+and your data layer, all that.
+
+1181
+01:13:04,800 --> 01:13:09,560
+Three layers are available at one place
+or in one machine
+
+1182
+01:13:10,560 --> 01:13:14,080
+in one place.
+
+1183
+01:13:14,080 --> 01:13:15,960
+We live in one place or
+
+1184
+01:13:17,000 --> 01:13:18,600
+in one machine.
+
+1185
+01:13:18,600 --> 01:13:20,880
+In a single machine.
+
+1186
+01:13:20,880 --> 01:13:25,200
+In a single machine.
+
+1187
+01:13:25,200 --> 01:13:29,480
+Getting my point what I'm explaining you
+when your presentation there
+
+1188
+01:13:30,320 --> 01:13:32,920
+application layer data layer
+
+1189
+01:13:33,440 --> 01:13:37,240
+on that the layers are available
+in one place.
+
+1190
+01:13:37,560 --> 01:13:40,080
+Your presentation
+that is nothing but your blind
+
+1191
+01:13:42,640 --> 01:13:44,680
+rate from where you make request.
+
+1192
+01:13:44,680 --> 01:13:49,080
+Your This server is nothing
+but your data layer, right?
+
+1193
+01:13:49,080 --> 01:13:51,920
+That gives the response
+correct application.
+
+1194
+01:13:51,920 --> 01:13:52,560
+It is nothing.
+
+1195
+01:13:52,560 --> 01:13:54,240
+The logic is written on
+
+1196
+01:13:54,240 --> 01:13:57,720
+a transport circuit
+according to the logical request you make.
+
+1197
+01:13:58,240 --> 01:13:59,280
+Great guess.
+
+1198
+01:13:59,280 --> 01:14:02,520
+So when when your presentation live
+
+1199
+01:14:02,880 --> 01:14:05,520
+your application in your data layer
+
+1200
+01:14:05,760 --> 01:14:09,680
+on the three
+layers are available in a single machine.
+
+1201
+01:14:09,840 --> 01:14:14,240
+In one system,
+we call it one beer architecture.
+
+1202
+01:14:14,440 --> 01:14:18,320
+The best example of one architecture is
+
+1203
+01:14:20,240 --> 01:14:27,000
+a calculator.
+
+1204
+01:14:28,600 --> 01:14:29,920
+How calculated?
+
+1205
+01:14:29,920 --> 01:14:34,680
+The best example Let me show you.
+
+1206
+01:14:34,680 --> 01:14:36,120
+And you see, I want to calculate the
+
+1207
+01:14:38,800 --> 01:14:39,960
+everyone's
+
+1208
+01:14:41,400 --> 01:14:44,680
+what I see in front of me.
+
+1209
+01:14:44,680 --> 01:14:47,640
+This is my presentation, the mark, the
+
+1210
+01:14:51,040 --> 01:14:53,160
+this is not presentation.
+
+1211
+01:14:53,640 --> 01:14:55,920
+If I type here, do
+
+1212
+01:14:57,160 --> 01:14:58,320
+less.
+
+1213
+01:14:58,360 --> 01:14:59,360
+Frank
+
+1214
+01:15:00,600 --> 01:15:03,520
+and I click on equals to sign.
+
+1215
+01:15:03,520 --> 01:15:06,400
+So it gives me estimate
+
+1216
+01:15:06,760 --> 01:15:10,040
+who said this to calculate other
+hey calculator
+
+1217
+01:15:10,680 --> 01:15:14,080
+if soil type do
+and then plus sign and then five
+
+1218
+01:15:14,400 --> 01:15:16,960
+and then if you put equals two
+
+1219
+01:15:17,160 --> 01:15:21,760
+you have to add these two things together.
+
+1220
+01:15:21,760 --> 01:15:23,040
+Logic.
+
+1221
+01:15:23,040 --> 01:15:24,240
+So very logic is available.
+
+1222
+01:15:24,240 --> 01:15:30,720
+Extreme logic is available.
+
+1223
+01:15:30,720 --> 01:15:36,200
+The logic is available in application
+this cutting.
+
+1224
+01:15:36,720 --> 01:15:41,840
+So mind my application,
+it is also available at the same place
+
+1225
+01:15:41,840 --> 01:15:47,960
+or not.
+
+1226
+01:15:47,960 --> 01:15:51,600
+My application
+here is also available at the same place
+
+1227
+01:15:52,480 --> 01:15:55,080
+and the is correct
+
+1228
+01:15:55,080 --> 01:15:57,360
+so two plus flight is equal to seven.
+
+1229
+01:15:57,640 --> 01:15:58,800
+Now. See
+
+1230
+01:16:00,160 --> 01:16:01,240
+now see
+
+1231
+01:16:02,640 --> 01:16:06,000
+this data is available,
+two plus five is equal to seven.
+
+1232
+01:16:06,320 --> 01:16:09,000
+So it holds the information.
+
+1233
+01:16:09,000 --> 01:16:10,960
+It holds the information.
+
+1234
+01:16:10,960 --> 01:16:13,120
+If I write here something, let's add three
+
+1235
+01:16:15,200 --> 01:16:17,560
+plus five
+
+1236
+01:16:17,560 --> 01:16:21,360
+is equals to it says end right this time,
+which says eight.
+
+1237
+01:16:21,760 --> 01:16:25,640
+If I click here, you see three
+plus five is equals to two
+
+1238
+01:16:25,680 --> 01:16:27,240
+plus five is equal to seven.
+
+1239
+01:16:27,240 --> 01:16:28,800
+The previous operation,
+
+1240
+01:16:28,800 --> 01:16:32,280
+which I did, the previous operation,
+which I did, is also available here.
+
+1241
+01:16:33,040 --> 01:16:37,440
+The current operation, which I did just
+now that is also available here.
+
+1242
+01:16:38,160 --> 01:16:41,280
+Now tell me to operate this calculator.
+
+1243
+01:16:42,520 --> 01:16:44,040
+Listen to this point carefully.
+
+1244
+01:16:44,040 --> 01:16:46,320
+Just to operate this calculator,
+
+1245
+01:16:47,040 --> 01:16:55,000
+do I need to connect
+with the internet? No.
+
+1246
+01:16:55,920 --> 01:16:59,240
+Even if I don't have the Internet,
+even if I don't have
+
+1247
+01:16:59,240 --> 01:17:02,640
+any of that connection is still
+if I open my laptop
+
+1248
+01:17:02,760 --> 01:17:07,200
+and if I want to use my calculator,
+I can simply come here.
+
+1249
+01:17:07,320 --> 01:17:09,280
+I can simply open it, perform.
+
+1250
+01:17:09,280 --> 01:17:13,680
+Some explains the operation,
+and I can get the output at the same time.
+
+1251
+01:17:13,680 --> 01:17:16,440
+I can see whatever
+the operations I performed in.
+
+1252
+01:17:16,440 --> 01:17:18,520
+The data is also available here,
+
+1253
+01:17:18,520 --> 01:17:22,680
+even though if it is for a temporary basis
+but still data is available here or not.
+
+1254
+01:17:22,920 --> 01:17:23,400
+Right.
+
+1255
+01:17:23,400 --> 01:17:27,000
+So it means my data
+near is also existing in the same system.
+
+1256
+01:17:28,320 --> 01:17:29,360
+My application.
+
+1257
+01:17:29,360 --> 01:17:31,720
+It is also existing in the same system.
+
+1258
+01:17:32,280 --> 01:17:35,520
+My presentation
+there is also existing in the same system.
+
+1259
+01:17:35,840 --> 01:17:36,400
+Right?
+
+1260
+01:17:36,400 --> 01:17:38,840
+So according to the definition of claims
+
+1261
+01:17:38,840 --> 01:17:42,600
+that our architecture model
+type would be an architecture,
+
+1262
+01:17:42,960 --> 01:17:47,040
+when of presentation layer
+your application layer your data layer,
+
+1263
+01:17:47,200 --> 01:17:51,520
+all these three layer exist in one system,
+we call it one
+
+1264
+01:17:51,520 --> 01:17:54,840
+the architecture
+and the example is calculator
+
+1265
+01:17:55,680 --> 01:17:56,840
+and a story
+
+1266
+01:18:07,200 --> 01:18:07,480
+week.
+
+1267
+01:18:07,480 --> 01:18:17,520
+Everyone in the street or not, students.
+
+1268
+01:18:17,520 --> 01:18:22,720
+Is there anyone who has any question
+in this part in sort of architecture,
+
+1269
+01:18:23,040 --> 01:18:27,680
+some now, now in this UI part,
+why our presentation layer
+
+1270
+01:18:28,080 --> 01:18:31,920
+when you put three plus five is equals to
+what are you doing?
+
+1271
+01:18:31,920 --> 01:18:33,720
+Make a request,
+
+1272
+01:18:33,840 --> 01:18:36,480
+you are making a request with three
+plus five
+
+1273
+01:18:37,240 --> 01:18:40,000
+and when you got this eight,
+what is this eight?
+
+1274
+01:18:40,000 --> 01:18:43,760
+This eight is the response.
+
+1275
+01:18:43,760 --> 01:18:45,760
+This eight is the response. Who does this?
+
+1276
+01:18:45,760 --> 01:18:47,400
+Who transports this data?
+
+1277
+01:18:47,400 --> 01:18:51,480
+API API transport is simply three
+plus five.
+
+1278
+01:18:51,480 --> 01:18:56,040
+So API gives you a simple
+because these things happen very fast
+
+1279
+01:18:56,520 --> 01:19:01,080
+in a milliseconds you get all of this
+information, you getting good.
+
+1280
+01:19:01,080 --> 01:19:05,520
+The negatives will never understand the
+response rate, how quickly things work.
+
+1281
+01:19:05,840 --> 01:19:07,720
+But yes, this is what we need.
+
+1282
+01:19:07,720 --> 01:19:10,600
+We need quick resolution,
+we need quick solution
+
+1283
+01:19:10,800 --> 01:19:16,400
+and that's how we get quick solution.
+
+1284
+01:19:16,400 --> 01:19:25,680
+Is this clear to everyone?
+
+1285
+01:19:25,680 --> 01:19:27,040
+Nice.
+
+1286
+01:19:27,120 --> 01:19:30,120
+The moment customers are
+new, what it are simply time
+
+1287
+01:19:35,040 --> 01:19:39,920
+frame.
+
+1288
+01:19:39,920 --> 01:19:40,640
+Fine.
+
+1289
+01:19:41,240 --> 01:19:42,480
+Let's take a break guys.
+
+1290
+01:19:42,480 --> 01:19:46,360
+Then.
+
+1291
+01:19:46,360 --> 01:19:48,280
+All right,
+
+1292
+01:19:48,960 --> 01:19:51,760
+so now, now before the break
+
+1293
+01:19:52,280 --> 01:19:56,880
+for clean set of architecture,
+we are done with the first time.
+
+1294
+01:19:57,440 --> 01:20:00,680
+We are done with the fourth type call
+
+1295
+01:20:02,760 --> 01:20:03,600
+with the first one,
+
+1296
+01:20:03,600 --> 01:20:07,320
+call one the architecture.
+
+1297
+01:20:07,560 --> 01:20:08,280
+Right.
+
+1298
+01:20:08,320 --> 01:20:12,320
+And here in this one, be an architecture,
+have seen one exemplar,
+
+1299
+01:20:12,360 --> 01:20:14,960
+which is calculator.
+
+1300
+01:20:14,960 --> 01:20:17,040
+So the question is, do we have
+
+1301
+01:20:17,040 --> 01:20:20,560
+other examples
+Also for one, did architecture.
+
+1302
+01:20:20,560 --> 01:20:24,360
+So the answer is yes, we do have
+what are those example?
+
+1303
+01:20:24,400 --> 01:20:29,760
+Let me give.
+
+1304
+01:20:29,760 --> 01:20:34,880
+So basically, basically
+when we talk about the examples of client
+
+1305
+01:20:34,920 --> 01:20:38,040
+one bit
+architecture, one year architecture,
+
+1306
+01:20:38,960 --> 01:20:42,040
+whatever the stand alone application
+we had
+
+1307
+01:20:43,400 --> 01:20:45,600
+is doing a loan application.
+
+1308
+01:20:45,600 --> 01:20:48,120
+We also call them desktop application,
+
+1309
+01:20:48,880 --> 01:20:50,200
+such as
+
+1310
+01:20:51,160 --> 01:20:52,120
+Ms. Bank
+
+1311
+01:20:54,720 --> 01:20:56,760
+loan bed
+
+1312
+01:20:58,240 --> 01:21:00,160
+calculator
+
+1313
+01:21:01,000 --> 01:21:02,520
+and so many apps.
+
+1314
+01:21:02,520 --> 01:21:05,280
+These all are a standalone application
+
+1315
+01:21:05,280 --> 01:21:08,960
+or in simple language,
+we call them desktop application, right?
+
+1316
+01:21:09,160 --> 01:21:13,240
+So all the desktop application
+and stone estate and on application,
+
+1317
+01:21:13,680 --> 01:21:17,440
+these applications are the best
+examples of one
+
+1318
+01:21:17,440 --> 01:21:20,040
+be an architecture understood
+
+1319
+01:21:23,600 --> 01:21:27,600
+both Perfect.
+
+1320
+01:21:28,240 --> 01:21:32,040
+Now let's talk about the second type
+called
+
+1321
+01:21:33,240 --> 01:21:35,720
+second type called
+
+1322
+01:21:37,120 --> 01:21:39,240
+two different architecture,
+
+1323
+01:21:39,240 --> 01:21:40,960
+what we call today's
+
+1324
+01:21:46,200 --> 01:21:48,200
+to date architecture, right?
+
+1325
+01:21:48,200 --> 01:21:53,440
+So here in this two architectural house,
+the arrangement again, we will play
+
+1326
+01:21:53,440 --> 01:21:57,840
+with the three Layers application
+presentation indeed and earlier.
+
+1327
+01:21:58,440 --> 01:22:01,360
+So here we write
+
+1328
+01:22:01,360 --> 01:22:02,920
+application.
+
+1329
+01:22:02,920 --> 01:22:06,120
+First I should write presentation
+
+1330
+01:22:09,160 --> 01:22:13,680
+and presentation layer.
+
+1331
+01:22:13,680 --> 01:22:15,880
+Second, we have this application layer
+
+1332
+01:22:17,280 --> 01:22:20,400
+and the third we have is
+
+1333
+01:22:20,400 --> 01:22:21,120
+data.
+
+1334
+01:22:21,120 --> 01:22:21,960
+Correct
+
+1335
+01:22:24,840 --> 01:22:25,800
+increase.
+
+1336
+01:22:26,400 --> 01:22:31,440
+When your presentation layer
+in simple language, we call it UI, right?
+
+1337
+01:22:32,080 --> 01:22:36,080
+When you presentation
+layer is available is available
+
+1338
+01:22:36,080 --> 01:22:40,920
+on client end
+and your application in detail.
+
+1339
+01:22:41,160 --> 01:22:45,240
+This two layer application and data layer
+when this two layer
+
+1340
+01:22:45,440 --> 01:22:48,840
+is available on on server
+
+1341
+01:22:48,840 --> 01:22:51,480
+and so and right
+
+1342
+01:22:52,080 --> 01:22:57,320
+so on the line and you will have
+your presentation layer on server
+
+1343
+01:22:57,320 --> 01:23:01,680
+and you have your application in detail
+here.
+
+1344
+01:23:01,680 --> 01:23:02,840
+Understood.
+
+1345
+01:23:02,920 --> 01:23:05,280
+Now let me give you the example
+
+1346
+01:23:05,400 --> 01:23:10,640
+then maybe it will be more understanding
+that we will.
+
+1347
+01:23:10,640 --> 01:23:13,800
+The best example is have you ever been
+
+1348
+01:23:13,800 --> 01:23:16,800
+to McDonald's many or Domino's?
+
+1349
+01:23:18,480 --> 01:23:21,200
+How many of you in there.
+
+1350
+01:23:21,200 --> 01:23:24,600
+Yes, Katrina. Great. With three. Yes.
+
+1351
+01:23:24,840 --> 01:23:29,520
+It seems you go there every now
+and then and delivered with plus nine.
+
+1352
+01:23:29,520 --> 01:23:31,800
+Nice. Right?
+
+1353
+01:23:31,800 --> 01:23:33,280
+So you guys go there eight.
+
+1354
+01:23:33,280 --> 01:23:35,560
+Everyone was really simple
+
+1355
+01:23:36,440 --> 01:23:38,920
+When you go to there once a week
+
+1356
+01:23:40,280 --> 01:23:42,680
+I could see everyday my prime right.
+
+1357
+01:23:42,680 --> 01:23:44,880
+And then it said junk food.
+
+1358
+01:23:44,880 --> 01:23:47,880
+But still I couldn't
+find any best example in there.
+
+1359
+01:23:47,880 --> 01:23:49,840
+So I'm taking this one.
+
+1360
+01:23:49,840 --> 01:23:55,000
+So now, now if you go there
+and you stand on to the counter
+
+1361
+01:23:55,000 --> 01:23:58,640
+where a guy or a girl is available
+right on that cash counter.
+
+1362
+01:23:58,640 --> 01:23:59,160
+Right.
+
+1363
+01:23:59,280 --> 01:24:02,360
+Or the billing counter, you see one
+machine is available
+
+1364
+01:24:02,360 --> 01:24:06,480
+there.
+
+1365
+01:24:06,480 --> 01:24:10,120
+One machine is available there. Right.
+
+1366
+01:24:10,120 --> 01:24:12,480
+What is that machine
+
+1367
+01:24:14,800 --> 01:24:16,120
+self-checkout?
+
+1368
+01:24:16,120 --> 01:24:16,880
+No, not so.
+
+1369
+01:24:16,880 --> 01:24:19,880
+Checkout
+machine. The machine in the machine
+
+1370
+01:24:23,840 --> 01:24:25,840
+there is a monitor available.
+
+1371
+01:24:25,840 --> 01:24:29,440
+When you see when you said that, Hey,
+I need one burger
+
+1372
+01:24:29,440 --> 01:24:31,560
+or I need one piece that one,
+they generally do.
+
+1373
+01:24:31,800 --> 01:24:36,760
+They put some details in that system,
+then put some details in their system.
+
+1374
+01:24:36,760 --> 01:24:40,680
+Right.
+
+1375
+01:24:40,680 --> 01:24:45,200
+And then whenever they provide
+the details, their system provides you the
+
+1376
+01:24:46,520 --> 01:24:48,920
+getting their system
+provides, you the bill.
+
+1377
+01:24:49,880 --> 01:24:53,960
+So now now tell me, for example,
+if a guy or
+
+1378
+01:24:53,960 --> 01:24:59,280
+a girl is living in New York, right,
+it orders pizza.
+
+1379
+01:24:59,280 --> 01:25:03,280
+There's order visiting Domino's.
+
+1380
+01:25:03,280 --> 01:25:11,120
+And that guy who's living in California,
+he knows orders is up in Domino's.
+
+1381
+01:25:11,120 --> 01:25:14,280
+Will there be a same price
+or different results, Same pizza
+
+1382
+01:25:14,280 --> 01:25:24,520
+in New York and California?
+
+1383
+01:25:24,520 --> 01:25:30,000
+It's a different place. Why?
+
+1384
+01:25:30,000 --> 01:25:32,880
+No, not Texas
+under fucking more Texas guys.
+
+1385
+01:25:34,120 --> 01:25:37,680
+I'm talking about Texas.
+
+1386
+01:25:37,680 --> 01:25:40,240
+I'm talking about the pizza base price.
+
+1387
+01:25:40,960 --> 01:25:44,200
+The base price of this pizza, for example.
+
+1388
+01:25:44,200 --> 01:25:46,560
+It is available at $10.
+
+1389
+01:25:46,560 --> 01:25:48,480
+I'm just taking one example.
+
+1390
+01:25:48,480 --> 01:25:52,040
+So it is available in dollars in here
+and here.
+
+1391
+01:25:52,040 --> 01:25:55,600
+Heroes.
+
+1392
+01:25:55,600 --> 01:25:58,320
+Then you put some Texas,
+you put some other factors,
+
+1393
+01:25:58,320 --> 01:26:00,640
+you put some service charges.
+These are different thing.
+
+1394
+01:26:00,960 --> 01:26:04,680
+But when the base prices are the same
+
+1395
+01:26:05,920 --> 01:26:06,720
+rate,
+
+1396
+01:26:08,160 --> 01:26:10,440
+they always seem the base price.
+
+1397
+01:26:10,920 --> 01:26:13,560
+Now this Texas and everything
+depends on the
+
+1398
+01:26:14,320 --> 01:26:17,000
+which the state is imposing how much Texas
+
+1399
+01:26:17,360 --> 01:26:21,520
+so there is generally a takes part
+I'm talking about the base price.
+
+1400
+01:26:22,440 --> 01:26:24,800
+The base price is steam by
+
+1401
+01:26:24,800 --> 01:26:27,480
+because the system of Domino's.
+
+1402
+01:26:27,480 --> 01:26:32,040
+The system of Domino's creates
+rate for the entire U.S.
+
+1403
+01:26:32,840 --> 01:26:36,800
+rate rate.
+
+1404
+01:26:36,800 --> 01:26:38,920
+It clears for entire U.S.
+
+1405
+01:26:39,240 --> 01:26:42,200
+So now you find all the items,
+
+1406
+01:26:42,200 --> 01:26:46,200
+the items available here, the same items
+will be available here. Also
+
+1407
+01:26:48,000 --> 01:26:51,160
+rate whether it is a lower gig
+or it is a discrete
+
+1408
+01:26:51,160 --> 01:26:56,680
+or best result, it is a pizza or whatever,
+whatever size, great slides or anything
+
+1409
+01:26:56,960 --> 01:26:59,240
+you'll find here.
+Also the same thing you find here.
+
+1410
+01:26:59,240 --> 01:27:04,560
+Also, they know what system does.
+
+1411
+01:27:04,560 --> 01:27:07,240
+You provide some detail straight away.
+
+1412
+01:27:07,240 --> 01:27:08,040
+You provide details.
+
+1413
+01:27:08,040 --> 01:27:12,120
+For example,
+one pizza gives you the price of $10.
+
+1414
+01:27:12,120 --> 01:27:12,640
+Here.
+
+1415
+01:27:12,880 --> 01:27:16,440
+The price is coming from here
+
+1416
+01:27:18,120 --> 01:27:21,040
+from your server,
+which is a database, correct?
+
+1417
+01:27:21,480 --> 01:27:23,840
+This place is coming from there.
+
+1418
+01:27:23,840 --> 01:27:26,320
+It does seem to
+
+1419
+01:27:26,800 --> 01:27:28,320
+it, doesn't it?
+
+1420
+01:27:28,320 --> 01:27:29,800
+It could have been done.
+
+1421
+01:27:29,800 --> 01:27:30,160
+Okay.
+
+1422
+01:27:30,160 --> 01:27:33,320
+Your order will be there
+and they could give you this piece
+
+1423
+01:27:33,480 --> 01:27:36,520
+right directly without asking your name
+and everything. But
+
+1424
+01:27:38,280 --> 01:27:42,640
+but what they generally do
+is they ask you for your first
+
+1425
+01:27:42,840 --> 01:27:46,440
+maybe rate your email,
+
+1426
+01:27:46,440 --> 01:27:48,640
+your phone number, right.
+
+1427
+01:27:49,480 --> 01:27:51,280
+All the things they ask, and then
+
+1428
+01:27:53,760 --> 01:27:55,400
+they ask for this.
+
+1429
+01:27:55,400 --> 01:28:00,400
+Do they really need all these things?
+
+1430
+01:28:00,400 --> 01:28:03,240
+Do do we really need all these things
+to make a bill?
+
+1431
+01:28:03,480 --> 01:28:05,280
+To generate a bill?
+
+1432
+01:28:05,440 --> 01:28:07,200
+No, but still.
+
+1433
+01:28:07,200 --> 01:28:07,840
+But still.
+
+1434
+01:28:07,840 --> 01:28:12,160
+They're taking this
+this is the business. How?
+
+1435
+01:28:13,000 --> 01:28:15,840
+Because they think that you didn't see it.
+
+1436
+01:28:16,440 --> 01:28:18,840
+The intel, you didn't see it on your bill.
+
+1437
+01:28:18,840 --> 01:28:19,320
+Right.
+
+1438
+01:28:19,320 --> 01:28:21,680
+And they gives you this fine
+
+1439
+01:28:22,200 --> 01:28:25,440
+Now, on this particular bill,
+even if you don't have your name,
+
+1440
+01:28:25,760 --> 01:28:31,000
+there will be having invoice number,
+it will be having transaction IED.
+
+1441
+01:28:31,000 --> 01:28:33,240
+If you made any online payment. Right.
+
+1442
+01:28:34,000 --> 01:28:37,920
+It will be having order details,
+the price of orders
+
+1443
+01:28:37,920 --> 01:28:41,520
+and everything right
+then where this information goods.
+
+1444
+01:28:42,680 --> 01:28:44,720
+There's no question
+
+1445
+01:28:44,880 --> 01:28:47,840
+you'll never find your email
+ID or something great on your bill.
+
+1446
+01:28:48,480 --> 01:28:52,960
+So what they generally do is
+they are making their database,
+
+1447
+01:28:52,960 --> 01:28:58,600
+they're increasing their database in here,
+and they are just keep adding.
+
+1448
+01:28:58,800 --> 01:29:02,200
+They are just keep adding
+your data into the database.
+
+1449
+01:29:02,200 --> 01:29:06,400
+So they would be having more data
+because they that is a new good
+
+1450
+01:29:06,400 --> 01:29:10,040
+information zation
+right in today's generation.
+
+1451
+01:29:10,040 --> 01:29:14,880
+So now people are spending
+millions of dollars just to buy some data.
+
+1452
+01:29:15,640 --> 01:29:16,120
+Correct.
+
+1453
+01:29:16,400 --> 01:29:20,440
+So if the buy some data, they
+can use this data for so many purposes.
+
+1454
+01:29:20,840 --> 01:29:40,360
+For so many purposes, correct.
+
+1455
+01:29:40,360 --> 01:29:44,520
+That's why that's why when you provide
+your email in phone number.
+
+1456
+01:29:44,880 --> 01:29:45,160
+Right.
+
+1457
+01:29:45,160 --> 01:29:49,440
+Certainly on your birthday
+or on your anniversary or on any day,
+
+1458
+01:29:49,680 --> 01:29:52,800
+any nation holiday,
+you get messages from Domino's.
+
+1459
+01:29:53,880 --> 01:29:56,440
+They use it for marketing purposes.
+
+1460
+01:29:56,440 --> 01:30:00,520
+The message to take would be,
+we have this offer right in house.
+
+1461
+01:30:00,720 --> 01:30:03,520
+You just come in,
+there's often order online.
+
+1462
+01:30:03,560 --> 01:30:05,960
+You get this offer getting.
+
+1463
+01:30:05,960 --> 01:30:08,000
+So they use it for marketing purposes.
+
+1464
+01:30:09,000 --> 01:30:10,680
+They just do mass meeting.
+
+1465
+01:30:10,680 --> 01:30:14,480
+They just do bulk SMS to all the people.
+
+1466
+01:30:14,680 --> 01:30:17,640
+And even if it converts by 1% or 2%
+
+1467
+01:30:17,680 --> 01:30:20,480
+or 5% rate, it makes millions to them.
+
+1468
+01:30:21,840 --> 01:30:24,080
+That's why
+they generally get in this information.
+
+1469
+01:30:24,360 --> 01:30:28,120
+And then wait, getting this information,
+it costs nothing to them
+
+1470
+01:30:28,800 --> 01:30:32,760
+because you're already their customer
+is already here at their doorstep.
+
+1471
+01:30:32,760 --> 01:30:33,280
+Customers.
+
+1472
+01:30:33,280 --> 01:30:37,800
+Their customer is ordering something and
+they are just collecting your information.
+
+1473
+01:30:37,800 --> 01:30:40,080
+It is stored in their database
+free of cost.
+
+1474
+01:30:40,600 --> 01:30:43,880
+On one hand,
+they are saving millions of dollars
+
+1475
+01:30:44,080 --> 01:30:47,080
+on the hand
+they are making millions of dollars.
+
+1476
+01:30:47,280 --> 01:30:47,600
+Right.
+
+1477
+01:30:47,600 --> 01:30:51,240
+Win win situation for Domino's
+and for all the other franchisees.
+
+1478
+01:30:51,600 --> 01:30:52,160
+Right.
+
+1479
+01:30:52,160 --> 01:30:55,840
+So in this case, in this case,
+this presentation
+
+1480
+01:30:55,840 --> 01:30:58,760
+earlier, when we talk about this
+presentation, they are right.
+
+1481
+01:30:59,040 --> 01:31:00,640
+It is available there.
+
+1482
+01:31:00,640 --> 01:31:05,000
+So now this guy who is standing
+there is a blind right
+
+1483
+01:31:05,280 --> 01:31:07,400
+who is providing your details of orders.
+
+1484
+01:31:07,400 --> 01:31:08,360
+Right now.
+
+1485
+01:31:08,360 --> 01:31:11,600
+The data goes to database via
+some middleware.
+
+1486
+01:31:11,880 --> 01:31:13,960
+Business logic is written over here.
+
+1487
+01:31:13,960 --> 01:31:18,440
+So presently only available here
+data available here, presentation
+
+1488
+01:31:18,440 --> 01:31:22,200
+the application layer available
+here, presentation layer available here.
+
+1489
+01:31:22,480 --> 01:31:24,960
+Data layer available here right.
+
+1490
+01:31:24,960 --> 01:31:26,760
+This part one.
+
+1491
+01:31:26,760 --> 01:31:29,960
+This part one
+can include in due arrangement.
+
+1492
+01:31:30,240 --> 01:31:32,520
+That's why we call it to
+
+1493
+01:31:33,640 --> 01:31:35,640
+the architecture.
+
+1494
+01:31:37,160 --> 01:31:50,120
+Is it clear to everyone, any question
+in this book what I just explained,
+
+1495
+01:31:50,280 --> 01:31:58,520
+any question in this part?
+
+1496
+01:31:58,520 --> 01:32:00,960
+No question of it.
+
+1497
+01:32:01,040 --> 01:32:03,240
+One more example for to the architecture
+
+1498
+01:32:03,240 --> 01:32:06,480
+and then we'll proceed further to it
+because they're the same.
+
+1499
+01:32:06,520 --> 01:32:09,720
+They are going to be here
+because there are two levels.
+
+1500
+01:32:09,800 --> 01:32:13,080
+The first is presentation in one place
+and the second is
+
+1501
+01:32:13,320 --> 01:32:15,880
+application and Italian it
+another place is right.
+
+1502
+01:32:16,960 --> 01:32:18,200
+So two layers.
+
+1503
+01:32:18,200 --> 01:32:19,280
+Let's way
+
+1504
+01:32:19,920 --> 01:32:21,920
+one more example.
+
+1505
+01:32:21,920 --> 01:32:24,800
+Have you ever been to Barbican
+
+1506
+01:32:25,120 --> 01:32:26,800
+or any of the restaurant
+
+1507
+01:32:26,800 --> 01:32:29,360
+where they generally provide.
+
+1508
+01:32:29,560 --> 01:32:30,440
+Right.
+
+1509
+01:32:30,760 --> 01:32:33,480
+So when I brought to you.
+
+1510
+01:32:33,480 --> 01:32:34,080
+Right.
+
+1511
+01:32:34,080 --> 01:32:38,120
+And in that embed
+they ask you to give them feedback.
+
+1512
+01:32:38,520 --> 01:32:40,360
+It happens a lot nowadays.
+
+1513
+01:32:40,360 --> 01:32:43,400
+People don't provide those, you know,
+checks or bins or something like this.
+
+1514
+01:32:43,440 --> 01:32:49,280
+So basically they give you one simple iPod
+or I think their application opens.
+
+1515
+01:32:49,320 --> 01:32:53,120
+You just need to select some radio
+buttons, checkboxes and then you need
+
+1516
+01:32:53,120 --> 01:32:53,640
+to make a visit
+
+1517
+01:32:55,120 --> 01:32:55,320
+there.
+
+1518
+01:32:55,320 --> 01:32:56,440
+So we provide feedback.
+
+1519
+01:32:56,440 --> 01:32:59,040
+So in this case, then
+
+1520
+01:32:59,600 --> 01:33:11,640
+you might have seen it page somewhere,
+some Applebee's hazard
+
+1521
+01:33:12,640 --> 01:33:16,200
+rate, some Applebee's having some good
+
+1522
+01:33:16,720 --> 01:33:18,840
+we use have
+
+1523
+01:33:22,360 --> 01:33:23,080
+great
+
+1524
+01:33:24,560 --> 01:33:27,840
+the airport great
+
+1525
+01:33:27,840 --> 01:33:30,000
+great the way airport also you see this
+
+1526
+01:33:30,440 --> 01:33:31,760
+nice of them
+
+1527
+01:33:33,160 --> 01:33:34,280
+fine so
+
+1528
+01:33:34,280 --> 01:33:38,880
+now when you provide this detail right
+think about this application.
+
+1529
+01:33:38,880 --> 01:33:41,960
+Tell me can you access this application
+
+1530
+01:33:42,240 --> 01:33:48,480
+for providing feedback in your phone. No.
+
+1531
+01:33:49,160 --> 01:33:49,840
+Right.
+
+1532
+01:33:49,840 --> 01:33:54,840
+Because this presentation
+there is available in one place
+
+1533
+01:33:54,840 --> 01:33:58,160
+in their own network.
+
+1534
+01:33:58,160 --> 01:34:01,880
+Whenever you embed your data
+in asked to your date of birth,
+
+1535
+01:34:02,760 --> 01:34:05,200
+your marriage, anniversary date,
+
+1536
+01:34:05,200 --> 01:34:07,800
+something like this,
+it ask you to immolated.
+
+1537
+01:34:07,800 --> 01:34:11,280
+It asked your name also
+and then it gives you some evidence.
+
+1538
+01:34:11,280 --> 01:34:15,120
+Homelessness are based reason was
+the food was the ones their discipline
+
+1539
+01:34:15,400 --> 01:34:18,360
+and every single thing rate
+and then you provide
+
+1540
+01:34:18,360 --> 01:34:21,120
+your rating on the label in whatever it is
+
+1541
+01:34:21,840 --> 01:34:23,840
+and then you see So what happens
+
+1542
+01:34:24,280 --> 01:34:28,560
+the moment you enter all these
+onto the presentation layer, Right.
+
+1543
+01:34:28,760 --> 01:34:31,200
+It goes to their database, right.
+
+1544
+01:34:31,200 --> 01:34:34,760
+So according to the logic
+which is available in application there,
+
+1545
+01:34:34,960 --> 01:34:39,240
+according to the logic which is available
+in this application, right.
+
+1546
+01:34:40,000 --> 01:34:44,640
+This logic is what the logic information
+goes and seals in their database.
+
+1547
+01:34:44,800 --> 01:34:48,720
+And then the same logic applies
+for marketing purposes, right?
+
+1548
+01:34:48,880 --> 01:34:54,920
+So then you good messages, you get e
+you get constant.
+
+1549
+01:34:54,920 --> 01:34:57,840
+One more example of duty
+architecture completion.
+
+1550
+01:34:58,560 --> 01:34:59,520
+Is that clear? No
+
+1551
+01:35:01,440 --> 01:35:11,240
+suitable.
+
+1552
+01:35:12,320 --> 01:35:15,680
+Now let's talk about another one called
+
+1553
+01:35:22,720 --> 01:35:25,200
+3D architecture
+
+1554
+01:35:25,400 --> 01:35:27,600
+called 3D Architecture.
+
+1555
+01:35:27,600 --> 01:35:29,360
+Great, simple.
+
+1556
+01:35:29,360 --> 01:35:34,280
+In one year architecture,
+we had presentation layer, application
+
+1557
+01:35:34,280 --> 01:35:39,080
+layer, the Italian in one place
+and do their architecture.
+
+1558
+01:35:39,120 --> 01:35:41,280
+Weird presentation needed one place
+
+1559
+01:35:41,280 --> 01:35:45,600
+application that indeed area
+another place in 3D architecture.
+
+1560
+01:35:45,600 --> 01:35:48,240
+We will be having presentation
+layer it one place
+
+1561
+01:35:49,000 --> 01:35:52,240
+application
+layer one place data layer two.
+
+1562
+01:35:52,280 --> 01:35:55,920
+And why is this so
+
+1563
+01:35:56,920 --> 01:35:59,040
+and what are the examples of it?
+
+1564
+01:35:59,520 --> 01:36:02,560
+This is what we need to demonstrate.
+
+1565
+01:36:02,600 --> 01:36:05,240
+This is what we need to understand, right?
+
+1566
+01:36:05,240 --> 01:36:09,160
+For example, here I go
+
+1567
+01:36:10,560 --> 01:36:12,960
+and I open here
+
+1568
+01:36:23,280 --> 01:36:27,760
+I open Amazon right?
+
+1569
+01:36:27,760 --> 01:36:32,760
+They see Amazon here.
+
+1570
+01:36:32,760 --> 01:36:35,480
+Okay, Now see
+
+1571
+01:36:36,160 --> 01:36:38,880
+if I had ideas black shirt
+
+1572
+01:36:39,800 --> 01:36:44,880
+and I search for black shirt.
+
+1573
+01:36:44,880 --> 01:37:16,640
+Just a moment.
+
+1574
+01:37:16,640 --> 01:37:17,400
+All right.
+
+1575
+01:37:17,400 --> 01:37:22,800
+So now, now, here
+you see right when go to this application.
+
+1576
+01:37:22,800 --> 01:37:23,360
+Right.
+
+1577
+01:37:23,360 --> 01:37:25,240
+And I search for the black shirt.
+
+1578
+01:37:25,240 --> 01:37:26,520
+What is happening?
+
+1579
+01:37:26,520 --> 01:37:29,160
+I did it on my presentation layer.
+
+1580
+01:37:29,160 --> 01:37:31,280
+Correct. I'm representing layer.
+
+1581
+01:37:31,720 --> 01:37:34,400
+Now, if I go
+
+1582
+01:37:34,400 --> 01:37:37,200
+and this is Amazon, by the way,
+I'm using great.
+
+1583
+01:37:37,200 --> 01:37:38,520
+This is Amazon, by the way.
+
+1584
+01:37:38,520 --> 01:37:41,760
+I'm using see,
+I click on this particular one.
+
+1585
+01:37:42,320 --> 01:37:45,200
+I opened it.
+
+1586
+01:37:45,200 --> 01:37:49,920
+Now you see who is selling this?
+
+1587
+01:37:49,920 --> 01:37:50,960
+Is this Amazon?
+
+1588
+01:37:50,960 --> 01:37:55,800
+We're sending this?
+
+1589
+01:37:55,800 --> 01:37:58,400
+No, it's cloud added, right?
+
+1590
+01:37:58,560 --> 01:38:01,080
+Some X-Y-Z company. Right.
+
+1591
+01:38:01,440 --> 01:38:03,120
+So let me
+explain. Is the company is selling
+
+1592
+01:38:04,160 --> 01:38:07,000
+now see the business.
+
+1593
+01:38:07,000 --> 01:38:09,120
+You are here on your screen.
+
+1594
+01:38:09,480 --> 01:38:14,640
+You searched for you search for work,
+black shirt, Amazon,
+
+1595
+01:38:14,960 --> 01:38:17,640
+Amazon is having your exportable
+rate, Amazon
+
+1596
+01:38:17,640 --> 01:38:20,760
+having your support,
+and their business logic is redundant.
+
+1597
+01:38:20,760 --> 01:38:21,680
+Okay.
+
+1598
+01:38:21,720 --> 01:38:23,960
+If you search for black shirt here.
+
+1599
+01:38:24,120 --> 01:38:24,840
+Right.
+
+1600
+01:38:25,320 --> 01:38:28,040
+If you search here for black shirt
+then what would happen?
+
+1601
+01:38:28,640 --> 01:38:30,160
+You search for black shirt.
+
+1602
+01:38:30,160 --> 01:38:34,800
+So now this Amazon is connected
+with so many people.
+
+1603
+01:38:34,960 --> 01:38:36,520
+It's connected with so many,
+
+1604
+01:38:36,520 --> 01:38:40,280
+you know, merchants
+who are selling their products via Amazon.
+
+1605
+01:38:40,600 --> 01:38:43,760
+So it states that exist
+and it captures their data
+
+1606
+01:38:43,760 --> 01:38:46,800
+from all the people who have black
+
+1607
+01:38:46,800 --> 01:38:49,520
+shirts available and provides it here.
+
+1608
+01:38:50,000 --> 01:38:50,680
+Correct.
+
+1609
+01:38:50,680 --> 01:38:55,840
+So now now this letter,
+the logic is written and this data layer
+
+1610
+01:38:55,840 --> 01:38:58,920
+where their data is available
+can not be in the same place.
+
+1611
+01:38:59,720 --> 01:39:01,280
+It cannot be the same place.
+
+1612
+01:39:01,280 --> 01:39:03,360
+And the reason is very simple.
+
+1613
+01:39:03,360 --> 01:39:08,920
+White cannot read the same place
+because here, here this place is available
+
+1614
+01:39:09,000 --> 01:39:13,200
+somewhere else and this data is available
+somewhere as correct
+
+1615
+01:39:14,440 --> 01:39:15,320
+correct guys,
+
+1616
+01:39:15,320 --> 01:39:21,040
+because their data is coming
+from multiple sources.
+
+1617
+01:39:21,040 --> 01:39:23,080
+We have one Amazon so that in a group.
+
+1618
+01:39:23,240 --> 01:39:24,720
+Great. Right.
+
+1619
+01:39:24,720 --> 01:39:26,040
+So now you'll see.
+
+1620
+01:39:26,040 --> 01:39:30,640
+Now you'll see this presentation it
+another place application did it
+
+1621
+01:39:30,640 --> 01:39:35,800
+another place data layer in another place
+right data near it another place.
+
+1622
+01:39:36,120 --> 01:39:40,880
+When we have this type of arrangement
+we call it read the architecture.
+
+1623
+01:39:41,120 --> 01:39:44,400
+Now this three year architecture examples
+
+1624
+01:39:44,400 --> 01:39:46,520
+are Facebook,
+
+1625
+01:39:48,360 --> 01:39:51,880
+Instagram, Amazon,
+
+1626
+01:39:53,160 --> 01:39:55,560
+Skyscanner
+
+1627
+01:39:55,560 --> 01:39:57,800
+is my trip.
+
+1628
+01:39:57,800 --> 01:40:00,120
+Airbnb
+
+1629
+01:40:00,240 --> 01:40:03,800
+and so many others and so many others are
+
+1630
+01:40:05,000 --> 01:40:07,560
+guys truly therapeutic generators to
+
+1631
+01:40:11,760 --> 01:40:14,640
+bring three data architecture in this.
+
+1632
+01:40:14,680 --> 01:40:17,560
+Would everyone let's
+
+1633
+01:40:17,800 --> 01:40:19,520
+let's go a step further
+
+1634
+01:40:19,520 --> 01:40:29,400
+something very interesting.
+
+1635
+01:40:29,400 --> 01:40:34,400
+If we expand
+if we expand this 3D architecture,
+
+1636
+01:40:35,360 --> 01:40:37,760
+it becomes it becomes
+
+1637
+01:40:38,760 --> 01:40:42,400
+distributed architecture or we call it
+
+1638
+01:40:43,000 --> 01:40:45,520
+and the Iraqi just what we call it,
+
+1639
+01:40:47,240 --> 01:40:47,840
+the Iraqi
+
+1640
+01:40:47,840 --> 01:40:51,960
+nature distributed architecture
+or Indian architecture.
+
+1641
+01:40:51,960 --> 01:40:55,280
+Now what is the meaning of this
+entire architecture?
+
+1642
+01:40:56,640 --> 01:40:59,720
+What is the meaning of this
+distributed architecture?
+
+1643
+01:41:00,120 --> 01:41:01,920
+Tell me one thing
+
+1644
+01:41:02,720 --> 01:41:04,800
+Microsoft.
+
+1645
+01:41:04,920 --> 01:41:08,040
+Microsoft is having a database, correct?
+
+1646
+01:41:08,720 --> 01:41:12,640
+Let's consider this presentation layer,
+this business layer,
+
+1647
+01:41:13,040 --> 01:41:15,800
+application layer and this data layer.
+
+1648
+01:41:16,400 --> 01:41:25,720
+Now tell me how much data Microsoft has?
+
+1649
+01:41:25,720 --> 01:41:26,880
+A lot.
+
+1650
+01:41:26,880 --> 01:41:29,120
+We don't even know how much data has rate.
+
+1651
+01:41:29,240 --> 01:41:32,280
+Microsoft has in one server.
+
+1652
+01:41:33,600 --> 01:41:36,360
+In one server, can Microsoft
+
+1653
+01:41:37,200 --> 01:41:40,040
+put all their data store all their data
+
+1654
+01:41:41,440 --> 01:41:43,440
+just in one server? No.
+
+1655
+01:41:44,640 --> 01:41:47,560
+What would happen if it was all in one
+sort of a server
+
+1656
+01:41:47,600 --> 01:42:37,440
+is not capable to handle in a
+just a moment.
+
+1657
+01:42:37,440 --> 01:42:37,920
+No, no, no.
+
+1658
+01:42:37,920 --> 01:42:39,120
+You not lost me.
+
+1659
+01:42:39,120 --> 01:42:41,600
+Don't worry.
+You don't lose me. I'm here to Silver.
+
+1660
+01:42:41,760 --> 01:42:43,720
+It is just a bit
+of history going on dates by
+
+1661
+01:43:06,200 --> 01:43:09,640
+going to connect us.
+
+1662
+01:43:09,640 --> 01:43:11,240
+Fine, fine.
+
+1663
+01:43:11,240 --> 01:43:16,680
+So now you see presentation
+layer, application layer data net rate.
+
+1664
+01:43:17,160 --> 01:43:19,640
+Recently you might have heard the news.
+
+1665
+01:43:19,640 --> 01:43:20,000
+Maybe.
+
+1666
+01:43:20,000 --> 01:43:22,400
+I'm not sure
+whether you guys heard about it or not.
+
+1667
+01:43:22,880 --> 01:43:26,880
+Recently,
+Google decided to change its data center
+
+1668
+01:43:26,880 --> 01:43:30,640
+in India from Hadramout to Bangalore.
+
+1669
+01:43:30,640 --> 01:43:32,960
+Wait, everybody is a place in India.
+
+1670
+01:43:32,960 --> 01:43:34,680
+We call it cyber. Huh?
+
+1671
+01:43:34,680 --> 01:43:38,280
+Now the new cyber
+city of India is Bangalore because of
+
+1672
+01:43:39,080 --> 01:43:40,760
+climatic conditions, right?
+
+1673
+01:43:40,760 --> 01:43:44,760
+They decided to change their data center
+from Hadramout to Bangalore.
+
+1674
+01:43:44,760 --> 01:43:46,920
+Because Bangalore is more favorable.
+
+1675
+01:43:46,920 --> 01:43:50,600
+Bangalore has more favorable
+climatic conditions for the database.
+
+1676
+01:43:51,080 --> 01:43:53,600
+Now the same problem rate
+
+1677
+01:43:53,600 --> 01:43:56,680
+was heavy
+with Microsoft as well in the US,
+
+1678
+01:43:57,040 --> 01:44:01,320
+and they were spending billions of dollars
+just to cool down their servers
+
+1679
+01:44:01,320 --> 01:44:05,320
+because the amount of data
+was so high, right?
+
+1680
+01:44:05,680 --> 01:44:09,360
+The amount of data was so high
+and they were not able to manage
+
+1681
+01:44:09,360 --> 01:44:11,080
+those servers because they were,
+
+1682
+01:44:11,080 --> 01:44:15,840
+you know, spending millions of dollars
+just to cool them down so that engineers
+
+1683
+01:44:18,000 --> 01:44:19,280
+subpoenaed data.
+
+1684
+01:44:19,280 --> 01:44:21,240
+A guy from India. Right.
+
+1685
+01:44:21,240 --> 01:44:22,200
+They're ingenious.
+
+1686
+01:44:22,200 --> 01:44:24,120
+And the leader of those engineering
+
+1687
+01:44:24,120 --> 01:44:28,280
+team has decided
+and they came up with the strategy.
+
+1688
+01:44:28,280 --> 01:44:30,480
+You know, what is that strategy?
+
+1689
+01:44:30,480 --> 01:44:35,480
+They decided not to spend millions
+and billions of dollars just to cool down
+
+1690
+01:44:35,480 --> 01:44:39,560
+those servers and, you know, putting them
+into cold room or something like this.
+
+1691
+01:44:39,800 --> 01:44:43,400
+Instead, they found a location in the U.S.
+
+1692
+01:44:43,800 --> 01:44:45,880
+They found a location in the U.S.
+
+1693
+01:44:46,200 --> 01:44:50,480
+They're out one year, nine months,
+nine months.
+
+1694
+01:44:50,480 --> 01:44:52,560
+That's the climate is freezing.
+
+1695
+01:44:53,160 --> 01:44:55,200
+The climate is very cold.
+
+1696
+01:44:55,200 --> 01:44:57,480
+So they found that location in U.S.
+
+1697
+01:44:57,920 --> 01:45:00,680
+Right now, what they do, generally,
+they're they're
+
+1698
+01:45:00,960 --> 01:45:03,440
+they're in good place and they hired.
+
+1699
+01:45:04,200 --> 01:45:06,440
+Yeah, me I will tell you the name of it.
+
+1700
+01:45:06,440 --> 01:45:07,320
+The zip code for
+
+1701
+01:45:09,040 --> 01:45:11,760
+so now what they do generally what they do
+generally is
+
+1702
+01:45:12,080 --> 01:45:16,880
+they hired the complete lack of what
+at the end the bond over there.
+
+1703
+01:45:16,880 --> 01:45:18,080
+Let me show you this.
+
+1704
+01:45:18,080 --> 01:45:33,160
+If you can.
+
+1705
+01:45:33,200 --> 01:45:36,200
+You see this, everyone
+
+1706
+01:45:38,400 --> 01:45:39,160
+think so.
+
+1707
+01:45:39,160 --> 01:45:42,320
+What they did generally,
+they hired this, you know
+
+1708
+01:45:42,360 --> 01:45:46,240
+river the complete bond for 100 years
+from the government.
+
+1709
+01:45:46,240 --> 01:45:48,240
+They took it on lease basically.
+
+1710
+01:45:48,640 --> 01:45:51,800
+Now already the climate is very cheap.
+
+1711
+01:45:52,080 --> 01:45:54,920
+The climate is freezing
+very cold at the place.
+
+1712
+01:45:55,200 --> 01:45:58,800
+And if you talk about water,
+it is just freezing rain.
+
+1713
+01:45:59,320 --> 01:46:01,760
+This water temperature is very low.
+
+1714
+01:46:02,080 --> 01:46:05,320
+So it cools down
+your server automatically.
+
+1715
+01:46:05,320 --> 01:46:09,920
+So what they do, what they did generally,
+they created this type of,
+
+1716
+01:46:09,920 --> 01:46:14,400
+you know, this capsule straight
+and they placed their servers
+
+1717
+01:46:14,400 --> 01:46:18,760
+inside this capsules and they put these
+capsules down into the water.
+
+1718
+01:46:18,760 --> 01:46:21,240
+You see they're putting down
+all their capsules.
+
+1719
+01:46:21,280 --> 01:46:23,160
+This here, this one, right.
+
+1720
+01:46:23,160 --> 01:46:25,720
+They're having their server
+like this their database.
+
+1721
+01:46:26,040 --> 01:46:29,040
+So now my
+if you're thinking I'm storing my flight
+
+1722
+01:46:29,040 --> 01:46:32,960
+in Microsoft Cloud, but it is voting,
+it is storing here in this particular
+
+1723
+01:46:35,040 --> 01:46:38,120
+your flight is available in this river.
+
+1724
+01:46:38,120 --> 01:46:40,040
+Can you see like this
+
+1725
+01:46:40,800 --> 01:46:43,000
+That's how they seemed
+
+1726
+01:46:43,040 --> 01:46:47,000
+millions of dollars
+they saved millions of dollars.
+
+1727
+01:46:47,000 --> 01:46:49,880
+You see
+their data is available underwater.
+
+1728
+01:46:50,160 --> 01:46:53,640
+So now next time next time,
+if their database increased,
+
+1729
+01:46:53,720 --> 01:46:57,360
+what they will do create one more capsule,
+put it under the water.
+
+1730
+01:46:57,560 --> 01:47:00,680
+Simply, they don't have to spend millions
+and billions of dollars.
+
+1731
+01:47:01,280 --> 01:47:01,960
+Right.
+
+1732
+01:47:01,960 --> 01:47:05,560
+So now, because they're deep,
+AI's available here doesn't mean
+
+1733
+01:47:05,720 --> 01:47:08,800
+that the application logic
+will also be available here.
+
+1734
+01:47:09,560 --> 01:47:12,040
+Application
+logic can be available at another place.
+
+1735
+01:47:12,040 --> 01:47:13,880
+I need an example also,
+
+1736
+01:47:13,880 --> 01:47:17,920
+but so now first let's sort out
+this particular part data layer.
+
+1737
+01:47:17,920 --> 01:47:22,040
+Work.
+
+1738
+01:47:22,040 --> 01:47:24,720
+And as you guys this everyone understood
+
+1739
+01:47:25,240 --> 01:47:26,800
+database part.
+
+1740
+01:47:27,840 --> 01:47:29,640
+Let's come to our point.
+
+1741
+01:47:29,640 --> 01:47:34,640
+So tell me one
+system can have multiple database, right?
+
+1742
+01:47:34,680 --> 01:47:37,680
+Multiple servers
+relies coming from multiple sources.
+
+1743
+01:47:38,280 --> 01:47:40,240
+Correct.
+
+1744
+01:47:40,240 --> 01:47:44,880
+Correct.
+
+1745
+01:47:44,880 --> 01:47:49,520
+Similarly similarly
+if we talk about application,
+
+1746
+01:47:49,520 --> 01:47:57,160
+so tell me how many countries
+we have on this planet,
+
+1747
+01:47:57,160 --> 01:47:59,840
+how many countries we have known globally.
+
+1748
+01:48:00,240 --> 01:48:05,080
+I'm taking your blood in the
+knowledge hundred, 301 9200
+
+1749
+01:48:08,680 --> 01:48:13,320
+2066206.
+
+1750
+01:48:14,520 --> 01:48:16,520
+Earlier, it was 36 countries
+
+1751
+01:48:17,880 --> 01:48:18,880
+really
+
+1752
+01:48:19,920 --> 01:48:22,720
+to about Europe
+
+1753
+01:48:25,400 --> 01:48:26,640
+to zero four was earlier.
+
+1754
+01:48:26,640 --> 01:48:30,600
+I think the numbers was 204
+and essentially two countries in Greece.
+
+1755
+01:48:30,600 --> 01:48:31,320
+Right.
+
+1756
+01:48:31,680 --> 01:48:36,200
+So it's two zero, I think.
+
+1757
+01:48:36,200 --> 01:48:40,280
+So to zero six,
+according to my knowledge, 207006.
+
+1758
+01:48:40,280 --> 01:48:45,360
+These are the number.
+
+1759
+01:48:45,360 --> 01:48:49,920
+So now now see, in every country
+this book is available on
+
+1760
+01:48:49,920 --> 01:48:55,440
+the Amazon is available in every country.
+
+1761
+01:48:55,440 --> 01:48:58,440
+Yes, Amazon is available everywhere.
+
+1762
+01:48:58,440 --> 01:49:00,640
+But tell me one thing.
+
+1763
+01:49:00,640 --> 01:49:02,960
+If I open Amazon, right,
+
+1764
+01:49:02,960 --> 01:49:09,120
+and if I go here, right.
+
+1765
+01:49:09,440 --> 01:49:11,760
+You see these languages available?
+
+1766
+01:49:13,200 --> 01:49:15,360
+These languages available, right.
+
+1767
+01:49:15,360 --> 01:49:17,920
+Hindi, Tamil, Telugu
+
+1768
+01:49:18,080 --> 01:49:21,480
+and Malayalam trade bundle up in Marathi.
+
+1769
+01:49:21,840 --> 01:49:25,960
+These are some of our regional languages,
+right?
+
+1770
+01:49:26,520 --> 01:49:30,080
+These languages are available
+only for Indian users.
+
+1771
+01:49:30,320 --> 01:49:34,400
+But if someone tries
+to access the same application
+
+1772
+01:49:34,400 --> 01:49:37,920
+the same Amazon in U.S.,
+will they be able to get
+
+1773
+01:49:37,920 --> 01:49:43,000
+all these language options?
+
+1774
+01:49:43,000 --> 01:49:45,240
+No. Right.
+
+1775
+01:49:45,240 --> 01:49:49,000
+How is it possible that one application
+
+1776
+01:49:49,440 --> 01:49:53,760
+in had multi functionalities
+for different languages?
+
+1777
+01:49:54,520 --> 01:49:56,640
+Remember one thing to operate
+
+1778
+01:49:56,840 --> 01:50:01,240
+with in any country,
+every application has to follow
+
+1779
+01:50:01,320 --> 01:50:04,640
+the regulations
+of the beginning nation Correct.
+
+1780
+01:50:05,000 --> 01:50:09,040
+And then these regulations is different
+for different countries.
+
+1781
+01:50:09,160 --> 01:50:09,800
+Correct.
+
+1782
+01:50:09,800 --> 01:50:14,280
+So this time the application
+logic comes into the picture
+
+1783
+01:50:14,520 --> 01:50:17,880
+where we have made
+people application. Yes.
+
+1784
+01:50:18,240 --> 01:50:20,560
+When we have multiple logics available.
+
+1785
+01:50:20,560 --> 01:50:21,240
+Right.
+
+1786
+01:50:21,760 --> 01:50:24,920
+So for example, in India
+you have to provide this use,
+
+1787
+01:50:24,920 --> 01:50:28,960
+you have to provide this China, provide
+these European countries,
+
+1788
+01:50:28,960 --> 01:50:34,320
+some native Sweden, provide this,
+you provide this, Brazil,
+
+1789
+01:50:34,320 --> 01:50:39,440
+provide this, Mexico, provide this right
+lot of business logic.
+
+1790
+01:50:39,440 --> 01:50:41,680
+So it was lot of business logic.
+
+1791
+01:50:41,680 --> 01:50:44,520
+Now, wherever you are,
+this is a presentation.
+
+1792
+01:50:44,520 --> 01:50:45,360
+We're blank.
+
+1793
+01:50:45,360 --> 01:50:48,640
+Whenever you are,
+you let's log in from Brazil.
+
+1794
+01:50:49,120 --> 01:50:51,520
+It connects you here, take your database.
+
+1795
+01:50:51,520 --> 01:50:57,000
+What I'm connecting from India, connects
+me here, District office and so on.
+
+1796
+01:50:57,320 --> 01:50:58,040
+Right.
+
+1797
+01:50:58,040 --> 01:51:00,080
+So you'll see application layer
+
+1798
+01:51:00,720 --> 01:51:04,360
+there check by and B what is AP
+
+1799
+01:51:06,840 --> 01:51:11,400
+IP? Yes, it's IP config going to IP
+country.
+
+1800
+01:51:11,400 --> 01:51:12,120
+Great.
+
+1801
+01:51:12,480 --> 01:51:16,080
+So now now you see this presentation,
+
+1802
+01:51:16,080 --> 01:51:21,200
+it is connected multiple application layer
+and this multiple applications
+
+1803
+01:51:21,200 --> 01:51:24,120
+layers are connected
+with multiple data layers.
+
+1804
+01:51:24,480 --> 01:51:26,520
+So when we have this multiple data layers,
+
+1805
+01:51:26,520 --> 01:51:29,560
+multiple applications near a presentation
+layers, right.
+
+1806
+01:51:29,840 --> 01:51:33,120
+That are distributed to multiple places
+
+1807
+01:51:33,320 --> 01:51:38,440
+and from those multiple places,
+we are making one system,
+
+1808
+01:51:38,640 --> 01:51:43,040
+this type of system
+we call distributed architecture
+
+1809
+01:51:43,280 --> 01:51:47,120
+and IT architecture or extended three tier
+
+1810
+01:51:47,120 --> 01:51:59,600
+architecture, any question.
+
+1811
+01:51:59,600 --> 01:52:01,200
+So for this
+
+1812
+01:52:08,840 --> 01:52:09,720
+so far, so good.
+
+1813
+01:52:09,720 --> 01:52:10,680
+Everyone
+
+1814
+01:52:23,880 --> 01:52:28,000
+models, let's proceed further.
+
+1815
+01:52:28,000 --> 01:52:30,320
+Now the question is fine.
+
+1816
+01:52:30,320 --> 01:52:33,040
+Whatever the things
+we are seeing here on UI,
+
+1817
+01:52:34,040 --> 01:52:36,200
+it means on presentation
+
+1818
+01:52:36,200 --> 01:52:39,480
+that thing is coming
+from Italian, correct, from server.
+
+1819
+01:52:40,200 --> 01:52:42,760
+So everything is from place to server,
+
+1820
+01:52:43,200 --> 01:52:46,240
+data is coming from here and showing here.
+
+1821
+01:52:46,640 --> 01:52:49,360
+Then why do we need this API?
+
+1822
+01:52:50,760 --> 01:52:51,840
+What is the need
+
+1823
+01:52:51,840 --> 01:52:58,680
+to test API?
+
+1824
+01:52:58,680 --> 01:53:02,240
+The point then what do we need?
+
+1825
+01:53:02,240 --> 01:53:04,440
+Why do we need to test APIs?
+
+1826
+01:53:04,440 --> 01:53:06,120
+Very genuine question.
+
+1827
+01:53:06,120 --> 01:53:08,200
+Right, Very genuine questions.
+
+1828
+01:53:08,200 --> 01:53:09,160
+Fine.
+
+1829
+01:53:09,440 --> 01:53:22,360
+Let me tell you this.
+
+1830
+01:53:22,360 --> 01:53:24,560
+See why API testing.
+
+1831
+01:53:25,960 --> 01:53:28,440
+So basically, basically
+
+1832
+01:53:29,880 --> 01:53:32,760
+when we talk about three things
+
+1833
+01:53:32,760 --> 01:53:35,000
+UI, we call it,
+
+1834
+01:53:36,000 --> 01:53:39,040
+we call it front end development, right
+
+1835
+01:53:40,680 --> 01:53:44,960
+at the same time someone works on
+database, we call it back in development.
+
+1836
+01:53:45,720 --> 01:53:47,400
+At the same time someone is calling.
+
+1837
+01:53:47,400 --> 01:53:51,800
+If someone is working on middleware
+also, right, That is also a development.
+
+1838
+01:53:52,440 --> 01:53:53,800
+Now tell me
+
+1839
+01:53:54,120 --> 01:54:01,200
+which language people
+generally use to develop something,
+
+1840
+01:54:01,200 --> 01:54:04,320
+but you develop with which language.
+
+1841
+01:54:04,320 --> 01:54:05,360
+English language.
+
+1842
+01:54:05,360 --> 01:54:06,800
+No. Yes.
+
+1843
+01:54:06,800 --> 01:54:09,920
+They use either HDMI,
+
+1844
+01:54:09,920 --> 01:54:12,480
+CSF, JavaScript
+
+1845
+01:54:13,160 --> 01:54:15,680
+and Angular this language to use.
+
+1846
+01:54:15,680 --> 01:54:16,280
+Right
+
+1847
+01:54:17,160 --> 01:54:19,800
+for banking,
+which language people generally use
+
+1848
+01:54:20,400 --> 01:54:28,720
+for banking.
+
+1849
+01:54:28,720 --> 01:54:29,280
+Java,
+
+1850
+01:54:30,440 --> 01:54:34,520
+python, Ruby for shell JavaScript
+
+1851
+01:54:34,520 --> 01:54:38,360
+swimming like known as well
+estimators for printing. No.
+
+1852
+01:54:38,640 --> 01:54:42,920
+And then you see assistance for printing
+gasket extensions for banking.
+
+1853
+01:54:43,200 --> 01:54:45,120
+There is no cases on HTML.
+
+1854
+01:54:45,120 --> 01:54:48,680
+It's a hard core programing language
+like Java C++.
+
+1855
+01:54:48,680 --> 01:54:51,400
+By then it will be full shell.
+
+1856
+01:54:51,680 --> 01:54:53,440
+These are the languages.
+
+1857
+01:54:53,440 --> 01:54:54,120
+All right.
+
+1858
+01:54:54,360 --> 01:54:57,120
+Similarly for middleware,
+also some language.
+
+1859
+01:54:57,120 --> 01:54:58,640
+Great. I don't know which language.
+
+1860
+01:54:58,640 --> 01:55:00,920
+We also they use some language
+for developing
+
+1861
+01:55:01,800 --> 01:55:03,400
+three layers.
+
+1862
+01:55:04,280 --> 01:55:06,640
+They are going to develop.
+
+1863
+01:55:06,640 --> 01:55:09,840
+Three beams are going to work on this.
+
+1864
+01:55:10,680 --> 01:55:13,720
+All these three teams are working on
+
+1865
+01:55:14,120 --> 01:55:19,120
+different programing languages.
+
+1866
+01:55:19,120 --> 01:55:22,440
+So you are let's
+see if it is available in CCIS
+
+1867
+01:55:22,920 --> 01:55:25,920
+or in Angular backend is available in Java
+
+1868
+01:55:26,240 --> 01:55:29,080
+and is available in 18.
+
+1869
+01:55:29,080 --> 01:55:33,480
+Now see to make this application working
+
+1870
+01:55:34,800 --> 01:55:35,760
+to enable this
+
+1871
+01:55:35,760 --> 01:55:38,480
+application first, what we have to do,
+
+1872
+01:55:38,960 --> 01:55:43,200
+we have to connect these three layers
+together to make it a single application.
+
+1873
+01:55:43,800 --> 01:55:45,240
+So make it a final product.
+
+1874
+01:55:45,240 --> 01:55:48,120
+We have to connect all these three things
+together or not, and
+
+1875
+01:55:58,720 --> 01:55:59,760
+we have to do it.
+
+1876
+01:55:59,760 --> 01:56:02,520
+We have to connect all these three things
+together.
+
+1877
+01:56:02,520 --> 01:56:05,000
+Now I guess he is. No, ma'am.
+
+1878
+01:56:05,000 --> 01:56:06,320
+You should believe it.
+
+1879
+01:56:06,320 --> 01:56:08,960
+Without connecting,
+there is nothing which is going to work.
+
+1880
+01:56:08,960 --> 01:56:09,600
+Great.
+
+1881
+01:56:09,600 --> 01:56:10,840
+So we have to connect.
+
+1882
+01:56:10,840 --> 01:56:13,320
+We have to establish this connection.
+All right.
+
+1883
+01:56:13,560 --> 01:56:14,480
+If you don't connect
+
+1884
+01:56:14,480 --> 01:56:17,600
+your database to your machine,
+if you don't connect your database
+
+1885
+01:56:17,600 --> 01:56:22,320
+to your application,
+then what would happen in that case?
+
+1886
+01:56:22,320 --> 01:56:25,560
+What would happen in that case, you would
+not get anything on your application,
+
+1887
+01:56:26,560 --> 01:56:27,240
+right?
+
+1888
+01:56:27,440 --> 01:56:31,440
+If you don't connect your business logic,
+no connection,
+
+1889
+01:56:31,440 --> 01:56:35,680
+nothing is going to come
+from the database.
+
+1890
+01:56:35,680 --> 01:56:36,080
+Correct.
+
+1891
+01:56:36,080 --> 01:56:38,520
+And no communication.
+
+1892
+01:56:38,520 --> 01:56:41,440
+Fine. So no, no.
+
+1893
+01:56:41,440 --> 01:56:44,840
+Remember one thing,
+these are the limitations of application
+
+1894
+01:56:44,840 --> 01:56:48,720
+that the applications which are developed
+
+1895
+01:56:48,920 --> 01:56:54,680
+in different programing languages
+cannot communicate to each other directly.
+
+1896
+01:56:54,920 --> 01:56:56,520
+It is as simple as that.
+
+1897
+01:56:56,520 --> 01:57:00,400
+If you know how to speak English
+and if someone knows how to speak Italian
+
+1898
+01:57:00,600 --> 01:57:03,960
+right, you cannot communicate
+directly with that person.
+
+1899
+01:57:04,440 --> 01:57:06,960
+Mean unless you know this language. Right?
+
+1900
+01:57:07,280 --> 01:57:09,640
+Or you find some intermediate.
+
+1901
+01:57:09,640 --> 01:57:11,280
+He doesn't know how to speak English.
+
+1902
+01:57:11,280 --> 01:57:13,000
+You don't know how to speak Italian.
+
+1903
+01:57:13,000 --> 01:57:15,480
+There is no communication at all. Right.
+
+1904
+01:57:15,840 --> 01:57:17,800
+So you need someone
+
+1905
+01:57:17,800 --> 01:57:21,400
+who can translate your message
+and you can translate his message for you.
+
+1906
+01:57:22,120 --> 01:57:22,480
+Right.
+
+1907
+01:57:22,480 --> 01:57:27,000
+You need someone similarly here
+also to check
+
+1908
+01:57:27,080 --> 01:57:32,880
+whether these applications connected
+develop in a different programing.
+
+1909
+01:57:32,880 --> 01:57:36,080
+Languages are working correctly or not
+
+1910
+01:57:36,240 --> 01:57:39,240
+and are able to communicate
+with each other or.
+
+1911
+01:57:39,240 --> 01:57:44,360
+Not we have to use one intermediate thing
+and that intermediate
+
+1912
+01:57:44,720 --> 01:57:49,680
+will pass on the information
+will transmit the information from layer
+
+1913
+01:57:49,680 --> 01:57:55,600
+to another layer to another layer,
+because this part is API, right?
+
+1914
+01:57:55,800 --> 01:57:57,480
+This part is API.
+
+1915
+01:57:58,440 --> 01:58:06,720
+Understood, right?
+
+1916
+01:58:06,720 --> 01:58:09,600
+More clear example is Skyscanner.
+
+1917
+01:58:10,800 --> 01:58:16,400
+Maybe Skyscanner used an angular, Angular
+
+1918
+01:58:16,400 --> 01:58:20,240
+and some other
+and then it connects with data airlines.
+
+1919
+01:58:20,760 --> 01:58:23,120
+So maybe data is using, let's say, Java,
+
+1920
+01:58:23,720 --> 01:58:26,400
+how these two applications
+are connecting together,
+
+1921
+01:58:26,400 --> 01:58:30,680
+how these applications are communicating
+with each other when they're developing
+
+1922
+01:58:30,680 --> 01:58:35,760
+different programing languages, using APIs
+
+1923
+01:58:37,120 --> 01:58:39,040
+using it, right?
+
+1924
+01:58:39,040 --> 01:58:42,600
+So now why API distinct is important.
+
+1925
+01:58:42,600 --> 01:58:48,440
+See here, firstly, to make systems
+developed in different languages
+
+1926
+01:58:48,600 --> 01:58:50,280
+to communicate.
+
+1927
+01:58:51,040 --> 01:58:55,000
+Second thing for security reasons
+also, right,
+
+1928
+01:58:55,920 --> 01:58:59,840
+Because no one wants
+to share their database with anyone.
+
+1929
+01:59:00,640 --> 01:59:05,200
+I give you the example of data
+and I give you the examples of Etihad.
+
+1930
+01:59:05,480 --> 01:59:07,680
+I give you the example of Qatar Airways.
+
+1931
+01:59:07,960 --> 01:59:10,560
+They don't want to share their database
+with you.
+
+1932
+01:59:10,680 --> 01:59:13,680
+Instead, they
+but they are ready to give you
+
+1933
+01:59:13,680 --> 01:59:17,680
+the only piece of information
+which you need based on your query.
+
+1934
+01:59:18,000 --> 01:59:18,680
+Correct.
+
+1935
+01:59:18,680 --> 01:59:22,800
+So now if you have an API, then
+you have this facility, but you can share
+
+1936
+01:59:22,800 --> 01:59:26,080
+just one piece of information
+and not the complete information.
+
+1937
+01:59:26,120 --> 01:59:28,000
+You just share one piece of information.
+
+1938
+01:59:28,000 --> 01:59:30,000
+And that would be more than enough.
+
+1939
+01:59:30,000 --> 01:59:36,160
+That would be more than enough, Correct?
+
+1940
+01:59:36,160 --> 01:59:39,720
+Is this correct based?
+
+1941
+01:59:39,720 --> 01:59:42,160
+So security also maintains this
+
+1942
+01:59:43,320 --> 01:59:43,960
+posting.
+
+1943
+01:59:43,960 --> 01:59:47,640
+It enables us to communicate
+among the people applications
+
+1944
+01:59:48,720 --> 01:59:52,840
+developed in different
+programing languages right now.
+
+1945
+01:59:52,840 --> 01:59:54,960
+See now see what is happening.
+
+1946
+01:59:56,880 --> 01:59:58,240
+What is happening here?
+
+1947
+01:59:58,240 --> 02:00:06,760
+My Do we need to use this particular part?
+
+1948
+02:00:06,760 --> 02:00:10,960
+For example, let's say
+now going to book the ticket from New York
+
+1949
+02:00:10,960 --> 02:00:15,960
+to Mumbai, from New York to open it,
+she would indicate,
+
+1950
+02:00:16,640 --> 02:00:20,160
+and she got one DNA number after booking.
+
+1951
+02:00:20,640 --> 02:00:22,840
+And the Vienna number is one, two, three
+
+1952
+02:00:24,840 --> 02:00:26,400
+at the same time.
+
+1953
+02:00:26,400 --> 02:00:29,000
+At the same time, someone booked a ticket
+
+1954
+02:00:29,840 --> 02:00:33,000
+from Kiev, Ukraine, right.
+
+1955
+02:00:33,000 --> 02:00:35,880
+To, let's say,
+someone critical from Ukraine to
+
+1956
+02:00:37,640 --> 02:00:40,720
+the U.S., like New York.
+
+1957
+02:00:42,160 --> 02:00:45,560
+She also got the same
+be another one, two, three.
+
+1958
+02:00:45,880 --> 02:00:51,000
+How is that possible that for two different bookings people got simply enough
+
+1959
+02:00:53,760 --> 02:00:55,040
+people got simple enough.
+
+1960
+02:00:55,040 --> 02:00:57,240
+How is it possible
+
+1961
+02:00:57,720 --> 02:01:00,280
+is there any issue with their database?
+
+1962
+02:01:00,280 --> 02:01:03,720
+No databases,
+just giving you the information okay,
+
+1963
+02:01:03,840 --> 02:01:07,080
+this is your data
+is that initial with the presentation
+
+1964
+02:01:07,080 --> 02:01:07,560
+there
+
+1965
+02:01:10,200 --> 02:01:12,720
+no presentation
+that is just showing you the things.
+
+1966
+02:01:12,720 --> 02:01:14,520
+Is that initial with the logic?
+
+1967
+02:01:14,520 --> 02:01:17,920
+No, there is no issue the logic either
+because logic says
+
+1968
+02:01:18,120 --> 02:01:21,520
+if you book a ticket,
+we will provide you be in a database.
+
+1969
+02:01:21,600 --> 02:01:22,240
+This all right,
+
+1970
+02:01:22,240 --> 02:01:26,280
+this is the business ticket
+and provided there, what is the problem?
+
+1971
+02:01:26,560 --> 02:01:28,440
+There is a glitch.
+
+1972
+02:01:28,440 --> 02:01:31,440
+There is a glitch in a buy
+
+1973
+02:01:32,600 --> 02:01:35,080
+rate,
+different database for different person.
+
+1974
+02:01:35,080 --> 02:01:38,160
+No such one database for all people.
+
+1975
+02:01:38,160 --> 02:01:40,000
+Glitch in the API.
+
+1976
+02:01:40,000 --> 02:01:41,720
+How glitch in the API?
+
+1977
+02:01:41,720 --> 02:01:46,040
+It's very simple, but
+when we talk about a glitch in the API,
+
+1978
+02:01:46,320 --> 02:01:49,640
+always remember one thing, right?
+
+1979
+02:01:49,920 --> 02:01:52,800
+That API is not able to get
+
+1980
+02:01:52,800 --> 02:01:56,280
+the exact updated data
+from their database.
+
+1981
+02:01:56,280 --> 02:01:58,400
+It simply goes there right.
+
+1982
+02:01:58,680 --> 02:02:02,040
+If there is a glitch in the API,
+it simply goes here.
+
+1983
+02:02:02,440 --> 02:02:03,080
+Great.
+
+1984
+02:02:03,080 --> 02:02:06,720
+Fix their data
+but their data is not get updated.
+
+1985
+02:02:06,720 --> 02:02:09,960
+So the previous data only issues on
+to the application.
+
+1986
+02:02:10,840 --> 02:02:13,280
+According to the logic,
+we will show you data.
+
+1987
+02:02:13,280 --> 02:02:17,400
+So trade according to the database,
+we will send you their data.
+
+1988
+02:02:17,400 --> 02:02:19,880
+It is also right
+according to the presentation,
+
+1989
+02:02:20,120 --> 02:02:22,040
+it says we will show you the data.
+
+1990
+02:02:22,040 --> 02:02:25,080
+It will show you the data,
+but your logic is correct.
+
+1991
+02:02:25,200 --> 02:02:27,840
+Presentation
+there is correctly data player is correct.
+
+1992
+02:02:28,080 --> 02:02:29,360
+Who is the culprit?
+
+1993
+02:02:29,360 --> 02:02:32,280
+Culprit is your API,
+which is not upgrading the data.
+
+1994
+02:02:32,440 --> 02:02:37,080
+So that's why two people can get saved
+for different bookings.
+
+1995
+02:02:37,760 --> 02:02:40,600
+That's why we need to test API
+to make sure
+
+1996
+02:02:40,840 --> 02:02:46,400
+that data transmission of data
+transfer of data is going smoothly or not
+
+1997
+02:02:48,560 --> 02:02:49,000
+industrial.
+
+1998
+02:02:49,000 --> 02:02:49,920
+This part
+
+1999
+02:02:53,840 --> 02:02:55,560
+on this
+
+2000
+02:02:55,560 --> 02:03:07,680
+is the booking reference.
+
+2001
+02:03:07,680 --> 02:03:09,600
+No, it doesn't update the data.
+
+2002
+02:03:09,600 --> 02:03:17,320
+It makes the data updated data.
+
+2003
+02:03:17,320 --> 02:03:21,240
+IPS translating one programing language
+of a server to another.
+
+2004
+02:03:21,480 --> 02:03:22,480
+No, no, no.
+
+2005
+02:03:22,480 --> 02:03:26,520
+I never said
+this API is not going to translate
+
+2006
+02:03:26,520 --> 02:03:29,400
+or convert or translate
+any programing language, right?
+
+2007
+02:03:29,960 --> 02:03:34,480
+It provides that chunk of chunk of right.
+
+2008
+02:03:35,160 --> 02:03:37,600
+It provides a chunk of information
+in machine
+
+2009
+02:03:37,600 --> 02:03:40,400
+readable
+form, right in machine readable form.
+
+2010
+02:03:40,720 --> 02:03:43,440
+And then it converts
+this chunk of information
+
+2011
+02:03:43,760 --> 02:03:47,120
+that is no translator translator
+I just gave you.
+
+2012
+02:03:47,120 --> 02:03:49,600
+I just gave you the example of that.
+
+2013
+02:03:49,600 --> 02:03:52,440
+Yes, it is it is a at basically
+
+2014
+02:03:52,440 --> 02:03:55,000
+it getting information here in this book.
+
+2015
+02:03:56,480 --> 02:03:57,920
+Normally it has to be in the.
+
+2016
+02:03:57,920 --> 02:04:01,360
+Yes. When normally it has to be unique
+and generally it is unique.
+
+2017
+02:04:01,680 --> 02:04:07,160
+But if your API is, then definitely
+it gives you this kind of situation, but
+
+2018
+02:04:07,200 --> 02:04:12,080
+it generates do the same reference number
+for two different bookings
+
+2019
+02:04:13,960 --> 02:04:15,360
+already.
+
+2020
+02:04:15,480 --> 02:04:22,040
+So for
+any question, why do we need to test
+
+2021
+02:04:22,040 --> 02:04:25,440
+API domain
+then the security to enable the system
+
+2022
+02:04:25,440 --> 02:04:28,160
+so that they can communicate
+with each other right.
+
+2023
+02:04:28,160 --> 02:04:29,840
+With each other?
+
+2024
+02:04:30,840 --> 02:04:37,920
+It connect now.
+
+2025
+02:04:38,160 --> 02:04:40,480
+Now let's talk about
+
+2026
+02:04:41,000 --> 02:04:45,160
+let's talk about the last portion
+of explanation we will use.
+
+2027
+02:04:45,160 --> 02:04:46,640
+Postman only.
+
+2028
+02:04:46,640 --> 02:04:47,160
+Yes, sir.
+
+2029
+02:04:47,160 --> 02:04:52,920
+We will use Postman only contact.
+
+2030
+02:04:52,920 --> 02:04:56,640
+So now the last point of this class.
+
+2031
+02:04:56,640 --> 02:04:59,320
+Then I'm going to explain.
+
+2032
+02:04:59,320 --> 02:05:05,760
+See here,
+
+2033
+02:05:05,760 --> 02:05:15,200
+let me open our application right.
+
+2034
+02:05:15,200 --> 02:05:17,880
+This is our application, right?
+
+2035
+02:05:18,360 --> 02:05:19,320
+Tell me
+
+2036
+02:05:20,720 --> 02:05:22,320
+when we perform any type
+
+2037
+02:05:22,320 --> 02:05:25,040
+of operation in this application,
+
+2038
+02:05:26,120 --> 02:05:28,240
+what are the things we do generally
+
+2039
+02:05:29,360 --> 02:05:30,480
+in any application?
+
+2040
+02:05:30,480 --> 02:05:42,080
+What are the things we do?
+
+2041
+02:05:42,080 --> 02:05:43,080
+Clicking
+
+2042
+02:05:43,720 --> 02:05:45,000
+search
+
+2043
+02:05:46,680 --> 02:05:47,240
+request.
+
+2044
+02:05:47,240 --> 02:05:49,680
+Just click
+
+2045
+02:05:49,680 --> 02:05:51,400
+first log in by credentials.
+
+2046
+02:05:51,400 --> 02:05:55,240
+Okay.
+
+2047
+02:05:55,240 --> 02:06:04,000
+See, browse, request log in served.
+
+2048
+02:06:04,560 --> 02:06:06,800
+Okay, let me ask.
+
+2049
+02:06:06,800 --> 02:06:09,120
+It's talk about some
+high level of information.
+
+2050
+02:06:10,960 --> 02:06:12,520
+Typing something,
+
+2051
+02:06:12,520 --> 02:06:15,560
+log in something clicking
+something, browsing something.
+
+2052
+02:06:15,560 --> 02:06:20,080
+These are very low level information rate,
+very a ground level information.
+
+2053
+02:06:20,080 --> 02:06:23,680
+I'm talking about high level information,
+the scope of this thing,
+
+2054
+02:06:24,160 --> 02:06:28,040
+the scope of this to to best any software.
+
+2055
+02:06:28,600 --> 02:06:28,920
+Right.
+
+2056
+02:06:28,920 --> 02:06:32,200
+What are the operations we need
+
+2057
+02:06:32,240 --> 02:06:34,440
+to think about adequately this
+
+2058
+02:06:38,280 --> 02:06:39,480
+either
+
+2059
+02:06:40,160 --> 02:06:41,240
+either
+
+2060
+02:06:44,040 --> 02:06:46,960
+we read the information
+
+2061
+02:06:49,720 --> 02:06:51,360
+from start of
+
+2062
+02:06:52,800 --> 02:06:54,840
+our database,
+
+2063
+02:06:55,640 --> 02:06:58,560
+either retrieve some information
+from the database.
+
+2064
+02:06:58,560 --> 02:07:02,440
+For example, let's see,
+
+2065
+02:07:02,440 --> 02:07:06,120
+I click on employee list
+
+2066
+02:07:06,480 --> 02:07:08,920
+and it throws me out
+
+2067
+02:07:17,040 --> 02:07:18,560
+every time it happens to me.
+
+2068
+02:07:18,560 --> 02:07:21,280
+Whenever I try to log
+into this application includes me
+
+2069
+02:07:23,760 --> 02:07:25,920
+or we send it to database.
+
+2070
+02:07:25,920 --> 02:07:26,640
+Fine.
+
+2071
+02:07:27,000 --> 02:07:30,960
+So first first high level of information,
+I'm telling you.
+
+2072
+02:07:31,760 --> 02:07:34,560
+So when I'm checking the
+who creates wanted times, this
+
+2073
+02:07:43,480 --> 02:07:44,640
+right So
+
+2074
+02:07:44,640 --> 02:07:47,760
+now now you see right now you see here
+
+2075
+02:07:48,600 --> 02:07:53,120
+we include so now you see here
+
+2076
+02:07:53,120 --> 02:07:55,320
+all this data is coming from this
+
+2077
+02:08:03,640 --> 02:08:06,000
+and media is
+their data is coming from their database.
+
+2078
+02:08:06,000 --> 02:08:09,880
+But now when you are actually searching
+
+2079
+02:08:09,880 --> 02:08:12,840
+for an employee here,
+for example, this one,
+
+2080
+02:08:13,320 --> 02:08:17,280
+if you are searching for an employee here
+using this particular I.D..
+
+2081
+02:08:17,760 --> 02:08:18,280
+Right.
+
+2082
+02:08:18,280 --> 02:08:21,520
+What would happen in that case?
+
+2083
+02:08:21,520 --> 02:08:23,160
+It gives you the data.
+
+2084
+02:08:23,160 --> 02:08:25,800
+It gives you the data
+for this particular employee.
+
+2085
+02:08:25,800 --> 02:08:26,760
+Correct.
+
+2086
+02:08:27,720 --> 02:08:30,200
+For this particular employee,
+it gives you that data.
+
+2087
+02:08:30,440 --> 02:08:33,160
+So you will be able to see that database,
+right?
+
+2088
+02:08:34,760 --> 02:08:36,120
+Correct.
+
+2089
+02:08:36,120 --> 02:08:39,160
+No, it could be multiple ways.
+
+2090
+02:08:39,160 --> 02:08:41,040
+You want to search one employee.
+
+2091
+02:08:41,040 --> 02:08:43,040
+You can search one employee.
+
+2092
+02:08:43,040 --> 02:08:46,680
+You want to search all the employees
+you can search all the employees.
+
+2093
+02:08:47,480 --> 02:08:49,680
+You want to see the leave calendar.
+
+2094
+02:08:49,680 --> 02:08:51,760
+You can see the need in calendar.
+
+2095
+02:08:51,760 --> 02:08:56,160
+You want to see whatever
+the things you can see everything here
+
+2096
+02:08:56,880 --> 02:08:59,040
+by our database.
+
+2097
+02:08:59,520 --> 02:09:02,200
+So you are leaving the information
+
+2098
+02:09:02,200 --> 02:09:05,360
+from the database and verifying it.
+
+2099
+02:09:05,360 --> 02:09:08,280
+It means getting the information,
+verifying the information.
+
+2100
+02:09:08,280 --> 02:09:12,400
+All the things cover in just one part,
+this part retrieving the information,
+
+2101
+02:09:13,320 --> 02:09:17,640
+correct.
+
+2102
+02:09:17,640 --> 02:09:19,000
+Guys, please.
+
+2103
+02:09:19,000 --> 02:09:19,360
+Correct.
+
+2104
+02:09:19,360 --> 02:09:23,400
+A lot.
+
+2105
+02:09:23,400 --> 02:09:28,360
+Second thing, you are
+
+2106
+02:09:29,480 --> 02:09:32,400
+adding some information
+
+2107
+02:09:32,400 --> 02:09:37,040
+in there, database or server.
+
+2108
+02:09:37,040 --> 02:09:39,960
+You add some information
+in there, database of server.
+
+2109
+02:09:40,360 --> 02:09:43,000
+For example, click on an employee.
+
+2110
+02:09:44,480 --> 02:09:46,200
+Go here.
+
+2111
+02:09:46,200 --> 02:09:49,360
+Right. Gave
+
+2112
+02:09:50,160 --> 02:09:52,560
+one saved
+
+2113
+02:09:52,560 --> 02:09:54,720
+employee generated
+
+2114
+02:09:56,920 --> 02:09:57,840
+and began a scan of
+
+2115
+02:09:57,840 --> 02:10:02,880
+Who is this bug?
+
+2116
+02:10:03,520 --> 02:10:06,960
+Well right.
+
+2117
+02:10:07,640 --> 02:10:12,360
+So we created
+we created an employee, right?
+
+2118
+02:10:12,840 --> 02:10:17,200
+The moment we created an employee,
+what what does it mean?
+
+2119
+02:10:17,240 --> 02:10:20,400
+It simply means we have added some pieces
+
+2120
+02:10:20,400 --> 02:10:22,520
+of information in the database,
+
+2121
+02:10:24,160 --> 02:10:26,840
+then added some of information
+in the database
+
+2122
+02:10:26,920 --> 02:10:29,440
+more than we did this right.
+
+2123
+02:10:29,840 --> 02:10:35,400
+Similarly, if we are applying for leave,
+if we are going to assign some data
+
+2124
+02:10:35,400 --> 02:10:39,840
+to someone, some information to someone,
+we are simply adding
+
+2125
+02:10:39,840 --> 02:10:43,400
+some pieces of information
+in the existing database.
+
+2126
+02:10:43,640 --> 02:10:47,120
+So it means creating a data
+
+2127
+02:10:47,280 --> 02:10:52,440
+or adding a new record in the database
+or start over and then verify it.
+
+2128
+02:10:52,720 --> 02:10:56,720
+That is the second option.
+
+2129
+02:10:56,720 --> 02:10:58,600
+That is the second operation.
+
+2130
+02:10:58,600 --> 02:11:02,080
+The third operation,
+the third operation Create.
+
+2131
+02:11:02,600 --> 02:11:05,880
+The third operation
+we do is delete something.
+
+2132
+02:11:06,200 --> 02:11:08,240
+We delete the information
+
+2133
+02:11:08,920 --> 02:11:13,320
+from the database, from the database,
+
+2134
+02:11:13,320 --> 02:11:17,520
+or someone tried to delete
+this information from their database.
+
+2135
+02:11:17,520 --> 02:11:26,880
+What sort of innovative right
+is this correct.
+
+2136
+02:11:26,880 --> 02:11:27,480
+Right.
+
+2137
+02:11:27,480 --> 02:11:31,280
+Whatever the data is available there,
+I just deleted three employees.
+
+2138
+02:11:31,280 --> 02:11:34,920
+So what I did, I deleted some information
+from the database.
+
+2139
+02:11:35,880 --> 02:11:38,280
+I deleted
+some information from the database.
+
+2140
+02:11:38,280 --> 02:11:43,880
+Right.
+
+2141
+02:11:43,880 --> 02:11:47,040
+And then then the last operation,
+
+2142
+02:11:47,640 --> 02:11:53,480
+the last operation we perform is,
+we just update some information.
+
+2143
+02:11:53,480 --> 02:11:57,480
+We just obtained some information
+in database,
+
+2144
+02:11:59,120 --> 02:12:01,400
+in database or settlement activity place.
+
+2145
+02:12:02,400 --> 02:12:05,280
+So basically, on a high level,
+
+2146
+02:12:05,280 --> 02:12:10,760
+if we talk about the operations
+we perform, so we perform one operations,
+
+2147
+02:12:11,120 --> 02:12:14,880
+we perform
+simply creating a record in the database,
+
+2148
+02:12:15,840 --> 02:12:18,280
+retrieving the record from the database,
+
+2149
+02:12:18,960 --> 02:12:21,240
+updating the record in the database,
+
+2150
+02:12:21,800 --> 02:12:23,880
+deleting the record from the database.
+
+2151
+02:12:24,360 --> 02:12:28,120
+These operations
+we call create operations,
+
+2152
+02:12:28,440 --> 02:12:32,760
+which we generally perform in in U.S.
+
+2153
+02:12:32,760 --> 02:12:33,800
+history
+
+2154
+02:12:34,720 --> 02:12:38,720
+in the United States, using
+which tool Selenium
+
+2155
+02:12:39,480 --> 02:12:46,200
+VM menu connect.
+
+2156
+02:12:46,200 --> 02:12:47,280
+Yes, correct.
+
+2157
+02:12:47,280 --> 02:12:51,000
+But it is operating.
+
+2158
+02:12:51,000 --> 02:12:58,320
+There is is this period.
+
+2159
+02:12:58,320 --> 02:13:00,040
+This is one level.
+
+2160
+02:13:00,040 --> 02:13:03,120
+Let's talk about another element
+I have seen recently.
+
+2161
+02:13:03,120 --> 02:13:06,720
+You guys have completed your sequel part
+my sequence, right.
+
+2162
+02:13:07,240 --> 02:13:11,440
+The database part.
+
+2163
+02:13:11,440 --> 02:13:21,440
+What is the joint?
+
+2164
+02:13:21,440 --> 02:13:30,360
+What is intercalated,
+
+2165
+02:13:30,360 --> 02:13:34,720
+why we grew by.
+
+2166
+02:13:34,720 --> 02:13:36,760
+See, no one is going to take
+
+2167
+02:13:55,080 --> 02:13:55,640
+that.
+
+2168
+02:13:56,280 --> 02:14:01,360
+I just wanted to check
+whether you guys are still awake or not.
+
+2169
+02:14:01,360 --> 02:14:03,600
+What was the last one?
+
+2170
+02:14:03,600 --> 02:14:04,560
+What was the last one?
+
+2171
+02:14:04,560 --> 02:14:05,680
+Group by
+
+2172
+02:14:10,040 --> 02:14:11,240
+group By order
+
+2173
+02:14:11,240 --> 02:14:14,160
+by there is are the keywords distinct?
+
+2174
+02:14:14,640 --> 02:14:15,360
+Right.
+
+2175
+02:14:16,160 --> 02:14:18,000
+These are things you generally use
+
+2176
+02:14:18,000 --> 02:14:20,400
+while making your select quality.
+
+2177
+02:14:21,040 --> 02:14:22,840
+I don't know the database, you guys.
+
+2178
+02:14:22,840 --> 02:14:23,440
+No database.
+
+2179
+02:14:23,440 --> 02:14:33,960
+I don't know.
+
+2180
+02:14:33,960 --> 02:14:35,880
+We're looking for collection of data.
+
+2181
+02:14:35,880 --> 02:14:37,000
+Okay, fine.
+
+2182
+02:14:37,000 --> 02:14:37,880
+Let's come here.
+
+2183
+02:14:37,880 --> 02:14:41,480
+Now, see, in database
+you use my equal, which
+
+2184
+02:14:41,800 --> 02:14:50,040
+if I'm not wrong,
+my second will be trained right.
+
+2185
+02:14:50,040 --> 02:14:52,640
+Some query like this, the leg
+
+2186
+02:14:52,640 --> 02:14:55,360
+stuff from
+
+2187
+02:14:57,840 --> 02:15:01,200
+employee data we have.
+
+2188
+02:15:02,480 --> 02:15:04,560
+Employee I.D.
+
+2189
+02:15:04,560 --> 02:15:06,960
+is equal to this data.
+
+2190
+02:15:06,960 --> 02:15:09,240
+And then you selected there is an option.
+
+2191
+02:15:09,360 --> 02:15:11,640
+You run it
+and you get the data for this in
+
+2192
+02:15:13,280 --> 02:15:14,760
+something like this.
+
+2193
+02:15:14,760 --> 02:15:16,880
+This is you select
+what is equal query there.
+
+2194
+02:15:16,880 --> 02:15:18,040
+So you rate
+
+2195
+02:15:21,920 --> 02:15:25,520
+now see what are the things you perform
+here.
+
+2196
+02:15:25,520 --> 02:15:26,480
+Also,
+
+2197
+02:15:27,520 --> 02:15:30,720
+you are retrieving the information
+from the database,
+
+2198
+02:15:31,760 --> 02:15:32,520
+getting
+
+2199
+02:15:37,440 --> 02:15:40,600
+you can object to the information
+also here or not.
+
+2200
+02:15:40,800 --> 02:15:48,680
+And me,
+you can delete a record also here or not.
+
+2201
+02:15:48,800 --> 02:15:49,640
+Tell me
+
+2202
+02:15:56,520 --> 02:15:57,600
+and you can add
+
+2203
+02:15:57,600 --> 02:16:00,080
+or create a record from here or not
+because
+
+2204
+02:16:03,040 --> 02:16:03,920
+for things
+
+2205
+02:16:03,920 --> 02:16:07,440
+to retrieve, update, delete and error
+or create records,
+
+2206
+02:16:07,920 --> 02:16:09,960
+these four things
+
+2207
+02:16:24,040 --> 02:16:24,840
+trade
+
+2208
+02:16:26,360 --> 02:16:27,840
+create operations.
+
+2209
+02:16:27,840 --> 02:16:31,640
+Again,
+you are performing grade operations again.
+
+2210
+02:16:31,640 --> 02:16:37,440
+You are performing
+using your database, right?
+
+2211
+02:16:37,800 --> 02:16:40,760
+So now if we talk about the UI
+
+2212
+02:16:40,760 --> 02:16:43,160
+part credit operations,
+
+2213
+02:16:44,080 --> 02:16:46,600
+if we talk about banking part
+
+2214
+02:16:46,760 --> 02:16:49,520
+that is database credit operation.
+
+2215
+02:16:49,840 --> 02:16:54,440
+So there is a middleware
+where we are going to test API.
+
+2216
+02:16:54,680 --> 02:17:02,280
+So what we are going to API,
+what we are going to test in API is
+
+2217
+02:17:03,080 --> 02:17:06,320
+we are going to perform same operations.
+
+2218
+02:17:06,960 --> 02:17:11,280
+Then my board, the aims are showing me
+create operations right
+
+2219
+02:17:11,440 --> 02:17:15,200
+then It is very simple that I'm going
+to describe the operation in API.
+
+2220
+02:17:15,200 --> 02:17:17,720
+Also, it has nothing to do with DreamBox
+testing.
+
+2221
+02:17:17,720 --> 02:17:20,600
+Alex is white box, black box, gray box.
+
+2222
+02:17:20,600 --> 02:17:21,840
+It has nothing to do with this.
+
+2223
+02:17:21,840 --> 02:17:24,840
+Okay, so we hear great operations.
+
+2224
+02:17:24,840 --> 02:17:26,520
+Either we create the data
+
+2225
+02:17:26,520 --> 02:17:30,720
+or we retrieve the data or we update the
+data, or we believe the data
+
+2226
+02:17:32,840 --> 02:17:40,360
+rate.
+
+2227
+02:17:40,360 --> 02:17:41,440
+Right, guys?
+
+2228
+02:17:41,720 --> 02:17:43,440
+Yep. Yep.
+
+2229
+02:17:44,240 --> 02:17:46,320
+So these are before things.
+
+2230
+02:17:46,320 --> 02:17:50,120
+These are the four things
+we are going to perform, right?
+
+2231
+02:17:50,400 --> 02:17:56,120
+The entire API is doing
+is all about thread operations.
+
+2232
+02:17:56,320 --> 02:17:57,360
+That's it.
+
+2233
+02:17:57,360 --> 02:18:01,760
+That is the FBI is all about
+that is nothing else in the API.
+
+2234
+02:18:03,440 --> 02:18:06,520
+There's the whole explain mission of API
+
+2235
+02:18:07,240 --> 02:18:12,960
+in real life, practical, laid back
+niggly architecture wise
+
+2236
+02:18:13,200 --> 02:18:16,680
+how things work,
+what the operations we perform.
+
+2237
+02:18:16,880 --> 02:18:28,200
+By any question so far in this book,
+
+2238
+02:18:28,200 --> 02:18:34,680
+was it clear, was it understanding
+
+2239
+02:18:35,400 --> 02:18:55,000
+and interesting as well?
+
+2240
+02:18:55,000 --> 02:18:57,080
+And is it right?
+
+2241
+02:18:57,080 --> 02:18:59,600
+I'm telling you, I'm telling you just
+
+2242
+02:19:00,240 --> 02:19:03,240
+just spent some time with this.
+
+2243
+02:19:03,240 --> 02:19:05,400
+Now tell me, after three out of Bece
+
+2244
+02:19:06,600 --> 02:19:08,600
+now, how many of you guys
+
+2245
+02:19:08,600 --> 02:19:11,400
+is still not aware of you?
+
+2246
+02:19:12,800 --> 02:19:16,400
+Yeah, well,
+what grade I gave you the business idea.
+
+2247
+02:19:16,400 --> 02:19:22,800
+Also, is there anyone who still understand
+what is API in how API
+
+2248
+02:19:33,080 --> 02:19:41,520
+see Zima? No.
+
+2249
+02:19:41,520 --> 02:19:44,800
+Silva. Elena.
+
+2250
+02:19:44,800 --> 02:19:45,720
+Anna,
+
+2251
+02:19:46,760 --> 02:19:47,720
+where were you guys?
+
+2252
+02:19:47,720 --> 02:19:51,120
+Where are you now? Fine.
+
+2253
+02:19:51,200 --> 02:19:57,280
+And then I came to the picture.
+
+2254
+02:19:57,280 --> 02:20:00,160
+Yeah. Yeah. That one is missing, correct?
+
+2255
+02:20:00,920 --> 02:20:03,800
+Correct. And.
+
+2256
+02:20:03,800 --> 02:20:09,320
+All right, guys.
+
+2257
+02:20:09,320 --> 02:20:24,680
+In tomorrow's class, right, Right.
+
+2258
+02:20:24,840 --> 02:20:28,320
+You can take.
+
+2259
+02:20:28,320 --> 02:20:28,680
+Right.
+
+2260
+02:20:28,680 --> 02:20:29,800
+Nothing is
+
+2261
+02:20:34,320 --> 02:20:35,720
+excellent, Silva.
+
+2262
+02:20:35,720 --> 02:20:36,600
+You're learning.
+
+2263
+02:20:36,600 --> 02:20:40,320
+I see. Right.
+
+2264
+02:20:40,440 --> 02:20:44,520
+So tomorrow's class,
+we will see how we are going
+
+2265
+02:20:44,520 --> 02:20:48,200
+to make all of these things,
+how we are going to make that request.
+
+2266
+02:20:48,200 --> 02:20:49,200
+What is the request?
+
+2267
+02:20:49,200 --> 02:20:51,120
+Actually, What are the things?
+
+2268
+02:20:51,120 --> 02:20:52,520
+What does DNS help?
+
+2269
+02:20:52,520 --> 02:20:55,800
+We generally provide a lot of things,
+lot of things on the right.
+
+2270
+02:20:56,240 --> 02:20:59,160
+And also, meanwhile,
+I will share one video right
+
+2271
+02:20:59,440 --> 02:21:03,320
+from that video you can see
+how we can download the post to it.
+
+2272
+02:21:03,840 --> 02:21:06,160
+So guys, please download the postman.
+
+2273
+02:21:06,880 --> 02:21:08,280
+Right? I would share the video.
+
+2274
+02:21:08,280 --> 02:21:09,720
+It's really easy process.
+
+2275
+02:21:09,720 --> 02:21:12,400
+Even if you write, just download
+Postman right.
+
+2276
+02:21:12,400 --> 02:21:13,000
+You will get it.
+
+2277
+02:21:13,000 --> 02:21:15,320
+It is an extension
+also available with Chrome
+
+2278
+02:21:15,600 --> 02:21:17,040
+so you get the postman from there.
+
+2279
+02:21:17,040 --> 02:21:20,040
+Also, I don't think that you need video,
+
+2280
+02:21:20,040 --> 02:21:23,160
+but yes, still I will give you the video
+so that it will help you
+
+2281
+02:21:24,320 --> 02:21:26,480
+and stay with message in practice no more.
+
+2282
+02:21:26,480 --> 02:21:29,160
+But if you if give up this early
+
+2283
+02:21:29,840 --> 02:21:32,600
+based on just one day view
+
+2284
+02:21:32,600 --> 02:21:34,880
+play,
+do you really think that your thought
+
+2285
+02:21:34,920 --> 02:21:36,320
+this cannot
+
+2286
+02:21:38,600 --> 02:21:41,520
+many people will see like okay
+
+2287
+02:21:41,760 --> 02:21:44,080
+you can't do this explain
+
+2288
+02:21:44,960 --> 02:21:48,080
+things are very difficult find
+
+2289
+02:21:49,280 --> 02:21:51,600
+because things are difficult
+that's fine here
+
+2290
+02:21:52,080 --> 02:22:03,480
+otherwise it would be done
+by someone else.
+
+2291
+02:22:03,480 --> 02:22:05,680
+Right. I think I will definitely share
+that with you.
+
+2292
+02:22:05,680 --> 02:22:08,200
+Don't worry about it.
+I will definitely share the video.
+
+2293
+02:22:08,440 --> 02:22:13,600
+It also I'm going to update the slides
+for today's class.
+
+2294
+02:22:13,800 --> 02:22:14,480
+Okay.
+
+2295
+02:22:14,480 --> 02:22:18,600
+So you go there.
+
+2296
+02:22:18,600 --> 02:22:20,320
+Yeah. At the same rate.
+
+2297
+02:22:20,320 --> 02:22:22,640
+So you go there
+and you can use them as that happens.
+
+2298
+02:22:22,640 --> 02:22:23,520
+Point great.
+
+2299
+02:22:23,520 --> 02:22:28,000
+So here right now, because we are not
+using this part intelligently, right?
+
+2300
+02:22:28,000 --> 02:22:29,960
+I'm not going to push any because that is
+
+2301
+02:22:31,440 --> 02:22:34,200
+the only thing we have is just our slides.
+
+2302
+02:22:34,400 --> 02:22:39,640
+So I will put the slides
+and the ones to start writing of the post.
+
+2303
+02:22:39,640 --> 02:22:43,080
+We read on question
+everything that you will be have,
+
+2304
+02:22:43,200 --> 02:22:45,720
+you'll be having every single thing
+in your postman except
+
+2305
+02:22:47,440 --> 02:22:58,120
+on this.
+
+2306
+02:22:58,120 --> 02:23:01,160
+Bob I think I'm done for my sake
+for today's class.
+
+2307
+02:23:01,160 --> 02:23:17,520
+If you guys have any question
+you may ask or else we can do.

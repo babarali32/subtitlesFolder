@@ -1,0 +1,9487 @@
+﻿1
+00:06:09,280 --> 00:06:10,120
+Hello, everyone.
+
+2
+00:06:10,120 --> 00:06:12,520
+How are you guys doing?
+
+3
+00:06:12,960 --> 00:06:28,080
+So finally, batch 11.
+
+4
+00:06:29,760 --> 00:06:34,920
+Okay, Jimmy, Valerie, who
+
+5
+00:06:34,920 --> 00:06:38,680
+you are facing, Make sure that you just
+posted down in their support.
+
+6
+00:06:38,680 --> 00:06:42,400
+General,
+I'm sure Muhammad is going to be there.
+
+7
+00:06:42,400 --> 00:06:44,520
+Or maybe she was going to be there.
+
+8
+00:06:44,800 --> 00:06:47,080
+Maybe they can help you out quickly,
+because
+
+9
+00:06:48,360 --> 00:06:57,680
+that's really important.
+
+10
+00:07:01,880 --> 00:07:13,520
+Let me see.
+
+11
+00:07:13,520 --> 00:07:16,160
+I guess that there will be someone.
+
+12
+00:07:16,160 --> 00:07:25,640
+Muhammad, are you there on support?
+
+13
+00:07:26,440 --> 00:07:29,160
+Okay. Well, let's see.
+
+14
+00:07:29,280 --> 00:07:30,960
+So let's wait
+
+15
+00:07:30,960 --> 00:07:33,720
+a little
+for all of the stories to join in.
+
+16
+00:07:34,280 --> 00:07:40,640
+And then we will begin
+our introduction session.
+
+17
+00:07:42,880 --> 00:07:46,200
+And by the way, I'm really glad
+that you guys are very punctual,
+
+18
+00:07:46,200 --> 00:07:49,240
+Like you guys just join in before, like 2
+
+19
+00:07:49,240 --> 00:08:50,240
+minutes.
+
+20
+00:08:51,920 --> 00:09:01,640
+Maryam, Which screen
+are you talking about?
+
+21
+00:09:05,280 --> 00:09:07,320
+Okay, so that's totally fine.
+
+22
+00:09:07,320 --> 00:09:07,920
+It's just
+
+23
+00:09:09,480 --> 00:09:13,960
+a text editor that I have on my screen.
+
+24
+00:09:14,560 --> 00:09:17,920
+Oh, well, that's a secret.
+
+25
+00:09:17,960 --> 00:09:44,520
+I'll let you know.
+
+26
+00:09:46,800 --> 00:09:48,000
+Nah, nothing messy.
+
+27
+00:09:48,000 --> 00:09:49,960
+You missed nothing.
+
+28
+00:09:50,560 --> 00:09:52,640
+I'm just waiting for the rest of us
+
+29
+00:09:52,640 --> 00:10:30,120
+to join in.
+
+30
+00:10:36,040 --> 00:10:36,400
+Okay.
+
+31
+00:10:36,400 --> 00:10:38,560
+So how are you guys?
+
+32
+00:10:38,560 --> 00:10:39,880
+How has it been?
+
+33
+00:10:39,880 --> 00:10:42,840
+I guess you guys join in.
+
+34
+00:10:42,840 --> 00:10:46,920
+It's been now one month, right
+since the beginning of your session.
+
+35
+00:10:47,760 --> 00:10:50,800
+The five correct about it.
+
+36
+00:10:50,800 --> 00:10:53,880
+Okay, so it's October,
+I guess you guys joined
+
+37
+00:10:53,880 --> 00:11:01,320
+in November, right?
+
+38
+00:11:01,320 --> 00:11:03,200
+Over September.
+
+39
+00:11:03,200 --> 00:11:05,960
+Like the end of September, right?
+
+40
+00:11:05,960 --> 00:11:07,800
+Okay. September.
+
+41
+00:11:07,800 --> 00:11:10,160
+So it's been like
+
+42
+00:11:10,200 --> 00:11:13,320
+two months, right?
+
+43
+00:11:16,480 --> 00:11:17,640
+Oh, I'm really sorry.
+
+44
+00:11:17,640 --> 00:11:19,960
+I'm just sitting here.
+
+45
+00:11:19,960 --> 00:11:22,600
+Yeah. Okay.
+
+46
+00:11:22,680 --> 00:11:25,440
+I'm just messing up with the months,
+I guess.
+
+47
+00:11:25,640 --> 00:11:28,480
+Yeah. After September, we got up to.
+
+48
+00:11:28,840 --> 00:11:30,120
+I was just like, of the idea.
+
+49
+00:11:30,120 --> 00:11:32,160
+Maybe November comes before
+
+50
+00:11:35,960 --> 00:11:37,120
+that happened sometime.
+
+51
+00:11:37,120 --> 00:11:40,560
+You know?
+
+52
+00:11:41,600 --> 00:11:43,880
+So by far, it's been one month.
+
+53
+00:11:43,920 --> 00:11:46,000
+How are you guys taking everything?
+
+54
+00:11:47,440 --> 00:11:49,240
+Are you guys enjoying whatever
+
+55
+00:11:49,240 --> 00:11:57,840
+you are learning?
+
+56
+00:11:57,840 --> 00:12:01,200
+I guess you guys must have started
+about learning
+
+57
+00:12:01,200 --> 00:12:04,040
+Java, right?
+
+58
+00:12:06,120 --> 00:12:06,800
+Okay, that.
+
+59
+00:12:06,800 --> 00:12:10,200
+That's good.
+
+60
+00:12:10,200 --> 00:12:15,320
+And of yet
+I guess you have been taught by ASL
+
+61
+00:12:15,520 --> 00:12:18,720
+and similar right.
+
+62
+00:12:21,920 --> 00:12:22,240
+Okay.
+
+63
+00:12:22,240 --> 00:12:26,480
+So as were you had your sessions with us
+learn to offer
+
+64
+00:12:32,400 --> 00:12:36,080
+some don't worry you and get along
+
+65
+00:12:36,920 --> 00:12:37,240
+okay.
+
+66
+00:12:37,240 --> 00:12:40,320
+They are all so perfect.
+
+67
+00:12:44,880 --> 00:12:46,240
+Well now.
+
+68
+00:12:46,240 --> 00:12:49,240
+So that's completely fine.
+
+69
+00:12:49,400 --> 00:12:51,920
+Trust me,
+this course is designed in such a way
+
+70
+00:12:51,920 --> 00:12:54,880
+that it's
+going to take you all to a full level
+
+71
+00:12:55,920 --> 00:12:59,000
+by the end of, I guess, three months.
+
+72
+00:12:59,000 --> 00:13:02,440
+You guys are going
+to, you know, who are a little bit
+
+73
+00:13:03,000 --> 00:13:05,640
+behind or, you know, slowed down.
+
+74
+00:13:05,880 --> 00:13:08,120
+You guys will catch
+up. Don't worry about that.
+
+75
+00:13:08,120 --> 00:13:11,560
+But just make sure
+that you are putting in effort.
+
+76
+00:13:11,560 --> 00:13:12,360
+Okay.
+
+77
+00:13:12,360 --> 00:13:16,280
+And that effort should be
+that you are attending classes attentively
+
+78
+00:13:16,560 --> 00:13:18,320
+and doing your homework.
+
+79
+00:13:18,320 --> 00:13:18,880
+That's it.
+
+80
+00:13:18,880 --> 00:13:22,040
+If you are doing that,
+you guys are going to be really
+
+81
+00:13:22,040 --> 00:13:30,600
+good.
+
+82
+00:13:30,600 --> 00:13:33,080
+I'll share my experience about this.
+
+83
+00:13:33,080 --> 00:13:37,920
+In the last batch, which was batch ten,
+there were a few students
+
+84
+00:13:38,720 --> 00:13:41,960
+in the starting of a 1 to 1.5 months.
+
+85
+00:13:41,960 --> 00:13:42,800
+They were real.
+
+86
+00:13:43,920 --> 00:13:44,760
+They were real slow.
+
+87
+00:13:44,760 --> 00:13:48,680
+But now when I see them,
+I get really amazed with the,
+
+88
+00:13:48,680 --> 00:13:52,200
+you know, with the pace that they are.
+
+89
+00:13:52,320 --> 00:13:55,920
+They have gassed up everything
+and how they have joined others.
+
+90
+00:13:56,480 --> 00:13:58,600
+So it's all going to be good.
+
+91
+00:13:58,600 --> 00:14:26,240
+Just get motivated.
+
+92
+00:14:29,240 --> 00:14:31,200
+Okay. So
+
+93
+00:14:31,920 --> 00:14:36,240
+let me first introduce myself
+and then I'll like
+
+94
+00:14:36,240 --> 00:14:40,920
+to have a little introduction of you guys
+before we begin our first session.
+
+95
+00:14:41,640 --> 00:14:46,120
+So my name is Mazen.
+
+96
+00:14:46,120 --> 00:14:48,880
+As you guys already know,
+
+97
+00:14:48,960 --> 00:14:51,640
+I've been in the ICT sector
+for the past four years
+
+98
+00:14:53,040 --> 00:14:58,200
+and I have worked
+with in different companies
+
+99
+00:14:58,200 --> 00:15:01,200
+on different projects
+regarding automation,
+
+100
+00:15:01,800 --> 00:15:05,920
+testing, machine
+learning as well in various languages.
+
+101
+00:15:05,920 --> 00:15:08,720
+Java by Tim C-sharp, C++,
+
+102
+00:15:09,480 --> 00:15:13,800
+and I've been with Sentech
+since last one year.
+
+103
+00:15:14,160 --> 00:15:18,960
+I've done around four batches and
+
+104
+00:15:20,160 --> 00:15:22,200
+till now it's going all great.
+
+105
+00:15:22,480 --> 00:15:24,760
+I'm really enjoying it all.
+
+106
+00:15:24,760 --> 00:15:27,920
+And that's, I guess, from my side.
+
+107
+00:15:27,920 --> 00:15:29,760
+Now it's your turn.
+
+108
+00:15:29,760 --> 00:15:32,720
+So first of all,
+
+109
+00:15:32,720 --> 00:15:35,040
+I want you guys to tell me that
+
+110
+00:15:35,920 --> 00:15:38,560
+How many of you
+
+111
+00:15:40,680 --> 00:15:41,680
+already have
+
+112
+00:15:41,680 --> 00:15:50,520
+an iPad background?
+
+113
+00:15:51,800 --> 00:16:02,960
+Okay.
+
+114
+00:16:02,960 --> 00:16:06,000
+Oh, yeah, perfect.
+
+115
+00:16:06,000 --> 00:16:09,600
+I'm really glad to see the replies.
+
+116
+00:16:09,600 --> 00:16:26,760
+If you are a guy, if you guys
+are being honest, that's totally fine.
+
+117
+00:16:27,040 --> 00:16:29,520
+Okay, so
+
+118
+00:16:29,520 --> 00:16:31,560
+how many of you know
+
+119
+00:16:31,560 --> 00:16:40,640
+how to use a computer?
+
+120
+00:16:43,280 --> 00:16:46,000
+Okay, now, see,
+we all know how to use computers,
+
+121
+00:16:46,000 --> 00:16:55,920
+so that that's a win win situation, right?
+
+122
+00:17:01,640 --> 00:17:03,960
+Okay, let's you are the odd one out,
+
+123
+00:17:04,840 --> 00:17:07,200
+but we'll make sure that you learn with us
+
+124
+00:17:09,960 --> 00:17:10,560
+for how.
+
+125
+00:17:10,560 --> 00:17:11,560
+Come on, man.
+
+126
+00:17:11,560 --> 00:17:13,600
+Computer is a black box. Testing.
+
+127
+00:17:14,760 --> 00:17:29,840
+Where did you come up with that?
+
+128
+00:17:31,480 --> 00:17:32,280
+Oh, okay.
+
+129
+00:17:32,280 --> 00:18:06,720
+Okay. So
+
+130
+00:18:07,920 --> 00:18:11,680
+in my classes,
+
+131
+00:18:11,680 --> 00:18:15,000
+I have my own,
+you know, pattern of teaching.
+
+132
+00:18:15,520 --> 00:18:19,840
+I like to communicate a lot
+because it's good
+
+133
+00:18:19,840 --> 00:18:23,400
+to have an interactive session,
+whether we are, you know, just
+
+134
+00:18:23,640 --> 00:18:28,280
+discussing some technical stuff or,
+you know, in between.
+
+135
+00:18:28,280 --> 00:18:32,880
+If we are getting to know each other
+better, because that's obviously
+
+136
+00:18:33,640 --> 00:18:37,600
+create a common ground
+where we can come to the same base
+
+137
+00:18:37,960 --> 00:18:41,480
+and add value to each of those life.
+
+138
+00:18:41,480 --> 00:18:42,560
+Honestly,
+
+139
+00:18:42,560 --> 00:18:46,640
+you guys will be learning a lot from me
+and I will be learning a lot from you.
+
+140
+00:18:47,080 --> 00:18:50,520
+So it's a win win situation.
+
+141
+00:18:50,520 --> 00:18:54,680
+So I will encourage
+all the fellows that are out there
+
+142
+00:18:54,680 --> 00:18:58,440
+to be very interactive, very active and,
+
+143
+00:18:58,440 --> 00:19:20,160
+you know, be open about everything.
+
+144
+00:19:20,160 --> 00:19:22,280
+So we have some rules
+
+145
+00:19:23,480 --> 00:19:26,720
+that I always
+
+146
+00:19:27,480 --> 00:19:29,440
+I don't
+always mention them in the start of,
+
+147
+00:19:29,440 --> 00:19:33,160
+you know, session,
+but for this class, I'll mention one rule
+
+148
+00:19:34,760 --> 00:19:37,520
+is anyone in this
+
+149
+00:19:37,520 --> 00:19:42,160
+is anyone here
+who knows Russian or other languages,
+
+150
+00:19:42,160 --> 00:19:45,120
+like apart from English?
+
+151
+00:19:47,560 --> 00:19:48,400
+Okay,
+
+152
+00:19:49,080 --> 00:19:51,240
+so you guys doing all that?
+
+153
+00:19:51,240 --> 00:19:51,760
+Okay, guys.
+
+154
+00:19:51,760 --> 00:19:55,560
+So the rule one is that you guys
+will not be chatting in other languages.
+
+155
+00:19:55,600 --> 00:19:57,880
+Okay? I want to see what you are typing.
+
+156
+00:19:57,880 --> 00:20:03,000
+Okay, So usually what happens
+is that the friends that start
+
+157
+00:20:03,000 --> 00:20:06,480
+communicating in other languages
+and I'm like, What are you typing guys?
+
+158
+00:20:06,480 --> 00:20:10,760
+So don't do that.
+
+159
+00:20:10,760 --> 00:20:15,520
+I'll get perfect.
+
+160
+00:20:15,520 --> 00:20:19,480
+Sebastian What do you expect?
+
+161
+00:20:19,480 --> 00:20:21,120
+I like you.
+
+162
+00:20:21,120 --> 00:20:23,760
+Want me to Google
+that and teach the class at the same time?
+
+163
+00:20:24,040 --> 00:20:29,520
+No, Matt, I cannot do that.
+
+164
+00:20:29,520 --> 00:20:31,360
+I trust you, Farhad.
+
+165
+00:20:31,360 --> 00:20:50,280
+I trust you.
+
+166
+00:20:50,280 --> 00:20:53,560
+Okay, so it says Milan.
+
+167
+00:20:53,880 --> 00:20:55,320
+Am I looking at
+
+168
+00:21:00,040 --> 00:21:04,080
+not Madeleine? Oh,
+
+169
+00:21:05,160 --> 00:21:06,240
+no, I don't know.
+
+170
+00:21:06,240 --> 00:21:09,360
+It's AC Milan or something.
+
+171
+00:21:09,520 --> 00:21:11,200
+It's maybe just Milan.
+
+172
+00:21:11,200 --> 00:21:13,040
+I think it's.
+
+173
+00:21:13,040 --> 00:21:16,040
+It's a place.
+
+174
+00:21:16,040 --> 00:21:16,440
+Good one.
+
+175
+00:21:16,440 --> 00:21:28,200
+Marwin.
+
+176
+00:21:28,200 --> 00:21:33,120
+Okay, there you go.
+
+177
+00:21:33,120 --> 00:21:42,240
+Serbian.
+
+178
+00:21:42,240 --> 00:21:53,360
+Seriously,
+You guys have already started doing that.
+
+179
+00:21:53,360 --> 00:22:02,520
+So who is the manager here?
+
+180
+00:22:02,520 --> 00:22:06,480
+Okay, Sebastian.
+
+181
+00:22:06,480 --> 00:22:15,360
+And who came up with the idea?
+
+182
+00:22:15,360 --> 00:22:21,120
+Okay, as well. Did.
+
+183
+00:22:21,120 --> 00:22:31,680
+I'll have to talk to us about this.
+
+184
+00:22:31,680 --> 00:22:34,320
+Okay. So do you guys have great managers?
+
+185
+00:22:34,320 --> 00:22:38,440
+Yeah.
+
+186
+00:22:38,440 --> 00:22:40,080
+Who is the break manager?
+
+187
+00:22:40,080 --> 00:22:43,720
+Okay, so you
+you guys have to, in fact, interview.
+
+188
+00:22:43,760 --> 00:22:45,080
+You will find out
+
+189
+00:22:45,080 --> 00:22:47,960
+there is going to be one person
+who is going to be a great manager
+
+190
+00:22:48,640 --> 00:22:51,480
+who's responsible to remind me
+
+191
+00:22:51,840 --> 00:22:54,560
+and the students that you guys
+
+192
+00:22:54,560 --> 00:22:55,920
+need to have. Great.
+
+193
+00:22:55,920 --> 00:22:59,360
+But I guess that it's it's
+
+194
+00:22:59,360 --> 00:23:02,400
+a rule that we cannot choose a person for
+
+195
+00:23:03,480 --> 00:23:04,080
+the role
+
+196
+00:23:04,080 --> 00:23:07,080
+chooses the person itself
+over the period of time.
+
+197
+00:23:07,800 --> 00:23:09,800
+So it's automatically, you know,
+
+198
+00:23:10,360 --> 00:23:14,280
+going to appear after maybe two months.
+
+199
+00:23:14,280 --> 00:23:16,320
+No, no, Michael, trust me with that.
+
+200
+00:23:16,320 --> 00:23:20,000
+There's going to be one person
+after two months who is going to take
+
+201
+00:23:20,000 --> 00:23:35,080
+that responsibility.
+
+202
+00:23:35,080 --> 00:23:35,440
+Okay.
+
+203
+00:23:35,440 --> 00:23:38,160
+It seems like
+you guys are already having a lot of fun.
+
+204
+00:23:39,000 --> 00:23:40,840
+I'm recording. Yes.
+
+205
+00:23:40,840 --> 00:23:43,400
+How can I not record this fun session?
+
+206
+00:23:43,400 --> 00:23:44,760
+Come on.
+
+207
+00:23:44,760 --> 00:23:59,640
+I can forget to record the actual class,
+but not this one.
+
+208
+00:23:59,640 --> 00:24:01,400
+We need to use Adam.
+
+209
+00:24:01,400 --> 00:24:03,600
+No, Alex, you don't have to use Adam.
+
+210
+00:24:03,600 --> 00:24:06,280
+It's just a text editor.
+
+211
+00:24:06,280 --> 00:24:07,000
+Okay.
+
+212
+00:24:09,000 --> 00:24:11,760
+Okay, guys. So
+
+213
+00:24:14,200 --> 00:24:18,360
+let's start our session, if that's okay.
+
+214
+00:24:18,360 --> 00:24:22,600
+You guys only need to have GID,
+and that will be sufficient
+
+215
+00:24:22,600 --> 00:24:34,840
+enough for this class.
+
+216
+00:24:34,840 --> 00:24:38,720
+Okay, So did you guys watch the video
+
+217
+00:24:38,720 --> 00:24:45,400
+that I sent?
+
+218
+00:24:45,400 --> 00:24:49,800
+Okay, perfect.
+
+219
+00:24:49,800 --> 00:24:53,040
+And anyone who is still having problem
+with installation of good
+
+220
+00:24:53,840 --> 00:24:56,120
+please guys support channel is there.
+
+221
+00:24:57,160 --> 00:25:00,120
+I won't be able to help you in the life
+class with the installation.
+
+222
+00:25:00,280 --> 00:25:05,640
+It was supposed to be done before
+the class, so now you still have time.
+
+223
+00:25:05,680 --> 00:25:06,760
+Go to the support.
+
+224
+00:25:06,760 --> 00:25:09,120
+I guess there will be someone
+who can help you out.
+
+225
+00:25:09,640 --> 00:25:13,080
+Okay, so just push your issue
+
+226
+00:25:13,160 --> 00:25:17,040
+with your.
+
+227
+00:25:17,040 --> 00:25:17,760
+Okay, great.
+
+228
+00:25:17,760 --> 00:25:20,040
+So you guys watched video of that.
+
+229
+00:25:20,040 --> 00:25:26,880
+That's really good.
+
+230
+00:25:26,880 --> 00:25:30,400
+Okay, so first thing that I would like
+to mention before we begin the session,
+
+231
+00:25:31,480 --> 00:25:35,240
+you guys do not need to take any notes
+
+232
+00:25:36,040 --> 00:25:38,400
+for my classes regarding GED.
+
+233
+00:25:39,000 --> 00:25:41,560
+I promise you that I will be giving you
+
+234
+00:25:42,360 --> 00:25:47,640
+very detailed, very interesting notes,
+and you guys will be satisfied with that.
+
+235
+00:25:47,640 --> 00:25:48,520
+That's my promise.
+
+236
+00:25:48,520 --> 00:25:53,280
+So just pay attention to the class
+and with whatever stuff we are doing,
+
+237
+00:25:53,360 --> 00:25:59,160
+try to be attentive on that
+and the responsibility of notes is on me.
+
+238
+00:25:59,480 --> 00:26:25,240
+Just forget, okay? So
+
+239
+00:26:26,320 --> 00:26:28,720
+we will be learning get
+
+240
+00:26:28,720 --> 00:26:33,120
+we have two classes
+and we will try to move real slow
+
+241
+00:26:33,400 --> 00:26:38,960
+and everyone is encouraged
+to ask questions, whatever
+
+242
+00:26:39,000 --> 00:26:44,640
+he is confused about, you can always,
+you know, push your question and lecture.
+
+243
+00:26:44,640 --> 00:26:47,400
+I'll try to answer as much as I can.
+
+244
+00:26:47,880 --> 00:26:50,880
+And obviously for the technical problems
+you have support channels,
+
+245
+00:26:50,880 --> 00:26:56,080
+post your screenshots over there
+so that you can seek help immediately.
+
+246
+00:26:56,920 --> 00:26:58,680
+So let's start our session.
+
+247
+00:26:58,680 --> 00:27:02,560
+So what do you guys know that?
+
+248
+00:27:02,560 --> 00:27:06,240
+Why do we need it in the first place?
+
+249
+00:27:06,240 --> 00:27:38,640
+What do you guys think?
+
+250
+00:27:38,640 --> 00:27:42,720
+Okay,
+so the first question, is that right?
+
+251
+00:27:42,720 --> 00:27:57,960
+So let's try to answer that.
+
+252
+00:27:57,960 --> 00:27:58,360
+Okay?
+
+253
+00:27:58,360 --> 00:28:02,240
+So let's assume that we are
+
+254
+00:28:03,480 --> 00:28:06,480
+working on some Java code, right?
+
+255
+00:28:07,320 --> 00:28:09,600
+And you already are familiar with Java.
+
+256
+00:28:09,600 --> 00:28:16,280
+So I think this example
+is going to be good enough.
+
+257
+00:28:16,280 --> 00:28:19,680
+One day you wrote the code
+and you added the functionality
+
+258
+00:28:19,680 --> 00:28:31,040
+of addition and subtraction.
+
+259
+00:28:31,040 --> 00:28:32,720
+The other day you
+
+260
+00:28:34,560 --> 00:28:36,160
+open the same file
+
+261
+00:28:36,160 --> 00:28:39,840
+and you added that code
+and add some more functionality
+
+262
+00:28:40,520 --> 00:28:44,360
+like, Let's see that the next day
+you just decided to say that,
+
+263
+00:28:44,360 --> 00:28:48,280
+okay, let's add
+the operations for division
+
+264
+00:28:48,280 --> 00:28:57,720
+and multiplication.
+
+265
+00:28:57,720 --> 00:28:58,800
+You changed your code.
+
+266
+00:28:58,800 --> 00:29:01,400
+It was working fine, everything was good.
+
+267
+00:29:01,400 --> 00:29:06,600
+So you just closed down your PC
+and you slept on.
+
+268
+00:29:06,600 --> 00:29:11,760
+Next day you woke up again and you wanted
+to modify your code a little bit more
+
+269
+00:29:12,480 --> 00:29:15,880
+and you know, you want to actually enhance
+the operations
+
+270
+00:29:15,880 --> 00:29:18,160
+that your calculator can perform.
+
+271
+00:29:18,160 --> 00:29:20,800
+So you added some more functionality.
+
+272
+00:29:20,800 --> 00:29:23,440
+And let's see that you added the
+
+273
+00:29:29,360 --> 00:29:30,240
+super load
+
+274
+00:29:30,240 --> 00:29:38,160
+and modulus.
+
+275
+00:29:38,160 --> 00:29:40,400
+But at this point in time,
+
+276
+00:29:41,520 --> 00:29:43,680
+when you check your code,
+
+277
+00:29:43,680 --> 00:29:46,680
+it was not working fine.
+
+278
+00:29:46,680 --> 00:29:48,120
+There were some errors in it.
+
+279
+00:29:49,920 --> 00:29:52,040
+Now what are you
+
+280
+00:29:52,040 --> 00:30:07,440
+going to do?
+
+281
+00:30:07,440 --> 00:30:10,800
+Okay, so you had one file
+
+282
+00:30:12,480 --> 00:30:14,600
+and off yet you have created
+
+283
+00:30:14,600 --> 00:30:17,760
+no backup, right?
+
+284
+00:30:17,760 --> 00:30:35,280
+You do not have any backup file.
+
+285
+00:30:35,280 --> 00:30:35,720
+Exactly.
+
+286
+00:30:35,720 --> 00:30:41,880
+Remember of now we do not have any good
+we do not have any backup.
+
+287
+00:30:41,880 --> 00:30:44,480
+We are editing the same file.
+
+288
+00:30:44,480 --> 00:30:49,800
+We are in the same code right.
+
+289
+00:30:49,800 --> 00:30:50,560
+Okay.
+
+290
+00:30:50,640 --> 00:30:55,080
+So if set in such a scenario,
+we do not have backup.
+
+291
+00:30:55,080 --> 00:30:58,720
+So what we will have to do,
+We just lost the code
+
+292
+00:30:59,160 --> 00:31:03,360
+for addition, subtraction,
+division and multiplication.
+
+293
+00:31:04,200 --> 00:31:07,400
+And at this point,
+if some of our friend calls
+
+294
+00:31:07,400 --> 00:31:12,480
+us, for example,
+Amelia calls Aisha and say that he.
+
+295
+00:31:12,480 --> 00:31:16,720
+Aisha, can you share your code
+with me of addition and subtraction?
+
+296
+00:31:17,240 --> 00:31:22,920
+Well, I shall be able to share her code.
+
+297
+00:31:22,920 --> 00:31:25,920
+No, because it's not working. Great.
+
+298
+00:31:25,920 --> 00:31:27,680
+So I. She is going to say that.
+
+299
+00:31:27,680 --> 00:31:29,080
+Hey, I'm really sorry.
+
+300
+00:31:29,080 --> 00:31:32,200
+It was working fine till yesterday, but
+
+301
+00:31:32,200 --> 00:31:35,400
+I added some functionality
+and now it's not working.
+
+302
+00:31:35,400 --> 00:31:36,120
+Correct.
+
+303
+00:31:36,160 --> 00:31:40,720
+So what I need to do,
+I have to make it correct or maybe delete
+
+304
+00:31:40,720 --> 00:31:43,640
+the additional functionalities
+and then send you that
+
+305
+00:31:50,960 --> 00:31:51,400
+amount.
+
+306
+00:31:51,400 --> 00:31:54,600
+Yes, you can. But
+
+307
+00:31:54,600 --> 00:31:57,480
+let's assume that the scenarios are very
+
+308
+00:31:57,760 --> 00:32:01,440
+complicated and there is a lot of good,
+then you won't be able to do that.
+
+309
+00:32:01,440 --> 00:32:04,680
+I have built up a very simple example
+just for the concept.
+
+310
+00:32:04,800 --> 00:32:14,960
+Okay, so what do you guys
+
+311
+00:32:15,000 --> 00:32:17,720
+suggest
+can be the solution to this problem?
+
+312
+00:32:18,400 --> 00:32:20,880
+Remember,
+we do not know about it at the moment.
+
+313
+00:32:20,880 --> 00:32:39,120
+Okay, So one of the solution can be
+
+314
+00:32:39,120 --> 00:32:42,600
+that when we created the first code
+
+315
+00:32:43,160 --> 00:32:46,360
+of addition and subtraction,
+
+316
+00:32:46,920 --> 00:32:51,040
+the next time when we want to add
+some more functionality,
+
+317
+00:32:51,600 --> 00:32:58,880
+we make a copy of it.
+
+318
+00:32:58,880 --> 00:33:01,200
+And instead of
+
+319
+00:33:01,440 --> 00:33:03,120
+editing the previous file,
+
+320
+00:33:03,120 --> 00:33:14,040
+we edit the new copy of that file.
+
+321
+00:33:14,040 --> 00:33:18,200
+And similarly, if you want to add
+some more functionality,
+
+322
+00:33:18,440 --> 00:33:41,240
+we make again a copy.
+
+323
+00:33:41,240 --> 00:33:43,560
+So what do you guys think that
+
+324
+00:33:44,760 --> 00:33:46,800
+what is the disadvantage
+
+325
+00:33:47,040 --> 00:33:59,760
+of this approach?
+
+326
+00:33:59,760 --> 00:34:04,840
+Okay, the first thing is
+that there is going to be a lot of copies
+
+327
+00:34:04,840 --> 00:34:12,920
+on our system right?
+
+328
+00:34:12,920 --> 00:34:16,560
+Apart from that,
+if we are dealing with a huge project,
+
+329
+00:34:17,160 --> 00:34:19,280
+we may run out of space launch system
+
+330
+00:34:20,760 --> 00:34:21,840
+and let's see that.
+
+331
+00:34:21,840 --> 00:34:23,880
+Okay, these two problems,
+
+332
+00:34:24,840 --> 00:34:27,840
+we need to find a way to tackle them
+
+333
+00:34:27,840 --> 00:34:30,480
+just tells me that if you make like
+
+334
+00:34:33,640 --> 00:34:36,240
+let's say 50 copies
+
+335
+00:34:36,240 --> 00:34:39,680
+and you want to go back
+to one specific one,
+
+336
+00:34:40,400 --> 00:34:44,600
+how are you going to actually navigate
+back to that particular
+
+337
+00:34:44,600 --> 00:34:48,480
+copy in which
+your desired functionality is?
+
+338
+00:34:48,840 --> 00:34:54,440
+It's going to be really hard
+for you, right?
+
+339
+00:34:54,440 --> 00:34:57,480
+Yes, you can name them, but
+
+340
+00:34:57,480 --> 00:35:01,040
+how many are you going to name
+and how many naming conventions
+
+341
+00:35:01,040 --> 00:35:02,040
+are you going to use?
+
+342
+00:35:03,200 --> 00:35:04,320
+Yes, they tend to
+
+343
+00:35:04,320 --> 00:35:07,080
+write or you can use date and time.
+
+344
+00:35:07,320 --> 00:35:10,200
+But again,
+you will be doing a lot of mental effort
+
+345
+00:35:10,200 --> 00:35:15,600
+right.
+
+346
+00:35:15,600 --> 00:35:28,160
+Which is going to make everything
+very hard to maintain.
+
+347
+00:35:28,160 --> 00:35:28,560
+Okay.
+
+348
+00:35:28,560 --> 00:35:31,920
+So this problem came and, you know,
+
+349
+00:35:33,000 --> 00:35:34,480
+one day
+
+350
+00:35:35,160 --> 00:35:37,440
+a person was working on his project
+
+351
+00:35:37,440 --> 00:35:40,640
+and he encountered this problem
+and he was very sad.
+
+352
+00:35:40,800 --> 00:35:42,560
+So what he did,
+
+353
+00:35:42,840 --> 00:35:47,000
+he went out in the jungle
+and he just found a magic lab.
+
+354
+00:35:47,080 --> 00:35:52,400
+So he thought that
+maybe this lamp could help him.
+
+355
+00:35:52,400 --> 00:35:56,440
+So he just grabbed it
+and a genie appeared.
+
+356
+00:35:56,440 --> 00:36:00,080
+So the genie asked him for three wishes.
+
+357
+00:36:01,840 --> 00:36:04,240
+And you know what he asked
+
+358
+00:36:04,400 --> 00:36:12,640
+in his first wish.
+
+359
+00:36:12,640 --> 00:36:16,440
+No, he did not ask about get you?
+
+360
+00:36:16,840 --> 00:36:17,800
+No, not.
+
+361
+00:36:17,800 --> 00:36:21,960
+Not money.
+
+362
+00:36:21,960 --> 00:36:25,600
+No. Allen.
+
+363
+00:36:25,600 --> 00:36:28,200
+Exactly.
+The genie said that it's impossible
+
+364
+00:36:29,400 --> 00:36:32,760
+now. So he asked the genie that I would
+
+365
+00:36:32,920 --> 00:36:36,120
+my first wishes to provide me with a tool
+
+366
+00:36:36,600 --> 00:36:38,760
+that can help me manage
+
+367
+00:36:39,160 --> 00:36:44,160
+all the cause that I'm writing.
+
+368
+00:36:44,160 --> 00:36:51,840
+So the genie told him that he
+you can use get.
+
+369
+00:36:51,840 --> 00:36:57,640
+So from there, actually,
+you know, give came in.
+
+370
+00:36:57,640 --> 00:36:58,720
+Christine Yes.
+
+371
+00:36:58,720 --> 00:37:06,360
+It's a true story.
+
+372
+00:37:06,360 --> 00:37:11,760
+It was around 9pmi think it was.
+
+373
+00:37:11,760 --> 00:37:12,920
+I forgot the exact day.
+
+374
+00:37:12,920 --> 00:37:19,040
+But from the time he was,
+I guess from 1970s to 2010,
+
+375
+00:37:19,040 --> 00:37:25,200
+I guess, and these 40 years,
+it happened somewhere.
+
+376
+00:37:25,880 --> 00:37:36,640
+So, yeah.
+
+377
+00:37:36,640 --> 00:37:37,360
+Okay.
+
+378
+00:37:37,360 --> 00:37:40,080
+So now we will be moving upon
+
+379
+00:37:40,080 --> 00:37:44,040
+the next thing that
+
+380
+00:37:48,360 --> 00:37:48,960
+what is
+
+381
+00:37:48,960 --> 00:37:55,200
+good.
+
+382
+00:37:55,200 --> 00:37:59,400
+Okay, guys, before I jump into
+what is good, I want you guys to tell me,
+
+383
+00:37:59,800 --> 00:38:02,520
+are you clear about
+
+384
+00:38:02,520 --> 00:38:03,840
+the first point?
+
+385
+00:38:03,840 --> 00:38:17,480
+Why do we need good.
+
+386
+00:38:17,480 --> 00:38:21,400
+Okay, so now let's discuss that.
+
+387
+00:38:21,400 --> 00:38:25,200
+What is okay?
+
+388
+00:38:25,200 --> 00:38:28,640
+But before that,
+we need to discuss one more point,
+
+389
+00:38:28,640 --> 00:38:32,280
+which is versions.
+
+390
+00:38:32,280 --> 00:38:35,960
+Okay, So what are you glad
+that is already know about a version?
+
+391
+00:38:35,960 --> 00:38:52,440
+What is a version?
+
+392
+00:38:52,440 --> 00:38:53,240
+Okay, so
+
+393
+00:38:54,280 --> 00:38:56,600
+let's let's think about it.
+
+394
+00:38:56,600 --> 00:39:00,200
+As you all use Facebook and Instagram,
+
+395
+00:39:00,200 --> 00:39:07,840
+right?
+
+396
+00:39:07,840 --> 00:39:13,080
+So every time you get this update
+of your WhatsApp, Instagram and Facebook,
+
+397
+00:39:13,200 --> 00:39:24,000
+what are you actually doing?
+
+398
+00:39:24,000 --> 00:39:26,040
+You are updating it.
+
+399
+00:39:26,040 --> 00:39:30,960
+You are installing new features or changes
+
+400
+00:39:30,960 --> 00:39:39,160
+that are in that application, right?
+
+401
+00:39:39,160 --> 00:39:43,680
+So we can see that any change in the code
+
+402
+00:39:44,800 --> 00:39:47,280
+creates new version
+
+403
+00:39:47,280 --> 00:39:53,160
+of it.
+
+404
+00:39:53,160 --> 00:39:59,280
+Makes sense.
+
+405
+00:39:59,280 --> 00:40:04,000
+So let's say that this is my code
+for addition and subtraction.
+
+406
+00:40:04,600 --> 00:40:08,040
+I added it and, and I added
+
+407
+00:40:08,040 --> 00:40:11,920
+some functionality of
+
+408
+00:40:12,840 --> 00:40:14,440
+just multiplication.
+
+409
+00:40:14,440 --> 00:40:17,840
+So what can we call this first code that I
+
+410
+00:40:21,760 --> 00:40:23,640
+what kind of call it?
+
+411
+00:40:23,640 --> 00:40:26,760
+I can call it version one
+
+412
+00:40:28,160 --> 00:40:30,240
+and what should I call the second one
+
+413
+00:40:38,200 --> 00:40:39,960
+was and two.
+
+414
+00:40:39,960 --> 00:40:45,520
+Okay, I can also go call it 1.1,
+you know, 1.01.
+
+415
+00:40:46,120 --> 00:40:50,160
+This convention will vary depending upon,
+you know, the organization
+
+416
+00:40:50,160 --> 00:40:51,320
+that you are working in.
+
+417
+00:40:51,320 --> 00:40:53,240
+What's the convention they are using?
+
+418
+00:40:53,240 --> 00:40:58,480
+It can vary.
+
+419
+00:40:58,480 --> 00:40:58,920
+Okay.
+
+420
+00:41:00,040 --> 00:41:02,160
+So now you guys know that.
+
+421
+00:41:02,160 --> 00:41:06,360
+What is the version right?
+
+422
+00:41:06,360 --> 00:41:06,720
+Okay.
+
+423
+00:41:06,720 --> 00:41:20,280
+So now let's move ahead.
+
+424
+00:41:20,280 --> 00:42:39,320
+Yeah.
+
+425
+00:42:39,320 --> 00:42:39,640
+Okay.
+
+426
+00:42:39,640 --> 00:42:42,920
+So let's say that there is a point
+who rise
+
+427
+00:42:42,920 --> 00:42:45,280
+to who likes to write poems.
+
+428
+00:42:46,280 --> 00:42:51,240
+So what he wants to do is that he wants
+
+429
+00:42:51,840 --> 00:42:55,000
+that his every writing is being saved
+
+430
+00:42:55,000 --> 00:42:59,040
+in a locker room that he has in his room.
+
+431
+00:43:00,800 --> 00:43:04,560
+So what he needs to do,
+
+432
+00:43:04,560 --> 00:43:07,800
+he needs to honor whatever he writes.
+
+433
+00:43:07,800 --> 00:43:10,120
+He needs to pick it up.
+
+434
+00:43:10,120 --> 00:43:13,200
+Let's say that he wrote some
+
+435
+00:43:13,200 --> 00:43:13,680
+poetry.
+
+436
+00:43:13,680 --> 00:43:17,280
+He needs to pick it up
+and place it in the shelf.
+
+437
+00:43:18,200 --> 00:43:21,680
+And if he wants to manage it perfectly,
+
+438
+00:43:21,680 --> 00:43:24,000
+what he needs to do, he needs to label it
+
+439
+00:43:25,480 --> 00:43:28,600
+with time, date
+
+440
+00:43:33,560 --> 00:43:46,440
+and name.
+
+441
+00:43:46,440 --> 00:43:50,640
+So the next day
+when he's going to write something new,
+
+442
+00:43:51,360 --> 00:43:53,920
+what he will have to do,
+he will again have
+
+443
+00:43:53,920 --> 00:43:57,000
+to place it on the next show
+
+444
+00:43:58,040 --> 00:44:00,200
+and he will have to label it with
+
+445
+00:44:03,360 --> 00:44:06,120
+time did and name
+
+446
+00:44:07,800 --> 00:44:10,320
+and so on as he works.
+
+447
+00:44:10,320 --> 00:44:13,920
+And he will have to do this process
+over and over again
+
+448
+00:44:14,720 --> 00:44:19,560
+so that whenever he wants to go back
+to one of his previous writing,
+
+449
+00:44:19,840 --> 00:44:24,000
+he can't simply just
+by looking at the label, do that.
+
+450
+00:44:24,600 --> 00:44:28,920
+So do you guys think that
+this technique of organization is going
+
+451
+00:44:28,920 --> 00:44:32,240
+to make it very easy
+for him to get back to
+
+452
+00:44:32,240 --> 00:44:37,120
+any of his previous writing?
+
+453
+00:44:37,120 --> 00:44:38,040
+Right.
+
+454
+00:44:38,040 --> 00:44:40,600
+But now do you guys also think that,
+
+455
+00:44:42,320 --> 00:44:46,440
+for example,
+if he's writing a lot of things,
+
+456
+00:44:46,440 --> 00:44:50,800
+do you guys think it's going to be hard
+for him to place everything,
+
+457
+00:44:50,800 --> 00:44:55,440
+label it, and,
+you know, actually manage that stuff?
+
+458
+00:44:55,440 --> 00:44:57,560
+Is it going to be hard for him?
+
+459
+00:44:57,560 --> 00:44:59,520
+Yes, it will be hard for him.
+
+460
+00:45:00,960 --> 00:45:02,960
+So what
+
+461
+00:45:02,960 --> 00:45:07,240
+what if he just hires this minion
+
+462
+00:45:08,000 --> 00:45:12,640
+and says that I'm not going to manage this
+cupboard?
+
+463
+00:45:13,640 --> 00:45:15,400
+Can you do it for me?
+
+464
+00:45:15,400 --> 00:45:18,640
+I'm just going to tell you
+that this is the writing that I wrote
+
+465
+00:45:20,520 --> 00:45:21,840
+and I'm going to give you
+
+466
+00:45:21,840 --> 00:45:24,080
+some very basic information like
+
+467
+00:45:25,080 --> 00:45:26,640
+the name
+
+468
+00:45:27,120 --> 00:45:30,320
+and, you know, maybe version number.
+
+469
+00:45:32,280 --> 00:45:35,240
+Can you manage the rest of stuff
+on your own?
+
+470
+00:45:36,120 --> 00:45:38,720
+Minion is going to say, Yes,
+I'll do that work for you.
+
+471
+00:45:38,960 --> 00:45:43,560
+So he's just going to give him,
+you know, his writing along with the name
+
+472
+00:45:44,040 --> 00:45:46,760
+and the rest of the stuff
+is going to be taken care
+
+473
+00:45:46,760 --> 00:45:49,440
+of by this particular minion
+
+474
+00:45:50,160 --> 00:45:52,520
+and he's going to manage everything
+in this
+
+475
+00:45:53,640 --> 00:45:55,840
+cupboard that he has.
+
+476
+00:45:55,840 --> 00:46:00,960
+So now, guys, now tell me that does
+does this technique
+
+477
+00:46:01,760 --> 00:46:09,840
+helps him organize everything better?
+
+478
+00:46:09,840 --> 00:46:15,480
+It's now it becomes even easier for him
+to, you know, manage everything.
+
+479
+00:46:15,480 --> 00:46:20,280
+And let's just say that he wants to
+get back to any of his previous writing.
+
+480
+00:46:20,320 --> 00:46:23,800
+You can just tell them, Minion,
+that he can you go back to
+
+481
+00:46:24,800 --> 00:46:27,400
+you know, the writing with the name
+
+482
+00:46:27,880 --> 00:46:31,400
+this which I gave you,
+and Minion is going to go and put
+
+483
+00:46:32,480 --> 00:46:38,360
+it from the cupboard for him
+and he's going to get that.
+
+484
+00:46:38,360 --> 00:46:45,040
+So now let's replace try to replace this
+example with get So you guys
+
+485
+00:46:45,040 --> 00:46:49,480
+can imagine that instead of this writer
+
+486
+00:46:49,920 --> 00:46:52,160
+there is a programmer
+
+487
+00:46:52,920 --> 00:46:55,400
+or a tester who is writing codes
+
+488
+00:46:55,400 --> 00:46:57,720
+and this cupboard
+
+489
+00:47:03,520 --> 00:47:04,560
+is still there
+
+490
+00:47:04,560 --> 00:47:09,400
+inside your computer
+and whatever code you are writing,
+
+491
+00:47:09,400 --> 00:47:15,160
+this minion is taking care of that
+and he is managing it, labeling it
+
+492
+00:47:16,240 --> 00:47:19,360
+and placing it in the
+
+493
+00:47:19,360 --> 00:47:26,720
+cupboard.
+
+494
+00:47:26,720 --> 00:47:44,400
+And he's going to label everything
+as he puts.
+
+495
+00:47:44,400 --> 00:47:48,840
+Okay, so let's say that this person
+
+496
+00:47:48,840 --> 00:47:58,760
+who is writing is John.
+
+497
+00:47:58,760 --> 00:48:02,760
+What is this minion going to be?
+
+498
+00:48:02,760 --> 00:48:09,880
+What do who is this minion?
+
+499
+00:48:09,880 --> 00:48:11,960
+Yeah, remember I told that V.I.
+
+500
+00:48:12,000 --> 00:48:13,880
+trying to implement that example
+
+501
+00:48:15,240 --> 00:48:17,480
+in our computer right?
+
+502
+00:48:17,480 --> 00:48:19,600
+This minion is actually gift
+
+503
+00:48:31,680 --> 00:48:35,120
+and the cupboard that we have
+
+504
+00:48:36,120 --> 00:48:38,960
+this particular cupboard
+
+505
+00:48:39,360 --> 00:48:40,840
+or locker room, whatever
+
+506
+00:48:40,840 --> 00:48:44,200
+you want to said we call it
+
+507
+00:48:45,240 --> 00:48:48,480
+in terms of computer,
+we call it breakfast.
+
+508
+00:48:48,480 --> 00:48:49,520
+Jeffrey
+
+509
+00:49:03,240 --> 00:49:04,360
+up to this point,
+
+510
+00:49:04,360 --> 00:49:07,400
+is everything clear to you guys that how
+
+511
+00:49:07,440 --> 00:49:10,440
+what is it actually
+
+512
+00:49:11,320 --> 00:49:12,600
+any questions
+
+513
+00:49:12,600 --> 00:49:19,200
+that you may have?
+
+514
+00:49:19,200 --> 00:49:30,240
+Okay, perfect.
+
+515
+00:49:30,240 --> 00:49:31,600
+So now
+
+516
+00:49:33,120 --> 00:49:36,600
+if get is taking care of
+
+517
+00:49:37,920 --> 00:49:40,840
+every code that we are writing
+and we said that
+
+518
+00:49:41,560 --> 00:49:43,800
+each changes in the code
+
+519
+00:49:45,040 --> 00:49:46,920
+is called a virgin.
+
+520
+00:49:46,920 --> 00:49:50,120
+So can I see while defining get that
+
+521
+00:49:50,760 --> 00:49:52,920
+get is a virgin
+
+522
+00:49:53,240 --> 00:49:56,760
+control tool.
+
+523
+00:49:56,760 --> 00:50:00,160
+Can I see that?
+
+524
+00:50:00,160 --> 00:50:01,320
+It makes sense, right?
+
+525
+00:50:01,320 --> 00:50:02,400
+Because
+
+526
+00:50:02,960 --> 00:50:05,720
+Kate is actually
+
+527
+00:50:05,800 --> 00:50:09,840
+tracking
+all the versions it's managed in them.
+
+528
+00:50:10,440 --> 00:50:14,560
+So I can see that gate is a virgin control
+tool, right?
+
+529
+00:50:15,480 --> 00:50:18,000
+So let's quickly define get
+
+530
+00:50:21,640 --> 00:50:25,920
+get is a version control tool
+
+531
+00:50:28,240 --> 00:50:31,840
+that keep tracks
+
+532
+00:50:33,080 --> 00:50:35,480
+of all the changes
+
+533
+00:50:36,160 --> 00:50:38,560
+that we make in our code
+
+534
+00:50:40,320 --> 00:50:42,800
+and told them
+
+535
+00:50:43,800 --> 00:50:50,160
+in the repository.
+
+536
+00:50:50,160 --> 00:50:57,080
+Okay, so is there anyone who does
+not understand this definition?
+
+537
+00:50:57,080 --> 00:50:59,640
+Okay. So for hard.
+
+538
+00:51:00,160 --> 00:51:03,280
+No, just you know, the guys with it,
+we will be coming.
+
+539
+00:51:03,280 --> 00:51:05,640
+I'll answer your all questions
+
+540
+00:51:06,720 --> 00:51:07,800
+over the period of time.
+
+541
+00:51:07,800 --> 00:51:10,560
+Just for now. Go with the flow.
+
+542
+00:51:11,320 --> 00:51:12,000
+Okay.
+
+543
+00:51:12,480 --> 00:51:14,760
+They they will be automatically answered
+
+544
+00:51:14,760 --> 00:51:18,360
+as you move forward.
+
+545
+00:51:18,360 --> 00:51:22,920
+You'll need to you will be given
+that answer to over the period of time.
+
+546
+00:51:22,920 --> 00:51:23,640
+Okay.
+
+547
+00:51:23,640 --> 00:51:29,600
+I'm still not done.
+
+548
+00:51:29,600 --> 00:51:29,880
+Okay.
+
+549
+00:51:29,880 --> 00:51:35,040
+Anyone who does not understand
+that why we wrote this definition
+
+550
+00:51:35,200 --> 00:51:47,120
+or are we all good?
+
+551
+00:51:47,120 --> 00:52:06,600
+Okay, perfect.
+
+552
+00:52:06,600 --> 00:52:19,360
+I think this is what Diego says right?
+
+553
+00:52:19,360 --> 00:52:20,080
+Okay.
+
+554
+00:52:20,240 --> 00:52:22,800
+So now I have one question for you guys.
+
+555
+00:52:24,160 --> 00:52:25,760
+This repository
+
+556
+00:52:25,760 --> 00:52:28,680
+that I'm talking about,
+
+557
+00:52:28,680 --> 00:52:57,640
+where is it located?
+
+558
+00:52:57,640 --> 00:53:03,560
+Okay, So this is something that we need
+to, you know, I think pay attention to.
+
+559
+00:53:04,080 --> 00:53:07,520
+So this repository or cupboard that
+
+560
+00:53:08,800 --> 00:53:13,720
+gate is organizing everything into
+is located on your machine.
+
+561
+00:53:14,000 --> 00:53:16,920
+Whatever you are using. Mac
+
+562
+00:53:16,920 --> 00:53:20,320
+windows or any other computer,
+if you are using
+
+563
+00:53:20,640 --> 00:53:24,240
+it's located on your machine,
+
+564
+00:53:24,240 --> 00:53:31,560
+not in the cloud.
+
+565
+00:53:31,560 --> 00:53:38,800
+Okay.
+
+566
+00:53:38,800 --> 00:53:42,680
+So you can see that
+
+567
+00:53:43,320 --> 00:53:46,920
+gate is a motion control tool
+that keeps track of all changes
+
+568
+00:53:46,920 --> 00:53:50,120
+that we make in our code
+and stores them in the
+
+569
+00:53:51,400 --> 00:53:53,160
+local repository.
+
+570
+00:53:53,160 --> 00:53:54,600
+Can I see that?
+
+571
+00:53:54,600 --> 00:53:55,880
+Because
+
+572
+00:53:56,280 --> 00:53:58,320
+this repository resides on
+
+573
+00:53:59,400 --> 00:54:01,520
+our computer, right?
+
+574
+00:54:01,920 --> 00:54:09,800
+So that's what local repository.
+
+575
+00:54:09,800 --> 00:54:18,440
+Okay, So now
+
+576
+00:54:18,440 --> 00:54:26,520
+the next thing that we will be learning,
+okay,
+
+577
+00:54:26,520 --> 00:54:39,840
+someone wanted me to zoom in
+at this point.
+
+578
+00:54:39,840 --> 00:54:43,720
+Okay, Ed,
+
+579
+00:54:43,720 --> 00:55:04,560
+are we good?
+
+580
+00:55:04,560 --> 00:55:07,400
+Someone asked me the question
+That is good for me.
+
+581
+00:55:07,840 --> 00:55:10,280
+Yes Get is open source.
+
+582
+00:55:10,280 --> 00:55:17,640
+It's totally free.
+
+583
+00:55:17,640 --> 00:55:20,280
+Do we have any other version
+control tools?
+
+584
+00:55:20,560 --> 00:55:22,720
+Yes, we have, but
+
+585
+00:55:23,800 --> 00:55:24,240
+the most
+
+586
+00:55:24,240 --> 00:55:28,360
+popular one that is being used in
+the industry is GED.
+
+587
+00:55:28,360 --> 00:55:43,080
+So we only learn get.
+
+588
+00:55:43,080 --> 00:55:47,480
+Okay,
+
+589
+00:55:47,480 --> 00:55:52,040
+so we were discussing the problem
+that we can, you know, hired
+
+590
+00:55:52,040 --> 00:55:55,840
+get to manage our code and stuff
+in the repository.
+
+591
+00:55:55,840 --> 00:55:57,440
+We discussed that.
+
+592
+00:55:57,440 --> 00:56:00,000
+So the next problem that we have is
+
+593
+00:56:00,840 --> 00:56:05,960
+we need to somehow communicate
+to get in order
+
+594
+00:56:05,960 --> 00:56:10,560
+to tell him that, okay,
+this is the name of the
+
+595
+00:56:11,680 --> 00:56:14,400
+version that we want to store
+
+596
+00:56:14,400 --> 00:56:17,800
+in our locker room,
+which we now call repository.
+
+597
+00:56:18,600 --> 00:56:21,320
+So what do you guys suggest that
+
+598
+00:56:21,320 --> 00:56:23,440
+how can we talk to get
+
+599
+00:56:58,720 --> 00:57:00,720
+Okay, so now,
+
+600
+00:57:00,760 --> 00:57:04,040
+just like we know over here, we
+
+601
+00:57:05,680 --> 00:57:07,400
+we speak different languages, right?
+
+602
+00:57:07,400 --> 00:57:09,120
+Few of you speak Russian.
+
+603
+00:57:09,120 --> 00:57:13,120
+If you speak me maybe
+speaking Spanish and stuff,
+
+604
+00:57:13,480 --> 00:57:18,600
+but now we come to a common ground
+and we decide a common language,
+
+605
+00:57:18,840 --> 00:57:21,480
+which is English,
+so that we all can communicate.
+
+606
+00:57:21,560 --> 00:57:21,880
+Right?
+
+607
+00:57:22,840 --> 00:57:25,200
+So similar with GED,
+
+608
+00:57:25,840 --> 00:57:29,040
+we have a common ground
+in which we can communicate.
+
+609
+00:57:29,040 --> 00:57:32,680
+And what are those?
+
+610
+00:57:32,680 --> 00:57:34,600
+What are those
+
+611
+00:57:37,920 --> 00:57:39,600
+commands?
+
+612
+00:57:40,520 --> 00:57:42,880
+No, no, Sebastian, not binary.
+
+613
+00:57:43,440 --> 00:57:54,600
+Those are common.
+
+614
+00:57:54,600 --> 00:58:10,080
+Okay, So what are these commands?
+
+615
+00:58:10,080 --> 00:58:12,480
+These are unique style commands.
+
+616
+00:58:12,480 --> 00:58:25,800
+Okay?
+
+617
+00:58:25,800 --> 00:58:31,280
+Now we know that it is going to be able
+to understand if we give it some commands,
+
+618
+00:58:31,280 --> 00:58:34,640
+but where do we actually give
+
+619
+00:58:34,640 --> 00:58:46,960
+those commands?
+
+620
+00:58:46,960 --> 00:58:49,120
+Okay, so for that,
+
+621
+00:58:49,120 --> 00:58:53,280
+we have a software for Windows,
+
+622
+00:58:53,280 --> 00:58:55,720
+which is get Bash
+
+623
+00:59:09,120 --> 00:59:10,600
+on Mac.
+
+624
+00:59:10,600 --> 00:59:13,040
+We have terminal
+
+625
+00:59:17,440 --> 00:59:18,800
+where we can give
+
+626
+00:59:18,800 --> 00:59:28,800
+these commands.
+
+627
+00:59:28,800 --> 00:59:29,640
+Okay.
+
+628
+00:59:30,040 --> 00:59:32,440
+So now you guys might be thinking that
+
+629
+00:59:33,080 --> 00:59:37,600
+for Windows we have Get Bash
+and for Mac we have terminal.
+
+630
+00:59:37,600 --> 00:59:42,000
+So is there going to be any difference
+when we give the commands,
+
+631
+00:59:42,280 --> 00:59:43,680
+something like that?
+
+632
+00:59:43,680 --> 00:59:49,280
+So I want to mention over here
+that there is going to be no difference.
+
+633
+00:59:49,280 --> 00:59:53,400
+Everything is going to remain
+same for Windows users
+
+634
+00:59:53,880 --> 00:59:57,520
+as well as Mac users.
+
+635
+00:59:57,520 --> 01:00:01,840
+The only thing which is different
+is that for Windows we use Get Bash
+
+636
+01:00:01,840 --> 01:00:19,160
+and for Mac, we use the terminal.
+
+637
+01:00:19,160 --> 01:00:24,960
+No, you cannot use Chromebook.
+
+638
+01:00:24,960 --> 01:00:29,400
+How about on iPhone or Android?
+
+639
+01:00:29,400 --> 01:00:37,200
+You have to get older.
+
+640
+01:00:37,200 --> 01:00:39,000
+Do you have the eclipse? All older to
+
+641
+01:00:45,240 --> 01:00:46,600
+Are you writing your chords?
+
+642
+01:00:46,600 --> 01:00:50,280
+All right on iPhone, right.
+
+643
+01:00:51,200 --> 01:00:54,560
+No. Remember get
+
+644
+01:00:54,560 --> 01:00:57,840
+is just used for managing your quotes.
+
+645
+01:00:57,840 --> 01:00:59,640
+Nothing else right?
+
+646
+01:00:59,640 --> 01:01:01,800
+So you only need it.
+
+647
+01:01:01,800 --> 01:01:02,840
+Various codes are.
+
+648
+01:01:02,840 --> 01:01:08,520
+And those are in your computer right.
+
+649
+01:01:08,520 --> 01:01:09,320
+Okay.
+
+650
+01:01:10,680 --> 01:01:12,720
+So at this point
+
+651
+01:01:13,120 --> 01:01:17,840
+we will before
+jumping into using actual get,
+
+652
+01:01:18,000 --> 01:01:20,880
+we will try to learn some very basic UNIX
+
+653
+01:01:20,880 --> 01:01:32,760
+commands.
+
+654
+01:01:32,760 --> 01:01:33,520
+Okay.
+
+655
+01:01:33,840 --> 01:01:37,320
+So why do we need to learn these commands
+
+656
+01:01:42,600 --> 01:01:44,880
+is get bash separate software
+
+657
+01:01:44,880 --> 01:01:48,360
+get bash is going to come in same package
+
+658
+01:01:48,600 --> 01:02:06,240
+if you install it on Windows.
+
+659
+01:02:06,240 --> 01:02:07,040
+Okay.
+
+660
+01:02:07,200 --> 01:02:12,000
+So these basics come at a basic command
+that we are going to learn right now.
+
+661
+01:02:12,080 --> 01:02:15,400
+We will be learning them.
+
+662
+01:02:15,400 --> 01:02:18,840
+We will be using them to actually navigate
+
+663
+01:02:19,440 --> 01:02:29,320
+into our into our machine.
+
+664
+01:02:29,320 --> 01:02:31,560
+Why do we need to navigate
+into our machine?
+
+665
+01:02:31,800 --> 01:02:35,400
+We will discuss that once
+we have learned these commands.
+
+666
+01:02:35,600 --> 01:02:38,000
+Okay.
+
+667
+01:02:42,280 --> 01:02:42,760
+Are you guys
+
+668
+01:02:42,760 --> 01:02:58,960
+with me?
+
+669
+01:02:58,960 --> 01:02:59,280
+Okay.
+
+670
+01:02:59,280 --> 01:03:04,200
+So now I hope that everyone has installed
+
+671
+01:03:04,200 --> 01:03:08,520
+GID on their machines and now
+we will be learning these commands.
+
+672
+01:03:08,520 --> 01:03:10,560
+So try to follow me,
+
+673
+01:03:11,600 --> 01:03:13,320
+whatever I'm doing.
+
+674
+01:03:13,320 --> 01:03:17,160
+And then, you know, if if anyone, if you
+
+675
+01:03:17,560 --> 01:03:19,720
+this is any problem,
+
+676
+01:03:20,160 --> 01:03:24,000
+just go to the support, if any question is
+there, you can ask them.
+
+677
+01:03:24,920 --> 01:03:26,600
+Okay.
+
+678
+01:03:26,600 --> 01:03:33,320
+So the first step, open your get bash
+
+679
+01:03:34,400 --> 01:03:36,440
+and Windows.
+
+680
+01:03:36,560 --> 01:03:39,440
+And for Mac users, it's going to be
+
+681
+01:03:44,320 --> 01:03:50,080
+open your terminal.
+
+682
+01:03:50,080 --> 01:03:55,000
+So I have windows
+so I'll go to search bar type in git bash
+
+683
+01:03:55,600 --> 01:03:58,320
+and it will appear in the search and
+
+684
+01:03:59,400 --> 01:04:12,840
+I'll just simply click on it.
+
+685
+01:04:12,840 --> 01:04:13,200
+Okay.
+
+686
+01:04:13,200 --> 01:04:27,600
+Let me know when you guys have done this.
+
+687
+01:04:27,600 --> 01:04:28,360
+Okay.
+
+688
+01:04:28,960 --> 01:04:34,200
+So I'm going to zoom it a little bit.
+
+689
+01:04:34,200 --> 01:04:35,840
+That's fine For Windows user.
+
+690
+01:04:35,840 --> 01:04:37,280
+We have it.
+
+691
+01:04:37,280 --> 01:04:41,680
+BASH And for Mac users, the terminal
+I have a Chromebook
+
+692
+01:04:41,680 --> 01:04:49,560
+and a terminal.
+
+693
+01:04:49,560 --> 01:04:50,240
+Michael
+
+694
+01:05:02,080 --> 01:05:03,120
+like a
+
+695
+01:05:03,240 --> 01:05:05,920
+you are not on Mac.
+
+696
+01:05:06,480 --> 01:05:10,560
+Weren't
+you supposed to have Mac or Windows.
+
+697
+01:05:11,480 --> 01:05:13,760
+I don't think that you knew
+
+698
+01:05:15,000 --> 01:05:37,560
+you were supposed to have a Linux system.
+
+699
+01:05:37,560 --> 01:05:37,920
+Okay.
+
+700
+01:05:37,920 --> 01:05:41,640
+So what we need to do,
+we need to click on this Windows
+
+701
+01:05:43,560 --> 01:05:47,520
+and over here we need to type
+in, get bash and press enter.
+
+702
+01:05:48,240 --> 01:05:50,440
+Okay, So it's going to open this up.
+
+703
+01:05:51,960 --> 01:05:58,240
+Well, Michael, if you are on Linux,
+because I'm not sure about that,
+
+704
+01:05:58,240 --> 01:06:01,600
+I think that you are not supposed
+to have Linux,
+
+705
+01:06:02,720 --> 01:06:05,280
+but over there also you can open up
+
+706
+01:06:05,280 --> 01:06:09,480
+the terminal and, you know, work
+just like the Mac users are
+
+707
+01:06:09,480 --> 01:06:12,400
+working is going to be
+pretty much the same for Linux also.
+
+708
+01:06:12,640 --> 01:06:15,640
+Okay. Just
+
+709
+01:06:17,240 --> 01:06:18,240
+in order to zoom in
+
+710
+01:06:18,240 --> 01:06:21,520
+and you just need
+to cool control and scroll up
+
+711
+01:06:23,040 --> 01:06:24,200
+or click on
+
+712
+01:06:24,200 --> 01:06:33,400
+plus plus.
+
+713
+01:06:33,400 --> 01:06:35,560
+Yeah, you can open up the terminal.
+
+714
+01:06:35,680 --> 01:06:38,760
+Michael Okay, so the first command
+
+715
+01:06:38,760 --> 01:06:42,480
+that we will be learning is
+
+716
+01:06:43,320 --> 01:06:45,120
+who am I?
+
+717
+01:06:45,600 --> 01:06:48,640
+So let's type down
+where am I in the terminal
+
+718
+01:06:49,120 --> 01:06:54,560
+and press enter.
+
+719
+01:06:54,560 --> 01:06:57,960
+I want you guys to paste your output
+
+720
+01:06:57,960 --> 01:07:00,600
+in the live chat.
+
+721
+01:07:01,080 --> 01:07:24,280
+Just Christine,
+
+722
+01:07:25,720 --> 01:07:28,560
+can you share the screenshot
+
+723
+01:07:30,160 --> 01:07:31,320
+of what you are having?
+
+724
+01:07:31,320 --> 01:07:33,440
+Okay. When my
+
+725
+01:07:34,440 --> 01:07:36,720
+so. Okay,
+
+726
+01:07:36,760 --> 01:07:38,040
+very good.
+
+727
+01:07:38,040 --> 01:07:46,680
+Very good.
+
+728
+01:07:50,280 --> 01:07:51,040
+Remember,
+
+729
+01:07:51,040 --> 01:07:54,000
+there is no space between who am I?
+
+730
+01:07:54,240 --> 01:07:54,640
+Okay.
+
+731
+01:07:54,640 --> 01:08:01,320
+It has to be without a space.
+
+732
+01:08:01,320 --> 01:08:03,040
+Okay. Don't send me screenshot.
+
+733
+01:08:03,040 --> 01:08:06,680
+Just copy this where my text
+and you can paste simply that.
+
+734
+01:08:06,680 --> 01:08:09,120
+Okay. That will be much better.
+
+735
+01:08:09,120 --> 01:08:09,360
+Okay.
+
+736
+01:08:09,360 --> 01:08:12,600
+So what is your terminal telling you
+
+737
+01:08:12,600 --> 01:08:22,360
+right now?
+
+738
+01:08:22,360 --> 01:08:36,360
+It is telling you the name
+that you have given to your computer.
+
+739
+01:08:36,360 --> 01:08:51,200
+Yes, exactly.
+
+740
+01:08:51,200 --> 01:08:55,280
+And this name is obviously going
+to be different for every one.
+
+741
+01:08:55,280 --> 01:08:58,160
+My computer name is HPC X
+
+742
+01:08:58,800 --> 01:09:01,200
+and yours is going to be different.
+
+743
+01:09:03,040 --> 01:09:03,280
+Well,
+
+744
+01:09:03,280 --> 01:09:06,560
+Farhad, that
+trust me, that will make no difference.
+
+745
+01:09:06,560 --> 01:09:14,880
+Knowing your computer name,
+I cannot hack into that. Tom.
+
+746
+01:09:14,880 --> 01:09:17,160
+I know you are.
+You are perfectly doing well.
+
+747
+01:09:17,360 --> 01:09:20,240
+Anyone having issues with this?
+
+748
+01:09:20,240 --> 01:09:22,160
+The support is there, right?
+
+749
+01:09:22,160 --> 01:09:26,520
+You guys can send screenshot
+over there and get help.
+
+750
+01:09:26,520 --> 01:10:03,400
+Okay, so the command is who am I?
+
+751
+01:10:03,400 --> 01:10:08,000
+Okay, now
+
+752
+01:10:09,200 --> 01:10:14,160
+let's imagine that this terminal
+is actually
+
+753
+01:10:15,480 --> 01:10:18,840
+a person in your computer.
+
+754
+01:10:18,840 --> 01:10:22,480
+Okay.
+
+755
+01:10:22,480 --> 01:10:26,200
+Are we all good with this assumption
+that this computer
+
+756
+01:10:26,200 --> 01:10:29,240
+is like a person to whom we can talk?
+
+757
+01:10:29,240 --> 01:10:35,920
+And he talks back,
+so we just ask him that Who am I?
+
+758
+01:10:35,920 --> 01:10:39,960
+And he told it
+that your computer is HPC X.
+
+759
+01:10:41,080 --> 01:10:43,680
+So now what we want to do,
+
+760
+01:10:43,880 --> 01:10:47,400
+we want to ask the terminal that, Hey Mr.
+
+761
+01:10:47,400 --> 01:10:52,080
+Terminal, what is your current location
+
+762
+01:10:52,320 --> 01:10:55,920
+in the computer?
+
+763
+01:10:55,920 --> 01:11:00,680
+Because you know, inside your computer
+you have desktop
+
+764
+01:11:00,680 --> 01:11:05,720
+documents, downloads and you know, a
+lot of other folders and files.
+
+765
+01:11:06,000 --> 01:11:12,280
+Your terminal can be anywhere, right?
+
+766
+01:11:12,280 --> 01:11:20,400
+So in order to know that the terminal is
+right now, we need to ask him.
+
+767
+01:11:20,400 --> 01:11:23,680
+And for that we have a command which is
+
+768
+01:11:27,960 --> 01:11:33,200
+TWD, So let's first type them down
+
+769
+01:11:33,440 --> 01:12:16,360
+so anyone who is skipping out
+can catch up.
+
+770
+01:12:16,360 --> 01:12:20,360
+Okay, so let's write down TWD and let's
+
+771
+01:12:20,360 --> 01:12:24,960
+see where our terminal is right now.
+
+772
+01:12:24,960 --> 01:12:29,480
+So do you guys think that we all will be
+having different results
+
+773
+01:12:29,480 --> 01:12:39,680
+or the same result?
+
+774
+01:12:39,680 --> 01:12:40,680
+Different right.
+
+775
+01:12:40,680 --> 01:12:43,040
+Because and everyone computer
+
+776
+01:12:43,280 --> 01:12:46,600
+the location of the terminal
+is going to be different, right?
+
+777
+01:12:47,240 --> 01:12:48,520
+It's going to be different for me.
+
+778
+01:12:48,520 --> 01:12:52,800
+It's going to be different for you.
+
+779
+01:12:52,800 --> 01:12:53,160
+Okay.
+
+780
+01:12:53,160 --> 01:12:56,520
+So my terminal is currently
+
+781
+01:12:56,520 --> 01:13:00,320
+in C users
+
+782
+01:13:00,720 --> 01:13:03,960
+and HPC X
+
+783
+01:13:11,720 --> 01:13:12,880
+I'm I'm coming
+
+784
+01:13:12,880 --> 01:13:22,000
+to that go.
+
+785
+01:13:22,000 --> 01:13:22,640
+Okay, perfect.
+
+786
+01:13:22,640 --> 01:13:27,600
+So you see for everyone
+the location is different.
+
+787
+01:13:28,560 --> 01:13:30,720
+B For my units users.
+
+788
+01:13:30,720 --> 01:13:35,480
+Maryam Abedi for do is abduction users.
+
+789
+01:13:35,480 --> 01:13:38,560
+Abdullah Shinwari
+And for the rest of you, it's also going
+
+790
+01:13:38,560 --> 01:13:44,240
+to be different right?
+
+791
+01:13:44,240 --> 01:14:03,440
+Perfect.
+
+792
+01:14:03,440 --> 01:14:06,160
+So what does PWT
+
+793
+01:14:06,760 --> 01:14:23,840
+stands for?
+
+794
+01:14:23,840 --> 01:14:27,720
+Friend Working Directory
+
+795
+01:14:33,360 --> 01:14:33,840
+or in
+
+796
+01:14:33,840 --> 01:14:36,840
+some case we can also see
+a present working directory.
+
+797
+01:14:37,680 --> 01:14:42,000
+So what do we understand from the term
+Framed Working directory?
+
+798
+01:14:42,720 --> 01:14:57,720
+We will come to that.
+
+799
+01:14:57,720 --> 01:14:59,640
+Okay, so the pwt come out.
+
+800
+01:14:59,640 --> 01:15:03,120
+Is there
+anyone who is still confused about
+
+801
+01:15:03,120 --> 01:15:26,760
+what does this command do
+and is unable to execute it?
+
+802
+01:15:26,760 --> 01:15:30,240
+Know how to do?
+
+803
+01:15:30,240 --> 01:15:31,360
+Remember,
+
+804
+01:15:32,480 --> 01:15:35,160
+don't complicate
+
+805
+01:15:35,160 --> 01:15:37,320
+the knowledge that you have and mix it up.
+
+806
+01:15:38,120 --> 01:15:40,360
+Just understand
+
+807
+01:15:40,360 --> 01:15:42,680
+we are moving from very basic steps.
+
+808
+01:15:42,680 --> 01:15:46,160
+So what I told you,
+I told you that you open up your terminal
+
+809
+01:15:46,400 --> 01:15:51,240
+and when you want to know that where
+your terminal is standing, you use PWT.
+
+810
+01:15:51,600 --> 01:15:53,200
+Okay, so that's it.
+
+811
+01:15:53,200 --> 01:16:03,000
+That's all we know so far.
+
+812
+01:16:03,000 --> 01:16:15,840
+Okay, Get back.
+
+813
+01:16:15,920 --> 01:16:17,040
+It's good, Bash.
+
+814
+01:16:17,040 --> 01:16:19,240
+It's not good.
+
+815
+01:16:20,760 --> 01:16:22,280
+I'll explain it to you
+
+816
+01:16:22,280 --> 01:16:27,640
+that what is a terminal?
+
+817
+01:16:27,640 --> 01:16:30,840
+Okay, So first, let's move on to the
+
+818
+01:16:30,840 --> 01:16:34,120
+next command, which is else.
+
+819
+01:16:35,520 --> 01:16:41,480
+Okay, so
+
+820
+01:16:41,560 --> 01:16:44,520
+let's simply write down L.S.
+
+821
+01:16:45,640 --> 01:16:48,520
+and let's first see that
+
+822
+01:16:48,520 --> 01:16:56,160
+What does this command do?
+
+823
+01:16:56,160 --> 01:16:58,200
+Okay, For me, it's printing out,
+
+824
+01:16:59,200 --> 01:17:01,360
+you know, different
+
+825
+01:17:01,360 --> 01:17:05,320
+files.
+
+826
+01:17:05,320 --> 01:17:06,280
+Okay,
+
+827
+01:17:07,440 --> 01:17:10,040
+so this command, Alice,
+
+828
+01:17:10,160 --> 01:17:14,560
+what we are telling,
+what we are asking Mr.
+
+829
+01:17:14,560 --> 01:17:20,080
+Terminal.
+
+830
+01:17:20,080 --> 01:17:20,760
+Hey, Mr.
+
+831
+01:17:20,760 --> 01:17:28,920
+Terminal, can you please tell us that
+
+832
+01:17:31,480 --> 01:17:34,200
+in your current location
+
+833
+01:17:35,160 --> 01:17:39,960
+where you are standing,
+
+834
+01:17:39,960 --> 01:17:43,920
+what are the files and folders
+
+835
+01:17:44,680 --> 01:17:51,360
+present over there?
+
+836
+01:17:51,360 --> 01:17:53,880
+Okay, so what you want to ask Mr.
+
+837
+01:17:53,880 --> 01:17:54,840
+Terminal that?
+
+838
+01:17:54,840 --> 01:17:57,280
+What are the files and folders
+
+839
+01:17:58,200 --> 01:18:00,240
+in the location where he's standing?
+
+840
+01:18:00,400 --> 01:18:02,400
+We use the command L.
+
+841
+01:18:02,440 --> 01:18:07,440
+S list ten for list content.
+
+842
+01:18:07,440 --> 01:18:10,720
+Okay.
+
+843
+01:18:10,720 --> 01:18:26,400
+Makes sense.
+
+844
+01:18:26,400 --> 01:18:30,120
+Okay, so at this point, I want to mention
+
+845
+01:18:30,120 --> 01:18:33,360
+one thing.
+
+846
+01:18:33,360 --> 01:18:36,240
+Folders can
+
+847
+01:18:38,760 --> 01:18:41,440
+are also called
+
+848
+01:18:41,440 --> 01:18:45,000
+decrease.
+
+849
+01:18:45,000 --> 01:18:47,480
+Okay, so we can
+
+850
+01:18:48,520 --> 01:18:52,360
+interchangeably use the terms
+folders and directories.
+
+851
+01:18:52,360 --> 01:18:57,240
+So I don't want you guys to get confused
+if I use the term directory.
+
+852
+01:18:57,600 --> 01:19:00,360
+So whenever I use the term directory,
+what does it refer to
+
+853
+01:19:04,160 --> 01:19:04,640
+folder.
+
+854
+01:19:04,640 --> 01:19:05,040
+Right.
+
+855
+01:19:05,040 --> 01:19:13,120
+And we all know that
+what a folder is, right?
+
+856
+01:19:13,120 --> 01:19:23,720
+Okay. So
+
+857
+01:19:24,880 --> 01:19:28,200
+if we want to clear everything
+
+858
+01:19:28,200 --> 01:19:33,400
+that we have written on our terminal,
+you can just use the command clear
+
+859
+01:19:33,960 --> 01:19:37,960
+and it's going to erase everything
+that we have written until this point.
+
+860
+01:19:38,760 --> 01:19:40,560
+So let's do one thing.
+
+861
+01:19:40,560 --> 01:19:43,880
+Let's write down clear and press enter.
+
+862
+01:19:44,760 --> 01:19:48,000
+Okay?
+
+863
+01:19:48,000 --> 01:20:13,840
+Let's erase
+everything that we have written.
+
+864
+01:20:13,840 --> 01:20:20,520
+So now the first thing that I want to do
+is I want to ask the terminal
+
+865
+01:20:22,080 --> 01:20:25,320
+the name of my computer.
+
+866
+01:20:25,600 --> 01:20:27,920
+So what command will I use
+
+867
+01:20:33,600 --> 01:20:34,440
+exactly?
+
+868
+01:20:34,440 --> 01:20:38,520
+So I will say, who am I?
+
+869
+01:20:38,520 --> 01:20:39,880
+And it tells me that you are.
+
+870
+01:20:39,880 --> 01:20:42,640
+It speaks, right? Okay.
+
+871
+01:20:43,560 --> 01:20:47,040
+So now the next thing,
+which I want to ask Mr.
+
+872
+01:20:47,040 --> 01:20:49,280
+Terminal, is that here is a terminal.
+
+873
+01:20:49,920 --> 01:20:51,960
+Where are you currently?
+
+874
+01:20:51,960 --> 01:20:57,480
+In my computer.
+
+875
+01:20:57,480 --> 01:20:58,400
+So I let's say
+
+876
+01:20:59,360 --> 01:21:02,640
+p wd.
+
+877
+01:21:02,640 --> 01:21:07,200
+It's telling me that I am in C users
+s p c x.
+
+878
+01:21:07,800 --> 01:21:08,400
+Okay.
+
+879
+01:21:08,400 --> 01:21:11,120
+At this point in time,
+
+880
+01:21:11,120 --> 01:21:13,480
+let's make our explanation
+
+881
+01:21:13,960 --> 01:21:17,600
+a bit visual. Also
+
+882
+01:21:17,600 --> 01:21:22,680
+this C slash user slash is Speaker X
+
+883
+01:21:23,120 --> 01:21:27,280
+is actually a location inside my computer.
+
+884
+01:21:27,600 --> 01:21:33,600
+Do you guys agree with that?
+
+885
+01:21:33,600 --> 01:21:36,720
+Okay. So if this is the location of my Mr.
+
+886
+01:21:36,720 --> 01:21:40,560
+Terminal, can I go to this location
+
+887
+01:21:41,000 --> 01:21:50,400
+manually to my explorer?
+
+888
+01:21:50,400 --> 01:21:51,240
+Okay.
+
+889
+01:21:51,240 --> 01:21:56,400
+So in order to make things more clear
+what I'm going to do right now,
+
+890
+01:21:56,400 --> 01:21:59,880
+I'll open up that Explorer
+along with that terminal
+
+891
+01:21:59,880 --> 01:22:03,240
+so that we can visualize
+booting simultaneously.
+
+892
+01:22:03,880 --> 01:22:08,040
+Okay. Yes.
+
+893
+01:22:08,040 --> 01:22:10,320
+Now, so it does not require Internet.
+
+894
+01:22:10,560 --> 01:22:16,320
+Remember, we are dealing with everything
+which is local.
+
+895
+01:22:16,320 --> 01:22:18,880
+Okay. It so
+
+896
+01:22:19,120 --> 01:22:21,720
+I'm going to
+
+897
+01:22:24,240 --> 01:22:26,480
+make my terminal a little bit small
+
+898
+01:22:27,760 --> 01:22:30,080
+and I'm going to minimize everything.
+
+899
+01:22:30,640 --> 01:22:35,880
+And now I want to go to the location
+where my Mr.
+
+900
+01:22:35,880 --> 01:22:39,840
+Terminal is
+and I want you guys to do the same also.
+
+901
+01:22:40,280 --> 01:22:42,560
+So for me is to be different.
+
+902
+01:22:42,560 --> 01:22:48,000
+And for you
+it's also going to be different right?
+
+903
+01:22:48,000 --> 01:22:51,440
+So the first step is to go to my C,
+
+904
+01:22:52,680 --> 01:22:54,720
+so I'll go to my C
+
+905
+01:22:54,720 --> 01:23:00,880
+on windows.
+
+906
+01:23:00,880 --> 01:23:05,560
+Let me open them side by side.
+
+907
+01:23:05,560 --> 01:23:06,000
+Okay.
+
+908
+01:23:06,000 --> 01:23:12,120
+So for Mac users, what you have to do,
+
+909
+01:23:12,120 --> 01:23:21,440
+I'll simply tell you, wait for Mac users,
+
+910
+01:23:21,440 --> 01:23:25,640
+you can use this go and from there
+you can select wherever
+
+911
+01:23:25,640 --> 01:23:28,160
+your location of
+
+912
+01:23:29,640 --> 01:23:30,880
+terminal is.
+
+913
+01:23:30,880 --> 01:23:47,360
+Okay.
+
+914
+01:23:47,360 --> 01:23:48,000
+Okay, guys.
+
+915
+01:23:48,000 --> 01:23:53,720
+So, Sharif,
+
+916
+01:23:54,000 --> 01:24:00,880
+what can you find on Mac?
+
+917
+01:24:00,880 --> 01:24:05,960
+And don't worry, I want to
+I'll give you time to find that on Mac and
+
+918
+01:24:09,960 --> 01:24:12,160
+man not file which come out is not found.
+
+919
+01:24:12,160 --> 01:24:15,240
+Can you show you a screenshot?
+
+920
+01:24:15,240 --> 01:24:18,840
+Remember, guys, we have to take this class
+very slow.
+
+921
+01:24:18,840 --> 01:24:21,360
+We need to take all of our friends
+along with us.
+
+922
+01:24:21,360 --> 01:24:22,200
+Some up.
+
+923
+01:24:22,200 --> 01:24:26,160
+Some of you guys might be having a problem
+because you know we are not accustomed
+
+924
+01:24:26,160 --> 01:24:30,040
+to terminal and stuff,
+so we will take things
+
+925
+01:24:30,040 --> 01:24:33,040
+real slow. Okay
+
+926
+01:24:38,720 --> 01:24:41,280
+so for Windows user, first,
+I'm going to explain that
+
+927
+01:24:41,280 --> 01:24:44,360
+and then we can concentrate on Mac users.
+
+928
+01:24:45,120 --> 01:24:47,200
+So if I ask my Mr.
+
+929
+01:24:47,200 --> 01:24:50,760
+Terminal that,
+what is your current location,
+
+930
+01:24:50,760 --> 01:24:55,480
+it tells me the location
+till this step for Mac and Windows users.
+
+931
+01:24:55,480 --> 01:25:07,920
+Are we all on the same page?
+
+932
+01:25:07,920 --> 01:25:10,120
+This command is working for everyone,
+right? Okay.
+
+933
+01:25:10,680 --> 01:25:14,840
+So for Windows users, what I'll do,
+
+934
+01:25:14,840 --> 01:25:18,360
+let me get to my C drive in the Explorer
+
+935
+01:25:18,840 --> 01:25:22,560
+which is this particular drive C Right.
+
+936
+01:25:23,920 --> 01:25:26,400
+And after that
+
+937
+01:25:26,400 --> 01:25:31,000
+I need to find users in the C drive.
+
+938
+01:25:31,000 --> 01:25:35,800
+So do I see any users in C drive for my
+from my computer?
+
+939
+01:25:35,800 --> 01:25:37,200
+I'm talking about my computer.
+
+940
+01:25:37,200 --> 01:25:41,080
+I see that for you
+it may be different, maybe same.
+
+941
+01:25:41,520 --> 01:25:43,800
+So I'm going to click on users
+
+942
+01:25:44,680 --> 01:25:47,880
+and after that I want to go to into H
+
+943
+01:25:47,920 --> 01:25:51,240
+because for you guys
+it's going to be different.
+
+944
+01:25:51,760 --> 01:25:54,240
+So I'll say this is HP X
+
+945
+01:25:54,240 --> 01:25:57,800
+and I'll click on it.
+
+946
+01:25:57,800 --> 01:26:00,400
+So if I see that my Mr.
+
+947
+01:26:00,400 --> 01:26:04,840
+Terminal is right now
+in this particular location,
+
+948
+01:26:04,840 --> 01:26:18,000
+will I be correct about it or not?
+
+949
+01:26:18,000 --> 01:26:20,000
+Yes, I'll be correct about it.
+
+950
+01:26:20,000 --> 01:26:20,640
+Okay.
+
+951
+01:26:20,640 --> 01:26:25,640
+So let's whole at this point,
+let's try to see to Mac users,
+
+952
+01:26:25,640 --> 01:26:42,960
+what do you have problem with?
+
+953
+01:26:42,960 --> 01:26:43,600
+Okay.
+
+954
+01:26:43,600 --> 01:26:47,160
+So if you are unable to find this
+good option,
+
+955
+01:26:47,160 --> 01:26:51,520
+you'll have a option of Finder
+in your Mac.
+
+956
+01:26:51,520 --> 01:26:54,480
+Let me show it to you if I can quickly
+
+957
+01:26:55,440 --> 01:26:56,080
+navigate
+
+958
+01:26:56,080 --> 01:27:30,880
+over there.
+
+959
+01:27:30,880 --> 01:27:31,400
+Okay, guys.
+
+960
+01:27:31,400 --> 01:27:35,600
+So if you have a go, then you can click on
+
+961
+01:27:35,600 --> 01:27:38,600
+Go and click on Home
+or maybe go to folder.
+
+962
+01:27:39,200 --> 01:27:43,760
+If you do not have this Google
+option available, this means that you have
+
+963
+01:27:43,760 --> 01:27:49,080
+a different version of a mac
+or s installed on your Mac.
+
+964
+01:27:49,240 --> 01:27:53,280
+For that we will have to go to Finder.
+
+965
+01:27:53,680 --> 01:27:54,160
+Right.
+
+966
+01:27:54,160 --> 01:28:32,800
+So let me show you how to go to Finder.
+
+967
+01:28:32,800 --> 01:28:34,880
+Okay. So ma'am, you are good.
+
+968
+01:28:35,760 --> 01:28:38,640
+You have your finder option available.
+
+969
+01:28:38,920 --> 01:28:39,520
+Okay.
+
+970
+01:28:39,520 --> 01:28:41,680
+So what you can do
+
+971
+01:28:42,440 --> 01:28:44,560
+if you see if you see on your Mac
+
+972
+01:28:46,320 --> 01:28:48,320
+Mac screen, the top right
+
+973
+01:28:48,320 --> 01:28:52,800
+corner,
+you'll see a search option over there.
+
+974
+01:28:52,800 --> 01:28:55,000
+If you click on that,
+
+975
+01:28:55,400 --> 01:28:58,920
+you'll be able to find a find
+a finder over there.
+
+976
+01:28:59,040 --> 01:29:13,680
+Are you able to do that, Mac users?
+
+977
+01:29:13,680 --> 01:29:22,920
+I'm waiting for you guys.
+
+978
+01:29:22,920 --> 01:29:23,280
+Yeah.
+
+979
+01:29:23,280 --> 01:29:26,440
+I want you all to be good
+so that we can proceed together.
+
+980
+01:29:26,440 --> 01:29:36,560
+Okay?
+
+981
+01:29:36,560 --> 01:29:37,440
+Okay. So
+
+982
+01:29:47,840 --> 01:29:52,400
+Mohamed al-Fadhli has shared the solution.
+
+983
+01:29:52,400 --> 01:29:58,320
+If you have the goal, you can simply
+go to folder and, you know, type in users.
+
+984
+01:29:58,320 --> 01:30:01,080
+It will tape to users
+
+985
+01:30:01,160 --> 01:30:04,800
+whatever you type
+in, whatever the path you are finding,
+
+986
+01:30:04,800 --> 01:30:07,080
+you can type it over there
+
+987
+01:30:07,400 --> 01:30:11,160
+and Maryam
+
+988
+01:30:13,800 --> 01:30:14,880
+what you need to do.
+
+989
+01:30:14,880 --> 01:30:18,840
+Maryam You have to follow this back.
+
+990
+01:30:18,840 --> 01:30:23,320
+Now whatever is being displayed
+by typing in TWD for you,
+
+991
+01:30:23,520 --> 01:30:27,080
+you have to find those folder over here
+and navigate into them.
+
+992
+01:30:27,360 --> 01:30:28,320
+Okay?
+
+993
+01:30:28,960 --> 01:30:36,840
+And yes,
+
+994
+01:30:36,840 --> 01:30:40,200
+Michael, you are good to
+
+995
+01:30:40,720 --> 01:30:43,200
+if that's the location that is being shown
+and you are
+
+996
+01:30:43,200 --> 01:30:49,280
+there, you are good.
+
+997
+01:30:49,280 --> 01:30:51,480
+And now you can you
+
+998
+01:30:52,680 --> 01:30:54,800
+can you share the screenshot of
+
+999
+01:30:55,520 --> 01:31:16,080
+what was the problem that you are having.
+
+1000
+01:31:16,080 --> 01:31:18,320
+So let me ask you this.
+
+1001
+01:31:18,320 --> 01:31:20,520
+All of you guys are having on
+
+1002
+01:31:21,000 --> 01:31:24,440
+this go option on the toolbar, right?
+
+1003
+01:31:25,840 --> 01:31:27,040
+Is is in prison
+
+1004
+01:31:27,040 --> 01:31:36,320
+for everyone.
+
+1005
+01:31:36,320 --> 01:31:39,200
+Okay, guys is not present for you
+or asked of you.
+
+1006
+01:31:39,200 --> 01:31:43,600
+Is it present for everyone?
+
+1007
+01:31:43,600 --> 01:31:47,800
+Emily is a present for you.
+
+1008
+01:31:47,800 --> 01:32:04,080
+Okay, good, good.
+
+1009
+01:32:04,080 --> 01:32:04,720
+Okay. Yeah.
+
+1010
+01:32:04,720 --> 01:32:09,480
+Can you also share
+the screenshot of your TWD command?
+
+1011
+01:32:09,480 --> 01:32:10,840
+Was the result of that?
+
+1012
+01:32:10,840 --> 01:32:14,040
+Can you share that? Yes.
+
+1013
+01:32:19,080 --> 01:32:21,360
+And let's see.
+
+1014
+01:32:21,360 --> 01:32:27,000
+So those of you who have the Google
+available, what you need to do,
+
+1015
+01:32:28,480 --> 01:32:31,680
+you need to simply click on Go
+
+1016
+01:32:32,880 --> 01:32:34,800
+Click on recent folder.
+
+1017
+01:32:34,800 --> 01:32:35,400
+Sorry,
+
+1018
+01:32:36,560 --> 01:32:39,360
+click on Google
+and then click on go to folder
+
+1019
+01:32:40,400 --> 01:32:42,680
+over there, you can type in part
+
+1020
+01:32:43,080 --> 01:32:46,320
+that is appearing and get back.
+
+1021
+01:32:46,440 --> 01:32:51,000
+You can type in the back, not mine,
+but the one that is appearing for you.
+
+1022
+01:32:51,600 --> 01:32:55,280
+You type that in
+and it will take you to that location.
+
+1023
+01:32:56,520 --> 01:32:57,360
+Okay.
+
+1024
+01:32:58,680 --> 01:33:03,240
+And for those of you who is not appearing
+
+1025
+01:33:03,400 --> 01:33:07,320
+like the Google option is not available,
+I think there's only one person.
+
+1026
+01:33:07,920 --> 01:33:10,760
+Can you please share
+the screenshot in the support?
+
+1027
+01:33:10,760 --> 01:33:13,720
+And I guess is going to be there
+to help you out
+
+1028
+01:33:17,280 --> 01:33:18,600
+or maybe we'll classes there.
+
+1029
+01:33:18,600 --> 01:33:18,800
+Yeah.
+
+1030
+01:33:18,800 --> 01:33:20,360
+Well, gosh, is there
+
+1031
+01:33:26,520 --> 01:34:06,120
+okay.
+
+1032
+01:34:06,120 --> 01:34:06,720
+Okay. Yeah.
+
+1033
+01:34:06,720 --> 01:34:12,480
+You also need to share the screenshot
+and in the support and focus
+
+1034
+01:34:12,480 --> 01:34:19,120
+is going to help you out.
+
+1035
+01:34:19,120 --> 01:34:24,600
+I so what's
+what is the problem that you are having.
+
+1036
+01:34:24,600 --> 01:34:26,080
+Share the screenshot.
+
+1037
+01:34:26,080 --> 01:34:48,720
+Okay.
+
+1038
+01:34:48,720 --> 01:34:49,160
+Okay.
+
+1039
+01:34:49,680 --> 01:34:52,280
+Yes. So Nicolay
+
+1040
+01:34:52,280 --> 01:34:55,960
+what what only colleague has shared
+you follow this.
+
+1041
+01:34:55,960 --> 01:35:00,760
+It's going to take you to the location.
+
+1042
+01:35:00,760 --> 01:35:05,840
+Okay, click on go and then over there
+you need to select all.
+
+1043
+01:35:05,840 --> 01:35:07,360
+If that is appearing for you.
+
+1044
+01:35:07,360 --> 01:35:10,200
+It's also going to take you to the
+to the exact same
+
+1045
+01:35:10,200 --> 01:35:24,960
+location.
+
+1046
+01:35:24,960 --> 01:35:43,000
+Okay, Abdul, you are, you are good.
+
+1047
+01:35:43,000 --> 01:35:45,680
+Okay. I'm still going to wait
+
+1048
+01:35:46,800 --> 01:35:47,440
+one minute
+
+1049
+01:35:47,440 --> 01:35:50,400
+for the rest of you to catch up
+so that we can
+
+1050
+01:35:50,680 --> 01:36:03,600
+then proceed.
+
+1051
+01:36:03,600 --> 01:36:06,600
+Now, can you try this?
+
+1052
+01:36:06,600 --> 01:36:08,640
+What Nicole shared
+
+1053
+01:36:11,240 --> 01:36:12,360
+my. Yes.
+
+1054
+01:36:12,360 --> 01:36:13,760
+No, I'm really sorry.
+
+1055
+01:36:13,760 --> 01:36:16,760
+I'll get comfortable with your names,
+but right now
+
+1056
+01:36:17,840 --> 01:36:20,640
+I'll be pronouncing them real bad.
+
+1057
+01:36:20,840 --> 01:36:25,600
+But over the period of time,
+I'll get good with them.
+
+1058
+01:36:25,600 --> 01:36:28,800
+Yes, that's. That's a good idea.
+
+1059
+01:36:28,800 --> 01:36:31,080
+Let's go for a break.
+
+1060
+01:36:31,120 --> 01:36:33,720
+And till then,
+
+1061
+01:36:33,720 --> 01:36:34,920
+all of you. I can help you.
+
+1062
+01:36:34,920 --> 01:36:39,280
+That And yes, I remember I told you
+that Rick manager is going to appear.
+
+1063
+01:36:39,280 --> 01:36:43,120
+So I guess Lugo is
+you are going to be the one
+
+1064
+01:36:43,600 --> 01:36:46,720
+who will be managing breaks to you guys.
+
+1065
+01:36:48,360 --> 01:36:50,400
+Okay, so it's 528.
+
+1066
+01:36:50,400 --> 01:36:52,560
+Let's meet at
+
+1067
+01:36:53,080 --> 01:36:54,280
+sorry, not 520.
+
+1068
+01:36:54,280 --> 01:36:55,400
+I'm really sorry about that.
+
+1069
+01:36:55,400 --> 01:36:59,400
+The computer time on
+my and my site is not correct of
+
+1070
+01:37:04,360 --> 01:37:07,640
+it's 729 right.
+
+1071
+01:37:08,040 --> 01:37:09,360
+829 Yes.
+
+1072
+01:37:09,360 --> 01:37:13,000
+829 So let's meet at
+
+1073
+01:37:13,360 --> 01:37:16,720
+15 minutes after 15 minutes,
+let's let's meet after 15 minutes.
+
+1074
+01:37:16,720 --> 01:37:21,480
+So it's going to be 24.
+
+1075
+01:37:21,480 --> 01:37:23,760
+Okay. 45. Let's make it 45.
+
+1076
+01:37:23,760 --> 01:37:27,720
+And meanwhile I'm still here
+and I'll try to resolve the problems
+
+1077
+01:37:27,720 --> 01:37:31,280
+that you guys are facing. Okay.
+
+1078
+01:37:31,280 --> 01:37:54,960
+So let me just mention break.
+
+1079
+01:37:54,960 --> 01:37:55,320
+Okay.
+
+1080
+01:37:55,320 --> 01:37:58,200
+I'm really sorry,
+but I think that I have skipped
+
+1081
+01:37:59,200 --> 01:38:02,200
+the above problems if anyone has having.
+
+1082
+01:38:02,200 --> 01:38:06,120
+So only the people who are having issues
+can you only now
+
+1083
+01:38:07,040 --> 01:38:08,720
+post the
+
+1084
+01:38:09,320 --> 01:38:12,080
+screenshot because you know,
+a lot of students are posting
+
+1085
+01:38:12,520 --> 01:38:21,480
+I can I look into all of them.
+
+1086
+01:38:21,480 --> 01:38:23,480
+Yes Marina.
+
+1087
+01:38:24,440 --> 01:38:24,960
+Okay.
+
+1088
+01:38:24,960 --> 01:38:28,440
+So what you should be able to look at
+when you type in PWT,
+
+1089
+01:38:29,040 --> 01:38:31,160
+you are actually asking Mr.
+
+1090
+01:38:31,160 --> 01:38:33,280
+Trump know that where he is, right?
+
+1091
+01:38:34,200 --> 01:38:36,560
+So Mr. Terminal is in C users.
+
+1092
+01:38:36,560 --> 01:38:37,800
+It speaks for me.
+
+1093
+01:38:37,800 --> 01:38:40,240
+It's going to be different for you, right?
+
+1094
+01:38:40,240 --> 01:38:41,520
+Makes sense.
+
+1095
+01:38:41,560 --> 01:38:44,160
+I show.
+
+1096
+01:38:44,160 --> 01:38:46,200
+Okay, so it's different for you.
+
+1097
+01:38:46,200 --> 01:38:49,440
+You should be able to locate this folder
+
+1098
+01:38:50,640 --> 01:38:53,000
+for me, be six for you.
+
+1099
+01:38:53,000 --> 01:38:54,000
+It's going to be different.
+
+1100
+01:38:54,000 --> 01:39:13,680
+So are you able to look that
+on the system?
+
+1101
+01:39:13,680 --> 01:39:16,440
+No, Michael, nothing else.
+We are on break.
+
+1102
+01:39:16,440 --> 01:39:20,720
+I'm just, you know, helping out
+other students are having issues.
+
+1103
+01:39:21,320 --> 01:39:23,520
+We won't be discussing anything.
+
+1104
+01:39:23,520 --> 01:39:26,600
+Yeah, mine user.
+
+1105
+01:39:26,760 --> 01:39:29,880
+And then. Okay, this is your best.
+
+1106
+01:39:29,880 --> 01:39:32,120
+I do understand
+
+1107
+01:39:33,360 --> 01:39:35,640
+you were able to open that to
+
+1108
+01:39:35,680 --> 01:39:38,720
+to home button, right?
+
+1109
+01:39:38,720 --> 01:39:40,560
+You were able to do that.
+
+1110
+01:39:40,560 --> 01:39:43,720
+And can you share the screenshot
+of both things like your
+
+1111
+01:39:44,040 --> 01:39:47,680
+your terminal
+and the folder that that is zero.
+
+1112
+01:39:47,680 --> 01:39:50,160
+Can you share the screenshot
+if you are able to do that?
+
+1113
+01:39:50,160 --> 01:39:54,080
+This means that you have successfully
+navigated to the location where you are.
+
+1114
+01:39:54,080 --> 01:39:58,720
+Mr. Terminals Okay, so apart from my show,
+
+1115
+01:39:58,840 --> 01:40:10,960
+who else is still struggling with it?
+
+1116
+01:40:10,960 --> 01:40:12,960
+Okay, so can I? Yeah.
+
+1117
+01:40:14,040 --> 01:40:17,640
+Can you share the screenshot of your
+
+1118
+01:40:20,400 --> 01:40:24,080
+off your desktop
+like the screen that you are seeing?
+
+1119
+01:40:24,120 --> 01:40:26,480
+I want to see the toolbar that is there.
+
+1120
+01:40:26,480 --> 01:40:37,800
+Do you have the go option available?
+
+1121
+01:40:37,800 --> 01:40:41,080
+Yes, I sure you are. Good.
+
+1122
+01:40:41,080 --> 01:40:43,440
+It won't let me copy and paste. No, no.
+
+1123
+01:40:43,480 --> 01:40:54,600
+I don't have an option.
+
+1124
+01:40:54,600 --> 01:40:55,280
+Okay. Yeah.
+
+1125
+01:40:55,280 --> 01:40:59,000
+So you are saying that you do not have
+that Google option
+
+1126
+01:40:59,000 --> 01:41:01,760
+on the toolbar just like this, right?
+
+1127
+01:41:02,360 --> 01:41:03,160
+You Do not have this.
+
+1128
+01:41:03,160 --> 01:41:05,200
+Go right.
+
+1129
+01:41:05,720 --> 01:41:06,800
+Okay.
+
+1130
+01:41:06,840 --> 01:41:09,320
+Anyone else who does not have this
+
+1131
+01:41:09,320 --> 01:41:20,520
+go option?
+
+1132
+01:41:20,520 --> 01:41:23,720
+Okay, So let me tell you.
+
+1133
+01:41:23,720 --> 01:41:33,000
+Why is it so?
+
+1134
+01:41:33,000 --> 01:41:36,720
+Can you just name
+can you minimize everything
+
+1135
+01:41:36,720 --> 01:41:43,560
+and then then see whether the go option
+appears?
+
+1136
+01:41:43,560 --> 01:41:45,000
+Sandy Yes.
+
+1137
+01:41:45,000 --> 01:41:58,160
+You can ask
+if you are doing correct or not.
+
+1138
+01:41:58,160 --> 01:41:58,960
+Okay. I'm Juliet.
+
+1139
+01:41:58,960 --> 01:42:02,400
+Can you share the screenshot
+that's is going to help?
+
+1140
+01:42:02,840 --> 01:42:03,800
+How about me?
+
+1141
+01:42:03,800 --> 01:42:15,720
+If you do that, it's going to be great.
+
+1142
+01:42:15,720 --> 01:42:18,360
+Okay. Sandy. That's correct.
+See users admin.
+
+1143
+01:42:18,360 --> 01:43:02,120
+So are you able to navigate
+to the folder admin successfully?
+
+1144
+01:43:02,120 --> 01:43:03,960
+Simon Nothing. We are on great.
+
+1145
+01:43:05,080 --> 01:43:06,000
+Just helping
+
+1146
+01:43:06,000 --> 01:43:25,200
+our students.
+
+1147
+01:43:25,200 --> 01:43:25,440
+Okay.
+
+1148
+01:43:25,440 --> 01:43:28,560
+Apart from now, is anyone else
+
+1149
+01:43:28,600 --> 01:43:32,880
+having problem?
+
+1150
+01:43:32,880 --> 01:43:35,720
+Okay, can you look a look into that
+and help her out?
+
+1151
+01:43:36,720 --> 01:43:51,840
+Thank you for your support.
+
+1152
+01:43:51,840 --> 01:44:26,840
+Anyone else who is having issue?
+
+1153
+01:44:26,840 --> 01:44:27,200
+Okay.
+
+1154
+01:44:27,200 --> 01:44:31,160
+Amelia I guess, Nina,
+if you look at what Amelia has shared,
+
+1155
+01:44:31,160 --> 01:44:33,720
+you will be able to proceed with that
+
+1156
+01:44:55,680 --> 01:45:04,640
+quick.
+
+1157
+01:45:04,640 --> 01:45:07,560
+Okay, great. That's great news.
+
+1158
+01:45:08,080 --> 01:45:08,400
+Okay.
+
+1159
+01:45:08,400 --> 01:45:10,640
+I want I want you to do one thing.
+
+1160
+01:45:11,280 --> 01:45:14,400
+I want you to remember what you
+how you did that.
+
+1161
+01:45:14,440 --> 01:45:21,880
+Okay?
+
+1162
+01:45:21,880 --> 01:45:23,560
+Okay. Perfect.
+
+1163
+01:45:24,000 --> 01:45:33,960
+Anyone left?
+
+1164
+01:45:33,960 --> 01:45:35,520
+Thank you, Amelia.
+
+1165
+01:45:35,520 --> 01:45:45,960
+And thank you guys to you to.
+
+1166
+01:45:45,960 --> 01:45:49,360
+And trust me, this was the hardest part
+we had to go through.
+
+1167
+01:45:49,680 --> 01:45:52,680
+Rest of the stuff
+is pretty much very easy.
+
+1168
+01:45:52,680 --> 01:46:12,720
+Okay,
+
+1169
+01:46:12,720 --> 01:46:54,520
+so, yes,
+
+1170
+01:46:54,520 --> 01:46:59,360
+and I check that your p
+w command is showing the correct.
+
+1171
+01:46:59,360 --> 01:47:02,280
+I asked you to
+share the screenshot of your
+
+1172
+01:47:03,520 --> 01:47:06,840
+folder with me so that I can see that
+if you have navigated
+
+1173
+01:47:07,040 --> 01:47:47,280
+to the correct location or not.
+
+1174
+01:47:47,280 --> 01:47:49,440
+Okay, I think I skipped it.
+
+1175
+01:47:49,440 --> 01:48:07,720
+Let, let me go up and try to see that.
+
+1176
+01:48:07,720 --> 01:48:12,560
+Yes. Yes.
+
+1177
+01:48:12,600 --> 01:48:38,800
+And then you have done it correctly.
+
+1178
+01:48:38,800 --> 01:48:39,920
+Yes, exactly.
+
+1179
+01:48:39,920 --> 01:48:42,240
+You can do anything and great. Right.
+
+1180
+01:48:42,240 --> 01:53:00,280
+We still have 5 minutes.
+
+1181
+01:53:00,280 --> 01:53:02,960
+Okay. So it's 845.
+
+1182
+01:53:03,520 --> 01:53:12,080
+Are you guys back from break?
+
+1183
+01:53:12,080 --> 01:53:13,960
+Oh, that's that's good.
+
+1184
+01:53:13,960 --> 01:53:14,880
+Okay. Welcome back.
+
+1185
+01:53:14,880 --> 01:53:21,600
+I hope you had your coffee, snacks,
+whatever you wanted.
+
+1186
+01:53:21,600 --> 01:53:28,400
+Okay, great.
+
+1187
+01:53:28,400 --> 01:53:33,400
+Yes. And Mac is a little bit complicated,
+but you will be okay with it.
+
+1188
+01:53:33,400 --> 01:53:36,120
+You just need to,
+you know, get accustomed to it.
+
+1189
+01:53:36,840 --> 01:53:38,320
+You will be okay.
+
+1190
+01:53:38,320 --> 01:53:38,880
+Okay.
+
+1191
+01:53:38,880 --> 01:53:41,280
+So let's let me give you a quick recap
+
+1192
+01:53:41,280 --> 01:53:44,280
+of what we were doing,
+and then let's start doing that By now.
+
+1193
+01:53:44,280 --> 01:53:50,760
+I hope that all of you are at least able
+to find the folders right?
+
+1194
+01:53:50,760 --> 01:53:51,120
+Okay.
+
+1195
+01:53:51,120 --> 01:53:56,480
+So the first step we did is that
+we asked our terminal that who am I?
+
+1196
+01:53:56,640 --> 01:53:59,560
+It told us the name.
+
+1197
+01:53:59,560 --> 01:54:01,600
+Then I asked that. Okay.
+
+1198
+01:54:01,600 --> 01:54:05,760
+TWD Can you tell me your current location?
+
+1199
+01:54:05,760 --> 01:54:10,000
+Mr. Terminal
+It gives me that C user, ABC X,
+
+1200
+01:54:10,040 --> 01:54:12,680
+which is my location,
+is going to be different for you.
+
+1201
+01:54:13,560 --> 01:54:17,520
+So then we decided that we want to look,
+
+1202
+01:54:18,000 --> 01:54:21,120
+have a look at location on our computer.
+
+1203
+01:54:21,440 --> 01:54:26,520
+And for that purpose I went to the C drive
+
+1204
+01:54:31,680 --> 01:54:33,920
+and there I look for users
+
+1205
+01:54:35,560 --> 01:54:39,560
+and then I'll look for HBC X
+and I clicked on it
+
+1206
+01:54:40,320 --> 01:54:44,480
+and now I see that my terminal
+is currently
+
+1207
+01:54:44,480 --> 01:54:48,720
+in this particular location.
+
+1208
+01:54:48,720 --> 01:54:53,320
+So are you guys able to find the location
+of your terminal
+
+1209
+01:54:53,320 --> 01:55:00,720
+in your computer?
+
+1210
+01:55:00,720 --> 01:55:02,640
+Okay, perfect.
+
+1211
+01:55:02,640 --> 01:55:06,240
+So now let me give you
+some details about this.
+
+1212
+01:55:06,880 --> 01:55:09,680
+So this slash is actually
+
+1213
+01:55:10,760 --> 01:55:15,160
+determining the next directory of folder.
+
+1214
+01:55:15,160 --> 01:55:19,480
+So the first folder is C,
+And to differentiate
+
+1215
+01:55:19,480 --> 01:55:21,680
+between this and
+
+1216
+01:55:23,280 --> 01:55:27,640
+this folder, we have a slash
+and to tell us that
+
+1217
+01:55:27,840 --> 01:55:30,920
+now the next folder is starting,
+we have an agenda
+
+1218
+01:55:30,920 --> 01:55:34,080
+slash and folder name
+
+1219
+01:55:34,080 --> 01:55:37,440
+does it make sense?
+
+1220
+01:55:37,440 --> 01:55:41,520
+These flashes.
+
+1221
+01:55:41,520 --> 01:55:45,880
+Okay, so now the interesting thing is that
+if you look at this pad
+
+1222
+01:55:46,440 --> 01:55:51,560
+and on windows, if you look at this bat
+over here and you click on it,
+
+1223
+01:55:52,200 --> 01:55:55,720
+C users, HBC X and C users
+
+1224
+01:55:55,720 --> 01:56:03,240
+is it's going to be the same.
+
+1225
+01:56:03,240 --> 01:56:09,720
+Is it same for you guys?
+
+1226
+01:56:09,720 --> 01:56:10,000
+Okay.
+
+1227
+01:56:11,640 --> 01:56:13,440
+So does this mean that we
+
+1228
+01:56:13,440 --> 01:56:18,480
+have navigated to the right location?
+
+1229
+01:56:18,480 --> 01:56:20,120
+Yes. Okay.
+
+1230
+01:56:20,120 --> 01:56:23,000
+So now I want
+
+1231
+01:56:23,760 --> 01:56:27,000
+why are the slash is different
+
+1232
+01:56:27,000 --> 01:56:29,640
+there over here backslash.
+
+1233
+01:56:29,640 --> 01:56:30,040
+Okay.
+
+1234
+01:56:30,040 --> 01:56:31,720
+That doesn't make any difference.
+
+1235
+01:56:31,720 --> 01:56:34,200
+Okay. It can be forward or backward.
+
+1236
+01:56:34,200 --> 01:56:37,760
+I'll explain it to you further in
+the course that what difference it makes.
+
+1237
+01:56:37,760 --> 01:56:40,160
+For now, let's assume that they are saying
+
+1238
+01:56:41,880 --> 01:56:46,360
+yes for hot.
+
+1239
+01:56:46,360 --> 01:56:47,080
+Okay,
+
+1240
+01:56:48,000 --> 01:56:52,840
+So now whenever we close our terminal
+
+1241
+01:56:52,840 --> 01:56:56,960
+and we write down TWD,
+
+1242
+01:56:56,960 --> 01:57:16,680
+is this location always the same?
+
+1243
+01:57:16,680 --> 01:57:17,320
+Okay,
+
+1244
+01:57:18,280 --> 01:57:21,040
+so whenever you close your terminal,
+
+1245
+01:57:21,280 --> 01:57:25,080
+remember
+close your terminal and open it up again.
+
+1246
+01:57:26,480 --> 01:57:29,280
+This location is going to remain the same.
+
+1247
+01:57:29,760 --> 01:57:30,960
+Let me show you.
+
+1248
+01:57:30,960 --> 01:57:33,760
+I'm going to close my terminal
+
+1249
+01:57:33,760 --> 01:57:44,640
+and I'm going to open it up again.
+
+1250
+01:57:44,640 --> 01:57:46,800
+So now I'll type again.
+
+1251
+01:57:47,760 --> 01:57:49,320
+What's the command
+
+1252
+01:57:50,040 --> 01:57:50,400
+to know?
+
+1253
+01:57:50,400 --> 01:57:54,280
+The current location
+of the Metro terminal? TWD
+
+1254
+01:57:55,800 --> 01:57:58,480
+It is same.
+
+1255
+01:57:58,480 --> 01:58:01,440
+So every time
+if I close and open my terminal
+
+1256
+01:58:01,920 --> 01:58:06,200
+and the very first thing I do, I do TWD,
+this is going to be the same.
+
+1257
+01:58:06,200 --> 01:58:12,280
+So again, I see that this particular
+location is the home of my Mr.
+
+1258
+01:58:12,280 --> 01:58:17,880
+Terminal, and I see that.
+
+1259
+01:58:17,880 --> 01:58:19,000
+Okay.
+
+1260
+01:58:19,320 --> 01:58:22,600
+So I can also say
+
+1261
+01:58:22,600 --> 01:58:26,440
+that this location is my home directory
+
+1262
+01:58:26,440 --> 01:58:35,640
+or home folder.
+
+1263
+01:58:35,640 --> 01:58:35,920
+Okay.
+
+1264
+01:58:35,920 --> 01:58:39,160
+So now whenever I say
+navigate to your home
+
+1265
+01:58:39,160 --> 01:58:42,760
+directory,
+will you guys be able to understand that?
+
+1266
+01:58:42,760 --> 01:58:47,920
+What am I referring to?
+
+1267
+01:58:47,920 --> 01:58:52,000
+I am referring to the very first location.
+
+1268
+01:58:52,600 --> 01:58:57,120
+When you open up your terminal,
+the terminal is over there.
+
+1269
+01:58:57,120 --> 01:58:59,120
+I'm referring to that particular location.
+
+1270
+01:58:59,120 --> 01:59:02,880
+Okay, So this was just to let you know
+that in future
+
+1271
+01:59:02,880 --> 01:59:06,240
+we will be using the terminal home
+directory
+
+1272
+01:59:06,680 --> 01:59:09,280
+so that you can understand that.
+
+1273
+01:59:09,320 --> 01:59:10,920
+What I mean by home directly.
+
+1274
+01:59:10,920 --> 01:59:13,000
+Okay, good enough.
+
+1275
+01:59:13,000 --> 01:59:16,800
+Now, at this point, if I want to ask Mr.
+
+1276
+01:59:16,800 --> 01:59:20,720
+Terminal
+to give me all the file and folder
+
+1277
+01:59:20,720 --> 01:59:26,440
+it has in the current location,
+which command can I use
+
+1278
+01:59:28,200 --> 01:59:28,920
+else.
+
+1279
+01:59:28,920 --> 01:59:29,640
+Right.
+
+1280
+01:59:30,600 --> 01:59:34,560
+And if I press, enter, it shows me
+
+1281
+01:59:37,160 --> 01:59:39,120
+these files and folders.
+
+1282
+01:59:39,120 --> 01:59:43,240
+Now I'm going to compare
+just to be assured
+
+1283
+01:59:43,640 --> 01:59:47,920
+that this command is actually up to go.
+
+1284
+01:59:47,920 --> 01:59:49,440
+I can create or not.
+
+1285
+01:59:49,440 --> 01:59:52,120
+So let's start that. Okay.
+
+1286
+01:59:52,120 --> 01:59:55,360
+I have my downloads, I have my downloads.
+
+1287
+01:59:56,000 --> 01:59:58,600
+I have my documents. I have my documents.
+
+1288
+01:59:58,920 --> 02:00:00,120
+I have my desktop.
+
+1289
+02:00:00,120 --> 02:00:04,120
+I have my desktop creative cloud creative
+that so so
+
+1290
+02:00:04,880 --> 02:00:08,360
+it's actually giving me everything
+that it has
+
+1291
+02:00:08,760 --> 02:00:13,600
+and its current location.
+
+1292
+02:00:13,600 --> 02:00:14,680
+Okay,
+
+1293
+02:00:15,920 --> 02:00:21,400
+so now
+it's time to learn the next command.
+
+1294
+02:00:21,400 --> 02:00:26,120
+No, for it does not show it in folders.
+
+1295
+02:00:26,120 --> 02:00:26,760
+Okay.
+
+1296
+02:00:26,880 --> 02:00:29,200
+So now what if you want to ask
+
+1297
+02:00:31,480 --> 02:00:33,600
+Mr. Terminal
+
+1298
+02:00:33,600 --> 02:00:52,680
+to move into, we want to ask Mr.
+
+1299
+02:00:52,680 --> 02:01:01,480
+Terminal to move into another location
+from its current one.
+
+1300
+02:01:01,480 --> 02:01:05,520
+So basically,
+if I simplify it, we are asking Mr.
+
+1301
+02:01:05,520 --> 02:01:16,440
+Terminal to change the folder right.
+
+1302
+02:01:16,440 --> 02:01:17,320
+Okay.
+
+1303
+02:01:17,320 --> 02:01:20,600
+For this purpose we have a command CB
+
+1304
+02:01:22,000 --> 02:01:24,240
+folder name.
+
+1305
+02:01:24,240 --> 02:01:27,080
+CTE stands for
+
+1306
+02:01:27,360 --> 02:01:30,720
+Change Directory
+and you guys remember that?
+
+1307
+02:01:30,720 --> 02:01:46,160
+I told you
+I can refer to folder as directory.
+
+1308
+02:01:46,160 --> 02:01:47,040
+Okay,
+
+1309
+02:01:48,000 --> 02:01:51,720
+so now let's do one thing.
+
+1310
+02:01:51,720 --> 02:01:52,920
+Let's take on Mr.
+
+1311
+02:01:52,920 --> 02:01:56,400
+Terminal from its home directory
+
+1312
+02:01:57,000 --> 02:02:01,080
+to this desktop.
+
+1313
+02:02:01,080 --> 02:02:15,600
+So what am I supposed to type in
+in the terminal.
+
+1314
+02:02:15,600 --> 02:02:17,040
+Okay, I type in CD.
+
+1315
+02:02:17,040 --> 02:02:21,920
+Is that it?
+
+1316
+02:02:21,920 --> 02:02:25,120
+C d and then the folder name to
+
+1317
+02:02:25,120 --> 02:02:27,720
+which we want it to move.
+
+1318
+02:02:28,520 --> 02:02:31,800
+So I'm going to type C, D, desktop
+
+1319
+02:02:42,000 --> 02:02:46,440
+and then I'll press enter.
+
+1320
+02:02:46,440 --> 02:02:47,400
+Okay.
+
+1321
+02:02:48,240 --> 02:02:49,720
+So now
+
+1322
+02:02:50,360 --> 02:02:52,960
+this command did not give us any output,
+
+1323
+02:02:53,760 --> 02:02:56,720
+but I want to know that further
+
+1324
+02:02:57,160 --> 02:03:01,640
+my terminal has actually changed
+is its folder or not.
+
+1325
+02:03:02,120 --> 02:03:04,760
+So for that purpose, which command
+
+1326
+02:03:04,760 --> 02:03:09,520
+can I use?
+
+1327
+02:03:09,520 --> 02:03:10,920
+I can ask Terminal that.
+
+1328
+02:03:10,920 --> 02:03:12,840
+Hey, can you tell
+me your current location?
+
+1329
+02:03:13,840 --> 02:03:17,160
+So for that I'll use p WD.
+
+1330
+02:03:18,120 --> 02:03:18,360
+Okay.
+
+1331
+02:03:18,360 --> 02:03:23,160
+So now it sees that I am in C users SBC
+
+1332
+02:03:23,480 --> 02:03:31,680
+and then desktop.
+
+1333
+02:03:31,680 --> 02:03:43,280
+So this means that RCD desktop
+has successfully executed.
+
+1334
+02:03:43,280 --> 02:03:44,360
+Okay.
+
+1335
+02:03:44,440 --> 02:03:48,960
+Now let's also do this on our Explorer.
+
+1336
+02:03:48,960 --> 02:03:55,600
+I want to go to the full under
+where my terminal is right now.
+
+1337
+02:03:56,280 --> 02:04:07,480
+So what I'll do over here,
+
+1338
+02:04:07,480 --> 02:04:12,760
+I simply click on desktop and right now
+
+1339
+02:04:12,760 --> 02:04:21,560
+my terminal is in this location.
+
+1340
+02:04:21,560 --> 02:04:22,400
+Okay.
+
+1341
+02:04:23,080 --> 02:04:26,400
+So now I want to
+
+1342
+02:04:26,400 --> 02:04:29,640
+ask Terminal to print all the files
+
+1343
+02:04:29,920 --> 02:04:32,440
+it has in desktop.
+
+1344
+02:04:33,360 --> 02:04:42,720
+What will I do for that?
+
+1345
+02:04:42,720 --> 02:04:45,000
+I'll say again. LS
+
+1346
+02:05:01,080 --> 02:05:03,200
+okay, so
+
+1347
+02:05:03,200 --> 02:05:06,200
+all the files
+that are there in the desktop,
+
+1348
+02:05:06,800 --> 02:05:13,080
+they are being displayed over here.
+
+1349
+02:05:13,080 --> 02:05:13,480
+Yeah.
+
+1350
+02:05:13,480 --> 02:05:16,640
+My Mac has some permissions issue.
+
+1351
+02:05:18,120 --> 02:05:19,080
+Yeah. Jimmy, don't worry.
+
+1352
+02:05:19,080 --> 02:05:22,680
+We will be going over to it
+multiple times.
+
+1353
+02:05:22,680 --> 02:05:28,200
+Okay.
+
+1354
+02:05:28,200 --> 02:05:29,640
+Okay. So right now what we did,
+
+1355
+02:05:30,760 --> 02:05:32,800
+we navigated into
+
+1356
+02:05:32,840 --> 02:05:36,560
+desktop using see desktop and then
+
+1357
+02:05:38,760 --> 02:05:40,360
+over here
+
+1358
+02:05:40,480 --> 02:05:42,760
+what we said that
+
+1359
+02:05:43,480 --> 02:05:45,040
+ls to print
+
+1360
+02:05:45,040 --> 02:05:47,280
+all the files that it has on desktop.
+
+1361
+02:05:48,840 --> 02:05:53,520
+Okay,
+so not all of you are able to do that.
+
+1362
+02:05:53,520 --> 02:05:57,600
+Some of you are having the problem
+that no such
+
+1363
+02:05:57,600 --> 02:06:00,600
+file are directory.
+
+1364
+02:06:00,600 --> 02:06:02,520
+Okay, so what I want
+
+1365
+02:06:02,520 --> 02:06:05,200
+you to do is make sure of one thing.
+
+1366
+02:06:05,680 --> 02:06:06,960
+Okay? See?
+
+1367
+02:06:07,040 --> 02:06:10,600
+Okay.
+
+1368
+02:06:10,600 --> 02:06:12,960
+Make sure of one thing
+
+1369
+02:06:12,960 --> 02:06:15,200
+that when you did ls
+
+1370
+02:06:15,960 --> 02:06:19,760
+in your previous previous step,
+
+1371
+02:06:20,400 --> 02:06:23,680
+your desktop was being displayed in
+
+1372
+02:06:23,680 --> 02:06:27,480
+that command is in there or not
+
+1373
+02:06:28,200 --> 02:06:29,520
+like it's showing for me.
+
+1374
+02:06:29,520 --> 02:06:44,560
+Is it showing for you to.
+
+1375
+02:06:44,560 --> 02:06:46,840
+Okay my for those of you
+
+1376
+02:06:47,680 --> 02:06:52,080
+who are unable to see desktop,
+Allen said that.
+
+1377
+02:06:52,200 --> 02:06:56,360
+But those of you
+who are able to see the desktop guys,
+
+1378
+02:06:56,960 --> 02:06:59,880
+you must be having some problem
+with the syntax.
+
+1379
+02:07:00,360 --> 02:07:00,760
+Okay.
+
+1380
+02:07:02,120 --> 02:07:03,040
+For those of you who
+
+1381
+02:07:03,040 --> 02:07:07,040
+cannot see desktop in that, it's
+can you tell me that?
+
+1382
+02:07:07,040 --> 02:07:10,800
+Why it gives you an error of that.
+
+1383
+02:07:10,800 --> 02:07:22,400
+No such file or directory?
+
+1384
+02:07:22,400 --> 02:07:24,640
+Because let me explain it to you
+
+1385
+02:07:26,040 --> 02:07:28,280
+because right now
+
+1386
+02:07:29,040 --> 02:07:30,200
+what you are doing
+
+1387
+02:07:30,200 --> 02:07:32,960
+is that you are inside this folder
+
+1388
+02:07:44,240 --> 02:07:44,920
+right now.
+
+1389
+02:07:44,920 --> 02:07:45,480
+Your Mr.
+
+1390
+02:07:45,480 --> 02:07:48,560
+Terminal is at this point and it has,
+
+1391
+02:07:48,560 --> 02:07:51,320
+let's say, one two folder, E
+
+1392
+02:07:51,840 --> 02:07:54,400
+and B and four in front of it.
+
+1393
+02:07:54,400 --> 02:07:58,080
+And there is a seafood
+which is not in that location.
+
+1394
+02:07:58,080 --> 02:07:59,280
+You are asking Mr.
+
+1395
+02:07:59,280 --> 02:08:03,200
+Terminal that he can you go to C but Mr.
+
+1396
+02:08:03,200 --> 02:08:07,200
+Terminal only has A and B in front of him
+so that's
+
+1397
+02:08:07,200 --> 02:08:15,120
+why he's unable to go there.
+
+1398
+02:08:15,120 --> 02:08:16,560
+Makes sense.
+
+1399
+02:08:17,280 --> 02:08:42,520
+So what you will do, I'll tell you.
+
+1400
+02:08:42,520 --> 02:08:46,080
+Okay, Sandy, for you,
+you have already successfully
+
+1401
+02:08:47,680 --> 02:08:49,440
+navigated to desktop, okay?
+
+1402
+02:08:49,440 --> 02:08:52,360
+So you don't need to worry about that and
+
+1403
+02:08:52,640 --> 02:08:58,800
+do for you R2.
+
+1404
+02:08:58,840 --> 02:09:02,440
+You have also successfully
+navigated to desktop
+
+1405
+02:09:07,520 --> 02:09:12,240
+and now while you have also navigated
+to desktop
+
+1406
+02:09:13,400 --> 02:09:22,440
+successfully successfully.
+
+1407
+02:09:22,440 --> 02:09:26,720
+Okay, so for those of you
+who do not have a desktop
+
+1408
+02:09:27,040 --> 02:09:30,360
+in the class,
+you won't be able to navigate to that.
+
+1409
+02:09:30,360 --> 02:09:35,960
+What you can do, you can pick
+any of the folder that is being displayed
+
+1410
+02:09:35,960 --> 02:09:39,800
+and you can use see the
+that particular folder name
+
+1411
+02:09:39,800 --> 02:09:47,360
+to navigate into that.
+
+1412
+02:09:47,360 --> 02:09:49,280
+I'm going to repeat it. Okay.
+
+1413
+02:09:49,280 --> 02:09:53,280
+So for those of you
+who do not have desktop,
+
+1414
+02:09:53,280 --> 02:09:56,640
+you can simply pick one of the
+
+1415
+02:09:57,920 --> 02:10:00,760
+one of the items that is displayed.
+
+1416
+02:10:00,760 --> 02:10:04,200
+It can be documents or downloads
+and you can simply write CD
+
+1417
+02:10:05,120 --> 02:10:06,440
+instead of desktop.
+
+1418
+02:10:06,440 --> 02:10:10,240
+You can write
+down downloads are a document
+
+1419
+02:10:15,960 --> 02:10:18,520
+or you are a good
+
+1420
+02:10:20,760 --> 02:10:21,600
+okay.
+
+1421
+02:10:22,240 --> 02:10:25,680
+After that you can do lists
+and see the files and folders
+
+1422
+02:10:25,680 --> 02:10:33,680
+that are being displayed at that point.
+
+1423
+02:10:33,680 --> 02:10:36,800
+Farhad How do you know
+which is the folder you can use?
+
+1424
+02:10:36,800 --> 02:10:37,320
+The command?
+
+1425
+02:10:37,320 --> 02:10:40,800
+LS It will display
+you all the files and folders
+
+1426
+02:10:40,800 --> 02:10:49,840
+to which you can navigate.
+
+1427
+02:10:49,840 --> 02:10:52,400
+Okay guys. So are we good till this?
+
+1428
+02:10:53,560 --> 02:11:10,320
+I perfect.
+
+1429
+02:11:10,320 --> 02:11:15,080
+So now we moved into another directory
+or folder.
+
+1430
+02:11:15,080 --> 02:11:19,680
+We learn that what is the command
+that can be used for that?
+
+1431
+02:11:19,680 --> 02:11:24,360
+Now let's learn the last command.
+
+1432
+02:11:24,360 --> 02:11:26,640
+That's fine now
+so you can move to different one.
+
+1433
+02:11:26,720 --> 02:11:28,200
+That's fine.
+
+1434
+02:11:28,800 --> 02:11:31,720
+Okay, so the next one is
+
+1435
+02:11:33,240 --> 02:11:33,560
+what?
+
+1436
+02:11:33,560 --> 02:11:35,320
+If you want to say that here, Mr.
+
+1437
+02:11:35,320 --> 02:11:36,640
+Terminal,
+
+1438
+02:11:37,440 --> 02:11:39,960
+can you move
+
+1439
+02:11:39,960 --> 02:11:50,400
+once folder back?
+
+1440
+02:11:50,400 --> 02:11:54,480
+So for that we have a command
+which is C this space
+
+1441
+02:11:55,120 --> 02:12:07,480
+dot, dot.
+
+1442
+02:12:07,480 --> 02:12:08,000
+Okay,
+
+1443
+02:12:09,480 --> 02:12:11,600
+so let's try that out
+
+1444
+02:12:13,080 --> 02:12:14,440
+right now.
+
+1445
+02:12:14,440 --> 02:12:17,680
+If I want to check my current location
+of Mr.
+
+1446
+02:12:17,680 --> 02:12:19,880
+Terminal, what is the command
+
+1447
+02:12:28,160 --> 02:12:29,240
+that again,
+
+1448
+02:12:29,240 --> 02:12:32,040
+I want to check the current location
+of my Mr.
+
+1449
+02:12:32,040 --> 02:12:33,000
+Terminal.
+
+1450
+02:12:33,000 --> 02:12:36,520
+It's TWD cousin and Abdul
+
+1451
+02:12:37,560 --> 02:12:39,600
+current location.
+
+1452
+02:12:39,920 --> 02:12:45,200
+So it is inside desktop right now.
+
+1453
+02:12:45,320 --> 02:12:49,080
+I want it to move one folder back.
+
+1454
+02:12:50,120 --> 02:12:53,360
+What should I type in?
+
+1455
+02:12:53,360 --> 02:12:57,440
+I should type in city space, dot, dot.
+
+1456
+02:12:57,600 --> 02:13:01,560
+Right.
+
+1457
+02:13:01,560 --> 02:13:03,520
+And then I'll press enter.
+
+1458
+02:13:03,520 --> 02:13:06,240
+Okay.
+
+1459
+02:13:06,240 --> 02:13:10,080
+Now I want to make sure that terminal
+has moved
+
+1460
+02:13:10,080 --> 02:13:15,160
+one step back.
+
+1461
+02:13:15,160 --> 02:13:17,880
+And I want to ask that
+what is your current location
+
+1462
+02:13:19,440 --> 02:13:20,040
+again?
+
+1463
+02:13:20,040 --> 02:13:26,200
+I'll do TWD right.
+
+1464
+02:13:26,200 --> 02:13:30,280
+So now I'm sure that my city, dot, dot
+actually
+
+1465
+02:13:30,280 --> 02:13:45,320
+works right.
+
+1466
+02:13:45,320 --> 02:13:48,720
+CD space dot com
+
+1467
+02:13:48,720 --> 02:13:53,520
+might see this based on the.
+
+1468
+02:13:53,520 --> 02:13:53,960
+Okay,
+
+1469
+02:13:55,720 --> 02:14:00,080
+so let me just close everything
+
+1470
+02:14:01,920 --> 02:14:05,760
+and let me just open up my nodes
+and ask you that
+
+1471
+02:14:06,920 --> 02:14:10,160
+we have learned up to this point
+full commands
+
+1472
+02:14:10,560 --> 02:14:15,720
+which are pwt ls
+
+1473
+02:14:17,880 --> 02:14:20,000
+CB, dot, dot.
+
+1474
+02:14:20,000 --> 02:14:47,640
+Okay, I'm going to write them down
+in small letters.
+
+1475
+02:14:47,640 --> 02:14:48,040
+Okay.
+
+1476
+02:14:48,040 --> 02:14:51,800
+So for PWT, what does PWT do
+
+1477
+02:14:51,800 --> 02:15:14,760
+guys?
+
+1478
+02:15:14,760 --> 02:15:16,800
+Okay, what does LS do
+
+1479
+02:15:36,240 --> 02:15:39,560
+and what's the purpose of CB folder?
+
+1480
+02:15:39,560 --> 02:15:56,760
+The name.
+
+1481
+02:15:56,760 --> 02:16:04,760
+Okay, so what will happen
+if your feed folder name
+
+1482
+02:16:04,760 --> 02:16:09,160
+The folder name you are giving
+is not present in front of Mr.
+
+1483
+02:16:09,160 --> 02:16:09,720
+Terminal.
+
+1484
+02:16:09,720 --> 02:16:32,120
+What will happen?
+
+1485
+02:16:32,120 --> 02:16:37,120
+It will say no such file or directory
+
+1486
+02:16:39,200 --> 02:16:41,760
+right? No.
+
+1487
+02:16:41,760 --> 02:16:44,480
+It will give you the URL that
+
+1488
+02:16:44,480 --> 02:16:48,720
+no such file or directory.
+
+1489
+02:16:48,720 --> 02:16:50,520
+So city Dada.
+
+1490
+02:16:50,520 --> 02:17:02,160
+What does this command do?
+
+1491
+02:17:02,160 --> 02:17:08,200
+Go back one folder.
+
+1492
+02:17:08,200 --> 02:17:08,480
+That's
+
+1493
+02:17:12,720 --> 02:17:13,680
+okay.
+
+1494
+02:17:13,760 --> 02:17:15,360
+So now let's do this.
+
+1495
+02:17:15,360 --> 02:17:19,320
+I want you guys to stop
+everything that you are doing.
+
+1496
+02:17:20,320 --> 02:17:23,560
+Take a break from your computer
+and your terminals
+
+1497
+02:17:24,000 --> 02:17:26,600
+and you guys are going to do now
+
+1498
+02:17:26,680 --> 02:17:30,240
+help me on my computer to do the stuff.
+
+1499
+02:17:30,240 --> 02:17:37,480
+Okay?
+
+1500
+02:17:37,480 --> 02:17:37,760
+Yeah.
+
+1501
+02:17:37,760 --> 02:17:41,440
+For not giving you a little break.
+
+1502
+02:17:41,440 --> 02:17:42,400
+Yeah. I need I.T.
+
+1503
+02:17:42,400 --> 02:17:45,320
+support. Okay, guys.
+
+1504
+02:17:45,320 --> 02:17:52,160
+So I tell you the task that I want to do.
+
+1505
+02:17:52,160 --> 02:17:58,000
+So what I want to do is I want to,
+first of all, find
+
+1506
+02:17:58,000 --> 02:18:07,440
+that where my terminal is is.
+
+1507
+02:18:07,440 --> 02:18:09,800
+What? What do I do?
+
+1508
+02:18:09,840 --> 02:18:14,080
+PWT So,
+
+1509
+02:18:14,080 --> 02:18:17,000
+yes, spotlight, search the terminal.
+
+1510
+02:18:17,840 --> 02:18:19,200
+I'm on Windows. Okay.
+
+1511
+02:18:19,200 --> 02:18:21,840
+So the first step is to open up
+my get bash, Right.
+
+1512
+02:18:22,360 --> 02:18:26,160
+So I'll open it up.
+
+1513
+02:18:26,160 --> 02:18:26,960
+Okay.
+
+1514
+02:18:27,240 --> 02:18:29,840
+And now I'll type WD
+
+1515
+02:18:29,920 --> 02:18:35,200
+right.
+
+1516
+02:18:35,200 --> 02:18:36,040
+Okay.
+
+1517
+02:18:36,240 --> 02:18:38,520
+So it is showing me the location.
+
+1518
+02:18:39,160 --> 02:18:42,200
+Now I want you guys to tell me,
+what do we call
+
+1519
+02:18:42,200 --> 02:18:52,200
+this location.
+
+1520
+02:18:52,200 --> 02:18:52,400
+Okay,
+
+1521
+02:18:53,400 --> 02:18:54,360
+exactly.
+
+1522
+02:18:54,360 --> 02:18:57,120
+We call it home directory. Why?
+
+1523
+02:18:57,360 --> 02:18:58,760
+Because every time you close
+
+1524
+02:18:58,760 --> 02:19:02,600
+the terminal, when we open it
+up, a terminal is sitting over there.
+
+1525
+02:19:03,120 --> 02:19:03,880
+Okay,
+
+1526
+02:19:04,560 --> 02:19:07,960
+so now
+
+1527
+02:19:07,960 --> 02:19:10,560
+I want to see
+
+1528
+02:19:11,400 --> 02:19:14,320
+which folders are present
+
+1529
+02:19:14,320 --> 02:19:19,320
+in the current location.
+
+1530
+02:19:19,320 --> 02:19:21,920
+I'll do ls right.
+
+1531
+02:19:21,920 --> 02:19:27,240
+It will list every folder
+that I have inside.
+
+1532
+02:19:27,240 --> 02:19:30,440
+Okay. Very good.
+
+1533
+02:19:30,440 --> 02:19:35,920
+Now I need to change the location
+of my terminal
+
+1534
+02:19:37,040 --> 02:19:40,560
+to let's see
+
+1535
+02:19:40,560 --> 02:19:44,280
+the folder. ABC.
+
+1536
+02:19:44,280 --> 02:19:45,880
+So what I will do?
+
+1537
+02:19:45,880 --> 02:19:47,280
+See the ABC.
+
+1538
+02:19:47,280 --> 02:19:51,840
+So let's do see the ABC.
+
+1539
+02:19:51,840 --> 02:19:55,160
+It shows me no such file or directory.
+
+1540
+02:19:56,400 --> 02:20:01,680
+Why is that so?
+
+1541
+02:20:01,680 --> 02:20:04,200
+Because in the current location
+
+1542
+02:20:05,960 --> 02:20:11,080
+terminal doesn't see any see right.
+
+1543
+02:20:11,080 --> 02:20:11,720
+Okay.
+
+1544
+02:20:11,720 --> 02:20:15,320
+So this means that terminal
+can only go to the files
+
+1545
+02:20:15,320 --> 02:20:18,920
+and folder
+which are there in the current location.
+
+1546
+02:20:18,920 --> 02:20:19,680
+Right.
+
+1547
+02:20:20,160 --> 02:20:24,760
+So let's see, I want to go to documents.
+
+1548
+02:20:26,000 --> 02:20:29,840
+So what will I do?
+
+1549
+02:20:29,840 --> 02:20:33,360
+So I do see the documents right
+
+1550
+02:20:38,200 --> 02:20:41,880
+now to make sure that terminal is actually
+
+1551
+02:20:42,040 --> 02:20:46,960
+in documents. TWD
+
+1552
+02:20:49,680 --> 02:20:52,440
+Now to print the contents
+
+1553
+02:20:53,040 --> 02:20:58,240
+of the location, document.
+
+1554
+02:20:58,240 --> 02:21:04,520
+LS Right.
+
+1555
+02:21:04,520 --> 02:21:08,280
+Now, if I want to go to
+
+1556
+02:21:08,280 --> 02:21:10,080
+let's see
+
+1557
+02:21:17,120 --> 02:21:21,920
+to have a folder in there.
+
+1558
+02:21:21,920 --> 02:21:26,280
+Yeah, I want to move one step back.
+
+1559
+02:21:26,280 --> 02:21:30,520
+What will I do?
+
+1560
+02:21:30,520 --> 02:21:32,840
+C d dot, dot. Right.
+
+1561
+02:21:34,200 --> 02:21:35,200
+Okay,
+
+1562
+02:21:35,840 --> 02:21:46,560
+now again, I want to move to desktop.
+
+1563
+02:21:46,560 --> 02:21:47,920
+I'll come to that.
+
+1564
+02:21:47,920 --> 02:21:50,520
+So I'll say c d desktop
+
+1565
+02:21:50,520 --> 02:21:55,200
+right.
+
+1566
+02:21:55,200 --> 02:21:55,920
+Okay.
+
+1567
+02:21:55,920 --> 02:22:03,160
+So now let's view
+the content of desktop LS.
+
+1568
+02:22:03,880 --> 02:22:07,640
+Now let's go into the folder, get
+
+1569
+02:22:17,280 --> 02:22:18,200
+now let's view
+
+1570
+02:22:18,200 --> 02:22:20,320
+the content of the folder, get
+
+1571
+02:22:29,520 --> 02:22:30,680
+okay, perfect.
+
+1572
+02:22:30,680 --> 02:22:36,000
+Now let's make sure that
+what is the current location of our Mr.
+
+1573
+02:22:36,000 --> 02:22:40,120
+Terminal?
+
+1574
+02:22:40,120 --> 02:22:40,960
+It's inside.
+
+1575
+02:22:40,960 --> 02:22:42,240
+Get now.
+
+1576
+02:22:42,240 --> 02:22:49,720
+I want my terminal to move one step back.
+
+1577
+02:22:49,720 --> 02:22:57,160
+I want to make sure it has moved
+one step back.
+
+1578
+02:22:57,160 --> 02:23:05,800
+I want to move one step back again.
+
+1579
+02:23:05,800 --> 02:23:12,040
+I want to make sure it has moved
+one step back.
+
+1580
+02:23:12,040 --> 02:23:13,560
+Okay, great.
+
+1581
+02:23:13,560 --> 02:23:15,000
+Okay, great. Perfect.
+
+1582
+02:23:15,000 --> 02:23:17,480
+Perfect, guys.
+Really impressive. Really impressive.
+
+1583
+02:23:17,480 --> 02:23:20,400
+You guys did an awesome job.
+
+1584
+02:23:20,400 --> 02:23:22,680
+Yeah, I can already see that.
+
+1585
+02:23:22,680 --> 02:23:25,760
+Perfect. Sure.
+
+1586
+02:23:27,200 --> 02:23:28,920
+Yes. Michael, I have a great student.
+
+1587
+02:23:28,920 --> 02:23:29,960
+Okay, perfect.
+
+1588
+02:23:29,960 --> 02:23:35,280
+So now tell me, guys,
+do you understand how we can navigate
+
+1589
+02:23:35,280 --> 02:23:38,840
+in between folders using these commands?
+
+1590
+02:23:39,360 --> 02:23:44,680
+Is it difficult?
+
+1591
+02:23:44,680 --> 02:23:45,480
+Right. It's.
+
+1592
+02:23:45,480 --> 02:23:52,800
+It's so simple.
+
+1593
+02:23:52,800 --> 02:23:55,120
+Pretty straightforward. You. Right.
+
+1594
+02:23:55,120 --> 02:23:57,480
+Okay, so now let's do one
+
+1595
+02:23:57,480 --> 02:24:08,200
+task together.
+
+1596
+02:24:08,200 --> 02:24:10,400
+Well, let's clear everything
+
+1597
+02:24:12,080 --> 02:24:13,680
+and let's close our terminal.
+
+1598
+02:24:13,680 --> 02:24:15,680
+Let's do it from the very scratch.
+
+1599
+02:24:15,680 --> 02:24:27,640
+Okay?
+
+1600
+02:24:27,640 --> 02:24:27,920
+Okay.
+
+1601
+02:24:27,920 --> 02:24:34,680
+So the first step, what I want to do,
+I want to open up my gimp bash for Mac.
+
+1602
+02:24:34,680 --> 02:24:37,640
+Obviously,
+you guys are going to open up your
+
+1603
+02:24:39,920 --> 02:25:01,400
+terminals.
+
+1604
+02:25:01,400 --> 02:25:04,760
+Let's now do pwt to see that
+
+1605
+02:25:05,640 --> 02:25:08,440
+the current location is HBC X.
+
+1606
+02:25:09,360 --> 02:25:16,680
+For me, it's
+going to be different for you.
+
+1607
+02:25:16,680 --> 02:25:18,920
+Okay. Are we all good until this point?
+
+1608
+02:25:19,680 --> 02:25:22,440
+Are we?
+Have you all done that? Okay, done.
+
+1609
+02:25:22,520 --> 02:25:28,360
+Perfect Now let's open up
+this location in our Explorer.
+
+1610
+02:25:28,520 --> 02:25:33,480
+So for me, I'll go to this
+PC, I'll click on see Drive
+
+1611
+02:25:36,480 --> 02:25:38,000
+and then I'll go to
+
+1612
+02:25:38,000 --> 02:25:42,680
+the users and then I'll go to HPC X.
+
+1613
+02:25:42,720 --> 02:25:45,320
+So this is my current location for you.
+
+1614
+02:25:45,320 --> 02:25:46,920
+It's going to be different.
+
+1615
+02:25:46,920 --> 02:25:52,440
+Let me know once all of you have navigated
+successfully to the current location,
+
+1616
+02:25:52,720 --> 02:26:03,240
+which is home directory off your terminal.
+
+1617
+02:26:03,240 --> 02:26:05,080
+Okay, perfect.
+
+1618
+02:26:05,080 --> 02:26:08,760
+Very good.
+
+1619
+02:26:08,760 --> 02:26:12,720
+Now I want to view
+the content of this folder.
+
+1620
+02:26:13,680 --> 02:26:15,280
+So what I'll do
+
+1621
+02:26:18,880 --> 02:26:20,560
+is I'll do
+
+1622
+02:26:20,560 --> 02:26:25,040
+ls right.
+
+1623
+02:26:25,040 --> 02:26:28,200
+Okay. Till this point,
+
+1624
+02:26:28,200 --> 02:26:31,200
+I hope that none of you
+is going to be having any problems
+
+1625
+02:26:31,200 --> 02:26:34,720
+and we all will be on the same page.
+
+1626
+02:26:34,720 --> 02:26:38,280
+Let me know if you guys are done
+with this point and then let's move
+
+1627
+02:26:38,280 --> 02:26:44,720
+forward.
+
+1628
+02:26:44,720 --> 02:26:45,920
+Very good.
+
+1629
+02:26:46,680 --> 02:26:50,040
+Okay, so now for me,
+
+1630
+02:26:50,040 --> 02:26:54,040
+I have desktop, so I'll go to desktop.
+
+1631
+02:26:55,120 --> 02:26:57,360
+For those of you who do not have desktop,
+
+1632
+02:26:57,600 --> 02:27:03,480
+you can navigate to document or download
+or any any other folder that you see.
+
+1633
+02:27:04,080 --> 02:27:07,200
+So I'll use the command, see the desktop
+
+1634
+02:27:09,080 --> 02:27:11,760
+and I'll press, enter
+
+1635
+02:27:12,960 --> 02:27:13,960
+Okay, Over here
+
+1636
+02:27:13,960 --> 02:27:20,040
+also I'll open up my desktop.
+
+1637
+02:27:20,040 --> 02:27:22,160
+Now let me just
+
+1638
+02:27:23,240 --> 02:27:25,400
+create a new folder
+
+1639
+02:27:28,640 --> 02:27:31,240
+inside my desktop on the Explorer
+
+1640
+02:27:32,280 --> 02:27:34,440
+and let's name it Bad
+
+1641
+02:27:34,520 --> 02:27:42,240
+Lemon is smart.
+
+1642
+02:27:42,240 --> 02:27:47,320
+So on Windows you just right click
+and you can create new and folder
+
+1643
+02:27:47,320 --> 02:27:52,880
+and on Mac also you will be following
+the same steps You can simply click on
+
+1644
+02:27:53,600 --> 02:27:56,600
+right click on your space and know
+
+1645
+02:27:56,720 --> 02:28:02,520
+create a new folder.
+
+1646
+02:28:02,520 --> 02:28:05,440
+So now if I'm terminal, I do ls
+
+1647
+02:28:06,480 --> 02:28:10,120
+What will happen?
+
+1648
+02:28:10,120 --> 02:28:19,000
+Okay, so when we are not learning that
+right now, now what I do ls At this point
+
+1649
+02:28:19,000 --> 02:28:22,560
+I can see that batch 11 is smart
+is appearing
+
+1650
+02:28:23,200 --> 02:28:26,240
+right. Okay.
+
+1651
+02:28:26,240 --> 02:28:29,480
+I want to move my Mr. Terminal inside.
+
+1652
+02:28:29,480 --> 02:28:30,840
+Batch 11 is smart.
+
+1653
+02:28:30,840 --> 02:28:49,200
+What I'll do.
+
+1654
+02:28:49,200 --> 02:28:53,080
+Okay,
+so in the Explorer, I'll just click on it.
+
+1655
+02:28:54,480 --> 02:28:54,960
+Okay?
+
+1656
+02:28:54,960 --> 02:29:08,120
+And This point, if I do ls
+what's going to be the output?
+
+1657
+02:29:08,120 --> 02:29:08,640
+Nothing.
+
+1658
+02:29:08,640 --> 02:29:10,320
+Because I have nothing in there.
+
+1659
+02:29:10,320 --> 02:29:13,400
+Right.
+
+1660
+02:29:13,400 --> 02:29:16,440
+But what if I create a new folder
+
+1661
+02:29:17,720 --> 02:29:21,000
+saying that ABCD
+
+1662
+02:29:23,040 --> 02:29:24,480
+and now if I do ls,
+
+1663
+02:29:24,480 --> 02:29:28,680
+what will happen?
+
+1664
+02:29:28,680 --> 02:29:34,520
+Yes, because you have to type full name.
+
+1665
+02:29:34,520 --> 02:29:36,440
+So I'll do
+
+1666
+02:29:39,480 --> 02:29:40,080
+what?
+
+1667
+02:29:40,080 --> 02:29:44,800
+Only A, B, c, D,
+what will be the command does?
+
+1668
+02:29:44,800 --> 02:29:51,320
+I want you to remember the command.
+
+1669
+02:29:51,320 --> 02:29:53,160
+Okay. Let me repeat the question.
+
+1670
+02:29:53,160 --> 02:29:55,200
+I want to
+
+1671
+02:29:58,960 --> 02:29:59,400
+know.
+
+1672
+02:29:59,400 --> 02:30:01,680
+Okay. I want to.
+
+1673
+02:30:01,680 --> 02:30:04,920
+Sure, I want to do ls
+
+1674
+02:30:04,920 --> 02:30:09,080
+and I want see which folder is there
+inside?
+
+1675
+02:30:09,080 --> 02:30:11,480
+Batch 11 is smart,
+
+1676
+02:30:11,480 --> 02:30:18,280
+ABCD is the right.
+
+1677
+02:30:18,280 --> 02:30:18,840
+Okay.
+
+1678
+02:30:18,840 --> 02:30:26,360
+Now if I want to go into ABCD,
+see the ABC.
+
+1679
+02:30:26,360 --> 02:30:27,120
+Right.
+
+1680
+02:30:27,440 --> 02:30:30,520
+Okay.
+
+1681
+02:30:30,520 --> 02:30:31,560
+Perfect.
+
+1682
+02:30:31,560 --> 02:30:36,840
+You were all able to do that
+with me, right?
+
+1683
+02:30:36,840 --> 02:30:38,520
+Okay. Pretty simple.
+
+1684
+02:30:38,520 --> 02:30:41,240
+So we will be just learning one thing
+
+1685
+02:30:41,280 --> 02:30:44,280
+more and we will be
+done with these commands. So
+
+1686
+02:30:45,680 --> 02:30:47,040
+I want to check
+
+1687
+02:30:47,040 --> 02:30:50,880
+which is my current location, BWT.
+
+1688
+02:30:51,440 --> 02:30:52,200
+Okay,
+
+1689
+02:30:53,000 --> 02:30:56,160
+if I want to move one back to my home
+
+1690
+02:30:56,160 --> 02:30:58,880
+directory and now we know that
+what is our home directory, right?
+
+1691
+02:30:59,400 --> 02:31:02,280
+For me C users H speaks.
+
+1692
+02:31:02,320 --> 02:31:04,440
+This is my home. Verity Correct.
+
+1693
+02:31:05,760 --> 02:31:10,080
+It's going to be different for you guys.
+
+1694
+02:31:10,080 --> 02:31:15,000
+If I want to move back to this point,
+what I will do.
+
+1695
+02:31:15,000 --> 02:31:21,240
+C D dot, dot It will take me to batch
+on the spot and then I'll do C again.
+
+1696
+02:31:21,400 --> 02:31:25,160
+It will take me to desktop
+and then I'll do KD dort again.
+
+1697
+02:31:26,040 --> 02:31:28,280
+At that point I'll be at C users.
+
+1698
+02:31:28,800 --> 02:31:33,600
+X Do you guys agree with that?
+
+1699
+02:31:33,600 --> 02:31:36,880
+I'll have to do c D, Dada three dials.
+
+1700
+02:31:38,560 --> 02:31:41,960
+Okay, so we have a shortcut.
+
+1701
+02:31:41,960 --> 02:31:45,640
+Command for that, which is CB
+
+1702
+02:31:47,880 --> 02:31:53,400
+Tilde.
+
+1703
+02:31:53,400 --> 02:31:55,920
+This command takes you Mr.
+
+1704
+02:31:55,920 --> 02:32:00,360
+Terminal back to the home directory.
+
+1705
+02:32:00,360 --> 02:32:04,720
+Tilde This line is called Tilde.
+
+1706
+02:32:04,720 --> 02:32:09,000
+Okay, I show you cannot do that
+because it will expect it
+
+1707
+02:32:09,000 --> 02:32:15,480
+to be in front in that folder.
+
+1708
+02:32:15,480 --> 02:32:19,560
+Okay, So if I do see the tuner
+and now if I do p wd,
+
+1709
+02:32:19,560 --> 02:32:22,640
+what do you guys suggest
+should be the output
+
+1710
+02:32:23,040 --> 02:32:25,560
+of my master terminal
+
+1711
+02:32:35,520 --> 02:32:38,960
+which is C users HPC X for me.
+
+1712
+02:32:39,040 --> 02:32:39,760
+Right.
+
+1713
+02:32:40,440 --> 02:32:42,880
+So let's do pwt
+
+1714
+02:32:42,880 --> 02:32:45,440
+it C users HPC
+
+1715
+02:32:45,480 --> 02:32:50,280
+x, right.
+
+1716
+02:32:50,280 --> 02:32:53,120
+Okay. Very good guys. Really good job.
+
+1717
+02:32:54,000 --> 02:32:56,400
+You guys have done an awesome job.
+
+1718
+02:32:56,400 --> 02:32:59,600
+I'm really impressed and
+
+1719
+02:33:00,160 --> 02:33:03,200
+let's take a break for one minute
+
+1720
+02:33:03,560 --> 02:33:17,160
+and then we'll move forward.
+
+1721
+02:33:17,160 --> 02:33:21,840
+Well, Joseph, you guys are great students,
+so yeah, how to write Tilde
+
+1722
+02:33:21,840 --> 02:33:26,120
+on the windows It's going to be along side
+
+1723
+02:33:26,440 --> 02:33:28,920
+below your escape and on Mac.
+
+1724
+02:33:29,880 --> 02:33:32,520
+Can somebody just help out your friends
+
+1725
+02:33:36,480 --> 02:33:36,840
+saying,
+
+1726
+02:33:36,840 --> 02:33:42,920
+okay, I'm coming to
+
+1727
+02:33:42,920 --> 02:33:48,960
+that, I'm coming to that.
+
+1728
+02:33:48,960 --> 02:33:51,640
+Okay, so it's 625 one, then break.
+
+1729
+02:33:51,640 --> 02:33:53,960
+Okay, let's breathe then let's read out.
+
+1730
+02:33:53,960 --> 02:33:56,000
+Let's relax ourselves.
+
+1731
+02:33:56,000 --> 02:33:57,840
+You know?
+
+1732
+02:33:57,840 --> 02:34:14,200
+Then we'll begin.
+
+1733
+02:34:14,200 --> 02:34:15,320
+Yes, it's.
+
+1734
+02:34:15,320 --> 02:34:23,840
+It's morning now.
+
+1735
+02:34:25,680 --> 02:34:27,120
+No, Aisha, I'm
+
+1736
+02:34:27,120 --> 02:34:45,320
+from Pakistan. No,
+
+1737
+02:34:46,520 --> 02:34:57,800
+not that much, but I watch the maths.
+
+1738
+02:34:57,800 --> 02:35:00,360
+Okay, so it's.
+
+1739
+02:35:00,360 --> 02:35:02,560
+It's one minute our break is over.
+
+1740
+02:35:02,720 --> 02:35:04,680
+Okay, let's get back to work.
+
+1741
+02:35:04,680 --> 02:35:07,720
+We can have chit chat off after that. Yes.
+
+1742
+02:35:07,840 --> 02:35:13,640
+And from there.
+
+1743
+02:35:13,640 --> 02:35:16,160
+Okay, guys, one minute is over. Right.
+
+1744
+02:35:16,160 --> 02:35:17,400
+We will be having chit chat.
+
+1745
+02:35:17,400 --> 02:35:19,920
+But for now,
+we have a lot of work to cover.
+
+1746
+02:35:19,920 --> 02:35:22,640
+Okay, So
+
+1747
+02:35:22,640 --> 02:35:24,800
+why did we learn all of this?
+
+1748
+02:35:24,800 --> 02:35:29,480
+To navigate into the different folders
+and, you know, do stuff like that
+
+1749
+02:35:30,080 --> 02:35:36,160
+we will be witnessing that right now.
+
+1750
+02:35:36,160 --> 02:35:40,400
+So you guys have had clips installed
+in your systems, right?
+
+1751
+02:35:41,440 --> 02:35:42,080
+Can you open
+
+1752
+02:35:42,080 --> 02:35:46,120
+that up for me?
+
+1753
+02:35:46,120 --> 02:35:46,440
+Okay.
+
+1754
+02:35:46,440 --> 02:35:58,400
+So just open up your clips and.
+
+1755
+02:35:58,400 --> 02:36:03,280
+Okay, have you guys open it?
+
+1756
+02:36:03,960 --> 02:36:09,320
+All of you.
+
+1757
+02:36:09,320 --> 02:36:10,120
+Okay. It's all of us.
+
+1758
+02:36:10,120 --> 02:36:13,200
+Open. Perfect.
+
+1759
+02:36:13,200 --> 02:36:19,880
+How many projects do you have in there?
+
+1760
+02:36:19,880 --> 02:36:21,960
+Wow, Four hot grade
+
+1761
+02:36:23,280 --> 02:36:25,120
+millions. Wow.
+
+1762
+02:36:25,120 --> 02:36:28,240
+Okay, So do you have this one
+project named
+
+1763
+02:36:28,240 --> 02:36:34,800
+Java Basic?
+
+1764
+02:36:34,800 --> 02:36:35,760
+Okay,
+
+1765
+02:36:36,480 --> 02:36:39,000
+so let's do this.
+
+1766
+02:36:39,000 --> 02:36:42,200
+I want you
+
+1767
+02:36:42,200 --> 02:36:45,440
+to be able to move your terminal
+
+1768
+02:36:46,120 --> 02:36:53,560
+to the folder Java Basic.
+
+1769
+02:36:53,560 --> 02:36:55,600
+So this is the task
+that we are going to do.
+
+1770
+02:36:56,200 --> 02:36:59,280
+We want to be able to move our terminal
+
+1771
+02:36:59,680 --> 02:37:04,320
+from home directory to the folder
+where our Java Basic is.
+
+1772
+02:37:04,800 --> 02:37:15,760
+How do we do that?
+
+1773
+02:37:15,760 --> 02:37:35,480
+Well,
+
+1774
+02:37:35,480 --> 02:37:38,520
+number one, okay,
+
+1775
+02:37:38,520 --> 02:37:42,600
+if it doesn't have most of our Java basic,
+it's going to have some other project.
+
+1776
+02:37:42,600 --> 02:37:44,520
+You can use that.
+
+1777
+02:37:44,520 --> 02:37:49,960
+Okay.
+
+1778
+02:37:49,960 --> 02:37:52,600
+Okay. So what is going to be our very
+first step?
+
+1779
+02:37:52,600 --> 02:37:56,520
+I want you guys to guide me
+as well as you know do.
+
+1780
+02:37:57,040 --> 02:38:00,960
+Everything on your computer is also.
+
+1781
+02:38:00,960 --> 02:38:10,680
+No, Alex, we are not doing that. The
+
+1782
+02:38:12,360 --> 02:38:16,280
+first thing is that we want to find out
+
+1783
+02:38:17,360 --> 02:38:20,920
+what is the location of our Java.
+
+1784
+02:38:20,920 --> 02:38:21,600
+Right?
+
+1785
+02:38:22,560 --> 02:38:23,200
+Perfect.
+
+1786
+02:38:23,200 --> 02:38:34,080
+Perfect.
+
+1787
+02:38:34,080 --> 02:38:36,360
+So how can we know that
+
+1788
+02:38:37,360 --> 02:38:40,520
+in order to do that,
+just go to your project.
+
+1789
+02:38:40,520 --> 02:38:42,240
+If it's basic, that's fine.
+
+1790
+02:38:42,240 --> 02:38:46,040
+If it's something else,
+you guys can select any.
+
+1791
+02:38:46,080 --> 02:38:48,360
+Any project, right click on it.
+
+1792
+02:38:49,200 --> 02:38:51,720
+Go to properties
+
+1793
+02:38:56,280 --> 02:38:56,800
+in there,
+
+1794
+02:38:56,800 --> 02:39:06,000
+you'll see the location.
+
+1795
+02:39:06,000 --> 02:39:08,400
+Okay,
+so what should be my next step? Guys?
+
+1796
+02:39:08,400 --> 02:39:19,680
+Can someone guide me?
+
+1797
+02:39:19,680 --> 02:39:23,720
+Well, okay.
+
+1798
+02:39:24,800 --> 02:39:29,120
+Select any of your project
+to which you want to navigate.
+
+1799
+02:39:29,800 --> 02:39:32,000
+Right click on it.
+
+1800
+02:39:32,000 --> 02:39:41,840
+Then go to properties.
+
+1801
+02:39:41,840 --> 02:39:46,560
+Okay,
+
+1802
+02:39:46,560 --> 02:39:50,400
+Now I'll open up my Kit bash
+and obviously for Windows users,
+
+1803
+02:39:50,400 --> 02:39:53,480
+you can always make users,
+you can use terminal.
+
+1804
+02:39:54,880 --> 02:39:57,360
+So first of all, I'll do
+
+1805
+02:39:57,960 --> 02:40:04,240
+which come on, mirror, step by step guys,
+we need to move step by step.
+
+1806
+02:40:04,400 --> 02:40:05,640
+No shortcuts fun.
+
+1807
+02:40:05,640 --> 02:40:08,040
+Now when you will mature, you'll go up.
+
+1808
+02:40:08,040 --> 02:40:10,360
+Then you can use shortcuts.
+
+1809
+02:40:10,360 --> 02:40:11,480
+Okay, so be ready.
+
+1810
+02:40:11,480 --> 02:40:15,120
+It says that my master terminal
+is currently
+
+1811
+02:40:15,120 --> 02:40:19,840
+in C uses HPC X, right?
+
+1812
+02:40:19,840 --> 02:40:21,320
+Till HPC? Yes.
+
+1813
+02:40:21,320 --> 02:40:25,320
+So what is the next folder to which
+
+1814
+02:40:27,000 --> 02:40:31,240
+I want to move my terminal?
+
+1815
+02:40:31,240 --> 02:40:33,640
+Its atlas workspace.
+
+1816
+02:40:33,640 --> 02:40:38,400
+But first I need to make sure
+that workspace is in that location.
+
+1817
+02:40:38,400 --> 02:40:39,240
+I'm not
+
+1818
+02:40:43,200 --> 02:40:45,960
+so I can do else
+
+1819
+02:40:47,000 --> 02:40:48,480
+and it shows me that
+
+1820
+02:40:48,480 --> 02:40:55,280
+it is there right?
+
+1821
+02:40:55,280 --> 02:40:57,640
+So what is going to be my command
+
+1822
+02:41:00,920 --> 02:41:05,240
+to move terminal to eclipse workspace
+
+1823
+02:41:06,360 --> 02:41:09,080
+C D Eclipse
+
+1824
+02:41:11,840 --> 02:41:15,480
+Workspace right.
+
+1825
+02:41:15,480 --> 02:41:17,720
+I'll press enter
+
+1826
+02:41:19,800 --> 02:41:21,360
+and then
+
+1827
+02:41:27,000 --> 02:41:29,160
+again TWD to make sure
+
+1828
+02:41:29,160 --> 02:41:33,000
+I have reached this point.
+
+1829
+02:41:33,000 --> 02:41:34,920
+So I'm an eclipse workspace.
+
+1830
+02:41:34,920 --> 02:41:36,720
+Okay, I am in Eclipse workspace.
+
+1831
+02:41:36,720 --> 02:41:38,800
+So next caller is
+
+1832
+02:41:38,880 --> 02:41:42,560
+Java base. It.
+
+1833
+02:41:42,560 --> 02:41:46,920
+So first I want to make sure
+that our basic is there
+
+1834
+02:41:48,320 --> 02:41:50,360
+it is zero
+
+1835
+02:41:51,840 --> 02:41:54,720
+if I want to go into that simply
+
+1836
+02:41:56,400 --> 02:42:03,000
+c d java base it.
+
+1837
+02:42:03,000 --> 02:42:04,400
+So now we are.
+
+1838
+02:42:04,400 --> 02:42:09,040
+Mr. Terminal is at
+the location of our project.
+
+1839
+02:42:10,800 --> 02:42:12,400
+What if I do
+
+1840
+02:42:12,400 --> 02:42:19,200
+less at this point?
+
+1841
+02:42:19,200 --> 02:42:22,240
+Mary were you able to locate it
+
+1842
+02:42:22,240 --> 02:42:30,040
+in less?
+
+1843
+02:42:30,040 --> 02:42:30,440
+Yeah.
+
+1844
+02:42:30,440 --> 02:42:32,600
+You're spelling is wrong
+
+1845
+02:42:33,720 --> 02:42:34,200
+for hard.
+
+1846
+02:42:34,200 --> 02:42:35,760
+You must be having the same problem.
+
+1847
+02:42:35,760 --> 02:42:38,520
+You can share the screenshot in support.
+
+1848
+02:42:40,000 --> 02:42:40,320
+Okay.
+
+1849
+02:42:40,320 --> 02:42:43,560
+So let's do our last.
+
+1850
+02:42:43,560 --> 02:42:47,920
+So in there
+it shows me two folders s, r, c,
+
+1851
+02:42:48,240 --> 02:42:49,560
+and then
+
+1852
+02:42:52,280 --> 02:42:53,640
+if you do not have Java Basic,
+
+1853
+02:42:53,640 --> 02:43:01,200
+you can choose any project.
+
+1854
+02:43:01,200 --> 02:43:04,000
+Okay, so now if I want to
+
+1855
+02:43:06,240 --> 02:43:09,480
+quickly look into my
+
+1856
+02:43:09,480 --> 02:43:12,400
+Java basics
+and make sure that these two folders
+
+1857
+02:43:12,400 --> 02:43:15,240
+are over there,
+I can simply right click on it
+
+1858
+02:43:17,480 --> 02:43:20,960
+and then I can click on
+
+1859
+02:43:23,560 --> 02:43:24,720
+where is that
+
+1860
+02:43:24,720 --> 02:43:30,200
+option?
+
+1861
+02:43:30,200 --> 02:43:33,320
+Yeah, properties and I can click on this
+
+1862
+02:43:33,960 --> 02:43:35,840
+this arrow key.
+
+1863
+02:43:36,800 --> 02:43:38,560
+It's going to open up that folder
+
+1864
+02:43:38,560 --> 02:43:44,040
+for me.
+
+1865
+02:43:44,040 --> 02:43:48,240
+If I go into Java basics,
+I see that I have binary
+
+1866
+02:43:49,000 --> 02:43:53,880
+bean and sa c, these rest
+or the folders are not displayed
+
+1867
+02:43:53,880 --> 02:43:58,520
+because they are not actually,
+you know, the proper folders.
+
+1868
+02:43:58,520 --> 02:44:01,760
+They have a dot different extension.
+
+1869
+02:44:01,760 --> 02:44:06,400
+So this command does not show the
+these folders.
+
+1870
+02:44:06,400 --> 02:44:06,920
+Okay.
+
+1871
+02:44:06,920 --> 02:44:13,400
+So this is the main task that we will be
+doing when we will be working with kids.
+
+1872
+02:44:13,400 --> 02:44:17,600
+So tell me, guys,
+if I asked at any point in time
+
+1873
+02:44:19,440 --> 02:44:21,040
+that, Hey guys, I
+
+1874
+02:44:21,040 --> 02:44:26,040
+want you to navigate your terminal
+to one of your Java projects, Eclipse,
+
+1875
+02:44:26,400 --> 02:44:36,120
+will you guys be able to do that
+in no time?
+
+1876
+02:44:36,120 --> 02:44:36,840
+Right.
+
+1877
+02:44:37,080 --> 02:44:38,280
+It's pretty simple.
+
+1878
+02:44:38,280 --> 02:44:39,680
+You guys will be able to do that.
+
+1879
+02:44:39,680 --> 02:44:42,600
+I'm pretty sure about it. Okay.
+
+1880
+02:44:42,680 --> 02:44:45,600
+So, yes,
+
+1881
+02:44:47,560 --> 02:44:52,640
+for those of you,
+if you are still struggling with it,
+
+1882
+02:44:52,880 --> 02:44:56,480
+let me know at the end of class
+so that I can help you out.
+
+1883
+02:44:56,480 --> 02:45:01,440
+After the end of class, I'll still spend
+5 minutes to make things more clear.
+
+1884
+02:45:02,280 --> 02:45:03,040
+Okay,
+
+1885
+02:45:03,760 --> 02:45:07,440
+let's take a break for 2 minutes,
+and then we'll
+
+1886
+02:45:08,640 --> 02:45:12,720
+discuss the new.
+
+1887
+02:45:12,720 --> 02:45:13,960
+Yes, we can.
+
+1888
+02:45:13,960 --> 02:45:18,360
+But for now, I'm not going to teach you
+that because, you know, we want to move.
+
+1889
+02:45:18,360 --> 02:45:20,720
+Stepwise shortcuts are there?
+
+1890
+02:45:20,720 --> 02:45:22,440
+You guys will be using shortcuts
+
+1891
+02:45:22,440 --> 02:45:26,280
+all the time, but always first
+we have to learn the basics.
+
+1892
+02:45:26,280 --> 02:45:32,960
+Okay, perfect.
+
+1893
+02:45:33,960 --> 02:45:34,240
+Okay.
+
+1894
+02:45:34,240 --> 02:45:38,480
+So meanwhile, tell me, guys,
+what do you do apart from?
+
+1895
+02:45:38,480 --> 02:45:54,240
+You know, coming to syntax
+and attending the classes?
+
+1896
+02:45:54,240 --> 02:45:57,160
+Okay. Wow.
+
+1897
+02:45:57,160 --> 02:46:07,080
+I learned.
+
+1898
+02:46:07,080 --> 02:46:12,400
+I will word that after, you know, after
+the class and also during the class also.
+
+1899
+02:46:12,400 --> 02:46:13,920
+Okay, So don't worry about that.
+
+1900
+02:46:13,920 --> 02:46:17,120
+The word work word
+
+1901
+02:46:17,600 --> 02:46:21,000
+teenager is a teenager. Word
+
+1902
+02:46:21,000 --> 02:46:25,080
+mom, duties, catcall.
+
+1903
+02:46:25,080 --> 02:46:27,520
+Okay, Alex, that that's what we all do.
+
+1904
+02:46:28,600 --> 02:46:29,640
+Work and forum.
+
+1905
+02:46:29,640 --> 02:46:32,200
+Okay, great. That's great.
+
+1906
+02:46:32,200 --> 02:46:35,080
+So you guys are all working
+
+1907
+02:46:35,080 --> 02:46:38,600
+and, you know, taking classes
+along with that.
+
+1908
+02:46:38,600 --> 02:46:41,640
+That's really great.
+
+1909
+02:46:41,640 --> 02:46:59,600
+Must be having a lot of hard time.
+
+1910
+02:46:59,600 --> 02:47:00,160
+Okay.
+
+1911
+02:47:00,280 --> 02:47:02,520
+You are a lucky one. That
+
+1912
+02:47:10,120 --> 02:47:12,000
+so by the end of,
+
+1913
+02:47:12,000 --> 02:47:14,880
+you know, one or two months
+
+1914
+02:47:14,880 --> 02:47:17,240
+it's like, you know,
+
+1915
+02:47:17,520 --> 02:47:20,640
+this was our first class
+by the end of two, two months, I guess
+
+1916
+02:47:20,760 --> 02:47:24,480
+slowly you'll get to know each other
+more and more over the time.
+
+1917
+02:47:25,440 --> 02:47:28,320
+But for now, it's
+
+1918
+02:47:28,680 --> 02:47:30,480
+a little bit
+
+1919
+02:47:30,960 --> 02:47:32,760
+we are a little bit strangers
+to each other.
+
+1920
+02:47:32,760 --> 02:47:34,440
+So who was our great manager, by the way?
+
+1921
+02:47:34,440 --> 02:47:41,880
+I forgot his name.
+
+1922
+02:47:41,880 --> 02:47:45,680
+Okay.
+
+1923
+02:47:45,680 --> 02:47:46,320
+Lubo.
+
+1924
+02:47:46,320 --> 02:47:49,600
+Okay, little boy,
+you are the break manager, okay?
+
+1925
+02:47:49,600 --> 02:47:51,600
+Yes, the break is over.
+
+1926
+02:47:51,600 --> 02:47:54,120
+So let's get back to our work
+
+1927
+02:47:54,120 --> 02:48:01,320
+work.
+
+1928
+02:48:01,320 --> 02:48:03,200
+So remember, guys, what you were talking.
+
+1929
+02:48:03,200 --> 02:48:04,680
+We were talking about Gabe.
+
+1930
+02:48:04,680 --> 02:48:08,080
+So we now understand that
+what we are using get right?
+
+1931
+02:48:08,960 --> 02:48:11,360
+We know that it's a volume control tool
+
+1932
+02:48:11,360 --> 02:48:14,600
+and we know that way to use it
+and stuff like that.
+
+1933
+02:48:15,920 --> 02:48:21,320
+So you guys will be doing this.
+
+1934
+02:48:21,360 --> 02:48:21,720
+Okay?
+
+1935
+02:48:21,720 --> 02:48:23,880
+You are having your eclipse
+
+1936
+02:48:30,360 --> 02:48:31,320
+and there you have
+
+1937
+02:48:31,320 --> 02:48:48,000
+your Java project right?
+
+1938
+02:48:48,000 --> 02:48:53,360
+And inside this Java project
+you have multiple folders, maybe
+
+1939
+02:48:53,480 --> 02:49:06,480
+CRC and Binary.
+
+1940
+02:49:06,480 --> 02:49:07,920
+Is it correct?
+
+1941
+02:49:07,920 --> 02:49:14,640
+What are you is is this correct?
+
+1942
+02:49:14,640 --> 02:49:15,000
+Okay.
+
+1943
+02:49:16,280 --> 02:49:18,880
+If I tried to
+
+1944
+02:49:18,880 --> 02:49:22,400
+draw everything that I have drawn
+in Eclipse on your
+
+1945
+02:49:23,440 --> 02:49:25,640
+Explorer window and computer,
+
+1946
+02:49:25,640 --> 02:49:28,120
+I would say that you have a window
+
+1947
+02:49:29,040 --> 02:49:32,360
+in which you have
+
+1948
+02:49:33,920 --> 02:49:35,640
+a folder with that.
+
+1949
+02:49:35,640 --> 02:49:38,920
+Let's see.
+
+1950
+02:49:38,920 --> 02:49:41,560
+I'm just imagining this battle. Okay.
+
+1951
+02:49:41,560 --> 02:49:57,120
+And the last thing is Java Project.
+
+1952
+02:49:57,120 --> 02:50:01,560
+And in there
+we have, let's say, two folders.
+
+1953
+02:50:01,920 --> 02:50:14,040
+Okay, SRT and
+
+1954
+02:50:15,600 --> 02:50:18,680
+then so
+
+1955
+02:50:21,360 --> 02:50:23,600
+if I see this,
+
+1956
+02:50:23,600 --> 02:50:25,400
+am I correct about this?
+
+1957
+02:50:25,400 --> 02:50:30,240
+Like,
+I can show you that also in f lives, I
+
+1958
+02:50:30,480 --> 02:50:33,240
+Java and under it I have SRT
+
+1959
+02:50:34,120 --> 02:50:37,480
+and inside my explorer also
+
+1960
+02:50:43,800 --> 02:50:45,200
+inside my job basics.
+
+1961
+02:50:45,200 --> 02:50:49,160
+I have been in SRT right.
+
+1962
+02:50:49,160 --> 02:50:54,400
+And the location of my Java project.
+
+1963
+02:50:54,400 --> 02:50:56,760
+I will go to this point. Okay.
+
+1964
+02:50:57,840 --> 02:51:00,760
+So now this is the location
+
+1965
+02:51:01,280 --> 02:51:04,400
+where we are writing our code, right?
+
+1966
+02:51:04,400 --> 02:51:05,600
+Our Java code.
+
+1967
+02:51:05,600 --> 02:51:10,200
+This is the location
+where we are writing it.
+
+1968
+02:51:10,200 --> 02:51:11,320
+If you want
+
+1969
+02:51:12,440 --> 02:51:16,840
+to track this project using gift,
+
+1970
+02:51:18,480 --> 02:51:20,040
+what we to do,
+
+1971
+02:51:20,040 --> 02:51:23,120
+we need to create a repository.
+
+1972
+02:51:24,840 --> 02:51:34,320
+At this point.
+
+1973
+02:51:34,320 --> 02:51:36,600
+Do you guys agree with me?
+
+1974
+02:51:36,600 --> 02:51:40,680
+We need to place a cupboard over there,
+
+1975
+02:51:41,280 --> 02:51:57,720
+a locker room in that location.
+
+1976
+02:51:57,720 --> 02:51:58,200
+Okay.
+
+1977
+02:51:58,200 --> 02:52:04,560
+I'm going to repeat it again.
+
+1978
+02:52:04,560 --> 02:52:07,480
+So I'm saying that
+
+1979
+02:52:07,480 --> 02:52:10,600
+we are writing down our code
+and it lives inside
+
+1980
+02:52:10,600 --> 02:52:14,360
+Java project right?
+
+1981
+02:52:14,360 --> 02:52:18,160
+If I want to get to track my codes,
+
+1982
+02:52:18,720 --> 02:52:21,200
+what I need to do, I need to create
+
+1983
+02:52:22,160 --> 02:52:26,840
+a I want geared actually
+to create locker room
+
+1984
+02:52:26,840 --> 02:52:33,600
+or a repository, right.
+
+1985
+02:52:33,600 --> 02:52:36,560
+I want get to do that right.
+
+1986
+02:52:36,560 --> 02:52:38,960
+Come on. You can see a locker room
+
+1987
+02:52:38,960 --> 02:52:42,120
+repository all interchangeably used
+for the same thing.
+
+1988
+02:52:42,840 --> 02:52:43,640
+Okay.
+
+1989
+02:52:43,640 --> 02:52:46,600
+I want get to create that.
+
+1990
+02:52:46,600 --> 02:52:50,680
+First of all, the point is that what
+will be the location of that
+
+1991
+02:52:51,640 --> 02:52:53,240
+repository?
+
+1992
+02:52:53,240 --> 02:53:08,640
+Can it be anywhere on the on the computer?
+
+1993
+02:53:08,640 --> 02:53:13,320
+What if I place it
+somewhere, you know, on my desktop
+
+1994
+02:53:13,320 --> 02:53:18,200
+where my jello projects are not lying in.
+
+1995
+02:53:18,200 --> 02:53:19,040
+Right.
+
+1996
+02:53:19,840 --> 02:53:22,320
+It's not going to work.
+
+1997
+02:53:22,320 --> 02:53:28,040
+Why? So this is the condition of get
+
+1998
+02:53:28,400 --> 02:53:33,360
+it says that, hey, if you want me
+to keep track of your goods,
+
+1999
+02:53:33,720 --> 02:53:37,240
+you need to place my code
+
+2000
+02:53:37,960 --> 02:53:43,640
+on the same location where your codes are.
+
+2001
+02:53:43,640 --> 02:53:47,920
+Okay,
+
+2002
+02:53:47,920 --> 02:53:50,280
+That's the condition
+that we have to follow.
+
+2003
+02:53:51,200 --> 02:54:35,760
+Let me write that down for you.
+
+2004
+02:54:35,760 --> 02:54:39,920
+Okay, guys, here,
+I want you to remember this line.
+
+2005
+02:54:39,920 --> 02:54:40,960
+Okay?
+
+2006
+02:54:40,960 --> 02:54:43,000
+And make sure
+that you never make this mistake.
+
+2007
+02:54:43,440 --> 02:54:47,200
+Everyone, I'm still telling you
+you will be making this mistake
+
+2008
+02:54:47,400 --> 02:54:50,920
+and even future, despite of me
+telling you that that's totally fine.
+
+2009
+02:54:50,920 --> 02:54:52,480
+That's how you learn.
+
+2010
+02:54:52,480 --> 02:54:57,200
+But always, always make sure
+that you are creating
+
+2011
+02:54:57,200 --> 02:55:00,720
+that covered repository in right location.
+
+2012
+02:55:01,080 --> 02:55:02,160
+Where is that?
+
+2013
+02:55:02,160 --> 02:55:11,480
+Where is that location?
+
+2014
+02:55:11,480 --> 02:55:13,640
+Where your codes are? Right.
+
+2015
+02:55:14,320 --> 02:55:16,920
+I'm going to answer that
+
+2016
+02:55:19,520 --> 02:55:20,760
+for a fact.
+
+2017
+02:55:21,920 --> 02:55:23,440
+So for this
+
+2018
+02:55:23,440 --> 02:55:26,880
+particular project that we have off
+
+2019
+02:55:26,880 --> 02:55:33,960
+Java Basic,
+what is going to be the location?
+
+2020
+02:55:33,960 --> 02:55:35,760
+Let me show you.
+
+2021
+02:55:35,800 --> 02:55:39,040
+If I go to properties
+
+2022
+02:55:39,680 --> 02:55:43,320
+and I click on this show in System
+Explorer, it's
+
+2023
+02:55:43,320 --> 02:55:45,960
+going to open the folder for me.
+
+2024
+02:55:45,960 --> 02:55:48,280
+Okay, So I'm in Java codes
+
+2025
+02:55:48,280 --> 02:55:53,920
+in this folder.
+
+2026
+02:55:53,920 --> 02:56:00,440
+No, Where are they?
+
+2027
+02:56:00,440 --> 02:56:01,200
+Inside.
+
+2028
+02:56:01,200 --> 02:56:04,280
+Do I have to go inside Java it.
+
+2029
+02:56:04,280 --> 02:56:07,680
+Okay, inside Java Basic
+
+2030
+02:56:08,160 --> 02:56:09,560
+in search of music.
+
+2031
+02:56:09,560 --> 02:56:13,480
+I have S.R., C, Ben, and some other files
+that are there.
+
+2032
+02:56:14,000 --> 02:56:23,520
+They are all the part
+of my Java code right?
+
+2033
+02:56:23,520 --> 02:56:29,360
+So I should create the cupboard
+over here at this point.
+
+2034
+02:56:29,920 --> 02:56:32,640
+Not inside s rc
+
+2035
+02:56:32,640 --> 02:56:36,760
+not inside Bean
+not inside any other folder.
+
+2036
+02:56:36,760 --> 02:56:40,400
+I want to create it
+at this particular location
+
+2037
+02:56:52,800 --> 02:56:54,040
+I'm coming to that for
+
+2038
+02:56:54,040 --> 02:57:14,360
+I'm coming to the okay,
+So if we have a general project
+
+2039
+02:57:14,360 --> 02:57:20,040
+and we want to get to keep track
+of all of our codes in that project.
+
+2040
+02:57:20,760 --> 02:57:23,960
+So the first step is
+we have to ask, get to create a covered
+
+2041
+02:57:23,960 --> 02:57:27,040
+repository at the same location
+where our Java codes are.
+
+2042
+02:57:27,920 --> 02:57:34,240
+Okay, now how do we do that?
+
+2043
+02:57:34,760 --> 02:57:36,600
+I'm going to show you.
+
+2044
+02:57:36,600 --> 02:57:39,440
+So first of all, the very first step
+
+2045
+02:57:40,080 --> 02:57:43,080
+is, okay, so let me answer this question.
+
+2046
+02:57:43,080 --> 02:57:45,080
+So it is look, is it look at it.
+
+2047
+02:57:45,080 --> 02:57:52,080
+We're not SIRC Your job was Gerald.
+
+2048
+02:57:52,080 --> 02:58:07,800
+Are you talking about your Java codes?
+
+2049
+02:58:07,800 --> 02:58:12,880
+Okay, Your Java codes are inside SIRC,
+
+2050
+02:58:13,560 --> 02:58:17,320
+but the other files that are there,
+they are also going
+
+2051
+02:58:17,440 --> 02:58:21,000
+be part of your Java project, Right?
+
+2052
+02:58:21,480 --> 02:58:23,280
+So we created
+
+2053
+02:58:25,200 --> 02:58:27,960
+inside that folder
+
+2054
+02:58:33,320 --> 02:58:33,760
+question.
+
+2055
+02:58:33,760 --> 02:58:37,960
+But you set store wherever our codes are,
+restore all the programs on.
+
+2056
+02:58:37,960 --> 02:58:39,920
+SIRC because
+
+2057
+02:58:40,200 --> 02:58:46,640
+I'm going to tell you that.
+
+2058
+02:58:46,640 --> 02:58:48,840
+So let me quickly answer that question.
+
+2059
+02:58:48,840 --> 02:58:52,240
+So the question now here is that
+
+2060
+02:58:54,520 --> 02:58:56,160
+let's say
+
+2061
+02:59:00,000 --> 02:59:02,520
+this is our source
+
+2062
+02:59:02,520 --> 02:59:04,600
+and inside that we have
+
+2063
+02:59:06,240 --> 02:59:08,160
+different right
+
+2064
+02:59:08,160 --> 02:59:12,040
+Class one, Class two or class two, right?
+
+2065
+02:59:12,360 --> 02:59:18,120
+All the Java codes are inside that.
+
+2066
+02:59:18,120 --> 02:59:24,600
+Are you guys with me?
+
+2067
+02:59:24,600 --> 02:59:25,720
+Am I correct about this?
+
+2068
+02:59:25,720 --> 02:59:30,040
+Right inside source folders,
+we have class one, class to class.
+
+2069
+02:59:30,040 --> 02:59:33,320
+See what our packages
+you have created whatever there is.
+
+2070
+02:59:33,960 --> 02:59:38,320
+Okay, apart from that,
+let me create a bigger folder.
+
+2071
+02:59:38,320 --> 02:59:48,160
+Also let me call it Java basics.
+
+2072
+02:59:48,160 --> 02:59:48,960
+Okay.
+
+2073
+02:59:49,440 --> 02:59:51,320
+So now
+
+2074
+02:59:52,760 --> 02:59:55,200
+apart from this RC, you have let's see
+
+2075
+02:59:55,200 --> 02:59:59,400
+some other folder of files, let's say bean
+
+2076
+03:00:00,360 --> 03:00:03,680
+or you know, some file that you have
+
+2077
+03:00:08,600 --> 03:00:10,720
+when you want to
+
+2078
+03:00:10,720 --> 03:00:14,160
+create a repository for your chords,
+
+2079
+03:00:14,720 --> 03:00:20,400
+you have option either
+to created inside SRT
+
+2080
+03:00:20,920 --> 03:00:25,080
+or inside class one or inside class two.
+
+2081
+03:00:25,080 --> 03:00:28,240
+But what will happen
+if you created inside class one?
+
+2082
+03:00:28,640 --> 03:00:31,440
+Let's say
+if you create this repository inside
+
+2083
+03:00:31,440 --> 03:00:35,640
+class one, it's
+
+2084
+03:00:35,640 --> 03:00:40,040
+only going to keep track of the codes
+which are in your class one
+
+2085
+03:00:41,080 --> 03:00:46,960
+right?
+
+2086
+03:00:46,960 --> 03:00:51,000
+If you created in class two,
+
+2087
+03:00:51,000 --> 03:00:55,400
+it will only keep track of your codes
+in class two.
+
+2088
+03:00:56,400 --> 03:00:56,720
+Okay.
+
+2089
+03:00:56,720 --> 03:01:01,840
+What if you created inside SIRC only?
+
+2090
+03:01:01,840 --> 03:01:15,160
+What if you created inside SIRC?
+
+2091
+03:01:15,160 --> 03:01:16,800
+Then it will.
+
+2092
+03:01:16,800 --> 03:01:21,920
+It will store everything which is inside
+SARS in class one, Class two class, three.
+
+2093
+03:01:22,440 --> 03:01:26,400
+Okay.
+
+2094
+03:01:26,400 --> 03:01:29,520
+What if I create our opposing tree inside
+
+2095
+03:01:29,640 --> 03:01:43,800
+our basics?
+
+2096
+03:01:43,800 --> 03:01:48,920
+What if I create the repository
+inside your business that it's to store
+
+2097
+03:01:48,960 --> 03:01:54,280
+everything which is contained
+inside our project, our basics, right?
+
+2098
+03:01:55,160 --> 03:01:57,960
+So we can create it inside class.
+
+2099
+03:01:57,960 --> 03:01:59,520
+We can create it inside class two.
+
+2100
+03:01:59,520 --> 03:02:03,200
+But the best practice
+for creating a repository
+
+2101
+03:02:03,200 --> 03:02:07,440
+is that you create the repository
+for the whole project
+
+2102
+03:02:07,680 --> 03:02:11,880
+right?
+
+2103
+03:02:11,880 --> 03:02:15,880
+So if I want to create repository
+for the whole project, where should I be
+
+2104
+03:02:15,880 --> 03:02:23,200
+creating it?
+
+2105
+03:02:23,200 --> 03:02:27,240
+Inside Java Basics, right?
+
+2106
+03:02:27,240 --> 03:02:29,760
+I should be creating it inside Jarvis's
+
+2107
+03:02:45,320 --> 03:02:47,000
+nine will
+
+2108
+03:02:47,000 --> 03:02:51,760
+automatically have everything
+which is inside SIRC inside.
+
+2109
+03:02:51,960 --> 03:02:55,160
+Then inside any text file
+
+2110
+03:02:55,160 --> 03:03:09,000
+that is due.
+
+2111
+03:03:09,000 --> 03:03:16,560
+Okay guys,
+so this concept is clear to you right?
+
+2112
+03:03:16,560 --> 03:03:19,560
+Okay, very good. Perfect.
+
+2113
+03:03:19,560 --> 03:03:24,000
+So now we need to learn the next steps.
+
+2114
+03:03:24,000 --> 03:03:25,840
+How to
+
+2115
+03:03:27,200 --> 03:03:28,400
+navigate
+
+2116
+03:03:28,400 --> 03:03:33,400
+to the folder where our Java project is.
+
+2117
+03:03:33,400 --> 03:03:34,480
+We already know that.
+
+2118
+03:03:34,480 --> 03:03:35,600
+I think we know.
+
+2119
+03:03:35,600 --> 03:03:37,040
+No, no, no, no.
+
+2120
+03:03:37,040 --> 03:03:39,240
+We don't need to spend time on it.
+
+2121
+03:03:39,240 --> 03:03:42,760
+We learned it right.
+
+2122
+03:03:42,760 --> 03:03:46,280
+The next step is how to create
+
+2123
+03:03:46,720 --> 03:03:49,360
+our repository.
+
+2124
+03:03:49,480 --> 03:03:51,640
+At that point
+
+2125
+03:03:54,240 --> 03:03:55,800
+and then
+
+2126
+03:03:56,520 --> 03:03:58,920
+how to store
+
+2127
+03:03:59,400 --> 03:04:01,680
+and save our cool
+
+2128
+03:04:02,400 --> 03:04:06,720
+in that repository.
+
+2129
+03:04:06,720 --> 03:04:07,720
+And that's it.
+
+2130
+03:04:07,720 --> 03:04:11,040
+Only two steps are left
+and then we will be able
+
+2131
+03:04:11,040 --> 03:04:25,680
+to store our goods inside that repository.
+
+2132
+03:04:25,680 --> 03:04:26,280
+Okay, guys.
+
+2133
+03:04:26,280 --> 03:04:38,160
+So this is what we will be covering
+tomorrow.
+
+2134
+03:04:38,160 --> 03:04:41,360
+Okay.
+
+2135
+03:04:41,360 --> 03:04:43,760
+But we're not done yet.
+We are not done yet.
+
+2136
+03:04:44,160 --> 03:04:45,400
+Wait, wait.
+
+2137
+03:04:45,400 --> 03:04:47,720
+Today, the last thing that we want to do
+
+2138
+03:04:53,080 --> 03:04:55,360
+before we end the session.
+
+2139
+03:04:55,360 --> 03:04:58,080
+No, just just 5 minutes.
+
+2140
+03:04:58,080 --> 03:05:11,400
+We want we have one task at hand.
+
+2141
+03:05:11,400 --> 03:05:13,520
+We still have 5 minutes, guys. 5 minutes?
+
+2142
+03:05:13,520 --> 03:05:15,120
+Only 5 minutes. Yeah.
+
+2143
+03:05:15,120 --> 03:05:18,760
+Just 57 will end after 5 minutes.
+
+2144
+03:05:19,680 --> 03:05:23,280
+Okay,
+so we still need to configure our target.
+
+2145
+03:05:23,280 --> 03:05:28,720
+So first, when we install get,
+we have done no configuring.
+
+2146
+03:05:28,720 --> 03:05:31,080
+We have, you know,
+
+2147
+03:05:31,080 --> 03:05:32,200
+we just install it.
+
+2148
+03:05:32,200 --> 03:05:35,040
+We have not to tell the get that.
+
+2149
+03:05:35,040 --> 03:05:36,480
+Who are we?
+
+2150
+03:05:36,480 --> 03:05:41,400
+What is our email address, what is the
+username password and stuff like that.
+
+2151
+03:05:41,400 --> 03:05:45,520
+Right.
+
+2152
+03:05:45,520 --> 03:05:47,560
+So we need to configure give
+
+2153
+03:05:48,640 --> 03:05:53,960
+and tell is then what is our username
+and what is our password?
+
+2154
+03:05:53,960 --> 03:05:57,480
+We have to do this for that.
+
+2155
+03:05:57,480 --> 03:06:00,360
+Also, we have commands
+
+2156
+03:06:03,320 --> 03:06:05,920
+which you guys will only run once
+
+2157
+03:06:16,080 --> 03:06:17,240
+when you install it.
+
+2158
+03:06:17,240 --> 03:06:19,960
+You only need to run these commands
+only once.
+
+2159
+03:06:20,880 --> 03:06:23,680
+Okay. We will be right through them.
+
+2160
+03:06:23,680 --> 03:06:28,560
+I guess it will take around 15 minutes,
+so let's postpone it for tomorrow.
+
+2161
+03:06:29,040 --> 03:06:31,560
+And I guess it's good to
+
+2162
+03:06:34,200 --> 03:06:37,840
+leave the lecture at this point.
+
+2163
+03:06:37,840 --> 03:06:38,760
+Okay.
+
+2164
+03:06:38,960 --> 03:06:41,720
+I was just testing You guys
+
+2165
+03:06:41,760 --> 03:06:44,320
+know I'll be sharing the coolness
+with you.
+
+2166
+03:06:44,320 --> 03:06:45,240
+I don't mind that.
+
+2167
+03:06:45,240 --> 03:06:49,000
+And let me show you one thing.
+
+2168
+03:06:49,000 --> 03:06:51,560
+I was telling you to not make notes.
+
+2169
+03:06:51,560 --> 03:06:51,920
+Right.
+
+2170
+03:06:51,920 --> 03:06:56,240
+So here's what I have for you guys, okay?
+
+2171
+03:06:56,240 --> 03:06:59,000
+Everything that I have written
+
+2172
+03:06:59,400 --> 03:07:01,320
+for even the less
+
+2173
+03:07:01,320 --> 03:07:03,720
+next lectures, I have written everything
+
+2174
+03:07:04,360 --> 03:07:09,640
+so you guys don't need to make notes
+and stuff.
+
+2175
+03:07:09,640 --> 03:07:12,720
+Okay, I'll be sharing
+the whole workflow with you
+
+2176
+03:07:13,160 --> 03:07:19,040
+and everything is going to be there.
+
+2177
+03:07:19,040 --> 03:07:21,120
+I'll share these notes also.
+
+2178
+03:07:21,120 --> 03:07:25,640
+And one thing that you have to do for me,
+make sure that before
+
+2179
+03:07:25,640 --> 03:07:30,400
+you come to the next class, revise
+
+2180
+03:07:30,400 --> 03:07:33,920
+everything that we learned today
+
+2181
+03:07:34,440 --> 03:07:37,360
+and, you know, try to practice
+
+2182
+03:07:39,400 --> 03:07:40,640
+to open up your
+
+2183
+03:07:40,640 --> 03:07:44,400
+terminals and navigate
+where your project is.
+
+2184
+03:07:44,400 --> 03:07:48,120
+So the homework shall be
+
+2185
+03:07:57,720 --> 03:07:59,840
+open your terminal and
+
+2186
+03:08:01,400 --> 03:08:05,600
+navigate to the folder
+
+2187
+03:08:06,800 --> 03:08:09,000
+where your
+
+2188
+03:08:09,000 --> 03:08:10,840
+Java basic
+
+2189
+03:08:14,720 --> 03:08:16,960
+or any other
+
+2190
+03:08:16,960 --> 03:08:22,880
+Java project is.
+
+2191
+03:08:22,880 --> 03:08:26,240
+List down the contents
+
+2192
+03:08:27,320 --> 03:08:29,640
+of the folder
+
+2193
+03:08:30,240 --> 03:08:33,400
+and. Take screenshot
+
+2194
+03:08:33,840 --> 03:08:37,080
+and post it and
+
+2195
+03:08:41,000 --> 03:08:42,920
+students channel
+
+2196
+03:08:48,160 --> 03:08:49,840
+number four
+
+2197
+03:08:50,760 --> 03:08:52,040
+and the second homework.
+
+2198
+03:08:52,040 --> 03:08:52,680
+Second homework.
+
+2199
+03:08:52,680 --> 03:08:55,800
+I'm going to you a dot to
+
+2200
+03:08:57,200 --> 03:08:59,640
+was to get the video
+
+2201
+03:09:02,840 --> 03:09:06,120
+I will be sharing
+
+2202
+03:09:12,720 --> 03:09:15,080
+some notes.
+
+2203
+03:09:15,080 --> 03:09:18,160
+I'm going to just upload them
+
+2204
+03:09:20,600 --> 03:09:22,360
+on the canvas right away.
+
+2205
+03:09:22,360 --> 03:09:25,120
+A video is going to be available to
+you guys
+
+2206
+03:09:25,120 --> 03:09:28,200
+a little bit later,
+but notes, I'll just put them on canvas.
+
+2207
+03:09:28,200 --> 03:09:30,960
+Okay.
+
+2208
+03:09:30,960 --> 03:09:34,640
+I'll be just sharing with you
+these text knowledge for now.
+
+2209
+03:09:34,960 --> 03:09:38,400
+The other ones
+I'll share with you after class tomorrow.
+
+2210
+03:09:38,640 --> 03:09:39,200
+Okay?
+
+2211
+03:09:39,200 --> 03:09:41,520
+Because there is some stuff
+that we still need to cover.
+
+2212
+03:09:41,520 --> 03:09:42,640
+I don't want you to,
+
+2213
+03:09:43,600 --> 03:09:47,080
+you know, mess up tense.
+
+2214
+03:09:47,080 --> 03:09:47,680
+Okay, guys.
+
+2215
+03:09:47,680 --> 03:09:49,560
+So I guess I'll see you tomorrow.
+
+2216
+03:09:49,560 --> 03:09:51,680
+I hope that
+
+2217
+03:09:52,160 --> 03:09:55,240
+today was a you guys enjoyed the class
+
+2218
+03:09:55,320 --> 03:09:58,440
+and had fun.
+
+2219
+03:09:58,440 --> 03:09:59,040
+Yeah.
+
+2220
+03:09:59,040 --> 03:10:03,160
+Anyone who still wants to stay here and,
+
+2221
+03:10:04,560 --> 03:10:05,640
+you know,
+
+2222
+03:10:06,280 --> 03:10:09,640
+I'm just going to walk you through
+
+2223
+03:10:10,200 --> 03:10:11,280
+the steps.
+
+2224
+03:10:11,280 --> 03:10:14,080
+If someone missed that, I can repeat that
+
+2225
+03:10:16,280 --> 03:10:18,800
+dressed as we won't be carrying anything.
+
+2226
+03:10:18,800 --> 03:10:23,400
+You any recommendation for the videos
+I should watch.
+
+2227
+03:10:23,400 --> 03:10:25,520
+I'll be showing you the video.
+
+2228
+03:10:25,520 --> 03:10:26,880
+I'll be sharing the videos with you.
+
+2229
+03:10:26,880 --> 03:10:27,760
+Don't worry.
+
+2230
+03:10:29,040 --> 03:10:30,760
+Okay? Okay, guys.
+
+2231
+03:10:30,760 --> 03:10:32,760
+Good night, everyone,
+
+2232
+03:10:33,520 --> 03:10:35,680
+and I'll see you tomorrow.
+
+2233
+03:10:35,680 --> 03:10:39,520
+So, who was there all?

@@ -1,0 +1,9480 @@
+﻿1
+00:07:07,840 --> 00:07:08,200
+Okay.
+
+2
+00:07:08,200 --> 00:07:10,640
+Hello. One.
+
+3
+00:07:14,120 --> 00:07:16,760
+Hi. I am Lily, Jimmy
+
+4
+00:07:17,760 --> 00:07:18,800
+and Lena.
+
+5
+00:07:18,800 --> 00:07:20,920
+And Lena and Anna.
+
+6
+00:07:20,920 --> 00:07:26,640
+I am Lupo.
+
+7
+00:07:26,640 --> 00:07:29,840
+Okay, so first of all,
+are you guys able to hear me
+
+8
+00:07:29,840 --> 00:07:34,800
+out there?
+
+9
+00:07:34,800 --> 00:07:35,520
+Okay, perfect.
+
+10
+00:07:35,520 --> 00:07:40,760
+And you can see my screen, too, right?
+
+11
+00:07:40,760 --> 00:07:46,320
+And the video.
+
+12
+00:07:46,320 --> 00:07:47,880
+Okay, perfect.
+
+13
+00:07:47,880 --> 00:07:55,320
+Perfect.
+
+14
+00:07:55,320 --> 00:08:00,480
+Great, great, great.
+
+15
+00:08:00,480 --> 00:08:24,240
+Hola, Michael.
+
+16
+00:08:24,240 --> 00:08:25,320
+Are you talking about Michael?
+
+17
+00:08:25,320 --> 00:08:32,680
+Right? See?
+
+18
+00:08:32,680 --> 00:08:34,320
+Are you
+
+19
+00:08:34,840 --> 00:08:45,400
+Hispanic?
+
+20
+00:08:45,400 --> 00:08:49,480
+Okay,
+so, by the way, like you wrote Hispanic.
+
+21
+00:08:49,480 --> 00:08:58,200
+So I write it like his panic.
+
+22
+00:08:58,200 --> 00:09:05,520
+So Michael is panicking right now.
+
+23
+00:09:05,520 --> 00:09:07,800
+Okay, So let's see.
+
+24
+00:09:08,440 --> 00:09:11,720
+Still 55 students.
+
+25
+00:09:11,720 --> 00:09:14,960
+We need to wait,
+I guess, for two, 3 minutes.
+
+26
+00:09:14,960 --> 00:09:17,720
+I mentioned that you guys should be
+
+27
+00:09:19,080 --> 00:09:20,720
+joining
+
+28
+00:09:21,240 --> 00:09:23,760
+Shark, but
+
+29
+00:09:24,920 --> 00:09:26,240
+let's wait for two more months
+
+30
+00:09:26,240 --> 00:09:28,320
+and then we'll start the session today.
+
+31
+00:09:29,440 --> 00:09:31,760
+We will be spending less time
+
+32
+00:09:31,760 --> 00:09:35,200
+chatting and in breaks
+because we got a lot of stuff to cover.
+
+33
+00:09:36,280 --> 00:09:39,360
+And that's the reason
+
+34
+00:09:39,480 --> 00:09:49,400
+today we'll be doing a lot of work.
+
+35
+00:09:49,400 --> 00:09:51,000
+Yeah, actually, that's the problem.
+
+36
+00:09:51,000 --> 00:10:12,880
+Confused between evening and morning,
+right?
+
+37
+00:10:12,880 --> 00:10:13,920
+Yeah, same here.
+
+38
+00:10:13,920 --> 00:10:16,080
+I'm even confused about the days. Right.
+
+39
+00:10:16,400 --> 00:10:18,280
+You know, these days.
+
+40
+00:10:18,280 --> 00:10:20,880
+Okay. Which days? Today.
+
+41
+00:10:20,880 --> 00:10:22,520
+And today's Wednesday, right?
+
+42
+00:10:22,520 --> 00:10:27,760
+Yeah, today's the second in the last class
+with you.
+
+43
+00:10:27,760 --> 00:10:30,640
+Right.
+
+44
+00:10:30,640 --> 00:10:32,840
+Well, I suppose
+
+45
+00:10:33,720 --> 00:10:39,840
+this is how it is supposed to be,
+but let's see.
+
+46
+00:10:40,440 --> 00:10:45,200
+Oh, I think that maybe we will be needing
+one more class for debt
+
+47
+00:10:46,240 --> 00:10:50,400
+and we will see how today's session go.
+
+48
+00:10:50,400 --> 00:10:53,880
+And then I'll let you know
+if I need to extend one class
+
+49
+00:10:53,880 --> 00:10:57,840
+or we are going to be good for, you know.
+
+50
+00:10:57,840 --> 00:10:59,560
+Yeah, but no, don't worry.
+
+51
+00:10:59,560 --> 00:11:04,080
+I'll, I'll be there with you and,
+you know, coming classes
+
+52
+00:11:04,440 --> 00:11:09,080
+all the most really teaching
+you selenium and all.
+
+53
+00:11:09,080 --> 00:11:13,080
+So I'll be taking classes for good again
+
+54
+00:11:13,640 --> 00:11:16,320
+when you are done with, you know, test
+
+55
+00:11:16,320 --> 00:11:19,560
+energy and cucumber.
+
+56
+00:11:19,560 --> 00:11:23,360
+So get totally comprises of seven classes
+
+57
+00:11:23,880 --> 00:11:27,960
+and 2 to 3 are
+before you know in the start of that
+
+58
+00:11:27,960 --> 00:11:31,200
+and the rest of your
+classes we schedule after
+
+59
+00:11:32,280 --> 00:11:32,880
+once you have
+
+60
+00:11:32,880 --> 00:11:35,840
+recovered you know
+just energy and cucumber
+
+61
+00:11:36,240 --> 00:11:37,640
+and java
+
+62
+00:11:41,640 --> 00:11:44,520
+okay so yeah my timing was not correct.
+
+63
+00:11:44,520 --> 00:11:46,320
+I adjusted it today.
+
+64
+00:11:46,320 --> 00:11:49,080
+So that's why, you know, right now
+
+65
+00:11:50,200 --> 00:11:51,120
+you can slam.
+
+66
+00:11:51,120 --> 00:11:51,720
+I'm good.
+
+67
+00:11:51,720 --> 00:11:59,640
+How about you for on.
+
+68
+00:11:59,640 --> 00:12:04,120
+Okay, so let's wait one more minute
+and then we'll discuss the homework.
+
+69
+00:12:04,120 --> 00:12:09,840
+So tell me,
+how did you guys like all of you
+
+70
+00:12:09,840 --> 00:12:18,200
+try it out?
+
+71
+00:12:18,200 --> 00:12:18,480
+Okay.
+
+72
+00:12:18,480 --> 00:12:21,480
+Leena,
+I'm going to walk you through that. Okay.
+
+73
+00:12:21,480 --> 00:12:25,440
+So one thing
+I was just going to the homeworks
+
+74
+00:12:25,440 --> 00:12:29,440
+that you guys posted, students
+syntax tolerance gel.
+
+75
+00:12:29,480 --> 00:12:33,680
+One thing that I noticed is majority of
+you have done it right,
+
+76
+00:12:33,680 --> 00:12:38,680
+but majority of you actually, you know,
+you are in the wrong directories.
+
+77
+00:12:38,680 --> 00:12:42,480
+So I remember yesterday we discussed that
+
+78
+00:12:43,720 --> 00:12:46,880
+you need to decide
+where to you want to create a repository
+
+79
+00:12:46,880 --> 00:12:50,600
+and that should be the one that contains
+
+80
+00:12:50,600 --> 00:12:54,560
+all the files of your Java project.
+
+81
+00:12:54,560 --> 00:12:56,840
+Right. Okay.
+
+82
+00:12:56,920 --> 00:12:59,760
+This is what we discussed yesterday,
+
+83
+00:12:59,760 --> 00:13:01,880
+but a lot of you
+
+84
+00:13:01,880 --> 00:13:06,600
+I saw that went inside s rc
+and then you went inside.
+
+85
+00:13:06,840 --> 00:13:09,640
+You know com and then classes and there
+
+86
+00:13:09,640 --> 00:13:23,840
+you created a opposite free.
+
+87
+00:13:23,840 --> 00:13:26,200
+So was there any confusion about it?
+
+88
+00:13:26,240 --> 00:13:31,720
+Are you guys just, you know,
+
+89
+00:13:31,720 --> 00:13:44,600
+I did it by mistake.
+
+90
+00:13:44,600 --> 00:13:45,120
+That's
+
+91
+00:13:58,920 --> 00:14:00,040
+are you guys able to hear me?
+
+92
+00:14:00,040 --> 00:14:10,680
+Because I don't see any replies.
+
+93
+00:14:10,680 --> 00:14:13,080
+Okay, so I asked a question and
+
+94
+00:14:14,160 --> 00:14:28,960
+none of you replied, okay,
+so let me repeat.
+
+95
+00:14:29,640 --> 00:14:32,120
+I said that I was going to your homeworks
+
+96
+00:14:32,840 --> 00:14:35,440
+and I witnessed that a lot of
+
+97
+00:14:35,440 --> 00:14:37,680
+you have done it correctly, but
+
+98
+00:14:38,440 --> 00:14:42,680
+some of you have made this mistake
+that you chose
+
+99
+00:14:42,680 --> 00:14:46,080
+the wrong,
+wrong place to create a repository.
+
+100
+00:14:46,720 --> 00:14:49,320
+Like remember I mentioned that
+
+101
+00:14:49,560 --> 00:14:53,080
+we need to be careful
+where we want to create a repository.
+
+102
+00:14:53,400 --> 00:14:56,360
+It should be at the place where
+
+103
+00:14:56,360 --> 00:14:59,760
+all our Java codes are going to be so,
+
+104
+00:15:00,880 --> 00:15:01,440
+but a lot of
+
+105
+00:15:01,440 --> 00:15:05,600
+you, you did what you went inside,
+you know, S.R.
+
+106
+00:15:05,600 --> 00:15:08,400
+C then com
+and then you created the repository.
+
+107
+00:15:08,400 --> 00:15:17,040
+So this is what
+you were not supposed to do?
+
+108
+00:15:17,040 --> 00:15:19,040
+Yeah. I share your was correct.
+
+109
+00:15:19,040 --> 00:15:21,600
+So we so I think yours was also correct.
+
+110
+00:15:22,080 --> 00:15:25,120
+But some of you, you know,
+you had this mistake
+
+111
+00:15:25,320 --> 00:15:44,480
+but that's, that's completely fine.
+
+112
+00:15:44,480 --> 00:15:49,280
+Albertini I think if, if I mentioned,
+if I commented on that wrong
+
+113
+00:15:49,280 --> 00:15:50,160
+then means wrong.
+
+114
+00:15:50,160 --> 00:15:52,040
+If I did not comment, it means is correct.
+
+115
+00:15:52,040 --> 00:15:54,960
+Okay. Yes.
+
+116
+00:15:54,960 --> 00:16:01,560
+Today we will be learning
+how to create the opposite tree.
+
+117
+00:16:01,560 --> 00:16:03,600
+Yeah, I'll be going over to that.
+
+118
+00:16:04,000 --> 00:16:04,560
+Okay guys.
+
+119
+00:16:04,560 --> 00:16:06,680
+So I think that.
+
+120
+00:16:06,680 --> 00:16:06,960
+Yeah.
+
+121
+00:16:06,960 --> 00:16:09,720
+Michael, you you went with way too far.
+
+122
+00:16:09,720 --> 00:16:11,760
+You should have stopped that job.
+
+123
+00:16:11,760 --> 00:16:15,520
+Is it okay, So don't worry, guys.
+
+124
+00:16:15,520 --> 00:16:17,440
+Today we will be reviewing that too.
+
+125
+00:16:17,440 --> 00:16:19,800
+And I hope
+that it's going to get more clear.
+
+126
+00:16:20,160 --> 00:16:23,720
+Okay, So let's start our session
+and we will start by
+
+127
+00:16:23,920 --> 00:16:26,040
+what we learned yesterday.
+
+128
+00:16:26,040 --> 00:16:30,400
+So first of all, guys, why do we need good
+
+129
+00:16:45,840 --> 00:16:47,240
+well, perfect
+
+130
+00:16:47,960 --> 00:16:50,040
+to keep track of our
+
+131
+00:16:51,360 --> 00:16:53,280
+Java course or they can be in
+
+132
+00:16:53,280 --> 00:16:56,760
+any other language, too, right.
+
+133
+00:16:56,760 --> 00:17:11,640
+And now let's come up with the question,
+what is it?
+
+134
+00:17:11,640 --> 00:17:14,040
+And you'll get
+are you already answered it?
+
+135
+00:17:15,200 --> 00:17:19,000
+Git is a version control tool.
+
+136
+00:17:19,480 --> 00:17:21,800
+Why do we call get a volume control tool?
+
+137
+00:17:21,800 --> 00:17:25,200
+We discussed that because
+
+138
+00:17:25,200 --> 00:17:26,560
+when we added a code
+
+139
+00:17:26,560 --> 00:17:30,200
+every time it makes them amidst
+it creates a new version of it.
+
+140
+00:17:30,200 --> 00:17:31,040
+Right?
+
+141
+00:17:31,080 --> 00:17:34,040
+And in order to have those all versions
+
+142
+00:17:34,040 --> 00:17:39,760
+saved on our computer,
+we have a software which is good.
+
+143
+00:17:40,360 --> 00:17:41,840
+It keeps track of all of them.
+
+144
+00:17:41,840 --> 00:17:49,440
+That's why we call it a version
+control tool.
+
+145
+00:17:49,440 --> 00:17:51,400
+Okay, so
+
+146
+00:17:52,680 --> 00:17:55,400
+when UNIX commands,
+
+147
+00:17:55,400 --> 00:17:57,120
+we learn one by one.
+
+148
+00:17:57,120 --> 00:18:01,480
+What's the first command that we learn?
+
+149
+00:18:01,480 --> 00:18:03,400
+It's the first one is PWT.
+
+150
+00:18:04,440 --> 00:18:08,640
+What does it do?
+
+151
+00:18:08,640 --> 00:18:12,080
+Yeah, Who am I was not basically,
+you know, we won't be using that a lot.
+
+152
+00:18:12,720 --> 00:18:18,240
+So. Okay, so one by one, what does BW do?
+
+153
+00:18:19,400 --> 00:18:21,960
+Yeah,
+
+154
+00:18:21,960 --> 00:18:26,360
+exactly.
+
+155
+00:18:26,360 --> 00:18:30,560
+For the current location of terminal,
+
+156
+00:18:32,240 --> 00:18:38,040
+what's the second command
+that we learn less
+
+157
+00:18:38,040 --> 00:18:41,240
+and what does let's do
+
+158
+00:18:44,040 --> 00:18:49,640
+listed contents of the folder in which
+
+159
+00:18:50,960 --> 00:18:53,520
+terminal is an
+
+160
+00:18:54,920 --> 00:19:02,240
+okay third 1cd
+
+161
+00:19:03,720 --> 00:19:09,360
+folder name.
+
+162
+00:19:09,360 --> 00:19:16,800
+What does this do?
+
+163
+00:19:16,800 --> 00:19:20,040
+It moves the terminal
+
+164
+00:19:20,040 --> 00:19:22,280
+to the folder
+
+165
+00:19:22,280 --> 00:19:26,400
+we mentioned.
+
+166
+00:19:26,400 --> 00:19:29,120
+Okay, at this point
+I want to ask you guys one thing.
+
+167
+00:19:29,280 --> 00:19:35,040
+What if I write down D
+and after that I give a folder name
+
+168
+00:19:35,600 --> 00:19:39,360
+which is not currently present
+in the directory, which terminal is
+
+169
+00:19:39,640 --> 00:19:40,720
+which I really like.
+
+170
+00:19:40,720 --> 00:19:51,000
+Get Exactly.
+
+171
+00:19:51,000 --> 00:19:54,120
+It would tell me
+no such file or directory.
+
+172
+00:19:54,840 --> 00:19:59,720
+Is there.
+
+173
+00:19:59,720 --> 00:20:00,640
+Exactly.
+
+174
+00:20:00,640 --> 00:20:02,280
+So are you guys clear about this?
+
+175
+00:20:02,280 --> 00:20:06,360
+Right that whenever you do c, d
+and the folder name that
+
+176
+00:20:06,360 --> 00:20:10,680
+folder must be at that particular location
+where the terminal is
+
+177
+00:20:13,680 --> 00:20:14,840
+perfect.
+
+178
+00:20:15,880 --> 00:20:17,840
+So now the last command
+
+179
+00:20:17,840 --> 00:20:20,640
+sorry, the second last command that learn
+
+180
+00:20:20,640 --> 00:20:22,160
+to the dot dot.
+
+181
+00:20:22,160 --> 00:20:23,360
+Perfect
+
+182
+00:20:24,840 --> 00:20:27,240
+moves the terminal
+
+183
+00:20:27,480 --> 00:20:34,440
+one step back.
+
+184
+00:20:34,440 --> 00:20:36,920
+And the fifth one was
+
+185
+00:20:37,920 --> 00:20:38,720
+c d tilde.
+
+186
+00:20:38,720 --> 00:20:39,360
+Right.
+
+187
+00:20:39,680 --> 00:20:47,960
+What does this command do?
+
+188
+00:20:47,960 --> 00:20:50,600
+Moves the terminal
+
+189
+00:20:51,120 --> 00:20:53,800
+200. Perfect.
+
+190
+00:20:55,680 --> 00:20:56,640
+What is open day?
+
+191
+00:20:56,640 --> 00:20:57,920
+Three days
+
+192
+00:21:10,600 --> 00:21:11,920
+OC main directory
+
+193
+00:21:11,920 --> 00:21:29,480
+where it lives.
+
+194
+00:21:29,480 --> 00:21:32,200
+Okay, so hundred trees, the location
+
+195
+00:21:35,040 --> 00:21:35,720
+there
+
+196
+00:21:35,760 --> 00:21:43,120
+when we start our terminal,
+that is the location
+
+197
+00:21:44,080 --> 00:21:48,960
+where the terminal is by default
+
+198
+00:21:49,960 --> 00:21:52,320
+when we open it
+
+199
+00:21:58,040 --> 00:22:00,000
+is not the place where it is.
+
+200
+00:22:00,000 --> 00:22:00,800
+Okay?
+
+201
+00:22:00,800 --> 00:22:02,720
+Farhad It's not the place.
+
+202
+00:22:02,720 --> 00:22:04,200
+Forget is
+
+203
+00:22:07,440 --> 00:22:09,600
+it's the actually the location
+
+204
+00:22:09,880 --> 00:22:12,760
+where when you will open up your terminal.
+
+205
+00:22:13,240 --> 00:22:16,840
+The point from which it starts,
+this is called your home directory.
+
+206
+00:22:16,960 --> 00:22:17,720
+Okay?
+
+207
+00:22:17,720 --> 00:22:21,320
+You will not go in detail
+that what is the home directory right now?
+
+208
+00:22:21,600 --> 00:22:22,920
+Okay. Just, you know,
+
+209
+00:22:24,360 --> 00:22:26,280
+visualize it as such.
+
+210
+00:22:26,280 --> 00:22:27,240
+But now.
+
+211
+00:22:27,680 --> 00:22:28,160
+Okay.
+
+212
+00:22:28,160 --> 00:22:33,480
+So I guess anything else
+that we discussed, guys, any anything else
+
+213
+00:22:34,160 --> 00:22:37,080
+or is this all.
+
+214
+00:22:37,080 --> 00:22:38,880
+I think that's all
+
+215
+00:22:39,960 --> 00:22:40,560
+we learned.
+
+216
+00:22:40,560 --> 00:22:43,600
+We are command
+but that is just used to, you know,
+
+217
+00:22:44,480 --> 00:22:48,760
+clear the terminal.
+
+218
+00:22:48,760 --> 00:22:50,840
+And who am I told you
+
+219
+00:22:56,080 --> 00:23:01,640
+your name So.
+
+220
+00:23:01,640 --> 00:23:03,840
+Yeah, yeah, perfect.
+
+221
+00:23:03,880 --> 00:23:04,640
+We learned that.
+
+222
+00:23:04,640 --> 00:23:06,120
+What's our observatory?
+
+223
+00:23:06,120 --> 00:23:08,240
+Who can tell me that?
+
+224
+00:23:09,200 --> 00:23:24,720
+Very good.
+
+225
+00:23:24,720 --> 00:23:30,400
+Entered a storage.
+
+226
+00:23:30,400 --> 00:23:31,200
+Right.
+
+227
+00:23:31,720 --> 00:23:35,040
+And a let's get is a repository
+
+228
+00:23:35,040 --> 00:23:40,480
+right. It's
+
+229
+00:23:46,760 --> 00:23:47,840
+this video
+
+230
+00:23:47,840 --> 00:23:58,560
+repository.
+
+231
+00:23:58,560 --> 00:23:58,840
+Okay.
+
+232
+00:23:58,840 --> 00:24:03,680
+Get as vulnerable as a tree.
+
+233
+00:24:03,680 --> 00:24:04,520
+Okay, let's.
+
+234
+00:24:04,520 --> 00:24:07,800
+Let's.
+
+235
+00:24:07,800 --> 00:24:09,000
+Yeah.
+
+236
+00:24:09,000 --> 00:24:12,120
+Get is a tool that creates a repository.
+
+237
+00:24:12,120 --> 00:24:28,120
+So repository is actually part of get.
+
+238
+00:24:28,120 --> 00:24:28,600
+Yeah.
+
+239
+00:24:28,600 --> 00:24:31,600
+But the thing is that okay
+let me explain it to you
+
+240
+00:24:32,040 --> 00:24:33,640
+more clearly
+
+241
+00:24:34,640 --> 00:24:37,040
+get is Yeah
+
+242
+00:24:37,120 --> 00:24:41,880
+that example of minion I get that but
+that was just to clear out your concepts.
+
+243
+00:24:41,880 --> 00:24:46,800
+Actually when we install get that
+particular repository that is created,
+
+244
+00:24:46,800 --> 00:24:51,600
+get is the one who is managing it
+and doing every stop, right. So
+
+245
+00:24:52,560 --> 00:24:55,360
+if I talk
+about, you know, computer in computer
+
+246
+00:24:55,360 --> 00:24:58,280
+is not going to install
+a cover or something, right.
+
+247
+00:24:59,440 --> 00:25:02,000
+It there won't be any lock or something.
+
+248
+00:25:02,000 --> 00:25:07,400
+So it's just going to do what
+it's going to create a folder for you.
+
+249
+00:25:07,400 --> 00:25:10,480
+Write a separate folder on your hardest,
+which saves
+
+250
+00:25:10,480 --> 00:25:14,400
+all the data.
+
+251
+00:25:14,400 --> 00:25:19,480
+Do you agree?
+
+252
+00:25:19,480 --> 00:25:23,960
+Practically, there's not going to be
+any cylinder or locker in the computer
+
+253
+00:25:24,720 --> 00:25:27,400
+get is just going to create a folder
+
+254
+00:25:28,200 --> 00:25:32,960
+where it can, you know, actually
+save all the cores on your heart.
+
+255
+00:25:33,000 --> 00:25:39,240
+This.
+
+256
+00:25:39,240 --> 00:25:43,400
+Okay, So remember we talked about this.
+
+257
+00:25:43,400 --> 00:25:48,680
+We said get is up to let's say
+
+258
+00:25:49,920 --> 00:25:57,600
+version control to that
+
+259
+00:26:00,480 --> 00:26:02,240
+creates
+
+260
+00:26:03,960 --> 00:26:05,760
+a repository.
+
+261
+00:26:06,120 --> 00:26:08,720
+Okay so there is
+
+262
+00:26:08,720 --> 00:26:12,640
+this repository
+located on our machines, right.
+
+263
+00:26:12,640 --> 00:26:13,920
+So we can see that it's
+
+264
+00:26:15,400 --> 00:26:20,000
+local repository surfing.
+
+265
+00:26:20,000 --> 00:26:22,840
+This means that you guys
+did revise everything.
+
+266
+00:26:23,160 --> 00:26:26,280
+And I hope that you guys also watched
+the video
+
+267
+00:26:26,280 --> 00:26:31,440
+that I showed right?
+
+268
+00:26:31,440 --> 00:26:33,560
+Okay, good. Good enough.
+
+269
+00:26:33,560 --> 00:26:39,360
+Did you guys learn from it?
+
+270
+00:26:39,360 --> 00:26:40,320
+Okay, perfect.
+
+271
+00:26:40,320 --> 00:26:43,240
+So this means that today's class
+is going to go very smooth.
+
+272
+00:26:44,520 --> 00:26:46,080
+Okay, Have some. No worries.
+
+273
+00:26:46,080 --> 00:26:51,280
+You will be covering that in class on.
+
+274
+00:26:51,280 --> 00:26:52,120
+Okay.
+
+275
+00:26:52,640 --> 00:26:57,640
+So first of all, let's quickly
+start our review, our homework.
+
+276
+00:26:57,640 --> 00:27:00,440
+Can someone just based
+
+277
+00:27:00,440 --> 00:27:02,520
+based on homework and chat
+so that I can, you know,
+
+278
+00:27:03,520 --> 00:27:06,320
+show you that?
+
+279
+00:27:06,320 --> 00:27:06,560
+Sure.
+
+280
+00:27:06,560 --> 00:27:09,920
+If you your question
+is going to be answered as we move on.
+
+281
+00:27:09,920 --> 00:27:16,240
+Okay.
+
+282
+00:27:16,240 --> 00:27:17,560
+No, I need the question.
+
+283
+00:27:17,560 --> 00:27:20,600
+Let me go to post start.
+
+284
+00:27:20,600 --> 00:27:26,640
+Let's see the question is.
+
+285
+00:27:26,640 --> 00:28:02,080
+Yeah.
+
+286
+00:28:02,080 --> 00:28:07,720
+So the this
+so this is the question for homework and
+
+287
+00:28:09,120 --> 00:28:11,880
+that briefly you know
+
+288
+00:28:11,880 --> 00:28:18,040
+I just two settings on my PC.
+
+289
+00:28:18,040 --> 00:28:21,000
+The problem in Slack
+is that once you shift the channel,
+
+290
+00:28:21,080 --> 00:28:24,120
+it doesn't let you see the latest
+
+291
+00:28:24,120 --> 00:28:25,080
+comments. Okay.
+
+292
+00:28:25,080 --> 00:28:27,520
+Now I'm here for the purpose.
+
+293
+00:28:27,520 --> 00:28:28,320
+I know.
+
+294
+00:28:28,320 --> 00:28:31,920
+Just don't share your solution, guys
+that don't share your solutions.
+
+295
+00:28:31,920 --> 00:28:33,640
+I have seen them all. Trust me.
+
+296
+00:28:33,640 --> 00:28:39,240
+I went to the channel
+and I reviewed all your solutions.
+
+297
+00:28:39,240 --> 00:28:43,000
+Okay,
+so the first thing that I'm going to do is
+
+298
+00:28:44,280 --> 00:28:48,960
+I'll open up my clips right?
+
+299
+00:28:48,960 --> 00:28:53,240
+Because most probably right now
+I think I don't have any project.
+
+300
+00:28:54,840 --> 00:28:56,640
+So let's see if I have one
+
+301
+00:28:56,640 --> 00:29:05,760
+or not.
+
+302
+00:29:05,760 --> 00:29:15,600
+Yeah, clips.
+
+303
+00:29:15,600 --> 00:29:15,960
+Okay.
+
+304
+00:29:15,960 --> 00:29:20,800
+So I'll quickly just, you know, create
+one project because I reinstalled my clips
+
+305
+00:29:20,800 --> 00:29:25,120
+and I don't have that Java visit,
+so I'll create all of it.
+
+306
+00:29:26,080 --> 00:29:28,320
+You guys already have this project, right?
+
+307
+00:29:28,520 --> 00:29:49,040
+So you don't need to do it.
+
+308
+00:29:49,040 --> 00:29:51,360
+Okay,
+So let's look at the question that we had.
+
+309
+00:29:51,720 --> 00:29:56,600
+Open your terminal
+so simply, I'll go to search.
+
+310
+00:29:56,600 --> 00:29:59,760
+I'll open up my terminal.
+
+311
+00:29:59,760 --> 00:30:07,160
+Here it is.
+
+312
+00:30:07,160 --> 00:30:10,960
+Okay, Navigate to the folder where
+you want to create that your transit free.
+
+313
+00:30:11,280 --> 00:30:12,200
+And I mentioned that.
+
+314
+00:30:12,200 --> 00:30:14,600
+Make sure you select the correct
+directory.
+
+315
+00:30:15,120 --> 00:30:17,160
+You need to have it up
+as a tree in the folder.
+
+316
+00:30:17,160 --> 00:30:20,160
+All the files
+and folder of your Java project are
+
+317
+00:30:22,320 --> 00:30:23,080
+okay.
+
+318
+00:30:23,880 --> 00:30:25,720
+So what does this mean?
+
+319
+00:30:25,720 --> 00:30:27,840
+Where should I have my repository?
+
+320
+00:30:29,360 --> 00:30:29,680
+Which
+
+321
+00:30:41,240 --> 00:30:43,080
+we need to first of all, select
+
+322
+00:30:43,080 --> 00:30:46,440
+the point
+where we want to create a repository.
+
+323
+00:30:46,440 --> 00:30:49,320
+And I mentioned that it.
+
+324
+00:30:49,400 --> 00:30:53,240
+This folder should be the one
+which contains our Java project
+
+325
+00:30:53,240 --> 00:30:56,600
+and our Java project is in Eclipse. Right?
+
+326
+00:30:56,880 --> 00:31:00,480
+So first of all, what I'll do,
+I'll say, okay, this is the project
+
+327
+00:31:00,480 --> 00:31:06,040
+that I want to create a repository for,
+so I'll right click on it.
+
+328
+00:31:06,040 --> 00:31:07,400
+I'll go to properties
+
+329
+00:31:08,720 --> 00:31:10,320
+and I'll check the
+
+330
+00:31:10,320 --> 00:31:14,280
+location of this project.
+
+331
+00:31:14,280 --> 00:31:16,800
+So this is the location, right?
+
+332
+00:31:16,800 --> 00:31:21,160
+So this means that I need to create
+repository inside
+
+333
+00:31:22,480 --> 00:31:30,200
+Java base. It.
+
+334
+00:31:30,200 --> 00:31:33,760
+Okay, so now
+
+335
+00:31:35,160 --> 00:31:39,560
+I'll open up my terminal and I'll see that
+what's the current location?
+
+336
+00:31:39,560 --> 00:31:43,280
+So I'll do TWD
+
+337
+00:31:43,520 --> 00:31:46,800
+It says that it is in C users i.t user.
+
+338
+00:31:47,200 --> 00:31:49,440
+So what should be my next step?
+
+339
+00:31:50,520 --> 00:31:52,200
+What should I do?
+
+340
+00:31:52,680 --> 00:31:55,560
+I wanted to move to Atlas workspace,
+
+341
+00:31:56,920 --> 00:31:59,360
+so first I'll do else.
+
+342
+00:31:59,360 --> 00:32:03,240
+I'll see if eclipse workspace is in there.
+
+343
+00:32:03,240 --> 00:32:04,720
+Yes it is.
+
+344
+00:32:04,720 --> 00:32:06,120
+So now
+
+345
+00:32:09,480 --> 00:32:11,560
+if I wanted to move to Atlas Workspace,
+
+346
+00:32:11,560 --> 00:32:14,240
+I'll do CV at Lip's
+
+347
+00:32:15,240 --> 00:32:18,480
+Workspace.
+
+348
+00:32:18,480 --> 00:32:20,640
+Okay, good enough.
+
+349
+00:32:20,960 --> 00:32:23,040
+Now I want to do
+
+350
+00:32:23,040 --> 00:32:26,680
+pWt again to see if it has moved
+into Atlas Workspace.
+
+351
+00:32:26,680 --> 00:32:27,400
+It has.
+
+352
+00:32:29,200 --> 00:32:30,040
+The next thing that
+
+353
+00:32:30,040 --> 00:32:32,520
+I want to do is to move to Java Basic.
+
+354
+00:32:33,120 --> 00:32:36,240
+So else again
+
+355
+00:32:37,080 --> 00:32:38,480
+and Java Basic is there.
+
+356
+00:32:38,480 --> 00:32:39,800
+So I'll do
+
+357
+00:32:40,320 --> 00:32:41,080
+Java based.
+
+358
+00:32:41,080 --> 00:32:44,440
+It. Okay.
+
+359
+00:32:44,880 --> 00:32:48,120
+Now at this point I'll do PWT.
+
+360
+00:32:48,360 --> 00:32:51,400
+I'll see my terminal is inside
+
+361
+00:32:51,400 --> 00:32:56,840
+Java Basic, right?
+
+362
+00:32:56,840 --> 00:33:00,480
+Yes, Jamie, you can you can simply use
+
+363
+00:33:00,480 --> 00:33:03,640
+KDR also, but you will
+you should do that when you are exposed.
+
+364
+00:33:03,640 --> 00:33:04,360
+Okay.
+
+365
+00:33:04,360 --> 00:33:05,000
+In the start
+
+366
+00:33:05,000 --> 00:33:09,120
+I recommend that you use these commands
+so that you know, you get more of an idea.
+
+367
+00:33:09,120 --> 00:33:11,720
+You can skip that, obviously.
+
+368
+00:33:11,720 --> 00:33:14,240
+Okay, so now I am inside Java busy.
+
+369
+00:33:14,240 --> 00:33:15,360
+I'll do else.
+
+370
+00:33:15,360 --> 00:33:20,280
+And this is the place where my binary
+and source code are, right?
+
+371
+00:33:20,760 --> 00:33:25,680
+So we discussed yesterday
+that we should create a repository
+
+372
+00:33:27,000 --> 00:33:31,400
+where all our Java project
+files and codes are.
+
+373
+00:33:31,400 --> 00:33:34,600
+So should I go inside
+FRC and then creator of the
+
+374
+00:33:35,880 --> 00:33:37,320
+or should I
+
+375
+00:33:37,320 --> 00:33:39,480
+created at this particular point
+
+376
+00:33:45,520 --> 00:33:46,280
+created now?
+
+377
+00:33:46,280 --> 00:33:47,000
+Right.
+
+378
+00:33:47,600 --> 00:33:55,680
+Perfect.
+
+379
+00:33:55,680 --> 00:33:59,120
+Okay.
+
+380
+00:33:59,120 --> 00:34:02,520
+So that was the homework
+let's we'll continue our class
+
+381
+00:34:02,720 --> 00:34:31,320
+at from this point.
+
+382
+00:34:31,320 --> 00:34:35,320
+Okay so do you guys remember that
+we discussed yesterday
+
+383
+00:34:36,600 --> 00:34:40,920
+that whenever we want to store our codes,
+we will tell get to do that
+
+384
+00:34:40,920 --> 00:34:44,640
+and it is going to label
+it and place it in the repository.
+
+385
+00:34:44,640 --> 00:34:45,360
+Right?
+
+386
+00:34:45,600 --> 00:34:51,400
+So there is one small thing
+that we need to have in there.
+
+387
+00:34:52,080 --> 00:34:54,040
+We need to delegate that.
+
+388
+00:34:54,040 --> 00:34:58,200
+What is the
+who is the actual person who is
+
+389
+00:34:59,760 --> 00:35:02,240
+working right now
+
+390
+00:35:02,240 --> 00:35:05,720
+and what is the email address
+that he is using?
+
+391
+00:35:05,720 --> 00:35:08,720
+For example, let's say
+
+392
+00:35:08,720 --> 00:35:12,840
+there can be multiple users
+who are using the same system
+
+393
+00:35:12,840 --> 00:35:15,880
+and working with it.
+
+394
+00:35:15,880 --> 00:35:19,440
+So what they need to do,
+they have to configure it.
+
+395
+00:35:20,040 --> 00:35:23,600
+They have to pass their own users
+username and email address.
+
+396
+00:35:24,600 --> 00:35:27,120
+So the very first step that we have to do
+
+397
+00:35:27,120 --> 00:35:32,120
+is we need to configure git.
+
+398
+00:35:32,120 --> 00:35:33,960
+Don't worry about that hassle.
+
+399
+00:35:33,960 --> 00:35:35,760
+I'll explain it to you later.
+
+400
+00:35:35,760 --> 00:35:38,520
+So before we start using it,
+
+401
+00:35:38,520 --> 00:35:46,640
+we need to configure it.
+
+402
+00:35:46,640 --> 00:35:49,520
+This configuration
+is all only going to be done
+
+403
+00:35:49,720 --> 00:35:56,200
+once.
+
+404
+00:35:56,200 --> 00:35:59,200
+Once you have configured your get,
+you guys do
+
+405
+00:35:59,200 --> 00:36:02,240
+not need to consider it again
+
+406
+00:36:02,240 --> 00:36:04,960
+unless and until you uninstall it.
+
+407
+00:36:04,960 --> 00:36:05,400
+Okay.
+
+408
+00:36:05,400 --> 00:36:07,800
+Because you are the one
+who is working on your computer
+
+409
+00:36:07,800 --> 00:36:12,120
+and you will be continuously working on
+that just in case.
+
+410
+00:36:12,120 --> 00:36:16,000
+If you want to change your username
+password, then you, you may,
+
+411
+00:36:16,000 --> 00:36:19,800
+you know, change the configuration,
+
+412
+00:36:19,800 --> 00:36:23,760
+but else you won't need that.
+
+413
+00:36:23,760 --> 00:36:34,360
+So are you guys ready to configure, get?
+
+414
+00:36:34,360 --> 00:36:38,040
+Okay, so the first configuration is
+
+415
+00:36:55,920 --> 00:36:57,120
+to give our user name.
+
+416
+00:36:57,120 --> 00:37:00,800
+This can be done using the command
+
+417
+00:37:05,040 --> 00:37:08,080
+get configured
+
+418
+00:37:08,080 --> 00:37:12,040
+dash dash global
+
+419
+00:37:12,360 --> 00:37:14,560
+user name
+
+420
+00:37:14,920 --> 00:37:17,800
+and after that you are going to pass
+
+421
+00:37:17,800 --> 00:37:21,120
+and the user name
+
+422
+00:37:21,120 --> 00:37:25,680
+and whatever you want to.
+
+423
+00:37:25,680 --> 00:37:29,880
+Okay,
+
+424
+00:37:29,880 --> 00:37:33,000
+So I'm going to copy this command
+
+425
+00:37:34,000 --> 00:37:36,360
+and I'm going to paste it into life chat,
+
+426
+00:37:36,720 --> 00:37:39,120
+copy it and
+
+427
+00:37:39,440 --> 00:37:48,240
+along with me, open up your terminals.
+
+428
+00:37:48,240 --> 00:37:50,080
+Do not paste it yet, okay?
+
+429
+00:37:50,080 --> 00:37:59,680
+Do not paste it.
+
+430
+00:37:59,680 --> 00:38:05,440
+Have you guys open up your terminal?
+
+431
+00:38:05,440 --> 00:38:06,280
+Okay.
+
+432
+00:38:06,480 --> 00:38:09,800
+First of all, let's go to the home
+directory
+
+433
+00:38:11,360 --> 00:38:25,200
+using CD Tilde,
+let me know when you guys have done that.
+
+434
+00:38:25,200 --> 00:38:27,240
+No clear is just going to clear.
+
+435
+00:38:27,240 --> 00:38:30,240
+You know your terminal and two Tilde
+
+436
+00:38:30,240 --> 00:38:32,760
+is going to bring the term
+of that at home.
+
+437
+00:38:34,120 --> 00:38:35,440
+Okay. Now
+
+438
+00:38:37,320 --> 00:38:39,320
+you can paste the command
+
+439
+00:38:39,320 --> 00:38:43,080
+or, you know, type it manually, get config
+
+440
+00:38:45,360 --> 00:38:49,320
+dash, dash global
+
+441
+00:38:50,680 --> 00:38:53,760
+user dot name.
+
+442
+00:38:53,760 --> 00:38:57,360
+And then after that, in inverted
+
+443
+00:38:57,360 --> 00:39:00,480
+commas,
+you are going to give your own user name.
+
+444
+00:39:00,600 --> 00:39:01,320
+Okay.
+
+445
+00:39:01,320 --> 00:39:05,160
+So I have given my username
+
+446
+00:39:05,680 --> 00:39:11,280
+so you are going to write yours.
+
+447
+00:39:11,280 --> 00:39:13,320
+Once you have written this press enter
+
+448
+00:39:16,080 --> 00:39:17,000
+and let me know.
+
+449
+00:39:17,000 --> 00:39:19,640
+This command
+is not going to give you any output.
+
+450
+00:39:19,640 --> 00:39:20,360
+Okay.
+
+451
+00:39:20,400 --> 00:39:45,680
+So there should be no error, no output.
+
+452
+00:39:45,680 --> 00:39:47,880
+We need to give good
+
+453
+00:39:48,920 --> 00:40:04,280
+our email address.
+
+454
+00:40:04,280 --> 00:40:07,520
+I should write with small g
+
+455
+00:40:10,440 --> 00:40:11,760
+straight the screenshot.
+
+456
+00:40:11,760 --> 00:40:25,080
+I was sure the screenshot.
+
+457
+00:40:25,080 --> 00:40:25,360
+Okay.
+
+458
+00:40:25,360 --> 00:40:29,760
+So for that we have get on the dash. Dash
+
+459
+00:40:38,520 --> 00:40:41,000
+guys who are having issues in that.
+
+460
+00:40:41,000 --> 00:40:43,320
+Can you share your screenshot in support?
+
+461
+00:40:43,320 --> 00:40:46,800
+And also over here
+you need to show the screenshot to others.
+
+462
+00:40:46,800 --> 00:41:20,000
+I can not help you out.
+
+463
+00:41:20,000 --> 00:41:21,840
+Give me yours is good.
+
+464
+00:41:21,840 --> 00:41:33,480
+There's no I don't see a problem in there.
+
+465
+00:41:33,480 --> 00:41:36,640
+Do I make up user name or use user
+name from it?
+
+466
+00:41:37,200 --> 00:41:39,160
+You have to give
+
+467
+00:41:40,480 --> 00:41:41,400
+a user name.
+
+468
+00:41:41,400 --> 00:41:43,120
+It can be your own user name.
+
+469
+00:41:43,120 --> 00:41:46,320
+You need to make it up,
+but make sure that it
+
+470
+00:41:46,320 --> 00:41:50,200
+so you don't write one like writing one.
+
+471
+00:41:50,200 --> 00:41:54,360
+That said, I my own user name,
+you can give your nickname or whatever,
+
+472
+00:41:55,040 --> 00:41:56,400
+just don't type in user name.
+
+473
+00:41:56,400 --> 00:41:59,800
+Okay.
+
+474
+00:41:59,800 --> 00:42:02,720
+Helmet your problem is first of all,
+
+475
+00:42:03,200 --> 00:42:05,880
+I told you to do CD Tilde.
+
+476
+00:42:05,880 --> 00:42:09,360
+It was CD space that you did CD
+Tilde direction.
+
+477
+00:42:10,240 --> 00:42:10,800
+Okay.
+
+478
+00:42:10,800 --> 00:42:14,120
+The next problem
+is that you use get config
+
+479
+00:42:14,120 --> 00:42:17,360
+dash dash global user name
+and you give my user name.
+
+480
+00:42:17,360 --> 00:42:21,520
+Whereas I mentioned
+that you have to give your own user name.
+
+481
+00:42:22,640 --> 00:42:23,480
+Okay.
+
+482
+00:42:24,240 --> 00:42:35,640
+And that's your problem.
+
+483
+00:42:35,640 --> 00:42:36,160
+Okay.
+
+484
+00:42:36,160 --> 00:42:41,400
+So I see that
+what you guys are doing wrong.
+
+485
+00:42:41,400 --> 00:42:41,760
+Okay.
+
+486
+00:42:41,760 --> 00:42:47,760
+So stop
+everything about whatever you are doing.
+
+487
+00:42:47,760 --> 00:42:50,160
+Stop everything and listen to me, okay?
+
+488
+00:42:51,440 --> 00:42:53,000
+Give me one minute.
+
+489
+00:42:53,360 --> 00:42:54,240
+Everyone, please.
+
+490
+00:42:54,240 --> 00:42:57,280
+Please, guys, just stop typing and doing
+whatever you are.
+
+491
+00:42:57,760 --> 00:43:07,200
+Just just pay attention
+to what I'm going to say right now.
+
+492
+00:43:07,200 --> 00:43:14,880
+Do I have your attention?
+
+493
+00:43:14,880 --> 00:43:17,280
+Okay, Very good. Now, listen to me.
+
+494
+00:43:18,040 --> 00:43:20,200
+This is really easy, okay?
+
+495
+00:43:20,200 --> 00:43:22,160
+This stuff is actually very easy.
+
+496
+00:43:22,160 --> 00:43:24,760
+We are just doing configuration.
+
+497
+00:43:24,760 --> 00:43:29,960
+You will be making mistakes if you are not
+going to follow my instructions.
+
+498
+00:43:29,960 --> 00:43:31,480
+It's okay.
+
+499
+00:43:31,480 --> 00:43:33,840
+So just hear me out first.
+
+500
+00:43:33,840 --> 00:43:35,240
+I am sure that I'm speaking.
+
+501
+00:43:35,240 --> 00:43:37,240
+So I'm giving you time.
+
+502
+00:43:37,240 --> 00:43:41,520
+Hear me out First,
+make sure that your command on
+
+503
+00:43:41,520 --> 00:43:46,440
+desktop has run perfectly fine
+and then only follow the next step.
+
+504
+00:43:46,440 --> 00:43:50,120
+Okay. First of all,
+you need to hear me out.
+
+505
+00:43:50,160 --> 00:43:53,200
+So I'm going to do the configuration again
+for you guys.
+
+506
+00:43:53,520 --> 00:43:58,600
+And this time I really want you guys to,
+you know, keep up with me, okay?
+
+507
+00:43:58,800 --> 00:44:01,240
+We can do this together
+and we can quickly wrap this up.
+
+508
+00:44:02,960 --> 00:44:07,640
+Are we on?
+
+509
+00:44:07,640 --> 00:44:10,800
+Okay, so let's do it in this way.
+
+510
+00:44:11,040 --> 00:44:13,680
+Okay.
+
+511
+00:44:13,680 --> 00:44:17,880
+Let's let's close our terminals,
+Let everyone close their terminals.
+
+512
+00:44:18,080 --> 00:44:20,160
+Let's do it from scratch.
+
+513
+00:44:20,160 --> 00:44:22,520
+Okay. Close your terminals.
+
+514
+00:44:22,520 --> 00:44:26,160
+And now open it up.
+
+515
+00:44:26,160 --> 00:44:27,480
+Now open your terminals.
+
+516
+00:44:27,480 --> 00:44:41,560
+Let me know
+when you have opened your terminals.
+
+517
+00:44:41,560 --> 00:44:46,080
+Very good.
+
+518
+00:44:46,080 --> 00:44:46,840
+Very good. Okay.
+
+519
+00:44:46,840 --> 00:44:48,920
+Everyone is done with that. Now
+
+520
+00:44:49,920 --> 00:44:54,360
+we need to configure our using them right.
+
+521
+00:44:54,360 --> 00:44:58,080
+The command to do that is
+
+522
+00:44:58,080 --> 00:45:00,240
+git config dash
+
+523
+00:45:00,240 --> 00:45:04,400
+dash global user dot name.
+
+524
+00:45:04,400 --> 00:45:08,280
+And then in inverted commas
+you are going to give a user name
+
+525
+00:45:08,920 --> 00:45:11,520
+that you want.
+
+526
+00:45:11,680 --> 00:45:12,240
+Okay.
+
+527
+00:45:12,240 --> 00:45:15,200
+Now make sure that user name
+is not having spaces.
+
+528
+00:45:15,600 --> 00:45:18,160
+It can have space,
+but make sure it does not okay
+
+529
+00:45:19,560 --> 00:45:24,040
+and make sure that these spaces
+are also kept clear of this.
+
+530
+00:45:24,040 --> 00:45:27,000
+This is very sensitive,
+guys, these commander, very sensitive.
+
+531
+00:45:27,000 --> 00:45:29,120
+You cannot write them without spaces.
+
+532
+00:45:29,360 --> 00:45:33,240
+Okay, So you are going to have error
+if you are going to give spaces.
+
+533
+00:45:34,160 --> 00:45:38,280
+So what I'm going to do,
+I'm going to send this to you
+
+534
+00:45:38,280 --> 00:45:41,560
+as it is
+so that you do not make any mistake.
+
+535
+00:45:41,560 --> 00:45:44,760
+Okay, I'm going to send it to you,
+
+536
+00:45:46,560 --> 00:45:48,040
+but make
+
+537
+00:45:48,040 --> 00:45:51,760
+sure that you replace the user name
+that you want
+
+538
+00:45:52,200 --> 00:45:55,400
+with the correct user
+name of your own twice.
+
+539
+00:45:56,920 --> 00:45:59,520
+I'm going to do that also in front of you.
+
+540
+00:46:00,200 --> 00:46:02,680
+So I'll open up my terminal
+
+541
+00:46:03,560 --> 00:46:06,600
+and I'll paste this command over here.
+
+542
+00:46:08,000 --> 00:46:10,200
+Let me know when you have pasted
+this command.
+
+543
+00:46:10,720 --> 00:46:12,240
+Okay? Do not press enter.
+
+544
+00:46:12,240 --> 00:46:24,120
+Do not do anything else.
+
+545
+00:46:24,120 --> 00:46:27,960
+Now delete
+only the stuff that is between inverted
+
+546
+00:46:27,960 --> 00:46:44,080
+commas.
+
+547
+00:46:44,080 --> 00:46:44,400
+Okay.
+
+548
+00:46:44,400 --> 00:46:47,520
+Let them make sure
+that you do not make any syntax
+
+549
+00:46:47,520 --> 00:46:51,360
+mistake.
+
+550
+00:46:51,360 --> 00:46:52,080
+Okay.
+
+551
+00:46:52,160 --> 00:46:55,440
+After you have deleted it is anymore
+everyone still
+
+552
+00:46:55,440 --> 00:46:58,440
+this one's with me.
+
+553
+00:46:58,440 --> 00:47:00,720
+You guys have deleted everything and
+
+554
+00:47:01,600 --> 00:47:04,080
+between the inverted commas
+are we go to this point.
+
+555
+00:47:04,800 --> 00:47:09,400
+Now let's write down
+the user name of our own twice.
+
+556
+00:47:09,400 --> 00:47:12,800
+So my name is Muslim,
+so I'll be giving the user name
+
+557
+00:47:12,800 --> 00:47:18,760
+of my own name.
+
+558
+00:47:18,760 --> 00:47:20,520
+Yes, it is Dash. Dash Global.
+
+559
+00:47:20,520 --> 00:47:24,360
+I, I think that it's double dash
+but not showing
+
+560
+00:47:24,360 --> 00:47:30,840
+over here that it's double dash.
+
+561
+00:47:30,840 --> 00:47:33,840
+Okay. So yeah, I think
+
+562
+00:47:34,800 --> 00:47:37,320
+on pasting it did not show up right?
+
+563
+00:47:37,320 --> 00:47:39,720
+So we'll correct it.
+
+564
+00:47:39,720 --> 00:47:42,000
+Let me know
+when you guys have written down
+
+565
+00:47:42,000 --> 00:47:43,320
+the username
+
+566
+00:47:45,840 --> 00:47:46,640
+then.
+
+567
+00:47:46,680 --> 00:47:52,440
+Now make sure that this Dash global
+is actually dash dash.
+
+568
+00:47:52,440 --> 00:47:54,560
+Just make sure of that
+
+569
+00:47:57,920 --> 00:48:01,080
+after giving the name user name,
+just make sure that this is dash.
+
+570
+00:48:01,080 --> 00:48:01,440
+Dash.
+
+571
+00:48:01,440 --> 00:48:04,800
+I think in copying and pasting
+it did not go right.
+
+572
+00:48:06,720 --> 00:48:10,760
+Are we all good?
+
+573
+00:48:10,760 --> 00:48:16,200
+Is everyone has everyone
+to enter their username and this dashed
+
+574
+00:48:16,320 --> 00:48:19,440
+dash made this correction okay,
+
+575
+00:48:19,440 --> 00:48:22,440
+now let's press enter.
+
+576
+00:48:22,440 --> 00:48:25,800
+This camera should run without any output
+
+577
+00:48:26,640 --> 00:48:50,640
+and please do not do anything else.
+
+578
+00:48:50,640 --> 00:49:02,600
+Mohammad shared a screenshot.
+
+579
+00:49:02,600 --> 00:49:04,480
+Okay. Really good. Thank you guys.
+
+580
+00:49:04,480 --> 00:49:14,160
+See it and helped you write.
+
+581
+00:49:14,160 --> 00:49:16,880
+Now we know how to
+
+582
+00:49:16,920 --> 00:49:17,880
+you know
+
+583
+00:49:18,600 --> 00:49:20,520
+how the process should go.
+
+584
+00:49:20,520 --> 00:49:21,520
+Manmohan, I'm waiting for you.
+
+585
+00:49:21,520 --> 00:49:25,200
+Just simply share the screenshot.
+
+586
+00:49:25,200 --> 00:49:27,880
+Yeah, in notes it's
+
+587
+00:49:28,560 --> 00:49:31,680
+at least two,
+but it's actually combining them.
+
+588
+00:49:31,680 --> 00:49:36,040
+But I should do this.
+
+589
+00:49:36,040 --> 00:49:38,160
+Nice. I think more a
+
+590
+00:49:41,280 --> 00:49:43,440
+okay, so
+
+591
+00:50:13,400 --> 00:50:15,600
+decode was to have posted in the support.
+
+592
+00:50:15,640 --> 00:50:18,720
+Okay. It's not.
+
+593
+00:50:18,720 --> 00:50:19,040
+I did.
+
+594
+00:50:19,040 --> 00:50:19,880
+Come on
+
+595
+00:50:22,880 --> 00:50:24,360
+did call big.
+
+596
+00:50:24,360 --> 00:50:27,360
+Okay so you are having no space
+between configure
+
+597
+00:50:27,360 --> 00:50:29,640
+index dash global
+
+598
+00:50:30,880 --> 00:50:43,200
+gesture issue.
+
+599
+00:50:43,200 --> 00:50:46,080
+Okay guys. So make sure that you are
+having the correct spaces.
+
+600
+00:50:46,080 --> 00:50:46,400
+Come on.
+
+601
+00:50:46,400 --> 00:50:55,160
+It is simple, right?
+
+602
+00:50:55,160 --> 00:50:57,600
+Kazim. You can also follow, follow it.
+
+603
+00:50:57,600 --> 00:51:09,360
+Whatever we are doing, the
+
+604
+00:51:12,920 --> 00:51:14,280
+okay, so Mohammad,
+
+605
+00:51:14,280 --> 00:51:21,600
+you are not having a space in between
+configuring that as global.
+
+606
+00:51:21,600 --> 00:51:24,160
+Okay, So is there anyone on the support?
+
+607
+00:51:24,760 --> 00:51:27,320
+Let's see what caches there, I guess.
+
+608
+00:51:27,320 --> 00:51:30,600
+Okay, so gas, please help the student.
+
+609
+00:51:30,600 --> 00:51:34,120
+And I think I have spent
+a lot of time on this.
+
+610
+00:51:34,120 --> 00:51:36,200
+Guys. This this is simple, right?
+
+611
+00:51:37,160 --> 00:51:48,920
+So we need to move forward forward.
+
+612
+00:51:48,920 --> 00:51:50,960
+What is this output like?
+
+613
+00:51:51,560 --> 00:51:54,560
+Are you on your on your terminal
+
+614
+00:52:01,320 --> 00:52:05,160
+to open up your terminal again and
+
+615
+00:52:05,400 --> 00:52:10,840
+and show me the output?
+
+616
+00:52:10,840 --> 00:52:16,080
+It means that you have entered
+the wrong syntax
+
+617
+00:52:41,840 --> 00:52:43,160
+since
+
+618
+00:52:45,560 --> 00:52:47,680
+we are not going to do email part
+right now.
+
+619
+00:52:47,680 --> 00:52:52,600
+Guys, I don't want you to.
+
+620
+00:52:52,600 --> 00:52:56,280
+I don't want you guys to, you know,
+some of you lagging behind
+
+621
+00:52:56,280 --> 00:53:00,560
+and some of you moving ahead
+because this is just the starting of.
+
+622
+00:53:00,560 --> 00:53:04,200
+Yeah, I don't want you to be confused
+about it, so we'll move slow.
+
+623
+00:53:04,280 --> 00:53:08,240
+Okay.
+
+624
+00:53:08,240 --> 00:53:10,320
+How many of you are still having problem?
+
+625
+00:53:10,320 --> 00:53:12,680
+Raise
+your hand. Let's get to work quickly.
+
+626
+00:53:12,680 --> 00:53:14,440
+Okay, Let's go. Get over it.
+
+627
+00:53:14,440 --> 00:53:20,200
+To how many of you are having a problem?
+
+628
+00:53:20,200 --> 00:53:25,440
+One to anyone else.
+
+629
+00:53:25,440 --> 00:53:28,320
+Okay, fine.
+
+630
+00:53:28,320 --> 00:53:30,000
+Those of you are having a problem.
+
+631
+00:53:30,000 --> 00:53:31,240
+I'll do it again.
+
+632
+00:53:31,240 --> 00:53:34,280
+Just follow me
+very, very vigilantly. Okay?
+
+633
+00:53:35,480 --> 00:53:35,960
+Open up
+
+634
+00:53:35,960 --> 00:53:40,600
+your terminals.
+
+635
+00:53:40,600 --> 00:53:42,960
+Open up your terminal.
+
+636
+00:53:43,560 --> 00:53:46,960
+Once you have opened it up.
+
+637
+00:53:46,960 --> 00:53:51,920
+Now what you need to do.
+
+638
+00:53:51,920 --> 00:53:54,160
+I'll. I'll. I'll tell you.
+
+639
+00:53:54,160 --> 00:53:55,600
+Yeah. Open up your terminals. Right.
+
+640
+00:53:55,600 --> 00:53:59,520
+Everyone who was having problem.
+
+641
+00:53:59,520 --> 00:54:02,040
+Okay. Now
+
+642
+00:54:02,240 --> 00:54:04,080
+type in. Get
+
+643
+00:54:11,760 --> 00:54:14,560
+then give space,
+
+644
+00:54:14,560 --> 00:54:16,680
+then confirm
+
+645
+00:54:28,600 --> 00:54:31,320
+after config again space.
+
+646
+00:54:31,320 --> 00:54:40,840
+Then you need to type in dash dash.
+
+647
+00:54:40,840 --> 00:54:47,520
+Then you have to write for space Global.
+
+648
+00:54:47,520 --> 00:54:50,440
+Then you need to give space
+and type in user dot
+
+649
+00:54:52,520 --> 00:54:53,880
+name.
+
+650
+00:54:53,880 --> 00:54:57,840
+And then after that inverted commas
+
+651
+00:54:58,880 --> 00:55:00,920
+you have to give your user name.
+
+652
+00:55:00,920 --> 00:55:04,200
+And I mentioned that
+please do not have space
+
+653
+00:55:04,200 --> 00:55:07,680
+in your user name,
+
+654
+00:55:07,680 --> 00:55:10,560
+so I'll give the user name
+
+655
+00:55:12,480 --> 00:55:14,760
+and I'll closed in what it comments.
+
+656
+00:55:15,360 --> 00:55:16,280
+Okay.
+
+657
+00:55:16,440 --> 00:55:30,640
+Now press enter.
+
+658
+00:55:30,640 --> 00:55:39,840
+Okay.
+
+659
+00:55:39,840 --> 00:55:42,960
+Now we need to configure our email address
+also.
+
+660
+00:55:43,680 --> 00:55:45,760
+Let's quickly do that Tenga.
+
+661
+00:55:46,320 --> 00:55:50,520
+See your you guys will be making just this
+index mistake.
+
+662
+00:55:50,520 --> 00:55:53,880
+Please, please make sure
+that you are not making any mistake.
+
+663
+00:55:54,120 --> 00:55:55,080
+I have written everything.
+
+664
+00:55:55,080 --> 00:55:58,680
+If there is an error, make sure
+that you are writing the correct syntax.
+
+665
+00:55:58,680 --> 00:56:00,480
+Andrew.
+Your error is going to get resolved.
+
+666
+00:56:00,480 --> 00:56:01,720
+Don't panic.
+
+667
+00:56:01,720 --> 00:56:04,560
+Daunting
+that okay. It's not working for me.
+
+668
+00:56:04,560 --> 00:56:05,760
+What should I do?
+
+669
+00:56:05,760 --> 00:56:09,920
+Just make sure that you are writing down,
+you know,
+
+670
+00:56:10,320 --> 00:56:20,720
+the correct syntax.
+
+671
+00:56:20,720 --> 00:56:22,680
+Yeah. Just take a deep breath. Okay.
+
+672
+00:56:22,680 --> 00:56:25,200
+So now the next command that we have
+is did
+
+673
+00:56:26,040 --> 00:56:29,760
+config dash, dash global
+
+674
+00:56:31,720 --> 00:56:37,360
+email dot address.
+
+675
+00:56:37,360 --> 00:56:38,000
+No. No.
+
+676
+00:56:38,000 --> 00:56:43,280
+Its user dot email.
+
+677
+00:56:43,280 --> 00:56:47,520
+And then you need to in place of your
+
+678
+00:56:48,720 --> 00:56:53,400
+user name,
+you need to now give your valid email.
+
+679
+00:56:53,400 --> 00:56:57,480
+So I'm going to give my world an email
+
+680
+00:56:58,680 --> 00:57:00,880
+and you are going to give your own valid
+
+681
+00:57:00,880 --> 00:57:04,200
+email.
+
+682
+00:57:04,200 --> 00:57:05,480
+Answered that assignment.
+
+683
+00:57:05,480 --> 00:57:10,160
+Don't worry.
+
+684
+00:57:10,160 --> 00:57:12,520
+After that press enter.
+
+685
+00:57:12,520 --> 00:57:14,400
+Let me know when you are done with this.
+
+686
+00:57:14,400 --> 00:57:15,080
+Come on guys.
+
+687
+00:57:15,080 --> 00:57:19,360
+It should be real quick now because it's
+the same one as you typed above.
+
+688
+00:57:19,480 --> 00:57:26,520
+Just its user dot email.
+
+689
+00:57:26,520 --> 00:57:27,640
+Okay, good.
+
+690
+00:57:28,680 --> 00:57:30,640
+So what does this do?
+
+691
+00:57:30,640 --> 00:57:34,640
+We are telling it that
+whatever caused you were will be saving.
+
+692
+00:57:35,400 --> 00:57:39,720
+You need to mark them by my username
+and by email.
+
+693
+00:57:39,800 --> 00:57:40,160
+Okay.
+
+694
+00:57:40,160 --> 00:57:42,720
+So this is the
+just the basic configuration that we made.
+
+695
+00:57:42,920 --> 00:57:44,080
+It's a one time thing.
+
+696
+00:57:44,080 --> 00:57:46,200
+You will not be doing it ever again.
+
+697
+00:57:47,040 --> 00:57:58,680
+Okay.
+
+698
+00:57:58,680 --> 00:58:00,920
+Yeah, you are good. Go. Okay, perfect.
+
+699
+00:58:01,920 --> 00:58:02,640
+Ten got.
+
+700
+00:58:02,640 --> 00:58:04,440
+Now let's move forward.
+
+701
+00:58:04,440 --> 00:58:07,080
+Okay, guys. So
+
+702
+00:58:08,720 --> 00:58:11,560
+tracking our first project
+
+703
+00:58:12,120 --> 00:58:15,480
+using get.
+
+704
+00:58:15,480 --> 00:58:19,760
+So let's start the interesting part
+and which is start
+
+705
+00:58:19,760 --> 00:58:23,080
+to track our first project using it.
+
+706
+00:58:23,080 --> 00:58:25,120
+Okay.
+This was the configuration that we made.
+
+707
+00:58:25,680 --> 00:58:28,840
+Now, the first step that I need to do is
+
+708
+00:58:29,160 --> 00:58:31,320
+I need to open up my eclipse, right?
+
+709
+00:58:32,320 --> 00:58:35,280
+Because this is the place
+where my Java codes are
+
+710
+00:58:35,680 --> 00:58:44,200
+right?
+
+711
+00:58:44,200 --> 00:58:48,520
+Okay, so now
+
+712
+00:58:49,440 --> 00:58:51,680
+what should be my very first step
+
+713
+00:58:53,520 --> 00:59:00,560
+is who's going to tell me
+
+714
+00:59:00,560 --> 00:59:01,800
+the first step
+
+715
+00:59:23,200 --> 00:59:26,400
+is this first step to navigate my terminal
+
+716
+00:59:26,400 --> 00:59:29,680
+to the folder
+where I want to create the repository
+
+717
+00:59:29,680 --> 00:59:35,280
+right? So
+
+718
+00:59:37,400 --> 00:59:40,080
+this is my project,
+
+719
+00:59:40,080 --> 00:59:43,080
+Java visit, which I want to, you know,
+keep track of.
+
+720
+00:59:44,080 --> 00:59:47,520
+I'll open up properties
+
+721
+00:59:47,520 --> 00:59:49,920
+and this is the path
+to which I want to navigate.
+
+722
+00:59:50,560 --> 00:59:53,480
+So we have done it over and over again,
+guys.
+
+723
+00:59:53,480 --> 00:59:57,440
+So I want you to quickly be able
+to navigate to this point.
+
+724
+00:59:57,800 --> 00:59:59,920
+So I'll do PWT right now.
+
+725
+00:59:59,920 --> 01:00:02,960
+For me, it's it users outside c d
+
+726
+01:00:04,920 --> 01:00:07,720
+eclipse workspace
+
+727
+01:00:10,000 --> 01:00:12,360
+and then see the
+
+728
+01:00:12,360 --> 01:00:16,320
+Java basics.
+
+729
+01:00:16,320 --> 01:00:22,200
+And once I am inside Java, this is out
+to LS to make sure that bin and SRT ad
+
+730
+01:00:22,440 --> 01:00:26,880
+are there at this point.
+
+731
+01:00:26,880 --> 01:00:29,560
+For those of you
+who do not have Java visit,
+
+732
+01:00:30,040 --> 01:00:32,600
+you can go inside any project
+
+733
+01:00:32,600 --> 01:00:34,800
+that you have on your
+
+734
+01:00:36,080 --> 01:00:37,520
+eclipse.
+
+735
+01:00:37,520 --> 01:00:42,360
+Okay.
+
+736
+01:00:42,360 --> 01:00:46,120
+But make sure that you have reached
+the current location.
+
+737
+01:00:47,160 --> 01:00:47,480
+Okay.
+
+738
+01:00:47,480 --> 01:00:49,680
+Once you guys have done this, let me know.
+
+739
+01:00:49,920 --> 01:00:54,760
+I'm giving you one minute
+to reach this point so that we can,
+
+740
+01:00:54,920 --> 01:01:02,640
+you know, all work together.
+
+741
+01:01:02,640 --> 01:01:52,560
+Very good.
+
+742
+01:01:52,560 --> 01:01:55,440
+Auto capitalization
+is working at this point.
+
+743
+01:01:55,680 --> 01:01:57,240
+Start me.
+
+744
+01:01:57,240 --> 01:02:00,200
+Okay, so now I'll open up my terminal.
+
+745
+01:02:00,200 --> 01:02:03,880
+I know that my terminal is right now
+at the correct location.
+
+746
+01:02:03,880 --> 01:02:06,880
+I want to create a repository
+at that point.
+
+747
+01:02:06,880 --> 01:02:11,840
+So I simply use
+the common good space in it
+
+748
+01:02:19,000 --> 01:02:19,560
+and I'll
+
+749
+01:02:19,560 --> 01:02:24,600
+press enter.
+
+750
+01:02:24,600 --> 01:02:30,960
+Now I'll be shown a message
+initialized, empty, get repository
+
+751
+01:02:30,960 --> 01:02:35,280
+in c users i t users equity floor space
+
+752
+01:02:35,640 --> 01:02:52,800
+no job it don't get.
+
+753
+01:02:52,800 --> 01:02:53,160
+Okay.
+
+754
+01:02:53,160 --> 01:02:54,440
+Have you guys done this?
+
+755
+01:02:54,440 --> 01:02:55,800
+All of you
+
+756
+01:02:57,120 --> 01:03:02,360
+successfully initialized repository.
+
+757
+01:03:02,360 --> 01:03:06,360
+So running this command
+is going to make the repository over there
+
+758
+01:03:06,640 --> 01:03:08,280
+very simple and very easy.
+
+759
+01:03:08,280 --> 01:03:12,200
+Right.
+
+760
+01:03:12,200 --> 01:03:15,920
+And these serious
+being in the support. Okay
+
+761
+01:03:19,280 --> 01:03:19,640
+Michael
+
+762
+01:03:19,640 --> 01:03:22,640
+you are good
+it seems that initialized good repository.
+
+763
+01:03:22,640 --> 01:03:25,680
+Some of you may be seeing some hints
+and warnings.
+
+764
+01:03:25,680 --> 01:03:26,560
+Don't worry about that.
+
+765
+01:03:26,560 --> 01:03:58,760
+Okay.
+
+766
+01:03:58,760 --> 01:03:59,000
+Okay.
+
+767
+01:03:59,000 --> 01:04:03,120
+Once we have created the repository,
+now what we want, we want to
+
+768
+01:04:03,480 --> 01:04:07,080
+get to save our codes in that that one.
+
+769
+01:04:07,080 --> 01:04:07,680
+Right?
+
+770
+01:04:08,440 --> 01:04:19,000
+This is what we want.
+
+771
+01:04:19,000 --> 01:04:19,720
+Okay.
+
+772
+01:04:20,920 --> 01:04:26,880
+For that, we have just two commands.
+
+773
+01:04:26,880 --> 01:04:29,600
+Get add space dot
+
+774
+01:04:33,000 --> 01:04:36,720
+and the other command is
+
+775
+01:04:36,760 --> 01:04:39,360
+get comment
+
+776
+01:04:39,360 --> 01:04:43,600
+dash M along with a commit message
+that we have to make.
+
+777
+01:04:44,120 --> 01:04:47,240
+What is a commit commit is actually
+
+778
+01:04:47,360 --> 01:04:49,720
+saving our course to the repository.
+
+779
+01:04:50,240 --> 01:04:52,680
+Okay.
+
+780
+01:04:52,680 --> 01:04:54,520
+What is the comment
+
+781
+01:04:55,760 --> 01:04:59,520
+saving codes to the repository.
+
+782
+01:05:00,720 --> 01:05:03,480
+So whenever I see
+now that we need to make a commit,
+
+783
+01:05:03,480 --> 01:05:06,840
+what does this mean?
+
+784
+01:05:06,840 --> 01:05:11,400
+Is if you are having problems support,
+you need to post in support.
+
+785
+01:05:12,840 --> 01:05:15,040
+So whenever
+I see you need to break a commit,
+
+786
+01:05:15,040 --> 01:05:18,480
+it means that you need to save
+go to the repository.
+
+787
+01:05:19,440 --> 01:05:21,880
+Very good.
+
+788
+01:05:21,880 --> 01:05:24,120
+So now let's open up our terminal
+
+789
+01:05:26,480 --> 01:05:30,000
+and now let's do it.
+
+790
+01:05:30,960 --> 01:05:37,040
+Add space dot.
+
+791
+01:05:37,040 --> 01:05:41,520
+Make sure that there is space
+between get and add and add
+
+792
+01:05:41,520 --> 01:05:57,720
+and dot.
+
+793
+01:05:57,720 --> 01:06:06,200
+Let's press enter.
+
+794
+01:06:06,200 --> 01:06:09,960
+Don't worry about that
+if you like the master,
+
+795
+01:06:09,960 --> 01:06:12,720
+but I have not explain anything yet. Okay.
+
+796
+01:06:13,400 --> 01:06:16,080
+Just make sure that you are following me
+step by step.
+
+797
+01:06:16,160 --> 01:06:17,800
+You are not missing out on a step.
+
+798
+01:06:17,800 --> 01:06:23,080
+Only you have to make sure of that.
+
+799
+01:06:23,080 --> 01:06:25,800
+It may be different for, you know,
+
+800
+01:06:26,920 --> 01:06:28,560
+some of you and me.
+
+801
+01:06:28,560 --> 01:06:30,880
+That's totally fine.
+
+802
+01:06:30,880 --> 01:06:33,320
+This is because of,
+you know, different values and stuff.
+
+803
+01:06:33,320 --> 01:06:35,640
+I explain to you later.
+
+804
+01:06:36,000 --> 01:06:39,200
+Okay,
+so the next command that we discussed
+
+805
+01:06:39,200 --> 01:06:42,920
+in order to save our codes in
+repository is good comment.
+
+806
+01:06:44,080 --> 01:06:46,840
+Dash M with the message.
+
+807
+01:06:47,080 --> 01:06:50,160
+Let's first
+
+808
+01:06:50,640 --> 01:07:04,800
+comment.
+
+809
+01:07:04,800 --> 01:07:18,840
+Let me know
+when you guys have written this. Yes.
+
+810
+01:07:18,840 --> 01:07:19,600
+With space.
+
+811
+01:07:19,600 --> 01:07:22,320
+With space is everything
+should have space.
+
+812
+01:07:22,320 --> 01:07:27,120
+Get space command space, dash and space
+
+813
+01:07:27,360 --> 01:07:29,800
+in what it commands
+and in there commit message.
+
+814
+01:07:30,240 --> 01:07:33,040
+Now press enter.
+
+815
+01:07:33,040 --> 01:07:37,440
+You'll see something like this
+message master would come in
+
+816
+01:07:37,640 --> 01:07:40,680
+first command
+Something like this will appear.
+
+817
+01:07:42,120 --> 01:07:44,640
+Yes, that one dash not not double dash.
+
+818
+01:07:45,600 --> 01:07:46,440
+Okay.
+
+819
+01:07:46,440 --> 01:07:51,080
+This is the proof
+that you have successfully
+
+820
+01:07:51,080 --> 01:07:55,360
+saved your code in the repository.
+
+821
+01:07:55,360 --> 01:08:08,400
+So tell me, guys, is it difficult?
+
+822
+01:08:08,400 --> 01:08:09,640
+All right. So easy
+
+823
+01:08:11,880 --> 01:08:14,040
+now if you want to.
+
+824
+01:08:14,600 --> 01:08:17,240
+Okay, I'm leaning. Don't worry you.
+
+825
+01:08:17,240 --> 01:08:21,440
+I'll be going going over to it
+multiple times.
+
+826
+01:08:21,440 --> 01:08:25,080
+Just make sure that you get
+your issue resolved immediately.
+
+827
+01:08:26,440 --> 01:08:29,080
+Mine says authorized entity own unknown.
+
+828
+01:08:29,360 --> 01:08:32,960
+Yes. The manner that is because you
+I think you did not
+
+829
+01:08:33,240 --> 01:08:36,120
+maybe configure your good gate correctly.
+
+830
+01:08:36,480 --> 01:08:40,720
+Okay.
+
+831
+01:08:40,720 --> 01:08:41,240
+Okay guys.
+
+832
+01:08:41,240 --> 01:08:44,920
+So now if you want,
+get to show us everything
+
+833
+01:08:44,920 --> 01:08:47,320
+that it has saved in the repository.
+
+834
+01:08:48,160 --> 01:08:49,720
+We have a command for that.
+
+835
+01:08:49,720 --> 01:08:55,680
+Also.
+
+836
+01:08:55,680 --> 01:08:57,720
+And what is that command?
+
+837
+01:08:57,720 --> 01:09:18,080
+It is good space law.
+
+838
+01:09:18,080 --> 01:09:21,840
+So I want you guys to write down,
+get space log
+
+839
+01:09:21,840 --> 01:09:31,400
+and press, enter.
+
+840
+01:09:31,400 --> 01:09:33,360
+Now, do you see that?
+
+841
+01:09:33,360 --> 01:09:37,560
+It says that author is Muslims Hardy
+
+842
+01:09:38,560 --> 01:09:42,120
+whose email addresses this one
+
+843
+01:09:42,120 --> 01:09:44,840
+date is Wednesday October.
+
+844
+01:09:44,960 --> 01:09:48,000
+Whatever time you're
+
+845
+01:09:49,040 --> 01:09:50,280
+and along with the
+
+846
+01:09:50,280 --> 01:09:56,040
+message dated please.
+
+847
+01:09:56,040 --> 01:10:01,120
+So now do you see that
+what we discuss about get
+
+848
+01:10:01,200 --> 01:10:06,440
+how it's automatically doing that
+we just need to type in some commands
+
+849
+01:10:06,880 --> 01:10:09,480
+and it's going to take your everything,
+labeling them
+
+850
+01:10:09,480 --> 01:10:21,680
+and whatever.
+
+851
+01:10:21,680 --> 01:10:26,760
+Yes. And Maria, it's correct for you.
+
+852
+01:10:26,760 --> 01:10:28,280
+That's fine. That's fine.
+
+853
+01:10:28,280 --> 01:10:31,720
+If you are having other,
+you know, a lot of classes, that's fine.
+
+854
+01:10:31,720 --> 01:10:33,960
+The only thing is that
+
+855
+01:10:34,040 --> 01:10:43,760
+you should be displayed message.
+
+856
+01:10:43,760 --> 01:10:46,880
+Okay, Fatma, your problem is that
+you have not configured
+
+857
+01:10:47,040 --> 01:10:52,800
+your terminal correctly.
+
+858
+01:10:52,800 --> 01:11:05,720
+Jimmy Most probably because
+you have not considered it correctly.
+
+859
+01:11:05,720 --> 01:11:08,240
+Yeah. I think you, you did not do this
+crap.
+
+860
+01:11:08,760 --> 01:11:11,160
+Okay, so
+
+861
+01:11:11,520 --> 01:11:12,440
+what is this?
+
+862
+01:11:12,440 --> 01:11:15,960
+We will learning it
+
+863
+01:11:15,960 --> 01:11:17,560
+when we move out in the past.
+
+864
+01:11:17,560 --> 01:11:20,320
+Okay. So at this point
+I want to tell you guys something.
+
+865
+01:11:20,320 --> 01:11:22,720
+I just wanted to show it
+very quickly to you that.
+
+866
+01:11:22,720 --> 01:11:24,760
+Making permits in the repository
+
+867
+01:11:24,920 --> 01:11:27,280
+and by commit,
+I mean saving your codes in the app.
+
+868
+01:11:27,400 --> 01:11:29,000
+It is really simple.
+
+869
+01:11:29,000 --> 01:11:33,400
+So you guys get really comfortable
+when we move forward.
+
+870
+01:11:33,960 --> 01:11:37,680
+Now what we will be doing is
+we will be understanding that
+
+871
+01:11:37,800 --> 01:11:41,040
+how it's actually working at the back end,
+
+872
+01:11:41,400 --> 01:11:46,200
+you know,
+if if we know how to do something,
+
+873
+01:11:46,200 --> 01:11:50,720
+just, you know, without knowing in-depth
+that what is happening at the back end,
+
+874
+01:11:51,520 --> 01:11:56,080
+it's going to be really problematic for us
+when we don't deal with our stuff.
+
+875
+01:11:57,160 --> 01:11:59,880
+So it's important also to
+
+876
+01:12:00,320 --> 01:12:05,800
+learn that how the things are working
+when we are working with these commands.
+
+877
+01:12:06,080 --> 01:12:12,000
+Do you guys agree?
+
+878
+01:12:12,000 --> 01:12:14,160
+So we must learn that too.
+
+879
+01:12:14,480 --> 01:12:19,680
+We are going to jump into that and today
+we will be going over to this a lot,
+
+880
+01:12:19,680 --> 01:12:23,360
+making some bad comments,
+creating repository and, you know,
+
+881
+01:12:23,360 --> 01:12:27,440
+running these commands and again and again
+get add dot get come in.
+
+882
+01:12:28,120 --> 01:12:30,200
+We will be running these commands
+again and again.
+
+883
+01:12:30,200 --> 01:12:36,320
+So those of you who are still, you know,
+having struggling, do not panic, okay?
+
+884
+01:12:36,800 --> 01:12:38,320
+You will get along.
+
+885
+01:12:38,320 --> 01:12:40,640
+So let's do one thing at this point.
+
+886
+01:12:40,640 --> 01:12:42,240
+Let's go for a break.
+
+887
+01:12:42,240 --> 01:12:44,160
+And meanwhile
+
+888
+01:12:44,160 --> 01:12:47,240
+I can resolve, you know, help out students
+who are having difficulties.
+
+889
+01:12:47,240 --> 01:12:50,400
+And after the break, we'll continue
+with our lesson and will, you know,
+
+890
+01:12:51,160 --> 01:12:53,360
+try to learn everything else.
+
+891
+01:12:53,360 --> 01:12:55,480
+So are we good?
+
+892
+01:12:55,480 --> 01:13:03,240
+Let's let's go for a great guys
+for 15 minutes.
+
+893
+01:13:03,240 --> 01:13:06,000
+Okay. So I am your new great manager.
+
+894
+01:13:06,320 --> 01:13:11,720
+That role is, you know,
+now should be transferred to me.
+
+895
+01:13:11,720 --> 01:13:12,600
+Eight of five.
+
+896
+01:13:12,600 --> 01:13:27,680
+So let's meet at.
+
+897
+01:13:27,680 --> 01:13:29,120
+Yes. You mean you can.
+
+898
+01:13:29,120 --> 01:13:31,480
+Are you guys back?
+
+899
+01:13:31,480 --> 01:13:36,120
+I'm back from break.
+
+900
+01:13:36,120 --> 01:13:38,200
+Okay. Never left. Wow. Great.
+
+901
+01:13:38,440 --> 01:13:41,400
+Hardworking students. Good. Okay, guys. So
+
+902
+01:13:43,080 --> 01:13:43,680
+in the break,
+
+903
+01:13:43,680 --> 01:13:48,680
+I hope that everyone issues resolve
+and you guys are now have now successfully
+
+904
+01:13:48,680 --> 01:13:51,320
+configured your good
+and made the first comment
+
+905
+01:13:51,320 --> 01:13:54,240
+that is saving the codes in your app
+observatory.
+
+906
+01:13:54,240 --> 01:13:56,800
+I am I write about it
+
+907
+01:14:00,600 --> 01:14:01,360
+very good.
+
+908
+01:14:01,360 --> 01:14:07,320
+Very good.
+
+909
+01:14:07,320 --> 01:14:15,400
+Now we will be doing step by step.
+
+910
+01:14:15,400 --> 01:14:18,320
+Okay so attend to that.
+
+911
+01:14:18,560 --> 01:14:21,360
+I'm sorry, but your what you need to do is
+
+912
+01:14:21,360 --> 01:14:24,600
+you need to press control. See,
+
+913
+01:14:24,600 --> 01:14:26,520
+that is going to take you out of this.
+
+914
+01:14:26,520 --> 01:14:31,520
+And the command is actually get come
+a dash and push to make whatever you see.
+
+915
+01:14:31,520 --> 01:14:34,680
+This sign is actually my cursor
+that is being you know
+
+916
+01:14:34,760 --> 01:14:41,880
+displayed.
+
+917
+01:14:41,880 --> 01:14:42,440
+Okay, guys.
+
+918
+01:14:42,440 --> 01:14:46,080
+So anyone who is still having issues
+please support is the way to go.
+
+919
+01:14:46,080 --> 01:14:48,760
+Now We will be moving forward. Okay.
+
+920
+01:14:49,000 --> 01:14:52,560
+I'm still giving
+you guys support in the live chat
+
+921
+01:14:52,560 --> 01:14:55,520
+because this is just
+the starting of our class with kid
+
+922
+01:14:55,920 --> 01:14:59,080
+and you know, I don't want you guys
+anyone to be left behind.
+
+923
+01:14:59,080 --> 01:15:03,240
+I want all of you to be with me
+when I go into the actual concepts.
+
+924
+01:15:03,480 --> 01:15:08,400
+So now it is that time, and I hope
+that I did my best to bring you all
+
+925
+01:15:08,400 --> 01:15:11,440
+to the point where we can actually start,
+you know, the technical stuff.
+
+926
+01:15:12,120 --> 01:15:14,400
+So from now onwards,
+
+927
+01:15:15,120 --> 01:15:19,080
+please be very vigilant,
+be very attentive.
+
+928
+01:15:19,240 --> 01:15:23,000
+I don't want you guys
+making any syntax mistake and
+
+929
+01:15:24,640 --> 01:15:26,040
+such kind of mistakes because
+
+930
+01:15:26,040 --> 01:15:30,240
+we have spent a lot of time on that
+and clearing that out by now.
+
+931
+01:15:30,240 --> 01:15:33,640
+It should be really you know, you guys,
+you guys should be comfortable with that.
+
+932
+01:15:34,320 --> 01:15:34,880
+Okay.
+
+933
+01:15:34,880 --> 01:15:38,040
+So whatever I do you have to follow that.
+
+934
+01:15:38,040 --> 01:15:39,680
+You guys have to follow that. Okay.
+
+935
+01:15:39,680 --> 01:15:42,120
+And you have to understand
+what I'm telling you.
+
+936
+01:15:42,840 --> 01:15:47,000
+So I'm going to close this terminal
+
+937
+01:15:47,000 --> 01:15:55,320
+and I want you guys also to do the same.
+
+938
+01:15:55,320 --> 01:16:02,360
+Yes. Regarding as long as I'm recording.
+
+939
+01:16:02,360 --> 01:16:03,960
+So let me know when you have closed it.
+
+940
+01:16:03,960 --> 01:16:05,160
+Okay, good.
+
+941
+01:16:05,800 --> 01:16:08,240
+Now open up
+
+942
+01:16:08,240 --> 01:16:19,560
+your eclipse.
+
+943
+01:16:19,560 --> 01:16:22,440
+Have you guys open up your eclipse?
+
+944
+01:16:22,440 --> 01:16:23,160
+Done.
+
+945
+01:16:23,400 --> 01:16:25,720
+Okay, so here's what we are going to do.
+
+946
+01:16:25,720 --> 01:16:31,160
+We will be creating a new project,
+a new Java project from scratch,
+
+947
+01:16:31,560 --> 01:16:34,320
+and we will write down some code in it
+
+948
+01:16:34,520 --> 01:16:39,240
+and then we will track it using get. Why?
+
+949
+01:16:39,240 --> 01:16:40,400
+Because I want that.
+
+950
+01:16:40,400 --> 01:16:42,840
+All of you should have that project. Okay.
+
+951
+01:16:43,800 --> 01:16:46,800
+So right now let's pick on file
+
+952
+01:16:47,440 --> 01:16:52,840
+New and then Java project.
+
+953
+01:16:52,840 --> 01:16:56,280
+I hope that by now you guys know
+how to create a Java project, right?
+
+954
+01:16:56,280 --> 01:16:57,560
+That's simple. So
+
+955
+01:17:05,520 --> 01:17:08,160
+let's give up the name, get
+
+956
+01:17:09,680 --> 01:17:32,400
+project.
+
+957
+01:17:32,400 --> 01:17:35,160
+Okay. So it says that. Yes.
+
+958
+01:17:35,520 --> 01:17:35,760
+Okay.
+
+959
+01:17:35,760 --> 01:17:39,720
+So did project with a lowercase,
+
+960
+01:17:39,720 --> 01:17:55,520
+which.
+
+961
+01:17:55,520 --> 01:17:56,400
+Okay.
+
+962
+01:17:56,520 --> 01:18:11,160
+Are you guys done to this point?
+
+963
+01:18:11,160 --> 01:18:13,320
+Jimmy It shows you new project.
+
+964
+01:18:13,320 --> 01:18:15,920
+You have to just flip on the I good.
+
+965
+01:18:16,320 --> 01:18:23,640
+Do you guys have this now on your system.
+
+966
+01:18:23,640 --> 01:18:27,280
+Okay so now let's do this
+
+967
+01:18:27,400 --> 01:18:29,640
+right click on our SIRC
+
+968
+01:18:29,640 --> 01:18:35,760
+and let's create a new class.
+
+969
+01:18:35,760 --> 01:18:54,600
+Right click on SIRC, new class.
+
+970
+01:18:54,600 --> 01:18:55,680
+No, no,
+
+971
+01:18:56,600 --> 01:18:57,040
+we can.
+
+972
+01:18:57,040 --> 01:18:59,080
+But you know, we are learning it.
+
+973
+01:18:59,080 --> 01:19:01,080
+We are not focusing right now on the
+
+974
+01:19:02,280 --> 01:19:03,480
+you know coding stuff.
+
+975
+01:19:03,480 --> 01:19:05,600
+It's just,
+you know, just creating a project.
+
+976
+01:19:05,600 --> 01:19:07,680
+So just go with the class right away.
+
+977
+01:19:08,760 --> 01:19:11,400
+Let's do it.
+
+978
+01:19:11,400 --> 01:19:11,760
+Good.
+
+979
+01:19:11,760 --> 01:19:12,840
+You want
+
+980
+01:19:24,000 --> 01:19:25,000
+okay.
+
+981
+01:19:25,400 --> 01:19:27,720
+And let's click on finished
+
+982
+01:19:46,480 --> 01:19:51,000
+get zero one.
+
+983
+01:19:51,000 --> 01:19:59,880
+You can limit any anything you want to.
+
+984
+01:19:59,880 --> 01:20:04,040
+Okay, guys, I simply created a project,
+a Java project,
+
+985
+01:20:04,040 --> 01:20:05,760
+and I created one class in it.
+
+986
+01:20:05,760 --> 01:20:07,680
+Okay. Nothing else. It's simple.
+
+987
+01:20:07,680 --> 01:20:10,160
+You guys already have done it
+multiple times.
+
+988
+01:20:10,600 --> 01:20:12,080
+So I'm.
+
+989
+01:20:12,080 --> 01:20:16,080
+I'm supposing that you know, it.
+
+990
+01:20:16,080 --> 01:20:19,160
+Okay, so let's write down
+
+991
+01:20:19,560 --> 01:20:22,440
+a very, very, you know, basic code in it
+
+992
+01:20:23,480 --> 01:20:46,120
+actually.
+
+993
+01:20:46,120 --> 01:20:46,920
+Okay.
+
+994
+01:20:47,560 --> 01:20:50,040
+So I just wrote down system
+that out of print.
+
+995
+01:20:50,040 --> 01:20:53,280
+Alan Hello Joe Batch 11 Nothing difficult,
+
+996
+01:20:53,280 --> 01:21:09,000
+nothing complicated.
+
+997
+01:21:09,000 --> 01:21:11,760
+Okay, so now let's, you know,
+
+998
+01:21:12,520 --> 01:21:15,840
+let's assume
+that this is the code that we wrote
+
+999
+01:21:16,920 --> 01:21:19,680
+and now we want to
+
+1000
+01:21:19,680 --> 01:21:42,320
+track it.
+
+1001
+01:21:42,320 --> 01:21:43,080
+Okay?
+
+1002
+01:21:43,360 --> 01:21:48,920
+So in order to track this project,
+what should be my first step, guys?
+
+1003
+01:21:48,920 --> 01:21:51,240
+What should the first step?
+
+1004
+01:21:51,240 --> 01:21:52,560
+You only know it.
+
+1005
+01:21:52,560 --> 01:21:55,520
+We have done it like 15 to 16 times now.
+
+1006
+01:21:55,520 --> 01:22:03,120
+At least. Yes.
+
+1007
+01:22:03,560 --> 01:22:04,520
+Perfect. Miriam.
+
+1008
+01:22:04,520 --> 01:22:07,320
+Very good.
+
+1009
+01:22:07,320 --> 01:22:08,800
+Navigate.
+
+1010
+01:22:08,960 --> 01:22:09,560
+All right.
+
+1011
+01:22:09,560 --> 01:22:11,520
+Terminal
+
+1012
+01:22:12,840 --> 01:22:15,520
+two location there.
+
+1013
+01:22:15,840 --> 01:22:22,000
+We want to create the representing.
+
+1014
+01:22:22,000 --> 01:22:24,520
+So now I'm going to do this. How?
+
+1015
+01:22:24,520 --> 01:22:27,960
+First of all, I'll open up my eclipse.
+
+1016
+01:22:28,800 --> 01:22:30,240
+Then I will.
+
+1017
+01:22:30,240 --> 01:22:34,320
+Right on get project
+and I'll click on properties.
+
+1018
+01:22:34,920 --> 01:22:35,720
+Okay.
+
+1019
+01:22:35,800 --> 01:22:38,680
+Who is going to tell me that what I did so
+
+1020
+01:22:42,520 --> 01:22:43,560
+why did I do that?
+
+1021
+01:22:43,560 --> 01:22:46,000
+That I went to great project in my place.
+
+1022
+01:22:46,000 --> 01:22:48,960
+I clicked on properties and this
+
+1023
+01:22:48,960 --> 01:22:53,280
+because I want the location
+where my project is right
+
+1024
+01:22:54,000 --> 01:23:00,120
+Simple.
+
+1025
+01:23:00,120 --> 01:23:02,400
+Okay, so what should I do now?
+
+1026
+01:23:02,400 --> 01:23:04,960
+I want to navigate my terminal over here,
+
+1027
+01:23:05,320 --> 01:23:07,440
+so I'll open up my terminal
+
+1028
+01:23:21,120 --> 01:23:24,000
+pwt I two users.
+
+1029
+01:23:24,320 --> 01:23:25,920
+Alice
+
+1030
+01:23:26,640 --> 01:23:28,560
+Now for me it's Eclipse
+
+1031
+01:23:28,560 --> 01:23:33,560
+Workspace.
+
+1032
+01:23:33,560 --> 01:23:36,640
+Okay, I'm inside Atlas Workspace
+and now Ellis
+
+1033
+01:23:37,000 --> 01:23:40,880
+BWT again, I am inside it.
+
+1034
+01:23:40,880 --> 01:23:41,400
+Perfect.
+
+1035
+01:23:41,400 --> 01:23:46,640
+Now let's add in to see that I have
+the folder get project Angela Bissett.
+
+1036
+01:23:46,960 --> 01:23:49,680
+So now which command do I use to
+
+1037
+01:23:50,760 --> 01:23:52,680
+change my folder?
+
+1038
+01:23:52,680 --> 01:23:54,880
+What will be my command
+
+1039
+01:23:59,400 --> 01:24:01,440
+CV and what will be the name of folder?
+
+1040
+01:24:02,400 --> 01:24:05,160
+Yes, perfect CD
+
+1041
+01:24:05,160 --> 01:24:06,800
+Good project.
+
+1042
+01:24:06,800 --> 01:24:07,640
+Okay,
+
+1043
+01:24:08,680 --> 01:24:10,960
+now I'll do Ellis again.
+
+1044
+01:24:11,200 --> 01:24:15,160
+So guys, is this the right location
+where I want to create the repository
+
+1045
+01:24:15,160 --> 01:24:28,200
+repository?
+
+1046
+01:24:28,200 --> 01:24:32,000
+Yes, this is the right location
+because I want my repository
+
+1047
+01:24:32,000 --> 01:24:34,960
+to have everything
+which is inside this project.
+
+1048
+01:24:35,840 --> 01:24:41,960
+Okay, So
+
+1049
+01:24:41,960 --> 01:24:46,640
+now I'll also explain you guys,
+everything that is actually happening.
+
+1050
+01:24:46,640 --> 01:24:51,040
+I just closed that back
+pain lane to minimize eclipse and
+
+1051
+01:24:53,040 --> 01:24:53,760
+you know,
+
+1052
+01:24:54,960 --> 01:24:57,440
+I'll open up the whiteboard
+
+1053
+01:24:57,440 --> 01:24:59,360
+and I'll just draw some stuff
+
+1054
+01:24:59,360 --> 01:25:32,040
+for you, okay?
+
+1055
+01:25:32,040 --> 01:25:37,480
+So over here
+I will try to make you guys visualize
+
+1056
+01:25:37,480 --> 01:25:40,320
+what is actually happening at the back
+end of it.
+
+1057
+01:25:40,480 --> 01:25:42,400
+Okay.
+
+1058
+01:25:42,400 --> 01:25:46,120
+So if I open up quickly
+the location of my project
+
+1059
+01:25:46,120 --> 01:25:49,920
+and Explorer,
+uh, you guys don't need to do that.
+
+1060
+01:25:49,920 --> 01:25:51,000
+I'm just doing it.
+
+1061
+01:25:51,000 --> 01:25:51,720
+Show it to you.
+
+1062
+01:25:51,720 --> 01:25:57,600
+Okay.
+
+1063
+01:25:57,600 --> 01:25:59,800
+Okay. So this is what I get project.
+
+1064
+01:25:59,800 --> 01:26:02,720
+And over here, I have some files,
+
+1065
+01:26:02,720 --> 01:26:05,600
+dot settings been SA C-class bad
+
+1066
+01:26:05,600 --> 01:26:13,680
+dot project right.
+
+1067
+01:26:13,680 --> 01:26:17,200
+So I can copy dispatched
+
+1068
+01:26:17,280 --> 01:26:20,840
+and I can see that this folder is actually
+
+1069
+01:26:22,960 --> 01:26:25,160
+the current folder
+that we are dealing with
+
+1070
+01:26:30,560 --> 01:26:31,600
+and it has.
+
+1071
+01:26:31,600 --> 01:26:37,200
+Let me draw this
+folder buying binary file.
+
+1072
+01:26:37,200 --> 01:26:38,600
+Let's limit binary
+
+1073
+01:26:41,000 --> 01:26:43,640
+and the source file.
+
+1074
+01:26:43,880 --> 01:26:47,440
+And what other files do we have?
+
+1075
+01:26:47,440 --> 01:26:51,000
+Dark last that dark project and settings.
+
+1076
+01:26:51,600 --> 01:26:51,880
+Okay.
+
+1077
+01:26:51,880 --> 01:26:54,760
+For now, I'm just ignoring these files off
+
+1078
+01:26:54,960 --> 01:26:58,320
+with the extension dot flashback
+dot on dot settings.
+
+1079
+01:26:58,320 --> 01:27:03,360
+Okay.
+
+1080
+01:27:03,360 --> 01:27:07,840
+I'm just ignoring them.
+
+1081
+01:27:07,840 --> 01:27:14,160
+Are you guys with me?
+
+1082
+01:27:14,160 --> 01:27:23,360
+Very good.
+
+1083
+01:27:23,360 --> 01:27:26,680
+Okay, so we have moved our terminal
+to this location
+
+1084
+01:27:27,360 --> 01:27:31,160
+right?
+
+1085
+01:27:31,160 --> 01:27:34,120
+So what I'll do
+
+1086
+01:27:34,120 --> 01:27:36,520
+if I want to
+
+1087
+01:27:38,160 --> 01:27:42,560
+create a repository over here,
+what I'll do.
+
+1088
+01:27:42,560 --> 01:27:45,720
+Do you guys remember
+what was a step that we do
+
+1089
+01:27:47,920 --> 01:27:49,520
+get in it.
+
+1090
+01:27:49,520 --> 01:27:52,880
+So number two step is get in it
+
+1091
+01:27:53,840 --> 01:28:03,840
+to create a repository.
+
+1092
+01:28:03,840 --> 01:28:08,400
+So let me first show you that
+what will happen when we do get it.
+
+1093
+01:28:09,120 --> 01:28:12,200
+So let's say I run the command git in it
+
+1094
+01:28:16,200 --> 01:28:17,800
+as soon as
+
+1095
+01:28:21,240 --> 01:28:25,560
+I run the command, get it in this folder.
+
+1096
+01:28:25,800 --> 01:28:28,920
+What happened is there comes a new folder
+
+1097
+01:28:30,360 --> 01:28:32,280
+and this folder is
+
+1098
+01:28:32,280 --> 01:28:38,760
+dot git.
+
+1099
+01:28:38,760 --> 01:28:43,480
+As soon as I run
+the command, get in there,
+
+1100
+01:28:43,480 --> 01:28:48,240
+it creates git creates
+a new folder called DOT.
+
+1101
+01:28:48,240 --> 01:28:54,360
+Get in the location of my project.
+
+1102
+01:28:54,360 --> 01:28:55,640
+Is it understood?
+
+1103
+01:28:55,640 --> 01:28:56,400
+Yes. Sebastian.
+
+1104
+01:28:56,400 --> 01:29:02,000
+Just you know of giving you guys
+the concept.
+
+1105
+01:29:02,000 --> 01:29:08,360
+Okay, so let's do this
+
+1106
+01:29:08,360 --> 01:29:19,280
+and also visualize it.
+
+1107
+01:29:19,280 --> 01:29:23,040
+I'm going to type and get in it
+
+1108
+01:29:23,240 --> 01:29:28,400
+and I'll press enter.
+
+1109
+01:29:28,400 --> 01:29:28,720
+Okay.
+
+1110
+01:29:28,720 --> 01:29:31,000
+So I need to go to view
+
+1111
+01:29:31,760 --> 01:29:33,760
+and click on Hidden hidden items
+
+1112
+01:29:34,120 --> 01:29:37,120
+and then I'll see a dot git folder.
+
+1113
+01:29:37,120 --> 01:29:41,160
+It's hidden,
+so I have to make it visible view
+
+1114
+01:29:41,360 --> 01:29:44,000
+and then click on hidden items from Mac
+users.
+
+1115
+01:29:44,760 --> 01:29:45,960
+You can
+
+1116
+01:29:46,520 --> 01:29:50,760
+command Shift
+DOT is going to show you hidden files
+
+1117
+01:30:12,120 --> 01:30:12,720
+for hard.
+
+1118
+01:30:12,720 --> 01:30:15,320
+If if you created a new project
+
+1119
+01:30:15,600 --> 01:30:18,960
+and you never used git in it,
+then you should not be having it.
+
+1120
+01:30:19,080 --> 01:30:20,840
+Okay.
+
+1121
+01:30:20,840 --> 01:30:24,840
+It means that you did not follow
+the instructions correctly.
+
+1122
+01:30:25,600 --> 01:30:28,440
+So what you can do is
+you can just delete this folder.
+
+1123
+01:30:28,440 --> 01:30:31,680
+So guys, deleting this border
+going to actually delete the repository
+
+1124
+01:30:31,680 --> 01:30:37,080
+and you can initialize it again.
+
+1125
+01:30:37,080 --> 01:30:40,040
+Okay, So let's continue
+
+1126
+01:30:42,480 --> 01:30:43,440
+at this point.
+
+1127
+01:30:43,440 --> 01:30:47,520
+Now you guys are mature enough
+to understand
+
+1128
+01:30:48,160 --> 01:30:51,480
+the architecture of it.
+
+1129
+01:30:51,480 --> 01:30:55,000
+So now let me explain you
+the architecture update before we move
+
+1130
+01:30:55,000 --> 01:30:58,800
+any further.
+
+1131
+01:30:58,800 --> 01:31:12,600
+So what do you understand
+by the architecture?
+
+1132
+01:31:12,600 --> 01:31:15,600
+When I say architecture object,
+what what do you guys understand
+
+1133
+01:31:16,200 --> 01:31:17,280
+the structure, right?
+
+1134
+01:31:17,280 --> 01:31:22,800
+How it has been actually
+so good has actually at three
+
+1135
+01:31:24,000 --> 01:31:24,600
+stage
+
+1136
+01:31:24,600 --> 01:31:38,400
+architecture.
+
+1137
+01:31:38,400 --> 01:31:43,920
+Now let's have a look at that
+as soon as we run, don't get command.
+
+1138
+01:31:43,920 --> 01:31:46,080
+This folder does create.
+
+1139
+01:31:46,760 --> 01:31:49,520
+This folder creates incentives
+
+1140
+01:31:49,520 --> 01:31:53,400
+folder behind the scenes,
+which is not visible to us.
+
+1141
+01:31:53,400 --> 01:31:55,480
+What is happening.
+
+1142
+01:31:55,760 --> 01:31:58,840
+These two things also are created
+
+1143
+01:32:00,240 --> 01:32:02,080
+inside this folder.
+
+1144
+01:32:02,080 --> 01:32:06,880
+One is called the staging area
+and the other one is called
+
+1145
+01:32:07,360 --> 01:32:21,560
+the repository.
+
+1146
+01:32:21,560 --> 01:32:26,200
+Okay guys, are we good to this point?
+
+1147
+01:32:26,200 --> 01:32:29,680
+Everything in this make making sense,
+right?
+
+1148
+01:32:29,680 --> 01:32:35,600
+Okay, so
+
+1149
+01:32:37,640 --> 01:32:39,960
+this is called staging area.
+
+1150
+01:32:39,960 --> 01:32:41,160
+This is called repository.
+
+1151
+01:32:41,160 --> 01:32:43,200
+You get to know that how they are working
+
+1152
+01:32:43,560 --> 01:32:46,960
+and the area where our original files are.
+
+1153
+01:32:46,960 --> 01:32:49,960
+This area is called
+what do we call this area?
+
+1154
+01:32:49,960 --> 01:32:51,640
+Does anyone know
+
+1155
+01:32:54,000 --> 01:32:56,040
+working directory
+
+1156
+01:32:56,040 --> 01:33:13,160
+or folder?
+
+1157
+01:33:13,160 --> 01:33:17,720
+Okay, so when I run the command git in it,
+it says that initialized
+
+1158
+01:33:17,720 --> 01:33:21,000
+empty
+git repository in this particular folder.
+
+1159
+01:33:21,640 --> 01:33:25,080
+So this means that up to this command,
+
+1160
+01:33:25,080 --> 01:33:30,360
+the condition of my folder
+is that there is s, rc, Ben and DOD
+
+1161
+01:33:30,760 --> 01:33:34,160
+with the empty string area
+and an empty repository.
+
+1162
+01:33:34,320 --> 01:33:35,880
+Do you guys agree with this
+
+1163
+01:33:39,680 --> 01:33:41,840
+is understood?
+
+1164
+01:33:42,080 --> 01:33:45,360
+Perfect.
+
+1165
+01:33:45,360 --> 01:33:49,200
+Okay, so now I am going to explain to you
+that what is a staging area
+
+1166
+01:33:49,200 --> 01:33:58,400
+and what is our approach?
+
+1167
+01:33:58,400 --> 01:34:06,080
+First of all, let's talk about working
+directory.
+
+1168
+01:34:06,080 --> 01:34:10,160
+The place there are codes
+
+1169
+01:34:11,320 --> 01:34:14,200
+are Java files, are
+
+1170
+01:34:15,480 --> 01:34:19,880
+the staging area.
+
+1171
+01:34:19,880 --> 01:34:21,720
+Okay, who knows that?
+
+1172
+01:34:21,720 --> 01:34:36,480
+What is a staging area?
+
+1173
+01:34:36,480 --> 01:34:38,120
+So who's going to tell me that?
+
+1174
+01:34:38,120 --> 01:34:47,400
+What's a staging area?
+
+1175
+01:34:47,400 --> 01:34:50,480
+Okay, so staging area
+
+1176
+01:34:51,520 --> 01:34:53,840
+is the place
+
+1177
+01:34:53,840 --> 01:34:57,480
+where we add
+
+1178
+01:34:59,600 --> 01:35:04,960
+all the files, codes or folders
+
+1179
+01:35:06,400 --> 01:35:22,640
+which we want to send to the repository.
+
+1180
+01:35:22,640 --> 01:35:24,760
+And what is it you represent pre
+
+1181
+01:35:37,080 --> 01:35:40,200
+storage, which contains
+
+1182
+01:35:43,920 --> 01:35:46,360
+all our comments and what our commits.
+
+1183
+01:35:46,360 --> 01:35:56,440
+Guys, we learn that. Yes.
+
+1184
+01:35:56,840 --> 01:35:59,880
+So staging area, let's move back to this.
+
+1185
+01:35:59,880 --> 01:36:03,440
+It means that everything
+that goes into the repository
+
+1186
+01:36:03,720 --> 01:36:07,160
+first has to go to the staging area
+
+1187
+01:36:08,280 --> 01:36:09,440
+and then it is
+
+1188
+01:36:09,440 --> 01:36:15,880
+it goes to the repository.
+
+1189
+01:36:15,880 --> 01:36:19,080
+This is what is actually happening inside
+get okay,
+
+1190
+01:36:19,080 --> 01:36:23,640
+we are just visualizing it
+Fahad I'll put answer you that.
+
+1191
+01:36:23,640 --> 01:36:25,000
+Why do we need that?
+
+1192
+01:36:25,000 --> 01:36:27,480
+But right now
+
+1193
+01:36:27,520 --> 01:36:30,760
+just go with the flow.
+
+1194
+01:36:30,760 --> 01:36:32,040
+No, we can answer that.
+
+1195
+01:36:32,040 --> 01:36:34,640
+It's prep area.
+
+1196
+01:36:35,320 --> 01:36:38,400
+I should answer that
+
+1197
+01:36:40,480 --> 01:36:41,040
+so why not?
+
+1198
+01:36:41,040 --> 01:36:42,440
+Will get to know
+
+1199
+01:36:43,440 --> 01:36:44,560
+real get to know.
+
+1200
+01:36:44,560 --> 01:36:44,800
+Okay.
+
+1201
+01:36:44,800 --> 01:36:49,800
+But just for now, tell me that
+are you guys clear with this concept
+
+1202
+01:36:49,800 --> 01:36:54,120
+that when we use the get in it
+command staging area and rapport created
+
+1203
+01:36:54,480 --> 01:36:57,000
+and everything
+that we want to send to Apple
+
+1204
+01:36:57,240 --> 01:37:00,800
+first, we it to staging area
+and then the repository.
+
+1205
+01:37:01,200 --> 01:37:05,280
+So how many steps
+how many stages are involved,
+
+1206
+01:37:07,080 --> 01:37:10,200
+how many studios there for the code three.
+
+1207
+01:37:10,440 --> 01:37:13,040
+So three stages working directory for code
+
+1208
+01:37:13,440 --> 01:37:16,080
+staging, area for code
+and the rapper of code.
+
+1209
+01:37:16,920 --> 01:37:19,200
+So there are three stages
+that that are involved.
+
+1210
+01:37:19,200 --> 01:37:19,560
+Right.
+
+1211
+01:37:21,160 --> 01:37:22,160
+So that's why I
+
+1212
+01:37:22,160 --> 01:37:31,720
+get is called a three stage architecture.
+
+1213
+01:37:31,720 --> 01:37:36,720
+Okay So now let's move ahead
+and all the questions
+
+1214
+01:37:36,720 --> 01:37:37,800
+that you guys are having.
+
+1215
+01:37:37,800 --> 01:37:38,920
+They will be active.
+
+1216
+01:37:38,920 --> 01:37:39,720
+Okay,
+
+1217
+01:37:40,800 --> 01:37:41,280
+pass them.
+
+1218
+01:37:41,280 --> 01:37:43,160
+I'll be going with that.
+
+1219
+01:37:43,160 --> 01:37:44,720
+But not right now.
+
+1220
+01:37:44,720 --> 01:37:46,360
+After some time, I'll be dead.
+
+1221
+01:37:46,360 --> 01:37:47,520
+Just go. Go with it.
+
+1222
+01:37:47,520 --> 01:37:55,040
+What we're going to be doing.
+
+1223
+01:37:55,040 --> 01:38:01,200
+So now let me open up my notes and let's
+go ahead.
+
+1224
+01:38:01,200 --> 01:38:02,840
+So what is the next step, guys?
+
+1225
+01:38:02,840 --> 01:38:05,360
+When we want to
+
+1226
+01:38:05,360 --> 01:38:07,200
+save our code
+
+1227
+01:38:08,160 --> 01:38:09,960
+after creation of the repository
+
+1228
+01:38:09,960 --> 01:38:13,320
+what's the next step?
+
+1229
+01:38:13,320 --> 01:38:15,960
+Let's use the command
+
+1230
+01:38:18,320 --> 01:38:21,560
+git add dot.
+
+1231
+01:38:21,560 --> 01:38:23,160
+And what does this command do?
+
+1232
+01:38:23,160 --> 01:38:35,360
+Can anyone tell me?
+
+1233
+01:38:35,360 --> 01:38:39,480
+It adds the file, add the files
+
+1234
+01:38:42,360 --> 01:38:56,240
+to the staging area.
+
+1235
+01:38:56,240 --> 01:39:03,480
+Okay.
+
+1236
+01:39:03,480 --> 01:39:08,400
+Now, before I do that,
+I want you to let you guys know
+
+1237
+01:39:08,440 --> 01:39:14,200
+one very, very important
+command that we have in it, and that is
+
+1238
+01:39:16,640 --> 01:39:18,840
+git status.
+
+1239
+01:39:18,840 --> 01:39:20,040
+You know, we talked about that.
+
+1240
+01:39:20,040 --> 01:39:24,960
+It is, you know, just like a Post-it
+and we can communicate it to it.
+
+1241
+01:39:25,360 --> 01:39:30,200
+So at any point in time,
+if you want to ask the status of our app
+
+1242
+01:39:30,240 --> 01:39:33,080
+as it pre,
+we can only use the command get status.
+
+1243
+01:39:33,360 --> 01:39:34,840
+It saves nothing.
+
+1244
+01:39:34,840 --> 01:39:38,000
+It does. No, it only tells us that.
+
+1245
+01:39:38,000 --> 01:39:44,600
+What is the status of your app physically.
+
+1246
+01:39:44,600 --> 01:39:45,360
+Okay.
+
+1247
+01:39:45,720 --> 01:39:46,320
+I shall not.
+
+1248
+01:39:46,320 --> 01:39:49,200
+Not right now. Not right now.
+
+1249
+01:39:49,720 --> 01:39:50,520
+Follow me.
+
+1250
+01:39:50,520 --> 01:39:53,280
+Don't do anything unless I have done it.
+
+1251
+01:39:54,440 --> 01:39:55,320
+Okay.
+
+1252
+01:39:56,480 --> 01:39:57,640
+So what do you guys think?
+
+1253
+01:39:57,640 --> 01:40:01,920
+That if at this point I run the command,
+get status
+
+1254
+01:40:02,240 --> 01:40:05,760
+before running it at dawn,
+what is going to happen?
+
+1255
+01:40:06,520 --> 01:40:07,760
+What is the status of my app?
+
+1256
+01:40:07,760 --> 01:40:15,840
+Is it.
+
+1257
+01:40:15,840 --> 01:40:17,040
+It's empty, right?
+
+1258
+01:40:18,560 --> 01:40:19,480
+The staging area.
+
+1259
+01:40:19,480 --> 01:40:21,640
+What's the status of the staging area?
+
+1260
+01:40:23,120 --> 01:40:25,240
+It's all empty.
+
+1261
+01:40:25,240 --> 01:40:28,360
+So the get status is going to tell me that
+
+1262
+01:40:30,560 --> 01:40:37,040
+the files are not being tracked.
+
+1263
+01:40:37,040 --> 01:40:42,920
+Do you guys agree with that?
+
+1264
+01:40:42,920 --> 01:40:46,000
+Okay,
+so let's let's, you know, test it out.
+
+1265
+01:40:46,280 --> 01:40:55,040
+So if I do at this point, get status,
+what does it say?
+
+1266
+01:40:55,560 --> 01:40:58,160
+Let's forget about on branch
+Master for now.
+
+1267
+01:40:58,160 --> 01:41:00,200
+I'll tell you. Okay.
+
+1268
+01:41:00,240 --> 01:41:03,560
+Whenever we move forward,
+it tells me no comments yet.
+
+1269
+01:41:05,040 --> 01:41:08,080
+Yes, we do not have any comments.
+
+1270
+01:41:08,080 --> 01:41:09,280
+Okay, good
+
+1271
+01:41:09,960 --> 01:41:12,760
+untracked files,
+
+1272
+01:41:12,840 --> 01:41:16,480
+but it should mean
+that you have some untracked files
+
+1273
+01:41:16,480 --> 01:41:19,720
+in your working area.
+
+1274
+01:41:19,720 --> 01:41:21,840
+What are those on untracked file?
+
+1275
+01:41:22,560 --> 01:41:25,920
+It's showing us that bin s RC
+
+1276
+01:41:26,400 --> 01:41:28,680
+and some files that, you know, a dot
+
+1277
+01:41:29,200 --> 01:41:32,640
+extension, dot
+class, that dot project and dot settings.
+
+1278
+01:41:33,840 --> 01:41:34,280
+So if I
+
+1279
+01:41:34,280 --> 01:41:38,280
+open up my actual explorer,
+we can see that yes,
+
+1280
+01:41:38,280 --> 01:41:42,520
+there are dot settings
+bin SRT, dot last that
+
+1281
+01:41:42,760 --> 01:41:47,600
+and dot project.
+
+1282
+01:41:47,600 --> 01:41:50,080
+These are appearing in red.
+
+1283
+01:41:51,600 --> 01:41:53,720
+The files that appear in red,
+
+1284
+01:41:54,240 --> 01:41:59,040
+these are the ones that are indicated
+that they are not being tracked.
+
+1285
+01:41:59,880 --> 01:42:10,560
+Okay.
+
+1286
+01:42:10,560 --> 01:42:21,480
+Up to this point, guys, any confusion?
+
+1287
+01:42:21,480 --> 01:42:26,640
+Let me also write down the files
+bit dot extension.
+
+1288
+01:42:26,640 --> 01:42:30,760
+I skipped them initially,
+but just to make everything more
+
+1289
+01:42:32,040 --> 01:42:44,440
+clear, we I have lost that.
+
+1290
+01:42:44,440 --> 01:42:47,320
+And what else files do I have?
+
+1291
+01:42:47,320 --> 01:42:50,200
+Settings and dot project
+
+1292
+01:42:51,840 --> 01:43:04,800
+so it's
+
+1293
+01:43:16,080 --> 01:43:35,280
+okay.
+
+1294
+01:43:35,280 --> 01:43:38,320
+Use the command get status
+
+1295
+01:43:39,240 --> 01:43:42,800
+to view the current status
+
+1296
+01:43:42,800 --> 01:43:45,200
+of repository
+
+1297
+01:43:47,080 --> 01:43:49,320
+files shown in red
+
+1298
+01:43:50,640 --> 01:43:59,280
+on untracked files.
+
+1299
+01:43:59,280 --> 01:44:00,120
+Okay.
+
+1300
+01:44:00,960 --> 01:44:03,720
+Now we we discussed that we can use
+
+1301
+01:44:03,720 --> 01:44:08,160
+the command gate add dot and if you add
+all the files to staging area.
+
+1302
+01:44:08,760 --> 01:44:13,680
+So what if I want to add
+just one file to the staging area?
+
+1303
+01:44:13,880 --> 01:44:16,200
+I want to save only one file.
+
+1304
+01:44:16,200 --> 01:44:19,000
+I want to keep track of only one file.
+
+1305
+01:44:19,320 --> 01:44:21,560
+So which command do I have for that
+
+1306
+01:44:27,280 --> 01:44:28,480
+section?
+
+1307
+01:44:28,800 --> 01:44:34,320
+I can use the command for
+
+1308
+01:44:53,640 --> 01:44:55,120
+git add file name
+
+1309
+01:44:55,120 --> 01:44:59,400
+and it will only add this massive file
+to the staging area.
+
+1310
+01:44:59,640 --> 01:45:01,880
+So Let's go ahead and try that out.
+
+1311
+01:45:02,800 --> 01:45:03,720
+Okay.
+
+1312
+01:45:03,720 --> 01:45:06,600
+So what if I run the command
+
+1313
+01:45:07,680 --> 01:45:09,720
+git add
+
+1314
+01:45:10,560 --> 01:45:15,320
+and let's say S or C?
+
+1315
+01:45:15,320 --> 01:45:17,760
+What if I run this camera?
+
+1316
+01:45:18,160 --> 01:45:20,760
+What do you guys suppose will happen?
+
+1317
+01:45:20,760 --> 01:45:27,360
+Can someone tell me?
+
+1318
+01:45:27,360 --> 01:45:30,040
+Okay, Martin,
+you are saying that SRS will go to Apple?
+
+1319
+01:45:31,000 --> 01:45:33,080
+No. What will happen
+
+1320
+01:45:33,320 --> 01:45:37,320
+as soon as we do get add, SASE
+
+1321
+01:45:37,920 --> 01:45:41,680
+get is going to make
+a copy of the file SASE
+
+1322
+01:45:41,960 --> 01:45:49,520
+and it is going to move it
+into the staging area.
+
+1323
+01:45:49,520 --> 01:45:52,560
+Okay. So this is what is going to happen.
+
+1324
+01:45:52,560 --> 01:45:58,680
+Okay, let's do it and visualize it.
+
+1325
+01:45:58,680 --> 01:46:01,440
+Git add
+
+1326
+01:46:02,160 --> 01:46:03,520
+s or C,
+
+1327
+01:46:03,520 --> 01:46:06,720
+and after that I'm going to press enter.
+
+1328
+01:46:07,960 --> 01:46:08,880
+Okay, so
+
+1329
+01:46:08,880 --> 01:46:12,840
+get add s RC shows me no output.
+
+1330
+01:46:12,840 --> 01:46:16,160
+I want to know whether SRT has been moved
+
+1331
+01:46:16,160 --> 01:46:19,080
+into the staging area or not.
+
+1332
+01:46:19,680 --> 01:46:24,040
+How can I do that now?
+
+1333
+01:46:24,040 --> 01:46:26,080
+I have the command of good status.
+
+1334
+01:46:26,760 --> 01:46:31,120
+I can use that to know
+what is the current status of the tree.
+
+1335
+01:46:31,120 --> 01:46:51,920
+So I run the command, get status,
+so get status is going to return me.
+
+1336
+01:46:51,920 --> 01:46:54,600
+What can someone tell me
+
+1337
+01:47:00,120 --> 01:47:01,800
+looking at the,
+
+1338
+01:47:01,800 --> 01:47:07,400
+you know, diagram, I think that it should
+tell me that SRT has been tracked
+
+1339
+01:47:07,800 --> 01:47:11,120
+where has been dark last bad dot setting
+
+1340
+01:47:11,120 --> 01:47:14,440
+and all projects are being untracked
+right.
+
+1341
+01:47:14,440 --> 01:47:16,600
+Simple, simple enough.
+
+1342
+01:47:16,600 --> 01:47:18,640
+This is what I am expecting to see.
+
+1343
+01:47:18,640 --> 01:47:20,080
+So let's see.
+
+1344
+01:47:20,160 --> 01:47:24,400
+Get status and I'll press enter.
+
+1345
+01:47:24,400 --> 01:47:25,560
+So it says that
+
+1346
+01:47:28,120 --> 01:47:31,520
+no commits yet because
+
+1347
+01:47:31,520 --> 01:47:33,960
+our app was empty
+
+1348
+01:47:33,960 --> 01:47:35,960
+and it says
+
+1349
+01:47:36,120 --> 01:47:43,560
+changes to be committed so whatever is to
+be committed should be in staging area.
+
+1350
+01:47:43,560 --> 01:47:44,280
+Right.
+
+1351
+01:47:44,360 --> 01:47:47,120
+So it means that whatever we see in green
+
+1352
+01:47:47,120 --> 01:47:50,480
+color is in the staging area.
+
+1353
+01:47:50,520 --> 01:47:51,600
+Right
+
+1354
+01:47:57,600 --> 01:47:59,640
+here I see SASE
+
+1355
+01:47:59,640 --> 01:48:03,120
+get a WAN and SA symbol for dot Java.
+
+1356
+01:48:03,120 --> 01:48:06,640
+Basically these are the inside files
+that it is showing.
+
+1357
+01:48:06,640 --> 01:48:09,320
+So we have actually RC in the staging area
+
+1358
+01:48:10,080 --> 01:48:13,800
+and the files dot
+last that dot prior dot setting
+
+1359
+01:48:13,800 --> 01:48:23,040
+and then are still being untracked.
+
+1360
+01:48:23,040 --> 01:48:31,400
+Okay.
+
+1361
+01:48:31,400 --> 01:48:36,360
+Now what I want to do, I want to just see
+
+1362
+01:48:36,360 --> 01:48:40,280
+my SRT in the wrapper.
+
+1363
+01:48:40,280 --> 01:48:42,480
+This is what I want to do
+
+1364
+01:48:48,600 --> 01:48:53,880
+so I can run the command.
+
+1365
+01:48:53,880 --> 01:48:56,360
+Good comment.
+
+1366
+01:48:56,360 --> 01:48:59,400
+Dash M and after the M
+
+1367
+01:48:59,400 --> 01:49:02,360
+dies, after the m, we place a message
+
+1368
+01:49:02,800 --> 01:49:06,160
+and that message should be comprehensive
+enough
+
+1369
+01:49:06,720 --> 01:49:11,360
+to, you know, make the person
+who is looking at it
+
+1370
+01:49:12,280 --> 01:49:15,160
+understand
+that what is during the comment.
+
+1371
+01:49:15,600 --> 01:49:23,520
+So what do you suggest that
+I should name it.
+
+1372
+01:49:23,520 --> 01:49:26,120
+I can name it first
+trim it or I can also say
+
+1373
+01:49:26,880 --> 01:49:32,520
+only contains SIRC.
+
+1374
+01:49:32,520 --> 01:49:35,160
+And I say that too.
+Don't you think it's a better
+
+1375
+01:49:36,320 --> 01:49:39,880
+command message?
+
+1376
+01:49:39,880 --> 01:49:43,760
+Okay, so if I run this command,
+what is going to happen?
+
+1377
+01:49:43,880 --> 01:49:48,920
+It is going to make a copy of the SRT
+and just chilling area and it is going to
+
+1378
+01:49:48,920 --> 01:49:51,720
+just simply place it in the report
+
+1379
+01:49:52,160 --> 01:49:54,880
+and it is going to label it
+
+1380
+01:49:57,880 --> 01:49:59,440
+with what things it will label it.
+
+1381
+01:49:59,440 --> 01:50:01,360
+Can someone tell me
+
+1382
+01:50:17,960 --> 01:50:22,840
+commit name, date time,
+
+1383
+01:50:24,000 --> 01:50:33,960
+user name, email, address.
+
+1384
+01:50:33,960 --> 01:50:34,800
+Okay,
+
+1385
+01:50:35,640 --> 01:50:38,360
+so now let's do it
+actually on the terminal.
+
+1386
+01:50:38,360 --> 01:50:43,880
+Let's have a look.
+
+1387
+01:50:43,880 --> 01:50:45,880
+Good comment.
+
+1388
+01:50:46,640 --> 01:50:48,800
+Dash M
+
+1389
+01:50:56,400 --> 01:50:59,080
+contains Essar Steel.
+
+1390
+01:50:59,080 --> 01:51:34,080
+Let's run this command.
+
+1391
+01:51:34,080 --> 01:51:34,960
+Okay.
+
+1392
+01:51:35,640 --> 01:51:37,240
+It showed me no output.
+
+1393
+01:51:37,240 --> 01:51:42,360
+I want to know
+the status of my proposal tree.
+
+1394
+01:51:42,800 --> 01:51:46,800
+What's what has happened
+is everything that I can see.
+
+1395
+01:51:46,800 --> 01:51:49,320
+Is everything correct or not?
+
+1396
+01:51:49,320 --> 01:51:52,000
+I can run the command, get status right.
+
+1397
+01:51:53,120 --> 01:51:53,760
+Okay.
+
+1398
+01:51:53,760 --> 01:51:58,960
+So tell me guys, without running,
+tell me if I run get status,
+
+1399
+01:51:59,240 --> 01:52:01,880
+what will be the output
+
+1400
+01:52:11,960 --> 01:52:12,440
+near?
+
+1401
+01:52:12,440 --> 01:52:18,720
+Please support channel.
+
+1402
+01:52:18,720 --> 01:52:19,440
+Okay.
+
+1403
+01:52:19,440 --> 01:52:22,360
+So my output should be
+that it should tell me
+
+1404
+01:52:22,360 --> 01:52:25,480
+what are the files.
+
+1405
+01:52:25,480 --> 01:52:28,280
+It should tell me that
+what are the changes
+
+1406
+01:52:28,280 --> 01:52:32,360
+that needs to be committed
+and what is there in the repository?
+
+1407
+01:52:32,360 --> 01:52:33,080
+Right.
+
+1408
+01:52:33,600 --> 01:52:35,640
+These are the stuff that it should me,
+
+1409
+01:52:37,320 --> 01:52:40,920
+it should give me all the information
+about what has happened.
+
+1410
+01:52:41,440 --> 01:52:44,080
+So let's let's run, get status and see
+
+1411
+01:52:45,160 --> 01:52:49,320
+it's status.
+
+1412
+01:52:49,320 --> 01:52:53,720
+Now, when I look at status,
+it's it's saying that
+
+1413
+01:52:55,000 --> 01:52:58,440
+you just have untracked files in which
+
+1414
+01:52:59,480 --> 01:53:01,920
+SRT is not included.
+
+1415
+01:53:01,920 --> 01:53:05,280
+It's neither in the staging area.
+
+1416
+01:53:05,640 --> 01:53:09,200
+It means that it's in the repository
+already.
+
+1417
+01:53:10,680 --> 01:53:11,280
+Okay.
+
+1418
+01:53:11,280 --> 01:53:17,040
+Makes sense.
+
+1419
+01:53:17,040 --> 01:53:21,840
+Now, let me move
+you back to previous status over here.
+
+1420
+01:53:21,840 --> 01:53:27,760
+It shows me that changes to be committed
+and it was showing them in green color.
+
+1421
+01:53:28,040 --> 01:53:32,640
+So when we come
+in, those changes did disappear from
+
+1422
+01:53:34,520 --> 01:53:36,400
+it disappears
+
+1423
+01:53:36,400 --> 01:53:43,240
+from the get status.
+
+1424
+01:53:43,240 --> 01:53:47,240
+Okay so for a had we noticed that
+just because
+
+1425
+01:53:48,520 --> 01:53:51,240
+the bin folder is not in Untracked
+
+1426
+01:53:51,920 --> 01:53:55,440
+Oak is not in Untracked,
+it's not in staging area.
+
+1427
+01:53:55,440 --> 01:53:59,800
+So where can it be now?
+
+1428
+01:53:59,800 --> 01:54:02,640
+There's only one, one stage that is left.
+
+1429
+01:54:02,640 --> 01:54:05,040
+But it can be. It can be in wrap. Right.
+
+1430
+01:54:05,640 --> 01:54:22,720
+So how soon can you show
+your screenshot in the support?
+
+1431
+01:54:22,720 --> 01:54:26,240
+And I'm sure that
+is there to help you out.
+
+1432
+01:54:26,920 --> 01:54:27,440
+Okay guys.
+
+1433
+01:54:27,440 --> 01:54:30,280
+So at this point. Yes.
+
+1434
+01:54:30,280 --> 01:54:31,920
+Yes I show it does at this point.
+
+1435
+01:54:31,920 --> 01:54:33,880
+Let's take a break for one minute.
+
+1436
+01:54:33,880 --> 01:54:36,480
+Take a deep breath and we have
+
+1437
+01:54:36,480 --> 01:54:40,440
+all you know, done a great job.
+
+1438
+01:54:40,440 --> 01:54:46,440
+Let's appreciate ourselves.
+
+1439
+01:54:46,440 --> 01:54:46,680
+Okay.
+
+1440
+01:54:46,680 --> 01:54:52,160
+So you see, we just ran all the commands
+that we did in the first half,
+
+1441
+01:54:52,160 --> 01:54:56,480
+but now we actually that
+how it's working at the back end, right?
+
+1442
+01:54:57,280 --> 01:54:59,640
+You guys think that this was difficult?
+
+1443
+01:55:00,320 --> 01:55:04,200
+Is anyone who thinks
+that these concepts are difficult
+
+1444
+01:55:04,960 --> 01:55:21,520
+are not understanding them.
+
+1445
+01:55:21,520 --> 01:55:24,480
+All right. And don't worry.
+I'm going to give you more examples.
+
+1446
+01:55:24,480 --> 01:55:27,080
+More and more examples in today's lesson
+
+1447
+01:55:27,760 --> 01:55:31,360
+is, you know, a just to this.
+
+1448
+01:55:31,360 --> 01:55:35,560
+So we will be practicing it more and more
+and you guys will be comfortable with it
+
+1449
+01:55:43,880 --> 01:55:46,320
+if you understand how it is working right.
+
+1450
+01:55:46,320 --> 01:55:49,680
+If you understand this flow,
+then trust me,
+
+1451
+01:55:49,680 --> 01:55:56,040
+you won't be having any difficulty.
+
+1452
+01:55:56,040 --> 01:55:58,520
+Yes, it will. You guys will get good.
+
+1453
+01:55:58,520 --> 01:56:01,000
+I know if the first time.
+Okay, Don't worry.
+
+1454
+01:56:01,000 --> 01:56:03,240
+Just make sure that you understand
+the concept.
+
+1455
+01:56:03,240 --> 01:56:11,640
+Okay?
+
+1456
+01:56:11,640 --> 01:56:13,720
+Okay. So let's practice some more.
+
+1457
+01:56:15,000 --> 01:56:15,640
+Okay.
+
+1458
+01:56:15,640 --> 01:56:18,480
+Let's do the practice till this point.
+
+1459
+01:56:18,480 --> 01:56:33,640
+Are you guys all with me?
+
+1460
+01:56:33,640 --> 01:56:36,120
+There is no packet, Michael.
+
+1461
+01:56:36,360 --> 01:56:56,040
+I just created the class directly.
+
+1462
+01:56:56,040 --> 01:56:59,640
+Hashim,
+get your issue resolved and catch up.
+
+1463
+01:56:59,640 --> 01:57:00,480
+Okay?
+
+1464
+01:57:00,840 --> 01:57:04,480
+We are just going to repeat everything
+
+1465
+01:57:10,640 --> 01:57:11,440
+for errors.
+
+1466
+01:57:11,440 --> 01:57:13,560
+Guys. Support is there for you. Okay.
+
+1467
+01:57:15,120 --> 01:57:18,880
+Make sure that you post screenshots
+in the support, okay?
+
+1468
+01:57:18,880 --> 01:57:26,680
+And you'll get help.
+
+1469
+01:57:26,680 --> 01:57:29,120
+Okay. So now let's do this
+guys. Let's do this.
+
+1470
+01:57:29,120 --> 01:57:32,280
+Let's open up our terminals.
+
+1471
+01:57:32,280 --> 01:57:37,560
+Tell me that if I want to view everything
+that I have in the repository,
+
+1472
+01:57:37,800 --> 01:57:42,520
+we discussed that we have one command
+for that which is that
+
+1473
+01:57:46,600 --> 01:57:47,600
+in the repository?
+
+1474
+01:57:47,600 --> 01:57:48,400
+No, no, no.
+
+1475
+01:57:48,400 --> 01:57:50,800
+I'm not talking about
+
+1476
+01:57:50,800 --> 01:57:51,440
+the folder.
+
+1477
+01:57:51,440 --> 01:57:53,720
+I'm talking about the repository.
+
+1478
+01:57:53,720 --> 01:57:56,600
+Get lol get log as a command
+
+1479
+01:57:56,600 --> 01:58:01,000
+that gives us all the commits
+that are there in the represent.
+
+1480
+01:58:01,280 --> 01:58:02,040
+Okay,
+
+1481
+01:58:03,200 --> 01:58:06,800
+so at this point if I run get low,
+what do you guys expect to see?
+
+1482
+01:58:06,960 --> 01:58:13,400
+How many comments are going to be there?
+
+1483
+01:58:13,400 --> 01:58:16,560
+Only one or less one get logged
+
+1484
+01:58:18,080 --> 01:58:22,880
+and I see that there is one commit with
+
+1485
+01:58:24,120 --> 01:58:28,360
+the author name,
+email address, date mentioned
+
+1486
+01:58:28,360 --> 01:58:34,120
+and the comment message.
+
+1487
+01:58:34,120 --> 01:58:37,480
+Okay, so this is 1b30259.
+
+1488
+01:58:37,480 --> 01:58:41,240
+Whatever this is, it's a it's
+
+1489
+01:58:41,240 --> 01:58:43,920
+going to be different for each
+and every one of you.
+
+1490
+01:58:44,880 --> 01:58:47,600
+It's actually, you know, a code
+
+1491
+01:58:47,600 --> 01:58:50,640
+that get has for it for saving.
+
+1492
+01:58:50,640 --> 01:58:54,680
+It's come at that's
+how it labels the command for itself
+
+1493
+01:58:58,080 --> 01:58:58,840
+and it's going to be
+
+1494
+01:58:58,840 --> 01:59:03,000
+unique for every comment.
+
+1495
+01:59:03,000 --> 01:59:03,960
+No, I haven't.
+
+1496
+01:59:03,960 --> 01:59:08,640
+You can not.
+
+1497
+01:59:08,640 --> 01:59:14,720
+Yes, I show like a barcode.
+
+1498
+01:59:14,720 --> 01:59:15,280
+Okay, guys.
+
+1499
+01:59:15,280 --> 01:59:17,480
+So let's move forward. Let's move forward.
+
+1500
+01:59:17,520 --> 01:59:18,280
+Okay.
+
+1501
+01:59:18,360 --> 01:59:21,120
+What we want to do next
+
+1502
+01:59:21,720 --> 01:59:25,920
+now I want to add the rest of the files,
+
+1503
+01:59:26,160 --> 01:59:31,280
+then class batch settings
+and projects to my repository.
+
+1504
+01:59:31,280 --> 01:59:35,040
+You guys are going to guide me that
+How am I supposed to do that?
+
+1505
+01:59:35,640 --> 01:59:43,240
+So what's the first step?
+
+1506
+01:59:43,240 --> 01:59:44,600
+I need to run the command.
+
+1507
+01:59:44,600 --> 01:59:54,600
+Get add dot.
+
+1508
+01:59:54,600 --> 01:59:55,920
+What is this going to do?
+
+1509
+01:59:55,920 --> 01:59:58,960
+As soon as I run
+this command, it's going to take
+
+1510
+02:00:17,160 --> 02:00:20,040
+everything that is there
+
+1511
+02:00:20,040 --> 02:00:22,920
+in your working directory
+
+1512
+02:00:22,920 --> 02:00:38,160
+and it's going to take it in
+the staging area.
+
+1513
+02:00:38,160 --> 02:00:41,360
+So now if I do get
+
+1514
+02:00:44,160 --> 02:00:45,480
+status, let's run,
+
+1515
+02:00:45,480 --> 02:00:48,920
+get status before running,
+get that dot just to make sure
+
+1516
+02:00:49,480 --> 02:00:52,360
+that you guys are reminded
+that these are the untracked files.
+
+1517
+02:00:52,360 --> 02:00:52,720
+Okay.
+
+1518
+02:00:53,920 --> 02:00:55,800
+Now if I do get
+
+1519
+02:00:55,800 --> 02:00:59,920
+at dot instead of file
+name, I'm using dot.
+
+1520
+02:00:59,920 --> 02:01:00,600
+Right?
+
+1521
+02:01:00,920 --> 02:01:02,760
+And if I press enter.
+
+1522
+02:01:02,760 --> 02:01:04,720
+So this operation has happened.
+
+1523
+02:01:04,720 --> 02:01:10,920
+Everything is in the staging area.
+
+1524
+02:01:10,920 --> 02:01:14,960
+I want to make sure that my gate
+is not cracking everything.
+
+1525
+02:01:15,720 --> 02:01:21,920
+Which command should I be using?
+
+1526
+02:01:21,920 --> 02:01:23,760
+Get status right.
+
+1527
+02:01:23,760 --> 02:01:28,080
+So I'll open up my terminal
+and I'll say get status
+
+1528
+02:01:28,520 --> 02:01:31,720
+and I'm expecting
+now that everything is going to be green.
+
+1529
+02:01:33,480 --> 02:01:33,760
+Okay.
+
+1530
+02:01:33,760 --> 02:01:37,760
+It says that changes to be committed
+and it's showing me
+
+1531
+02:01:37,760 --> 02:01:40,640
+all the files that are
+
+1532
+02:01:41,240 --> 02:01:42,720
+on track
+
+1533
+02:01:43,440 --> 02:01:45,240
+now. It's showing me in green
+
+1534
+02:01:45,240 --> 02:01:47,920
+and telling me that it is now
+cracking down.
+
+1535
+02:01:49,680 --> 02:01:52,080
+Okay, Now I want to
+
+1536
+02:01:53,640 --> 02:01:56,200
+make a new comment
+
+1537
+02:01:56,200 --> 02:01:58,240
+where I have
+
+1538
+02:01:59,080 --> 02:02:01,360
+all these files
+
+1539
+02:02:24,840 --> 02:02:25,160
+where I'm
+
+1540
+02:02:25,160 --> 02:02:28,520
+just picking them up
+guys too, because I have less space
+
+1541
+02:02:37,600 --> 02:02:38,040
+now. So
+
+1542
+02:02:38,040 --> 02:02:40,760
+your syntax
+error, this is going to be your indexer.
+
+1543
+02:02:41,920 --> 02:02:44,480
+Okay, so for that I have a command
+
+1544
+02:02:45,240 --> 02:02:48,360
+get commit dash and I can see that.
+
+1545
+02:02:49,920 --> 02:02:52,080
+Let's give the message
+
+1546
+02:02:52,080 --> 02:03:04,360
+all the files committed.
+
+1547
+02:03:04,360 --> 02:03:09,520
+So let's open up our gate
+and try to do that.
+
+1548
+02:03:09,520 --> 02:03:13,440
+Yes, well, cash is doing the support here,
+so get
+
+1549
+02:03:14,520 --> 02:03:16,880
+comment dash m
+
+1550
+02:03:18,840 --> 02:03:20,200
+contains
+
+1551
+02:03:20,200 --> 02:03:58,320
+all the files.
+
+1552
+02:03:58,320 --> 02:04:00,640
+Okay, guys, now if I run, get stat
+
+1553
+02:04:01,000 --> 02:04:04,480
+without running the command, tell me that,
+what do you expect?
+
+1554
+02:04:04,480 --> 02:04:05,800
+You'll see
+
+1555
+02:04:15,120 --> 02:04:15,840
+because
+
+1556
+02:04:15,840 --> 02:04:19,920
+at this point you're working directory
+and your app wizardry
+
+1557
+02:04:20,320 --> 02:04:25,280
+are at the same level
+they exactly the same files.
+
+1558
+02:04:25,280 --> 02:04:26,000
+Right.
+
+1559
+02:04:26,440 --> 02:04:29,680
+So you'll see nothing
+
+1560
+02:04:29,680 --> 02:04:30,160
+less.
+
+1561
+02:04:30,160 --> 02:04:32,680
+One good status
+
+1562
+02:04:32,680 --> 02:04:36,000
+and it will say nothing to come it working
+
+1563
+02:04:36,000 --> 02:04:47,280
+tree is clean.
+
+1564
+02:04:47,280 --> 02:04:51,960
+Now if you want to view your repository
+and see how many comments
+
+1565
+02:04:51,960 --> 02:04:55,920
+are there in it,
+which command are you going to use?
+
+1566
+02:04:57,320 --> 02:04:59,760
+Git log
+
+1567
+02:04:59,760 --> 02:05:01,280
+and I'm expecting to come.
+
+1568
+02:05:01,280 --> 02:05:06,800
+It contains s rc contains all the files
+and if I have a look at this,
+
+1569
+02:05:06,800 --> 02:05:10,000
+I have to commit
+and in my logs also I have to
+
+1570
+02:05:10,000 --> 02:05:38,600
+comments. So
+
+1571
+02:05:40,800 --> 02:05:42,080
+let's take a break guys
+
+1572
+02:05:42,080 --> 02:05:44,720
+for 2 minutes to line 15.
+
+1573
+02:05:45,400 --> 02:05:46,680
+In fact, the three minute.
+
+1574
+02:05:46,680 --> 02:05:48,200
+Let's take a break for 3 minutes.
+
+1575
+02:05:48,200 --> 02:05:52,680
+Meanwhile,
+I'm going to help you out with the stuff.
+
+1576
+02:05:52,680 --> 02:05:56,880
+If anyone is having problems,
+I can help you out to
+
+1577
+02:05:57,960 --> 02:05:59,520
+two 915 guys.
+
+1578
+02:05:59,520 --> 02:06:07,680
+We got 3 minutes.
+
+1579
+02:06:07,680 --> 02:06:10,760
+Anyone still struggling with
+
+1580
+02:06:10,760 --> 02:06:13,440
+with a command somewhere?
+
+1581
+02:06:13,440 --> 02:06:17,400
+Send the screenshot to me.
+
+1582
+02:06:17,400 --> 02:06:17,960
+Okay.
+
+1583
+02:06:17,960 --> 02:06:20,360
+We anywhere in loss conditions
+and the screenshot
+
+1584
+02:06:31,920 --> 02:06:33,600
+screenshot of those
+
+1585
+02:06:33,600 --> 02:06:38,400
+been shot.
+
+1586
+02:06:38,400 --> 02:06:40,440
+Send the screenshot in life. Okay.
+
+1587
+02:06:40,600 --> 02:06:43,200
+Because I cannot switch the
+
+1588
+02:06:46,760 --> 02:06:47,600
+oc Illini.
+
+1589
+02:06:47,600 --> 02:06:49,680
+Your problem is simple, right?
+
+1590
+02:06:50,080 --> 02:06:53,160
+Let me. Let me answer to that once.
+
+1591
+02:06:54,360 --> 02:06:55,680
+Okay.
+
+1592
+02:06:55,680 --> 02:07:02,000
+You have.
+
+1593
+02:07:02,000 --> 02:07:02,560
+Okay.
+
+1594
+02:07:02,720 --> 02:07:07,320
+You forgot to actually close the inverted
+commas, right? Yep.
+
+1595
+02:07:07,320 --> 02:07:08,000
+Come on Dash.
+
+1596
+02:07:08,000 --> 02:07:09,960
+I'm only contains srt.
+
+1597
+02:07:09,960 --> 02:07:15,440
+After that you did not put the inverted
+commas and you press enter if you do such.
+
+1598
+02:07:15,440 --> 02:07:21,320
+So get opens up, decode something this
+and you won't be able to exit it.
+
+1599
+02:07:21,320 --> 02:07:25,280
+So try control see all Colin Q
+
+1600
+02:07:26,160 --> 02:07:29,400
+equals Colin Q are controlled.
+
+1601
+02:07:29,400 --> 02:07:33,400
+It will take you out of this loop and then
+you can reenter the correct comma.
+
+1602
+02:07:34,080 --> 02:07:35,040
+Okay.
+
+1603
+02:07:35,280 --> 02:07:42,480
+I hope that that is going to resolve
+the problem.
+
+1604
+02:07:42,480 --> 02:07:54,000
+Okay, Mustafa, for you.
+
+1605
+02:07:54,000 --> 02:07:55,920
+Mustafa you are good.
+
+1606
+02:07:56,120 --> 02:07:58,640
+You just made one comment.
+
+1607
+02:07:58,640 --> 02:08:00,640
+You did not made the other promise.
+
+1608
+02:08:01,320 --> 02:08:05,360
+You have no errors, but you did not, I
+guess, stop wallowing in between you two.
+
+1609
+02:08:05,360 --> 02:08:06,040
+Some reasons
+
+1610
+02:08:23,480 --> 02:08:25,680
+assume your problem is that I
+
+1611
+02:08:25,680 --> 02:08:30,520
+think that you created the repository
+at the wrong location.
+
+1612
+02:08:30,520 --> 02:08:32,600
+You need to do less and make sure
+
+1613
+02:08:32,600 --> 02:08:37,680
+that only been an ACR over there
+because you see a lot of files are there.
+
+1614
+02:08:37,680 --> 02:08:42,480
+It seems like you created your app
+was it read inside
+
+1615
+02:08:42,480 --> 02:08:48,120
+you know your home directory
+
+1616
+02:08:51,640 --> 02:08:55,720
+just leaning on Mac try calling Q
+
+1617
+02:08:59,480 --> 02:08:59,880
+okay.
+
+1618
+02:09:00,080 --> 02:09:02,720
+Apple for you
+
+1619
+02:09:03,480 --> 02:09:05,840
+you have no issues.
+
+1620
+02:09:06,360 --> 02:09:09,960
+You are good.
+
+1621
+02:09:09,960 --> 02:09:12,640
+Okay guys, so
+
+1622
+02:09:13,360 --> 02:09:14,880
+I hope that
+
+1623
+02:09:15,960 --> 02:09:17,400
+by now
+
+1624
+02:09:17,840 --> 02:09:19,200
+okay you did
+
+1625
+02:09:23,440 --> 02:09:23,960
+okay.
+
+1626
+02:09:23,960 --> 02:09:25,160
+You are good to go.
+
+1627
+02:09:25,160 --> 02:09:25,760
+Okay.
+
+1628
+02:09:25,760 --> 02:09:28,680
+You made the comment, right?
+
+1629
+02:09:29,080 --> 02:09:39,280
+It's their perfect.
+
+1630
+02:09:39,280 --> 02:09:41,200
+You just skip the second comment.
+
+1631
+02:09:41,200 --> 02:09:43,000
+But that's fine.
+
+1632
+02:09:43,320 --> 02:09:44,240
+You can
+
+1633
+02:09:45,200 --> 02:09:49,360
+continue doing what we are going to do
+and then after the class,
+
+1634
+02:09:49,360 --> 02:09:55,200
+you can catch up
+this step in the recording.
+
+1635
+02:09:55,200 --> 02:09:56,200
+Okay, guys. So
+
+1636
+02:09:58,240 --> 02:10:01,080
+now the next step that we learning,
+
+1637
+02:10:02,560 --> 02:10:04,520
+usually this stuff
+
+1638
+02:10:04,520 --> 02:10:07,680
+we have learned up to
+this was the trust me hardest.
+
+1639
+02:10:07,680 --> 02:10:11,040
+Now after this,
+everything is going to be simple
+
+1640
+02:10:11,040 --> 02:10:13,080
+and not get complicated.
+
+1641
+02:10:14,120 --> 02:10:19,200
+Okay, so what if now in my looks good
+After saving this,
+
+1642
+02:10:19,320 --> 02:10:24,000
+I woke up next day
+and I started to make changes in it.
+
+1643
+02:10:24,000 --> 02:10:27,000
+I added system dot
+
+1644
+02:10:29,120 --> 02:10:40,480
+intel and it made some changes.
+
+1645
+02:10:40,480 --> 02:10:43,320
+Let's say I made this change and
+
+1646
+02:10:47,200 --> 02:10:48,360
+I'm going to save it.
+
+1647
+02:10:48,360 --> 02:10:49,080
+Okay?
+
+1648
+02:10:49,680 --> 02:10:58,240
+I saved it.
+
+1649
+02:10:58,240 --> 02:11:02,640
+At this point,
+
+1650
+02:11:02,640 --> 02:11:06,160
+I made the change in my Java code.
+
+1651
+02:11:06,720 --> 02:11:09,880
+Is this change changed file
+
+1652
+02:11:10,040 --> 02:11:16,640
+in the repository?
+
+1653
+02:11:16,640 --> 02:11:17,960
+No, it's not.
+
+1654
+02:11:17,960 --> 02:11:23,320
+There.
+
+1655
+02:11:23,320 --> 02:11:25,760
+So I'll represent change with red for now.
+
+1656
+02:11:26,160 --> 02:11:26,840
+Okay,
+
+1657
+02:11:27,560 --> 02:11:33,280
+so this is the file that we have.
+
+1658
+02:11:33,280 --> 02:11:36,600
+So if I now run git status,
+
+1659
+02:11:36,600 --> 02:11:39,640
+what do you think is going to be
+
+1660
+02:11:40,240 --> 02:11:51,200
+the response of my get?
+
+1661
+02:11:51,200 --> 02:11:52,920
+Okay, don't tell me the colors.
+
+1662
+02:11:52,920 --> 02:11:55,760
+Tell me logically
+that what should get be telling me
+
+1663
+02:11:57,600 --> 02:11:57,960
+it. You
+
+1664
+02:11:57,960 --> 02:12:01,080
+tell me that your file has been modified,
+Right?
+
+1665
+02:12:02,520 --> 02:12:03,080
+Okay.
+
+1666
+02:12:03,360 --> 02:12:06,720
+It should not tell me on time
+because it's already tracking it.
+
+1667
+02:12:06,720 --> 02:12:09,880
+It should me that the file
+has been modified
+
+1668
+02:12:09,880 --> 02:12:13,440
+right?
+
+1669
+02:12:13,440 --> 02:12:15,520
+Unplugged means that it's.
+
+1670
+02:12:15,520 --> 02:12:19,120
+It's in the working right has never ever
+
+1671
+02:12:20,040 --> 02:12:22,800
+added in in the staging area
+or the repository.
+
+1672
+02:12:23,640 --> 02:12:27,360
+Whenever we made changes in our code,
+
+1673
+02:12:27,360 --> 02:12:32,480
+which we have already saved it's
+modification right.
+
+1674
+02:12:32,480 --> 02:12:36,760
+So this time, if I open up my terminal
+and I say
+
+1675
+02:12:37,440 --> 02:12:42,360
+get status,
+
+1676
+02:12:42,360 --> 02:12:46,280
+it shows me two files modified
+
+1677
+02:12:47,160 --> 02:12:51,760
+SRT and BIN and the modified is also shown
+
+1678
+02:12:51,760 --> 02:12:59,320
+in red color.
+
+1679
+02:12:59,320 --> 02:13:01,200
+Wait, wait, wait. Hold on.
+
+1680
+02:13:01,200 --> 02:13:03,360
+Let me explain something.
+
+1681
+02:13:04,040 --> 02:13:08,560
+Try to read this
+What it is say changes not stage four
+
+1682
+02:13:08,560 --> 02:13:14,200
+come in and it's telling us
+that it has modified files.
+
+1683
+02:13:14,200 --> 02:13:18,360
+Before it was telling us untracked files
+now is telling us
+
+1684
+02:13:18,840 --> 02:13:22,920
+modified files right.
+
+1685
+02:13:22,920 --> 02:13:23,720
+Okay.
+
+1686
+02:13:23,720 --> 02:13:28,280
+Who is going to tell me
+that I made changes
+
+1687
+02:13:28,280 --> 02:13:31,640
+in only one file, which is SRT?
+
+1688
+02:13:32,080 --> 02:13:35,880
+Why am I getting the changes
+Also in bin file?
+
+1689
+02:13:35,880 --> 02:13:42,120
+Who can tell me that?
+
+1690
+02:13:42,120 --> 02:13:43,920
+No, that's okay.
+
+1691
+02:13:43,920 --> 02:13:45,960
+Let me tell you that. So
+
+1692
+02:13:48,080 --> 02:13:50,040
+bin files,
+
+1693
+02:13:50,520 --> 02:13:52,680
+then files are actually binary files
+
+1694
+02:13:52,680 --> 02:13:56,400
+and they are totally dependent
+on your system.
+
+1695
+02:13:56,880 --> 02:13:59,040
+Okay, It's going to be different for you.
+
+1696
+02:13:59,080 --> 02:14:03,560
+It's going to be different for me when
+I really make some changes in our codes
+
+1697
+02:14:03,840 --> 02:14:09,120
+are binary files automatically change,
+even if we are not making any changes.
+
+1698
+02:14:09,680 --> 02:14:24,480
+Okay.
+
+1699
+02:14:24,480 --> 02:14:27,280
+So that's the reason
+that we are being shown that
+
+1700
+02:14:27,800 --> 02:14:34,840
+there are some changes in bin files.
+
+1701
+02:14:34,840 --> 02:14:38,160
+So let me also color my bin file
+
+1702
+02:14:38,320 --> 02:14:41,800
+because it's also, you know, changing.
+
+1703
+02:14:41,800 --> 02:14:57,880
+Okay.
+
+1704
+02:14:57,880 --> 02:15:00,720
+At this point, I want to,
+
+1705
+02:15:01,760 --> 02:15:06,480
+you know,
+add these up digit changes in my apple.
+
+1706
+02:15:07,080 --> 02:15:31,760
+So which command should I be using?
+
+1707
+02:15:31,760 --> 02:15:37,240
+I should be using it at DOT.
+
+1708
+02:15:37,240 --> 02:15:37,560
+Okay.
+
+1709
+02:15:37,560 --> 02:15:42,120
+So using this command, get add
+dot is going to make a copy
+
+1710
+02:15:42,120 --> 02:15:44,840
+of the SRT file
+
+1711
+02:15:45,600 --> 02:15:47,960
+and it's going to add it
+
+1712
+02:15:47,960 --> 02:15:53,400
+to this changing area.
+
+1713
+02:15:53,400 --> 02:15:56,520
+It's also going to take a copy of bin file
+
+1714
+02:15:57,160 --> 02:16:01,080
+and it's going to add it
+to the staging area.
+
+1715
+02:16:01,080 --> 02:16:01,800
+Okay.
+
+1716
+02:16:01,800 --> 02:16:06,160
+So at this point,
+the question is that whether these files
+
+1717
+02:16:06,160 --> 02:16:09,000
+dot last that dot settings dot project
+
+1718
+02:16:09,800 --> 02:16:13,640
+are these files going to remain there
+or are they going to be
+
+1719
+02:16:13,640 --> 02:16:39,120
+deleted from here?
+
+1720
+02:16:39,120 --> 02:16:40,280
+Okay. So
+
+1721
+02:16:41,280 --> 02:16:43,200
+for conceptual purpose, remember,
+
+1722
+02:16:43,200 --> 02:16:47,440
+for conceptual,
+we will say that they will remain there.
+
+1723
+02:16:48,320 --> 02:16:48,880
+Okay?
+
+1724
+02:16:48,880 --> 02:16:59,840
+They are going to remain there.
+
+1725
+02:16:59,840 --> 02:17:00,520
+Okay.
+
+1726
+02:17:00,520 --> 02:17:04,320
+So now let's add the files
+
+1727
+02:17:04,520 --> 02:17:09,360
+where the command did at DOT.
+
+1728
+02:17:09,360 --> 02:17:10,120
+Okay?
+
+1729
+02:17:10,120 --> 02:17:13,600
+So it shows me no output
+
+1730
+02:17:13,600 --> 02:17:16,320
+if at this point
+
+1731
+02:17:16,320 --> 02:17:23,840
+I use get status,
+
+1732
+02:17:23,840 --> 02:17:29,120
+what do you guys suggest will happen?
+
+1733
+02:17:29,120 --> 02:17:34,760
+What should be the output of my terminal?
+
+1734
+02:17:34,760 --> 02:17:35,080
+Okay.
+
+1735
+02:17:35,080 --> 02:17:36,000
+Which files?
+
+1736
+02:17:36,000 --> 02:17:39,480
+It will show me
+
+1737
+02:17:39,600 --> 02:17:44,600
+in green and let untracked files.
+
+1738
+02:17:44,600 --> 02:17:48,680
+Are you sure about it?
+
+1739
+02:17:48,680 --> 02:17:50,160
+Okay, let's try that out.
+
+1740
+02:17:50,160 --> 02:17:53,040
+So you guys are saying
+it should show me two files
+
+1741
+02:17:53,400 --> 02:17:57,400
+in green color?
+
+1742
+02:17:57,400 --> 02:18:00,480
+Yes, it does. It shows me that
+
+1743
+02:18:00,480 --> 02:18:03,280
+these are the two files that needs to be
+
+1744
+02:18:05,480 --> 02:18:06,600
+committed.
+
+1745
+02:18:06,600 --> 02:18:09,240
+Okay, so
+
+1746
+02:18:09,240 --> 02:18:14,680
+now I want to commit these files.
+
+1747
+02:18:14,680 --> 02:18:30,840
+Which command am I going to allow?
+
+1748
+02:18:30,840 --> 02:18:38,960
+Updated SRT, and then, Okay,
+I'm going to put this message.
+
+1749
+02:18:38,960 --> 02:18:40,240
+Look at running.
+
+1750
+02:18:40,240 --> 02:18:42,440
+This command is going to do what?
+
+1751
+02:18:42,440 --> 02:18:46,440
+It's going to make a copy of everything
+that is there inside
+
+1752
+02:18:49,720 --> 02:18:51,560
+the staging area
+
+1753
+02:18:51,560 --> 02:18:53,760
+and it's going to create a comment,
+
+1754
+02:18:54,120 --> 02:18:55,800
+a new comment
+
+1755
+02:19:02,600 --> 02:19:04,800
+DOT project is supposed to be there
+
+1756
+02:19:11,280 --> 02:19:14,520
+and it's also going to label it
+with, you know,
+
+1757
+02:19:15,360 --> 02:19:17,920
+commit name and everything that we learned
+
+1758
+02:19:17,920 --> 02:19:40,880
+before.
+
+1759
+02:19:40,880 --> 02:19:44,160
+So let's do get
+
+1760
+02:19:44,160 --> 02:19:45,360
+commit
+
+1761
+02:19:45,840 --> 02:19:47,920
+dash m
+
+1762
+02:19:48,000 --> 02:19:50,560
+and at this point, let the answer
+
+1763
+02:19:51,240 --> 02:19:56,480
+put the message contains
+bin and se are see
+
+1764
+02:19:58,360 --> 02:20:00,160
+updated right
+
+1765
+02:20:04,240 --> 02:20:06,360
+let's press enter.
+
+1766
+02:20:06,360 --> 02:20:07,200
+Okay.
+
+1767
+02:20:07,640 --> 02:20:10,880
+Now I want to make sure that my repository
+
+1768
+02:20:11,760 --> 02:20:16,200
+nothing else
+which is on track, modified or updated.
+
+1769
+02:20:16,520 --> 02:20:21,000
+I sure I'm going to reply to your
+and to yours to just wait
+
+1770
+02:20:21,960 --> 02:20:24,800
+so I can run get status right.
+
+1771
+02:20:24,800 --> 02:20:26,840
+So running at status
+is going to return me.
+
+1772
+02:20:26,840 --> 02:20:36,680
+What at this point can someone tell me?
+
+1773
+02:20:36,680 --> 02:20:38,160
+Nothing. Right.
+
+1774
+02:20:38,600 --> 02:20:43,920
+So if I run with status,
+
+1775
+02:20:43,920 --> 02:20:47,720
+my working tree is clean.
+
+1776
+02:20:47,720 --> 02:20:49,600
+Okay. I want to see
+
+1777
+02:20:50,760 --> 02:20:52,360
+de commits in
+
+1778
+02:20:52,360 --> 02:20:58,320
+my repository.
+
+1779
+02:20:58,320 --> 02:20:59,680
+Get locked
+
+1780
+02:21:00,360 --> 02:21:01,160
+said now.
+
+1781
+02:21:01,160 --> 02:21:04,160
+Shows me three commands, all
+
+1782
+02:21:04,160 --> 02:21:06,200
+with the message and
+
+1783
+02:21:07,760 --> 02:21:10,120
+the first one appears at the bottom.
+
+1784
+02:21:10,120 --> 02:21:21,200
+And then so on.
+
+1785
+02:21:21,200 --> 02:21:21,360
+Okay.
+
+1786
+02:21:21,360 --> 02:21:24,960
+So now
+this cycle is going to repeat someone.
+
+1787
+02:21:25,320 --> 02:21:26,800
+Someone asked me.
+
+1788
+02:21:27,000 --> 02:21:30,000
+Yes. Every time he makes some changes.
+
+1789
+02:21:31,920 --> 02:21:35,800
+We will have to add them to
+the staging area, will have to come back.
+
+1790
+02:21:35,800 --> 02:21:38,000
+That's okay.
+
+1791
+02:21:38,000 --> 02:21:43,000
+This is something
+that we will have to do continuously.
+
+1792
+02:21:43,000 --> 02:21:46,520
+And now let's let's deal
+
+1793
+02:21:46,520 --> 02:21:50,960
+with one more scenario.
+
+1794
+02:21:50,960 --> 02:21:56,240
+Let's create a new, let's say, file
+over here in this folder.
+
+1795
+02:21:56,520 --> 02:21:59,280
+I'm going to create a new file
+
+1796
+02:21:59,280 --> 02:22:02,360
+and I'm going to name it
+
+1797
+02:22:06,360 --> 02:22:18,440
+text file.
+
+1798
+02:22:18,440 --> 02:22:23,720
+In fact, I think creating a text file is
+going to be difficult for you guys on Mac.
+
+1799
+02:22:24,080 --> 02:22:25,920
+So let's do it.
+
+1800
+02:22:25,920 --> 02:22:26,680
+Let's do it.
+
+1801
+02:22:26,680 --> 02:22:31,480
+From the clips.
+
+1802
+02:22:31,480 --> 02:22:36,520
+Let's go to that project
+and let's do new and let's do class.
+
+1803
+02:22:37,200 --> 02:22:37,440
+Okay?
+
+1804
+02:22:37,440 --> 02:22:41,160
+So I want you to click Kid project.
+
+1805
+02:22:41,160 --> 02:22:41,800
+Okay?
+
+1806
+02:22:41,800 --> 02:22:44,080
+At this at this point, did project
+
+1807
+02:22:44,680 --> 02:22:47,400
+and click on new and click on class
+
+1808
+02:22:48,120 --> 02:22:58,520
+and name text.
+
+1809
+02:22:58,520 --> 02:23:00,680
+So I want the source folder to be good.
+
+1810
+02:23:00,960 --> 02:23:01,560
+Project
+
+1811
+02:23:03,400 --> 02:23:04,000
+everyone.
+
+1812
+02:23:04,000 --> 02:23:06,720
+I want you guys to do this. Okay?
+
+1813
+02:23:06,720 --> 02:23:09,520
+I want you make the source folder.
+
+1814
+02:23:09,520 --> 02:23:12,120
+Did project and
+
+1815
+02:23:12,120 --> 02:23:14,400
+create a class and name a text.
+
+1816
+02:23:15,680 --> 02:23:17,320
+Let me try it. If it.
+
+1817
+02:23:17,320 --> 02:23:23,920
+Yes it does.
+
+1818
+02:23:23,920 --> 02:23:28,640
+So let me repeat right
+click and get Project new
+
+1819
+02:23:30,240 --> 02:23:31,960
+and then class.
+
+1820
+02:23:31,960 --> 02:23:32,760
+Okay.
+
+1821
+02:23:33,600 --> 02:23:36,680
+Make sure that your source folder is
+
+1822
+02:23:38,200 --> 02:23:40,000
+get project
+
+1823
+02:23:42,600 --> 02:23:45,000
+type in the name text
+
+1824
+02:23:45,000 --> 02:24:01,320
+and click on finished.
+
+1825
+02:24:01,320 --> 02:24:02,840
+No, nothing. Nothing.
+
+1826
+02:24:02,840 --> 02:24:04,920
+You need to. You need to select nothing.
+
+1827
+02:24:05,560 --> 02:24:05,880
+Okay.
+
+1828
+02:24:05,880 --> 02:24:10,320
+So what we just did,
+we created a new file, right
+
+1829
+02:24:10,320 --> 02:24:14,680
+We just created a new file in this folder
+in our working rectory,
+
+1830
+02:24:14,680 --> 02:24:24,360
+which is text dot Java.
+
+1831
+02:24:24,360 --> 02:24:27,520
+This is what we did, guys. Right?
+
+1832
+02:24:27,520 --> 02:24:31,200
+We just created one new file.
+
+1833
+02:24:31,200 --> 02:24:34,200
+Okay, Now I want you to tell me
+
+1834
+02:24:34,760 --> 02:24:39,120
+what will be the
+status if I run get status
+
+1835
+02:24:40,120 --> 02:24:41,760
+without running a command.
+
+1836
+02:24:41,760 --> 02:24:44,960
+Actually, I want you to tell me this
+
+1837
+02:24:57,680 --> 02:24:58,800
+exactly
+
+1838
+02:24:58,800 --> 02:25:03,600
+because we added a new file,
+which is not yet in the staging area.
+
+1839
+02:25:03,600 --> 02:25:04,520
+All render apple.
+
+1840
+02:25:04,520 --> 02:25:08,440
+So this is going to see
+that there is one untracked file.
+
+1841
+02:25:09,080 --> 02:25:12,560
+So let's check that out right.
+
+1842
+02:25:12,560 --> 02:25:16,240
+Get status.
+
+1843
+02:25:16,240 --> 02:25:22,920
+There you go.
+
+1844
+02:25:22,920 --> 02:25:26,040
+It shows us that this file text or Java
+
+1845
+02:25:26,040 --> 02:25:34,960
+is on track.
+
+1846
+02:25:34,960 --> 02:25:38,720
+Now, again, if you want to track this
+file, guys, what what I need to do
+
+1847
+02:25:40,640 --> 02:25:50,440
+is, Abdul,
+
+1848
+02:25:50,800 --> 02:25:57,400
+you are getting this because you created
+your file in the wrong location.
+
+1849
+02:25:57,400 --> 02:26:03,760
+I told you
+specifically to go to new class,
+
+1850
+02:26:04,120 --> 02:26:06,160
+and then you need to remove SIRC.
+
+1851
+02:26:06,720 --> 02:26:13,480
+I mentioned.
+
+1852
+02:26:13,480 --> 02:26:17,000
+Okay, so we have, you know, to
+
+1853
+02:26:17,600 --> 02:26:20,280
+to match us to do that I can use good
+
+1854
+02:26:20,280 --> 02:26:23,160
+add text or java or I can use get add dot.
+
+1855
+02:26:23,400 --> 02:26:29,720
+Will that make a difference?
+
+1856
+02:26:29,720 --> 02:26:31,520
+It wont make a difference.
+
+1857
+02:26:31,520 --> 02:26:35,480
+Why can someone tell me the reason
+that why it would make a difference
+
+1858
+02:26:37,920 --> 02:26:39,000
+at this point?
+
+1859
+02:26:39,000 --> 02:26:41,080
+Only at this point
+
+1860
+02:26:42,120 --> 02:26:44,600
+because it is the only file
+that is a b on track.
+
+1861
+02:26:44,600 --> 02:26:49,040
+So if I use get that done, it's
+going to take every file which is only one
+
+1862
+02:26:49,640 --> 02:26:52,520
+or so.
+
+1863
+02:26:52,520 --> 02:26:56,560
+Let's do it at dot.
+
+1864
+02:26:57,480 --> 02:26:57,680
+Okay.
+
+1865
+02:26:57,680 --> 02:27:10,760
+Now if I do get status guys,
+what should be the output output?
+
+1866
+02:27:10,760 --> 02:27:13,440
+The text files should be turned
+into green,
+
+1867
+02:27:14,560 --> 02:27:23,440
+showing that it is in the staging area.
+
+1868
+02:27:23,440 --> 02:27:24,360
+Right.
+
+1869
+02:27:24,360 --> 02:27:28,760
+So now again, what I want is
+I want it to have in the repository.
+
+1870
+02:27:29,280 --> 02:27:41,320
+So this
+
+1871
+02:27:48,080 --> 02:27:51,480
+and it will make a new comment
+
+1872
+02:27:52,200 --> 02:27:53,160
+and it will label it
+
+1873
+02:27:53,160 --> 02:27:59,400
+also, we are running this command commit.
+
+1874
+02:27:59,400 --> 02:28:02,720
+Let's say
+the message just time is going to be
+
+1875
+02:28:05,360 --> 02:28:07,200
+new file
+
+1876
+02:28:07,760 --> 02:28:15,080
+text dot java.
+
+1877
+02:28:15,080 --> 02:28:18,320
+So if I open up my terminal
+now and I type in, get
+
+1878
+02:28:19,280 --> 02:28:21,400
+comment bash m
+
+1879
+02:28:24,800 --> 02:28:26,240
+new file
+
+1880
+02:28:27,280 --> 02:28:37,400
+text dark shower.
+
+1881
+02:28:37,400 --> 02:28:37,880
+Okay.
+
+1882
+02:28:37,880 --> 02:28:41,400
+So I again made a syntax mistake, right.
+
+1883
+02:28:41,400 --> 02:28:46,920
+I forgot the semi semicolon the start
+so I have to quit it.
+
+1884
+02:28:46,920 --> 02:28:47,760
+Okay.
+
+1885
+02:28:47,800 --> 02:28:50,400
+You can either use column Q or control
+
+1886
+02:28:50,400 --> 02:29:17,600
+C, okay.
+
+1887
+02:29:18,000 --> 02:29:22,760
+Now at this point, if I do get log,
+
+1888
+02:29:24,040 --> 02:29:26,640
+I can see all the,
+
+1889
+02:29:26,960 --> 02:29:31,160
+you know, all the full commits.
+
+1890
+02:29:31,440 --> 02:29:32,880
+So I made full commits, right?
+
+1891
+02:29:32,880 --> 02:29:36,200
+If I want to make sure I can simply have
+
+1892
+02:29:36,440 --> 02:29:40,720
+a look at my wiggle
+dragging on one, two, three,
+
+1893
+02:29:40,720 --> 02:29:45,680
+four and everything is in synchronization.
+
+1894
+02:29:45,680 --> 02:29:47,160
+Okay, so what is the question?
+
+1895
+02:29:47,160 --> 02:29:51,480
+If there were many files
+still we would use could come dash m
+
+1896
+02:29:52,880 --> 02:29:54,000
+I said, What do you mean?
+
+1897
+02:29:54,000 --> 02:29:58,320
+That if you have many you mean to say that
+you have many files in this staging area
+
+1898
+02:29:58,320 --> 02:30:04,720
+that needs to become added? Yes.
+
+1899
+02:30:04,720 --> 02:30:08,040
+Remember, get commit M What it does is it
+
+1900
+02:30:08,040 --> 02:30:11,040
+picks all the file in the staging area.
+
+1901
+02:30:11,040 --> 02:30:12,120
+It it is.
+
+1902
+02:30:12,120 --> 02:30:14,160
+Is it not going to differentiate that?
+
+1903
+02:30:14,160 --> 02:30:15,960
+Okay, let me pick one.
+
+1904
+02:30:15,960 --> 02:30:18,680
+And this answers the question of amma
+
+1905
+02:30:19,000 --> 02:30:21,800
+y first staging area graphical
+
+1906
+02:30:25,480 --> 02:30:27,760
+because if we want to make a
+
+1907
+02:30:27,760 --> 02:30:33,360
+decision that we want
+only few files in our comment,
+
+1908
+02:30:33,360 --> 02:30:37,760
+then we have to send them first
+to staging area because Repository
+
+1909
+02:30:37,760 --> 02:30:41,200
+is going to pick complete code
+in the staging area.
+
+1910
+02:30:41,840 --> 02:30:53,280
+So okay,
+
+1911
+02:30:53,320 --> 02:30:59,760
+so enough practice
+or do you guys want to practice or.
+
+1912
+02:30:59,760 --> 02:31:03,600
+MUHAMMAD I'm afraid that once
+the commit has been made,
+
+1913
+02:31:04,320 --> 02:31:07,760
+you cannot do that.
+
+1914
+02:31:07,760 --> 02:31:10,680
+Is there any command to
+
+1915
+02:31:11,520 --> 02:31:12,120
+to do what?
+
+1916
+02:31:12,120 --> 02:31:15,120
+To select good dash? M
+
+1917
+02:31:15,120 --> 02:31:15,840
+I don't get it.
+
+1918
+02:31:15,840 --> 02:31:17,640
+So that to file.
+
+1919
+02:31:17,640 --> 02:31:21,120
+Okay, this is what I told you.
+
+1920
+02:31:21,120 --> 02:31:22,560
+No, get commit.
+
+1921
+02:31:22,560 --> 02:31:29,840
+M is going to take everything
+that is in the staging area.
+
+1922
+02:31:29,840 --> 02:31:30,880
+That's the reason, guys.
+
+1923
+02:31:30,880 --> 02:31:32,880
+That's
+the reason you have staging area. Right?
+
+1924
+02:31:32,880 --> 02:31:37,320
+So for example,
+if you just want to have text or Java
+
+1925
+02:31:37,560 --> 02:31:40,560
+your repository, what you can do is
+
+1926
+02:31:40,560 --> 02:31:44,880
+you can use only send text
+or generate in the staging area.
+
+1927
+02:31:45,400 --> 02:31:53,480
+Okay.
+
+1928
+02:31:53,480 --> 02:31:53,920
+Silence.
+
+1929
+02:31:53,920 --> 02:31:56,360
+That is going to be our next topic.
+
+1930
+02:31:56,360 --> 02:31:57,720
+Okay. Not now.
+
+1931
+02:31:57,720 --> 02:32:02,400
+We are not discussing it right now.
+
+1932
+02:32:02,400 --> 02:32:04,560
+How created class to on that?
+
+1933
+02:32:04,560 --> 02:32:08,160
+Do you want me to tell you
+that how I created text on Java
+
+1934
+02:32:08,560 --> 02:32:11,240
+or this one gets you don't want that
+
+1935
+02:32:18,760 --> 02:32:20,840
+simple you need to click on
+
+1936
+02:32:20,840 --> 02:32:23,600
+SRT new file is to you know,
+
+1937
+02:32:25,000 --> 02:32:28,080
+create it over there good or too
+
+1938
+02:32:28,080 --> 02:32:30,600
+I did not create get
+
+1939
+02:32:32,080 --> 02:32:34,120
+okay test for Java
+
+1940
+02:32:34,120 --> 02:32:36,480
+for creating test for Java click on
+
+1941
+02:32:36,480 --> 02:32:39,600
+get project go to new
+
+1942
+02:32:39,600 --> 02:32:42,240
+and political class
+
+1943
+02:32:42,240 --> 02:32:44,760
+by default it is going to show you that
+
+1944
+02:32:45,400 --> 02:32:50,240
+this source folder is
+see just delete it from over there
+
+1945
+02:32:50,960 --> 02:32:53,880
+and then we have a name
+and click on finish.
+
+1946
+02:32:55,160 --> 02:32:56,760
+This is not did correct corrected.
+
+1947
+02:32:56,760 --> 02:32:59,040
+But why I did it because
+
+1948
+02:32:59,880 --> 02:33:03,760
+it's hard for you
+create a file on Mac attacks.
+
+1949
+02:33:03,760 --> 02:33:08,960
+Well so in order to save that hassle
+I just created it directly
+
+1950
+02:33:08,960 --> 02:33:09,800
+from all the there.
+
+1951
+02:33:09,800 --> 02:33:13,680
+The purpose was to show you guys
+how the gate is working.
+
+1952
+02:33:13,680 --> 02:33:14,400
+Okay.
+
+1953
+02:33:14,400 --> 02:33:19,080
+So don't,
+you know, think that this is something
+
+1954
+02:33:19,080 --> 02:33:22,000
+you should do or this is something
+you will be doing in Eclipse?
+
+1955
+02:33:22,320 --> 02:33:25,240
+You should all
+only focus on the get barred.
+
+1956
+02:33:26,360 --> 02:33:28,480
+Okay, So
+
+1957
+02:33:30,280 --> 02:33:31,480
+let's what else do
+
+1958
+02:33:31,480 --> 02:33:50,480
+we have for today? So
+
+1959
+02:33:54,960 --> 02:33:57,240
+okay, guys, so tell me, is the workflow
+
+1960
+02:33:57,360 --> 02:34:05,680
+Get clear to all of you.
+
+1961
+02:34:05,680 --> 02:34:07,560
+Is I clear about that?
+
+1962
+02:34:07,560 --> 02:34:09,960
+What's a working
+directory? Was a staging area.
+
+1963
+02:34:09,960 --> 02:34:27,600
+What's the apple?
+
+1964
+02:34:27,600 --> 02:34:31,320
+Okay, so you are not clear about
+what's a staging area
+
+1965
+02:34:36,120 --> 02:34:37,080
+and what's the apple?
+
+1966
+02:34:37,080 --> 02:34:42,400
+You're not clear about this.
+
+1967
+02:34:42,400 --> 02:34:43,760
+It's going to work.
+
+1968
+02:34:43,760 --> 02:34:47,160
+If you remember this workflow,
+everything is going to go going, okay,
+
+1969
+02:34:48,760 --> 02:34:54,360
+sure.
+
+1970
+02:34:54,360 --> 02:34:59,320
+Okay, let's do one thing.
+
+1971
+02:34:59,320 --> 02:35:01,560
+Let's now just delete one file.
+
+1972
+02:35:02,200 --> 02:35:04,400
+Let's just export Java.
+
+1973
+02:35:04,400 --> 02:35:06,000
+Okay?
+
+1974
+02:35:06,000 --> 02:35:09,600
+I deleted text or Java from my folder
+
+1975
+02:35:10,200 --> 02:35:15,280
+and let's also do it in the eclipse.
+
+1976
+02:35:15,280 --> 02:35:17,280
+Let's right click on it.
+
+1977
+02:35:17,280 --> 02:35:20,760
+Let's click on the lead and click on.
+
+1978
+02:35:20,760 --> 02:35:21,600
+Okay,
+
+1979
+02:35:22,320 --> 02:35:39,400
+So text or Java has been deleted.
+
+1980
+02:35:39,400 --> 02:35:44,880
+So we had this file text or Java
+and I simply deleted it from the
+
+1981
+02:35:45,880 --> 02:35:46,560
+eclipse.
+
+1982
+02:35:46,560 --> 02:35:49,040
+Okay.
+
+1983
+02:35:49,040 --> 02:35:55,680
+Now if I do get status
+without running anything on time,
+
+1984
+02:35:55,880 --> 02:36:14,360
+what do you guys think
+is going to be the output?
+
+1985
+02:36:14,360 --> 02:36:21,200
+Okay, so Aleena and Jimmy,
+you guys are saying nothing.
+
+1986
+02:36:21,200 --> 02:36:25,440
+First of all, tell me is at this point
+
+1987
+02:36:26,040 --> 02:36:29,680
+working directory
+and the ripple are at the
+
+1988
+02:36:29,680 --> 02:36:42,720
+at the same level
+or is there any change is
+
+1989
+02:36:46,440 --> 02:36:48,600
+there is a change and what changes that
+
+1990
+02:36:55,280 --> 02:36:56,840
+it's the deletion
+
+1991
+02:36:56,840 --> 02:37:00,600
+in this
+we have text or Java and our last commit,
+
+1992
+02:37:00,920 --> 02:37:04,160
+but now in the working library
+we do not have text or java.
+
+1993
+02:37:04,440 --> 02:37:10,360
+So do you expect that
+good should be smart enough to track this?
+
+1994
+02:37:10,360 --> 02:37:14,160
+You expect it to be smart enough?
+
+1995
+02:37:14,160 --> 02:37:15,720
+It should be right.
+
+1996
+02:37:15,720 --> 02:37:17,960
+So let's do this status
+
+1997
+02:37:20,200 --> 02:37:22,040
+and see what it shows us.
+
+1998
+02:37:23,000 --> 02:37:25,000
+Look, we see
+
+1999
+02:37:25,000 --> 02:37:28,720
+it says that changes not stage four.
+
+2000
+02:37:28,720 --> 02:37:32,960
+Commit
+You have deleted a file, text or Java
+
+2001
+02:37:32,960 --> 02:37:42,720
+and you need to make these changes
+in the repository.
+
+2002
+02:37:42,720 --> 02:37:49,080
+So when you delete the file,
+it shows up in red with the message,
+
+2003
+02:37:49,080 --> 02:37:54,960
+delete it.
+
+2004
+02:37:54,960 --> 02:37:57,160
+Okay. Okay, Jimmy, That's fine.
+
+2005
+02:37:57,280 --> 02:38:00,280
+That's why I told you that
+with the concept that you have.
+
+2006
+02:38:00,400 --> 02:38:03,080
+Okay, come with the concept that you have.
+
+2007
+02:38:04,680 --> 02:38:06,720
+Not by running it
+
+2008
+02:38:14,520 --> 02:38:16,360
+how to make changes in the repository.
+
+2009
+02:38:16,360 --> 02:38:18,600
+What? What do you mean by that?
+
+2010
+02:38:18,600 --> 02:38:20,160
+What's your actual question?
+
+2011
+02:38:20,160 --> 02:38:22,600
+I don't understand it.
+
+2012
+02:38:23,040 --> 02:38:24,760
+Like changes that we just made,
+
+2013
+02:38:24,760 --> 02:38:30,280
+how to select them.
+
+2014
+02:38:30,280 --> 02:38:32,880
+Okay, we are we are going to do that now.
+
+2015
+02:38:33,640 --> 02:38:37,800
+We we we ran get status
+and it shows us that, you know,
+
+2016
+02:38:38,000 --> 02:38:40,320
+this file has been deleted.
+
+2017
+02:38:40,320 --> 02:38:44,440
+So what we want
+to do, we want to have this
+
+2018
+02:38:45,800 --> 02:38:48,920
+working
+directory state in the staging area.
+
+2019
+02:38:49,280 --> 02:39:08,240
+So which command should I rather?
+
+2020
+02:39:08,240 --> 02:39:10,240
+So let's try that out.
+
+2021
+02:39:10,240 --> 02:39:13,440
+Let's try get at dot
+
+2022
+02:39:18,840 --> 02:39:20,160
+and now this one
+
+2023
+02:39:20,160 --> 02:39:26,040
+get status.
+
+2024
+02:39:26,040 --> 02:39:32,280
+So what it did is
+it took the state of the working day pre
+
+2025
+02:39:33,200 --> 02:39:37,800
+and it reflected everything over there
+and it updated the changes
+
+2026
+02:39:37,800 --> 02:39:42,440
+it said that deleted text or Java.
+
+2027
+02:39:42,440 --> 02:39:45,840
+So at this point
+after running it to add dot
+
+2028
+02:39:46,280 --> 02:39:49,920
+Dexter Java is going to get deleted
+from the staging area.
+
+2029
+02:39:49,920 --> 02:40:06,960
+Also.
+
+2030
+02:40:06,960 --> 02:40:07,400
+Okay.
+
+2031
+02:40:07,400 --> 02:40:18,440
+So at this point, is it
+going to get deleted from the wrapper?
+
+2032
+02:40:18,440 --> 02:40:21,480
+No, all everything
+is there in the staging area.
+
+2033
+02:40:21,840 --> 02:40:24,480
+So if we want to now
+
+2034
+02:40:24,480 --> 02:40:29,400
+have this in the report,
+do you guys think that we will have
+
+2035
+02:40:29,400 --> 02:40:32,960
+to make a new commit or we can
+somehow make changes in the previous
+
+2036
+02:40:32,960 --> 02:40:47,040
+commit?
+
+2037
+02:40:47,040 --> 02:40:49,040
+Yes, you are right about it.
+
+2038
+02:40:49,040 --> 02:41:00,640
+We will have to make a comment.
+
+2039
+02:41:00,640 --> 02:41:01,320
+I'll tell you.
+
+2040
+02:41:01,320 --> 02:41:10,120
+Why is that so?
+
+2041
+02:41:10,120 --> 02:41:10,800
+I'll tell you.
+
+2042
+02:41:11,880 --> 02:41:13,720
+It's nothing to be confused about.
+
+2043
+02:41:13,720 --> 02:41:14,760
+It. Okay.
+
+2044
+02:41:14,760 --> 02:41:17,880
+So when you run this,
+everything that is there in
+
+2045
+02:41:17,880 --> 02:41:21,600
+the staging area is going to come to
+
+2046
+02:41:27,000 --> 02:41:29,840
+a new commit.
+
+2047
+02:41:29,840 --> 02:41:33,600
+And guys in this new commit,
+do we have any text
+
+2048
+02:41:33,600 --> 02:41:34,800
+or Java
+
+2049
+02:41:40,320 --> 02:41:41,880
+knows?
+
+2050
+02:41:42,400 --> 02:41:45,360
+So we have reflected the changes
+
+2051
+02:41:45,360 --> 02:41:55,760
+in the working in the repo.
+
+2052
+02:41:55,760 --> 02:41:59,600
+I'll tell you I shall we
+we have reflected the changes
+
+2053
+02:41:59,600 --> 02:42:03,640
+that are in the working tree in the repo.
+
+2054
+02:42:03,640 --> 02:42:04,880
+Look at the classes.
+
+2055
+02:42:04,880 --> 02:42:06,960
+One, two, three, four. One, two,
+three, four.
+
+2056
+02:42:06,960 --> 02:42:09,480
+Everything is the way that is seen.
+
+2057
+02:42:09,480 --> 02:42:11,520
+Nil haven't be reflected in
+
+2058
+02:42:14,160 --> 02:42:16,560
+what have happened to the text or java
+
+2059
+02:42:17,360 --> 02:42:20,280
+in the previous commit,
+but it's not in the new commit.
+
+2060
+02:42:20,280 --> 02:42:20,920
+Right.
+
+2061
+02:42:20,920 --> 02:42:24,960
+I'll tell you why is that so?
+
+2062
+02:42:24,960 --> 02:42:30,960
+Okay, so first let's do it
+and then it will come to that question.
+
+2063
+02:42:30,960 --> 02:42:35,040
+So let's honor terminal write down, get
+
+2064
+02:42:35,840 --> 02:42:38,080
+commit dash am
+
+2065
+02:42:39,880 --> 02:42:42,400
+text file
+
+2066
+02:42:42,720 --> 02:42:48,320
+dot java, delete it.
+
+2067
+02:42:48,320 --> 02:42:52,080
+Okay, let me know once you have done it
+and then I'm going to answer your question
+
+2068
+02:42:52,080 --> 02:42:55,560
+that why we do
+we have to make a new commit
+
+2069
+02:42:56,000 --> 02:42:59,160
+and why is it not deleted
+from the previous
+
+2070
+02:42:59,160 --> 02:43:07,920
+commit?
+
+2071
+02:43:07,920 --> 02:43:11,160
+Okay, so
+
+2072
+02:43:11,760 --> 02:43:14,280
+now I'm going to tell you
+
+2073
+02:43:14,280 --> 02:43:16,360
+I'm going to actually answer the question,
+
+2074
+02:43:16,880 --> 02:43:20,080
+which is that, hey, when I deleted text
+
+2075
+02:43:20,200 --> 02:43:24,160
+Java from working directory,
+it got deleted from the staging area.
+
+2076
+02:43:24,560 --> 02:43:28,320
+Then why is it not deleted
+from the previous commit?
+
+2077
+02:43:28,320 --> 02:43:30,120
+Why is it making a new commit?
+
+2078
+02:43:30,120 --> 02:43:46,800
+This is the question right?
+
+2079
+02:43:46,800 --> 02:43:49,680
+You guys get the question right.
+
+2080
+02:43:49,680 --> 02:43:50,480
+You understand that?
+
+2081
+02:43:50,480 --> 02:43:58,800
+What the question is all of you.
+
+2082
+02:43:58,800 --> 02:44:02,400
+Okay, so now tell me that what if
+
+2083
+02:44:02,520 --> 02:44:05,560
+next door Java one of the feature
+
+2084
+02:44:07,280 --> 02:44:09,920
+which was in version three
+
+2085
+02:44:10,080 --> 02:44:13,000
+but you don't want that feature and in for
+
+2086
+02:44:13,920 --> 02:44:17,560
+so do you want get two
+also deleted from version
+
+2087
+02:44:17,560 --> 02:44:18,400
+three
+
+2088
+02:44:24,360 --> 02:44:26,120
+so good is smart enough
+
+2089
+02:44:26,120 --> 02:44:29,280
+to take care of that right
+
+2090
+02:44:29,320 --> 02:44:31,520
+Get to smart enough what it will do
+
+2091
+02:44:32,160 --> 02:44:35,560
+next time you make changes delete
+something.
+
+2092
+02:44:35,840 --> 02:44:38,400
+It is going to say,
+Hey, make a new comment
+
+2093
+02:44:38,400 --> 02:44:42,760
+because I don't want to you to lose
+anything that you have done in the past.
+
+2094
+02:44:43,120 --> 02:44:48,080
+So remember,
+should keep track of all the history,
+
+2095
+02:44:48,600 --> 02:44:51,160
+everything that you have done till point.
+
+2096
+02:44:51,480 --> 02:44:52,680
+That's the reason
+
+2097
+02:44:52,680 --> 02:44:56,640
+you cannot go back and delete some commit
+once you have committed it.
+
+2098
+02:44:57,040 --> 02:45:13,920
+It is not going to allow you to do. Yes.
+
+2099
+02:45:14,040 --> 02:45:16,240
+Let me if I can.
+
+2100
+02:45:16,240 --> 02:45:19,800
+Do you want to have
+look at some repository on the internet,
+
+2101
+02:45:20,960 --> 02:45:25,040
+someone's repository.
+
+2102
+02:45:25,040 --> 02:45:29,400
+Okay, let me show you that
+I have not taught you about GitHub of yet.
+
+2103
+02:45:29,400 --> 02:45:31,680
+You'll be doing that in next class.
+
+2104
+02:45:31,680 --> 02:45:36,080
+But let me just show you one of the
+repository and show you the comments.
+
+2105
+02:45:36,080 --> 02:45:39,480
+How how do the look of some real time
+
+2106
+02:45:39,480 --> 02:45:40,800
+project
+
+2107
+02:45:50,640 --> 02:46:06,800
+this is okay.
+
+2108
+02:46:07,320 --> 02:46:11,840
+So this is all repository
+and the number of comments
+
+2109
+02:46:11,840 --> 02:46:14,040
+that are there is 720 do
+
+2110
+02:46:16,000 --> 02:46:19,720
+so there are 722 commits
+
+2111
+02:46:20,360 --> 02:46:24,080
+that are there.
+
+2112
+02:46:24,080 --> 02:46:27,360
+And the interesting thing is
+that I can go back to anyone
+
+2113
+02:46:32,040 --> 02:46:33,760
+which everyone I want to,
+
+2114
+02:46:33,760 --> 02:46:36,360
+but these are all the commits
+that are there.
+
+2115
+02:46:37,000 --> 02:46:40,200
+And you know,
+if you look at the commit message
+
+2116
+02:46:40,200 --> 02:46:44,920
+couple more glitch
+fix commit time number six 2020
+
+2117
+02:46:45,720 --> 02:46:50,960
+and less would be decimal to
+double it was an overkill so
+
+2118
+02:46:52,320 --> 02:46:53,160
+kind of that
+
+2119
+02:46:53,160 --> 02:46:56,280
+all the comments are there
+and everything is being documented
+
+2120
+02:46:56,760 --> 02:47:00,840
+so that's how helpful you get
+
+2121
+02:47:00,840 --> 02:47:07,200
+is for you.
+
+2122
+02:47:07,200 --> 02:47:11,960
+Okay so does it make sense, guys,
+whatever we have learned today,
+
+2123
+02:47:11,960 --> 02:47:25,400
+are you all comfortable with that?
+
+2124
+02:47:25,400 --> 02:47:26,960
+Okay, perfect.
+
+2125
+02:47:27,160 --> 02:47:30,720
+So what I'll do
+
+2126
+02:47:32,320 --> 02:47:34,680
+is okay, even if you close the terminal.
+
+2127
+02:47:36,120 --> 02:47:38,280
+Okay Awesome. I'm going to guide you.
+Just.
+
+2128
+02:47:38,280 --> 02:47:39,200
+Just be here.
+
+2129
+02:47:39,200 --> 02:47:41,560
+Even if you close the terminal
+at this point,
+
+2130
+02:47:42,120 --> 02:47:45,040
+it's not going to make everything loose
+
+2131
+02:47:45,040 --> 02:47:50,160
+for you. Why?
+
+2132
+02:47:50,160 --> 02:47:52,120
+Because you have everything
+in the repository.
+
+2133
+02:47:52,120 --> 02:47:55,680
+So what if you want to again
+work in this project
+
+2134
+02:47:55,920 --> 02:47:58,240
+and with the same repository,
+what you are going to do?
+
+2135
+02:47:58,240 --> 02:48:00,400
+Can someone tell me
+
+2136
+02:48:09,840 --> 02:48:12,920
+you need to open up the terminal
+
+2137
+02:48:14,960 --> 02:48:17,680
+and you need to now navigate
+
+2138
+02:48:18,720 --> 02:48:20,760
+where you created your apposite tree?
+
+2139
+02:48:22,080 --> 02:48:24,400
+Okay, so for me it was
+
+2140
+02:48:31,560 --> 02:48:37,200
+just for me it was at this workspace
+
+2141
+02:48:38,280 --> 02:48:41,400
+and then I had to
+
+2142
+02:48:41,400 --> 02:48:43,680
+get Project it right.
+
+2143
+02:48:43,680 --> 02:48:47,040
+So this was the place
+where I created the repository, right?
+
+2144
+02:48:47,520 --> 02:48:50,200
+So do I do do I need to use
+
+2145
+02:48:50,200 --> 02:48:55,840
+Git in it again?
+
+2146
+02:48:55,840 --> 02:48:58,520
+Do I use do I have to use get init again?
+
+2147
+02:48:58,520 --> 02:49:01,200
+No, because the repository
+is already there.
+
+2148
+02:49:01,200 --> 02:49:03,280
+So if I do get lost,
+
+2149
+02:49:04,720 --> 02:49:06,600
+everything has been shown.
+
+2150
+02:49:06,600 --> 02:49:11,960
+If I do get status,
+everything is being shown.
+
+2151
+02:49:11,960 --> 02:49:15,880
+This means that
+if I was accidentally to my terminal
+
+2152
+02:49:16,040 --> 02:49:19,400
+I can resume my work from wherever I left
+
+2153
+02:49:19,400 --> 02:49:28,720
+left.
+
+2154
+02:49:28,720 --> 02:49:29,000
+Okay.
+
+2155
+02:49:29,000 --> 02:49:32,640
+So you type in initials
+
+2156
+02:49:32,880 --> 02:49:34,840
+and then press step.
+
+2157
+02:49:34,840 --> 02:49:40,800
+It's going to automatically complete it
+for you.
+
+2158
+02:49:40,800 --> 02:49:46,800
+Okay, So tomorrow, what we are going
+to do tomorrow, we will be
+
+2159
+02:49:48,040 --> 02:49:48,960
+learning
+
+2160
+02:49:50,400 --> 02:49:54,360
+GitHub.
+
+2161
+02:49:54,360 --> 02:49:56,760
+So I'll share these notes with you.
+
+2162
+02:49:56,760 --> 02:49:59,520
+I have the architecture of get explained
+
+2163
+02:50:00,400 --> 02:50:03,600
+how to track the project
+
+2164
+02:50:03,600 --> 02:50:07,680
+step by step each command
+with the functionality.
+
+2165
+02:50:07,680 --> 02:50:10,240
+I have written it. Okay.
+
+2166
+02:50:10,240 --> 02:50:12,840
+What are going to be your errors I'll
+
+2167
+02:50:14,200 --> 02:50:16,120
+I have also mentioned them.
+
+2168
+02:50:16,120 --> 02:50:18,720
+What are the common mistakes that you have
+that you will make?
+
+2169
+02:50:18,720 --> 02:50:20,080
+I have mentioned them.
+
+2170
+02:50:20,080 --> 02:50:23,480
+So as I promised to you guys
+that you don't need to make notes.
+
+2171
+02:50:23,480 --> 02:50:27,360
+I got that cover
+so you don't have to worry about it.
+
+2172
+02:50:29,280 --> 02:50:30,320
+No, no, not tomorrow.
+
+2173
+02:50:30,320 --> 02:50:30,800
+Sorry.
+
+2174
+02:50:30,800 --> 02:50:33,720
+That that was something mistakenly said.
+
+2175
+02:50:34,120 --> 02:50:38,280
+Okay, so before we end our session,
+there's something else
+
+2176
+02:50:38,280 --> 02:50:42,760
+that I wanted to
+I Yes, A suggestion for all of you.
+
+2177
+02:50:42,760 --> 02:50:44,560
+Tomorrow is going to be a review class.
+
+2178
+02:50:44,560 --> 02:50:48,280
+Most probably your next class with me
+is going to be on.
+
+2179
+02:50:48,600 --> 02:50:52,920
+I'll ask and let you know
+what really on are on Tuesday.
+
+2180
+02:50:53,400 --> 02:50:55,720
+I won't tell you in advance.
+
+2181
+02:50:56,520 --> 02:50:57,080
+Okay.
+
+2182
+02:50:57,080 --> 02:51:02,040
+So make sure that before our next class,
+do your homework.
+
+2183
+02:51:02,040 --> 02:51:04,120
+Go to whatever we learn today.
+
+2184
+02:51:04,120 --> 02:51:08,160
+Anyone who wants to review the class,
+my suggestion would be
+
+2185
+02:51:08,400 --> 02:51:11,600
+instead of,
+you know, going the class that we
+
+2186
+02:51:12,560 --> 02:51:15,280
+had today, the video that I sent you,
+
+2187
+02:51:16,120 --> 02:51:19,040
+if you followed that,
+if you listened to that and tried to do
+
+2188
+02:51:19,040 --> 02:51:22,320
+everything that I explained in there,
+it's only
+
+2189
+02:51:22,320 --> 02:51:25,320
+19 to 20 minutes.
+
+2190
+02:51:25,360 --> 02:51:27,880
+You'll get the whole lecture out of it.
+
+2191
+02:51:27,880 --> 02:51:35,760
+Okay?
+
+2192
+02:51:35,760 --> 02:51:37,120
+Okay. Perfect.
+
+2193
+02:51:37,120 --> 02:51:42,480
+So any question that you have regarding
+get I'm still here.
+
+2194
+02:51:42,480 --> 02:51:49,560
+You can ask them and then we can, you
+know, end the session in about 5 minutes.
+
+2195
+02:51:49,560 --> 02:51:54,360
+Any question, guys,
+regarding to today's lecture,
+
+2196
+02:51:54,360 --> 02:51:59,680
+those of you who are good
+can you know Loba thank you for your time.
+
+2197
+02:52:00,600 --> 02:52:02,400
+When will I be sharing the notes?
+
+2198
+02:52:02,400 --> 02:52:09,240
+I'll share them with you right away.
+
+2199
+02:52:09,240 --> 02:52:13,560
+I should add in course announcement
+and I tag everyone homework.
+
+2200
+02:52:13,560 --> 02:52:17,440
+I'll post it in course announcement
+
+2201
+02:52:19,840 --> 02:52:26,880
+for hard.
+
+2202
+02:52:26,880 --> 02:52:27,840
+You are good for hard.
+
+2203
+02:52:27,840 --> 02:52:28,280
+Let's say.
+
+2204
+02:52:28,280 --> 02:52:38,760
+Should I see no issue?
+
+2205
+02:52:38,760 --> 02:52:39,880
+What's the issue here?
+
+2206
+02:52:41,080 --> 02:52:42,080
+There is no issue.
+
+2207
+02:52:42,080 --> 02:52:47,800
+You are most probably unable
+to go to the next, you know next slide.
+
+2208
+02:52:47,800 --> 02:52:49,960
+Try control, see our column.
+
+2209
+02:52:49,960 --> 02:53:01,160
+Q It will take you out of this.
+
+2210
+02:53:01,160 --> 02:53:04,680
+Can you show how you open the first goods
+you want project in there?
+
+2211
+02:53:04,680 --> 02:53:06,000
+Phillips Awesome.
+
+2212
+02:53:06,000 --> 02:53:15,560
+Do you want me
+to create the project for you?
+
+2213
+02:53:15,560 --> 02:53:18,600
+Thank you, guys, and thank you, Leader
+
+2214
+02:53:20,800 --> 02:53:21,800
+after Good luck.
+
+2215
+02:53:21,800 --> 02:53:23,680
+Can I do after that?
+
+2216
+02:53:23,680 --> 02:53:27,120
+I So what are you referring to?

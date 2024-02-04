@@ -1,0 +1,8422 @@
+﻿1
+00:00:02,400 --> 00:00:03,000
+Yeah,
+
+2
+00:00:05,320 --> 00:00:06,640
+but not
+
+3
+00:00:07,760 --> 00:00:08,520
+again. I'm sorry.
+
+4
+00:00:08,520 --> 00:00:10,920
+Thank you.
+
+5
+00:00:14,040 --> 00:00:15,760
+Yeah, actually, I clicked on it.
+
+6
+00:00:15,760 --> 00:00:17,960
+It was like resume recording.
+I just read it.
+
+7
+00:00:17,960 --> 00:00:21,800
+Got any idea about Dockers?
+
+8
+00:00:24,920 --> 00:00:25,280
+Okay,
+
+9
+00:00:25,280 --> 00:00:39,720
+no idea.
+
+10
+00:00:40,520 --> 00:00:42,920
+Okay, so let's first discuss the use case.
+
+11
+00:00:43,280 --> 00:00:48,200
+So Dockers in industry is usually used by
+
+12
+00:00:49,600 --> 00:00:50,680
+DevOps team.
+
+13
+00:00:50,680 --> 00:00:54,880
+They are the one who are responsible
+for making the considerations
+
+14
+00:00:54,880 --> 00:01:00,320
+for helping you out
+whenever you need to work with Dupuis.
+
+15
+00:01:00,320 --> 00:01:04,080
+Usually developers and testers,
+
+16
+00:01:04,080 --> 00:01:08,960
+they do not go in depth of Dockers
+as it's a complete different domain.
+
+17
+00:01:08,960 --> 00:01:12,000
+The people who are responsible,
+who are working with on cloud
+
+18
+00:01:12,440 --> 00:01:16,760
+and the people who are working on DevOps,
+they are the people who are responsible
+
+19
+00:01:16,760 --> 00:01:19,720
+and they should be very much familiar
+with this.
+
+20
+00:01:19,760 --> 00:01:23,160
+But as you know that today
+
+21
+00:01:23,600 --> 00:01:27,840
+in work environments, sometimes
+you have to play a diversified Google.
+
+22
+00:01:27,840 --> 00:01:31,800
+So it's very good that if you have
+some initial basic information
+
+23
+00:01:31,800 --> 00:01:36,600
+about what Docker is, how
+you can utilize it and stuff like that.
+
+24
+00:01:36,600 --> 00:01:37,520
+So we will be going
+
+25
+00:01:37,520 --> 00:01:40,960
+just the basics regarding Docker
+and we will do one example
+
+26
+00:01:41,280 --> 00:01:42,720
+and I will try to incorporate
+
+27
+00:01:42,720 --> 00:01:46,640
+some more example
+if the things are not getting complicated
+
+28
+00:01:46,640 --> 00:01:50,840
+because trust me with doctors,
+things can actually get very complicated.
+
+29
+00:01:51,320 --> 00:01:54,320
+But before that
+I want to make sure that you,
+
+30
+00:01:54,360 --> 00:01:59,040
+all of you have Docker
+installed in your system.
+
+31
+00:01:59,040 --> 00:02:00,600
+Were you able to install Docker?
+
+32
+00:02:01,760 --> 00:02:02,600
+Okay, perfect.
+
+33
+00:02:02,600 --> 00:02:05,680
+That's the price of Didn't
+you guys get any error
+
+34
+00:02:05,680 --> 00:02:13,680
+by installing Docker?
+
+35
+00:02:13,680 --> 00:02:15,280
+Is it done?
+
+36
+00:02:15,280 --> 00:02:18,480
+I'm worried whether you install
+the right thing or not.
+
+37
+00:02:18,520 --> 00:02:19,480
+That's
+
+38
+00:02:23,400 --> 00:02:26,400
+because it took me like half an hour to
+
+39
+00:02:27,720 --> 00:02:35,520
+resolve the errors that I had.
+
+40
+00:02:35,520 --> 00:02:38,880
+Okay,
+So have you also included the doctors
+
+41
+00:02:38,880 --> 00:02:41,560
+in your environment that
+
+42
+00:02:43,000 --> 00:02:43,520
+Yeah, I'm
+
+43
+00:02:43,520 --> 00:02:54,320
+actually surprised.
+
+44
+00:02:54,320 --> 00:02:57,800
+Okay, so a simple test can be that
+
+45
+00:03:01,520 --> 00:03:02,640
+when you run Docker,
+
+46
+00:03:02,640 --> 00:03:06,280
+it should give you something like this
+
+47
+00:03:12,680 --> 00:03:15,120
+so quickly check
+whether it's there or not.
+
+48
+00:03:17,040 --> 00:03:18,600
+And Docker dash dash version
+
+49
+00:03:18,600 --> 00:03:21,600
+is something
+that you can also use for effect.
+
+50
+00:03:21,600 --> 00:03:23,040
+That's that's great.
+
+51
+00:03:23,040 --> 00:03:30,640
+Really.
+
+52
+00:03:30,640 --> 00:03:32,320
+Docker dash dash version.
+
+53
+00:03:32,320 --> 00:03:36,600
+It's going to show you the origin of the
+that installed and you can also run Docker
+
+54
+00:03:37,600 --> 00:03:40,760
+which will list out all the commands
+
+55
+00:03:40,760 --> 00:03:50,600
+that you have for.
+
+56
+00:03:50,600 --> 00:03:52,720
+Yes, this one is great.
+
+57
+00:03:52,800 --> 00:04:01,760
+Perfect.
+
+58
+00:04:01,760 --> 00:04:06,000
+Yeah, that's the problem you like you add
+automation engineer is not DevOps, right?
+
+59
+00:04:06,000 --> 00:04:08,320
+So now this can be tricky.
+
+60
+00:04:08,760 --> 00:04:11,520
+Okay, so let's take one example.
+
+61
+00:04:12,400 --> 00:04:13,960
+So let's suppose that
+
+62
+00:04:15,560 --> 00:04:17,440
+Mariam is working on Windows
+
+63
+00:04:17,440 --> 00:04:20,840
+and she has developed a testing script
+
+64
+00:04:21,600 --> 00:04:23,520
+for an application.
+
+65
+00:04:23,880 --> 00:04:26,600
+So that testing script requires
+
+66
+00:04:26,600 --> 00:04:29,160
+some dependencies.
+
+67
+00:04:29,760 --> 00:04:31,320
+You guys know about dependencies, right?
+
+68
+00:04:31,320 --> 00:04:33,560
+Whenever you are writing script,
+you know that you
+
+69
+00:04:33,560 --> 00:04:37,320
+need to have some kinds of dependencies
+that must be there.
+
+70
+00:04:37,320 --> 00:04:42,240
+For example,
+it can become a testing unit of selenium,
+
+71
+00:04:42,240 --> 00:04:45,240
+chrome, web drivers, anything.
+
+72
+00:04:45,240 --> 00:04:48,040
+So now what happens
+
+73
+00:04:48,040 --> 00:04:53,040
+is that Maryam just finished her work
+and she wants that
+
+74
+00:04:53,040 --> 00:04:56,800
+script to be tested by Fahad
+that let's say,
+
+75
+00:04:57,160 --> 00:05:00,000
+and Fahad has
+
+76
+00:05:00,120 --> 00:05:01,400
+does not work on Windows.
+
+77
+00:05:01,400 --> 00:05:04,160
+He has, let's say Mac operating system
+
+78
+00:05:04,880 --> 00:05:08,640
+then Do you guys think that Fahad
+will be able to run the script
+
+79
+00:05:08,640 --> 00:05:19,920
+that Maryam wrote
+without any difficulties? So
+
+80
+00:05:24,600 --> 00:05:28,680
+no, he will not be able to run it
+because the dependencies
+
+81
+00:05:28,680 --> 00:05:32,160
+for Mac and dependencies for Windows
+
+82
+00:05:32,160 --> 00:05:35,760
+are going to differ a lot.
+
+83
+00:05:35,760 --> 00:05:40,800
+So he will have to most readily
+take just the basic code
+
+84
+00:05:40,800 --> 00:05:45,840
+and install all the dependencies
+all over again and try to run that script.
+
+85
+00:05:45,840 --> 00:05:49,320
+But obviously he's not,
+you know, a free person.
+
+86
+00:05:49,320 --> 00:05:53,040
+He has a lot of busy schedules,
+so this can get actually very
+
+87
+00:05:53,320 --> 00:05:56,400
+difficult for him. So Dockers
+
+88
+00:05:57,960 --> 00:06:00,600
+is what helps
+
+89
+00:06:00,840 --> 00:06:03,840
+Maryam and Fahad run this script
+
+90
+00:06:03,840 --> 00:06:07,440
+without making any changes
+
+91
+00:06:07,680 --> 00:06:24,440
+and we are going to see how.
+
+92
+00:06:24,440 --> 00:06:26,720
+Okay, so what actually happens
+
+93
+00:06:27,720 --> 00:06:30,960
+we use in Docker Docker containers
+
+94
+00:06:32,000 --> 00:06:35,720
+and the container.
+
+95
+00:06:35,720 --> 00:06:37,560
+Let's see,
+this one is the Docker container.
+
+96
+00:06:37,560 --> 00:06:47,040
+Let me just name it, Doctor Container.
+
+97
+00:06:47,040 --> 00:06:48,400
+So this Docker container
+
+98
+00:06:48,400 --> 00:06:52,800
+is going to include all the dependencies
+that are required.
+
+99
+00:06:52,800 --> 00:06:54,840
+For example,
+
+100
+00:06:55,240 --> 00:06:58,320
+large Node.js let's say is required
+
+101
+00:06:58,320 --> 00:07:01,160
+and let's say Selenium is required
+
+102
+00:07:03,240 --> 00:07:05,920
+and the version is also something
+that is important.
+
+103
+00:07:05,920 --> 00:07:09,480
+So let's say Selenium three is required
+
+104
+00:07:09,480 --> 00:07:12,440
+for this particular application and
+
+105
+00:07:18,680 --> 00:07:21,400
+the database that is required is MongoDB.
+
+106
+00:07:21,760 --> 00:07:28,600
+So these are some dependencies
+that are required for this application.
+
+107
+00:07:28,600 --> 00:07:31,440
+And along with that,
+
+108
+00:07:31,440 --> 00:07:33,800
+let's add one more to
+
+109
+00:07:39,560 --> 00:07:40,920
+here is our actual script
+
+110
+00:07:42,360 --> 00:07:45,320
+and it can have like less attacks.
+
+111
+00:07:45,960 --> 00:07:47,760
+So what will Liam do?
+
+112
+00:07:47,760 --> 00:07:50,640
+She will use a container
+
+113
+00:07:50,960 --> 00:07:54,240
+and she will have all her dependencies
+
+114
+00:07:54,400 --> 00:07:58,760
+along with the script
+that goes into the container and she will
+
+115
+00:07:58,760 --> 00:08:04,200
+then send
+this particular container to her heart.
+
+116
+00:08:04,200 --> 00:08:07,320
+Fahadh is going to have another Docker
+container
+
+117
+00:08:07,320 --> 00:08:10,160
+in his own system
+
+118
+00:08:11,840 --> 00:08:13,920
+and he is going to
+
+119
+00:08:13,920 --> 00:08:17,400
+then copy the container
+that Maryam sent her
+
+120
+00:08:19,720 --> 00:08:22,320
+and basically he will just run that script
+
+121
+00:08:22,320 --> 00:08:26,040
+and it's going to work really fine
+without making any changes.
+
+122
+00:08:27,360 --> 00:08:30,040
+So that's a basic, simple
+
+123
+00:08:30,040 --> 00:08:35,280
+use case of why and how Docker works is
+
+124
+00:08:35,280 --> 00:08:47,920
+there is a theater everyone.
+
+125
+00:08:47,920 --> 00:08:48,840
+Okay,
+
+126
+00:08:49,600 --> 00:08:53,600
+so this is going to help you out a lot
+
+127
+00:08:53,600 --> 00:08:55,880
+when you are actually working in your work
+environments.
+
+128
+00:08:55,880 --> 00:08:59,040
+The different kind of environments
+
+129
+00:08:59,040 --> 00:09:02,800
+like one is working on
+Mac, one is working on Windows.
+
+130
+00:09:02,800 --> 00:09:07,280
+And trust me with one thing, even if you
+are working on the same operating system,
+
+131
+00:09:08,640 --> 00:09:12,160
+the difference in the
+
+132
+00:09:12,160 --> 00:09:14,240
+difference
+in the versions of dependencies,
+
+133
+00:09:14,240 --> 00:09:17,360
+it can also affect the working
+of your application.
+
+134
+00:09:18,840 --> 00:09:22,320
+So let's see if I'm a person
+
+135
+00:09:22,320 --> 00:09:25,920
+who is working on a system
+on the same operating system.
+
+136
+00:09:26,680 --> 00:09:30,440
+He has Java version 1.7 installed
+
+137
+00:09:30,680 --> 00:09:33,600
+and you are using some different
+Java version.
+
+138
+00:09:33,600 --> 00:09:36,040
+So he will not be able
+to run your application.
+
+139
+00:09:36,800 --> 00:09:39,520
+So with the help of DRS,
+
+140
+00:09:39,840 --> 00:09:42,560
+he can easily run that.
+
+141
+00:09:43,120 --> 00:09:46,080
+So Docker is used to make the scripts
+and to system independent.
+
+142
+00:09:46,120 --> 00:09:50,280
+Yes. So basically Docker
+makes everything independent
+
+143
+00:09:50,280 --> 00:09:53,760
+and it's not dependent exactly on whatever
+
+144
+00:09:54,120 --> 00:09:58,440
+is installed in the system, but rather
+whatever is being shipped to you.
+
+145
+00:09:58,800 --> 00:10:01,720
+Okay, so let's discuss how
+
+146
+00:10:01,720 --> 00:10:04,160
+it got the name Docker container.
+
+147
+00:10:04,160 --> 00:10:06,960
+So do you guys know that
+what our dock was actually
+
+148
+00:10:07,880 --> 00:10:12,600
+those huge ships that you see at sea, at
+the sea have never seen that
+
+149
+00:10:13,760 --> 00:10:15,000
+at the dock.
+
+150
+00:10:15,120 --> 00:10:19,080
+You call it the Docker
+actually got its name from over there.
+
+151
+00:10:19,320 --> 00:10:24,560
+And as you can see on the symbol, it's
+actually a big real fish
+
+152
+00:10:24,560 --> 00:10:28,600
+with some containers on.
+
+153
+00:10:28,600 --> 00:10:31,920
+So basically it's like a shipment.
+
+154
+00:10:33,120 --> 00:10:35,560
+So as the name suggests, dockers
+
+155
+00:10:35,800 --> 00:10:38,600
+and as the picture image suggests, use
+
+156
+00:10:38,600 --> 00:10:43,720
+for shipment.
+
+157
+00:10:43,720 --> 00:10:47,080
+Okay, So now the next thing that we will
+
+158
+00:10:47,080 --> 00:10:54,640
+discuss, Okay, let's get into a little bit
+of looking
+
+159
+00:10:54,720 --> 00:10:58,560
+at how Docker works on your system
+independently.
+
+160
+00:10:59,040 --> 00:11:02,160
+So you guys have an idea
+of virtual machines right now.
+
+161
+00:11:02,160 --> 00:11:09,200
+You know what our situation is right?
+
+162
+00:11:09,200 --> 00:11:12,360
+So can somebody explain me
+that what somebody does a machine
+
+163
+00:11:29,920 --> 00:11:32,040
+baked goods?
+
+164
+00:11:32,320 --> 00:11:34,280
+Is it the operating system?
+
+165
+00:11:34,280 --> 00:11:54,680
+Virtual machine is an operating system.
+
+166
+00:11:54,680 --> 00:11:57,560
+Emulates your system
+binary code for individual system.
+
+167
+00:11:57,560 --> 00:11:58,600
+Yeah. Those enough?
+
+168
+00:12:00,360 --> 00:12:03,600
+Yes. The demo.
+
+169
+00:12:03,600 --> 00:12:07,000
+No, it's not definitely in the cloud.
+
+170
+00:12:07,320 --> 00:12:08,520
+That's not a condition.
+
+171
+00:12:08,520 --> 00:12:08,760
+Okay.
+
+172
+00:12:08,760 --> 00:12:11,400
+Let me tell you a vague definition
+and then we can
+
+173
+00:12:12,760 --> 00:12:14,760
+go into the depths.
+So this is my computer.
+
+174
+00:12:15,000 --> 00:12:17,680
+Okay,
+so what does my computer actually have?
+
+175
+00:12:17,720 --> 00:12:22,080
+It has some kind of hardware, right?
+
+176
+00:12:22,080 --> 00:12:26,040
+And in this hardware, I have
+
+177
+00:12:29,680 --> 00:12:32,480
+CPU, I have RAM,
+
+178
+00:12:32,480 --> 00:12:35,880
+I have hard drive and, you know,
+
+179
+00:12:35,880 --> 00:12:55,400
+some other utilities.
+
+180
+00:12:55,400 --> 00:12:56,040
+Okay.
+
+181
+00:12:56,920 --> 00:12:59,720
+So now what happens is that
+
+182
+00:12:59,720 --> 00:13:02,400
+in here we have our operating system
+
+183
+00:13:02,400 --> 00:13:06,120
+installed at this layer
+
+184
+00:13:15,840 --> 00:13:18,360
+and then we have
+
+185
+00:13:19,840 --> 00:13:22,320
+a screen our monitor
+
+186
+00:13:23,320 --> 00:13:25,320
+where we actually see things that
+
+187
+00:13:26,520 --> 00:13:29,840
+are displayed to us and the follow up
+graphical user interface.
+
+188
+00:13:30,120 --> 00:13:33,120
+So basically what our actions
+we are performing on the screen,
+
+189
+00:13:33,480 --> 00:13:36,960
+they go to our OS
+
+190
+00:13:37,200 --> 00:13:42,040
+and our OS basically allocates
+resources in RAM CPU
+
+191
+00:13:42,360 --> 00:13:46,120
+for that particular operation
+and returns as the result.
+
+192
+00:13:46,120 --> 00:13:50,960
+And in terms of which, we can see
+something happening on the screen.
+
+193
+00:13:50,960 --> 00:14:00,240
+So that's how our computer is working
+right?
+
+194
+00:14:00,240 --> 00:14:00,560
+Okay.
+
+195
+00:14:00,560 --> 00:14:04,480
+So each operating system has upgrade now
+
+196
+00:14:05,560 --> 00:14:06,080
+you guys know
+
+197
+00:14:06,080 --> 00:14:23,520
+what's the kernel?
+
+198
+00:14:23,520 --> 00:14:23,760
+Okay.
+
+199
+00:14:23,760 --> 00:14:27,120
+So kernel is basically the essential
+
+200
+00:14:27,840 --> 00:14:31,200
+part of the operating system.
+
+201
+00:14:31,200 --> 00:14:34,480
+And this goal is it relies
+
+202
+00:14:34,480 --> 00:14:37,720
+between the hardware and the OS.
+
+203
+00:14:38,560 --> 00:14:41,240
+This is the main communication line
+between
+
+204
+00:14:41,240 --> 00:14:44,520
+the hardware of the computer
+and the operating system.
+
+205
+00:14:45,120 --> 00:14:47,400
+And then the operating system is actually,
+you know,
+
+206
+00:14:47,400 --> 00:14:49,440
+displaying everything on the screen.
+
+207
+00:14:49,440 --> 00:14:50,040
+Okay.
+
+208
+00:14:50,040 --> 00:14:54,200
+So now when it comes to virtual machine,
+let's say this is my computer
+
+209
+00:14:54,200 --> 00:14:58,000
+and I want to have a virtual machine
+on this particular computer,
+
+210
+00:14:58,000 --> 00:15:12,480
+is it possible
+for me to create a VM on it?
+
+211
+00:15:12,480 --> 00:15:12,840
+Okay.
+
+212
+00:15:13,040 --> 00:15:17,480
+Has anyone of you saw that saw
+that computers that have two windows
+
+213
+00:15:17,480 --> 00:15:20,280
+installed like on the same system,
+they have
+
+214
+00:15:21,880 --> 00:15:24,480
+Linux distribution and Windows
+
+215
+00:15:24,760 --> 00:15:28,040
+boot at the same time.
+
+216
+00:15:28,040 --> 00:15:28,320
+Okay.
+
+217
+00:15:28,320 --> 00:15:32,280
+So it's practically possible
+that you can have on your Windows machine,
+
+218
+00:15:32,960 --> 00:15:36,120
+you can have one
+operating system of windows running
+
+219
+00:15:36,120 --> 00:15:38,280
+and the other operating system
+off of Linux running.
+
+220
+00:15:38,520 --> 00:15:40,760
+Or you can also have Mac and Windows.
+
+221
+00:15:40,760 --> 00:15:42,080
+This is quite possible.
+
+222
+00:15:42,080 --> 00:15:44,520
+So what actually happens
+when you create a virtual machine?
+
+223
+00:15:46,200 --> 00:15:49,840
+You basically install another OS
+
+224
+00:15:53,720 --> 00:15:56,040
+and it's going to
+
+225
+00:16:01,920 --> 00:16:06,400
+and now your resources are being shared
+
+226
+00:16:07,280 --> 00:16:09,520
+between both the operating systems.
+
+227
+00:16:10,800 --> 00:16:13,360
+So you are actually sharing your hardware
+resources
+
+228
+00:16:13,360 --> 00:16:16,440
+and running dual
+operating system in parallel.
+
+229
+00:16:16,880 --> 00:16:22,240
+So now the important thing over here
+is that these both ways are independent
+
+230
+00:16:22,280 --> 00:16:24,680
+of each other.
+They do not rely on one another.
+
+231
+00:16:24,880 --> 00:16:29,280
+So let's say that you had
+you have a task running on Linux.
+
+232
+00:16:29,520 --> 00:16:34,280
+It's not going to affect anything
+installed or running on Windows.
+
+233
+00:16:34,640 --> 00:16:36,680
+So they both are completely independent.
+
+234
+00:16:37,800 --> 00:16:40,320
+So that's how actually
+virtual machines are working.
+
+235
+00:16:40,320 --> 00:16:57,440
+Basically, they are utilizing
+your hardware resources.
+
+236
+00:16:57,440 --> 00:17:04,760
+Okay, Is this clear?
+
+237
+00:17:04,760 --> 00:17:05,000
+Okay.
+
+238
+00:17:05,000 --> 00:17:10,080
+So Dockers is now something
+which is very similar to
+
+239
+00:17:11,120 --> 00:17:12,480
+virtual machine.
+
+240
+00:17:12,480 --> 00:17:14,160
+It is very similar to a flow machine.
+
+241
+00:17:14,160 --> 00:17:19,280
+The only difference is
+that Dockers is quite fast and light.
+
+242
+00:17:19,760 --> 00:17:22,440
+Then an actual VM y
+
+243
+00:17:22,440 --> 00:17:25,360
+because of its infrastructure.
+
+244
+00:17:26,040 --> 00:17:28,720
+Virtual machines usually have.
+
+245
+00:17:28,720 --> 00:17:30,960
+If you go into depth, let me show you.
+
+246
+00:17:32,600 --> 00:17:33,280
+Yeah, this
+
+247
+00:17:33,280 --> 00:17:37,920
+is the one.
+
+248
+00:17:37,920 --> 00:17:41,080
+So this is the infrastructure
+of a container, whereas this one
+
+249
+00:17:41,080 --> 00:17:44,080
+is the infrastructure of virtual machines.
+
+250
+00:17:44,640 --> 00:17:49,480
+It has some both operating system and
+hypervisor after that, some of the layers
+
+251
+00:17:49,480 --> 00:17:53,640
+and then you get to run the application,
+whereas in containers
+
+252
+00:17:54,080 --> 00:17:57,040
+you have operating system and Docker
+engine.
+
+253
+00:17:57,200 --> 00:17:59,640
+After that you can just with you
+run your applications
+
+254
+00:17:59,640 --> 00:18:02,480
+and this Docker engine is very light.
+
+255
+00:18:03,440 --> 00:18:06,160
+What do I mean by light?
+
+256
+00:18:06,160 --> 00:18:07,440
+I like when I mentioned
+
+257
+00:18:07,440 --> 00:18:11,240
+that this is a lightweight
+operating system or lightweight engine.
+
+258
+00:18:11,240 --> 00:18:18,080
+What does it mean, small loading
+time? Yes.
+
+259
+00:18:18,080 --> 00:18:23,280
+And what else?
+
+260
+00:18:23,280 --> 00:18:25,200
+Fast. Okay, good.
+
+261
+00:18:25,200 --> 00:18:29,080
+So tell me, is Linux lightweight
+or is Windows
+
+262
+00:18:29,080 --> 00:18:47,280
+lightweight?
+
+263
+00:18:47,280 --> 00:18:52,840
+No, it's not that much that your Mac
+should be making noises. Yes.
+
+264
+00:18:53,000 --> 00:18:53,640
+Okay.
+
+265
+00:18:53,640 --> 00:18:58,800
+Linux is actually lightweight vibe
+because as we discussed in our
+
+266
+00:18:59,360 --> 00:19:03,360
+classes, that any Linux distribution
+we do not usually have
+
+267
+00:19:03,360 --> 00:19:07,720
+a graphical user interface, although we
+can have a graphical user interface,
+
+268
+00:19:07,720 --> 00:19:13,200
+but usually command line is preferred
+and that's the reason it's lightweight.
+
+269
+00:19:13,200 --> 00:19:17,800
+And apart from that,
+it gives a lot of compute power
+
+270
+00:19:18,080 --> 00:19:21,840
+that is not being utilized,
+but the resources can actually
+
+271
+00:19:21,840 --> 00:19:25,000
+utilize all that compute power
+to run that application.
+
+272
+00:19:25,360 --> 00:19:28,680
+So whenever there is some words
+that is lightweight,
+
+273
+00:19:28,680 --> 00:19:31,680
+so in sensitive application, it's
+all this prefer to be run.
+
+274
+00:19:31,680 --> 00:19:34,880
+So on our servers,
+usually Linux is being deployed
+
+275
+00:19:35,160 --> 00:19:37,800
+and not some kind of Windows or Mac OS.
+
+276
+00:19:38,400 --> 00:19:41,040
+Okay, so talking about Dockers, Dockers
+
+277
+00:19:41,040 --> 00:19:44,560
+is going to be simply just like our VM.
+
+278
+00:19:44,560 --> 00:19:47,160
+The only difference
+is that it's lightweight.
+
+279
+00:19:48,240 --> 00:19:48,520
+Okay.
+
+280
+00:19:48,520 --> 00:19:52,880
+So I can now see that inside your Windows
+
+281
+00:19:53,160 --> 00:19:56,000
+operating system you have installed Docker
+
+282
+00:19:57,440 --> 00:20:01,000
+engine and if you remember
+while installing you enable
+
+283
+00:20:01,000 --> 00:20:02,640
+the virtualization, right?
+
+284
+00:20:02,640 --> 00:20:06,000
+So virtualization is enabled
+and you can create Docker
+
+285
+00:20:06,000 --> 00:20:09,960
+containers and each container
+is going to be allocated
+
+286
+00:20:10,520 --> 00:20:17,480
+some resources from the hardware.
+
+287
+00:20:17,480 --> 00:20:21,800
+So it's just like a completely independent
+space for your ports
+
+288
+00:20:21,800 --> 00:20:25,960
+to actually run.
+
+289
+00:20:25,960 --> 00:20:26,280
+Okay.
+
+290
+00:20:26,280 --> 00:20:27,680
+Is that really
+
+291
+00:20:31,840 --> 00:20:32,520
+perfect?
+
+292
+00:20:32,520 --> 00:20:36,280
+Now at seven, let's go for a break
+right now and we'll be back.
+
+293
+00:20:37,640 --> 00:20:39,720
+It's break is on seven and 730.
+
+294
+00:20:39,720 --> 00:20:44,080
+Sorry, I forgot.
+
+295
+00:20:44,080 --> 00:20:46,320
+Okay, it sounds tidy. Okay, my bet.
+
+296
+00:20:46,320 --> 00:20:47,520
+Okay, Just give me 2 minutes.
+
+297
+00:20:47,520 --> 00:20:50,040
+I just have to, you know,
+
+298
+00:20:50,040 --> 00:20:52,760
+prepare for my fastest.
+
+299
+00:20:52,760 --> 00:20:53,960
+Give me 2 minutes and all of the back.
+
+300
+00:20:53,960 --> 00:20:57,120
+Okay?
+
+301
+00:20:57,120 --> 00:23:15,280
+Yeah, I'm just coming into minute.
+
+302
+00:23:15,280 --> 00:23:16,160
+Okay, So
+
+303
+00:23:22,960 --> 00:23:24,440
+let's continue.
+
+304
+00:23:24,440 --> 00:23:28,560
+Now, we understand that
+what a Docker container.
+
+305
+00:23:28,560 --> 00:23:30,880
+The next thing that we'll be discussing
+is a Docker
+
+306
+00:23:31,920 --> 00:23:34,480
+image.
+
+307
+00:23:34,480 --> 00:23:37,720
+So we already discussed about Amazon
+machine image.
+
+308
+00:23:37,720 --> 00:23:41,280
+Docker image is just the same exact thing.
+
+309
+00:23:41,600 --> 00:23:43,920
+So I want you guys to tell me
+what's the upper image
+
+310
+00:23:53,760 --> 00:24:01,000
+layers.
+
+311
+00:24:01,000 --> 00:24:02,280
+Oh yeah.
+
+312
+00:24:02,280 --> 00:24:07,080
+Blueprint screenshot.
+
+313
+00:24:07,080 --> 00:24:10,440
+Okay, so let's say you have an application
+
+314
+00:24:13,080 --> 00:24:18,240
+which has some requirements.
+
+315
+00:24:18,240 --> 00:24:21,400
+So this application let's say uses, as we
+
+316
+00:24:22,000 --> 00:24:25,640
+said, Selenium 3.0
+
+317
+00:24:28,560 --> 00:24:32,400
+and it has
+
+318
+00:24:33,120 --> 00:24:55,960
+Joe 1.8.
+
+319
+00:24:55,960 --> 00:24:56,440
+Okay.
+
+320
+00:24:56,600 --> 00:24:59,880
+So this is an application that we have.
+
+321
+00:25:00,320 --> 00:25:03,640
+So and Docker
+image of this particular application
+
+322
+00:25:03,640 --> 00:25:05,680
+is going to be a file
+
+323
+00:25:14,520 --> 00:25:18,480
+with an extension of why
+I'm using it. It's
+
+324
+00:25:18,480 --> 00:25:22,600
+going to be a viral file which is going to
+contain all the information
+
+325
+00:25:23,720 --> 00:25:25,600
+of the dependencies, our
+
+326
+00:25:25,600 --> 00:25:28,800
+requirements
+for running this particular application.
+
+327
+00:25:29,440 --> 00:25:32,320
+So it's going to contain some
+
+328
+00:25:32,320 --> 00:25:34,800
+wild information
+in which we mentioned that
+
+329
+00:25:35,200 --> 00:25:38,520
+this particular image requires
+Selenium 3.0.
+
+330
+00:25:38,520 --> 00:25:41,160
+Joe 1.8 MongoDB and Test NZ.
+
+331
+00:25:41,520 --> 00:25:43,040
+Okay, why do we need it?
+
+332
+00:25:43,040 --> 00:25:45,640
+We need it because whenever we want to run
+
+333
+00:25:45,640 --> 00:25:49,080
+this particular application
+on our Docker container,
+
+334
+00:25:49,560 --> 00:25:54,840
+we are going to start that Docker
+container by using this particular file
+
+335
+00:25:54,840 --> 00:25:58,120
+so that it is configured
+with all the desired
+
+336
+00:25:59,240 --> 00:26:01,120
+configurations or dependencies
+
+337
+00:26:01,120 --> 00:26:06,320
+that we need.
+
+338
+00:26:06,320 --> 00:26:09,520
+Yes, Lord TB is actually getting famous,
+but still
+
+339
+00:26:10,080 --> 00:26:12,360
+the other one is being used by
+
+340
+00:26:14,280 --> 00:26:15,000
+MongoDB.
+
+341
+00:26:15,000 --> 00:26:17,360
+It has a very nice actually interface.
+
+342
+00:26:17,360 --> 00:26:26,040
+It's very easy and user friendly.
+
+343
+00:26:26,040 --> 00:26:29,520
+Okay, so Docker
+images, everyone care about Docker
+
+344
+00:26:29,520 --> 00:26:39,600
+images.
+
+345
+00:26:39,600 --> 00:26:45,520
+Okay, now let me show you some.
+
+346
+00:26:45,520 --> 00:26:46,080
+Okay.
+
+347
+00:26:46,080 --> 00:26:49,680
+Now what we are going to do basically in
+because you need to just
+
+348
+00:26:49,680 --> 00:26:53,080
+understand two concepts that
+what are containers and what are images?
+
+349
+00:26:53,080 --> 00:26:54,560
+The rest of the stuff is pretty
+
+350
+00:26:56,080 --> 00:26:56,520
+easy.
+
+351
+00:26:56,520 --> 00:26:57,720
+But again, we
+
+352
+00:26:57,720 --> 00:27:01,320
+will not be going into creation of images
+because that is a complicated thing.
+
+353
+00:27:01,560 --> 00:27:02,840
+We will just
+
+354
+00:27:03,360 --> 00:27:04,880
+stick to
+
+355
+00:27:05,520 --> 00:27:07,840
+the simple things that Yeah, okay.
+
+356
+00:27:08,120 --> 00:27:11,280
+So far, let's say I give you a task.
+
+357
+00:27:11,280 --> 00:27:11,880
+I see that.
+
+358
+00:27:11,880 --> 00:27:15,280
+Hey, can you deploy selenium?
+
+359
+00:27:15,280 --> 00:27:17,440
+Great in Dockers?
+
+360
+00:27:17,440 --> 00:27:26,600
+Then what are you going to do?
+
+361
+00:27:26,600 --> 00:27:33,960
+Yes. For hot.
+
+362
+00:27:33,960 --> 00:27:36,720
+Okay, so you are going to say Docker
+
+363
+00:27:41,320 --> 00:27:43,000
+Selenium
+
+364
+00:27:43,000 --> 00:27:49,000
+three.
+
+365
+00:27:49,000 --> 00:27:49,880
+Okay.
+
+366
+00:27:49,880 --> 00:27:51,960
+So now the good news is that
+
+367
+00:27:52,760 --> 00:27:57,080
+selenium is maintaining
+I app three four Docker images.
+
+368
+00:27:57,080 --> 00:28:01,280
+So you are going to get over here
+a lot of Docker images,
+
+369
+00:28:01,280 --> 00:28:03,440
+like if you want to apply Selenium
+
+370
+00:28:03,440 --> 00:28:07,280
+bread into Docker,
+you will get the image for that.
+
+371
+00:28:07,760 --> 00:28:10,680
+And if you want to have
+a standalone system,
+
+372
+00:28:10,800 --> 00:28:14,760
+standalone Chrome, you will get,
+you can also have an image for that.
+
+373
+00:28:14,760 --> 00:28:17,160
+So let me show you.
+
+374
+00:28:17,400 --> 00:28:22,400
+Now, creating an image for selenium grit
+is going to be actually very difficult.
+
+375
+00:28:22,400 --> 00:28:27,960
+So they already have it on GitHub,
+so you never need to achieve it,
+
+376
+00:28:27,960 --> 00:28:31,080
+you just need to
+find that particular image.
+
+377
+00:28:32,160 --> 00:28:34,040
+Okay, so here is the link.
+
+378
+00:28:34,040 --> 00:28:36,800
+Let me share it with you guys
+
+379
+00:28:45,680 --> 00:28:46,480
+and let me show you
+
+380
+00:28:46,480 --> 00:28:54,120
+how the image actually looks.
+
+381
+00:28:54,120 --> 00:28:59,160
+Okay, So this is the image of Docker
+compose file
+
+382
+00:29:00,960 --> 00:29:03,440
+and it contains all of the requirements
+
+383
+00:29:03,440 --> 00:29:07,280
+that it needs to download for selenium.
+
+384
+00:29:07,280 --> 00:29:07,560
+Great.
+
+385
+00:29:07,560 --> 00:29:09,800
+So version is three services.
+
+386
+00:29:09,800 --> 00:29:13,040
+It says that download file,
+
+387
+00:29:13,040 --> 00:29:17,040
+it mentions
+then the image of that particular chrome
+
+388
+00:29:17,040 --> 00:29:18,280
+which needs to be download.
+
+389
+00:29:18,280 --> 00:29:22,080
+So it's going to go to selenium, it's
+going to go to local
+
+390
+00:29:22,080 --> 00:29:26,920
+and it's going to download the Selenium.
+
+391
+00:29:26,920 --> 00:29:34,880
+This particular Selenium version.
+
+392
+00:29:34,880 --> 00:29:36,880
+Then it's going to
+
+393
+00:29:37,920 --> 00:29:41,880
+set up the environments, it's
+going to set out the ports
+
+394
+00:29:42,240 --> 00:29:44,880
+that it requires to communicate.
+
+395
+00:29:44,880 --> 00:29:48,280
+And again, after that, it's also
+
+396
+00:29:48,720 --> 00:29:52,680
+getting the image for edge.
+
+397
+00:29:52,680 --> 00:29:55,240
+This is the image length.
+From there it's going to download it
+
+398
+00:29:56,880 --> 00:29:58,800
+and these are some
+
+399
+00:29:58,800 --> 00:30:02,640
+environment settings
+that it's making for Firefox.
+
+400
+00:30:02,640 --> 00:30:04,800
+It again has some leeway.
+
+401
+00:30:04,800 --> 00:30:07,240
+And so for
+
+402
+00:30:09,400 --> 00:30:11,520
+and yeah, the last one is the hub,
+
+403
+00:30:12,320 --> 00:30:14,360
+so it has some
+
+404
+00:30:14,640 --> 00:30:17,680
+image for hub and integration
+of course also.
+
+405
+00:30:18,360 --> 00:30:20,400
+Okay. So
+
+406
+00:30:23,120 --> 00:30:25,800
+apart from that,
+let me see what other images do
+
+407
+00:30:25,800 --> 00:30:42,520
+we have?
+
+408
+00:30:42,520 --> 00:30:46,280
+So you guys can either go to GitHub
+and search
+
+409
+00:30:46,280 --> 00:30:50,880
+for a particular image
+or you also have a document hub.
+
+410
+00:30:50,880 --> 00:30:58,240
+And in Docker Hub,
+I think you do not need to.
+
+411
+00:30:58,240 --> 00:31:00,640
+Yeah, you do not need to sign it.
+
+412
+00:31:00,640 --> 00:31:03,440
+So if you go to Docker Hub,
+let me share the link
+
+413
+00:31:03,440 --> 00:31:05,160
+for this to
+
+414
+00:31:15,720 --> 00:31:16,080
+that.
+
+415
+00:31:16,080 --> 00:31:19,920
+So in Docker Hub you have different
+kind of images available
+
+416
+00:31:19,920 --> 00:31:21,480
+depending upon whatever you need.
+
+417
+00:31:21,480 --> 00:31:24,360
+You guys in have that image downloaded.
+
+418
+00:31:24,880 --> 00:31:35,800
+You already have installed three images.
+
+419
+00:31:35,800 --> 00:31:37,080
+Send the total Eastern shore
+
+420
+00:31:37,080 --> 00:31:41,720
+house environment
+they were going to start from from this.
+
+421
+00:31:41,720 --> 00:31:43,840
+So get from the video. Okay, that's fine.
+
+422
+00:31:43,840 --> 00:31:46,080
+I actually did not follow that video, so
+
+423
+00:31:47,080 --> 00:31:47,720
+I don't
+
+424
+00:31:47,720 --> 00:31:51,040
+know whether downloaded data,
+but that's fine.
+
+425
+00:31:51,880 --> 00:31:53,320
+Okay. So
+
+426
+00:31:53,880 --> 00:31:56,960
+let's say
+if you want to have Ubuntu on your
+
+427
+00:31:59,480 --> 00:32:00,320
+Docker container,
+
+428
+00:32:00,320 --> 00:32:02,800
+you guys can have this particular image.
+
+429
+00:32:03,840 --> 00:32:07,400
+And what you need to do
+is simply run the command Docker pool,
+
+430
+00:32:07,440 --> 00:32:10,720
+Ubuntu and it's going to start running of
+
+431
+00:32:11,880 --> 00:32:14,760
+this particular operating system
+in that particular container.
+
+432
+00:32:16,080 --> 00:32:18,720
+And for Windows that see
+
+433
+00:32:20,520 --> 00:32:22,680
+you can, you guys can have Python,
+
+434
+00:32:24,360 --> 00:32:29,840
+you guys can have Mongo by
+
+435
+00:32:32,040 --> 00:32:34,800
+and you know a lot of
+
+436
+00:32:35,280 --> 00:32:36,560
+alienated
+
+437
+00:32:36,560 --> 00:32:39,880
+soft images that are even new to me.
+
+438
+00:32:40,320 --> 00:32:44,440
+So yeah.
+
+439
+00:32:44,440 --> 00:32:47,440
+Okay so that's how you, you guys can get
+
+440
+00:32:47,440 --> 00:32:49,680
+a pretty good image
+and start working with it.
+
+441
+00:32:51,240 --> 00:32:54,440
+Okay so let's now
+
+442
+00:32:55,680 --> 00:32:58,520
+go to our next step
+
+443
+00:33:03,120 --> 00:33:04,560
+where we will discuss that,
+
+444
+00:33:04,560 --> 00:33:09,680
+how actually we can use selenium.
+
+445
+00:33:09,680 --> 00:33:13,200
+Not, not great because it is going
+to be actually very difficult.
+
+446
+00:33:13,200 --> 00:33:18,000
+Let's go with an example where we actually
+run our code into a selenium
+
+447
+00:33:18,960 --> 00:33:20,160
+Docker container.
+
+448
+00:33:20,160 --> 00:33:21,840
+So what are we going to do right now?
+
+449
+00:33:21,840 --> 00:33:24,200
+We will be writing down the test prep
+
+450
+00:33:26,880 --> 00:33:28,320
+and usually what happens
+
+451
+00:33:28,320 --> 00:33:31,920
+is that we have the chrome installed
+
+452
+00:33:34,080 --> 00:33:35,160
+on our windows, right?
+
+453
+00:33:35,160 --> 00:33:37,800
+So here is the Chrome browser
+
+454
+00:33:37,800 --> 00:33:40,440
+and here is our script
+
+455
+00:33:40,600 --> 00:33:43,080
+and we have Chrome driver
+
+456
+00:33:44,240 --> 00:33:46,440
+also configured along with it.
+
+457
+00:33:46,440 --> 00:33:49,360
+So Script uses Chrome Driver
+
+458
+00:33:50,080 --> 00:33:52,880
+to run our test cases on the Chrome
+
+459
+00:33:54,720 --> 00:33:55,680
+browser.
+
+460
+00:33:55,680 --> 00:33:58,440
+This is what usually happens, right?
+
+461
+00:33:58,440 --> 00:33:59,840
+The workflow.
+
+462
+00:34:00,840 --> 00:34:02,320
+Now what are we going to do?
+
+463
+00:34:02,320 --> 00:34:04,720
+We will be
+
+464
+00:34:08,200 --> 00:34:11,000
+creating a Docker container.
+
+465
+00:34:11,880 --> 00:34:14,400
+In that particular container, we will be
+
+466
+00:34:15,480 --> 00:34:18,000
+launching a Chrome browser
+
+467
+00:34:21,840 --> 00:34:24,160
+with a Chrome driver
+
+468
+00:34:26,160 --> 00:34:27,440
+and we will be writing down
+
+469
+00:34:27,440 --> 00:34:29,760
+our test strips on our computer.
+
+470
+00:34:30,840 --> 00:34:33,760
+Now we are going to run our test cases
+
+471
+00:34:35,040 --> 00:34:39,000
+inside the Docker container.
+
+472
+00:34:39,000 --> 00:34:39,600
+Okay.
+
+473
+00:34:39,600 --> 00:34:42,640
+Can you just tell me the advantage
+of this particular
+
+474
+00:34:42,640 --> 00:35:09,000
+technique?
+
+475
+00:35:09,000 --> 00:35:12,480
+You do not need to download dependencies,
+but right now
+
+476
+00:35:13,280 --> 00:35:15,680
+you will have to download the dependencies
+
+477
+00:35:15,680 --> 00:35:21,320
+because you are writing down
+the selenium code and script etc.
+
+478
+00:35:21,400 --> 00:35:22,560
+inside your
+
+479
+00:35:23,600 --> 00:35:24,080
+computer.
+
+480
+00:35:24,080 --> 00:35:27,840
+Right.
+
+481
+00:35:27,840 --> 00:35:29,520
+We are just in Docker containers.
+
+482
+00:35:29,520 --> 00:35:33,360
+We just have the chrome instance
+we launched.
+
+483
+00:35:33,680 --> 00:35:34,040
+Okay.
+
+484
+00:35:34,040 --> 00:35:38,240
+So the purpose and the advantage
+of this technique is that let's say
+
+485
+00:35:38,800 --> 00:35:43,360
+you have an application and you want to
+test it for different version of Chrome.
+
+486
+00:35:43,360 --> 00:35:46,840
+So let's say
+you want to test it for version 3.8,
+
+487
+00:35:47,920 --> 00:35:52,000
+version 3.2,
+
+488
+00:35:52,000 --> 00:35:55,800
+version 3.5.
+
+489
+00:35:55,800 --> 00:35:57,760
+You need to
+
+490
+00:35:58,160 --> 00:36:02,040
+test your application
+for these three versions of growth.
+
+491
+00:36:03,680 --> 00:36:07,200
+Do you think that doing this
+in your own machine
+
+492
+00:36:07,200 --> 00:36:09,720
+without the Docker images is going to
+
+493
+00:36:10,760 --> 00:36:12,360
+be easier?
+
+494
+00:36:12,560 --> 00:36:15,400
+Like, how would you do it
+if you if you do not know about
+
+495
+00:36:15,920 --> 00:36:19,240
+how the new tested forward
+and see point 80.2 and 3.5
+
+496
+00:36:31,120 --> 00:36:32,520
+but well this one is
+
+497
+00:36:32,520 --> 00:36:38,400
+simple.
+
+498
+00:36:38,400 --> 00:36:39,120
+Exactly.
+
+499
+00:36:39,120 --> 00:36:44,560
+You will simply uninstall your chrome
+downgrade to a previous version 3.8.
+
+500
+00:36:44,560 --> 00:36:47,880
+Let's say install this driver and,
+you know, run the script.
+
+501
+00:36:48,240 --> 00:36:54,440
+Then you will uninstall it or downgrade
+to three point to run the scripts.
+
+502
+00:36:54,440 --> 00:36:57,960
+Then you will uninstall again, go to 2.5
+
+503
+00:36:58,760 --> 00:37:02,000
+and test your script.
+
+504
+00:37:02,000 --> 00:37:05,480
+So you see it's going to be quite hectic,
+
+505
+00:37:06,480 --> 00:37:08,320
+will consume a lot of time
+
+506
+00:37:08,320 --> 00:37:12,960
+and doing this one
+by one is going to be very hectic.
+
+507
+00:37:12,960 --> 00:37:17,080
+So in order to help you out with this
+problem,
+
+508
+00:37:17,280 --> 00:37:20,480
+Docker containers play a very vital role.
+
+509
+00:37:20,520 --> 00:37:23,800
+What you can have when you are installing
+
+510
+00:37:24,480 --> 00:37:27,240
+this particular chrome instance,
+
+511
+00:37:28,600 --> 00:37:30,840
+you guys can control
+
+512
+00:37:30,840 --> 00:37:33,920
+all that which version of Chrome browser
+
+513
+00:37:34,120 --> 00:37:37,440
+you are actually trying to install
+in this particular container.
+
+514
+00:37:37,440 --> 00:37:42,520
+So you can either have warranty one day
+once you are done with volume 3.8,
+
+515
+00:37:42,760 --> 00:37:45,920
+you guys simply with one command
+
+516
+00:37:46,280 --> 00:37:50,760
+can stop this particular conversion
+and start a different version.
+
+517
+00:37:50,760 --> 00:37:52,960
+Let 60.2.
+
+518
+00:37:53,200 --> 00:37:54,960
+Once your tests are completed on this,
+
+519
+00:37:54,960 --> 00:38:00,640
+then you can start testing on 3.5
+with just a single command.
+
+520
+00:38:00,640 --> 00:38:02,280
+Or you can also do one more thing.
+
+521
+00:38:02,280 --> 00:38:06,200
+You can have separate containers like 1
+
+522
+00:38:06,200 --> 00:38:11,160
+to 3 for containers, each
+
+523
+00:38:11,280 --> 00:38:15,360
+running a different version
+of Chrome instance. And
+
+524
+00:38:17,160 --> 00:38:19,200
+you can run your code
+
+525
+00:38:21,840 --> 00:38:24,680
+in all different versions of call
+
+526
+00:38:24,680 --> 00:38:54,240
+and test it.
+
+527
+00:38:54,240 --> 00:38:55,200
+Yes, exactly.
+
+528
+00:38:55,200 --> 00:39:11,040
+Mohammed That's why they use DRS.
+
+529
+00:39:11,040 --> 00:39:13,000
+Okay, So now I'm going to also
+
+530
+00:39:13,000 --> 00:39:16,360
+give you a brief introduction regarding
+setting in grid and setting it up.
+
+531
+00:39:17,040 --> 00:39:19,200
+So a selenium grid
+
+532
+00:39:20,160 --> 00:39:22,200
+has some basic components.
+
+533
+00:39:23,480 --> 00:39:25,920
+What are those basic components?
+
+534
+00:39:26,640 --> 00:39:30,560
+I believe that you guys have studied
+about Selenium in the introduction
+
+535
+00:39:31,360 --> 00:39:34,440
+and obviously in interview preparation,
+you guys would have
+
+536
+00:39:34,440 --> 00:39:35,920
+gone through that, right?
+
+537
+00:39:35,920 --> 00:39:38,160
+So what are the basic components
+of selenium with
+
+538
+00:39:56,640 --> 00:39:59,720
+simultaneous automation
+
+539
+00:40:00,640 --> 00:40:03,480
+components, not talking about advantages
+
+540
+00:40:03,480 --> 00:40:05,760
+of using selenium, with
+
+541
+00:40:09,320 --> 00:40:12,520
+Okay,
+so a selenium grid comprises of nodes
+
+542
+00:40:12,520 --> 00:40:18,240
+and hub, right?
+
+543
+00:40:18,240 --> 00:40:21,000
+So a selenium grid
+
+544
+00:40:22,960 --> 00:40:26,320
+will have a node
+
+545
+00:40:27,000 --> 00:40:29,680
+and top.
+
+546
+00:40:29,680 --> 00:40:36,640
+You know,
+you did not learn trade actually,
+
+547
+00:40:36,640 --> 00:40:40,080
+but I am sure that you guys were
+
+548
+00:40:40,480 --> 00:40:44,240
+taught a little bit
+about what are selenium grid.
+
+549
+00:40:44,640 --> 00:40:51,080
+I will, I taught to selenium right.
+
+550
+00:40:51,080 --> 00:40:51,680
+Okay. Yeah.
+
+551
+00:40:51,680 --> 00:40:57,040
+I am sure that I gave you
+an introduction to these.
+
+552
+00:40:57,040 --> 00:41:02,360
+If not, then you guys can sue me for that.
+
+553
+00:41:02,360 --> 00:41:02,800
+Okay.
+
+554
+00:41:02,800 --> 00:41:08,880
+Well, did I say any more
+than two sentences right now
+
+555
+00:41:11,160 --> 00:41:14,560
+nodes have all taken Hamlet.
+
+556
+00:41:14,560 --> 00:41:16,040
+Thank you for having my back.
+
+557
+00:41:16,040 --> 00:41:19,320
+It is
+
+558
+00:41:19,320 --> 00:41:21,560
+like salmon was just fade out of that.
+
+559
+00:41:21,560 --> 00:41:23,880
+No, you never mentioned it.
+
+560
+00:41:23,880 --> 00:41:29,520
+Okay, so at least even if you do not know
+in depth talk that how a synonym grade
+
+561
+00:41:29,520 --> 00:41:33,480
+actually works, which you will
+by the end of today's session at least.
+
+562
+00:41:33,480 --> 00:41:37,000
+And I believe that I also mentioned it
+in the of this classes
+
+563
+00:41:37,560 --> 00:41:40,800
+but you at least you should know
+that whenever someone asks you that what's
+
+564
+00:41:40,800 --> 00:41:41,520
+a synonym grade?
+
+565
+00:41:41,520 --> 00:41:47,000
+You should know that it has a hub
+and it's a structure of performance.
+
+566
+00:41:47,000 --> 00:41:55,120
+Okay, So I'm going to explain it again,
+that how it actually works.
+
+567
+00:41:55,120 --> 00:41:58,880
+Just to give you guys an idea, I'm
+not sure whether we will be able to run
+
+568
+00:42:00,720 --> 00:42:02,160
+some codes into that and we do not.
+
+569
+00:42:02,160 --> 00:42:05,400
+But I am sure of one thing
+that if any one of you after this
+
+570
+00:42:05,400 --> 00:42:09,240
+class wants to work on selenium grade
+and run some test cases,
+
+571
+00:42:10,040 --> 00:42:12,480
+you guys will be
+and should be able to do that.
+
+572
+00:42:12,480 --> 00:42:16,760
+Oh, I'll share a link
+just after the class.
+
+573
+00:42:16,760 --> 00:42:19,080
+When you get some time,
+
+574
+00:42:19,160 --> 00:42:22,640
+try to practice over there and write.
+
+575
+00:42:22,640 --> 00:42:24,680
+Write down some food
+and run your tests in parallel.
+
+576
+00:42:24,760 --> 00:42:26,160
+It's nothing new.
+
+577
+00:42:26,160 --> 00:42:29,600
+Everything you guys have been
+taught is going to be there.
+
+578
+00:42:29,600 --> 00:42:32,760
+Only one thing is going to be different
+that out I'll be mentioning.
+
+579
+00:42:33,440 --> 00:42:34,800
+Okay, so in Selenium, great.
+
+580
+00:42:34,800 --> 00:42:37,360
+We have a hub.
+
+581
+00:42:37,360 --> 00:42:39,520
+Let's say this is our hub
+
+582
+00:42:39,520 --> 00:42:43,360
+and we have different nodes
+
+583
+00:42:45,840 --> 00:42:48,160
+and let's say
+
+584
+00:42:51,840 --> 00:43:04,360
+this is our script.
+
+585
+00:43:04,360 --> 00:43:04,680
+Okay?
+
+586
+00:43:04,680 --> 00:43:06,960
+So one of the purpose of selenium great.
+
+587
+00:43:07,520 --> 00:43:11,280
+And the advantages that we discussed
+was that it can run
+
+588
+00:43:11,400 --> 00:43:16,320
+test cases in parallel right?
+
+589
+00:43:16,320 --> 00:43:20,760
+It can test your test cases on different
+browsers.
+
+590
+00:43:20,760 --> 00:43:26,640
+In parallel
+are the same browsers in parallel.
+
+591
+00:43:26,640 --> 00:43:28,480
+So let me call it Hub,
+
+592
+00:43:29,920 --> 00:43:30,960
+Let me call
+
+593
+00:43:30,960 --> 00:43:36,320
+this node.
+
+594
+00:43:36,320 --> 00:43:42,720
+How many nodes does
+this selenium grid has?
+
+595
+00:43:42,720 --> 00:43:43,680
+It has three nodes.
+
+596
+00:43:43,680 --> 00:43:46,680
+How many hub does it have
+
+597
+00:43:47,640 --> 00:43:48,000
+got it?
+
+598
+00:43:48,000 --> 00:44:16,840
+How can there be more than one hub?
+
+599
+00:44:16,840 --> 00:44:19,080
+Okay,
+let me first extend the functionality
+
+600
+00:44:19,080 --> 00:44:20,880
+and then I'll ask this question again.
+
+601
+00:44:20,880 --> 00:44:22,720
+So what's the purpose of up?
+
+602
+00:44:22,720 --> 00:44:26,280
+So let's say that on this particular node
+you are using coal.
+
+603
+00:44:27,000 --> 00:44:30,880
+On this particular one,
+you have the instance of Firefox
+
+604
+00:44:30,880 --> 00:44:35,760
+and on this particular node
+you have the instance of edge running.
+
+605
+00:44:35,760 --> 00:44:39,360
+So basically all the nodes have some
+
+606
+00:44:40,800 --> 00:44:45,440
+instance of browser installed.
+
+607
+00:44:45,440 --> 00:44:47,760
+This is your hub and this is the script.
+
+608
+00:44:47,760 --> 00:44:51,560
+So script is going to go to the hub,
+and hub
+
+609
+00:44:51,560 --> 00:44:54,720
+is now going to distribute the test cases
+
+610
+00:44:54,720 --> 00:45:02,760
+to particular nodes.
+
+611
+00:45:02,760 --> 00:45:05,440
+So basically what it's doing, it's running
+
+612
+00:45:06,120 --> 00:45:09,000
+your Sam's Prep in parallel
+
+613
+00:45:09,480 --> 00:45:13,680
+on Chrome, on Firefox and on edge.
+
+614
+00:45:14,640 --> 00:45:15,160
+So that's
+
+615
+00:45:15,160 --> 00:45:18,560
+how parallel testing is working
+when you are using
+
+616
+00:45:19,160 --> 00:45:23,840
+Selenium grit, you do not need to know
+
+617
+00:45:23,840 --> 00:45:27,960
+how actually Hub is functioning
+or how actually the node is working.
+
+618
+00:45:28,200 --> 00:45:30,520
+You do not need to actually get
+in depth of that.
+
+619
+00:45:30,520 --> 00:45:32,680
+That's the part of the architecture.
+
+620
+00:45:33,240 --> 00:45:38,680
+Okay,
+
+621
+00:45:38,680 --> 00:45:41,640
+so now
+
+622
+00:45:50,400 --> 00:45:53,680
+you can see that hub,
+this kind of something like that, it
+
+623
+00:45:53,880 --> 00:45:58,920
+actually distributes
+the test cases between different nodes.
+
+624
+00:45:58,920 --> 00:45:59,520
+Okay.
+
+625
+00:45:59,520 --> 00:46:01,880
+Now setting up a selenium grid,
+
+626
+00:46:02,280 --> 00:46:06,240
+configuring it into your system is again
+going to take a lot of time.
+
+627
+00:46:06,240 --> 00:46:08,640
+Whereas if you use dollars
+
+628
+00:46:09,720 --> 00:46:11,720
+just two commands.
+
+629
+00:46:11,720 --> 00:46:15,240
+So if I asked you to set up
+a selenium grid
+
+630
+00:46:15,520 --> 00:46:19,080
+using dollars, where are you going to do
+
+631
+00:46:29,520 --> 00:46:30,120
+exactly?
+
+632
+00:46:30,120 --> 00:46:31,880
+You would go to this image.
+
+633
+00:46:31,880 --> 00:46:36,800
+So we have this particular
+image off Docker Selenium for
+
+634
+00:46:38,520 --> 00:46:39,880
+star selenium grid, and
+
+635
+00:46:39,880 --> 00:46:43,680
+you guys can see that by default
+it has grown
+
+636
+00:46:44,240 --> 00:46:48,000
+edge Firefox images and one hub.
+
+637
+00:46:48,000 --> 00:46:49,800
+So what is a Firefox image?
+
+638
+00:46:49,800 --> 00:46:55,080
+It's actually unknown Selenium
+slash node, dash, Firefox
+
+639
+00:46:55,280 --> 00:46:59,720
+and after that
+the particular version of that Firefox
+
+640
+00:47:00,720 --> 00:47:04,360
+similarly adds selenium slash node edge
+
+641
+00:47:04,680 --> 00:47:08,280
+and the particular version
+of that edge browser.
+
+642
+00:47:08,520 --> 00:47:12,040
+And for Chrome,
+also selenium slash node pool
+
+643
+00:47:12,080 --> 00:47:14,720
+and the particular version of that Chrome.
+
+644
+00:47:15,360 --> 00:47:18,080
+And then in the last we have Selenium hub,
+
+645
+00:47:18,680 --> 00:47:22,360
+the image of hub is going to be downloaded
+and this hub is going to be interacting
+
+646
+00:47:22,360 --> 00:47:24,440
+with all the nodes.
+
+647
+00:47:25,840 --> 00:47:26,400
+Okay.
+
+648
+00:47:26,400 --> 00:47:29,560
+Now one of the very interesting things
+when we are working
+
+649
+00:47:29,560 --> 00:47:34,080
+with selenium,
+
+650
+00:47:34,080 --> 00:47:39,560
+if you are using Dockers to run this,
+how many containers are going to be there
+
+651
+00:47:41,680 --> 00:47:42,800
+when you download this thing?
+
+652
+00:47:42,800 --> 00:48:07,520
+And great image?
+
+653
+00:48:07,520 --> 00:48:15,240
+Is this an individual image?
+
+654
+00:48:15,240 --> 00:48:15,800
+Okay.
+
+655
+00:48:15,800 --> 00:48:19,040
+So actually in case of selenium Grid
+
+656
+00:48:19,560 --> 00:48:26,240
+Hub is going to be in container,
+it is going to be in a separate container.
+
+657
+00:48:26,760 --> 00:48:27,520
+This node
+
+658
+00:48:27,520 --> 00:48:31,000
+is going to be in a separate container
+and this particular node is going to be
+
+659
+00:48:31,320 --> 00:48:34,600
+in a separate container to isolate,
+
+660
+00:48:35,600 --> 00:48:39,360
+to isolate their working from the hub
+
+661
+00:48:39,360 --> 00:48:42,120
+so that they are not at all
+dependent on each other.
+
+662
+00:48:42,640 --> 00:48:45,240
+So one of the very big advantage of using
+
+663
+00:48:45,240 --> 00:48:48,040
+this technique is that
+
+664
+00:48:48,360 --> 00:48:50,640
+how do I get rid of this,
+
+665
+00:48:50,640 --> 00:48:53,960
+let's say in runtime?
+
+666
+00:48:53,960 --> 00:48:57,480
+So you just got
+
+667
+00:48:58,680 --> 00:49:01,000
+you just want to, let's say, test
+
+668
+00:49:01,000 --> 00:49:06,600
+your script on five
+or let's say three Firefox browsers.
+
+669
+00:49:06,640 --> 00:49:10,520
+What you are going to do
+is you will simply use one simple command
+
+670
+00:49:11,040 --> 00:49:13,120
+Docker scale up Firefox X,
+
+671
+00:49:13,920 --> 00:49:16,800
+and you need to mention the number
+of instance that you want to scale up.
+
+672
+00:49:17,800 --> 00:49:20,800
+So let's
+say you want three instance of Firefox.
+
+673
+00:49:20,800 --> 00:49:24,960
+It's going to create three different
+containers,
+
+674
+00:49:26,440 --> 00:49:28,320
+each having
+
+675
+00:49:31,080 --> 00:49:32,800
+Firefox
+
+676
+00:49:33,240 --> 00:49:36,240
+and they will also become now apart off
+
+677
+00:49:36,240 --> 00:49:37,080
+great
+
+678
+00:49:46,160 --> 00:49:47,560
+and your test cases
+
+679
+00:49:47,560 --> 00:49:50,880
+will also start running on
+
+680
+00:49:54,360 --> 00:49:56,880
+these newly created
+
+681
+00:49:56,880 --> 00:50:03,000
+instance of Firefox.
+
+682
+00:50:03,000 --> 00:50:07,160
+Okay, so 730 let's go for a break
+and then we'll be back at eight.
+
+683
+00:50:07,480 --> 00:50:10,920
+Why the redundancy
+of using the same browser to dance moment?
+
+684
+00:50:10,920 --> 00:50:16,920
+Because there can be a scenario
+where you need to test it on, let's say
+
+685
+00:50:16,920 --> 00:50:22,480
+version three of Firefox and version two
+or Firefox and Virgin
+
+686
+00:50:22,480 --> 00:50:27,640
+one or Firefox.
+
+687
+00:50:27,640 --> 01:20:36,160
+Okay guys, I'll see you at eight.
+
+688
+01:20:36,160 --> 01:20:36,560
+Okay.
+
+689
+01:20:36,680 --> 01:20:40,480
+So I hope that you guys are back to
+
+690
+01:20:41,040 --> 01:20:44,880
+and we can proceed on with our
+
+691
+01:20:46,440 --> 01:20:53,680
+next example.
+
+692
+01:20:53,680 --> 01:20:54,600
+Okay, perfect.
+
+693
+01:20:54,600 --> 01:20:58,440
+So we have discussed up till now
+that what are the containers, What is
+
+694
+01:20:58,480 --> 01:21:00,160
+Docker image, how we can
+
+695
+01:21:01,120 --> 01:21:04,760
+use Dockers to deploy selenium bread.
+
+696
+01:21:05,280 --> 01:21:07,880
+We also discussed about
+
+697
+01:21:07,880 --> 01:21:11,280
+standalone com instance that we can use
+
+698
+01:21:12,560 --> 01:21:15,640
+to deploy our selenium scripts.
+
+699
+01:21:16,080 --> 01:21:16,360
+Okay.
+
+700
+01:21:16,360 --> 01:21:20,400
+So this is like the basic applications
+
+701
+01:21:20,400 --> 01:21:22,840
+that we are discussing
+when it comes to testing,
+
+702
+01:21:23,560 --> 01:21:26,240
+but whenever you are working in a company,
+
+703
+01:21:26,240 --> 01:21:28,400
+Dockers will see Dockers implement it
+
+704
+01:21:30,360 --> 01:21:33,120
+very badly in a lot of applications.
+
+705
+01:21:33,480 --> 01:21:37,440
+Their people need to ship
+their applications to a system where
+
+706
+01:21:37,880 --> 01:21:40,480
+they want to run them in an environment.
+
+707
+01:21:40,480 --> 01:21:43,040
+So that system is not actually
+
+708
+01:21:44,840 --> 01:21:49,320
+part of the problem, that it's running
+independently from everything else.
+
+709
+01:21:49,320 --> 01:21:52,200
+If you want to run like this is how
+
+710
+01:21:53,160 --> 01:21:56,320
+actually dockers are used in the industry.
+
+711
+01:21:56,320 --> 01:22:01,200
+So one of the very good example of Dockers
+in industry, let me give you that
+
+712
+01:22:02,360 --> 01:22:03,600
+quickly before we
+
+713
+01:22:03,600 --> 01:22:06,560
+actually jump into the example.
+
+714
+01:22:07,000 --> 01:22:09,360
+So I have witnessed this myself
+
+715
+01:22:10,200 --> 01:22:14,320
+that there were three applications
+actually which were running
+
+716
+01:22:14,640 --> 01:22:18,960
+one of the computers that I was using
+and each had each application
+
+717
+01:22:20,280 --> 01:22:22,320
+required
+
+718
+01:22:22,440 --> 01:22:24,240
+different
+
+719
+01:22:24,400 --> 01:22:26,920
+set of dependencies.
+
+720
+01:22:27,440 --> 01:22:30,000
+And the major issue was that
+
+721
+01:22:33,520 --> 01:22:35,720
+let's say app one.
+
+722
+01:22:35,720 --> 01:22:41,360
+So this one required Node two
+
+723
+01:22:42,320 --> 01:22:45,120
+and this one was requiring Node three
+
+724
+01:22:47,440 --> 01:22:53,400
+and this definition required 0.8.
+
+725
+01:22:54,000 --> 01:22:57,080
+So no matter
+
+726
+01:22:57,360 --> 01:23:00,360
+if there were different
+versions of the node, still
+
+727
+01:23:00,360 --> 01:23:04,480
+they were able to run in the same computer
+in the different containers.
+
+728
+01:23:04,920 --> 01:23:07,640
+So that's just again, one quick example
+
+729
+01:23:07,640 --> 01:23:10,800
+of how doctors are use in the industry.
+
+730
+01:23:11,480 --> 01:23:12,960
+Okay, Now what are we going to do?
+
+731
+01:23:12,960 --> 01:23:17,760
+We will be doing a very smart example,
+I guess, and after that
+
+732
+01:23:18,480 --> 01:23:21,000
+our class is going to be almost over
+because
+
+733
+01:23:21,520 --> 01:23:24,440
+running Docker,
+I guess we have covered almost
+
+734
+01:23:25,880 --> 01:23:27,480
+all the basic stuff.
+
+735
+01:23:27,480 --> 01:23:31,200
+So now what we need to do is
+we will be actually
+
+736
+01:23:31,200 --> 01:23:35,080
+implementing this particular scenario
+that we discussed.
+
+737
+01:23:35,080 --> 01:23:39,280
+We will be launching a clone instance
+in a Docker container
+
+738
+01:23:39,800 --> 01:23:41,920
+and we will be writing down
+a solutions script.
+
+739
+01:23:42,280 --> 01:23:45,480
+We will be running our test cases
+on this particular container.
+
+740
+01:23:46,080 --> 01:23:46,400
+Okay.
+
+741
+01:23:46,400 --> 01:23:49,560
+So as we all have
+
+742
+01:23:49,560 --> 01:23:52,080
+doctors installed,
+it's not going to be a problem.
+
+743
+01:23:52,560 --> 01:23:56,440
+So if you open up
+your Docker desktop application
+
+744
+01:23:56,440 --> 01:24:00,280
+and go to your images,
+you will see something like this.
+
+745
+01:24:00,480 --> 01:24:05,800
+For me, it's selenium
+standalone form and I have two images
+
+746
+01:24:05,800 --> 01:24:09,800
+of basically selenium status,
+but you may have some other images.
+
+747
+01:24:09,800 --> 01:24:11,800
+What I want you to do right now is
+
+748
+01:24:13,840 --> 01:24:15,600
+remove the images that you have.
+
+749
+01:24:15,600 --> 01:24:18,680
+I'll keep this one
+because I want to use this.
+
+750
+01:24:19,560 --> 01:24:21,720
+I want you to delete
+the images that you have
+
+751
+01:24:22,200 --> 01:24:24,480
+and continue along with me.
+
+752
+01:24:24,960 --> 01:24:27,920
+If you go to containers, let me see.
+
+753
+01:24:27,920 --> 01:24:29,240
+This one is already running.
+
+754
+01:24:29,240 --> 01:24:32,840
+I don't want it to run right now,
+so I'll just also delete
+
+755
+01:24:32,840 --> 01:24:38,880
+this one.
+
+756
+01:24:38,880 --> 01:24:40,600
+In fact, let me check.
+
+757
+01:24:40,600 --> 01:24:53,640
+Do I want to one?
+
+758
+01:24:53,640 --> 01:24:57,480
+Okay, so I'll keep it running
+because I actually want it running.
+
+759
+01:24:57,480 --> 01:25:00,200
+But I believe that
+you guys do not have this one.
+
+760
+01:25:00,480 --> 01:25:02,280
+So delete everything, right? No. Whatever.
+
+761
+01:25:02,280 --> 01:25:04,800
+You have images of containers
+and let me know.
+
+762
+01:25:04,800 --> 01:25:08,000
+So I'll just share the updated
+containers, images that
+
+763
+01:25:08,000 --> 01:25:11,520
+you need. Okay.
+
+764
+01:25:12,520 --> 01:25:15,840
+So the first step is going to be
+
+765
+01:25:16,320 --> 01:25:19,400
+to pull these standalone code
+
+766
+01:25:19,600 --> 01:25:22,960
+instance image into our Docker
+
+767
+01:25:24,040 --> 01:25:26,040
+and get that Docker container
+
+768
+01:25:26,040 --> 01:25:41,320
+running.
+
+769
+01:25:41,320 --> 01:25:44,640
+Okay, this error is appearing
+when you are trying to bleed this.
+
+770
+01:25:45,000 --> 01:25:47,080
+Okay, it's fine. Just don't delete it.
+
+771
+01:25:47,600 --> 01:25:52,600
+No worries, it won't be a problem.
+
+772
+01:25:52,600 --> 01:25:52,840
+Okay.
+
+773
+01:25:52,840 --> 01:25:56,200
+So I will just share the command with you
+guys.
+
+774
+01:25:56,560 --> 01:25:57,520
+Let me find it.
+
+775
+01:25:57,520 --> 01:26:04,640
+Was I guess this is the one.
+
+776
+01:26:04,640 --> 01:26:05,360
+Okay.
+
+777
+01:26:05,400 --> 01:26:08,400
+There you go.
+
+778
+01:26:08,400 --> 01:26:17,400
+So, yeah, yeah,
+
+779
+01:26:17,760 --> 01:26:20,520
+especially for me, because a lot of folks
+
+780
+01:26:22,480 --> 01:26:24,720
+are doing the system.
+
+781
+01:26:25,080 --> 01:26:27,120
+Okay, so
+
+782
+01:26:27,240 --> 01:26:29,920
+this particular command there,
+are you going to run it?
+
+783
+01:26:29,920 --> 01:26:31,080
+Let me show first.
+
+784
+01:26:31,080 --> 01:26:33,960
+So you open up
+your command from Git terminal.
+
+785
+01:26:34,080 --> 01:26:37,440
+If you are on windows,
+you can use command prompt.
+
+786
+01:26:37,440 --> 01:26:40,080
+If you are on Mac, you can use terminal
+
+787
+01:26:40,720 --> 01:26:43,440
+and first run docker dash dash version.
+
+788
+01:26:44,320 --> 01:26:45,960
+Make sure the version is there.
+
+789
+01:26:47,600 --> 01:26:50,680
+If it is, then
+the next step that you are going to do
+
+790
+01:26:50,680 --> 01:26:53,520
+is run this particular command run
+
+791
+01:26:54,360 --> 01:26:56,680
+dash dash de
+
+792
+01:26:57,840 --> 01:27:01,160
+for four, four, four
+and then Selenium standalone
+
+793
+01:27:01,160 --> 01:27:05,200
+column 3.1415920210647.
+
+794
+01:27:05,600 --> 01:27:07,920
+Just hit enter
+and this command is going to run.
+
+795
+01:27:09,560 --> 01:27:09,840
+Okay.
+
+796
+01:27:09,840 --> 01:27:13,720
+For me it says that error because
+
+797
+01:27:14,560 --> 01:27:17,080
+it's already running
+
+798
+01:27:18,000 --> 01:27:19,800
+so it's not going to run for me.
+
+799
+01:27:19,800 --> 01:27:23,680
+But I suppose that it will start
+downloading some stuff for you
+
+800
+01:27:24,200 --> 01:27:27,200
+and will start showing you progress
+that is downloading.
+
+801
+01:27:28,440 --> 01:27:32,760
+Yeah, something like this.
+
+802
+01:27:32,760 --> 01:27:33,320
+Okay, good.
+
+803
+01:27:33,320 --> 01:27:36,840
+So we'll complete
+
+804
+01:27:37,800 --> 01:27:38,480
+good. Awesome.
+
+805
+01:27:38,480 --> 01:27:40,800
+I guess it's done for you,
+the rest of you.
+
+806
+01:27:40,800 --> 01:27:43,040
+Do you have the same output
+
+807
+01:27:43,040 --> 01:27:43,920
+sweating? Yeah.
+
+808
+01:27:43,920 --> 01:27:45,640
+It will take some time for some people.
+
+809
+01:27:45,640 --> 01:27:48,720
+For some it will work quickly,
+depending upon your internet connection.
+
+810
+01:27:49,320 --> 01:27:58,440
+So it's going to vary.
+
+811
+01:27:58,440 --> 01:28:01,320
+Okay, So now what have we done
+actually in this command?
+
+812
+01:28:03,000 --> 01:28:06,120
+We this is the link to this Selenium
+
+813
+01:28:06,520 --> 01:28:09,120
+standalone code
+
+814
+01:28:10,520 --> 01:28:12,840
+container image.
+
+815
+01:28:13,720 --> 01:28:15,000
+Okay.
+
+816
+01:28:15,000 --> 01:28:17,880
+When I say standalone, I mean that
+
+817
+01:28:18,840 --> 01:28:21,280
+it is not a part of some grid,
+
+818
+01:28:22,320 --> 01:28:25,280
+it's just an individual
+
+819
+01:28:25,280 --> 01:28:27,000
+Chrome browser.
+
+820
+01:28:28,000 --> 01:28:30,240
+So selenium slash standalone
+
+821
+01:28:30,240 --> 01:28:33,720
+dash Chrome and along with that for
+and this is the link
+
+822
+01:28:34,440 --> 01:28:37,440
+to the image of that particular container
+
+823
+01:28:37,640 --> 01:28:40,640
+which we want to launch.
+
+824
+01:28:40,640 --> 01:28:42,720
+Okay, Docker run
+
+825
+01:28:43,440 --> 01:28:46,800
+Docker is the command
+which is used to run the container.
+
+826
+01:28:48,320 --> 01:28:48,920
+Okay.
+
+827
+01:28:48,920 --> 01:28:52,320
+And now Dash B is actually
+
+828
+01:28:53,800 --> 01:28:56,680
+going to allocate it some port number.
+
+829
+01:28:56,920 --> 01:29:01,600
+So we are allocating the ports
+that for to this particular container
+
+830
+01:29:02,280 --> 01:29:05,720
+and this is the size of the container
+that we want to have.
+
+831
+01:29:06,240 --> 01:29:10,120
+So this is basically
+that we are allocating the hardware
+
+832
+01:29:11,040 --> 01:29:13,080
+resource, our memory
+
+833
+01:29:13,520 --> 01:29:16,080
+to this particular container.
+
+834
+01:29:16,080 --> 01:29:19,280
+So I have allocated over here to G, B
+to this particular container.
+
+835
+01:29:20,160 --> 01:29:22,560
+You can also change the size
+
+836
+01:29:22,560 --> 01:29:26,000
+if we want to, but I guess right now
+this one is sufficient enough.
+
+837
+01:29:27,800 --> 01:29:28,440
+Okay.
+
+838
+01:29:28,440 --> 01:29:31,320
+So after downloading
+
+839
+01:29:31,320 --> 01:29:35,520
+this particular image, it's
+going to run a container building
+
+840
+01:29:35,520 --> 01:29:39,800
+that container upon this image
+and it will have a code
+
+841
+01:29:40,680 --> 01:29:43,040
+instance running.
+
+842
+01:29:43,040 --> 01:29:45,040
+Okay, let's do one thing now.
+
+843
+01:29:45,040 --> 01:29:48,240
+Open up your Docker desktop
+and you will see something
+
+844
+01:29:48,240 --> 01:29:52,800
+like if you go to container images,
+you'll see something like this
+
+845
+01:29:53,160 --> 01:30:05,520
+standalone file, are you able to see it?
+
+846
+01:30:05,520 --> 01:30:06,880
+Okay. Okay.
+
+847
+01:30:07,080 --> 01:30:10,080
+Now this is the image
+that has been downloaded.
+
+848
+01:30:10,080 --> 01:30:12,440
+So image is just a file we.
+
+849
+01:30:12,440 --> 01:30:15,280
+Do not actually we now need it.
+
+850
+01:30:15,280 --> 01:30:17,400
+We can if you want to.
+We can delete it too.
+
+851
+01:30:17,400 --> 01:30:22,320
+But if you delete it, I believe that
+container will not be able to sustain.
+
+852
+01:30:22,320 --> 01:30:25,720
+But we are not going to be actually
+working on this particular image.
+
+853
+01:30:26,840 --> 01:30:30,240
+Let me see.
+
+854
+01:30:30,240 --> 01:30:32,160
+This is container, not image.
+
+855
+01:30:32,160 --> 01:30:35,200
+Then you need to click on images
+and then it will take you here.
+
+856
+01:30:35,640 --> 01:30:36,280
+So this is the
+
+857
+01:30:37,360 --> 01:30:38,120
+way from here.
+
+858
+01:30:38,120 --> 01:30:40,680
+You can see the images that you have.
+
+859
+01:30:40,680 --> 01:30:42,720
+Okay, Now go to container apps.
+
+860
+01:30:43,120 --> 01:30:45,400
+There you'll see
+
+861
+01:30:45,960 --> 01:30:49,560
+something like this.
+
+862
+01:30:49,560 --> 01:30:58,280
+Heisenberg's Selenium standalone.
+
+863
+01:30:58,280 --> 01:31:20,240
+Do you see something like this?
+
+864
+01:31:20,240 --> 01:31:20,520
+Okay.
+
+865
+01:31:20,520 --> 01:31:24,000
+Mohammad Z, your yours is the best one.
+
+866
+01:31:24,240 --> 01:31:26,320
+Romantic tools
+
+867
+01:31:28,320 --> 01:31:29,240
+and that's fine.
+
+868
+01:31:29,240 --> 01:31:32,480
+The name scanner
+you need to click on Containers
+
+869
+01:31:34,080 --> 01:31:37,440
+Containers app.
+
+870
+01:31:37,440 --> 01:31:37,760
+Okay.
+
+871
+01:31:37,760 --> 01:31:44,520
+The only thing is
+that the port should be that upper.
+
+872
+01:31:44,520 --> 01:31:50,480
+Okay, now click on this particular sign
+open in browser.
+
+873
+01:31:50,480 --> 01:31:51,840
+When you click on this,
+
+874
+01:31:51,840 --> 01:31:58,600
+do you see something like
+this opened up in front of you?
+
+875
+01:31:58,600 --> 01:31:59,440
+Okay,
+
+876
+01:32:00,320 --> 01:32:02,720
+so now it's meant this is a place
+
+877
+01:32:02,960 --> 01:32:09,120
+where you can actually connect
+to your chrome that is being launched
+
+878
+01:32:09,440 --> 01:32:14,280
+inside the container and you can just have
+a basic visualization of it.
+
+879
+01:32:14,640 --> 01:32:18,160
+You will not be able to see it in
+detail, but, you know, just
+
+880
+01:32:19,160 --> 01:32:21,360
+a small visualization of it.
+
+881
+01:32:21,360 --> 01:32:24,480
+So if you want to see if any thing
+
+882
+01:32:24,480 --> 01:32:27,160
+has been running on this particular
+
+883
+01:32:27,640 --> 01:32:32,360
+Chrome instance region,
+we can simply click on console over here.
+
+884
+01:32:33,120 --> 01:32:33,680
+Okay.
+
+885
+01:32:33,680 --> 01:32:41,400
+So right now when I click on console,
+do I see any sessions?
+
+886
+01:32:41,400 --> 01:32:45,800
+There is no session running
+because we have not yet run any script
+
+887
+01:32:46,200 --> 01:32:49,320
+that engages this call and run some tests.
+
+888
+01:32:49,320 --> 01:32:51,640
+It I can click on refresh.
+
+889
+01:32:51,680 --> 01:32:53,520
+The result is going to be the same.
+
+890
+01:32:53,520 --> 01:32:59,800
+Okay, let's minimize.
+
+891
+01:32:59,800 --> 01:33:14,160
+Okay, Now I want you guys to open up your
+intelligence, open up our MAVEN project.
+
+892
+01:33:14,160 --> 01:33:40,320
+A new MAVEN project is going to work
+pretty fine.
+
+893
+01:33:40,320 --> 01:33:48,240
+Have you open up the projects?
+
+894
+01:33:48,240 --> 01:33:51,480
+Okay, now
+
+895
+01:33:51,480 --> 01:33:55,000
+what I'm going to do
+is the boundary symbol.
+
+896
+01:33:55,000 --> 01:33:58,920
+Do you have this file already,
+
+897
+01:33:58,920 --> 01:34:04,720
+or do you want me to share it with you?
+
+898
+01:34:04,720 --> 01:34:07,280
+Do you have this boundary item?
+
+899
+01:34:07,280 --> 01:34:08,080
+Okay, perfect.
+
+900
+01:34:09,040 --> 01:34:09,560
+Okay.
+
+901
+01:34:09,560 --> 01:34:11,640
+Someone would share this in the comment
+
+902
+01:34:12,920 --> 01:34:17,520
+if anyone wants to have it,
+copy this from book X and load
+
+903
+01:34:17,520 --> 01:34:21,400
+from the comment off the command
+that I did
+
+904
+01:34:21,400 --> 01:34:37,440
+under custom it.
+
+905
+01:34:37,560 --> 01:34:39,480
+This is your java.
+
+906
+01:34:39,480 --> 01:34:43,640
+I don't need it, so I need it.
+
+907
+01:34:43,640 --> 01:34:45,960
+Okay. So this is my
+
+908
+01:34:45,960 --> 01:34:48,080
+I have created a class called test
+
+909
+01:34:49,440 --> 01:34:51,720
+and over here I have written down
+
+910
+01:34:51,720 --> 01:34:54,760
+some food out the
+
+911
+01:34:55,200 --> 01:34:57,520
+giving you this code
+
+912
+01:34:57,520 --> 01:35:06,600
+in the chat.
+
+913
+01:35:06,600 --> 01:35:07,360
+Okay.
+
+914
+01:35:07,440 --> 01:35:42,600
+Let me know once you have this ready.
+
+915
+01:35:42,600 --> 01:35:44,000
+Okay. Have you.
+
+916
+01:35:44,000 --> 01:36:06,600
+Have you guys prepared this file?
+
+917
+01:36:06,600 --> 01:36:07,200
+Okay.
+
+918
+01:36:07,200 --> 01:36:13,880
+Do you guys know what is called,
+like the fourth grade?
+
+919
+01:36:13,920 --> 01:36:14,360
+Should be.
+
+920
+01:36:14,360 --> 01:36:17,240
+Is it the port for
+
+921
+01:36:17,240 --> 01:36:21,680
+selenium bread is like that apple.
+
+922
+01:36:21,680 --> 01:36:33,120
+So do you guys know what support? No.
+
+923
+01:36:33,200 --> 01:36:37,080
+The question marks.
+
+924
+01:36:37,080 --> 01:36:40,280
+Okay, let me just let you define it.
+
+925
+01:36:40,560 --> 01:36:41,200
+Okay.
+
+926
+01:36:41,200 --> 01:36:46,200
+So we all know that we have in our network
+
+927
+01:36:46,200 --> 01:36:55,120
+an IP address, right?
+
+928
+01:36:55,120 --> 01:36:56,240
+Okay.
+
+929
+01:36:56,240 --> 01:36:59,160
+So where our traffic needs to come into
+this network
+
+930
+01:36:59,160 --> 01:37:02,600
+should flow to this particular IP address.
+
+931
+01:37:03,160 --> 01:37:07,160
+That's it's .1.1. So
+
+932
+01:37:08,920 --> 01:37:12,360
+whatever Internet traffic is coming,
+whatever is coming to
+
+933
+01:37:12,360 --> 01:37:17,920
+the network is flowing inside the computer
+to this particular IP address.
+
+934
+01:37:18,680 --> 01:37:22,400
+Now, this is not some
+
+935
+01:37:23,920 --> 01:37:26,520
+physical division, rather it's again,
+
+936
+01:37:26,520 --> 01:37:31,600
+just some logical division.
+
+937
+01:37:31,600 --> 01:37:35,720
+Further after the IP address,
+the network is divided
+
+938
+01:37:35,720 --> 01:37:40,720
+into ports. So
+
+939
+01:37:45,960 --> 01:37:54,840
+this is
+
+940
+01:37:58,560 --> 01:37:59,240
+okay.
+
+941
+01:38:00,600 --> 01:38:04,080
+Now, this is our computer.
+
+942
+01:38:04,080 --> 01:38:07,200
+Let's US CPU or any other network
+
+943
+01:38:07,200 --> 01:38:08,400
+card, maybe
+
+944
+01:38:11,400 --> 01:38:13,360
+it's also inside the computer.
+
+945
+01:38:13,360 --> 01:38:17,040
+Now, whenever it wants to
+
+946
+01:38:17,880 --> 01:38:20,160
+look at some information and some data,
+
+947
+01:38:21,360 --> 01:38:25,160
+what it does
+is it's looking for some information.
+
+948
+01:38:25,160 --> 01:38:28,360
+It is going to go to port number 80
+
+949
+01:38:28,920 --> 01:38:31,360
+and it will get the data.
+
+950
+01:38:31,840 --> 01:38:35,080
+If it needs to go
+look for something related to Brett,
+
+951
+01:38:35,280 --> 01:38:40,280
+it will go to the division, that dropper
+and it will look that particular data.
+
+952
+01:38:40,600 --> 01:38:45,400
+The advantage of doing this for division
+is that if there are no codes,
+
+953
+01:38:45,960 --> 01:38:51,320
+then all the data has is like letter
+and the network card or CPU,
+
+954
+01:38:51,320 --> 01:38:55,680
+whatever is responsible
+for bringing you the information.
+
+955
+01:38:56,000 --> 01:39:01,480
+It will have to look into all the network
+information that is there.
+
+956
+01:39:01,680 --> 01:39:05,400
+It will have to look from HTP to SMP.
+
+957
+01:39:05,400 --> 01:39:10,560
+Then again, some other information that
+is there until it finds its desired one.
+
+958
+01:39:10,920 --> 01:39:16,000
+But with the division of ports,
+it already knows that.
+
+959
+01:39:16,000 --> 01:39:18,480
+Okay, if I'm going to be looking for
+
+960
+01:39:20,000 --> 01:39:23,600
+a CTP
+that I just need to go to port number 80,
+
+961
+01:39:23,640 --> 01:39:27,560
+if I will be looking for something
+regarding this thing in red.
+
+962
+01:39:27,560 --> 01:39:29,920
+I just need to go to look at that.
+
+963
+01:39:29,920 --> 01:39:35,240
+Jeff So now I believe that to understand
+that when we mentioned the port over here,
+
+964
+01:39:35,240 --> 01:39:38,640
+we are actually mentioning the division
+in how our network
+
+965
+01:39:38,640 --> 01:39:46,160
+has been Division.
+
+966
+01:39:46,160 --> 01:39:49,440
+Okay, Now let me open up
+the code for you guys, Okay?
+
+967
+01:39:49,480 --> 01:39:52,880
+Yeah, here we go. So
+
+968
+01:39:54,000 --> 01:39:56,320
+in this particular example,
+
+969
+01:39:56,320 --> 01:39:58,640
+we are not using any
+
+970
+01:40:01,080 --> 01:40:03,560
+any chrome driver, our browser
+
+971
+01:40:04,800 --> 01:40:07,440
+that is located on this particular
+machine.
+
+972
+01:40:08,640 --> 01:40:11,080
+Rather, we are using the driver
+
+973
+01:40:11,080 --> 01:40:14,160
+and browser
+that are located in the container.
+
+974
+01:40:14,440 --> 01:40:17,360
+So we do not need to set up
+our drivers actions
+
+975
+01:40:18,480 --> 01:40:20,800
+in selenium whenever we have deal with
+
+976
+01:40:20,800 --> 01:40:24,720
+some of some driver
+that is not actually on the machine.
+
+977
+01:40:24,720 --> 01:40:29,400
+We use remote web driver.
+
+978
+01:40:29,400 --> 01:40:32,840
+So if you want to initiate instance,
+we will say
+
+979
+01:40:32,840 --> 01:40:36,760
+try local remote where private driver
+is exposed to new track local.
+
+980
+01:40:36,760 --> 01:40:39,280
+So we are basically just creating
+a new thread for us.
+
+981
+01:40:39,560 --> 01:40:40,120
+Driver
+
+982
+01:40:42,360 --> 01:40:44,520
+Okay, now
+
+983
+01:40:44,520 --> 01:40:47,520
+we have to tell
+
+984
+01:40:47,600 --> 01:40:49,880
+our driver that oh sorry,
+
+985
+01:40:49,880 --> 01:40:54,200
+we have to tell our selenium
+that we're that driver, this remote.
+
+986
+01:40:54,200 --> 01:40:56,520
+That driver is actually looking at it.
+
+987
+01:40:56,960 --> 01:41:02,520
+So our remote work
+driver is located on the local host.
+
+988
+01:41:02,520 --> 01:41:19,560
+Therefore what does it mean by localhost?
+
+989
+01:41:19,560 --> 01:41:22,920
+It means that same particular machine
+that I'm working on.
+
+990
+01:41:22,920 --> 01:41:27,360
+So let's say if I want to run the script
+on some kind of server
+
+991
+01:41:27,760 --> 01:41:32,640
+that is not like in the same building,
+or maybe it's not on the same machine,
+
+992
+01:41:32,880 --> 01:41:37,160
+I'll just give the IP address
+of that particular server over here
+
+993
+01:41:37,160 --> 01:41:39,960
+and it's going to actually run the script
+
+994
+01:41:40,440 --> 01:41:43,240
+on that server in real time.
+
+995
+01:41:44,560 --> 01:41:47,800
+So right now we are using local course
+because we are running
+
+996
+01:41:48,640 --> 01:41:50,800
+container on the same machine.
+
+997
+01:41:50,800 --> 01:41:53,400
+The port number is tetra for VI,
+
+998
+01:41:53,400 --> 01:41:57,960
+because when we ran the container
+we mentioned that the port to be used.
+
+999
+01:41:57,960 --> 01:42:00,840
+Is that proper?
+Let me show you the command.
+
+1000
+01:42:01,560 --> 01:42:05,280
+Here is the place
+where we are actually giving the force
+
+1001
+01:42:05,280 --> 01:42:29,640
+to be used by this particular container.
+
+1002
+01:42:29,640 --> 01:42:30,600
+Okay.
+
+1003
+01:42:30,760 --> 01:42:33,840
+So after that, what we are doing, we are
+
+1004
+01:42:34,880 --> 01:42:35,560
+calling out
+
+1005
+01:42:35,560 --> 01:42:38,160
+chrome options equals
+the new chrome options.
+
+1006
+01:42:38,600 --> 01:42:40,160
+Driver dot set.
+
+1007
+01:42:40,160 --> 01:42:45,240
+At this point we are saying that
+you are sending that remote that driver
+
+1008
+01:42:45,440 --> 01:42:49,200
+along with they
+you are so replacing in the remote URL
+
+1009
+01:42:49,200 --> 01:42:52,240
+for the chrome
+which is this particular one.
+
+1010
+01:42:52,840 --> 01:42:54,600
+And then
+
+1011
+01:42:54,840 --> 01:42:57,160
+we are navigating to google.com,
+
+1012
+01:42:57,760 --> 01:43:00,800
+we are getting the title
+and printing it out on the screen.
+
+1013
+01:43:01,000 --> 01:43:03,880
+Okay, So now let's do one thing.
+
+1014
+01:43:04,000 --> 01:43:07,680
+We can run this script
+through command to terminal.
+
+1015
+01:43:07,680 --> 01:43:12,000
+Also using the MAVEN test.
+
+1016
+01:43:12,640 --> 01:43:15,720
+I believe that you guys already know that,
+but unfortunately
+
+1017
+01:43:15,720 --> 01:43:18,840
+I do not have that setup,
+so I was just running it from over here.
+
+1018
+01:43:19,480 --> 01:43:20,640
+It works the same way.
+
+1019
+01:43:20,640 --> 01:43:21,200
+No difference.
+
+1020
+01:43:21,200 --> 01:43:24,600
+And that's the only thing
+that I want to show you
+
+1021
+01:43:24,600 --> 01:43:28,000
+before I do
+this is I'm going to refresh it right now.
+
+1022
+01:43:28,000 --> 01:43:29,720
+No sessions are there?
+
+1023
+01:43:29,720 --> 01:43:33,040
+No. I'll just simply run this
+particular script that I have written.
+
+1024
+01:43:33,160 --> 01:43:37,320
+Simple, simple script, which.
+
+1025
+01:43:37,320 --> 01:43:40,800
+Okay, after running it,
+I'll simply refresh the session
+
+1026
+01:43:40,800 --> 01:43:46,640
+and you guys can see that a session
+just appeared over here.
+
+1027
+01:43:46,640 --> 01:43:49,680
+A new session has been created
+for this particular script
+
+1028
+01:43:50,000 --> 01:43:53,600
+and I got the output google.com
+
+1029
+01:43:53,880 --> 01:43:58,960
+and there was no browser actually launched
+into my system, but the browser actually
+
+1030
+01:43:58,960 --> 01:44:17,040
+launched inside the container
+that you just created.
+
+1031
+01:44:17,040 --> 01:44:18,360
+How are you guys able to run it
+
+1032
+01:44:40,440 --> 01:45:11,400
+for your
+
+1033
+01:45:11,400 --> 01:45:17,320
+issue? Yes,
+
+1034
+01:45:18,720 --> 01:45:23,160
+your issue is because of the fact that
+
+1035
+01:45:26,400 --> 01:45:27,320
+your chrome driver
+
+1036
+01:45:27,320 --> 01:45:32,160
+and version do not match.
+
+1037
+01:45:32,160 --> 01:45:34,960
+You can do one thing more.
+
+1038
+01:45:35,240 --> 01:45:38,440
+Just make sure that you
+
+1039
+01:45:38,440 --> 01:45:41,000
+delete the darker
+
+1040
+01:45:41,000 --> 01:45:44,320
+that image that you have and get get it.
+
+1041
+01:45:44,320 --> 01:45:46,520
+Get it again. The same one. Okay.
+
+1042
+01:45:46,520 --> 01:45:50,040
+This error should not be there
+because I was also facing the same error
+
+1043
+01:45:50,040 --> 01:45:53,440
+and problem was that
+I did not have the correct image.
+
+1044
+01:45:54,000 --> 01:45:56,760
+So I'm going to share the image again.
+
+1045
+01:45:57,360 --> 01:45:59,760
+And you guys, you can try it out.
+
+1046
+01:45:59,760 --> 01:46:02,720
+So Docker Docker is another headless
+
+1047
+01:46:02,720 --> 01:46:04,040
+process.
+
+1048
+01:46:05,120 --> 01:46:07,200
+In this particular example,
+
+1049
+01:46:07,560 --> 01:46:10,440
+we are using it as a headless
+
+1050
+01:46:10,560 --> 01:46:14,240
+HD browser,
+but Docker is not actually that.
+
+1051
+01:46:14,480 --> 01:46:14,760
+Okay.
+
+1052
+01:46:14,760 --> 01:46:20,640
+However, in this particular example,
+it's being utilized in this scenario.
+
+1053
+01:46:20,640 --> 01:46:24,480
+But actually the purpose of Doppler is,
+as I mentioned, to have
+
+1054
+01:46:24,520 --> 01:46:26,320
+standalone independent
+
+1055
+01:46:27,600 --> 01:46:28,760
+processor running on it.
+
+1056
+01:46:28,760 --> 01:46:31,120
+So this particular Chrome
+
+1057
+01:46:31,120 --> 01:46:35,360
+that we are running on, it is independent,
+not affected by my system.
+
+1058
+01:46:35,400 --> 01:46:37,680
+You guys know that on my system,
+
+1059
+01:46:38,880 --> 01:46:41,840
+the chrome driver that the chrome
+
+1060
+01:46:42,160 --> 01:46:46,480
+that I have installed
+is let's say which version is that.
+
+1061
+01:46:46,840 --> 01:46:50,240
+It's the latest one,
+but that the one that I'm actually
+
+1062
+01:46:50,240 --> 01:46:54,600
+testing on right now
+is 3.141 on your systems.
+
+1063
+01:46:54,600 --> 01:46:56,760
+Also, there is a different one
+that is installed.
+
+1064
+01:46:56,760 --> 01:46:59,280
+But right now
+we are testing our application on
+
+1065
+01:47:00,560 --> 01:47:01,480
+previous version.
+
+1066
+01:47:01,480 --> 01:47:04,840
+The older one. Okay.
+
+1067
+01:47:04,840 --> 01:47:06,840
+What about the rest of you? Is it working
+
+1068
+01:47:08,160 --> 01:47:10,440
+if you guys did?
+
+1069
+01:47:11,480 --> 01:47:13,400
+Okay, any questions?
+
+1070
+01:47:13,400 --> 01:47:30,320
+So This point?
+
+1071
+01:47:30,320 --> 01:47:31,920
+Shh, shh.
+
+1072
+01:47:31,920 --> 01:47:35,000
+Shh, shh, shh, shh, shh,
+
+1073
+01:47:35,480 --> 01:47:57,800
+shh, shh.
+
+1074
+01:47:57,800 --> 01:48:03,920
+No, Mohammed, even if your room is different on your system, it should not affect.
+
+1075
+01:48:04,920 --> 01:48:05,560
+Because are
+
+1076
+01:48:05,560 --> 01:48:07,960
+running our test script in the doctor's
+right now.
+
+1077
+01:48:08,600 --> 01:48:12,320
+So if it's not running,
+it means that you downloaded
+
+1078
+01:48:12,320 --> 01:48:15,760
+the wrong image for school.
+
+1079
+01:48:15,760 --> 01:48:19,960
+Or maybe on that food,
+something else is already running.
+
+1080
+01:48:19,960 --> 01:48:23,720
+So what you need to do is stop
+all of the containers, delete them
+
+1081
+01:48:24,160 --> 01:48:27,760
+and after that try to
+
+1082
+01:48:30,040 --> 01:48:38,040
+re initiate the process.
+
+1083
+01:48:38,040 --> 01:48:40,520
+Okay, So
+
+1084
+01:48:41,520 --> 01:48:42,800
+over here we see that
+
+1085
+01:48:42,800 --> 01:48:46,680
+we have different chrome
+
+1086
+01:48:46,800 --> 01:48:49,200
+standalone Chrome versions available.
+
+1087
+01:48:50,120 --> 01:48:53,960
+It's just so every time you perform
+the task,
+
+1088
+01:48:53,960 --> 01:48:56,600
+you have to leave
+the content that you're in for
+
+1089
+01:48:58,200 --> 01:48:58,800
+No logo.
+
+1090
+01:48:58,800 --> 01:49:01,360
+Now let's see if this one is done.
+
+1091
+01:49:01,360 --> 01:49:05,040
+And we have tested it because, you know,
+I would not have actually written
+
+1092
+01:49:05,880 --> 01:49:10,560
+any test script over here,
+but I can write down the pool desperate.
+
+1093
+01:49:10,560 --> 01:49:12,120
+If you guys have any desperate
+
+1094
+01:49:12,120 --> 01:49:18,280
+written, you can share with me
+and I can show you how I can run it.
+
+1095
+01:49:18,280 --> 01:49:22,120
+So if I want to run it again,
+I can run this in the same container.
+
+1096
+01:49:22,520 --> 01:49:25,920
+Once again,
+
+1097
+01:49:25,920 --> 01:49:29,760
+let me show you.
+
+1098
+01:49:29,760 --> 01:49:33,440
+Now, there are two instances
+of the same container created.
+
+1099
+01:49:33,440 --> 01:49:35,760
+This is the container
+already that we have.
+
+1100
+01:49:35,760 --> 01:49:39,920
+And we can always, you know, run
+
+1101
+01:49:39,920 --> 01:49:42,600
+multiple description
+the same one if we want to.
+
+1102
+01:49:43,240 --> 01:50:00,360
+If not, we can create a new container.
+
+1103
+01:50:00,360 --> 01:50:00,640
+Okay.
+
+1104
+01:50:00,640 --> 01:50:03,400
+Do you guys have any script
+which might be, you know,
+
+1105
+01:50:03,640 --> 01:50:08,120
+a longer script than this one.
+
+1106
+01:50:08,120 --> 01:50:09,600
+I believe that you may have.
+
+1107
+01:50:09,600 --> 01:50:13,240
+I think I would have to go
+very deep in the system to find it.
+
+1108
+01:50:13,600 --> 01:50:18,560
+So if anyone can share some discussions
+with me, not on multiple files,
+
+1109
+01:50:18,560 --> 01:50:21,880
+but on a single file from some selenium,
+that would be appropriate. It
+
+1110
+01:50:23,840 --> 01:50:49,640
+is. Okay, so let's do one thing.
+
+1111
+01:50:49,880 --> 01:50:52,640
+I have not experimented it before,
+
+1112
+01:50:52,640 --> 01:50:55,200
+but I think we can do this right now.
+
+1113
+01:50:56,040 --> 01:50:58,480
+What if I do thread dot
+
+1114
+01:51:00,000 --> 01:51:02,560
+sleep and I give it a pause
+
+1115
+01:51:02,560 --> 01:51:08,000
+for like, how many seconds is that?
+
+1116
+01:51:09,040 --> 01:51:17,000
+10 seconds.
+
+1117
+01:51:17,000 --> 01:51:21,640
+Mohammad, I'll try to help you
+out of the blocks because.
+
+1118
+01:51:21,640 --> 01:51:25,120
+I'm not sure
+if you use the correct amount.
+
+1119
+01:51:25,120 --> 01:51:30,960
+It should have worked.
+
+1120
+01:51:30,960 --> 01:51:36,120
+Okay, guys, so this is 10 seconds, right?
+
+1121
+01:51:36,120 --> 01:51:37,440
+And let's do one thing.
+
+1122
+01:51:37,440 --> 01:51:40,040
+Let's run another container.
+
+1123
+01:51:40,040 --> 01:51:40,680
+Let's try it.
+
+1124
+01:51:40,680 --> 01:51:43,560
+Run under the container on port number
+
+1125
+01:51:45,720 --> 01:51:49,320
+four for two, four, four, two.
+
+1126
+01:51:50,080 --> 01:51:56,960
+Let's try this.
+
+1127
+01:51:56,960 --> 01:51:59,200
+Let me open up the containers now.
+
+1128
+01:52:00,720 --> 01:52:03,360
+Okay, So I just ran
+
+1129
+01:52:04,440 --> 01:52:06,880
+the same command
+and I changed the port number.
+
+1130
+01:52:07,960 --> 01:52:10,080
+So you guys can also do the same thing.
+
+1131
+01:52:10,080 --> 01:52:12,320
+Just change the port for four, four, two
+
+1132
+01:52:13,320 --> 01:52:14,480
+and you'll see Docker
+
+1133
+01:52:14,480 --> 01:52:19,160
+container running on this port.
+
+1134
+01:52:19,160 --> 01:52:27,120
+If you open this decent browser,
+it's always running.
+
+1135
+01:52:27,120 --> 01:52:30,200
+But no, it's not getting me
+
+1136
+01:52:30,200 --> 01:52:37,800
+some information.
+
+1137
+01:52:37,800 --> 01:52:40,120
+I think I now understand why.
+
+1138
+01:52:40,200 --> 01:52:49,880
+Let me just delete this one.
+
+1139
+01:52:49,880 --> 01:52:51,720
+Let's try
+
+1140
+01:52:54,400 --> 01:53:44,320
+this.
+
+1141
+01:53:44,320 --> 01:53:45,720
+Okay. So we cannot do this.
+
+1142
+01:53:45,720 --> 01:53:49,440
+Unfortunately, what I was trying to do,
+what I was trying to do,
+
+1143
+01:53:49,440 --> 01:53:52,720
+I was trying to launch
+
+1144
+01:53:53,640 --> 01:53:57,840
+and others Selenium
+standalone Chrome on same port.
+
+1145
+01:53:57,840 --> 01:54:02,400
+But I believe that we cannot change
+the port numbers like this,
+
+1146
+01:54:03,520 --> 01:54:07,640
+they should be find it
+behind the scenes in the that same way.
+
+1147
+01:54:08,440 --> 01:54:12,920
+So I think in order to do this,
+
+1148
+01:54:13,440 --> 01:54:19,560
+let me see.
+
+1149
+01:54:19,560 --> 01:54:22,320
+Okay let's know
+
+1150
+01:54:25,080 --> 01:54:26,080
+open up a new one.
+
+1151
+01:54:26,080 --> 01:54:28,560
+Still did not work, Mohammed.
+
+1152
+01:54:28,560 --> 01:54:30,000
+Let's see it after that. That's
+
+1153
+01:54:31,080 --> 01:54:31,440
+how we
+
+1154
+01:54:31,440 --> 01:54:35,280
+can do with different browsers
+for different browsers.
+
+1155
+01:54:35,280 --> 01:54:45,000
+Let me let me show you.
+
+1156
+01:54:45,000 --> 01:54:46,920
+Okay. So
+
+1157
+01:54:48,000 --> 01:54:50,760
+I think this is the command that will
+
+1158
+01:54:54,560 --> 01:54:56,840
+get us
+
+1159
+01:55:01,440 --> 01:55:07,240
+the image for Firefox.
+
+1160
+01:55:07,240 --> 01:56:03,480
+So it's going to take some time
+to download the image.
+
+1161
+01:56:03,480 --> 01:56:04,200
+Okay.
+
+1162
+01:56:04,800 --> 01:56:08,360
+So it's going to take some time
+to download while it downloads.
+
+1163
+01:56:08,840 --> 01:56:10,760
+Let's discuss some more stuff.
+
+1164
+01:56:10,760 --> 01:56:14,800
+One it once it is downloaded,
+we can simply go ahead and
+
+1165
+01:56:16,480 --> 01:56:32,040
+try this out.
+
+1166
+01:56:32,040 --> 01:56:32,320
+Okay.
+
+1167
+01:56:32,320 --> 01:56:36,720
+Let me now
+just show you how we can set up it.
+
+1168
+01:56:38,120 --> 01:56:40,680
+But it's going to also happen once.
+
+1169
+01:56:40,680 --> 01:56:42,560
+This download is complete.
+
+1170
+01:56:42,560 --> 01:56:44,520
+Okay, let's
+wait for this download to complete.
+
+1171
+01:56:44,520 --> 01:56:47,760
+And meanwhile,
+do you guys have any questions
+
+1172
+01:56:47,760 --> 01:56:51,240
+or any confusions regarding the stuff
+that we have discussed far?
+
+1173
+01:56:51,240 --> 01:56:53,880
+Let me know.
+
+1174
+01:56:53,880 --> 01:56:55,560
+I can answer you up queries.
+
+1175
+01:56:55,560 --> 01:57:01,400
+And meanwhile, no questions.
+
+1176
+01:57:01,920 --> 01:57:05,280
+So next time I have a task on Docker
+and I rely on
+
+1177
+01:57:05,280 --> 01:57:14,320
+you guys to help me out,
+I should not have any questions.
+
+1178
+01:57:14,320 --> 01:57:16,560
+I knew that to understand. Right.
+
+1179
+01:57:16,560 --> 01:57:18,760
+Okay. Mohammed, apart from Mohammed.
+
+1180
+01:57:19,000 --> 01:57:19,320
+Okay.
+
+1181
+01:57:19,320 --> 01:57:24,080
+Asked him, is there.
+
+1182
+01:57:24,080 --> 01:57:26,840
+Yes, ma'am.
+This new image is for now Firefox.
+
+1183
+01:57:26,840 --> 01:57:28,280
+Just just read it.
+
+1184
+01:57:28,280 --> 01:57:31,320
+What does it say? It says that Docker run
+
+1185
+01:57:33,120 --> 01:57:35,640
+port number 4445
+
+1186
+01:57:36,760 --> 01:57:40,200
+size 2G, G, Selenium standalone Firefox.
+
+1187
+01:57:40,200 --> 01:57:42,960
+With this version. So nice download it.
+
+1188
+01:57:43,000 --> 01:57:45,480
+Let's see in my docker
+
+1189
+01:57:47,960 --> 01:57:50,240
+containers.
+
+1190
+01:57:50,640 --> 01:57:53,040
+Do I have any firefox
+
+1191
+01:57:53,040 --> 01:58:10,960
+instance?
+
+1192
+01:58:10,960 --> 01:58:22,920
+Yes, it's there.
+
+1193
+01:58:22,920 --> 01:58:32,880
+So. Okay.
+
+1194
+01:58:33,320 --> 01:58:36,320
+So we are also going
+to open up the console for that.
+
+1195
+01:58:37,800 --> 01:58:41,520
+No sessions are there right now.
+
+1196
+01:58:41,520 --> 01:58:44,640
+Okay. Now let's do one thing.
+
+1197
+01:58:44,880 --> 01:58:47,560
+Let's quickly
+
+1198
+01:58:47,600 --> 01:58:49,080
+create a new project.
+
+1199
+01:58:49,080 --> 01:58:50,400
+Let's not change this one.
+
+1200
+01:58:50,400 --> 01:58:54,360
+Instead Create a new million project
+
+1201
+01:58:55,040 --> 01:58:55,560
+limit.
+
+1202
+01:58:55,560 --> 01:58:57,240
+Why don't you try with the Firefox one?
+
+1203
+01:58:57,240 --> 01:59:00,080
+Maybe this is going to work for you.
+
+1204
+01:59:00,080 --> 01:59:01,560
+Okay.
+
+1205
+01:59:01,560 --> 01:59:04,120
+Test two new window.
+
+1206
+01:59:05,160 --> 01:59:08,000
+No, I start working
+
+1207
+01:59:17,280 --> 01:59:18,040
+your issue.
+
+1208
+01:59:18,040 --> 01:59:18,880
+Let me tell you what.
+
+1209
+01:59:18,880 --> 01:59:23,120
+So if you your issue is
+only the incompatibility between the web
+
+1210
+01:59:24,160 --> 01:59:26,640
+stream, between the chrome driver
+
+1211
+01:59:26,640 --> 01:59:30,840
+and the Chrome browser
+that you have installed inside the Docker,
+
+1212
+01:59:31,920 --> 01:59:34,400
+the issue is nowhere else.
+
+1213
+01:59:34,400 --> 01:59:37,200
+This is the only issue that you have
+
+1214
+01:59:39,200 --> 01:59:40,440
+how to get rid of it.
+
+1215
+01:59:40,440 --> 01:59:44,080
+The only solution is to download
+the correct image, but as you have
+
+1216
+01:59:45,000 --> 01:59:48,840
+the correct image already, so
+
+1217
+01:59:48,880 --> 01:59:51,280
+I think that we will have to take a look
+
+1218
+01:59:51,600 --> 01:59:55,600
+ourself in that.
+
+1219
+01:59:55,600 --> 01:59:59,280
+Okay, So I'm going to copy
+the same code that we have over here.
+
+1220
+01:59:59,320 --> 02:00:02,400
+I'm going to copy this now.
+
+1221
+02:00:02,400 --> 02:00:03,640
+Let me copy this.
+
+1222
+02:00:03,640 --> 02:00:07,280
+All shampooed
+and paste it in here for test. Do
+
+1223
+02:00:12,360 --> 02:00:13,360
+I believe that
+
+1224
+02:00:13,360 --> 02:00:38,480
+the did
+
+1225
+02:00:39,960 --> 02:00:42,000
+I miss something
+
+1226
+02:00:49,320 --> 02:00:49,720
+more?
+
+1227
+02:00:49,720 --> 02:00:51,720
+That driver.
+
+1228
+02:00:52,040 --> 02:00:56,680
+Oh, I need to reload
+
+1229
+02:00:56,680 --> 02:00:59,040
+dependency me
+
+1230
+02:01:04,200 --> 02:01:07,080
+Yeah, it's not good.
+
+1231
+02:01:07,080 --> 02:01:07,520
+Okay.
+
+1232
+02:01:07,520 --> 02:01:12,120
+So what will be the changes?
+
+1233
+02:01:12,120 --> 02:01:14,280
+Should I make some changes in my remote?
+
+1234
+02:01:14,280 --> 02:01:25,560
+You are? Yes.
+
+1235
+02:01:25,560 --> 02:01:30,600
+I need to change my port number
+from 2 to 4 to 4 to 5.
+
+1236
+02:01:31,520 --> 02:01:41,640
+It's going to be Firefox. It's
+
+1237
+02:01:43,760 --> 02:01:48,520
+and this is not
+
+1238
+02:01:48,520 --> 02:01:52,840
+going to change easily. Yes.
+
+1239
+02:01:52,840 --> 02:01:55,600
+The rest of the stuff is going to be,
+I believe, from industry.
+
+1240
+02:01:55,920 --> 02:01:58,960
+Okay, let's run this and have a look up on
+
+1241
+02:02:03,720 --> 02:02:09,960
+both of five.
+
+1242
+02:02:09,960 --> 02:02:11,040
+Okay. Got it.
+
+1243
+02:02:11,040 --> 02:02:12,800
+They got it over here.
+
+1244
+02:02:12,800 --> 02:02:15,360
+So it's working on it also.
+
+1245
+02:02:15,360 --> 02:02:16,800
+Okay, now let's do one thing.
+
+1246
+02:02:16,800 --> 02:02:19,840
+Let's try to do both the browsers
+
+1247
+02:02:19,840 --> 02:02:38,320
+in parallel.
+
+1248
+02:02:38,320 --> 02:02:41,280
+So we have to wait in both of them.
+
+1249
+02:02:41,280 --> 02:02:47,120
+So I believe that it's going to work.
+
+1250
+02:02:47,120 --> 02:02:47,400
+Okay.
+
+1251
+02:02:47,400 --> 02:02:51,320
+So then Stencil is created over here
+also and over here also.
+
+1252
+02:02:51,880 --> 02:02:55,720
+So right now I'm testing on both of the
+
+1253
+02:02:58,080 --> 02:03:01,680
+both of the code
+but both of the drivers in parallel.
+
+1254
+02:03:01,680 --> 02:03:05,600
+But the only problem here is
+that it's not actually parallel
+
+1255
+02:03:06,040 --> 02:03:11,520
+because I'm using two different scripts
+for this purpose, not the same script.
+
+1256
+02:03:11,520 --> 02:03:15,320
+Okay, So it's not an actual parallel,
+
+1257
+02:03:15,960 --> 02:03:19,240
+rather, I am just,
+you know, finding my way around the
+
+1258
+02:03:27,920 --> 02:03:29,240
+in order to be able
+
+1259
+02:03:29,240 --> 02:03:32,200
+to test parallel
+a script should be the same.
+
+1260
+02:03:33,120 --> 02:03:35,720
+Having different scripts is
+
+1261
+02:03:35,720 --> 02:03:37,920
+not good enough.
+
+1262
+02:03:37,920 --> 02:03:38,800
+Okay,
+
+1263
+02:03:39,400 --> 02:03:42,000
+so is this clear to everyone
+
+1264
+02:03:42,520 --> 02:03:52,080
+what we have discussed until this point?
+
+1265
+02:03:52,080 --> 02:03:57,320
+Guys, if you have any questions
+or concerns regarding Dockers, go ahead.
+
+1266
+02:03:57,680 --> 02:04:01,400
+Be open about it.
+
+1267
+02:04:01,400 --> 02:04:02,560
+Okay. Perfect.
+
+1268
+02:04:02,560 --> 02:04:07,920
+Mohammed, I told you
+the only problem will be with the version.
+
+1269
+02:04:07,920 --> 02:04:08,920
+That's it.
+
+1270
+02:04:09,440 --> 02:04:10,880
+It should be working to it.
+
+1271
+02:04:10,880 --> 02:04:12,600
+We were just restarting your system.
+
+1272
+02:04:12,600 --> 02:04:14,320
+Unplug the power cables.
+
+1273
+02:04:14,320 --> 02:04:18,280
+You know, insert it again
+and maybe it will help you out
+
+1274
+02:04:20,240 --> 02:04:20,800
+from there.
+
+1275
+02:04:20,800 --> 02:04:24,080
+You know, the first solution,
+
+1276
+02:04:24,080 --> 02:04:27,960
+the most working, ineffective solution.
+
+1277
+02:04:27,960 --> 02:04:31,280
+How can we open like five Chrome browser
+at the same time?
+
+1278
+02:04:31,880 --> 02:04:34,880
+Okay,
+so if you want to open up the five browser
+
+1279
+02:04:34,880 --> 02:04:38,480
+at the same time, you just need to do one.
+
+1280
+02:04:38,480 --> 02:04:39,560
+I believe
+
+1281
+02:04:41,400 --> 02:04:44,440
+I was
+trying to do that, but unfortunately.
+
+1282
+02:04:44,720 --> 02:04:47,840
+Okay, so
+
+1283
+02:05:07,800 --> 02:05:12,240
+let's try this.
+
+1284
+02:05:12,240 --> 02:05:15,240
+Okay, so
+
+1285
+02:05:25,560 --> 02:05:27,120
+the local host is actually not
+
+1286
+02:05:27,120 --> 02:05:30,320
+responding in this situation.
+
+1287
+02:05:30,320 --> 02:05:31,480
+Let me see.
+
+1288
+02:05:31,480 --> 02:05:35,520
+It should be responding.
+
+1289
+02:05:35,520 --> 02:05:45,280
+This is Yes,
+
+1290
+02:05:46,320 --> 02:05:49,320
+yes. This is the one that I entered
+
+1291
+02:05:50,480 --> 02:05:52,520
+for four, five or six.
+
+1292
+02:05:52,520 --> 02:05:54,800
+But localhost is not responding
+to this machine.
+
+1293
+02:05:55,200 --> 02:05:58,200
+Was it not responding this
+for particular port number?
+
+1294
+02:05:58,440 --> 02:06:01,480
+Maybe it's being used for other
+
+1295
+02:06:04,200 --> 02:06:26,320
+data transfer.
+
+1296
+02:06:26,320 --> 02:06:27,440
+Okay. I
+
+1297
+02:07:23,040 --> 02:07:25,080
+okay. So
+
+1298
+02:07:25,160 --> 02:07:28,720
+the problem over here,
+when I'm trying to launch
+
+1299
+02:07:28,720 --> 02:07:31,800
+and then the chrome instance
+on a different port number
+
+1300
+02:07:31,800 --> 02:07:34,680
+because obviously
+if I want to launch another container,
+
+1301
+02:07:35,400 --> 02:07:38,160
+I cannot launch it on the same port
+because it's already
+
+1302
+02:07:38,160 --> 02:07:40,760
+been assigned
+to one of the Chrome instance.
+
+1303
+02:07:41,200 --> 02:07:43,040
+But when I tried to launch it,
+
+1304
+02:07:44,440 --> 02:07:47,160
+let me show you
+
+1305
+02:07:47,640 --> 02:07:50,360
+where it start.
+
+1306
+02:07:50,360 --> 02:07:50,640
+Okay.
+
+1307
+02:07:50,640 --> 02:07:52,800
+This that proper table for five.
+
+1308
+02:07:54,440 --> 02:07:56,520
+When I tried to launch it on this one,
+
+1309
+02:07:57,600 --> 02:07:59,840
+it's not going to actually run it. Why?
+
+1310
+02:07:59,840 --> 02:08:02,520
+Because in this image
+
+1311
+02:08:04,160 --> 02:08:07,960
+be behind the scenes
+when I'm doing the command should be.
+
+1312
+02:08:08,000 --> 02:08:12,000
+Although I mentioned the port but
+behind it the when the image is created
+
+1313
+02:08:12,760 --> 02:08:16,920
+the port range is also defined
+in that image.
+
+1314
+02:08:17,360 --> 02:08:22,120
+So when I tried to run that on a different
+port number, it gives me an error.
+
+1315
+02:08:22,120 --> 02:08:26,280
+Although it starts running it,
+you guys can see over here what I did
+
+1316
+02:08:27,000 --> 02:08:29,640
+the before six and if show you dockers
+
+1317
+02:08:30,720 --> 02:08:33,400
+X running this image on top of four six
+
+1318
+02:08:33,880 --> 02:08:39,360
+but I'm unable to see anything
+when I bring this up because the port
+
+1319
+02:08:39,760 --> 02:08:44,800
+that is hardcoded inside that image
+which communicates with my
+
+1320
+02:08:45,000 --> 02:08:49,440
+of this particular chrome in order
+to bring this, the response is different.
+
+1321
+02:08:49,760 --> 02:08:52,920
+So right now 4446 is trying to communicate
+
+1322
+02:08:52,920 --> 02:08:57,000
+with 444 or five you do,
+which I'm not getting a response.
+
+1323
+02:08:57,240 --> 02:09:00,000
+So in order to be able to do
+
+1324
+02:09:00,000 --> 02:09:03,120
+this, we need to make some changes inside
+that Docker file.
+
+1325
+02:09:03,120 --> 02:09:08,760
+Also Docker image, which is what somewhat,
+you know, at one step.
+
+1326
+02:09:08,760 --> 02:09:11,280
+So we will not be dealing with that.
+
+1327
+02:09:11,280 --> 02:09:15,960
+But let me show you
+how it's working in the case are
+
+1328
+02:09:17,160 --> 02:09:19,440
+great do guys get the reason that why
+
+1329
+02:09:19,680 --> 02:09:22,600
+why are we unable to actually launch
+
+1330
+02:09:23,400 --> 02:09:25,960
+another instance of chrome?
+
+1331
+02:09:25,960 --> 02:09:26,920
+You guys get the result.
+
+1332
+02:09:26,920 --> 02:09:39,360
+Do you want me to explain again?
+
+1333
+02:09:39,360 --> 02:09:41,440
+Okay, so just
+
+1334
+02:09:43,560 --> 02:09:44,520
+just mention it.
+
+1335
+02:09:44,520 --> 02:09:47,760
+You know, I will always explain again. No.
+
+1336
+02:09:48,560 --> 02:09:50,480
+Okay, so should I.
+
+1337
+02:09:50,480 --> 02:09:52,880
+I'll start from the very beginning or.
+
+1338
+02:09:52,880 --> 02:09:55,520
+Should I just explain that this problem
+
+1339
+02:10:15,960 --> 02:10:18,440
+and I'm
+going to explain the whole process.
+
+1340
+02:10:18,440 --> 02:10:20,040
+Okay, guys, just stay with me.
+
+1341
+02:10:20,040 --> 02:10:25,440
+I'll be explaining the whole process.
+
+1342
+02:10:25,440 --> 02:10:26,600
+Okay? So.
+
+1343
+02:10:26,600 --> 02:10:29,160
+So when I see a selenium image
+
+1344
+02:10:29,160 --> 02:10:31,160
+of a standalone
+
+1345
+02:10:32,520 --> 02:10:34,880
+Chrome instance,
+
+1346
+02:10:36,720 --> 02:10:39,240
+it means that there is going to be
+
+1347
+02:10:39,240 --> 02:10:43,480
+configuration files
+that it needs to download in order
+
+1348
+02:10:43,480 --> 02:10:48,880
+to establish a container,
+in order to establish a container
+
+1349
+02:10:50,040 --> 02:10:51,720
+which has
+
+1350
+02:10:52,280 --> 02:10:54,360
+a Chrome browser
+
+1351
+02:10:54,360 --> 02:10:58,520
+and a Chrome driver.
+
+1352
+02:10:58,520 --> 02:11:00,520
+Is this clear to everyone?
+
+1353
+02:11:02,280 --> 02:11:03,560
+Okay, now
+
+1354
+02:11:03,560 --> 02:11:07,320
+this selenium image is going to be
+most probably some file
+
+1355
+02:11:07,320 --> 02:11:10,960
+which contains
+all the necessary installations
+
+1356
+02:11:10,960 --> 02:11:15,560
+that need to be met right.
+
+1357
+02:11:15,560 --> 02:11:16,320
+Okay.
+
+1358
+02:11:16,560 --> 02:11:20,480
+Now, behind these installations,
+when they are being done,
+
+1359
+02:11:20,880 --> 02:11:24,080
+there is going to be
+some kind of coding involved.
+
+1360
+02:11:24,080 --> 02:11:27,000
+Do you guys agree with that?
+
+1361
+02:11:27,000 --> 02:11:30,440
+There's going to be a code behind
+that which will be actually generating
+
+1362
+02:11:30,440 --> 02:11:33,960
+this container
+
+1363
+02:11:33,960 --> 02:11:35,720
+on inside of it.
+
+1364
+02:11:35,720 --> 02:11:37,240
+Right.
+
+1365
+02:11:37,240 --> 02:11:43,800
+Okay.
+
+1366
+02:11:43,800 --> 02:11:48,120
+Now, when I picked up this image
+and I run this image
+
+1367
+02:11:48,120 --> 02:11:51,480
+and I say, okay, run the container, it
+actually what happens, it
+
+1368
+02:11:51,960 --> 02:11:55,720
+creates a container
+logical insert instance.
+
+1369
+02:11:55,720 --> 02:12:00,000
+And along with
+that launch is a driver. Now
+
+1370
+02:12:01,520 --> 02:12:05,640
+it's this is our web page on a computer
+
+1371
+02:12:06,480 --> 02:12:09,240
+and we want to have
+
+1372
+02:12:10,000 --> 02:12:13,640
+a, you know, just a vague
+data of whatever is happening
+
+1373
+02:12:13,640 --> 02:12:18,880
+inside this particular Chrome browser
+or whatever is happening inside this
+
+1374
+02:12:19,240 --> 02:12:22,320
+sorry, not browser, whatever is happening
+inside this container.
+
+1375
+02:12:22,520 --> 02:12:23,240
+Right.
+
+1376
+02:12:23,480 --> 02:12:27,080
+You want to have this information, but
+
+1377
+02:12:28,520 --> 02:12:29,760
+this screen
+
+1378
+02:12:29,760 --> 02:12:32,520
+is showing us whether is happening
+inside the container, Right.
+
+1379
+02:12:33,400 --> 02:12:37,560
+So you guys can imagine
+that there is a port.
+
+1380
+02:12:37,560 --> 02:12:42,760
+So there is a port in this container
+which we connect
+
+1381
+02:12:44,200 --> 02:12:47,640
+to the website, our Chrome browser,
+
+1382
+02:12:48,360 --> 02:12:51,480
+and it tells us everything on the screen
+that was actually happening.
+
+1383
+02:12:52,240 --> 02:12:56,600
+So just like localhost for for five.
+
+1384
+02:12:56,600 --> 02:12:59,320
+So I'm telling that
+if we connect to this particular port
+
+1385
+02:13:02,720 --> 02:13:03,640
+now, this port
+
+1386
+02:13:03,640 --> 02:13:05,760
+when we run the container and the
+
+1387
+02:13:06,840 --> 02:13:09,320
+when we download the image
+and run this container,
+
+1388
+02:13:09,880 --> 02:13:12,760
+this particular board is being fed
+some data
+
+1389
+02:13:12,760 --> 02:13:16,920
+and it's hardcoded inside the image
+that what's the port number.
+
+1390
+02:13:16,920 --> 02:13:20,640
+So let's say the port number for Chrome
+is that graph for
+
+1391
+02:13:21,320 --> 02:13:26,200
+right now
+
+1392
+02:13:26,200 --> 02:13:30,120
+when we run the image,
+
+1393
+02:13:30,120 --> 02:13:35,720
+we tell that on this port in our system,
+do you have to run the image?
+
+1394
+02:13:36,840 --> 02:13:39,080
+So now we are changing the
+
+1395
+02:13:39,400 --> 02:13:42,000
+and are saying run
+the image on port number,
+
+1396
+02:13:43,040 --> 02:13:44,000
+this one.
+
+1397
+02:13:44,000 --> 02:13:46,320
+So whenever we connect,
+try to connect to it,
+
+1398
+02:13:46,640 --> 02:13:51,960
+it's going to go to four four, four,
+five and see for some data over there.
+
+1399
+02:13:51,960 --> 02:13:54,960
+But do we have any data coming on 444
+or five?
+
+1400
+02:13:56,760 --> 02:13:58,640
+No. So that's the reason that we are
+
+1401
+02:13:58,640 --> 02:14:02,720
+unable to see anything, how to change it,
+how to be able to
+
+1402
+02:14:02,720 --> 02:14:08,200
+look at some data,
+how to be able to actually work with this.
+
+1403
+02:14:08,200 --> 02:14:10,560
+I'll tell you the way
+
+1404
+02:14:11,200 --> 02:14:14,160
+you need to go inside selenium
+
+1405
+02:14:14,160 --> 02:14:16,640
+image
+and change the configurations over there.
+
+1406
+02:14:16,920 --> 02:14:17,640
+Okay.
+
+1407
+02:14:17,640 --> 02:14:20,280
+But I believe that
+
+1408
+02:14:20,280 --> 02:14:23,520
+that is actually something at once
+and you will not be dealing with that.
+
+1409
+02:14:23,520 --> 02:14:29,040
+But I can show you some configurations
+how they are actually being done.
+
+1410
+02:14:29,040 --> 02:14:31,760
+So we were discussing before
+about setting in grid, right?
+
+1411
+02:14:33,440 --> 02:14:34,960
+So let me show you over here
+
+1412
+02:14:34,960 --> 02:14:38,160
+not to make sense to all of you
+
+1413
+02:14:41,080 --> 02:14:43,800
+dockers,
+
+1414
+02:14:43,800 --> 02:14:45,640
+those who I am over
+
+1415
+02:14:45,640 --> 02:15:00,000
+here.
+
+1416
+02:15:00,000 --> 02:15:02,560
+Now, do you see that inside Selenium hub,
+
+1417
+02:15:02,560 --> 02:15:06,320
+It's allocating the port
+like the port and further selenium.
+
+1418
+02:15:06,320 --> 02:15:10,960
+How best to do that graph.
+
+1419
+02:15:10,960 --> 02:15:16,560
+Now it has allocated it inside
+the image, the whole port range.
+
+1420
+02:15:16,920 --> 02:15:20,160
+Now if we are running anything over here,
+
+1421
+02:15:20,160 --> 02:15:23,880
+we will be able to run
+and scale up our instance very easily
+
+1422
+02:15:23,880 --> 02:15:26,920
+because we have defined the whole range
+and allocated it
+
+1423
+02:15:26,920 --> 02:15:32,040
+inside the image.
+
+1424
+02:15:32,040 --> 02:15:34,800
+Yeah, and remember one thing,
+
+1425
+02:15:35,520 --> 02:15:38,680
+this is
+I think, something that can be asked to
+
+1426
+02:15:38,680 --> 02:15:41,760
+you guys
+that what is the port for Selenium
+
+1427
+02:15:43,400 --> 02:15:44,040
+image.
+
+1428
+02:15:44,040 --> 02:15:49,400
+So remember that it's actually tetra for,
+
+1429
+02:15:49,400 --> 02:15:53,160
+but the range for Selenium
+great is too big for to do that.
+
+1430
+02:15:53,560 --> 02:16:08,520
+Okay.
+
+1431
+02:16:08,520 --> 02:16:09,160
+Okay.
+
+1432
+02:16:09,360 --> 02:16:12,320
+Now what we are going to do let you see.
+
+1433
+02:16:12,600 --> 02:16:17,160
+So we might be asked
+what is the port option in grid.
+
+1434
+02:16:17,160 --> 02:16:20,800
+Yeah, you can be asked
+that like you should know, it's
+
+1435
+02:16:21,480 --> 02:16:24,320
+just like
+you should know the port for HTP.
+
+1436
+02:16:24,320 --> 02:16:25,200
+It's 80.
+
+1437
+02:16:25,200 --> 02:16:28,360
+So if you said to
+someone I have word on selenium grid,
+
+1438
+02:16:28,920 --> 02:16:31,520
+if you say that, if you claimed that
+then you should know that
+
+1439
+02:16:31,520 --> 02:16:58,280
+the range is usually triple
+4 to 2 tetra for.
+
+1440
+02:16:58,280 --> 02:16:58,720
+Okay.
+
+1441
+02:17:00,120 --> 02:17:02,280
+So after this example, I'm going to show
+
+1442
+02:17:02,280 --> 02:17:05,600
+you just how to test
+
+1443
+02:17:08,600 --> 02:17:10,960
+only selenium library too, for a moment.
+
+1444
+02:17:12,320 --> 02:17:15,000
+Well, well can see that
+
+1445
+02:17:15,000 --> 02:17:18,920
+I know what's the selenium grade,
+but I have never actually worked on it, so
+
+1446
+02:17:20,080 --> 02:17:29,800
+that's a better way of putting it forward.
+
+1447
+02:17:29,800 --> 02:17:30,120
+Okay.
+
+1448
+02:17:30,120 --> 02:17:33,120
+So let me just quickly show you a document
+
+1449
+02:17:34,080 --> 02:17:37,920
+and some examples
+how we can work with selenium grade.
+
+1450
+02:17:37,920 --> 02:17:41,280
+Whenever you have some free
+it three times, just make sure
+
+1451
+02:17:41,280 --> 02:17:44,040
+that you practice it
+using it and using dockers.
+
+1452
+02:17:44,400 --> 02:17:48,960
+I'm going to help you out to run selenium
+grid on your system.
+
+1453
+02:17:49,040 --> 02:17:52,120
+Using Docker lets you just find
+the correct commands for that
+
+1454
+02:17:52,560 --> 02:17:54,800
+and I'll be showing them
+
+1455
+02:17:56,040 --> 02:17:57,360
+you see,
+
+1456
+02:17:57,880 --> 02:18:03,760
+where did that one go? So
+
+1457
+02:18:30,040 --> 02:18:31,560
+okay, so
+
+1458
+02:18:31,560 --> 02:18:35,240
+the first command that we will be running,
+I want you guys to open up your
+
+1459
+02:18:36,480 --> 02:18:38,840
+commands, run and type in Docker.
+
+1460
+02:18:40,360 --> 02:18:45,800
+Well, Selenium.
+
+1461
+02:18:45,800 --> 02:18:51,240
+Oh, it's just
+
+1462
+02:19:09,480 --> 02:19:12,400
+now so there's a slash between this
+
+1463
+02:19:22,840 --> 02:19:25,120
+second command is dark purple
+
+1464
+02:19:27,000 --> 02:19:29,360
+and selenium.
+
+1465
+02:19:29,360 --> 02:19:32,040
+So node slash role
+
+1466
+02:19:34,240 --> 02:19:38,160
+that it's
+
+1467
+02:19:38,280 --> 02:19:39,040
+okay.
+
+1468
+02:19:39,040 --> 02:19:44,480
+So what do you think it's doing?
+
+1469
+02:19:44,480 --> 02:19:47,600
+It's actually
+downloading this Selenium hub
+
+1470
+02:19:48,560 --> 02:19:50,600
+Docker image
+
+1471
+02:19:53,120 --> 02:19:54,320
+because
+
+1472
+02:19:54,840 --> 02:19:57,040
+you can see that we are pulling,
+we are saying,
+
+1473
+02:19:57,040 --> 02:20:00,200
+Hey, Docker, pull the Selenium.
+
+1474
+02:20:00,200 --> 02:20:03,080
+No selenium hub image.
+
+1475
+02:20:03,840 --> 02:20:06,720
+And then we are saying, well, selenium
+node, cool.
+
+1476
+02:20:07,160 --> 02:20:09,760
+And then we are going to say
+pulled selenium node,
+
+1477
+02:20:09,760 --> 02:20:11,400
+Firefox
+
+1478
+02:20:19,160 --> 02:20:32,920
+slash, Okay.
+
+1479
+02:20:33,200 --> 02:20:44,040
+And run this command.
+
+1480
+02:20:44,040 --> 02:20:46,120
+My I guess my internet is pretty slow
+
+1481
+02:20:54,280 --> 02:21:00,120
+and you Google them up.
+
+1482
+02:21:00,120 --> 02:21:02,120
+That's how you get them.
+
+1483
+02:21:02,680 --> 02:21:03,520
+Yes, exactly.
+
+1484
+02:21:03,520 --> 02:21:07,640
+You lose that command to download
+or command
+
+1485
+02:21:07,640 --> 02:21:10,240
+to full selenium pass to full
+
+1486
+02:21:11,960 --> 02:21:13,600
+selenium node
+
+1487
+02:21:13,600 --> 02:21:22,560
+and like, okay,
+so the next command that you need to run.
+
+1488
+02:21:22,560 --> 02:21:25,640
+So for those of you who have successfully
+
+1489
+02:21:26,880 --> 02:21:28,880
+done this, what do you need to do next?
+
+1490
+02:21:28,880 --> 02:21:33,160
+You need to run this particular command
+Docker, run dash D, slash
+
+1491
+02:21:33,160 --> 02:21:37,800
+B, So in the M hub.
+
+1492
+02:21:38,400 --> 02:21:40,440
+So this is going to actually run,
+
+1493
+02:21:41,440 --> 02:21:43,440
+start running the Container Stadium hub.
+
+1494
+02:21:43,440 --> 02:21:46,040
+So first of all, we downloaded the image,
+now we are
+
+1495
+02:21:47,520 --> 02:22:00,240
+running that container.
+
+1496
+02:22:00,240 --> 02:22:03,240
+So what they are
+
+1497
+02:22:07,080 --> 02:22:09,520
+is it's mostly
+
+1498
+02:22:21,920 --> 02:22:25,440
+like, okay, support is already allocated.
+
+1499
+02:22:25,440 --> 02:22:26,160
+Yeah.
+
+1500
+02:22:26,160 --> 02:22:30,960
+So this is because that's what it has
+some on potential for.
+
+1501
+02:22:30,960 --> 02:22:33,000
+There's already something running right?
+
+1502
+02:22:33,000 --> 02:22:35,880
+So you need to and everything else
+
+1503
+02:22:37,080 --> 02:22:58,280
+so you get the next command
+that you need to run is this one.
+
+1504
+02:22:58,560 --> 02:23:10,160
+So you are not not, not
+this one is the wrong command.
+
+1505
+02:23:10,160 --> 02:23:13,160
+Sorry, I just copied it, but unfortunately
+
+1506
+02:23:14,040 --> 02:23:22,840
+it did not copy.
+
+1507
+02:23:22,840 --> 02:23:25,360
+This command is
+going to actually link your
+
+1508
+02:23:26,760 --> 02:23:29,520
+it's going to run your selenium
+
+1509
+02:23:29,520 --> 02:23:33,000
+node and then link it with hub six.
+
+1510
+02:23:33,120 --> 02:23:36,440
+And this one is to run the Firefox
+
+1511
+02:23:36,440 --> 02:23:39,520
+and link link and with the help
+
+1512
+02:23:39,520 --> 02:23:54,360
+that let me know
+once you guys have run this,
+
+1513
+02:23:54,840 --> 02:24:12,320
+these commands it's
+
+1514
+02:24:45,880 --> 02:24:47,280
+first they are
+
+1515
+02:25:06,760 --> 02:25:07,800
+the reverse run
+
+1516
+02:25:07,800 --> 02:25:12,120
+the selenium hub.
+
+1517
+02:25:12,120 --> 02:25:16,160
+I seem to underscore man
+the one that I mentioned names
+
+1518
+02:25:16,440 --> 02:25:25,240
+setting them up So you slash
+how did you run this.
+
+1519
+02:25:25,240 --> 02:25:25,640
+Okay.
+
+1520
+02:25:25,640 --> 02:25:45,360
+Zuma What the error.
+
+1521
+02:25:45,360 --> 02:26:08,680
+Okay, maybe call it an IP.
+
+1522
+02:26:08,720 --> 02:26:10,760
+No, Why should we go out night
+
+1523
+02:26:14,840 --> 02:26:17,040
+Okay, so, well,
+
+1524
+02:26:17,040 --> 02:26:20,320
+we just need to correct our commands.
+
+1525
+02:26:20,320 --> 02:26:24,600
+Let me find new command
+because it's just about,
+
+1526
+02:26:24,840 --> 02:26:26,600
+you know, launching the Selenium hub.
+
+1527
+02:26:26,600 --> 02:26:30,080
+It's not that difficult
+and it's some problem with the commands.
+
+1528
+02:26:30,080 --> 02:26:32,640
+Let's fix them and
+
+1529
+02:26:33,920 --> 02:26:36,160
+after that, I'll show you some
+
+1530
+02:26:37,320 --> 02:26:39,440
+something about Selenium. Great.
+
+1531
+02:26:39,440 --> 02:26:41,520
+And then we can call it the night.
+
+1532
+02:26:41,520 --> 02:26:47,080
+Okay, let me see.
+
+1533
+02:26:47,080 --> 02:27:07,680
+Selenium is.
+
+1534
+02:27:07,680 --> 02:27:11,120
+Are you having the same problem?
+
+1535
+02:27:11,120 --> 02:27:13,320
+Okay, let's do it from GitHub
+
+1536
+02:27:25,640 --> 02:28:05,360
+hubs and nodes.
+
+1537
+02:28:05,360 --> 02:28:10,560
+We can try these commands.
+
+1538
+02:28:10,560 --> 02:28:16,520
+Okay, so I'm going to share the link.
+
+1539
+02:28:16,520 --> 02:28:20,720
+So for Mac users,
+you guys are going to follow
+
+1540
+02:28:23,760 --> 02:28:27,600
+these set of command and for Windows users
+
+1541
+02:28:27,600 --> 02:28:32,200
+to be following these commands,
+
+1542
+02:28:32,200 --> 02:28:39,920
+let's try them on.
+
+1543
+02:28:39,920 --> 02:28:42,560
+Okay. But before you do that,
+just make sure of one thing.
+
+1544
+02:28:42,560 --> 02:28:45,880
+You do need any containers you have.
+
+1545
+02:28:45,880 --> 02:28:49,680
+Okay, Delete any containers
+
+1546
+02:28:50,520 --> 02:28:51,160
+of it.
+
+1547
+02:28:51,160 --> 02:28:53,080
+This one ran for me.
+
+1548
+02:28:53,080 --> 02:29:01,400
+Now let's check the other one.
+
+1549
+02:29:01,400 --> 02:29:04,120
+Okay. So it's going to do take some time
+and download it.
+
+1550
+02:29:04,360 --> 02:29:07,960
+So these command
+are most probably going to run.
+
+1551
+02:29:07,960 --> 02:29:13,880
+And once you have random all, most probably your grid is going to be there. So
+
+1552
+02:29:14,920 --> 02:29:15,360
+after
+
+1553
+02:29:15,360 --> 02:29:18,440
+that you are just to go to the
+you are a little confused
+
+1554
+02:29:18,440 --> 02:29:23,160
+and let me tell you the world
+that you need to visit.
+
+1555
+02:29:23,520 --> 02:29:25,320
+Which one is that?
+
+1556
+02:29:25,840 --> 02:29:28,800
+Let show it to you.
+
+1557
+02:29:28,960 --> 02:29:31,200
+Once your grid is up and running,
+
+1558
+02:29:31,200 --> 02:29:33,840
+then you need to visit this particular
+you are okay.
+
+1559
+02:29:35,280 --> 02:29:36,920
+So after running all these commands,
+
+1560
+02:29:36,920 --> 02:29:40,040
+click on this local stack upgrade console.
+
+1561
+02:29:40,560 --> 02:29:44,560
+There you see that you're at one place,
+
+1562
+02:29:44,560 --> 02:29:48,080
+your Firefox browser be accomplished,
+your Chrome browser will be.
+
+1563
+02:29:48,480 --> 02:29:50,560
+And if you want to
+scale up your own browser,
+
+1564
+02:29:50,560 --> 02:29:54,840
+if you want to scale up your Firefox
+browser, the command to do that is
+
+1565
+02:29:56,400 --> 02:29:59,960
+let me see the command to do that is
+
+1566
+02:30:15,920 --> 02:30:16,720
+Firefox
+
+1567
+02:30:16,720 --> 02:30:27,480
+still up?
+
+1568
+02:30:27,480 --> 02:30:32,080
+Okay, so this is the command
+to add more containers.
+
+1569
+02:30:32,680 --> 02:30:35,080
+So. Okay.
+
+1570
+02:30:35,080 --> 02:30:38,680
+Now let me show you what will happen
+
+1571
+02:30:38,680 --> 02:30:42,720
+once you have everything set up.
+
+1572
+02:30:42,720 --> 02:30:46,040
+Meanwhile,
+it can continue running in the background.
+
+1573
+02:30:46,480 --> 02:30:51,160
+Let's go ahead with the next command. Just
+
+1574
+02:30:56,040 --> 02:32:04,960
+see. Okay.
+
+1575
+02:32:05,080 --> 02:32:06,760
+That downloading for me.
+
+1576
+02:32:06,760 --> 02:32:09,640
+The other one. Okay.
+So just make sure one thing.
+
+1577
+02:32:09,640 --> 02:32:14,720
+If you are using windows, then
+most probably this command is redundant.
+
+1578
+02:32:14,720 --> 02:32:16,360
+Motions is not going to work.
+
+1579
+02:32:16,360 --> 02:32:20,080
+So you have to make it one liner
+and for that you need to delete this
+
+1580
+02:32:21,960 --> 02:32:23,480
+this symbol
+
+1581
+02:32:23,480 --> 02:32:25,920
+in order to make it one liner
+and then try to run it.
+
+1582
+02:32:26,400 --> 02:32:30,080
+So right now
+you are installing Selenium Hub
+
+1583
+02:32:30,240 --> 02:32:33,720
+along with our, for instance,
+
+1584
+02:32:33,720 --> 02:32:36,400
+and then we'll be running one for
+
+1585
+02:32:37,440 --> 02:32:38,680
+Firefox. That's it.
+
+1586
+02:32:38,680 --> 02:32:41,760
+I'm not going to be running
+for the edge one.
+
+1587
+02:32:43,360 --> 02:32:45,840
+So after that
+the grid is going to be complete.
+
+1588
+02:32:46,280 --> 02:32:50,240
+Okay, So now
+let me share the website with you guys.
+
+1589
+02:32:50,560 --> 02:32:53,560
+We is going to come very handy for you.
+
+1590
+02:32:54,600 --> 02:32:55,360
+Okay.
+
+1591
+02:32:56,800 --> 02:33:00,440
+So, okay, this is
+
+1592
+02:33:00,880 --> 02:33:04,080
+how it's going to look like
+
+1593
+02:33:06,000 --> 02:33:08,000
+when you visit your console.
+
+1594
+02:33:08,000 --> 02:33:12,120
+You will have one instance
+or multiple instance of
+
+1595
+02:33:13,200 --> 02:33:15,520
+chrome or Firefox right now.
+
+1596
+02:33:15,520 --> 02:33:16,880
+One, two, three, four, cool.
+
+1597
+02:33:16,880 --> 02:33:20,520
+And two Firefox are running.
+
+1598
+02:33:20,520 --> 02:33:23,080
+You guys can scale them more
+if you want to.
+
+1599
+02:33:24,120 --> 02:33:24,920
+Okay.
+
+1600
+02:33:24,920 --> 02:33:30,840
+So after that, the main thing is the code
+that we will be discussing.
+
+1601
+02:33:30,840 --> 02:33:33,400
+So here is the code given
+
+1602
+02:33:34,160 --> 02:33:37,080
+for this particular
+
+1603
+02:33:37,080 --> 02:33:41,040
+task is the only thing
+that is going to be different
+
+1604
+02:33:41,040 --> 02:33:44,160
+when you are writing than the code
+for selenium.
+
+1605
+02:33:44,160 --> 02:33:47,520
+Grid is going to be
+
+1606
+02:33:47,600 --> 02:33:49,440
+the portion where you said
+
+1607
+02:33:49,440 --> 02:33:52,840
+the remote that driver is.
+
+1608
+02:33:53,400 --> 02:33:57,240
+So if I show you
+the rest of the code is going to be
+
+1609
+02:33:57,600 --> 02:34:00,760
+just exactly the same.
+
+1610
+02:34:00,760 --> 02:34:04,360
+And over here
+what they are doing is let's see the class
+
+1611
+02:34:04,400 --> 02:34:10,800
+name.
+
+1612
+02:34:10,800 --> 02:34:18,000
+Okay,
+we are setting the driver local host.
+
+1613
+02:34:18,000 --> 02:34:19,800
+This time is stacked up here.
+
+1614
+02:34:19,800 --> 02:34:21,000
+Can someone tell me that?
+
+1615
+02:34:21,000 --> 02:34:23,440
+Why is it tetra for this time?
+
+1616
+02:34:23,440 --> 02:34:28,440
+Whereas the Chrome and Firefox
+are running on different port numbers,
+
+1617
+02:34:29,480 --> 02:34:33,640
+The chrome is running on.
+
+1618
+02:34:33,640 --> 02:34:36,360
+Let's see, the chrome is running on
+
+1619
+02:34:40,320 --> 02:34:41,000
+Firefox
+
+1620
+02:34:41,000 --> 02:34:44,360
+by 901,
+whereas boom is five nine that will zero.
+
+1621
+02:34:44,360 --> 02:35:08,640
+Then why are we giving tetra
+four over here?
+
+1622
+02:35:08,640 --> 02:35:09,760
+It's local. Yes.
+
+1623
+02:35:09,760 --> 02:35:12,520
+You mean that
+that is defined by local host, right.
+
+1624
+02:35:13,040 --> 02:35:15,960
+I'm talking about the port number that is.
+
+1625
+02:35:16,160 --> 02:35:17,640
+Why are we giving tetra four?
+
+1626
+02:35:17,640 --> 02:35:22,080
+We are giving tetra four
+because this is the port number of the
+
+1627
+02:35:23,880 --> 02:35:27,240
+selenium hub.
+
+1628
+02:35:27,880 --> 02:35:28,720
+Right.
+
+1629
+02:35:29,160 --> 02:35:32,280
+Because our hub is on the port number.
+
+1630
+02:35:32,760 --> 02:35:33,480
+Tetra four.
+
+1631
+02:35:33,480 --> 02:35:35,360
+Let me show you
+
+1632
+02:35:36,600 --> 02:35:38,160
+if you see that
+
+1633
+02:35:38,160 --> 02:35:40,280
+your hub is on death row four,
+
+1634
+02:35:40,760 --> 02:35:45,120
+whereas your other instances
+are on 59015900.
+
+1635
+02:35:45,120 --> 02:35:47,760
+So you are going to disconnect to the hub
+four now.
+
+1636
+02:35:48,840 --> 02:35:51,560
+Okay, Then
+
+1637
+02:35:51,560 --> 02:35:54,120
+you will be writing down your browsers
+
+1638
+02:35:55,440 --> 02:35:58,560
+for Firefox, for Chrome and that's it.
+
+1639
+02:36:00,040 --> 02:36:01,440
+So else
+
+1640
+02:36:01,440 --> 02:36:04,400
+that you will be needing to change,
+I believe.
+
+1641
+02:36:04,480 --> 02:36:20,880
+No. Okay, I'm going to share this thing.
+
+1642
+02:36:21,720 --> 02:36:27,040
+Just go through it and try to do this
+example of selenium grid.
+
+1643
+02:36:27,040 --> 02:36:30,600
+In this you can this in parallel.
+
+1644
+02:36:31,680 --> 02:36:34,960
+Even if you are unable
+to complete this one, it's
+
+1645
+02:36:34,960 --> 02:36:42,720
+that's totally fine.
+
+1646
+02:36:42,720 --> 02:36:46,680
+My system is still waiting
+for the download to complete.
+
+1647
+02:36:46,680 --> 02:36:50,880
+If you have on your system,
+if everything is done, let me know
+
+1648
+02:36:51,920 --> 02:36:54,000
+so that we can
+
+1649
+02:36:55,200 --> 02:36:56,080
+double check that.
+
+1650
+02:36:56,080 --> 02:36:58,120
+If everything is running up tomorrow
+
+1651
+02:37:03,360 --> 02:37:24,160
+or something.
+
+1652
+02:37:24,160 --> 02:37:28,400
+Okay, So guys,
+do you have any other questions regarding
+
+1653
+02:37:28,800 --> 02:37:30,480
+whatever we have covered till this?
+
+1654
+02:37:30,480 --> 02:37:51,880
+Fine.
+
+1655
+02:37:51,880 --> 02:37:54,000
+As you see right now, I have one
+
+1656
+02:37:55,040 --> 02:37:58,440
+on my selenium grid,
+one instance of chrome running
+
+1657
+02:38:00,000 --> 02:38:00,840
+and it slides.
+
+1658
+02:38:00,840 --> 02:38:05,320
+Yes, I have the slides
+and the notes assured
+
+1659
+02:38:06,240 --> 02:38:09,040
+assured them
+but you guys are on the canvas.
+
+1660
+02:38:09,040 --> 02:38:11,640
+Okay, so don't worry about it.
+
+1661
+02:38:12,920 --> 02:38:15,920
+Just make sure that regarding Dockers
+
+1662
+02:38:16,560 --> 02:38:19,800
+you understand what is Dockers?
+
+1663
+02:38:19,800 --> 02:38:24,560
+Why do we need and when our Docker images
+you understand that
+
+1664
+02:38:24,960 --> 02:38:30,480
+and you have an idea
+that if you want to set up a you know
+
+1665
+02:38:30,800 --> 02:38:36,440
+and you want to set up a Docker container
+using an image, how can you do that?
+
+1666
+02:38:36,880 --> 02:38:42,240
+So simply, if I asked you that,
+can you create a darker image
+
+1667
+02:38:42,240 --> 02:38:46,440
+that has a standalone fire
+for a Firefox instance.
+
+1668
+02:38:46,440 --> 02:38:50,920
+Can you do that?
+
+1669
+02:38:50,920 --> 02:38:51,480
+Okay.
+
+1670
+02:38:51,560 --> 02:38:55,040
+And if I ask you guys to run
+some test cases
+
+1671
+02:38:55,040 --> 02:38:58,760
+in that particular container,
+that Firefox container will be able to do
+
+1672
+02:39:03,440 --> 02:39:05,560
+okay,
+So only Mohammad will be able to do that
+
+1673
+02:39:05,560 --> 02:39:15,320
+and the rest of the people
+will not be able to do that right.
+
+1674
+02:39:15,320 --> 02:39:17,560
+Eleni is saying yes, you are right.
+
+1675
+02:39:17,560 --> 02:39:19,440
+Absolutely right.
+
+1676
+02:39:19,440 --> 02:39:22,560
+You have to review it like this
+one was simple, right?
+
+1677
+02:39:22,920 --> 02:39:25,040
+Everything was so, so simple.
+
+1678
+02:39:25,240 --> 02:39:26,280
+At least maybe.
+
+1679
+02:39:28,080 --> 02:39:30,240
+Maybe
+I'm saying that because it was simple for.
+
+1680
+02:39:30,240 --> 02:39:35,120
+Me and for you guys,
+it was complicated, right?
+
+1681
+02:39:35,120 --> 02:39:38,160
+So tell me which client was complicated.
+
+1682
+02:39:38,160 --> 02:39:38,760
+Quickly.
+
+1683
+02:39:38,760 --> 02:39:41,560
+Tell me,
+because then I'm going to end the session.
+
+1684
+02:39:41,600 --> 02:39:46,320
+I want to know,
+which point did you not understand?
+
+1685
+02:39:46,320 --> 02:39:51,800
+Maryam, You are one of one third
+of a girl, so that's not a problem for us.
+
+1686
+02:39:52,320 --> 02:39:52,680
+I don't know.
+
+1687
+02:39:52,680 --> 02:39:58,600
+How do I want?
+
+1688
+02:39:58,600 --> 02:40:02,040
+Oh, okay.
+
+1689
+02:40:02,040 --> 02:40:05,280
+So, Eleni, your is.
+
+1690
+02:40:05,640 --> 02:40:09,080
+You are not entering the commands
+correctly.
+
+1691
+02:40:09,240 --> 02:40:14,520
+I'll have to help you with that,
+I believe command not found.
+
+1692
+02:40:14,520 --> 02:40:16,320
+It says because.
+
+1693
+02:40:16,320 --> 02:40:19,280
+Because, because. Because
+
+1694
+02:40:19,280 --> 02:40:21,600
+syntax error
+
+1695
+02:40:25,280 --> 02:40:28,440
+Docker compose scale 2.5
+
+1696
+02:40:38,400 --> 02:40:39,360
+you have them for now
+
+1697
+02:40:39,360 --> 02:40:43,200
+just just amend disk command
+because in order
+
+1698
+02:40:43,200 --> 02:40:46,320
+to be able to use this one,
+I believe you should have a I am a flat
+
+1699
+02:40:48,120 --> 02:40:49,480
+for quite
+
+1700
+02:40:51,760 --> 02:40:53,880
+of you are unable to run
+even the first command.
+
+1701
+02:40:53,880 --> 02:40:55,880
+Okay Eleni, I'll have a look at it.
+
+1702
+02:40:55,880 --> 02:40:59,040
+But first let me talk to all of you guys.
+
+1703
+02:40:59,040 --> 02:41:02,520
+What did is the difficulty
+that you find in dollars?
+
+1704
+02:41:03,000 --> 02:41:03,480
+I don't know.
+
+1705
+02:41:03,480 --> 02:41:06,040
+I'm getting the sense that you found it
+pretty difficult.
+
+1706
+02:41:07,640 --> 02:41:29,480
+Is that true?
+
+1707
+02:41:29,480 --> 02:41:33,320
+Well, you did not see anything,
+so that's why I would be assuming things
+
+1708
+02:41:33,320 --> 02:41:33,960
+right
+
+1709
+02:41:40,240 --> 02:41:43,600
+leaders for now to maintain this concept.
+
+1710
+02:41:43,600 --> 02:41:45,240
+Okay, you are confused.
+
+1711
+02:41:45,240 --> 02:41:48,520
+Confused about which particular thing
+can you mention?
+
+1712
+02:41:48,520 --> 02:41:59,240
+Data?
+
+1713
+02:41:59,240 --> 02:42:01,840
+Well, technically speaking. So
+
+1714
+02:42:03,160 --> 02:42:07,120
+I have covered the basics
+regarding the Dockers.
+
+1715
+02:42:07,120 --> 02:42:10,320
+So if I will be adding into the class,
+that is going to be
+
+1716
+02:42:10,320 --> 02:42:15,200
+some really smart stuff,
+which I honestly think is beyond the scope
+
+1717
+02:42:15,560 --> 02:42:19,800
+of, you guys, because that is going to be
+really, really tough to get it.
+
+1718
+02:42:19,800 --> 02:42:21,720
+It's just the simple things.
+
+1719
+02:42:21,720 --> 02:42:22,440
+So Motorola,
+
+1720
+02:42:22,440 --> 02:42:27,840
+I'll have to talk to this and discuss
+whether we need to, you know, include that
+
+1721
+02:42:30,760 --> 02:42:32,360
+complicated stuff or not.
+
+1722
+02:42:32,360 --> 02:42:35,640
+But right now I want you guys to tell me
+I still have done
+
+1723
+02:42:35,640 --> 02:42:39,520
+just tell me out which things confuse
+you in Docker.
+
+1724
+02:42:39,520 --> 02:42:41,000
+I can make them clear.
+
+1725
+02:42:41,000 --> 02:42:44,800
+I know that because honestly speaking,
+I don't know what happened to you guys.
+
+1726
+02:42:44,800 --> 02:42:46,480
+I taught you the whole batch.
+
+1727
+02:42:46,480 --> 02:42:48,480
+Right now you do not even communicate.
+
+1728
+02:42:48,480 --> 02:42:51,760
+You were so much responsive
+during the batch, and you always know that
+
+1729
+02:42:52,040 --> 02:42:53,760
+if you are not going to give me feedback,
+
+1730
+02:42:53,760 --> 02:42:58,440
+I will not know which topics
+to spend more time on, which topics
+
+1731
+02:42:58,640 --> 02:43:01,200
+I be explaining more
+I should be going in depth
+
+1732
+02:43:02,440 --> 02:43:03,560
+when you go in response.
+
+1733
+02:43:03,560 --> 02:43:05,640
+Otherwise you are not paying attention or
+
+1734
+02:43:05,640 --> 02:43:07,720
+I assume
+that you are understanding everything.
+
+1735
+02:43:07,720 --> 02:43:09,200
+So both things are
+
+1736
+02:43:10,200 --> 02:43:12,480
+bad and your feelings so
+
+1737
+02:43:16,920 --> 02:43:19,320
+at least you guys should be mentioning out
+
+1738
+02:43:19,320 --> 02:43:22,400
+that okay,
+this is something that we find difficult.
+
+1739
+02:43:22,400 --> 02:43:25,800
+And I'm again and again asking and I
+don't know why are you guys afraid of me?
+
+1740
+02:43:25,800 --> 02:43:27,720
+Like still,
+are you afraid of me? Don't you don't me.
+
+1741
+02:43:27,720 --> 02:43:30,000
+Like, it's been six,
+seven months that we spend together
+
+1742
+02:43:32,560 --> 02:43:39,000
+like, so you guys can always ask me
+questions, right?
+
+1743
+02:43:39,000 --> 02:43:40,960
+You can ask me to repeat again.
+
+1744
+02:43:40,960 --> 02:43:46,400
+I'll always do that for you guys.
+
+1745
+02:43:46,400 --> 02:43:51,760
+Any questions, any topics,
+
+1746
+02:43:53,040 --> 02:43:54,880
+any topic do you want me to repeat
+
+1747
+02:43:54,880 --> 02:44:00,920
+from today?
+
+1748
+02:44:00,920 --> 02:44:04,320
+Yes. Mohammed, Our last answer that
+
+1749
+02:44:06,880 --> 02:44:07,680
+yes, asked him.
+
+1750
+02:44:07,680 --> 02:44:09,760
+I'll tell you that life is not worth it.
+
+1751
+02:44:10,040 --> 02:44:10,760
+Okay?
+
+1752
+02:44:11,280 --> 02:44:15,400
+Just just leave that for now.
+
+1753
+02:44:15,400 --> 02:44:23,720
+So. Okay.
+
+1754
+02:44:23,720 --> 02:44:25,240
+So I think that
+
+1755
+02:44:26,760 --> 02:44:30,040
+now it's time for my assumption
+that I would think is understood.
+
+1756
+02:44:30,160 --> 02:44:30,960
+Okay.
+
+1757
+02:44:31,320 --> 02:44:34,360
+So I'm not to people in this group.
+
+1758
+02:44:34,840 --> 02:44:35,280
+Okay, guys.
+
+1759
+02:44:35,280 --> 02:44:38,680
+So regarding Dockers, I'm going to repeat
+once again real quick that what
+
+1760
+02:44:38,880 --> 02:44:42,960
+what are the things that you should be
+comfortable with of our Dockers container
+
+1761
+02:44:42,960 --> 02:44:45,960
+what our Docker images, what are,
+what adoption
+
+1762
+02:44:45,960 --> 02:44:48,120
+images, how to
+
+1763
+02:44:49,400 --> 02:44:52,560
+you how to set up a container
+using Docker image.
+
+1764
+02:44:52,560 --> 02:44:54,120
+So you know what is a of container.
+
+1765
+02:44:54,120 --> 02:44:59,960
+It's an isolated motion in your machine
+just like a virtual machine just lighter
+
+1766
+02:44:59,960 --> 02:45:03,600
+in with it helps you run your application
+
+1767
+02:45:03,600 --> 02:45:07,560
+independent of all other system.
+
+1768
+02:45:07,560 --> 02:45:10,560
+And when you talk about Docker
+image, Docker image
+
+1769
+02:45:10,560 --> 02:45:13,400
+is like a configuration file
+
+1770
+02:45:14,640 --> 02:45:15,840
+that is there.
+
+1771
+02:45:15,840 --> 02:45:20,040
+And then we want to build
+or create some specific container.
+
+1772
+02:45:20,040 --> 02:45:22,320
+We can use
+that particular configuration file
+
+1773
+02:45:22,320 --> 02:45:26,920
+so that it automatically builds up
+that particular container.
+
+1774
+02:45:26,920 --> 02:45:29,400
+So instead of that
+we can create a container
+
+1775
+02:45:29,400 --> 02:45:33,360
+and install dependencies
+and utilities on it.
+
+1776
+02:45:33,360 --> 02:45:39,240
+Mainly we can use some certain Docker
+image file to create a container for us.
+
+1777
+02:45:39,560 --> 02:45:42,840
+So that's the concept regarding Docker
+container and Docker image.
+
+1778
+02:45:43,560 --> 02:45:47,960
+Now the next thing that was discussed
+was regarding
+
+1779
+02:45:48,680 --> 02:45:54,480
+how to connect your Selenium script with
+
+1780
+02:45:56,880 --> 02:45:57,800
+instance of
+
+1781
+02:45:57,800 --> 02:46:00,880
+Chrome
+or Firefox running inside a container.
+
+1782
+02:46:01,560 --> 02:46:05,280
+So in order to create a container,
+first of all, you need an image.
+
+1783
+02:46:05,520 --> 02:46:07,480
+So right now in this example,
+
+1784
+02:46:07,480 --> 02:46:11,440
+we need an image
+which is running a chrome instance, right?
+
+1785
+02:46:11,440 --> 02:46:17,480
+So we search for that particular image
+and downloaded it in our computer.
+
+1786
+02:46:18,240 --> 02:46:24,880
+The next thing we did is we initiated
+we ran that particular.
+
+1787
+02:46:24,880 --> 02:46:29,440
+So at that point we had a container.
+
+1788
+02:46:29,440 --> 02:46:32,160
+Well, let me quickly do this.
+
+1789
+02:46:32,480 --> 02:46:38,280
+So we had a container which had form
+and the driver running and we got it.
+
+1790
+02:46:38,280 --> 02:46:41,440
+Byron Next command driver pull, selenium
+
+1791
+02:46:41,440 --> 02:46:43,920
+slash standalone chrome.
+
+1792
+02:46:44,880 --> 02:46:45,200
+Okay.
+
+1793
+02:46:45,200 --> 02:46:48,040
+After that
+we wrote a script in our intelligence
+
+1794
+02:46:48,320 --> 02:46:51,320
+and, we
+in which we sent the remote red driver
+
+1795
+02:46:52,200 --> 02:46:55,920
+and we said that
+hey we do not want to use the web driver
+
+1796
+02:46:55,920 --> 02:46:57,960
+and located in our system
+
+1797
+02:46:58,200 --> 02:47:02,040
+regarding want to use the one
+that is located inside the container.
+
+1798
+02:47:02,040 --> 02:47:05,960
+And we gave it the address
+of that particular container.
+
+1799
+02:47:06,240 --> 02:47:09,600
+So the address of that particular
+container was localhost.
+
+1800
+02:47:09,920 --> 02:47:13,360
+And along with that,
+the food number was mentioned
+
+1801
+02:47:13,360 --> 02:47:16,400
+on which our container
+was actually running.
+
+1802
+02:47:17,920 --> 02:47:21,680
+So this
+script connected with the container
+
+1803
+02:47:21,680 --> 02:47:25,600
+that was running and starting
+started to execute our goods over here
+
+1804
+02:47:25,600 --> 02:47:29,840
+and returned the results to us,
+which were visible to us on the console.
+
+1805
+02:47:30,320 --> 02:47:32,480
+So this is what we have covered today.
+
+1806
+02:47:32,480 --> 02:47:38,000
+Apart from that, I told you about Selenium
+grade that in grade B have Selenium
+
+1807
+02:47:38,000 --> 02:47:42,560
+hub and, Selenium node, just like this one
+there is that. Yes.
+
+1808
+02:47:42,600 --> 02:47:44,680
+And you can run
+
+1809
+02:47:44,680 --> 02:47:48,480
+multiple nodes having different browsers.
+
+1810
+02:47:48,480 --> 02:47:52,480
+You'll connect your script with the hub
+and run your ports in parallel.
+
+1811
+02:47:52,600 --> 02:47:55,920
+We are not going to be actually doing this
+because this is
+
+1812
+02:47:56,680 --> 02:47:58,200
+still something complicated.
+
+1813
+02:47:58,200 --> 02:48:03,920
+But what you can do is I shared with you
+one link to website if you want to.
+
+1814
+02:48:03,920 --> 02:48:06,880
+If anyone wants to try it out,
+you can on your own.
+
+1815
+02:48:07,200 --> 02:48:09,960
+But I will not be going to that right now.
+
+1816
+02:48:10,440 --> 02:48:13,760
+And apart from that, I think
+
+1817
+02:48:16,120 --> 02:48:18,120
+yeah nothing else.
+
+1818
+02:48:18,120 --> 02:48:20,200
+One one more thing
+that I'd like to mention.
+
+1819
+02:48:21,880 --> 02:48:25,640
+Let me have a look.
+
+1820
+02:48:25,640 --> 02:48:28,960
+In fact, no, I think that is going to be,
+again, something interesting.
+
+1821
+02:48:28,960 --> 02:48:30,600
+I'll let me see the answer.
+
+1822
+02:48:30,600 --> 02:48:32,880
+So when you run the code
+and it goes through the grid,
+
+1823
+02:48:32,880 --> 02:48:36,040
+the automation is running
+as if it is a headless driver
+
+1824
+02:48:36,040 --> 02:48:38,640
+because you do not see
+the automation on real time.
+
+1825
+02:48:39,560 --> 02:48:41,840
+Yes. As you do not see the browsers.
+
+1826
+02:48:41,840 --> 02:48:44,040
+So it's actually a headless browser.
+
+1827
+02:48:44,040 --> 02:48:47,040
+It's not going to actually
+launch something out there.
+
+1828
+02:48:47,760 --> 02:48:50,880
+The everything that is going to be
+is inside
+
+1829
+02:48:52,600 --> 02:48:53,680
+the container.
+
+1830
+02:48:53,680 --> 02:48:56,960
+So if you guys have done
+
+1831
+02:48:57,120 --> 02:49:01,120
+and if if you will be getting selenium
+examples
+
+1832
+02:49:02,160 --> 02:49:04,920
+on the I believe
+
+1833
+02:49:05,080 --> 02:49:06,600
+in assessment.
+
+1834
+02:49:07,200 --> 02:49:09,920
+So there you'll see that it's
+
+1835
+02:49:09,920 --> 02:49:12,320
+it does not launch any browser
+when you run it.
+
+1836
+02:49:12,320 --> 02:49:15,880
+So basically I believe they are using
+headless browsers in Docker containers.
+
+1837
+02:49:16,600 --> 02:49:21,440
+So again you will you guys be using Docker
+a lot on your work.
+
+1838
+02:49:21,440 --> 02:49:25,400
+This is no well you'll be asked
+a lot about Dockers in interview.
+
+1839
+02:49:25,680 --> 02:49:30,480
+No. Will you be asked that
+Do you know Dockers in an interview. Yes.
+
+1840
+02:49:30,680 --> 02:49:32,480
+How do you want to reply to that.
+
+1841
+02:49:32,480 --> 02:49:34,440
+Do you know. Have you worded Dockers
+
+1842
+02:49:35,520 --> 02:49:37,680
+if this is something
+
+1843
+02:49:37,680 --> 02:49:40,400
+that someone asked you in an interview,
+how are you going
+
+1844
+02:49:40,400 --> 02:49:44,600
+to reply to that?
+
+1845
+02:49:44,600 --> 02:49:54,360
+Okay, you guys can answer like,
+
+1846
+02:49:54,440 --> 02:49:58,120
+No, I haven't,
+I haven't worked extensively on Docker,
+
+1847
+02:49:58,120 --> 02:50:00,520
+but yeah there was one project in which
+
+1848
+02:50:01,240 --> 02:50:03,720
+I just got familiar to it,
+
+1849
+02:50:03,720 --> 02:50:06,200
+so I know I understand that
+
+1850
+02:50:06,200 --> 02:50:10,360
+how Docker works, how it works.
+
+1851
+02:50:10,840 --> 02:50:13,760
+Okay, let me, let me rephrase. Okay.
+
+1852
+02:50:14,080 --> 02:50:17,040
+Understand this
+whenever it's very important.
+
+1853
+02:50:17,400 --> 02:50:18,000
+Okay.
+
+1854
+02:50:18,000 --> 02:50:23,040
+Whenever an interviewer ask
+you some questions regarding off topic,
+
+1855
+02:50:23,040 --> 02:50:25,440
+which you are not very knowledgeable
+about,
+
+1856
+02:50:26,520 --> 02:50:29,440
+your answer, your exact precise answer
+
+1857
+02:50:29,440 --> 02:50:32,680
+at that moment is going to define
+whether likes you
+
+1858
+02:50:33,840 --> 02:50:43,040
+or he dislikes you.
+
+1859
+02:50:43,040 --> 02:50:47,080
+Okay, So you always need to make sure
+
+1860
+02:50:47,520 --> 02:50:50,640
+you are defining your answer in a very
+
+1861
+02:50:52,200 --> 02:50:53,520
+intelligent way.
+
+1862
+02:50:53,520 --> 02:50:54,960
+So if I were you
+
+1863
+02:50:56,160 --> 02:50:57,880
+okay, want you guys to ask
+
+1864
+02:50:57,880 --> 02:51:03,120
+me this question?
+
+1865
+02:51:03,120 --> 02:51:05,720
+Okay. Now I'm the student
+and you guys are interviewing me.
+
+1866
+02:51:05,720 --> 02:51:11,160
+So ask me this question.
+
+1867
+02:51:11,160 --> 02:51:15,520
+Don't change the question.
+
+1868
+02:51:15,520 --> 02:51:15,760
+Okay?
+
+1869
+02:51:15,760 --> 02:51:20,120
+So I'll say I have not worked
+extensively on Dockers,
+
+1870
+02:51:20,440 --> 02:51:22,680
+but I have just the basics.
+
+1871
+02:51:23,280 --> 02:51:24,960
+I Know how to install it.
+
+1872
+02:51:24,960 --> 02:51:26,960
+I know how to configure it.
+
+1873
+02:51:26,960 --> 02:51:30,240
+In my in my one of the projects
+with one of my colleagues,
+
+1874
+02:51:30,240 --> 02:51:31,640
+he was actually working on that.
+
+1875
+02:51:31,640 --> 02:51:34,520
+So I got I got a chance to work with him.
+
+1876
+02:51:34,800 --> 02:51:37,000
+And in there what we actually did, we
+
+1877
+02:51:38,240 --> 02:51:41,400
+set up a standalone Firefox instance
+
+1878
+02:51:41,400 --> 02:51:44,600
+in one of the Docker containers
+and how we did that.
+
+1879
+02:51:44,600 --> 02:51:49,640
+We for that we downloaded this image
+from the GitHub repo
+
+1880
+02:51:49,800 --> 02:51:54,680
+and we set up another container
+after that we use the remote that driver
+
+1881
+02:51:55,080 --> 02:51:57,920
+to link our script with that
+
+1882
+02:51:57,920 --> 02:52:01,320
+particular Docker container
+and run a few test cases over there.
+
+1883
+02:52:01,320 --> 02:52:04,120
+So this is the basic introduction
+that I have for Docker.
+
+1884
+02:52:04,120 --> 02:52:06,200
+I have not worked very extensively on it.
+
+1885
+02:52:06,560 --> 02:52:07,480
+So what do you think?
+
+1886
+02:52:07,480 --> 02:52:12,960
+Is my answer good enough?
+
+1887
+02:52:12,960 --> 02:52:15,960
+So now you see, I told him
+
+1888
+02:52:16,520 --> 02:52:19,560
+that I do not know Docker.
+
+1889
+02:52:19,880 --> 02:52:24,320
+I can read my message,
+but along with conveying that message,
+
+1890
+02:52:24,720 --> 02:52:29,920
+I told him that I have the potential
+to actually learn
+
+1891
+02:52:30,520 --> 02:52:34,120
+and I have the potential to actually,
+you know, if he gives me
+
+1892
+02:52:34,120 --> 02:52:37,560
+the task of a docker
+is something that I need to work on.
+
+1893
+02:52:37,560 --> 02:52:39,960
+I have that potential
+that I can work on this.
+
+1894
+02:52:39,960 --> 02:52:42,640
+So this is what you need to do
+whenever you
+
+1895
+02:52:43,200 --> 02:52:45,920
+encounter something,
+something that you do not
+
+1896
+02:52:46,440 --> 02:52:50,760
+extensively know off, just show
+whatever you just show him.
+
+1897
+02:52:50,760 --> 02:52:51,960
+Just be honest about it.
+
+1898
+02:52:51,960 --> 02:52:55,840
+That okay, I have not worked extensively,
+but you know, make a story around it and
+
+1899
+02:52:56,880 --> 02:52:58,400
+deliver your answer
+
+1900
+02:52:58,400 --> 02:53:01,920
+in such a manner.
+
+1901
+02:53:01,920 --> 02:53:04,480
+So whatever I
+
+1902
+02:53:04,480 --> 02:53:06,400
+give an answer, have I showed you
+
+1903
+02:53:06,400 --> 02:53:13,720
+how to do it?
+
+1904
+02:53:13,720 --> 02:53:14,440
+Okay, great.
+
+1905
+02:53:14,440 --> 02:53:14,840
+Thank you.
+
+1906
+02:53:14,840 --> 02:53:18,480
+So I believe that I showed you
+how to do it.
+
+1907
+02:53:18,480 --> 02:53:21,400
+I showed you how to answer the question.
+Do you know Dockers?
+
+1908
+02:53:21,400 --> 02:53:24,560
+I believe that if someone asks you,
+you'll be able to answer it.
+
+1909
+02:53:24,840 --> 02:53:26,880
+Write that down on a piece of paper.
+
+1910
+02:53:27,080 --> 02:53:30,400
+You know, just
+I believe I said just did that.
+
+1911
+02:53:31,640 --> 02:53:32,200
+And you.
+
+1912
+02:53:32,200 --> 02:53:34,200
+But right now learning it by heart.
+
+1913
+02:53:34,200 --> 02:53:37,920
+So just, just make sure
+that you are able to answer it
+
+1914
+02:53:38,520 --> 02:53:43,280
+and that's it.
+
+1915
+02:53:43,280 --> 02:53:45,960
+Okay, guys, that will be it for today.
+
+1916
+02:53:45,960 --> 02:53:48,160
+And I'm late.
+
+1917
+02:53:48,200 --> 02:53:50,160
+I believe that
+
+1918
+02:53:50,480 --> 02:53:52,400
+tomorrow we're are going to have a class.
+
+1919
+02:53:52,400 --> 02:53:54,920
+I'll let you know
+if No, then I'll let you know.
+
+1920
+02:53:54,920 --> 02:53:57,000
+To most probably,
+
+1921
+02:53:57,960 --> 02:53:59,640
+we will not be having a class.
+
+1922
+02:53:59,640 --> 02:54:00,640
+Okay.
+
+1923
+02:54:00,640 --> 02:54:05,040
+So but if you have, I'll let you know.
+
+1924
+02:54:05,040 --> 02:54:07,760
+Well, I sure I can do that for you.
+
+1925
+02:54:07,760 --> 02:54:11,560
+But unfortunately,
+the problem is that your
+
+1926
+02:54:11,560 --> 02:54:15,360
+you are a female
+and my wife is not going to match.
+
+1927
+02:54:15,360 --> 02:54:17,040
+By the way,
+let me tell you something funny.
+
+1928
+02:54:17,040 --> 02:54:19,280
+There was one person, he was an Indian.
+
+1929
+02:54:19,320 --> 02:54:21,600
+He was giving some remote interview.
+
+1930
+02:54:21,600 --> 02:54:24,000
+And trust me, what he was doing.
+
+1931
+02:54:24,000 --> 02:54:29,160
+He had his headphones on
+and the mic was also there. So.

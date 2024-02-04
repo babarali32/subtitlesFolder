@@ -1,0 +1,10122 @@
+﻿1
+00:01:40,920 --> 00:01:43,680
+Hey, guys, Can everyone see me?
+
+2
+00:01:43,960 --> 00:01:45,120
+Can everyone hear me?
+
+3
+00:01:45,120 --> 00:01:46,160
+Okay.
+
+4
+00:01:49,360 --> 00:01:49,600
+Okay,
+
+5
+00:01:49,600 --> 00:01:57,720
+good.
+
+6
+00:01:59,000 --> 00:02:01,320
+All right, guys, let's get started.
+
+7
+00:02:01,440 --> 00:02:04,200
+I hope everyone is doing great
+
+8
+00:02:04,440 --> 00:02:07,240
+and everyone can see me
+and everyone can hear me fine.
+
+9
+00:02:08,320 --> 00:02:09,040
+All right.
+
+10
+00:02:10,240 --> 00:02:11,880
+Let's see.
+
+11
+00:02:11,880 --> 00:02:15,280
+We have a good amount of people.
+
+12
+00:02:15,280 --> 00:02:18,240
+So how is everybody doing, guys,
+What's going on?
+
+13
+00:02:18,840 --> 00:02:19,680
+I hope
+
+14
+00:02:20,640 --> 00:02:22,520
+everyone was having fun with the
+
+15
+00:02:22,520 --> 00:02:25,320
+with the homework.
+
+16
+00:02:25,960 --> 00:02:28,080
+I'm good. Thank you.
+
+17
+00:02:28,080 --> 00:02:28,680
+Tired.
+
+18
+00:02:28,680 --> 00:02:29,560
+Okay.
+
+19
+00:02:32,520 --> 00:02:33,000
+We're.
+
+20
+00:02:33,000 --> 00:02:35,080
+We're halfway done. Right, guys?
+
+21
+00:02:35,080 --> 00:02:38,560
+So when do you guys start?
+
+22
+00:02:38,680 --> 00:02:44,360
+You know, starting June.
+
+23
+00:02:44,360 --> 00:02:45,400
+July. Okay.
+
+24
+00:02:45,400 --> 00:02:48,400
+Yeah, Almost halfway, right?
+
+25
+00:02:48,680 --> 00:02:49,600
+Almost halfway.
+
+26
+00:02:49,600 --> 00:02:50,440
+Done.
+
+27
+00:02:50,760 --> 00:02:52,880
+There's three more months left, so
+
+28
+00:02:54,520 --> 00:02:55,760
+let's push it.
+
+29
+00:02:55,760 --> 00:02:57,240
+Guys.
+
+30
+00:02:58,200 --> 00:02:59,240
+Don't get tired.
+
+31
+00:02:59,240 --> 00:03:02,280
+I know a lot of people will get
+a little bit
+
+32
+00:03:02,320 --> 00:03:03,960
+overwhelmed
+
+33
+00:03:05,440 --> 00:03:06,560
+towards the end,
+
+34
+00:03:06,560 --> 00:03:10,920
+but don't give up, guys, because that's
+going to be a lot of information. So
+
+35
+00:03:12,920 --> 00:03:14,920
+no social life with syntax?
+
+36
+00:03:14,920 --> 00:03:17,360
+Well, yeah, I'm in six months, guys.
+
+37
+00:03:17,360 --> 00:03:19,360
+Okay, so only six month of commitment.
+
+38
+00:03:19,360 --> 00:03:25,240
+And after that you find a job and then
+your social life will get back to you.
+
+39
+00:03:25,440 --> 00:03:30,400
+Okay, So just keep trying.
+
+40
+00:03:30,720 --> 00:03:31,760
+Let's not give up.
+
+41
+00:03:31,760 --> 00:03:45,840
+Okay, guys, we're almost there.
+
+42
+00:03:45,840 --> 00:03:48,320
+And the window windows.
+
+43
+00:03:48,320 --> 00:03:58,200
+Okay.
+
+44
+00:03:58,200 --> 00:04:00,280
+Only with Firefox works.
+
+45
+00:04:00,640 --> 00:04:02,040
+I think you're talking Andre.
+
+46
+00:04:02,040 --> 00:04:04,280
+You're talking about the last tab, right?
+
+47
+00:04:04,280 --> 00:04:08,400
+When you open the last tab,
+is it where the issue is?
+
+48
+00:04:09,040 --> 00:04:10,160
+Okay. Yeah.
+
+49
+00:04:10,160 --> 00:04:12,240
+So if you open the last tab, it's.
+
+50
+00:04:12,240 --> 00:04:13,560
+It's how it is configured.
+
+51
+00:04:13,560 --> 00:04:16,920
+So I want to I wanted to to see
+
+52
+00:04:17,320 --> 00:04:20,880
+if you can handle this kind of
+
+53
+00:04:20,880 --> 00:04:22,040
+issues.
+
+54
+00:04:22,040 --> 00:04:25,640
+So that's why I gave it to you
+that, that homework.
+
+55
+00:04:25,640 --> 00:04:27,800
+So let's go ahead here.
+
+56
+00:04:27,800 --> 00:04:32,040
+If you if you open up this
+there is an h html in here
+
+57
+00:04:32,040 --> 00:04:36,880
+but it's a bit different
+than than the other windows.
+
+58
+00:04:37,240 --> 00:04:40,200
+But if you open up this window,
+you can see there's an actual
+
+59
+00:04:41,600 --> 00:04:43,800
+what's
+called there's an actual view around here.
+
+60
+00:04:44,280 --> 00:04:44,560
+Okay.
+
+61
+00:04:44,560 --> 00:04:46,800
+So if you see in here, there's
+no you around.
+
+62
+00:04:47,160 --> 00:04:49,720
+So it's just an h HTML document in here
+
+63
+00:04:55,280 --> 00:04:56,040
+over the homework.
+
+64
+00:04:56,040 --> 00:04:59,640
+I think you guys are going
+to be going over over that tomorrow.
+
+65
+00:05:00,240 --> 00:05:02,600
+If I'm not mistaken.
+
+66
+00:05:05,400 --> 00:05:05,680
+Okay.
+
+67
+00:05:05,680 --> 00:05:08,360
+So this the this one,
+
+68
+00:05:09,920 --> 00:05:11,880
+this works in Firefox.
+
+69
+00:05:11,880 --> 00:05:16,440
+I'm not sure why,
+but I'm assuming this is how the
+
+70
+00:05:17,040 --> 00:05:20,160
+how the tab is configured itself.
+
+71
+00:05:20,160 --> 00:05:21,360
+But developers.
+
+72
+00:05:21,360 --> 00:05:24,200
+Okay. And also,
+
+73
+00:05:24,200 --> 00:05:26,960
+whenever you're dealing with with Windows,
+
+74
+00:05:27,360 --> 00:05:31,360
+you won't be handling this kind of windows
+unless you're opening a document.
+
+75
+00:05:31,360 --> 00:05:32,120
+Okay.
+
+76
+00:05:33,560 --> 00:05:35,960
+And if you open a document, a new tab
+
+77
+00:05:36,280 --> 00:05:46,480
+during the automation,
+you should be doing that manually.
+
+78
+00:05:46,480 --> 00:05:49,200
+Describe the difference.
+So you could take a look at the
+
+79
+00:05:50,520 --> 00:05:52,720
+what's
+called we could take a look at the URL.
+
+80
+00:05:52,720 --> 00:05:56,600
+So there is an actual euro here
+which navigates to this page.
+
+81
+00:05:56,600 --> 00:05:57,280
+Okay.
+
+82
+00:05:57,280 --> 00:06:00,880
+But here it's it's nothing in here.
+
+83
+00:06:00,880 --> 00:06:01,720
+Okay,
+
+84
+00:06:05,520 --> 00:06:08,040
+So it's there's nothing in here.
+
+85
+00:06:08,040 --> 00:06:10,720
+So that means
+this is not a link or anything.
+
+86
+00:06:10,760 --> 00:06:11,560
+Okay.
+
+87
+00:06:11,720 --> 00:06:13,800
+So it doesn't
+
+88
+00:06:14,680 --> 00:06:17,880
+you don't I don't think you even need
+an Internet to open this.
+
+89
+00:06:18,120 --> 00:06:20,680
+Okay, So this is how it is.
+
+90
+00:06:20,680 --> 00:06:23,160
+So this is just an H HTML file.
+
+91
+00:06:23,160 --> 00:06:27,200
+This is this is an email file as well,
+but it's connected to a link.
+
+92
+00:06:27,400 --> 00:06:56,120
+Okay.
+
+93
+00:06:56,120 --> 00:06:57,800
+Any suggestion to your question?
+
+94
+00:06:57,800 --> 00:06:58,680
+Oh, let me see.
+
+95
+00:06:58,680 --> 00:07:01,920
+Where is your question? File
+
+96
+00:07:12,480 --> 00:07:14,280
+the main page title.
+
+97
+00:07:14,280 --> 00:07:14,640
+Okay.
+
+98
+00:07:14,640 --> 00:07:17,280
+Is there anyone else having issues
+with title sites?
+
+99
+00:07:19,120 --> 00:07:20,400
+I mean, not
+
+100
+00:07:20,400 --> 00:07:32,040
+including the last tab guys.
+
+101
+00:07:32,040 --> 00:07:36,480
+Okay, so there are people who completed
+the homework, not including the last tab.
+
+102
+00:07:36,480 --> 00:07:36,720
+Guys.
+
+103
+00:07:36,720 --> 00:07:42,560
+You should be able to get the text
+and the title.
+
+104
+00:07:42,560 --> 00:07:45,000
+Okay. So please take a look at this.
+
+105
+00:07:45,480 --> 00:07:48,840
+I think people share the homeworks
+and the syntax.
+
+106
+00:07:48,840 --> 00:07:49,920
+Students okay,
+
+107
+00:07:51,680 --> 00:07:54,440
+So please take a look
+at that and communicate with each other.
+
+108
+00:07:54,440 --> 00:07:55,480
+Okay, guys.
+
+109
+00:07:55,480 --> 00:07:59,360
+But as I said, guys, the last the last one
+
+110
+00:07:59,760 --> 00:08:03,120
+here, the last tab.
+
+111
+00:08:03,120 --> 00:08:06,040
+If this is not working in Chrome,
+you don't have to worry about it.
+
+112
+00:08:06,040 --> 00:08:06,720
+Okay?
+
+113
+00:08:08,080 --> 00:08:09,840
+I knew it's not going to be working
+
+114
+00:08:09,840 --> 00:08:24,280
+anyways.
+
+115
+00:08:24,280 --> 00:08:34,320
+Any other questions, guys?
+
+116
+00:08:34,320 --> 00:08:38,040
+Okay, so seems like no other questions.
+
+117
+00:08:39,160 --> 00:08:41,400
+So let's do a quick recap, guys.
+
+118
+00:08:41,400 --> 00:08:45,840
+What we've done so far yesterday.
+
+119
+00:08:45,840 --> 00:09:01,400
+What did we cover yesterday, guys,
+we know handles, right?
+
+120
+00:09:01,400 --> 00:09:06,760
+So what we did is we will learn
+how to manipulate the windows, right?
+
+121
+00:09:06,760 --> 00:09:10,480
+Switch to them
+and then perform some actions.
+
+122
+00:09:10,480 --> 00:09:13,600
+Right. So
+
+123
+00:09:13,640 --> 00:09:16,200
+so we use
+we said we use two different methods,
+
+124
+00:09:16,680 --> 00:09:19,800
+which is we get window
+handle and get window handles.
+
+125
+00:09:19,800 --> 00:09:20,480
+Right.
+
+126
+00:09:20,520 --> 00:09:23,520
+So before we dive in there,
+what is the window handle
+
+127
+00:09:23,520 --> 00:09:34,600
+itself, guys?
+
+128
+00:09:34,600 --> 00:09:35,760
+It's a unique idea.
+
+129
+00:09:35,760 --> 00:09:38,040
+Okay, For what?
+
+130
+00:09:38,880 --> 00:09:41,560
+Unique idea for what guys?
+
+131
+00:09:41,800 --> 00:09:42,600
+Unique idea.
+
+132
+00:09:42,600 --> 00:09:45,320
+Which holds the address of the tab. Right.
+
+133
+00:09:45,800 --> 00:09:48,600
+So how many how many characters
+
+134
+00:09:48,600 --> 00:09:52,400
+are in there?
+
+135
+00:09:52,400 --> 00:09:55,720
+It's approximately 40. Right? Almost 40.
+
+136
+00:09:56,040 --> 00:09:57,240
+Like alphanumeric
+
+137
+00:09:58,640 --> 00:09:59,800
+character idea.
+
+138
+00:09:59,800 --> 00:10:00,120
+Right.
+
+139
+00:10:00,120 --> 00:10:04,680
+Okay, good.
+
+140
+00:10:04,680 --> 00:10:08,720
+So where do we store the
+
+141
+00:10:08,720 --> 00:10:12,040
+if I get if I get all the window
+handles, guys,
+
+142
+00:10:12,120 --> 00:10:14,280
+where do we store
+
+143
+00:10:17,280 --> 00:10:18,120
+in a set?
+
+144
+00:10:18,120 --> 00:10:18,880
+Right.
+
+145
+00:10:18,880 --> 00:10:21,000
+So what do we know about sets, guys?
+
+146
+00:10:22,520 --> 00:10:26,040
+Why do we stored in this set?
+
+147
+00:10:26,040 --> 00:10:29,280
+Because you want to keep unique,
+
+148
+00:10:30,640 --> 00:10:34,320
+unique elements
+only inside that container, right?
+
+149
+00:10:34,320 --> 00:10:36,520
+There is no duplicates in there.
+
+150
+00:10:36,520 --> 00:10:39,040
+But there is one more thing in set, guys.
+
+151
+00:10:40,920 --> 00:10:44,200
+So what's the order in the hash set?
+
+152
+00:10:44,200 --> 00:10:51,360
+You guys, It's random, right?
+
+153
+00:10:51,640 --> 00:10:57,120
+But yesterday when we when we were trying
+to do four different, when we were trying
+
+154
+00:10:57,120 --> 00:11:00,240
+to manipulate for different windows,
+how do we know
+
+155
+00:11:00,240 --> 00:11:02,600
+which one is what
+
+156
+00:11:04,080 --> 00:11:06,400
+if it's jumping on on the random
+
+157
+00:11:07,680 --> 00:11:09,960
+order? How do we know that
+
+158
+00:11:11,840 --> 00:11:13,640
+by the handle name.
+
+159
+00:11:13,640 --> 00:11:14,840
+Okay,
+
+160
+00:11:17,160 --> 00:11:17,520
+okay.
+
+161
+00:11:17,520 --> 00:11:19,920
+We use iterator. Okay.
+
+162
+00:11:19,920 --> 00:11:24,920
+But what if it doesn't
+get stored in in insertion order?
+
+163
+00:11:24,920 --> 00:11:32,160
+Guys, how come that it's.
+
+164
+00:11:32,160 --> 00:11:35,560
+It's going from the first
+to the second from the second and third,
+
+165
+00:11:35,880 --> 00:11:44,760
+and then from the third to the fourth?
+
+166
+00:11:44,760 --> 00:11:56,120
+Any guesses on that?
+
+167
+00:11:56,120 --> 00:11:58,440
+Because of alphanumeric IDs? Not really.
+
+168
+00:11:58,920 --> 00:12:01,160
+What do we have inside the set interface?
+
+169
+00:12:01,160 --> 00:12:03,640
+Guys?
+
+170
+00:12:03,640 --> 00:12:05,800
+What is
+
+171
+00:12:06,280 --> 00:12:08,520
+what classes do we have under the set
+
+172
+00:12:08,840 --> 00:12:27,200
+interface?
+
+173
+00:12:27,200 --> 00:12:28,080
+Okay,
+
+174
+00:12:28,960 --> 00:12:32,880
+so hash set linked, hash
+set and a tree set.
+
+175
+00:12:32,880 --> 00:12:33,440
+Right.
+
+176
+00:12:33,440 --> 00:12:36,360
+Which one supports
+the insertion order guys
+
+177
+00:12:39,320 --> 00:12:40,560
+linked hash set.
+
+178
+00:12:40,560 --> 00:12:41,280
+Right.
+
+179
+00:12:41,280 --> 00:12:44,640
+So let's go ahead here.
+
+180
+00:12:44,840 --> 00:12:50,160
+So whenever you store all the window
+handles inside the set, guys,
+
+181
+00:12:50,280 --> 00:12:54,600
+it automatically converted to linked
+hash set.
+
+182
+00:12:55,560 --> 00:12:56,480
+Okay.
+
+183
+00:12:56,480 --> 00:12:59,040
+So just in case
+you get these kind of questions
+
+184
+00:13:00,080 --> 00:13:01,600
+in the interview.
+
+185
+00:13:01,600 --> 00:13:05,880
+So if you get this kind of question
+saying that, hey, it's a set,
+
+186
+00:13:05,880 --> 00:13:09,640
+it doesn't support any insertion order
+or it's random,
+
+187
+00:13:09,920 --> 00:13:14,120
+so you can just tell them, Hey, whenever
+I store all the window
+
+188
+00:13:14,120 --> 00:13:19,560
+handles inside the set, it automatically
+returns me a linked hash set.
+
+189
+00:13:19,840 --> 00:13:21,920
+Okay. By default. Exactly.
+
+190
+00:13:22,600 --> 00:13:24,600
+All right, cool.
+
+191
+00:13:24,600 --> 00:13:32,200
+What else did we cover, guys?
+
+192
+00:13:32,200 --> 00:13:34,160
+Synchronization. Right.
+
+193
+00:13:34,160 --> 00:13:37,920
+So what are we trying to
+synchronize in here?
+
+194
+00:13:37,920 --> 00:13:40,360
+Guys,
+when we run, when we execute our code,
+
+195
+00:13:41,520 --> 00:13:44,280
+when we execute our selenium code,
+when we're performing
+
+196
+00:13:44,280 --> 00:13:47,400
+something on the website,
+what are we trying to synchronize
+
+197
+00:13:52,280 --> 00:13:53,160
+the speed,
+
+198
+00:13:53,160 --> 00:13:54,960
+the speed of what
+
+199
+00:14:04,400 --> 00:14:05,040
+components?
+
+200
+00:14:05,040 --> 00:14:12,040
+What are those components,
+
+201
+00:14:12,040 --> 00:14:15,600
+what it would trying to level.
+
+202
+00:14:15,600 --> 00:14:15,960
+Okay.
+
+203
+00:14:15,960 --> 00:14:18,320
+Web page and what
+
+204
+00:14:24,320 --> 00:14:24,880
+exactly.
+
+205
+00:14:24,880 --> 00:14:30,240
+So the speed of our code
+and the page load right.
+
+206
+00:14:30,240 --> 00:14:36,200
+Because our our code doesn't wait
+for something to appear on the web page.
+
+207
+00:14:36,200 --> 00:14:36,800
+Right.
+
+208
+00:14:36,800 --> 00:14:39,600
+So when you start your execution,
+no matter
+
+209
+00:14:39,600 --> 00:14:42,840
+what's going to happen,
+it's going to run until the end.
+
+210
+00:14:42,840 --> 00:14:45,960
+Or if it fails, it's
+going to just terminate everything.
+
+211
+00:14:46,280 --> 00:14:50,320
+But it's not going to wait for your page
+load,
+
+212
+00:14:50,320 --> 00:14:54,200
+for your elements to load
+until you specify.
+
+213
+00:14:54,200 --> 00:14:58,400
+So, okay,
+so we are synchronizing the execution
+
+214
+00:14:58,400 --> 00:15:02,120
+of our script and the page load.
+
+215
+00:15:02,560 --> 00:15:02,960
+Okay.
+
+216
+00:15:04,000 --> 00:15:05,440
+And what kind of wait
+
+217
+00:15:05,440 --> 00:15:09,240
+did we go over last class
+
+218
+00:15:13,040 --> 00:15:13,960
+implicit way?
+
+219
+00:15:13,960 --> 00:15:16,080
+Right. Okay.
+So what do we know about implicit.
+
+220
+00:15:16,080 --> 00:15:27,840
+Wait, guys.
+
+221
+00:15:27,840 --> 00:15:28,400
+Okay,
+
+222
+00:15:29,560 --> 00:15:32,360
+It's usually set to 20 seconds, right?
+
+223
+00:15:32,360 --> 00:15:34,840
+It's a global wait, right?
+
+224
+00:15:34,880 --> 00:15:36,000
+What else
+
+225
+00:15:37,480 --> 00:15:39,200
+is the web driver to wait for?
+
+226
+00:15:39,200 --> 00:15:40,160
+Send amount of time.
+
+227
+00:15:40,160 --> 00:15:48,240
+Okay,
+So what is it going to look for, guys?
+
+228
+00:15:48,520 --> 00:15:50,600
+So you set your implicit wait, right?
+
+229
+00:15:50,760 --> 00:15:53,120
+How many times can we set it exactly?
+
+230
+00:15:53,120 --> 00:15:55,200
+It's only written once.
+
+231
+00:15:55,200 --> 00:15:56,000
+Right.
+
+232
+00:15:57,320 --> 00:15:59,320
+So what is he going to get?
+
+233
+00:15:59,720 --> 00:16:01,960
+What is it going to look for? Guys?
+
+234
+00:16:01,960 --> 00:16:04,560
+So we set an implicit rate
+
+235
+00:16:04,560 --> 00:16:07,640
+right?
+
+236
+00:16:07,640 --> 00:16:09,400
+This program runs faster.
+
+237
+00:16:09,400 --> 00:16:12,480
+Okay.
+
+238
+00:16:12,480 --> 00:16:14,560
+No, but what is he going to wait for?
+
+239
+00:16:14,560 --> 00:16:17,320
+For 20 seconds, guys?
+
+240
+00:16:17,320 --> 00:16:21,040
+So I said my implicit way for 20 seconds.
+
+241
+00:16:21,040 --> 00:16:23,160
+What is it for exactly?
+
+242
+00:16:23,160 --> 00:16:25,920
+It's for finding the elements, right?
+
+243
+00:16:25,920 --> 00:16:28,280
+The elements where we're looking for.
+
+244
+00:16:28,600 --> 00:16:29,400
+Exactly.
+
+245
+00:16:29,400 --> 00:16:32,600
+So whenever we set it for 20 seconds,
+
+246
+00:16:32,600 --> 00:16:35,280
+we try to find something, right?
+
+247
+00:16:35,720 --> 00:16:39,120
+It our implicit way comes there.
+
+248
+00:16:39,400 --> 00:16:39,840
+Okay?
+
+249
+00:16:39,840 --> 00:16:44,880
+So if it finds that element in 5 seconds,
+the rest of the time is getting ignored
+
+250
+00:16:44,880 --> 00:16:49,240
+and we're moving on to the next action
+or to the next line of the code.
+
+251
+00:16:49,840 --> 00:16:51,800
+Okay.
+
+252
+00:16:51,800 --> 00:16:53,920
+All right, good.
+
+253
+00:16:53,920 --> 00:16:58,720
+Any questions, guys?
+
+254
+00:16:58,720 --> 00:17:03,720
+Yep. If it didn't find that element in 20
+seconds, then we're getting exception.
+
+255
+00:17:03,720 --> 00:17:04,400
+Right?
+
+256
+00:17:04,440 --> 00:17:08,320
+So we're getting
+in no such element exception.
+
+257
+00:17:09,560 --> 00:17:10,920
+Okay, guys,
+
+258
+00:17:11,000 --> 00:17:30,640
+any questions?
+
+259
+00:17:30,640 --> 00:17:33,200
+All right,
+So today, what we're going to be doing,
+
+260
+00:17:33,200 --> 00:17:37,360
+we will be covering explicitly
+where we'll be covering Sloane weight
+
+261
+00:17:37,760 --> 00:17:42,560
+and we will be covering
+how to handle the web tables.
+
+262
+00:17:42,960 --> 00:17:45,800
+Okay. So
+
+263
+00:17:45,800 --> 00:17:49,360
+all right, So let's start
+with the implicit weight here.
+
+264
+00:17:50,080 --> 00:17:52,200
+Implicit weight, right.
+
+265
+00:17:52,200 --> 00:17:54,720
+And we set that it will be
+
+266
+00:17:56,760 --> 00:17:59,280
+applied for
+
+267
+00:17:59,440 --> 00:18:02,800
+finite element methods, right?
+
+268
+00:18:02,800 --> 00:18:04,440
+Because we're trying to find something.
+
+269
+00:18:04,440 --> 00:18:07,880
+It's it's going to be waiting
+for some elements to locate.
+
+270
+00:18:08,360 --> 00:18:11,320
+Right? Yep.
+
+271
+00:18:11,320 --> 00:18:12,320
+We just started now.
+
+272
+00:18:12,320 --> 00:18:17,640
+We're already in class eight,
+and I think we already we all only have
+
+273
+00:18:18,040 --> 00:18:21,040
+like I think 11 processes
+and in me mistake.
+
+274
+00:18:22,480 --> 00:18:25,320
+Okay so for more
+
+275
+00:18:27,320 --> 00:18:30,360
+with today's class. Okay
+
+276
+00:18:30,360 --> 00:18:33,000
+All right so explicit weight
+
+277
+00:18:35,680 --> 00:18:38,000
+or in other words, it's
+
+278
+00:18:38,000 --> 00:18:40,760
+called web driver weight.
+
+279
+00:18:41,280 --> 00:18:42,120
+Okay.
+
+280
+00:18:42,120 --> 00:18:44,400
+What do we know about explicit
+weight, guys?
+
+281
+00:18:44,400 --> 00:19:05,640
+Anyone did research on this?
+
+282
+00:19:05,640 --> 00:19:08,320
+It's smarter
+than its implicit weight. Okay.
+
+283
+00:19:09,360 --> 00:19:13,040
+In what way?
+
+284
+00:19:13,040 --> 00:19:15,840
+So it waits for a certain amount of time
+
+285
+00:19:16,680 --> 00:19:19,960
+and certain condition, Right.
+
+286
+00:19:20,160 --> 00:19:26,760
+So basically, for explicit weight,
+you explicitly set a weight that needs
+
+287
+00:19:26,760 --> 00:19:32,200
+to wait for a certain amount of time
+and a certain condition.
+
+288
+00:19:32,200 --> 00:19:32,960
+Okay.
+
+289
+00:19:33,840 --> 00:19:38,760
+And it can be applied
+only for a specified element.
+
+290
+00:19:38,760 --> 00:19:40,080
+Absolutely right.
+
+291
+00:19:40,080 --> 00:19:41,360
+That's very good.
+
+292
+00:19:41,360 --> 00:19:42,200
+Okay.
+
+293
+00:19:42,200 --> 00:19:45,960
+So let's put it in here.
+
+294
+00:19:45,960 --> 00:19:53,560
+Web driver weight
+is used to tell the web driver to wait
+
+295
+00:19:54,480 --> 00:19:56,600
+for a certain
+
+296
+00:19:58,360 --> 00:19:59,640
+condition.
+
+297
+00:19:59,640 --> 00:20:00,280
+Okay.
+
+298
+00:20:01,000 --> 00:20:02,200
+Before
+
+299
+00:20:05,240 --> 00:20:06,600
+throwing
+
+300
+00:20:08,560 --> 00:20:12,960
+a specified
+
+301
+00:20:15,960 --> 00:20:19,320
+conditions exception
+
+302
+00:20:19,440 --> 00:20:25,200
+for throwing an exception.
+
+303
+00:20:25,200 --> 00:20:28,840
+Exception for a specified condition.
+
+304
+00:20:30,400 --> 00:20:31,040
+Okay.
+
+305
+00:20:31,040 --> 00:20:33,720
+So we set that we are
+
+306
+00:20:35,520 --> 00:20:41,160
+explicitly right.
+
+307
+00:20:41,160 --> 00:20:42,560
+We're explicitly
+
+308
+00:20:42,560 --> 00:20:46,560
+said a wait for certain condition
+and for a certain amount of time.
+
+309
+00:20:46,920 --> 00:20:47,800
+Okay.
+
+310
+00:20:47,840 --> 00:20:50,640
+So explicit weight, guys.
+
+311
+00:20:50,640 --> 00:20:54,760
+It works with expected conditions, class.
+
+312
+00:20:55,800 --> 00:20:58,080
+And as we set and waits until
+
+313
+00:20:58,080 --> 00:21:03,000
+the sun conditions are met
+or the given time is achieved.
+
+314
+00:21:03,120 --> 00:21:03,720
+Okay.
+
+315
+00:21:03,720 --> 00:21:08,400
+So if the given time is achieved already
+and the expectations
+
+316
+00:21:08,400 --> 00:21:13,120
+or the conditions are not met,
+then you will be getting an exception.
+
+317
+00:21:13,360 --> 00:21:14,000
+Okay.
+
+318
+00:21:14,000 --> 00:21:18,240
+Most of the time you will be
+getting element, not visible exception.
+
+319
+00:21:18,640 --> 00:21:19,440
+Okay.
+
+320
+00:21:19,440 --> 00:21:22,280
+So explicit
+
+321
+00:21:23,480 --> 00:21:26,520
+weight works with
+
+322
+00:21:28,960 --> 00:21:31,640
+the conditions class.
+
+323
+00:21:32,040 --> 00:21:32,680
+Okay.
+
+324
+00:21:33,400 --> 00:21:38,400
+And waits
+
+325
+00:21:38,400 --> 00:21:40,920
+until certain
+
+326
+00:21:42,960 --> 00:21:45,920
+conditions are met
+
+327
+00:21:46,200 --> 00:21:51,320
+or the given time is achieved.
+
+328
+00:21:51,960 --> 00:21:53,520
+Okay.
+
+329
+00:21:53,520 --> 00:22:03,000
+So any questions in here, guys?
+
+330
+00:22:03,000 --> 00:22:06,240
+No questions.
+
+331
+00:22:06,240 --> 00:22:07,000
+All right.
+
+332
+00:22:07,320 --> 00:22:12,440
+So let me go ahead and create
+another package.
+
+333
+00:22:12,440 --> 00:22:13,440
+And here
+
+334
+00:22:22,720 --> 00:22:24,480
+and I will create a new
+
+335
+00:22:24,480 --> 00:22:40,840
+Java class.
+
+336
+00:22:40,840 --> 00:22:50,240
+So. Okay,
+
+337
+00:22:50,320 --> 00:22:53,520
+So let me see
+
+338
+00:22:55,080 --> 00:23:03,720
+this.
+
+339
+00:23:03,720 --> 00:23:04,120
+Okay.
+
+340
+00:23:04,680 --> 00:23:07,560
+So what we are going to be doing,
+we will be navigating here
+
+341
+00:23:07,680 --> 00:23:11,240
+and what we're going to do,
+we will click on the get new user.
+
+342
+00:23:11,240 --> 00:23:12,000
+Okay.
+
+343
+00:23:12,000 --> 00:23:15,600
+So when I click on this,
+you see it's loading
+
+344
+00:23:15,840 --> 00:23:18,640
+and there is someone popping up in here
+
+345
+00:23:18,640 --> 00:23:21,320
+with a first name and the last name.
+
+346
+00:23:21,720 --> 00:23:24,560
+Okay, So let me sent the
+
+347
+00:23:24,560 --> 00:23:28,560
+link to you.
+
+348
+00:23:28,560 --> 00:23:28,920
+Okay.
+
+349
+00:23:30,240 --> 00:23:33,120
+So what we're going to
+do, we're going to wait for those elements
+
+350
+00:23:33,280 --> 00:23:39,160
+in here and we're going to verify
+that those elements are present in here.
+
+351
+00:23:39,360 --> 00:23:40,040
+Okay.
+
+352
+00:23:40,040 --> 00:23:50,400
+Any questions, guys?
+
+353
+00:23:50,400 --> 00:23:57,840
+I'm assuming there's no questions,
+right, guys?
+
+354
+00:23:57,840 --> 00:23:59,040
+Okay, good.
+
+355
+00:23:59,120 --> 00:23:59,640
+All right.
+
+356
+00:23:59,640 --> 00:24:02,280
+So let's continue in here. Okay.
+
+357
+00:24:02,280 --> 00:24:05,240
+So let's go
+
+358
+00:24:05,240 --> 00:24:07,880
+have a
+
+359
+00:24:08,560 --> 00:24:15,720
+copy this here.
+
+360
+00:24:15,720 --> 00:24:18,040
+And let me actually update
+
+361
+00:24:19,080 --> 00:24:27,720
+the overall.
+
+362
+00:24:27,720 --> 00:24:28,880
+All right.
+
+363
+00:24:29,640 --> 00:24:30,960
+So we're navigating there.
+
+364
+00:24:30,960 --> 00:24:33,120
+So what is our next step, guys, in here?
+
+365
+00:24:33,360 --> 00:24:35,160
+What I need to do
+
+366
+00:24:46,920 --> 00:24:48,240
+explicitly right away
+
+367
+00:24:48,240 --> 00:24:51,360
+so we navigate it here, guys,
+
+368
+00:24:51,360 --> 00:24:58,680
+what do we need to do first?
+
+369
+00:24:58,680 --> 00:25:02,600
+We need to find the element, right,
+that we're going to need to click on
+
+370
+00:25:02,600 --> 00:25:04,120
+first, right?
+
+371
+00:25:04,120 --> 00:25:07,800
+So let's inspect this page
+
+372
+00:25:08,360 --> 00:25:10,440
+and click on this.
+
+373
+00:25:10,440 --> 00:25:11,000
+All right.
+
+374
+00:25:11,000 --> 00:25:14,280
+So there is an ID for this, right?
+
+375
+00:25:14,280 --> 00:25:18,360
+So let's use
+this ID, I'm going to copy this.
+
+376
+00:25:18,360 --> 00:25:22,960
+Go back and create a web element in here.
+
+377
+00:25:24,240 --> 00:25:27,720
+That user button
+
+378
+00:25:27,720 --> 00:25:30,000
+driver's find element
+
+379
+00:25:31,520 --> 00:25:32,520
+by ID.
+
+380
+00:25:33,960 --> 00:25:36,080
+Is this here
+
+381
+00:25:36,360 --> 00:25:36,720
+right.
+
+382
+00:25:36,720 --> 00:25:42,640
+And what we need to do,
+we need to simply click on this at that.
+
+383
+00:25:43,680 --> 00:25:47,080
+So now what I want to do,
+
+384
+00:25:47,880 --> 00:25:52,520
+I want to get this first name in here
+
+385
+00:25:53,040 --> 00:25:56,280
+and then print it out in my console.
+
+386
+00:25:56,280 --> 00:26:00,800
+Okay, So how do we want to do this?
+
+387
+00:26:00,800 --> 00:26:08,880
+We need to put the implicit word
+before performing the action.
+
+388
+00:26:08,880 --> 00:26:10,680
+Yes, it will work.
+
+389
+00:26:10,680 --> 00:26:15,640
+It's going to work the same because we're
+just trying to find this element in here.
+
+390
+00:26:16,040 --> 00:26:16,480
+Right.
+
+391
+00:26:16,480 --> 00:26:20,080
+But I'm going to explain the difference
+between implicit and explicit word
+
+392
+00:26:20,120 --> 00:26:21,760
+right after this.
+
+393
+00:26:21,760 --> 00:26:24,120
+What's called example. Okay.
+
+394
+00:26:24,120 --> 00:26:26,720
+So here we won't be using
+
+395
+00:26:27,160 --> 00:26:29,160
+we won't be using an implicit
+wait for now.
+
+396
+00:26:29,880 --> 00:26:33,960
+And then I'll go over the differences
+between implicit and explicit
+
+397
+00:26:34,240 --> 00:26:36,360
+and then it's going to be more
+clear for you.
+
+398
+00:26:36,800 --> 00:26:37,520
+Okay.
+
+399
+00:26:37,840 --> 00:26:38,360
+All right.
+
+400
+00:26:38,360 --> 00:26:42,840
+So I clicked on this
+get new user button in here.
+
+401
+00:26:42,840 --> 00:26:48,000
+So what happened with
+I want to get this first name
+
+402
+00:26:48,760 --> 00:26:51,600
+and then print out inside my console.
+
+403
+00:26:51,960 --> 00:26:54,440
+Okay. So let's actually first
+
+404
+00:26:56,880 --> 00:27:00,200
+identify this
+element and create an X path for this.
+
+405
+00:27:00,560 --> 00:27:01,400
+Okay.
+
+406
+00:27:01,760 --> 00:27:05,520
+So what I'm going to do here
+
+407
+00:27:06,520 --> 00:27:10,640
+is, okay, okay.
+
+408
+00:27:10,800 --> 00:27:13,560
+So let's go ahead and see where it is.
+
+409
+00:27:14,080 --> 00:27:14,920
+Okay?
+
+410
+00:27:16,360 --> 00:27:19,120
+So it's inside the okay, that's fine.
+
+411
+00:27:19,760 --> 00:27:23,000
+So what if I want to use this P only guys,
+
+412
+00:27:23,360 --> 00:27:25,600
+what was that P standing for? Guys
+
+413
+00:27:31,360 --> 00:27:32,080
+paragraph.
+
+414
+00:27:32,080 --> 00:27:33,760
+Right. Okay, good.
+
+415
+00:27:33,760 --> 00:27:38,840
+So what I want to do guys,
+there is an idea in here
+
+416
+00:27:39,080 --> 00:27:43,240
+we can probably use this, but I want to
+use this P and create an X path for this.
+
+417
+00:27:43,560 --> 00:27:47,280
+How do we want to come up
+with an X path for us? So
+
+418
+00:27:52,960 --> 00:27:55,880
+okay, so following siblings.
+
+419
+00:27:55,880 --> 00:28:00,360
+Okay, what else?
+
+420
+00:28:00,360 --> 00:28:03,040
+Why do we want to use the following
+sibling guys in here?
+
+421
+00:28:05,000 --> 00:28:06,640
+We could just use text. Right?
+
+422
+00:28:06,640 --> 00:28:08,240
+This is a simple text right?
+
+423
+00:28:08,240 --> 00:28:12,600
+Guys?
+
+424
+00:28:12,600 --> 00:28:15,840
+So what I'm going
+to do and do double slash
+
+425
+00:28:17,200 --> 00:28:18,680
+P, right?
+
+426
+00:28:18,680 --> 00:28:21,160
+And then there's a text in here
+
+427
+00:28:23,200 --> 00:28:25,080
+is equal to
+
+428
+00:28:28,800 --> 00:28:30,480
+first name
+
+429
+00:28:33,440 --> 00:28:34,760
+or right.
+
+430
+00:28:34,760 --> 00:28:42,040
+What happened
+is in a unique enough case, right? Yep.
+
+431
+00:28:42,560 --> 00:28:43,720
+So it is unique.
+
+432
+00:28:43,720 --> 00:28:46,600
+So if I click on the get user again, guess
+
+433
+00:28:47,440 --> 00:28:51,240
+what happened?
+
+434
+00:28:51,240 --> 00:28:54,720
+It changes the user every time, right?
+
+435
+00:28:54,720 --> 00:28:58,360
+So what can we use in here
+in order to keep our x
+
+436
+00:28:58,360 --> 00:29:01,320
+path dynamic? Guys
+
+437
+00:29:04,960 --> 00:29:09,520
+we can use contains
+and what's the part that we taken in
+
+438
+00:29:09,560 --> 00:29:13,600
+our X path
+guys only that first name, right?
+
+439
+00:29:13,600 --> 00:29:15,160
+Absolutely right.
+
+440
+00:29:15,160 --> 00:29:17,920
+So what I will do in here,
+
+441
+00:29:19,640 --> 00:29:21,960
+I'll go ahead and do contains
+
+442
+00:29:23,440 --> 00:29:27,960
+open the parentheses,
+
+443
+00:29:27,960 --> 00:29:31,920
+close it here
+and what I can do I can remove this.
+
+444
+00:29:31,920 --> 00:29:33,240
+What's wrong in here, guys?
+
+445
+00:29:33,240 --> 00:29:35,840
+Why is this not detecting it
+
+446
+00:29:36,640 --> 00:29:39,320
+using contains using the first name.
+
+447
+00:29:40,960 --> 00:29:41,480
+Why is this
+
+448
+00:29:41,480 --> 00:29:47,840
+not working?
+
+449
+00:29:47,840 --> 00:29:50,760
+Exactly. There's no equal sign.
+
+450
+00:29:50,760 --> 00:29:54,080
+We need to put a comma in here.
+
+451
+00:29:54,080 --> 00:29:55,280
+Right. So. Okay.
+
+452
+00:29:55,280 --> 00:29:56,600
+So now
+
+453
+00:29:58,160 --> 00:30:01,000
+we use contain. So
+
+454
+00:30:01,000 --> 00:30:02,840
+I'm getting a new user here.
+
+455
+00:30:02,840 --> 00:30:05,360
+It's still one of one, right?
+
+456
+00:30:05,360 --> 00:30:08,800
+Because we don't really care
+what name actually popping up.
+
+457
+00:30:09,040 --> 00:30:13,920
+We care about this element
+which we identified by using contents.
+
+458
+00:30:13,960 --> 00:30:18,280
+Okay, So this is the beauty
+of keeping the x dynamic
+
+459
+00:30:18,280 --> 00:30:24,600
+or identifying your elements as dynamic
+because you get the constant part of it
+
+460
+00:30:24,920 --> 00:30:28,200
+and you don't really care
+what the dynamic part
+
+461
+00:30:28,200 --> 00:30:32,120
+because you can still identify it
+with one single X path.
+
+462
+00:30:32,400 --> 00:30:33,240
+Okay.
+
+463
+00:30:34,120 --> 00:30:34,680
+All right.
+
+464
+00:30:34,680 --> 00:30:37,040
+So let me copy this. Right.
+
+465
+00:30:37,320 --> 00:30:41,040
+But this element doesn't pop up right
+away.
+
+466
+00:30:41,840 --> 00:30:42,480
+Right?
+
+467
+00:30:42,920 --> 00:30:47,800
+So what we can do, let's actually before
+we wait for that element, what I want to
+
+468
+00:30:47,800 --> 00:30:51,520
+do, I want to identify this element
+and I want to print that text.
+
+469
+00:30:51,720 --> 00:30:52,520
+Okay.
+
+470
+00:30:52,680 --> 00:30:57,920
+So let's the web element.
+
+471
+00:30:57,920 --> 00:31:01,560
+First name, right, is equal to driver
+
+472
+00:31:02,520 --> 00:31:05,600
+find element by
+
+473
+00:31:05,600 --> 00:31:10,840
+export.
+
+474
+00:31:10,840 --> 00:31:11,080
+Right?
+
+475
+00:31:11,160 --> 00:31:14,400
+And then what I want to do, I want to just
+
+476
+00:31:15,760 --> 00:31:18,320
+print out the text.
+
+477
+00:31:18,600 --> 00:31:19,280
+Right.
+
+478
+00:31:19,400 --> 00:31:22,880
+So if I run this, this is going to fail
+because it's waiting
+
+479
+00:31:22,880 --> 00:31:26,760
+for one or 2 seconds
+to in order to pop up that element.
+
+480
+00:31:26,760 --> 00:31:27,440
+Right.
+
+481
+00:31:27,560 --> 00:31:29,960
+So what I'm going to do here,
+
+482
+00:31:31,440 --> 00:31:33,920
+I will set a weight,
+
+483
+00:31:33,920 --> 00:31:36,880
+but I will set a weight specifically
+
+484
+00:31:37,080 --> 00:31:39,960
+for this element, which is first name.
+
+485
+00:31:40,320 --> 00:31:41,120
+Okay.
+
+486
+00:31:41,120 --> 00:31:43,640
+So what I'm going to do in order for us
+
+487
+00:31:43,920 --> 00:31:47,160
+to use an explicitly what we need to do,
+
+488
+00:31:47,280 --> 00:31:51,280
+we need to create an object of the web
+driver weight.
+
+489
+00:31:51,600 --> 00:31:56,800
+Okay, So what I will do here,
+I'll create an object.
+
+490
+00:31:56,800 --> 00:31:58,680
+What type of weight?
+
+491
+00:31:58,680 --> 00:32:01,040
+Weight is equal to new
+
+492
+00:32:02,280 --> 00:32:04,160
+web driver weight?
+
+493
+00:32:04,160 --> 00:32:06,240
+Okay,
+so I'm going to close this statement.
+
+494
+00:32:06,520 --> 00:32:08,640
+So it's throwing out some errors.
+
+495
+00:32:08,640 --> 00:32:11,320
+It's not compiling because it's X,
+
+496
+00:32:12,640 --> 00:32:15,840
+It's right now, it's waiting for us
+
+497
+00:32:16,200 --> 00:32:19,600
+to pass some arguments in there.
+
+498
+00:32:19,800 --> 00:32:20,360
+Okay.
+
+499
+00:32:20,360 --> 00:32:24,680
+So it's it's waiting for us to pass
+two different arguments in here.
+
+500
+00:32:24,680 --> 00:32:29,720
+So one of them is going to be
+that object of our web driver.
+
+501
+00:32:29,880 --> 00:32:34,920
+So we need to let this guy know in here
+saying that, say selenium,
+
+502
+00:32:34,920 --> 00:32:38,960
+that we using a web driver
+and this is our object.
+
+503
+00:32:39,120 --> 00:32:43,200
+In this case,
+the object that we're using is driver.
+
+504
+00:32:44,120 --> 00:32:44,840
+Okay.
+
+505
+00:32:44,840 --> 00:32:49,480
+And then the second thing that we need
+to pass in here, the waiting time.
+
+506
+00:32:49,840 --> 00:32:54,360
+Okay, So the waiting time is going
+to be in seconds right away.
+
+507
+00:32:54,360 --> 00:32:57,880
+Okay. So I would set it for 20 seconds
+
+508
+00:32:57,880 --> 00:33:01,240
+and you can see that
+it's time out in 20 seconds.
+
+509
+00:33:01,760 --> 00:33:05,040
+Okay. E,
+
+510
+00:33:05,040 --> 00:33:06,120
+this gets
+
+511
+00:33:10,520 --> 00:33:11,040
+okay, guys, I
+
+512
+00:33:11,040 --> 00:33:14,160
+need you to be more active, okay?
+
+513
+00:33:14,160 --> 00:33:16,240
+Because I don't really know
+what is going on.
+
+514
+00:33:16,560 --> 00:33:17,760
+If you guys are typing.
+
+515
+00:33:17,760 --> 00:33:19,160
+So let's stop typing.
+
+516
+00:33:19,160 --> 00:33:24,600
+Okay?
+
+517
+00:33:24,600 --> 00:33:26,040
+Okay, cool.
+
+518
+00:33:26,640 --> 00:33:30,320
+All right,
+So we created an object of the web driver.
+
+519
+00:33:30,320 --> 00:33:31,200
+Wait here.
+
+520
+00:33:31,200 --> 00:33:35,760
+We saying that, hey, this is a driver
+that I'm running everything with,
+
+521
+00:33:35,760 --> 00:33:40,680
+and this is the amount of weight
+that I will be waiting for.
+
+522
+00:33:41,040 --> 00:33:44,800
+So now we created a weight,
+but we don't know
+
+523
+00:33:44,920 --> 00:33:47,920
+what is the condition
+that we need to wait for.
+
+524
+00:33:48,240 --> 00:33:52,120
+Okay, So right now
+I'm going to use this weight object
+
+525
+00:33:52,120 --> 00:33:56,120
+that I created and do wait until.
+
+526
+00:33:56,960 --> 00:33:59,160
+Okay, so I'm
+
+527
+00:33:59,160 --> 00:34:02,800
+waiting until all some conditions. Right.
+
+528
+00:34:02,800 --> 00:34:04,880
+And as I said before, weight.
+
+529
+00:34:05,080 --> 00:34:09,200
+What type of weight is using
+the expected conditions?
+
+530
+00:34:09,200 --> 00:34:10,120
+Class?
+
+531
+00:34:10,120 --> 00:34:15,120
+Okay, so inside the parentheses,
+what I need to do, I need to pass
+
+532
+00:34:15,440 --> 00:34:19,840
+the expected conditions that we want to
+wait for.
+
+533
+00:34:19,840 --> 00:34:21,680
+Okay. So what I will do,
+
+534
+00:34:23,200 --> 00:34:25,440
+I will pass here.
+
+535
+00:34:25,640 --> 00:34:29,720
+As you can see, expected
+conditions, class.
+
+536
+00:34:29,720 --> 00:34:33,360
+And when I press that in here,
+you can see there's
+
+537
+00:34:33,360 --> 00:34:36,960
+different
+different different conditions in here.
+
+538
+00:34:36,960 --> 00:34:40,560
+So visibility of element alert is present.
+
+539
+00:34:40,560 --> 00:34:44,440
+There's title right
+elements selection, state
+
+540
+00:34:44,840 --> 00:34:48,040
+element
+to be clickable, element to be selected.
+
+541
+00:34:48,240 --> 00:34:52,520
+So there's a lot of different
+different methods that we want to use.
+
+542
+00:34:52,520 --> 00:34:55,120
+There's different conditions
+that we need to use. Okay.
+
+543
+00:34:55,440 --> 00:34:59,160
+So in this case,
+what are we trying to wait for guys?
+
+544
+00:34:59,400 --> 00:35:01,440
+So I'm trying to wait for that element.
+
+545
+00:35:01,440 --> 00:35:04,560
+But what is the actual condition
+that I'm waiting for?
+
+546
+00:35:04,560 --> 00:35:05,280
+Guess
+
+547
+00:35:17,760 --> 00:35:20,280
+to be found or what else, guys?
+
+548
+00:35:20,960 --> 00:35:23,160
+So if we if we are.
+
+549
+00:35:23,400 --> 00:35:24,240
+Exactly.
+
+550
+00:35:24,240 --> 00:35:27,200
+We're talking about the visibility, right?
+
+551
+00:35:27,400 --> 00:35:31,760
+So we want that element to be visible
+on the page first.
+
+552
+00:35:31,800 --> 00:35:34,360
+Right? So what we can do here,
+
+553
+00:35:36,160 --> 00:35:37,640
+so we can use
+
+554
+00:35:37,640 --> 00:35:40,720
+visibility of element locator.
+
+555
+00:35:41,520 --> 00:35:42,000
+Okay.
+
+556
+00:35:42,000 --> 00:35:44,560
+So I'm going to choose this method. Okay.
+
+557
+00:35:44,960 --> 00:35:50,160
+So now inside this parentheses,
+
+558
+00:35:50,400 --> 00:35:54,120
+I need to specify the locator that I am
+
+559
+00:35:56,080 --> 00:35:57,960
+finding this element.
+
+560
+00:35:57,960 --> 00:35:58,720
+Okay.
+
+561
+00:35:58,720 --> 00:36:02,760
+So you can do by or we can do by X path
+
+562
+00:36:02,760 --> 00:36:05,840
+as we already did in here.
+
+563
+00:36:05,840 --> 00:36:09,640
+Okay, so I'm going to copy this X path
+we already found in here
+
+564
+00:36:10,080 --> 00:36:15,080
+and I will place it in here.
+
+565
+00:36:15,080 --> 00:36:17,400
+Okay? Is that clear, guys?
+
+566
+00:36:17,400 --> 00:36:23,400
+Any questions in here?
+
+567
+00:36:23,400 --> 00:36:26,400
+So it's okay. That's fine.
+
+568
+00:36:26,520 --> 00:36:28,720
+All right, so here again,
+
+569
+00:36:28,720 --> 00:36:33,000
+guys, on line 21,
+I am creating an object of web drive.
+
+570
+00:36:33,000 --> 00:36:34,760
+Await. Okay.
+
+571
+00:36:34,760 --> 00:36:38,080
+Telling that, hey, this is my driver,
+that I'm running everything
+
+572
+00:36:38,320 --> 00:36:41,600
+and I'm setting the weight for 20 seconds.
+
+573
+00:36:42,000 --> 00:36:42,680
+Okay?
+
+574
+00:36:42,680 --> 00:36:49,520
+And then what I'm doing here, I'm waiting
+until I meet the expected conditions.
+
+575
+00:36:49,520 --> 00:36:50,320
+Okay?
+
+576
+00:36:50,320 --> 00:36:54,680
+Once these conditions
+are met, I will go ahead
+
+577
+00:36:55,640 --> 00:36:59,400
+to the next line and perform my action.
+
+578
+00:36:59,400 --> 00:37:00,040
+Okay.
+
+579
+00:37:00,040 --> 00:37:09,040
+Is that clear, guys?
+
+580
+00:37:09,040 --> 00:37:13,680
+All right, so now let me run this
+
+581
+00:37:17,800 --> 00:37:18,840
+with work until.
+
+582
+00:37:18,840 --> 00:37:21,040
+Yes, we will be using expected conditions.
+
+583
+00:37:21,040 --> 00:37:28,440
+Yes, I'm running this.
+
+584
+00:37:28,440 --> 00:37:30,760
+So let's see.
+
+585
+00:37:31,320 --> 00:37:31,680
+Okay.
+
+586
+00:37:31,680 --> 00:37:34,080
+Waiting for this.
+
+587
+00:37:34,080 --> 00:37:34,840
+Okay.
+
+588
+00:37:35,840 --> 00:37:39,240
+And then you can see in here,
+it's printed out.
+
+589
+00:37:39,240 --> 00:37:41,200
+First name is Hector.
+
+590
+00:37:41,200 --> 00:37:41,880
+Okay.
+
+591
+00:37:41,880 --> 00:37:46,000
+So headed here.
+
+592
+00:37:46,000 --> 00:37:49,880
+This guy is printed out
+inside our console.
+
+593
+00:37:50,080 --> 00:37:50,680
+Right.
+
+594
+00:37:50,760 --> 00:37:56,160
+So now, guys, the difference
+between implicit and explicit.
+
+595
+00:37:56,160 --> 00:37:59,640
+Okay, so when you set an implicit weight,
+
+596
+00:38:00,800 --> 00:38:05,520
+it's only working
+with find element, right?
+
+597
+00:38:05,520 --> 00:38:08,720
+So whenever your
+
+598
+00:38:08,920 --> 00:38:12,560
+your element is not found, it's
+going to throw you an exception.
+
+599
+00:38:12,560 --> 00:38:13,200
+Right.
+
+600
+00:38:13,240 --> 00:38:18,480
+And here as well, you can use the implicit
+way it's going to wait for 20 seconds
+
+601
+00:38:18,480 --> 00:38:23,240
+until it finds that element
+and print out the text in here as well.
+
+602
+00:38:24,000 --> 00:38:28,200
+But the difference between implicit
+and explicit weight is
+
+603
+00:38:29,520 --> 00:38:31,080
+in the conditions.
+
+604
+00:38:31,080 --> 00:38:36,440
+Okay, So in implicit, what you're
+only waiting for the element to be found.
+
+605
+00:38:37,320 --> 00:38:37,880
+Okay.
+
+606
+00:38:37,920 --> 00:38:40,680
+But in the explicit way you're
+
+607
+00:38:40,680 --> 00:38:45,400
+setting different conditions,
+you waiting for different conditions
+
+608
+00:38:45,640 --> 00:38:49,200
+specifically for that, for this
+or that element.
+
+609
+00:38:49,680 --> 00:38:50,400
+Okay.
+
+610
+00:38:50,400 --> 00:38:52,560
+So sometimes
+when you set an implicit weight
+
+611
+00:38:52,560 --> 00:38:54,960
+and you don't set the explicit weight
+
+612
+00:38:54,960 --> 00:38:58,160
+so you can find an element,
+but it might not be visible.
+
+613
+00:38:58,720 --> 00:38:59,400
+Okay.
+
+614
+00:38:59,400 --> 00:39:04,240
+Or you can find an element, but
+it might not be enabled to click on it.
+
+615
+00:39:04,720 --> 00:39:09,960
+Okay, So implicit weight
+will only help you to find the element.
+
+616
+00:39:10,280 --> 00:39:13,640
+It's not going to tell you, okay,
+I found the element, but it's enabled
+
+617
+00:39:13,800 --> 00:39:15,320
+or disabled.
+
+618
+00:39:15,320 --> 00:39:21,000
+Okay, so this is the difference
+between implicit and explicit weight.
+
+619
+00:39:21,400 --> 00:39:22,120
+Okay.
+
+620
+00:39:22,120 --> 00:39:47,600
+Any questions on this this? Yes.
+
+621
+00:39:47,600 --> 00:39:53,160
+With explicit weight
+you use and a specific element, right.
+
+622
+00:39:53,160 --> 00:39:58,200
+A specific element to perform action
+or to wait for certain conditions.
+
+623
+00:39:58,800 --> 00:40:02,480
+Okay.
+
+624
+00:40:02,480 --> 00:40:03,760
+Not very clear.
+
+625
+00:40:03,760 --> 00:40:09,000
+What's the confusion?
+
+626
+00:40:09,000 --> 00:40:10,560
+If you have any questions, guys,
+
+627
+00:40:11,920 --> 00:40:12,480
+type it in.
+
+628
+00:40:12,480 --> 00:40:14,520
+Seems like you guys are so passive today.
+
+629
+00:40:14,520 --> 00:40:15,560
+I don't know what's going on.
+
+630
+00:40:15,560 --> 00:40:19,680
+It's either you guys are tired
+or you don't understand anything
+
+631
+00:40:19,680 --> 00:40:26,400
+or you understood everything.
+
+632
+00:40:26,400 --> 00:40:35,160
+All right, It's all okay.
+
+633
+00:40:35,160 --> 00:40:40,200
+All right, let me see.
+
+634
+00:40:41,080 --> 00:40:42,360
+I had another task.
+
+635
+00:40:42,360 --> 00:40:51,480
+And here.
+
+636
+00:40:51,480 --> 00:40:52,920
+It's all right.
+
+637
+00:40:52,920 --> 00:41:05,160
+So let me see.
+
+638
+00:41:05,160 --> 00:41:07,200
+Okay, guys, here's the task for you.
+
+639
+00:41:07,200 --> 00:41:10,320
+Okay?
+Give 5 minutes to complete this task.
+
+640
+00:41:10,480 --> 00:41:17,760
+Okay, So I want you to navigate
+here, wants to click start.
+
+641
+00:41:17,760 --> 00:41:18,600
+Okay.
+
+642
+00:41:18,960 --> 00:41:23,160
+So it's going to load in here,
+and I want you to verify
+
+643
+00:41:23,480 --> 00:41:27,240
+that this text is appeared in here.
+
+644
+00:41:27,240 --> 00:41:28,080
+Okay.
+
+645
+00:41:28,600 --> 00:41:29,480
+Explicit word.
+
+646
+00:41:29,480 --> 00:41:33,680
+You can be more specific
+on what exactly. Yes.
+
+647
+00:41:33,920 --> 00:41:35,400
+So you are more specific.
+
+648
+00:41:35,400 --> 00:41:41,240
+You are explicitly setting a condition.
+
+649
+00:41:41,240 --> 00:41:41,600
+All right.
+
+650
+00:41:41,600 --> 00:41:45,360
+Is the task clear, guys,
+
+651
+00:41:45,360 --> 00:41:48,280
+I'm going to copy this length for you.
+
+652
+00:41:48,720 --> 00:41:49,760
+I'm going to send it to me.
+
+653
+00:41:50,880 --> 00:41:51,240
+Okay.
+
+654
+00:41:51,240 --> 00:41:53,280
+There you go. So you have it in
+live chats.
+
+655
+00:41:53,280 --> 00:41:53,560
+Okay.
+
+656
+00:41:53,560 --> 00:41:57,000
+5 minutes to complete that task
+
+657
+00:42:01,240 --> 00:42:02,160
+and we'll do it
+
+658
+00:42:02,160 --> 00:45:38,840
+together.
+
+659
+00:45:38,840 --> 00:45:40,920
+And no one else done except exceptional.
+
+660
+00:45:41,000 --> 00:45:43,840
+Then I think this is the only one done now
+
+661
+00:45:46,520 --> 00:45:52,120
+you've probably copied
+and pasted in right?
+
+662
+00:45:52,120 --> 00:45:52,600
+Yeah.
+
+663
+00:45:53,560 --> 00:45:54,200
+Yeah.
+
+664
+00:45:54,680 --> 00:46:01,240
+It's done.
+
+665
+00:46:01,680 --> 00:46:05,240
+Good.
+
+666
+00:46:05,240 --> 00:46:06,360
+It hasn't.
+
+667
+00:46:06,360 --> 00:46:07,280
+It's not 5 minutes.
+
+668
+00:46:07,280 --> 00:46:34,480
+Yes. Yes.
+
+669
+00:46:34,480 --> 00:46:35,920
+We've done
+
+670
+00:46:40,600 --> 00:46:57,440
+all. All right, that's good.
+
+671
+00:46:57,440 --> 00:46:58,560
+Okay, guys.
+
+672
+00:46:58,560 --> 00:47:00,840
+So let's do it together now.
+
+673
+00:47:01,400 --> 00:47:06,000
+Okay, So let me actually grab this
+
+674
+00:47:08,520 --> 00:47:13,640
+here.
+
+675
+00:47:13,640 --> 00:47:23,640
+And I think we need to take this.
+
+676
+00:47:23,640 --> 00:47:26,080
+Okay, So I have the URL.
+
+677
+00:47:26,360 --> 00:47:27,760
+What is my next step, guys?
+
+678
+00:47:27,760 --> 00:47:28,080
+Okay.
+
+679
+00:47:28,080 --> 00:47:33,960
+Help me out to finish this task, guys.
+
+680
+00:47:33,960 --> 00:47:35,960
+So I'm navigating to this URL.
+
+681
+00:47:35,960 --> 00:47:40,480
+What am I doing next?
+
+682
+00:47:40,480 --> 00:47:42,920
+Okay, we need to locate the button, right?
+
+683
+00:47:42,920 --> 00:47:45,480
+So we need to locate this start button.
+
+684
+00:47:45,960 --> 00:47:50,520
+All right, so let's inspect and see here
+what we have.
+
+685
+00:47:50,960 --> 00:47:53,160
+Okay, I have an idea.
+
+686
+00:47:53,160 --> 00:47:56,160
+Okay, so let's use a CSS selector.
+
+687
+00:47:56,520 --> 00:48:00,160
+Let's use a CSF selector
+with the shortcut.
+
+688
+00:48:00,160 --> 00:48:10,520
+What was the shortcut for idea
+in CSS selector guys?
+
+689
+00:48:10,520 --> 00:48:13,280
+Hashtag or a pound key. Right. Okay. Good.
+
+690
+00:48:13,800 --> 00:48:16,320
+Nice. Okay.
+
+691
+00:48:16,320 --> 00:48:17,600
+Okay. That was probably
+
+692
+00:48:18,600 --> 00:48:19,360
+autocomplete.
+
+693
+00:48:19,360 --> 00:48:19,960
+Right.
+
+694
+00:48:20,680 --> 00:48:23,280
+Okay.
+
+695
+00:48:23,280 --> 00:48:23,800
+All right, guys.
+
+696
+00:48:23,800 --> 00:48:28,360
+So double slash, right with CSV selectors,
+
+697
+00:48:29,160 --> 00:48:31,720
+and then I have a tag.
+
+698
+00:48:31,760 --> 00:48:37,640
+What's my tag, guys?
+
+699
+00:48:37,640 --> 00:48:39,880
+Button. Okay, button.
+
+700
+00:48:40,080 --> 00:48:41,440
+And then
+
+701
+00:48:42,240 --> 00:48:44,600
+the pound key in here.
+
+702
+00:48:44,600 --> 00:48:47,040
+I'm copying and pasting the idea here.
+
+703
+00:48:47,600 --> 00:48:51,440
+Why is it why it didn't work?
+
+704
+00:48:51,440 --> 00:48:57,320
+What's going on?
+
+705
+00:48:57,320 --> 00:49:00,560
+No, double slash. Exactly. There we go.
+
+706
+00:49:00,560 --> 00:49:03,960
+So in CSV,
+we don't start with double slash, right?
+
+707
+00:49:04,360 --> 00:49:06,360
+Okay, so we found this.
+
+708
+00:49:06,360 --> 00:49:10,000
+Let's go back to our script and start
+
+709
+00:49:10,560 --> 00:49:13,080
+storing this inside the variable.
+
+710
+00:49:13,200 --> 00:49:16,120
+All right, well, element start button
+
+711
+00:49:16,880 --> 00:49:21,000
+is equal to driver dot find element
+
+712
+00:49:21,920 --> 00:49:26,840
+by csv selector and let's face it in here
+
+713
+00:49:27,720 --> 00:49:32,720
+and then start button that click.
+
+714
+00:49:32,720 --> 00:49:34,560
+Okay. All right.
+
+715
+00:49:34,560 --> 00:49:39,720
+So we know there is some some time
+that we need to wait for, right?
+
+716
+00:49:40,120 --> 00:49:43,200
+So let me click on this.
+
+717
+00:49:43,880 --> 00:49:45,160
+It's loading.
+
+718
+00:49:45,160 --> 00:49:45,480
+All right.
+
+719
+00:49:45,480 --> 00:49:50,560
+A couple seconds in here
+and what it does, and then we can see this
+
+720
+00:49:51,520 --> 00:49:51,880
+text.
+
+721
+00:49:51,880 --> 00:49:55,280
+So let's
+
+722
+00:49:55,280 --> 00:49:57,280
+identify this text as well.
+
+723
+00:49:57,280 --> 00:49:59,080
+So let me
+
+724
+00:49:59,760 --> 00:50:01,160
+leave this
+
+725
+00:50:02,320 --> 00:50:03,960
+identify this again.
+
+726
+00:50:03,960 --> 00:50:04,840
+Okay.
+
+727
+00:50:05,040 --> 00:50:08,520
+So what can we identify this by, guys?
+
+728
+00:50:08,800 --> 00:50:11,480
+How do we identify these elements?
+
+729
+00:50:11,480 --> 00:50:13,280
+I mean, this element
+
+730
+00:50:17,960 --> 00:50:18,720
+by text.
+
+731
+00:50:18,720 --> 00:50:19,680
+Okay.
+
+732
+00:50:19,840 --> 00:50:23,640
+Do you want
+is it possible to identify by latex?
+
+733
+00:50:23,640 --> 00:50:44,520
+Good.
+
+734
+00:50:44,520 --> 00:50:49,240
+Yes. Now, there is no length, right?
+
+735
+00:50:49,240 --> 00:50:51,120
+There's no. And a tag, guys.
+
+736
+00:50:51,120 --> 00:50:57,160
+So that's why we won't be able
+to identify this by link text.
+
+737
+00:50:57,160 --> 00:50:58,840
+Please pay attention.
+
+738
+00:50:58,840 --> 00:50:59,560
+Right.
+
+739
+00:50:59,560 --> 00:51:04,080
+So there is a different tag in here.
+
+740
+00:51:04,080 --> 00:51:08,440
+Okay, So what we can do,
+we can use the text, right?
+
+741
+00:51:09,000 --> 00:51:12,560
+We can use the contains
+because our tax is too long in here.
+
+742
+00:51:12,920 --> 00:51:13,880
+Right.
+
+743
+00:51:13,880 --> 00:51:17,160
+And there's one more thing
+that I want to show you.
+
+744
+00:51:17,160 --> 00:51:19,520
+So let's identify this by.
+
+745
+00:51:19,520 --> 00:51:21,600
+Our tag is age four.
+
+746
+00:51:21,600 --> 00:51:27,800
+What does this age stand for, guys?
+
+747
+00:51:27,800 --> 00:51:31,800
+Head right okay
+so I'm going to be using contains in
+
+748
+00:51:31,800 --> 00:51:35,640
+here contains the text right
+
+749
+00:51:36,920 --> 00:51:39,040
+And our text is
+
+750
+00:51:41,680 --> 00:51:42,600
+welcome.
+
+751
+00:51:42,880 --> 00:51:44,720
+Right. Okay.
+
+752
+00:51:45,360 --> 00:51:45,960
+All right, guys.
+
+753
+00:51:45,960 --> 00:51:48,600
+So there's one more thing
+that I want to show you.
+
+754
+00:51:49,120 --> 00:51:53,760
+So most of the time on the on the Web
+pages, guys, on the Web
+
+755
+00:51:53,760 --> 00:51:57,960
+page is what happens
+whenever you see this H1, H2, H3,
+
+756
+00:51:58,320 --> 00:52:03,240
+They may get changed
+during the development of the application.
+
+757
+00:52:03,600 --> 00:52:04,320
+Okay.
+
+758
+00:52:04,320 --> 00:52:09,520
+So headers
+I usually get changed to like if
+
+759
+00:52:09,560 --> 00:52:12,440
+if this header is edge for right now,
+
+760
+00:52:12,560 --> 00:52:15,600
+it might get changed to age
+three or age five.
+
+761
+00:52:16,360 --> 00:52:18,120
+It's up to the development team.
+
+762
+00:52:18,120 --> 00:52:20,800
+Okay,
+so most of the time they get changed.
+
+763
+00:52:20,800 --> 00:52:25,320
+Okay,
+so you don't want to use this edge for H2
+
+764
+00:52:25,520 --> 00:52:28,120
+or header tab in general.
+
+765
+00:52:29,040 --> 00:52:29,640
+Okay.
+
+766
+00:52:29,640 --> 00:52:34,920
+So what you can do instead,
+you can put a wild card in here
+
+767
+00:52:35,040 --> 00:52:40,360
+which identifies
+any tags inside the edge, HTML.
+
+768
+00:52:40,360 --> 00:52:40,960
+Okay.
+
+769
+00:52:40,960 --> 00:52:44,160
+What you can do, you can simply put an
+
+770
+00:52:45,520 --> 00:52:46,920
+asterisk in here
+
+771
+00:52:46,920 --> 00:52:51,680
+and you can see that it is a wild card
+it identifies any
+
+772
+00:52:53,880 --> 00:52:56,280
+what's called any tag name.
+
+773
+00:52:56,280 --> 00:52:59,160
+It can be replaced with any tag.
+
+774
+00:52:59,640 --> 00:53:01,760
+Okay. Is that clear, guys?
+
+775
+00:53:01,760 --> 00:53:06,400
+This star or asterisk is a wild card.
+
+776
+00:53:06,720 --> 00:53:08,880
+Okay, so let's use this.
+
+777
+00:53:08,880 --> 00:53:11,000
+So what I'm going to do,
+I'm going to copy this
+
+778
+00:53:13,360 --> 00:53:18,000
+and I'm going to go back here.
+
+779
+00:53:18,000 --> 00:53:19,880
+No, not for CSS selectors, guys.
+
+780
+00:53:19,880 --> 00:53:26,400
+It's only applicable to Xbox.
+
+781
+00:53:26,400 --> 00:53:27,280
+I'll put it in the note.
+
+782
+00:53:27,280 --> 00:53:29,800
+Okay,
+so let's identify this element first.
+
+783
+00:53:29,800 --> 00:53:30,600
+Okay.
+
+784
+00:53:30,720 --> 00:53:33,640
+So where element
+
+785
+00:53:33,840 --> 00:53:36,600
+welcome is equal to driver
+
+786
+00:53:38,680 --> 00:53:40,800
+find element
+
+787
+00:53:41,120 --> 00:53:44,440
+by x pass and let's start in here
+
+788
+00:53:45,960 --> 00:53:48,720
+and then what we're going to do
+
+789
+00:53:48,720 --> 00:53:56,560
+just in driver
+
+790
+00:53:57,600 --> 00:53:58,920
+click.
+
+791
+00:53:58,920 --> 00:54:03,600
+Okay, so let's go to our notes and
+
+792
+00:54:10,440 --> 00:54:12,160
+X Path is a
+
+793
+00:54:13,560 --> 00:54:17,200
+wild card which
+
+794
+00:54:18,960 --> 00:54:21,520
+can identify
+
+795
+00:54:21,560 --> 00:54:24,400
+any tag name
+
+796
+00:54:24,400 --> 00:54:27,040
+and we can just put this example in here.
+
+797
+00:54:27,480 --> 00:54:28,360
+Okay.
+
+798
+00:54:29,640 --> 00:54:31,400
+By I.D.
+
+799
+00:54:31,960 --> 00:54:33,400
+the correct to use the ID.
+
+800
+00:54:33,400 --> 00:54:35,440
+So let's check.
+
+801
+00:54:35,440 --> 00:54:37,480
+You can use the ID,
+
+802
+00:54:37,720 --> 00:54:41,160
+but if you get the text,
+it might not return to the text.
+
+803
+00:54:42,160 --> 00:54:46,200
+Okay. So
+
+804
+00:54:49,840 --> 00:54:50,560
+you got the text.
+
+805
+00:54:50,560 --> 00:54:53,360
+Okay, then that's fine.
+
+806
+00:54:53,360 --> 00:54:54,680
+Then. It's fine.
+
+807
+00:54:55,280 --> 00:54:55,720
+Okay.
+
+808
+00:54:55,720 --> 00:54:58,680
+So let's go back
+
+809
+00:54:59,960 --> 00:55:03,800
+to the text.
+
+810
+00:55:03,800 --> 00:55:04,440
+Okay, guys.
+
+811
+00:55:04,440 --> 00:55:07,320
+So now what we need to do,
+we found that element.
+
+812
+00:55:07,560 --> 00:55:10,400
+We're trying to get that text,
+but before we do that,
+
+813
+00:55:10,560 --> 00:55:13,200
+what we need to do,
+we need to wait, right?
+
+814
+00:55:13,200 --> 00:55:18,440
+We need to wait because it takes some
+some seconds to load that element.
+
+815
+00:55:18,920 --> 00:55:19,800
+Okay.
+
+816
+00:55:20,640 --> 00:55:23,640
+So what I'm going to do here, I will be
+
+817
+00:55:25,840 --> 00:55:31,680
+creating a web type of weight
+object right?
+
+818
+00:55:31,680 --> 00:55:34,840
+Grab. Wait, wait is equal to a new
+
+819
+00:55:36,000 --> 00:55:37,000
+web drive weight.
+
+820
+00:55:37,000 --> 00:55:42,760
+And now here what we need to do,
+we need to specify what our Web driver is
+
+821
+00:55:43,080 --> 00:55:46,400
+and how many seconds we want to wait for.
+
+822
+00:55:46,720 --> 00:55:47,040
+Right.
+
+823
+00:55:47,040 --> 00:55:50,320
+So the first one is driver object in here
+
+824
+00:55:50,320 --> 00:55:54,040
+and we want to wait for 20 seconds.
+
+825
+00:55:54,480 --> 00:55:55,200
+Okay.
+
+826
+00:55:55,800 --> 00:56:00,120
+So now in here, what we can do,
+we can wait
+
+827
+00:56:02,080 --> 00:56:07,560
+until our expected conditions are met,
+Right?
+
+828
+00:56:07,560 --> 00:56:13,400
+Expected conditions
+for visibility of the element located.
+
+829
+00:56:13,400 --> 00:56:14,040
+Right.
+
+830
+00:56:14,240 --> 00:56:16,640
+So and then
+
+831
+00:56:19,080 --> 00:56:24,480
+located or locating this by X path.
+
+832
+00:56:24,480 --> 00:56:27,240
+And we'll store this in here.
+
+833
+00:56:27,720 --> 00:56:29,760
+Right. Okay.
+
+834
+00:56:29,760 --> 00:56:31,920
+If you didn't get the text,
+send us the code.
+
+835
+00:56:32,560 --> 00:56:38,280
+Let's see what what did you have?
+
+836
+00:56:38,280 --> 00:56:40,920
+Is it the CSeries or Express?
+
+837
+00:56:40,920 --> 00:56:45,000
+What did we identify our
+this element guys with.
+
+838
+00:56:45,280 --> 00:56:46,800
+What's the locator?
+
+839
+00:56:46,800 --> 00:56:48,680
+We're waiting for this text. Right?
+
+840
+00:56:48,680 --> 00:56:52,440
+We're not waiting for the button to appear
+or to be visible.
+
+841
+00:56:52,440 --> 00:56:53,040
+Right.
+
+842
+00:56:53,040 --> 00:56:56,440
+So that's why
+we need to put an X passing here.
+
+843
+00:56:57,200 --> 00:56:59,360
+All right, So let's run this
+
+844
+00:57:00,240 --> 00:57:02,920
+and see what's going to happen
+
+845
+00:57:13,680 --> 00:57:17,680
+or be clicked.
+
+846
+00:57:17,680 --> 00:57:18,600
+There we go.
+
+847
+00:57:18,600 --> 00:57:22,640
+So it printed the text
+and it quit the browser.
+
+848
+00:57:23,880 --> 00:57:40,600
+Any questions, guys?
+
+849
+00:57:40,600 --> 00:57:41,040
+Okay.
+
+850
+00:57:41,040 --> 00:57:45,600
+So, Masood, you said you created
+a web type of wait, but you didn't
+
+851
+00:57:46,920 --> 00:57:51,440
+you didn't set the expected conditions
+like I have on line 22.
+
+852
+00:57:51,600 --> 00:57:54,520
+You only have this web drive.
+
+853
+00:57:54,520 --> 00:57:56,760
+Wait.
+
+854
+00:57:56,760 --> 00:57:57,560
+Okay,
+
+855
+00:57:58,680 --> 00:58:01,080
+So set a condition after this
+
+856
+00:58:01,440 --> 00:58:10,160
+and then you will get the text.
+
+857
+00:58:10,160 --> 00:58:11,120
+All right.
+
+858
+00:58:11,200 --> 00:58:13,840
+So no question, it seems
+
+859
+00:58:13,840 --> 00:58:15,960
+everything is good, right?
+
+860
+00:58:17,640 --> 00:58:26,880
+So let's see.
+
+861
+00:58:26,880 --> 00:58:30,120
+So that's about it for explicit
+waits, guys.
+
+862
+00:58:30,480 --> 00:58:33,920
+So I'll give you some homework later on
+and you will be
+
+863
+00:58:34,520 --> 00:58:36,960
+doing a lot of weight in there.
+
+864
+00:58:37,440 --> 00:58:38,240
+Okay.
+
+865
+00:58:38,520 --> 00:58:40,880
+But let me actually
+
+866
+00:58:46,160 --> 00:58:47,160
+that's
+
+867
+00:58:51,000 --> 00:58:51,720
+okay.
+
+868
+00:58:53,000 --> 00:58:54,880
+A lot of waiting. Yes.
+
+869
+00:58:54,880 --> 00:58:55,400
+Okay.
+
+870
+00:58:55,400 --> 00:58:59,920
+So now let's go
+over the fluent weight, guys.
+
+871
+00:59:01,280 --> 00:59:04,880
+Okay. So
+
+872
+00:59:05,640 --> 00:59:08,840
+slow and
+wait, guys, what do we know about Sloane?
+
+873
+00:59:09,040 --> 00:59:11,680
+Anyone did a research on Sloane
+Wade's guys
+
+874
+00:59:21,640 --> 00:59:22,520
+is romantic.
+
+875
+00:59:22,520 --> 00:59:24,720
+Yes, it's.
+
+876
+00:59:25,440 --> 00:59:26,760
+It's slightly waiting.
+
+877
+00:59:26,760 --> 00:59:27,480
+Right.
+
+878
+00:59:29,040 --> 00:59:29,640
+You didn't.
+
+879
+00:59:29,640 --> 00:59:31,880
+Okay, that's fine.
+
+880
+00:59:31,880 --> 00:59:32,520
+All right, guys.
+
+881
+00:59:32,520 --> 00:59:34,920
+So the fluid weight, right?
+
+882
+00:59:35,200 --> 00:59:37,520
+So the fluid weight is considered
+
+883
+00:59:37,520 --> 00:59:41,880
+as a global weight
+as well as the implicit weight.
+
+884
+00:59:42,120 --> 00:59:42,920
+Okay.
+
+885
+00:59:43,240 --> 00:59:46,240
+So but it's used a little bit differently.
+
+886
+00:59:46,760 --> 00:59:50,120
+So Sloane Way
+is used to tell the web driver
+
+887
+00:59:50,440 --> 00:59:54,720
+for certain condition
+as well as its frequency.
+
+888
+00:59:55,080 --> 00:59:55,960
+Okay.
+
+889
+00:59:56,360 --> 00:59:58,360
+Before throwing any exceptions.
+
+890
+00:59:58,800 --> 00:59:59,400
+Okay.
+
+891
+00:59:59,400 --> 01:00:00,360
+So I'll explain to you
+
+892
+01:00:00,360 --> 01:00:04,800
+what kind of frequencies we have
+and we'll see what that means.
+
+893
+01:00:04,800 --> 01:00:05,520
+Okay.
+
+894
+01:00:05,520 --> 01:00:09,360
+So let's put in here.
+
+895
+01:00:09,360 --> 01:00:15,200
+Let's actually put it
+is global weight as well.
+
+896
+01:00:15,200 --> 01:00:19,080
+And it is used to tell
+
+897
+01:00:20,080 --> 01:00:22,880
+Web driver to
+
+898
+01:00:22,880 --> 01:00:24,960
+wait for
+
+899
+01:00:25,400 --> 01:00:26,880
+certain
+
+900
+01:00:27,320 --> 01:00:29,000
+condition
+
+901
+01:00:29,200 --> 01:00:32,400
+as well as
+
+902
+01:00:33,120 --> 01:00:35,520
+its frequency
+
+903
+01:00:38,440 --> 01:00:39,600
+before
+
+904
+01:00:40,120 --> 01:00:43,920
+following and accepting.
+
+905
+01:00:43,920 --> 01:00:44,360
+Okay.
+
+906
+01:00:46,320 --> 01:00:46,880
+All right.
+
+907
+01:00:46,880 --> 01:00:51,760
+So let's go ahead
+and see how it actually looks like.
+
+908
+01:00:51,760 --> 01:00:52,200
+Okay.
+
+909
+01:00:52,200 --> 01:00:55,200
+So I'm going to create a new class here
+
+910
+01:00:55,600 --> 01:00:58,360
+and say fluent
+
+911
+01:01:00,840 --> 01:01:11,400
+Demo.
+
+912
+01:01:11,400 --> 01:01:12,120
+All right.
+
+913
+01:01:12,480 --> 01:01:14,640
+So for the main method in here,
+
+914
+01:01:15,120 --> 01:01:18,240
+so the fluid weight before we get into it.
+
+915
+01:01:18,240 --> 01:01:22,280
+Okay, so the fluent weight is a little bit
+outdated, guys.
+
+916
+01:01:22,560 --> 01:01:27,720
+Okay, So the fluid weight is not
+that used in a real world right now.
+
+917
+01:01:28,080 --> 01:01:28,480
+Okay.
+
+918
+01:01:28,480 --> 01:01:31,800
+So in my project and the previous project
+that I've worked on,
+
+919
+01:01:32,040 --> 01:01:35,160
+we don't really have the font weights
+in our framework.
+
+920
+01:01:35,520 --> 01:01:36,160
+Okay.
+
+921
+01:01:36,160 --> 01:01:39,000
+So fluid weight is has a little bit
+
+922
+01:01:39,000 --> 01:01:42,360
+of different syntax and usual weights.
+
+923
+01:01:42,640 --> 01:01:43,000
+Okay.
+
+924
+01:01:43,000 --> 01:01:47,280
+So implicit weight and you just set it
+once inside your execution and that's it.
+
+925
+01:01:47,600 --> 01:01:50,400
+And then explicit weights. What you do is
+
+926
+01:01:51,600 --> 01:01:52,520
+you explicitly
+
+927
+01:01:52,520 --> 01:01:56,600
+waiting for some elements to appear
+or to be visible
+
+928
+01:01:56,600 --> 01:02:01,440
+to be this display to enable or disable
+it doesn't really matter.
+
+929
+01:02:01,440 --> 01:02:02,040
+Right?
+
+930
+01:02:02,080 --> 01:02:04,680
+So here what happens is
+
+931
+01:02:05,000 --> 01:02:08,520
+we're looking for some frequencies
+you can do,
+
+932
+01:02:09,720 --> 01:02:14,240
+you can set some timeouts,
+you can set some polling time,
+
+933
+01:02:14,520 --> 01:02:18,520
+and you can ignore some exceptions
+with fluent weights.
+
+934
+01:02:18,880 --> 01:02:24,760
+Okay, So this is how it looks like
+we won't be doing any tasks with it
+
+935
+01:02:25,040 --> 01:02:26,480
+because
+
+936
+01:02:26,960 --> 01:02:29,160
+it's not really used in the real world.
+
+937
+01:02:29,320 --> 01:02:32,760
+Okay, So what I'm going to do here,
+I'm going to create
+
+938
+01:02:33,080 --> 01:02:35,840
+an object of the web driver, okay?
+
+939
+01:02:36,240 --> 01:02:39,840
+Travel driver is equal to new prime
+driver.
+
+940
+01:02:40,360 --> 01:02:46,400
+Okay, So and then I'll start
+creating my float weight.
+
+941
+01:02:46,800 --> 01:02:47,560
+Okay.
+
+942
+01:02:47,600 --> 01:02:52,200
+So this is how this looks like.
+
+943
+01:02:52,200 --> 01:02:57,120
+Okay, wait in here.
+
+944
+01:02:57,120 --> 01:02:59,320
+So this is a web driver weight as well.
+
+945
+01:03:00,960 --> 01:03:03,360
+And I'm creating a new object in here.
+
+946
+01:03:03,360 --> 01:03:07,280
+Okay. New
+
+947
+01:03:07,280 --> 01:03:08,760
+flowing weight.
+
+948
+01:03:08,760 --> 01:03:11,280
+Okay, So inside the fluent weight,
+
+949
+01:03:11,280 --> 01:03:13,160
+we should be
+
+950
+01:03:14,880 --> 01:03:16,920
+mentioning the work driver in here.
+
+951
+01:03:17,240 --> 01:03:17,880
+Okay.
+
+952
+01:03:18,240 --> 01:03:23,800
+And now what we can do,
+we can start performing our actions.
+
+953
+01:03:23,800 --> 01:03:26,320
+We can start
+
+954
+01:03:27,360 --> 01:03:30,120
+there's no set property
+because we won't be running anything.
+
+955
+01:03:30,600 --> 01:03:31,080
+Okay?
+
+956
+01:03:31,080 --> 01:03:34,640
+I just want you to see
+how the fluent weight looks like.
+
+957
+01:03:34,880 --> 01:03:35,400
+Okay?
+
+958
+01:03:35,400 --> 01:03:38,720
+And what kind of actions
+you can perform with this.
+
+959
+01:03:39,000 --> 01:03:39,720
+Okay.
+
+960
+01:03:39,720 --> 01:03:41,800
+First of all, you can do with
+
+961
+01:03:43,760 --> 01:03:45,360
+with the float weights.
+
+962
+01:03:45,360 --> 01:03:49,560
+Okay, before we get into that,
+you need to set the driver in here.
+
+963
+01:03:50,000 --> 01:03:50,720
+Okay.
+
+964
+01:03:50,840 --> 01:03:55,480
+So now what you can do,
+you can set a timeout.
+
+965
+01:03:55,680 --> 01:03:56,400
+Okay.
+
+966
+01:03:56,400 --> 01:03:59,120
+So usually when you set an implicit
+
+967
+01:03:59,120 --> 01:04:02,320
+weight, how many how many
+seconds you get a timeout
+
+968
+01:04:04,360 --> 01:04:05,520
+with 20 seconds.
+
+969
+01:04:05,520 --> 01:04:06,160
+Right.
+
+970
+01:04:06,160 --> 01:04:10,400
+So what you can do in here,
+you can set your own
+
+971
+01:04:12,560 --> 01:04:13,560
+timeout.
+
+972
+01:04:13,560 --> 01:04:14,280
+Okay.
+
+973
+01:04:14,280 --> 01:04:19,960
+And you need to specify your time
+units as well.
+
+974
+01:04:20,280 --> 01:04:23,280
+Okay. You can say duration
+
+975
+01:04:23,280 --> 01:04:26,160
+that of seconds.
+
+976
+01:04:26,720 --> 01:04:27,280
+Okay.
+
+977
+01:04:27,440 --> 01:04:30,880
+And you can do 20 seconds in here.
+
+978
+01:04:31,520 --> 01:04:33,080
+Okay.
+
+979
+01:04:33,080 --> 01:04:36,240
+So now this is how you set your timeout.
+
+980
+01:04:36,800 --> 01:04:37,640
+Okay.
+
+981
+01:04:37,640 --> 01:04:42,560
+And then what you can do after that,
+you can set the calling time.
+
+982
+01:04:42,920 --> 01:04:46,120
+Okay.
+
+983
+01:04:46,120 --> 01:04:51,840
+Calling time in here, calling
+every let's say you pull every 5 seconds.
+
+984
+01:04:51,960 --> 01:04:52,560
+Okay.
+
+985
+01:04:52,560 --> 01:04:58,120
+Again, duration.
+
+986
+01:04:58,120 --> 01:05:01,200
+Duration of seconds, five. Okay.
+
+987
+01:05:01,560 --> 01:05:04,960
+So does anyone know what polling
+
+988
+01:05:04,960 --> 01:05:13,080
+means in here, guys?
+
+989
+01:05:13,080 --> 01:05:14,000
+Kind of looping.
+
+990
+01:05:14,000 --> 01:05:16,680
+Yeah, that's that's a very good idea.
+
+991
+01:05:16,680 --> 01:05:19,400
+So calling every 5 seconds
+
+992
+01:05:19,800 --> 01:05:23,640
+means that whenever you start
+finding your elements.
+
+993
+01:05:23,960 --> 01:05:26,400
+Okay, so let's go back to this example.
+
+994
+01:05:26,840 --> 01:05:30,000
+So not this one to the implicit weights.
+
+995
+01:05:30,240 --> 01:05:32,880
+Okay. So when you set an implicit rate
+
+996
+01:05:34,200 --> 01:05:36,240
+and you
+
+997
+01:05:36,440 --> 01:05:40,800
+set it for 20 seconds
+and you try to find that element, okay,
+
+998
+01:05:41,640 --> 01:05:44,840
+So your web driver will start looking
+
+999
+01:05:44,840 --> 01:05:48,840
+for that element every 0.5 seconds.
+
+1000
+01:05:49,320 --> 01:05:50,160
+Okay.
+
+1001
+01:05:50,360 --> 01:05:54,440
+So every half second
+it will go ahead and start looking again.
+
+1002
+01:05:54,920 --> 01:05:55,760
+Okay.
+
+1003
+01:05:55,760 --> 01:05:59,160
+But here, when you set your polling
+for 5 seconds,
+
+1004
+01:05:59,480 --> 01:06:03,280
+your web driver will skip that 00.
+
+1005
+01:06:03,280 --> 01:06:06,720
+5 seconds and it will start looking
+for your elements
+
+1006
+01:06:07,840 --> 01:06:10,040
+after each 5 seconds.
+
+1007
+01:06:11,040 --> 01:06:16,160
+Is that clear, guys?
+
+1008
+01:06:16,160 --> 01:06:18,840
+So this is what polling means in here.
+
+1009
+01:06:19,280 --> 01:06:24,600
+So you basically look for your element
+every 5 seconds.
+
+1010
+01:06:24,840 --> 01:06:27,840
+Okay.
+
+1011
+01:06:27,840 --> 01:06:31,400
+And here
+and then what you can also do with
+
+1012
+01:06:33,120 --> 01:06:34,120
+I'll repeat, polling.
+
+1013
+01:06:34,120 --> 01:06:34,840
+Okay.
+
+1014
+01:06:35,800 --> 01:06:38,520
+So let me finish this one in here.
+
+1015
+01:06:38,520 --> 01:06:43,080
+And what you can also do,
+you can also ignore some exceptions.
+
+1016
+01:06:43,800 --> 01:06:44,520
+Okay.
+
+1017
+01:06:44,520 --> 01:06:49,280
+Which is no, let's say
+we have no such element exception.
+
+1018
+01:06:49,600 --> 01:06:51,960
+Okay.
+
+1019
+01:06:51,960 --> 01:06:53,520
+The class.
+
+1020
+01:06:53,520 --> 01:06:59,360
+Then you can close your statement.
+
+1021
+01:06:59,360 --> 01:06:59,880
+Okay.
+
+1022
+01:06:59,880 --> 01:07:03,360
+Calling guys. So
+
+1023
+01:07:04,440 --> 01:07:05,520
+in general, when you
+
+1024
+01:07:05,520 --> 01:07:08,200
+set an implicit way,
+it waits for 20 seconds.
+
+1025
+01:07:08,520 --> 01:07:12,200
+So it will be looking for the element
+
+1026
+01:07:12,200 --> 01:07:15,480
+you trying to find each half seconds.
+
+1027
+01:07:15,840 --> 01:07:18,360
+Okay, So it will be looking.
+
+1028
+01:07:18,600 --> 01:07:24,880
+So it looks for the element it did find
+and it's looking again in 0.5 seconds.
+
+1029
+01:07:25,040 --> 01:07:25,800
+Okay.
+
+1030
+01:07:25,800 --> 01:07:28,960
+So but if you set your fluent weight
+
+1031
+01:07:29,160 --> 01:07:32,480
+and you set your polling to 5 seconds,
+
+1032
+01:07:32,480 --> 01:07:37,320
+it will start looking for your elements
+every 5 seconds.
+
+1033
+01:07:37,840 --> 01:07:41,040
+Not 0.5, but 5 seconds.
+
+1034
+01:07:41,600 --> 01:07:42,000
+Okay.
+
+1035
+01:07:42,000 --> 01:07:45,600
+Is that clear?
+
+1036
+01:07:45,600 --> 01:07:46,760
+Does it mean it's slower?
+
+1037
+01:07:46,760 --> 01:07:49,360
+It is a little bit slower because if it
+
+1038
+01:07:50,120 --> 01:07:52,800
+if your element is available inside
+
+1039
+01:07:52,800 --> 01:07:56,000
+2 seconds, then it will have to wait in
+
+1040
+01:07:56,520 --> 01:07:59,680
+for 5 seconds for the next iteration.
+
+1041
+01:08:00,920 --> 01:08:12,840
+Okay.
+
+1042
+01:08:12,840 --> 01:08:22,520
+Any questions, guys,
+when you will use this?
+
+1043
+01:08:22,760 --> 01:08:26,080
+This is used
+most of the time in frameworks.
+
+1044
+01:08:26,080 --> 01:08:31,200
+Okay, So slow and wait is, as I said, it's
+a global weight, right?
+
+1045
+01:08:31,200 --> 01:08:35,480
+So fluid weight will be written
+only once is implicit.
+
+1046
+01:08:35,480 --> 01:08:36,960
+Wait. Okay.
+
+1047
+01:08:36,960 --> 01:08:41,560
+So you can write it once in your execution
+and it will behave
+
+1048
+01:08:41,560 --> 01:08:47,400
+as how you set your timeouts,
+how you set if falling or what.
+
+1049
+01:08:47,560 --> 01:08:51,960
+Whenever you ignore something,
+this is going to be your fluent way.
+
+1050
+01:08:51,960 --> 01:08:54,880
+Okay, so you don't have to specify
+this multiple times
+
+1051
+01:08:55,080 --> 01:09:04,080
+in multiple places.
+
+1052
+01:09:04,080 --> 01:09:07,680
+It can be the same value in here
+if you want to do it.
+
+1053
+01:09:07,680 --> 01:09:10,040
+Five and this is five.
+
+1054
+01:09:10,240 --> 01:09:12,960
+But that doesn't
+that won't make sense, right?
+
+1055
+01:09:13,160 --> 01:09:14,520
+So why would you wait?
+
+1056
+01:09:14,520 --> 01:09:16,960
+Why would you time out in 5 seconds and
+
+1057
+01:09:18,360 --> 01:09:20,040
+you pull every 5 seconds?
+
+1058
+01:09:20,040 --> 01:09:21,200
+That wouldn't make sense.
+
+1059
+01:09:21,200 --> 01:09:23,760
+So it's better not to set it this way
+
+1060
+01:09:24,600 --> 01:09:26,880
+Logically, it wouldn't be correct.
+
+1061
+01:09:26,880 --> 01:09:41,000
+Right? Yes.
+
+1062
+01:09:41,000 --> 01:09:44,120
+We're not interacting
+with any web elements here
+
+1063
+01:09:44,600 --> 01:09:48,840
+as we don't interact
+with implicit weights.
+
+1064
+01:09:48,840 --> 01:09:49,160
+Right.
+
+1065
+01:09:49,160 --> 01:09:52,640
+You set it
+so it's going to run in the background.
+
+1066
+01:09:54,440 --> 01:09:56,000
+Okay.
+
+1067
+01:09:56,000 --> 01:09:59,600
+But in explicit way,
+what you do, you interact with the
+
+1068
+01:10:00,120 --> 01:10:03,680
+with the specific elements
+that you want to set
+
+1069
+01:10:03,680 --> 01:10:07,400
+conditions for.
+
+1070
+01:10:07,400 --> 01:10:12,400
+That's why we set that implicit
+and fluent weights are global weights
+
+1071
+01:10:13,680 --> 01:10:16,520
+because you just set only once
+and it'll perform
+
+1072
+01:10:16,520 --> 01:10:30,440
+for the whole execution.
+
+1073
+01:10:30,440 --> 01:10:31,080
+Okay.
+
+1074
+01:10:31,080 --> 01:10:50,880
+Any other questions, guys?
+
+1075
+01:10:50,880 --> 01:10:51,840
+You can do an example.
+
+1076
+01:10:51,840 --> 01:10:55,080
+Yeah, just use this the same.
+
+1077
+01:10:55,080 --> 01:10:59,520
+Whereas a phone
+we just use the same way in here that
+
+1078
+01:11:00,760 --> 01:11:03,000
+this use this in any of these examples.
+
+1079
+01:11:03,320 --> 01:11:03,720
+Okay.
+
+1080
+01:11:03,720 --> 01:11:17,360
+And it should work us.
+
+1081
+01:11:17,360 --> 01:11:17,680
+All right.
+
+1082
+01:11:17,680 --> 01:11:17,880
+Yeah.
+
+1083
+01:11:17,880 --> 01:11:19,280
+So let's take a break.
+
+1084
+01:11:19,280 --> 01:11:23,320
+815 right.
+
+1085
+01:11:23,320 --> 01:11:26,600
+And then,
+
+1086
+01:11:26,600 --> 01:11:30,000
+and then we'll continue with the
+
+1087
+01:11:31,080 --> 01:11:33,720
+with the web tables. Okay.
+
+1088
+01:11:33,720 --> 01:11:36,000
+So let's get 16 minutes break
+
+1089
+01:11:36,240 --> 01:11:39,000
+and then we'll continue
+
+1090
+01:11:39,800 --> 01:11:42,840
+the second half.
+
+1091
+01:11:42,840 --> 01:11:43,080
+Okay?
+
+1092
+01:11:43,080 --> 01:11:46,200
+I'll see you guys at 830
+
+1093
+01:11:46,320 --> 01:29:38,400
+here.
+
+1094
+01:29:38,400 --> 01:29:39,920
+All right, guys.
+
+1095
+01:29:40,760 --> 01:29:41,640
+Okay.
+
+1096
+01:29:41,880 --> 01:29:45,560
+Gave you three more minutes.
+
+1097
+01:29:45,560 --> 01:29:46,680
+Give you three more minutes.
+
+1098
+01:29:46,680 --> 01:29:47,160
+Let's see.
+
+1099
+01:29:47,160 --> 01:29:50,040
+I hope everyone is back, guys.
+
+1100
+01:29:50,600 --> 01:29:52,200
+Exactly.
+
+1101
+01:29:52,520 --> 01:29:53,800
+There you go.
+
+1102
+01:29:54,360 --> 01:30:05,920
+Okay So let's continue.
+
+1103
+01:30:05,920 --> 01:30:06,360
+Okay.
+
+1104
+01:30:06,360 --> 01:30:10,840
+So I see some people asking for
+for an example for fluent weight.
+
+1105
+01:30:11,120 --> 01:30:11,480
+Okay.
+
+1106
+01:30:11,480 --> 01:30:16,440
+So what we're going to do
+is I just pinged Moazzam
+
+1107
+01:30:17,520 --> 01:30:20,400
+so that he can go over the review.
+
+1108
+01:30:20,960 --> 01:30:22,560
+Okay. If he can find any
+
+1109
+01:30:23,880 --> 01:30:26,520
+any examples of fluent weight
+
+1110
+01:30:26,520 --> 01:30:29,400
+is going to show you and then you're going
+to get more clarity on that.
+
+1111
+01:30:29,600 --> 01:30:33,280
+Okay, guys, because we have to right now
+we have to move on to the
+
+1112
+01:30:33,640 --> 01:30:35,560
+to handling the web tables.
+
+1113
+01:30:35,560 --> 01:30:39,160
+Okay.
+
+1114
+01:30:39,160 --> 01:30:39,600
+All right.
+
+1115
+01:30:39,600 --> 01:30:42,680
+But as I said before, guys, fluid weight
+
+1116
+01:30:42,680 --> 01:30:44,880
+do not really
+
+1117
+01:30:45,760 --> 01:30:47,840
+dive deep into this topic
+
+1118
+01:30:48,000 --> 01:30:51,480
+because you won't be really using
+any fluid weight at work.
+
+1119
+01:30:51,880 --> 01:30:54,000
+As I said, it's a little bit outdated.
+
+1120
+01:30:54,000 --> 01:30:57,040
+It's it's rarely used now.
+
+1121
+01:30:57,600 --> 01:31:00,040
+Okay.
+
+1122
+01:31:00,040 --> 01:31:00,840
+All right.
+
+1123
+01:31:00,840 --> 01:31:06,480
+So let's see
+
+1124
+01:31:08,200 --> 01:31:11,160
+the notes.
+
+1125
+01:31:11,160 --> 01:31:11,920
+Okay.
+
+1126
+01:31:12,200 --> 01:31:16,160
+So now, guys, let's go over the work
+tables.
+
+1127
+01:31:16,440 --> 01:31:18,240
+Okay.
+
+1128
+01:31:18,240 --> 01:31:26,400
+So let's see if I have your table.
+
+1129
+01:31:26,400 --> 01:31:29,080
+Okay.
+
+1130
+01:31:29,080 --> 01:31:33,720
+There we go.
+
+1131
+01:31:33,720 --> 01:31:36,840
+Okay, before we dive into the web tables,
+okay,
+
+1132
+01:31:37,320 --> 01:31:40,200
+what are the web tables on the Web page?
+
+1133
+01:31:40,200 --> 01:31:40,560
+There's
+
+1134
+01:31:42,840 --> 01:31:45,000
+anyone doing research on the web
+tables? Yes.
+
+1135
+01:31:45,840 --> 01:31:46,920
+Let's see
+
+1136
+01:32:04,160 --> 01:32:05,400
+a little bit just now.
+
+1137
+01:32:05,400 --> 01:32:14,480
+Okay, That's fine.
+
+1138
+01:32:14,480 --> 01:32:15,920
+Next week's topic.
+
+1139
+01:32:15,920 --> 01:32:20,200
+No, it's probably
+if you look at the slides, they are.
+
+1140
+01:32:20,200 --> 01:32:24,040
+No, it should be this week's topic
+now, Class eight, guys.
+
+1141
+01:32:24,080 --> 01:32:24,680
+Okay.
+
+1142
+01:32:27,440 --> 01:32:27,960
+Okay.
+
+1143
+01:32:27,960 --> 01:32:31,840
+So anything which has rows and columns.
+
+1144
+01:32:31,840 --> 01:32:34,120
+Okay, there can be static and dynamic.
+
+1145
+01:32:34,120 --> 01:32:35,320
+Very good.
+
+1146
+01:32:35,320 --> 01:32:39,480
+Okay, so web tables,
+first of all, are what, on the web
+
+1147
+01:32:39,480 --> 01:32:42,760
+page, guys,
+what are we always looking for on the web
+
+1148
+01:32:42,760 --> 01:32:47,800
+page?
+
+1149
+01:32:47,800 --> 01:32:50,400
+Okay. It is a web element, right?
+
+1150
+01:32:50,760 --> 01:32:53,000
+So web tables are
+
+1151
+01:32:54,120 --> 01:32:57,040
+on the Web page, which is constructed
+
+1152
+01:32:57,240 --> 01:32:59,880
+by having rows and columns.
+
+1153
+01:33:00,160 --> 01:33:00,960
+Okay.
+
+1154
+01:33:00,960 --> 01:33:03,240
+And as Mark
+
+1155
+01:33:05,880 --> 01:33:10,160
+noticed,
+that it can be static and dynamic.
+
+1156
+01:33:10,440 --> 01:33:11,120
+Right.
+
+1157
+01:33:11,120 --> 01:33:14,400
+So and we will go over
+both of those today.
+
+1158
+01:33:14,880 --> 01:33:17,160
+Okay. So web tables
+
+1159
+01:33:18,960 --> 01:33:21,000
+are our elements
+
+1160
+01:33:21,800 --> 01:33:24,120
+on the Web page,
+
+1161
+01:33:24,840 --> 01:33:30,000
+right.
+
+1162
+01:33:30,000 --> 01:33:33,080
+Which are constructed
+
+1163
+01:33:33,720 --> 01:33:36,000
+by having
+
+1164
+01:33:37,440 --> 01:33:39,800
+rows and columns.
+
+1165
+01:33:40,720 --> 01:33:41,320
+Okay.
+
+1166
+01:33:41,400 --> 01:33:44,760
+And types of web
+
+1167
+01:33:44,760 --> 01:33:50,400
+tables.
+
+1168
+01:33:50,400 --> 01:33:55,800
+First of all, it can be static web tables.
+
+1169
+01:33:55,800 --> 01:33:58,800
+The second one is dynamic
+
+1170
+01:34:00,440 --> 01:34:01,560
+Web tables.
+
+1171
+01:34:01,560 --> 01:34:03,120
+Right. Okay.
+
+1172
+01:34:03,120 --> 01:34:06,240
+So obviously static table guys,
+
+1173
+01:34:06,240 --> 01:34:12,240
+what can it be?
+
+1174
+01:34:12,240 --> 01:34:15,320
+Rows and columns are fixed, right?
+
+1175
+01:34:15,520 --> 01:34:19,440
+So dynamic would not be fixed
+
+1176
+01:34:19,440 --> 01:34:24,240
+dynamic will be the information
+inside the web table will be changing some
+
+1177
+01:34:24,840 --> 01:34:27,680
+some rows will be deleting or more rows
+
+1178
+01:34:27,920 --> 01:34:30,960
+will be adding inside that table.
+
+1179
+01:34:31,800 --> 01:34:32,520
+Okay.
+
+1180
+01:34:32,560 --> 01:34:35,080
+So let's go ahead
+
+1181
+01:34:35,440 --> 01:34:39,280
+and take a look how the web table is.
+
+1182
+01:34:39,280 --> 01:34:42,360
+Can inside our HTML.
+
+1183
+01:34:42,720 --> 01:34:47,280
+Okay, So let me do this.
+
+1184
+01:34:47,960 --> 01:34:48,440
+Okay.
+
+1185
+01:34:48,440 --> 01:34:51,520
+So this is our table, right?
+
+1186
+01:34:51,520 --> 01:34:53,880
+So let me put this bigger in here.
+
+1187
+01:34:54,640 --> 01:34:55,360
+Okay.
+
+1188
+01:34:55,680 --> 01:35:00,360
+So if you look in here,
+what kind of tag we have
+
+1189
+01:35:00,360 --> 01:35:07,800
+for tables, guys?
+
+1190
+01:35:07,800 --> 01:35:09,840
+Pretty straightforward, right?
+
+1191
+01:35:09,880 --> 01:35:11,400
+It's a taped table tag.
+
+1192
+01:35:12,360 --> 01:35:13,200
+So now
+
+1193
+01:35:13,200 --> 01:35:18,560
+our table is consist is consisted
+of two different parts.
+
+1194
+01:35:18,840 --> 01:35:19,640
+Okay.
+
+1195
+01:35:19,680 --> 01:35:25,480
+So this is the first part,
+which is a table head.
+
+1196
+01:35:25,480 --> 01:35:30,520
+And then the second part
+is the table body.
+
+1197
+01:35:31,200 --> 01:35:35,240
+Okay, so and this kind of tables,
+
+1198
+01:35:36,280 --> 01:35:39,480
+they don't appear always okay.
+
+1199
+01:35:39,600 --> 01:35:46,120
+Sometimes developers include the header
+of the table inside the body as well.
+
+1200
+01:35:46,440 --> 01:35:46,960
+Okay.
+
+1201
+01:35:46,960 --> 01:35:51,280
+In this case, what we have
+we have a table, we have a head in here
+
+1202
+01:35:51,440 --> 01:35:54,040
+and we have t body separately.
+
+1203
+01:35:54,360 --> 01:35:56,080
+Okay. Is that clear, guys?
+
+1204
+01:35:56,080 --> 01:36:02,400
+Any questions on that?
+
+1205
+01:36:02,400 --> 01:36:03,720
+Okay, good.
+
+1206
+01:36:03,720 --> 01:36:07,320
+All right,
+so now let's open up our header.
+
+1207
+01:36:07,680 --> 01:36:09,720
+Okay, So let's expand this.
+
+1208
+01:36:09,720 --> 01:36:11,480
+So what do we have in here? This.
+
+1209
+01:36:11,480 --> 01:36:15,120
+So I have a header, and then I have a t r.
+
+1210
+01:36:15,560 --> 01:36:16,120
+Okay.
+
+1211
+01:36:16,120 --> 01:36:19,320
+What does it stand for?
+
+1212
+01:36:19,320 --> 01:36:21,840
+Anyone knows their role, right?
+
+1213
+01:36:21,840 --> 01:36:25,480
+So t r stands for table of row.
+
+1214
+01:36:25,920 --> 01:36:26,320
+Okay.
+
+1215
+01:36:26,320 --> 01:36:34,480
+And then t h goes in here.
+
+1216
+01:36:34,480 --> 01:36:36,000
+Table headings.
+
+1217
+01:36:36,000 --> 01:36:38,600
+Exactly. Or you can do
+
+1218
+01:36:39,640 --> 01:36:41,320
+it. If it's under the
+
+1219
+01:36:41,320 --> 01:36:44,400
+t hat, it's going to be t t h
+
+1220
+01:36:44,400 --> 01:36:48,440
+because it should be the heading
+of that column.
+
+1221
+01:36:48,840 --> 01:36:50,640
+Right. Okay.
+
+1222
+01:36:50,640 --> 01:36:54,760
+So now let's
+go ahead and take a look at the body.
+
+1223
+01:36:55,200 --> 01:36:56,040
+Okay.
+
+1224
+01:36:56,200 --> 01:36:58,920
+So if you look at the body,
+what do I have in here,
+
+1225
+01:36:58,920 --> 01:37:04,080
+guys, again, Right.
+
+1226
+01:37:04,080 --> 01:37:06,960
+We have multiple, multiple roles.
+
+1227
+01:37:07,200 --> 01:37:12,560
+So if I open the rows up and expand these,
+what are we having in here?
+
+1228
+01:37:13,280 --> 01:37:18,720
+T What is the T stand for, guys?
+
+1229
+01:37:19,120 --> 01:37:21,600
+The table data.
+
+1230
+01:37:21,600 --> 01:37:23,080
+Right? Exactly.
+
+1231
+01:37:23,080 --> 01:37:23,680
+There we go.
+
+1232
+01:37:23,680 --> 01:37:27,840
+So basically you guys are
+tables are consist
+
+1233
+01:37:28,360 --> 01:37:31,640
+consisted of table header, right?
+
+1234
+01:37:31,640 --> 01:37:35,680
+Which has one row and it has the headings.
+
+1235
+01:37:36,040 --> 01:37:36,400
+Right?
+
+1236
+01:37:36,400 --> 01:37:40,360
+And then what we have in here
+we have a table body,
+
+1237
+01:37:40,560 --> 01:37:45,480
+we have a table rows again
+and we have the table data.
+
+1238
+01:37:47,160 --> 01:37:50,680
+Okay, so let's go ahead in here
+
+1239
+01:37:51,880 --> 01:37:55,960
+and say with tables
+
+1240
+01:37:59,120 --> 01:38:02,320
+consist of
+
+1241
+01:38:03,960 --> 01:38:06,120
+different sections
+
+1242
+01:38:06,960 --> 01:38:09,480
+or we can say different parts, right?
+
+1243
+01:38:10,800 --> 01:38:13,800
+So okay, first of all, what we start with
+
+1244
+01:38:14,000 --> 01:38:17,040
+is we start with table, right?
+
+1245
+01:38:17,040 --> 01:38:20,200
+And we close the table.
+
+1246
+01:38:20,920 --> 01:38:23,480
+Okay, so what do we have inside the table,
+
+1247
+01:38:23,480 --> 01:38:32,640
+guys?
+
+1248
+01:38:32,640 --> 01:38:35,320
+We have the header and the body, right?
+
+1249
+01:38:35,320 --> 01:38:37,520
+So let's start with a T hat, right?
+
+1250
+01:38:37,960 --> 01:38:40,880
+So we have t hat in here
+
+1251
+01:38:41,920 --> 01:38:45,560
+and what we can do
+
+1252
+01:38:48,760 --> 01:38:49,880
+t hat is.
+
+1253
+01:38:49,880 --> 01:38:52,200
+All right, so let's take this here
+
+1254
+01:38:53,760 --> 01:38:55,920
+and let's take this year.
+
+1255
+01:38:55,920 --> 01:38:58,920
+Okay?
+What Else do we have inside the t hat?
+
+1256
+01:38:58,920 --> 01:39:03,960
+What does it come next?
+
+1257
+01:39:03,960 --> 01:39:04,920
+Rose Right.
+
+1258
+01:39:04,920 --> 01:39:08,120
+So and then what we're going to have t
+
+1259
+01:39:08,160 --> 01:39:11,400
+are in here
+
+1260
+01:39:11,400 --> 01:39:12,720
+and then
+
+1261
+01:39:15,720 --> 01:39:16,400
+t are
+
+1262
+01:39:18,560 --> 01:39:20,200
+and inside the rows.
+
+1263
+01:39:20,200 --> 01:39:22,160
+What are we going to have
+if it's our header?
+
+1264
+01:39:22,160 --> 01:39:26,840
+Guys,
+
+1265
+01:39:26,840 --> 01:39:30,000
+we're going to have TDs in here.
+
+1266
+01:39:30,160 --> 01:39:31,880
+We're inside the header
+
+1267
+01:39:31,880 --> 01:39:35,160
+guys, we're inside the header,
+
+1268
+01:39:35,160 --> 01:39:42,480
+we're inside the rows of the header.
+
+1269
+01:39:42,480 --> 01:39:44,040
+Let's take a look in here, guys.
+
+1270
+01:39:44,040 --> 01:39:46,560
+What are we having in here? Guys,
+
+1271
+01:39:46,560 --> 01:39:51,160
+What is the tag?
+
+1272
+01:39:51,160 --> 01:39:53,760
+The tag is the headings.
+
+1273
+01:39:53,760 --> 01:39:56,520
+Write the headings in here.
+
+1274
+01:39:57,000 --> 01:39:59,640
+Okay. All right.
+
+1275
+01:39:59,640 --> 01:40:03,160
+So what we can do in here. So
+
+1276
+01:40:07,400 --> 01:40:08,760
+h All right.
+
+1277
+01:40:08,760 --> 01:40:13,240
+And then close the not to see H
+
+1278
+01:40:13,760 --> 01:40:20,760
+And what we can also say
+this is our column data or a heading.
+
+1279
+01:40:21,360 --> 01:40:22,000
+Okay.
+
+1280
+01:40:22,120 --> 01:40:26,520
+The now, okay, so this is what we have
+inside the header, right?
+
+1281
+01:40:26,880 --> 01:40:30,320
+So after the header, what we have
+
+1282
+01:40:30,320 --> 01:40:33,600
+is our t body, right?
+
+1283
+01:40:34,120 --> 01:40:36,240
+So do we have inside the T body guys
+
+1284
+01:40:48,800 --> 01:40:50,240
+we have again
+
+1285
+01:40:50,240 --> 01:40:52,720
+the rows inside the T body
+
+1286
+01:40:57,840 --> 01:41:00,640
+and then inside the rows.
+
+1287
+01:41:00,640 --> 01:41:05,400
+Guys, what we're going to have,
+we have the x data, right?
+
+1288
+01:41:05,760 --> 01:41:07,400
+So here
+
+1289
+01:41:08,280 --> 01:41:11,280
+what we can do is
+
+1290
+01:41:12,600 --> 01:41:16,800
+put table there.
+
+1291
+01:41:17,200 --> 01:41:20,240
+Okay, so this is how web tables
+
+1292
+01:41:20,240 --> 01:41:23,880
+are structured inside our h html.
+
+1293
+01:41:23,960 --> 01:41:24,480
+Okay.
+
+1294
+01:41:24,480 --> 01:41:27,680
+And as I said before, guys,
+if you don't see the header
+
+1295
+01:41:27,680 --> 01:41:31,320
+inside the table
+sometimes nothing to worry about.
+
+1296
+01:41:31,320 --> 01:41:34,560
+It's just a part of the body. Okay?
+
+1297
+01:41:34,560 --> 01:41:37,760
+So sometimes it comes with a t hat,
+sometimes
+
+1298
+01:41:37,760 --> 01:41:41,040
+it's in the header is inside the T body.
+
+1299
+01:41:41,040 --> 01:41:44,280
+So this is how everything is designed
+quite develop.
+
+1300
+01:41:44,600 --> 01:41:48,440
+Okay, so here we don't
+we can't really do anything in here.
+
+1301
+01:41:48,720 --> 01:41:49,240
+Okay?
+
+1302
+01:41:49,240 --> 01:41:51,360
+We just have to
+
+1303
+01:41:53,160 --> 01:41:55,120
+find our elements accordingly.
+
+1304
+01:41:55,120 --> 01:41:56,600
+Okay. So
+
+1305
+01:42:00,000 --> 01:42:02,480
+this one,
+this is the closing statement, right?
+
+1306
+01:42:02,960 --> 01:42:08,840
+So you open the t r
+you close the t, right.
+
+1307
+01:42:08,840 --> 01:42:15,160
+So if you look in here, so you open the
+the tag and you close the tag.
+
+1308
+01:42:15,600 --> 01:42:16,200
+Right.
+
+1309
+01:42:16,200 --> 01:42:18,480
+That's you put that slash.
+
+1310
+01:42:19,200 --> 01:42:20,040
+Okay.
+
+1311
+01:42:20,080 --> 01:42:24,240
+So if you see here, you open your row
+and you close zero in here.
+
+1312
+01:42:24,640 --> 01:42:27,560
+Okay, so that's the closing of your tag.
+
+1313
+01:42:28,320 --> 01:42:29,880
+Okay.
+
+1314
+01:42:29,880 --> 01:42:32,040
+So now let's go back here.
+
+1315
+01:42:32,440 --> 01:42:35,280
+Any questions on the structure of the web
+tables,
+
+1316
+01:42:35,280 --> 01:42:47,040
+guys?
+
+1317
+01:42:47,040 --> 01:42:47,880
+Player so far.
+
+1318
+01:42:47,880 --> 01:42:50,520
+Okay, good.
+
+1319
+01:42:50,520 --> 01:42:51,360
+Okay.
+
+1320
+01:42:51,680 --> 01:42:55,080
+So now what
+we going to do in this example?
+
+1321
+01:42:55,080 --> 01:43:00,680
+Guys, We're going to go ahead and start
+navigate this Web page.
+
+1322
+01:43:00,840 --> 01:43:03,520
+Okay. Well, well,
+
+1323
+01:43:03,520 --> 01:43:03,840
+well.
+
+1324
+01:43:03,840 --> 01:43:06,360
+Identify this table.
+
+1325
+01:43:06,800 --> 01:43:07,520
+What we're going to do
+
+1326
+01:43:07,520 --> 01:43:11,560
+is we're going to see how many rows
+we have inside our table.
+
+1327
+01:43:11,880 --> 01:43:13,560
+Okay. And then
+
+1328
+01:43:15,040 --> 01:43:16,920
+what we're going to do,
+
+1329
+01:43:17,080 --> 01:43:19,720
+we're going to get all the text
+from the rows.
+
+1330
+01:43:19,720 --> 01:43:22,640
+We're going to print it out
+inside our console.
+
+1331
+01:43:23,040 --> 01:43:24,600
+Okay. Is it clear, guys?
+
+1332
+01:43:24,600 --> 01:43:30,320
+Any questions before we get started?
+
+1333
+01:43:30,320 --> 01:43:30,960
+Okay.
+
+1334
+01:43:31,440 --> 01:43:33,160
+Seems like not right.
+
+1335
+01:43:33,160 --> 01:43:36,080
+Okay, So let me create
+
+1336
+01:43:38,520 --> 01:43:39,720
+a new
+
+1337
+01:43:40,320 --> 01:43:42,920
+class in here and length
+
+1338
+01:43:44,280 --> 01:43:45,720
+study
+
+1339
+01:43:46,400 --> 01:43:53,240
+of table.
+
+1340
+01:43:53,240 --> 01:43:56,720
+Also. Okay.
+
+1341
+01:43:56,800 --> 01:44:05,960
+This will change
+
+1342
+01:44:05,960 --> 01:44:17,360
+my view of all your.
+
+1343
+01:44:17,360 --> 01:44:20,720
+Okay, so we're navigating
+to that website, right?
+
+1344
+01:44:21,120 --> 01:44:26,720
+So now what I need to do,
+I need to locate this
+
+1345
+01:44:27,920 --> 01:44:28,880
+table.
+
+1346
+01:44:28,880 --> 01:44:31,520
+Okay. Okay.
+
+1347
+01:44:31,520 --> 01:44:39,920
+Let me send you the length.
+
+1348
+01:44:39,920 --> 01:44:41,560
+There we go. Okay, guys.
+
+1349
+01:44:41,560 --> 01:44:44,960
+So now what I am going to do,
+
+1350
+01:44:44,960 --> 01:44:49,200
+I am going to locate this element
+step by step.
+
+1351
+01:44:49,560 --> 01:44:50,280
+Okay?
+
+1352
+01:44:50,280 --> 01:44:55,440
+So what I need in here,
+I need to print out
+
+1353
+01:44:55,440 --> 01:44:58,960
+all the raw information.
+
+1354
+01:44:59,320 --> 01:45:04,080
+Okay, so what I'm going to do.
+
+1355
+01:45:04,160 --> 01:45:08,200
+So most of the time, guys, whenever you're
+interacting with the tables,
+
+1356
+01:45:08,480 --> 01:45:12,680
+okay, what you want to do,
+you want to get access to the rows.
+
+1357
+01:45:12,960 --> 01:45:15,840
+And if you want to do that,
+
+1358
+01:45:16,080 --> 01:45:19,400
+then most of the time
+you will be using an expat.
+
+1359
+01:45:19,920 --> 01:45:22,920
+Okay, so what I will do here
+
+1360
+01:45:23,880 --> 01:45:27,240
+are start locating my rows.
+
+1361
+01:45:27,720 --> 01:45:30,160
+Okay, so
+
+1362
+01:45:31,920 --> 01:45:33,120
+in here
+
+1363
+01:45:34,400 --> 01:45:36,480
+I'll do a double slash, right?
+
+1364
+01:45:36,480 --> 01:45:39,560
+I have my table.
+
+1365
+01:45:39,560 --> 01:45:42,960
+And what am I identifying
+my table by guys in here?
+
+1366
+01:45:44,040 --> 01:45:46,920
+What do we have that we can identify it by
+
+1367
+01:45:49,160 --> 01:45:50,640
+the ID, Right.
+
+1368
+01:45:50,640 --> 01:45:51,760
+So I have an I.D.
+
+1369
+01:45:51,760 --> 01:45:53,880
+in here is equal to
+
+1370
+01:45:56,520 --> 01:45:58,400
+task table.
+
+1371
+01:45:58,400 --> 01:46:00,800
+Right. So one of one. Right.
+
+1372
+01:46:01,320 --> 01:46:06,840
+So what I want to do,
+I want to capture all the rows right now.
+
+1373
+01:46:07,160 --> 01:46:16,880
+Okay, So what I need to do, guys in here.
+
+1374
+01:46:16,880 --> 01:46:19,520
+So if I want to capture all their rows,
+
+1375
+01:46:21,080 --> 01:46:24,720
+how would do this?
+
+1376
+01:46:24,720 --> 01:46:26,920
+There we go. So
+
+1377
+01:46:27,120 --> 01:46:30,920
+after the table, I want to go to my body.
+
+1378
+01:46:31,200 --> 01:46:31,600
+Right?
+
+1379
+01:46:31,600 --> 01:46:37,200
+So what I can do is put a slash in here
+and do t bottom right.
+
+1380
+01:46:37,320 --> 01:46:40,560
+So now let's expand our body in here.
+
+1381
+01:46:40,880 --> 01:46:46,440
+So what I need here,
+I need access to all the rows.
+
+1382
+01:46:46,880 --> 01:46:47,360
+Right?
+
+1383
+01:46:47,360 --> 01:46:50,400
+I'm going to put another slash
+and I'll do t r.
+
+1384
+01:46:50,640 --> 01:46:55,600
+So how many roles do we have now
+or how many elements did we locate?
+
+1385
+01:46:55,600 --> 01:46:59,920
+Right now
+we located seven elements, right?
+
+1386
+01:47:00,440 --> 01:47:06,400
+So if we have more than one element,
+how do we handle this kind of situations?
+
+1387
+01:47:06,400 --> 01:47:09,560
+Inside my script, guys, where do we store
+
+1388
+01:47:09,560 --> 01:47:12,840
+these?
+
+1389
+01:47:12,840 --> 01:47:16,040
+We find the elements and then we set them.
+
+1390
+01:47:16,040 --> 01:47:19,200
+We we store them inside the list. Right?
+
+1391
+01:47:19,520 --> 01:47:23,480
+Okay, so let me copy this.
+
+1392
+01:47:23,480 --> 01:47:25,960
+Get back to our script now.
+
+1393
+01:47:25,960 --> 01:47:28,680
+So now what I'm doing here, Driver
+
+1394
+01:47:29,000 --> 01:47:32,200
+Dot, find elements right
+
+1395
+01:47:33,520 --> 01:47:37,240
+by experts
+
+1396
+01:47:37,440 --> 01:47:38,880
+pasted in here.
+
+1397
+01:47:38,880 --> 01:47:39,240
+Right.
+
+1398
+01:47:39,240 --> 01:47:42,520
+And then assign it to the list of
+
+1399
+01:47:45,040 --> 01:47:46,520
+web elements.
+
+1400
+01:47:46,520 --> 01:47:50,320
+Right and stuff elements in here.
+
+1401
+01:47:50,760 --> 01:47:54,240
+What I can do is
+
+1402
+01:47:55,000 --> 01:47:57,480
+throw data right from the table
+
+1403
+01:47:57,960 --> 01:48:02,240
+and import from this facility.
+
+1404
+01:48:02,240 --> 01:48:05,040
+All right. Is this clear? Is the line 18?
+
+1405
+01:48:05,280 --> 01:48:12,760
+Clear, guys.
+
+1406
+01:48:12,760 --> 01:48:15,080
+Okay.
+
+1407
+01:48:15,080 --> 01:48:16,640
+How to find it in X path?
+
+1408
+01:48:16,640 --> 01:48:18,640
+So you start from the very top, right?
+
+1409
+01:48:18,880 --> 01:48:21,640
+So you have the table.
+
+1410
+01:48:21,720 --> 01:48:23,400
+You start your X path
+
+1411
+01:48:23,400 --> 01:48:27,240
+with, the table tag,
+and then you see it has an idea, right?
+
+1412
+01:48:27,240 --> 01:48:32,280
+So you can identify that table by ID
+and now what you want to do,
+
+1413
+01:48:32,440 --> 01:48:39,480
+you want to move forward
+until you get the access to the table.
+
+1414
+01:48:39,640 --> 01:48:46,520
+Rose Okay. Why?
+
+1415
+01:48:46,520 --> 01:48:48,240
+Why use ID instead of class?
+
+1416
+01:48:48,240 --> 01:48:50,760
+Why are we using ID instead of class guys?
+
+1417
+01:48:52,000 --> 01:48:53,280
+Okay, Classified as space.
+
+1418
+01:48:53,280 --> 01:48:53,880
+That's fine.
+
+1419
+01:48:53,880 --> 01:48:56,360
+Is there any other reason why we using ID
+
+1420
+01:48:57,080 --> 01:49:00,840
+guys?
+
+1421
+01:49:00,840 --> 01:49:03,000
+It's faster. What else?
+
+1422
+01:49:03,000 --> 01:49:04,960
+It is unique, right?
+
+1423
+01:49:04,960 --> 01:49:06,880
+It is always unique.
+
+1424
+01:49:06,880 --> 01:49:10,560
+Unless you have some numeric values
+in there.
+
+1425
+01:49:10,920 --> 01:49:14,200
+Okay, ID is more reliable.
+
+1426
+01:49:14,200 --> 01:49:17,240
+Okay,
+so that's why we're using ID in here.
+
+1427
+01:49:17,400 --> 01:49:19,560
+So now what I want to do.
+
+1428
+01:49:19,560 --> 01:49:21,560
+I don't want any headers in here.
+
+1429
+01:49:21,640 --> 01:49:24,880
+I only want the actual information.
+
+1430
+01:49:25,240 --> 01:49:25,840
+Right.
+
+1431
+01:49:25,840 --> 01:49:30,120
+So what I want to do
+I want to go to my body
+
+1432
+01:49:30,360 --> 01:49:34,120
+and then I want to go to the table rows,
+
+1433
+01:49:34,560 --> 01:49:38,160
+step by step, right.
+
+1434
+01:49:38,160 --> 01:49:40,800
+Okay. So let's get back to our script now.
+
+1435
+01:49:41,520 --> 01:49:44,440
+So if I want to see if I want to print out
+
+1436
+01:49:44,440 --> 01:49:47,520
+how many rows
+I have in my console, what would I do?
+
+1437
+01:49:47,520 --> 01:49:48,160
+Guys, if you
+
+1438
+01:49:53,800 --> 01:49:54,480
+size.
+
+1439
+01:49:54,480 --> 01:49:55,240
+Right.
+
+1440
+01:49:55,360 --> 01:49:57,760
+Okay, so let's print it out real quick
+
+1441
+01:49:58,880 --> 01:50:01,360
+in here.
+
+1442
+01:50:01,360 --> 01:50:04,320
+Real data that size.
+
+1443
+01:50:04,840 --> 01:50:09,840
+Okay, So let's run this.
+
+1444
+01:50:10,240 --> 01:50:15,880
+Let's run
+this and see what we're going to have.
+
+1445
+01:50:15,880 --> 01:50:19,000
+Well,
+we're going to have inside the console
+
+1446
+01:50:19,280 --> 01:50:27,440
+right?
+
+1447
+01:50:27,440 --> 01:50:29,520
+Okay. Well navigated here.
+
+1448
+01:50:29,520 --> 01:50:30,240
+Let's get back.
+
+1449
+01:50:30,240 --> 01:50:32,520
+Okay. Seven rows, right?
+
+1450
+01:50:32,520 --> 01:50:34,200
+We located seven elements.
+
+1451
+01:50:34,200 --> 01:50:38,040
+We have
+we have printed seven rows in here.
+
+1452
+01:50:38,040 --> 01:50:39,480
+So everything is good.
+
+1453
+01:50:39,480 --> 01:50:41,280
+So that means we have those elements.
+
+1454
+01:50:41,280 --> 01:50:42,320
+Everything is good.
+
+1455
+01:50:42,320 --> 01:50:46,320
+So now, guys, I want to get all the
+
+1456
+01:50:47,160 --> 01:50:51,840
+all the data and print it one by one.
+
+1457
+01:50:51,840 --> 01:50:52,320
+Right?
+
+1458
+01:50:52,320 --> 01:50:55,800
+So since we are interacting
+with different, different elements
+
+1459
+01:50:55,800 --> 01:51:00,920
+at the same time, what do we need to do?
+
+1460
+01:51:00,920 --> 01:51:04,040
+We can either loop right or what?
+
+1461
+01:51:04,040 --> 01:51:06,200
+What else can we use, guys?
+
+1462
+01:51:06,200 --> 01:51:09,080
+We can use an iterator right?
+
+1463
+01:51:09,080 --> 01:51:10,560
+Okay, there we go.
+
+1464
+01:51:10,560 --> 01:51:14,320
+So let's try to use iterator
+and we'll use loop later as well.
+
+1465
+01:51:14,680 --> 01:51:15,520
+Okay?
+
+1466
+01:51:15,520 --> 01:51:20,040
+So what I'm going to do here,
+I have an iterator of what guys
+
+1467
+01:51:20,280 --> 01:51:26,280
+what am I to writing through in here? The
+
+1468
+01:51:27,240 --> 01:51:28,680
+web elements.
+
+1469
+01:51:28,680 --> 01:51:29,080
+Right?
+
+1470
+01:51:29,080 --> 01:51:32,280
+So I'm iterating through the web elements
+
+1471
+01:51:33,440 --> 01:51:36,560
+and this row data
+
+1472
+01:51:38,760 --> 01:51:40,840
+is going to give me that iterator.
+
+1473
+01:51:42,200 --> 01:51:43,080
+Right. Okay.
+
+1474
+01:51:43,080 --> 01:51:46,480
+So now instead of using the
+for loop in here,
+
+1475
+01:51:46,680 --> 01:51:50,520
+what we're going to have,
+we will be using the while, right?
+
+1476
+01:51:50,880 --> 01:51:52,520
+So while
+
+1477
+01:51:53,880 --> 01:51:57,560
+there is something on my next step, right.
+
+1478
+01:51:57,560 --> 01:52:00,720
+Only then what we're going to do,
+we won't be going
+
+1479
+01:52:00,720 --> 01:52:04,520
+inside this
+
+1480
+01:52:04,640 --> 01:52:06,640
+inside that while.
+
+1481
+01:52:06,640 --> 01:52:09,440
+Okay,
+so now what do I need to do next, guys?
+
+1482
+01:52:10,960 --> 01:52:12,680
+What I want to do at the very
+
+1483
+01:52:12,680 --> 01:52:15,560
+and I want to print out all the
+
+1484
+01:52:17,320 --> 01:52:19,200
+all the information
+
+1485
+01:52:19,200 --> 01:52:24,840
+inside my console.
+
+1486
+01:52:24,840 --> 01:52:26,160
+Yes, that's a good one.
+
+1487
+01:52:26,160 --> 01:52:27,320
+Yeah. So.
+
+1488
+01:52:27,320 --> 01:52:29,600
+But let's do it step by step.
+
+1489
+01:52:29,600 --> 01:52:30,280
+Okay.
+
+1490
+01:52:30,280 --> 01:52:33,680
+So what is my next step if I do if I
+
+1491
+01:52:34,840 --> 01:52:35,840
+if I take one
+
+1492
+01:52:35,840 --> 01:52:38,520
+step forward, what am I getting in
+return, guys?
+
+1493
+01:52:39,000 --> 01:52:40,800
+So let's do
+
+1494
+01:52:41,320 --> 01:52:43,040
+that next. Right?
+
+1495
+01:52:43,040 --> 01:52:46,880
+What am I getting in return here?
+
+1496
+01:52:46,880 --> 01:52:48,480
+Am I getting a string, guys?
+
+1497
+01:52:48,480 --> 01:52:51,320
+What am I to writing through?
+
+1498
+01:52:51,320 --> 01:52:53,440
+Am I to writing through strings?
+
+1499
+01:52:53,440 --> 01:52:54,120
+No. Right.
+
+1500
+01:52:54,120 --> 01:52:57,720
+I'm iterating through the web elements.
+
+1501
+01:52:57,720 --> 01:53:00,880
+So web element
+
+1502
+01:53:01,800 --> 01:53:05,640
+row is equal to my next step, right?
+
+1503
+01:53:05,880 --> 01:53:09,040
+So in order for me to get the string now,
+
+1504
+01:53:09,600 --> 01:53:17,880
+what am I doing?
+
+1505
+01:53:17,880 --> 01:53:20,880
+I need to get the text of that row. Right?
+
+1506
+01:53:21,160 --> 01:53:23,640
+So string
+
+1507
+01:53:24,480 --> 01:53:26,520
+row text is equal to
+
+1508
+01:53:28,160 --> 01:53:31,320
+that text in here, right?
+
+1509
+01:53:31,800 --> 01:53:33,840
+And then what I need to
+
+1510
+01:53:34,480 --> 01:53:36,680
+I need to print this out.
+
+1511
+01:53:37,080 --> 01:53:39,520
+Okay, So let's run this
+
+1512
+01:53:41,000 --> 01:53:57,080
+and see what
+we're going to have in our console.
+
+1513
+01:53:57,080 --> 01:53:59,680
+Okay. I would go and navigated here.
+
+1514
+01:54:00,040 --> 01:54:03,960
+So as you can see here, we printed
+
+1515
+01:54:04,440 --> 01:54:07,920
+all the data from the
+
+1516
+01:54:09,200 --> 01:54:11,360
+from this table.
+
+1517
+01:54:11,360 --> 01:54:13,240
+Pretty cool, right, guys?
+
+1518
+01:54:13,240 --> 01:54:17,800
+So what we did,
+we just identified all the rows, right?
+
+1519
+01:54:18,120 --> 01:54:21,200
+We started iterating through them, right?
+
+1520
+01:54:22,080 --> 01:54:25,800
+We got the text in here
+and we simply printed it out.
+
+1521
+01:54:26,400 --> 01:54:27,080
+Okay.
+
+1522
+01:54:27,080 --> 01:54:39,280
+Any questions, guys?
+
+1523
+01:54:39,280 --> 01:54:41,520
+Feel good? Okay, cool.
+
+1524
+01:54:41,520 --> 01:54:51,400
+So now what I want to do.
+
+1525
+01:54:51,400 --> 01:54:56,640
+So now what I want to do, guys,
+I want to print the headers as well.
+
+1526
+01:54:57,320 --> 01:54:57,960
+Okay?
+
+1527
+01:54:58,120 --> 01:55:02,560
+Each heading that we have in here,
+I want to print them as well.
+
+1528
+01:55:03,120 --> 01:55:04,800
+How would I do this?
+
+1529
+01:55:04,800 --> 01:55:07,320
+So we printed all the rows.
+
+1530
+01:55:07,320 --> 01:55:09,120
+Now what?
+
+1531
+01:55:09,120 --> 01:55:27,720
+What do I need to do in here
+to print all the headings?
+
+1532
+01:55:27,720 --> 01:55:29,440
+Okay, that's a very good idea.
+
+1533
+01:55:29,440 --> 01:55:35,240
+Yes. So let's let's go ahead and start
+looking for the headings.
+
+1534
+01:55:35,560 --> 01:55:38,400
+Right
+So we need to locate the headings first.
+
+1535
+01:55:38,920 --> 01:55:39,600
+Right.
+
+1536
+01:55:39,680 --> 01:55:43,920
+So where are my headings
+located in this table.
+
+1537
+01:55:44,080 --> 01:55:48,120
+So this part of my expense
+should be fine, right?
+
+1538
+01:55:48,120 --> 01:55:50,960
+Because I'm still interacting
+with the same table.
+
+1539
+01:55:52,080 --> 01:55:52,560
+Right.
+
+1540
+01:55:52,560 --> 01:55:54,440
+What's going to come after this?
+
+1541
+01:55:54,440 --> 01:55:56,960
+Guys?
+
+1542
+01:55:56,960 --> 01:56:02,120
+So what I want to do,
+I want to get the headers.
+
+1543
+01:56:03,400 --> 01:56:13,160
+Where am I going next in here?
+
+1544
+01:56:13,160 --> 01:56:16,480
+Okay, I need to go to the T head.
+
+1545
+01:56:16,800 --> 01:56:17,360
+Right.
+
+1546
+01:56:17,360 --> 01:56:27,360
+And what else is that? It?
+
+1547
+01:56:27,360 --> 01:56:30,400
+I want to go to the rows
+
+1548
+01:56:31,000 --> 01:56:34,840
+and I want to go to the heading
+themselves.
+
+1549
+01:56:34,840 --> 01:56:35,120
+Right.
+
+1550
+01:56:35,120 --> 01:56:38,240
+So the heading would be our column. Right.
+
+1551
+01:56:38,240 --> 01:56:41,640
+So this is the first column
+
+1552
+01:56:41,760 --> 01:56:43,280
+you can see
+
+1553
+01:56:44,760 --> 01:56:45,240
+here.
+
+1554
+01:56:45,240 --> 01:56:47,280
+One, two, three, four. Right.
+
+1555
+01:56:47,280 --> 01:56:51,440
+So we basically moving
+through the columns, right?
+
+1556
+01:56:51,760 --> 01:56:55,160
+So with located four different in here,
+
+1557
+01:56:55,160 --> 01:56:59,760
+what are we going to do with these.
+
+1558
+01:56:59,760 --> 01:57:03,600
+Let me copy this exact
+
+1559
+01:57:06,840 --> 01:57:08,280
+storing them in a set
+
+1560
+01:57:08,280 --> 01:57:13,560
+or store them in a list right.
+
+1561
+01:57:13,560 --> 01:57:14,520
+Okay.
+
+1562
+01:57:14,600 --> 01:57:17,680
+So list of
+
+1563
+01:57:19,200 --> 01:57:21,080
+web element, right.
+
+1564
+01:57:21,080 --> 01:57:24,840
+So columns data in here
+
+1565
+01:57:24,840 --> 01:57:29,120
+is equal to driver
+dot find elements, right
+
+1566
+01:57:31,520 --> 01:57:33,280
+by express,
+
+1567
+01:57:33,560 --> 01:57:36,360
+place it in here.
+
+1568
+01:57:36,360 --> 01:57:37,320
+All right.
+
+1569
+01:57:37,320 --> 01:57:41,280
+So now what I want to do,
+I want to know how many columns
+
+1570
+01:57:41,280 --> 01:57:49,080
+I have.
+
+1571
+01:57:49,080 --> 01:57:50,640
+We need the size, right?
+
+1572
+01:57:50,640 --> 01:57:53,120
+So print out
+
+1573
+01:57:54,480 --> 01:57:56,760
+columns, data size.
+
+1574
+01:57:56,960 --> 01:58:02,200
+So since we already used the iterator
+in the previous example,
+
+1575
+01:58:02,320 --> 01:58:05,680
+what I want to do,
+I want to use a for loop in here.
+
+1576
+01:58:06,240 --> 01:58:09,000
+Okay, so
+
+1577
+01:58:09,000 --> 01:58:10,560
+create a for loop.
+
+1578
+01:58:10,560 --> 01:58:11,280
+Right.
+
+1579
+01:58:12,000 --> 01:58:14,880
+I am iterating
+
+1580
+01:58:14,880 --> 01:58:19,600
+through all the columns, data.
+
+1581
+01:58:19,600 --> 01:58:20,280
+Right.
+
+1582
+01:58:20,280 --> 01:58:24,440
+So what,
+what is this container contains of
+
+1583
+01:58:26,840 --> 01:58:27,920
+web elements?
+
+1584
+01:58:27,920 --> 01:58:29,920
+Right. So
+
+1585
+01:58:30,440 --> 01:58:33,000
+web elements in here,
+
+1586
+01:58:33,000 --> 01:58:35,360
+what I can do column data,
+
+1587
+01:58:36,400 --> 01:58:39,320
+right.
+
+1588
+01:58:39,320 --> 01:58:41,520
+And then what do I need to do here guys,
+
+1589
+01:58:42,960 --> 01:58:44,880
+in order for me to print it inside
+
+1590
+01:58:44,880 --> 01:59:02,760
+my console?
+
+1591
+01:59:02,760 --> 01:59:07,360
+It's a writer.
+
+1592
+01:59:07,360 --> 01:59:09,080
+Okay, We already have a loop, right?
+
+1593
+01:59:10,200 --> 01:59:11,000
+What is my next
+
+1594
+01:59:11,000 --> 01:59:15,360
+step, guys?
+
+1595
+01:59:15,360 --> 01:59:19,800
+We get the text
+and we simply printed it out.
+
+1596
+01:59:20,200 --> 01:59:20,760
+Right?
+
+1597
+01:59:21,080 --> 01:59:23,520
+So string
+
+1598
+01:59:24,480 --> 01:59:28,240
+alum text is equal to
+
+1599
+01:59:29,120 --> 01:59:30,720
+column data.
+
+1600
+01:59:31,400 --> 01:59:33,200
+Get text
+
+1601
+01:59:33,320 --> 01:59:35,680
+and then print out
+
+1602
+01:59:42,760 --> 01:59:44,520
+column text in here.
+
+1603
+01:59:44,520 --> 01:59:45,000
+Okay.
+
+1604
+01:59:45,000 --> 01:59:45,480
+All right.
+
+1605
+01:59:45,480 --> 01:59:48,120
+So let's run this, guys, and see
+
+1606
+01:59:49,200 --> 01:59:53,000
+if we are able
+to print out the column data
+
+1607
+01:59:53,000 --> 02:00:02,760
+as well.
+
+1608
+02:00:02,760 --> 02:00:05,040
+Okay. Here.
+
+1609
+02:00:05,040 --> 02:00:05,880
+All right.
+
+1610
+02:00:05,880 --> 02:00:08,400
+So after this
+
+1611
+02:00:08,400 --> 02:00:09,840
+print line, right.
+
+1612
+02:00:09,840 --> 02:00:14,400
+We can see that we have four,
+four columns now.
+
+1613
+02:00:14,600 --> 02:00:17,640
+These are the text of those columns.
+
+1614
+02:00:18,360 --> 02:00:19,800
+Pretty cool, right, guys?
+
+1615
+02:00:19,800 --> 02:00:22,160
+So we can manipulate
+
+1616
+02:00:22,160 --> 02:00:26,760
+we can get the text from the rows,
+We can get the text from the headers
+
+1617
+02:00:27,000 --> 02:00:30,880
+and we can print them inside our console.
+
+1618
+02:00:30,880 --> 02:00:31,480
+Right.
+
+1619
+02:00:31,480 --> 02:00:51,600
+Any questions, guys?
+
+1620
+02:00:51,600 --> 02:00:54,280
+Confused a little bit with this one.
+
+1621
+02:00:55,920 --> 02:00:58,360
+Okay, let's go back in here.
+
+1622
+02:00:58,360 --> 02:00:58,840
+All right.
+
+1623
+02:00:58,840 --> 02:01:04,080
+So what we need to do is we
+we need to look for the header, right?
+
+1624
+02:01:04,640 --> 02:01:07,160
+So where is our header located?
+
+1625
+02:01:07,160 --> 02:01:09,920
+It's inside the table.
+
+1626
+02:01:09,960 --> 02:01:10,200
+Right.
+
+1627
+02:01:10,200 --> 02:01:14,280
+So if you go inside the table,
+you need to go inside the t hat.
+
+1628
+02:01:15,200 --> 02:01:15,720
+Right.
+
+1629
+02:01:15,720 --> 02:01:21,560
+So if I the t hat,
+what do I have inside my head, guys,
+
+1630
+02:01:21,560 --> 02:01:25,200
+I have one row in here, right?
+
+1631
+02:01:25,600 --> 02:01:28,800
+So if I expand the row then you can see
+
+1632
+02:01:29,040 --> 02:01:34,440
+I have four different data
+which is the heading data, right.
+
+1633
+02:01:34,720 --> 02:01:36,840
+Or which is the column data.
+
+1634
+02:01:37,280 --> 02:01:38,000
+Okay.
+
+1635
+02:01:38,000 --> 02:01:43,000
+So inside one row, I have four different
+
+1636
+02:01:44,040 --> 02:01:45,120
+column data.
+
+1637
+02:01:45,120 --> 02:01:48,480
+So this is how we should go
+by the hierarchy.
+
+1638
+02:01:48,640 --> 02:01:52,560
+So you, you identified the table,
+you go to the header,
+
+1639
+02:01:52,840 --> 02:01:55,880
+you go to its row and you go to its data.
+
+1640
+02:01:56,640 --> 02:01:59,960
+Okay?
+
+1641
+02:01:59,960 --> 02:02:07,240
+So you have to move one by one.
+
+1642
+02:02:07,240 --> 02:02:08,640
+Yes, you are getting them right.
+
+1643
+02:02:08,640 --> 02:02:11,680
+So if you look, you identify
+we identified four different
+
+1644
+02:02:11,680 --> 02:02:20,200
+elements.
+
+1645
+02:02:20,200 --> 02:02:26,400
+Okay, Yeah,
+
+1646
+02:02:26,400 --> 02:02:30,000
+almost like an absolute, but you don't
+really start from the very top, right?
+
+1647
+02:02:30,000 --> 02:02:35,680
+So you start from the table and
+this is how the furthest that you can go.
+
+1648
+02:02:35,680 --> 02:02:40,200
+Okay, so after the T or TD,
+there's nothing else in the
+
+1649
+02:02:42,440 --> 02:02:43,080
+inside
+
+1650
+02:02:43,080 --> 02:02:58,840
+the table.
+
+1651
+02:02:58,840 --> 02:02:59,320
+Okay.
+
+1652
+02:02:59,320 --> 02:03:14,160
+Any questions, guys?
+
+1653
+02:03:14,160 --> 02:03:17,240
+All right, so
+
+1654
+02:03:17,240 --> 02:03:28,480
+let's get back here.
+
+1655
+02:03:28,480 --> 02:03:29,040
+Okay.
+
+1656
+02:03:29,040 --> 02:03:34,840
+So now what we're going to do, we will be
+interacting with the dynamic table.
+
+1657
+02:03:35,200 --> 02:03:35,760
+Okay?
+
+1658
+02:03:35,760 --> 02:03:40,440
+So we set that dynamic
+table is what the dynamic table is,
+
+1659
+02:03:40,440 --> 02:03:45,320
+where inside the table
+there might be some changes, some
+
+1660
+02:03:46,360 --> 02:03:50,760
+new raw insertions,
+or it may be something deleted in there.
+
+1661
+02:03:51,000 --> 02:03:51,560
+Right.
+
+1662
+02:03:51,560 --> 02:03:53,920
+So those are the dynamic
+
+1663
+02:03:55,800 --> 02:03:59,200
+web tables, right?
+
+1664
+02:03:59,200 --> 02:04:00,040
+All right.
+
+1665
+02:04:00,360 --> 02:04:02,760
+Too much info today, as I said.
+
+1666
+02:04:02,760 --> 02:04:03,640
+Right, guys?
+
+1667
+02:04:03,640 --> 02:04:05,800
+Yesterday,
+It's going to be intense a little bit.
+
+1668
+02:04:06,000 --> 02:04:07,920
+So bear with me, guys. Okay.
+
+1669
+02:04:07,920 --> 02:04:10,920
+A little bit left.
+
+1670
+02:04:10,920 --> 02:04:11,640
+Okay.
+
+1671
+02:04:15,600 --> 02:04:15,760
+We'll
+
+1672
+02:04:15,760 --> 02:04:19,640
+finish the dynamic tables
+and then you guys should be good to go.
+
+1673
+02:04:20,280 --> 02:04:24,320
+Okay.
+
+1674
+02:04:24,320 --> 02:04:24,920
+All right.
+
+1675
+02:04:24,920 --> 02:04:27,800
+So let me actually log in
+
+1676
+02:04:27,800 --> 02:04:33,280
+here.
+
+1677
+02:04:33,280 --> 02:04:35,160
+Okay. So now, guys,
+
+1678
+02:04:36,200 --> 02:04:38,280
+what are you seeing in here?
+
+1679
+02:04:38,280 --> 02:04:40,600
+What do we have in here right after we log
+
+1680
+02:04:40,600 --> 02:04:48,240
+in, Guys, we have a table, right?
+
+1681
+02:04:49,240 --> 02:04:53,080
+We have a table is the list of the orders.
+
+1682
+02:04:53,080 --> 02:04:53,640
+Right?
+
+1683
+02:04:53,640 --> 02:04:56,680
+So how do we know if it's dynamic
+or static?
+
+1684
+02:04:56,680 --> 02:05:03,360
+Table guys?
+
+1685
+02:05:03,360 --> 02:05:07,520
+Okay, so we have the delete selected
+button, right?
+
+1686
+02:05:08,080 --> 02:05:13,400
+Or you can see that there are checkboxes
+in here that you can select.
+
+1687
+02:05:13,680 --> 02:05:14,440
+Right.
+
+1688
+02:05:14,720 --> 02:05:19,160
+And since this is the list of all orders,
+so that means
+
+1689
+02:05:19,160 --> 02:05:24,240
+if you receive any more order,
+this table is going to get updated.
+
+1690
+02:05:24,760 --> 02:05:27,400
+Or if you if you're done with the order
+
+1691
+02:05:27,520 --> 02:05:31,920
+or if it's a wrong order,
+you can go ahead and delete that order.
+
+1692
+02:05:32,360 --> 02:05:33,120
+Right.
+
+1693
+02:05:33,400 --> 02:05:37,920
+So the username and password
+is right on the on the website.
+
+1694
+02:05:37,920 --> 02:05:43,800
+That's under the password.
+
+1695
+02:05:43,800 --> 02:05:44,160
+Okay.
+
+1696
+02:05:45,480 --> 02:05:48,240
+So what we're going to do is
+
+1697
+02:05:48,240 --> 02:05:50,240
+we will be interacting
+
+1698
+02:05:50,240 --> 02:05:53,200
+with this table today and
+
+1699
+02:05:55,240 --> 02:05:56,440
+to interact.
+
+1700
+02:05:56,440 --> 02:05:58,000
+So then it's a dynamic.
+
+1701
+02:05:58,000 --> 02:06:02,800
+Yes, a link for
+
+1702
+02:06:05,920 --> 02:06:07,880
+you should have the link
+I think already guys.
+
+1703
+02:06:07,880 --> 02:06:08,320
+Right.
+
+1704
+02:06:08,320 --> 02:06:18,720
+So because we worked on this website,
+a lot of times.
+
+1705
+02:06:18,720 --> 02:06:21,960
+All right, so let's get started with
+
+1706
+02:06:24,600 --> 02:06:26,080
+with the log in.
+
+1707
+02:06:26,560 --> 02:06:30,600
+So let's go back in here
+and let me open up
+
+1708
+02:06:32,440 --> 02:06:35,160
+a new Java class
+
+1709
+02:06:35,520 --> 02:06:37,080
+and link
+
+1710
+02:06:38,320 --> 02:06:45,200
+dynamic table.
+
+1711
+02:06:45,200 --> 02:06:47,600
+And this
+
+1712
+02:06:55,920 --> 02:07:07,600
+this one, let's keep that
+
+1713
+02:07:09,040 --> 02:07:19,120
+this.
+
+1714
+02:07:19,120 --> 02:07:19,440
+All right.
+
+1715
+02:07:19,440 --> 02:07:22,640
+So the first thing, what do we
+what do we want to do, guys in here
+
+1716
+02:07:30,160 --> 02:07:31,640
+find the element, right?
+
+1717
+02:07:31,640 --> 02:07:35,160
+Find the log in and
+
+1718
+02:07:35,160 --> 02:07:36,360
+password.
+
+1719
+02:07:36,680 --> 02:07:42,800
+So let me inspect this.
+
+1720
+02:07:42,800 --> 02:07:45,360
+Go ahead and see.
+
+1721
+02:07:45,360 --> 02:07:45,720
+Okay.
+
+1722
+02:07:45,720 --> 02:07:46,840
+There is an idea, guys.
+
+1723
+02:07:46,840 --> 02:07:49,560
+So let me get this ID
+
+1724
+02:07:50,560 --> 02:07:53,520
+and create
+
+1725
+02:07:54,320 --> 02:07:57,560
+a web element
+
+1726
+02:07:58,560 --> 02:08:00,560
+username equal to
+
+1727
+02:08:03,000 --> 02:08:06,360
+five or fun element
+
+1728
+02:08:06,440 --> 02:08:07,880
+by the
+
+1729
+02:08:09,760 --> 02:08:12,520
+then username
+
+1730
+02:08:13,680 --> 02:08:15,000
+sentence.
+
+1731
+02:08:15,000 --> 02:08:15,560
+All right.
+
+1732
+02:08:15,560 --> 02:08:18,720
+And our username is
+
+1733
+02:08:21,480 --> 02:08:22,840
+that's the
+
+1734
+02:08:23,200 --> 02:08:34,280
+right.
+
+1735
+02:08:34,280 --> 02:08:34,600
+Yeah.
+
+1736
+02:08:34,600 --> 02:08:38,280
+I mean it's it's not good to use
+but you can use a different one.
+
+1737
+02:08:38,400 --> 02:08:39,000
+That's fine.
+
+1738
+02:08:39,000 --> 02:08:41,960
+You can use you can do you can
+
+1739
+02:08:43,400 --> 02:08:46,440
+you can do an X path and do contains
+so that you don't
+
+1740
+02:08:46,440 --> 02:08:49,880
+have to use this numeric values in here.
+
+1741
+02:08:49,880 --> 02:08:51,720
+Right. But usually it's not.
+
+1742
+02:08:51,720 --> 02:08:55,520
+But since this is a test website,
+it doesn't really it's not going
+
+1743
+02:08:55,520 --> 02:08:57,360
+to change anything in here.
+
+1744
+02:08:57,360 --> 02:09:03,840
+Okay.
+
+1745
+02:09:03,840 --> 02:09:04,440
+All right.
+
+1746
+02:09:04,440 --> 02:09:11,120
+So elements.
+
+1747
+02:09:11,120 --> 02:09:25,160
+So now let's figure out the password.
+
+1748
+02:09:25,160 --> 02:09:27,520
+Okay. So it has an idea as well.
+
+1749
+02:09:27,840 --> 02:09:30,480
+So I'm going to copy this
+
+1750
+02:09:40,280 --> 02:09:41,400
+idea.
+
+1751
+02:09:41,400 --> 02:09:43,440
+Right. And
+
+1752
+02:09:47,040 --> 02:09:51,480
+I will send these in here again,
+this is my password, which is
+
+1753
+02:09:52,480 --> 02:09:53,760
+password test.
+
+1754
+02:09:53,760 --> 02:09:54,440
+Right.
+
+1755
+02:09:54,440 --> 02:09:57,320
+And now what I need to do,
+
+1756
+02:09:57,680 --> 02:10:01,440
+I just need to go ahead and click on log
+
+1757
+02:10:01,440 --> 02:10:05,280
+in right now.
+
+1758
+02:10:05,320 --> 02:10:07,240
+There is an idea again in here.
+
+1759
+02:10:07,240 --> 02:10:11,760
+So I'm the copy that.
+
+1760
+02:10:11,760 --> 02:10:14,960
+What elements
+
+1761
+02:10:20,480 --> 02:10:22,800
+find elements like that I d again
+
+1762
+02:10:28,320 --> 02:10:29,040
+here.
+
+1763
+02:10:29,160 --> 02:10:31,680
+So in this case what we're going to do
+
+1764
+02:10:31,680 --> 02:10:34,880
+will be simply clicking this right.
+
+1765
+02:10:35,440 --> 02:10:37,560
+Okay. So let's go back in here.
+
+1766
+02:10:38,120 --> 02:10:45,360
+Let's log in.
+
+1767
+02:10:45,360 --> 02:10:48,200
+Okay, guys.
+So is everyone clear what I did?
+
+1768
+02:10:48,960 --> 02:10:55,080
+From line 16 to 21 guys.
+
+1769
+02:10:55,080 --> 02:10:56,240
+Okay, good.
+
+1770
+02:10:56,240 --> 02:10:58,920
+So now let's get back to our page. Right.
+
+1771
+02:10:59,520 --> 02:11:02,720
+So what we to do in here again, guys,
+
+1772
+02:11:03,000 --> 02:11:04,840
+we want to
+
+1773
+02:11:06,080 --> 02:11:08,640
+we want to interact with the table,
+
+1774
+02:11:08,840 --> 02:11:12,560
+but this time,
+what I want to do, I want to go ahead
+
+1775
+02:11:14,040 --> 02:11:15,840
+after I print
+
+1776
+02:11:15,840 --> 02:11:20,120
+all the text inside my console,
+what I want to do,
+
+1777
+02:11:20,200 --> 02:11:23,920
+I want to click on this order book,
+
+1778
+02:11:24,200 --> 02:11:26,320
+which has a bulb feather name in here.
+
+1779
+02:11:27,400 --> 02:11:28,080
+Is that clear?
+
+1780
+02:11:28,080 --> 02:11:31,400
+You guys?
+
+1781
+02:11:31,400 --> 02:11:34,760
+Any questions?
+
+1782
+02:11:34,760 --> 02:11:37,360
+Okay, so where do we start, guys?
+
+1783
+02:11:37,800 --> 02:11:40,120
+So if the task is clear, where do I start?
+
+1784
+02:11:40,120 --> 02:11:41,560
+In here. I logged in.
+
+1785
+02:11:41,560 --> 02:11:43,800
+Everything is good. I see the table.
+
+1786
+02:11:43,800 --> 02:11:58,640
+What's my next step?
+
+1787
+02:11:58,640 --> 02:12:03,920
+I need to find the rows.
+
+1788
+02:12:04,000 --> 02:12:04,360
+Right.
+
+1789
+02:12:04,360 --> 02:12:07,720
+So I need to interact
+with the rows. Right.
+
+1790
+02:12:07,720 --> 02:12:10,840
+So Let's see in here.
+
+1791
+02:12:10,840 --> 02:12:13,160
+This is our table. Right.
+
+1792
+02:12:13,360 --> 02:12:15,120
+So do we have a table header in?
+
+1793
+02:12:15,120 --> 02:12:22,080
+Here goes.
+
+1794
+02:12:22,080 --> 02:12:22,680
+No. Right.
+
+1795
+02:12:22,680 --> 02:12:25,920
+If you look inside the HTML,
+
+1796
+02:12:25,920 --> 02:12:29,560
+there's no section or part which is t hat.
+
+1797
+02:12:29,560 --> 02:12:29,840
+Right.
+
+1798
+02:12:29,840 --> 02:12:34,760
+So as I said before, guys,
+not all the tables will be inside
+
+1799
+02:12:35,640 --> 02:12:39,240
+with not all the tables will consist of t
+hat and t body.
+
+1800
+02:12:39,240 --> 02:12:39,800
+Right.
+
+1801
+02:12:39,800 --> 02:12:43,520
+So in this case, the whole table,
+
+1802
+02:12:44,280 --> 02:12:48,480
+the whole rows,
+they are stored inside the T body.
+
+1803
+02:12:49,360 --> 02:12:53,120
+Okay, so I open the selector box in here
+
+1804
+02:12:53,360 --> 02:12:57,880
+and I will start to identify
+
+1805
+02:12:58,320 --> 02:13:00,400
+this table for table.
+
+1806
+02:13:01,240 --> 02:13:02,040
+Right.
+
+1807
+02:13:02,160 --> 02:13:04,560
+So what do we have in here?
+
+1808
+02:13:04,560 --> 02:13:07,640
+So we have ID, so let's use this IP
+
+1809
+02:13:07,640 --> 02:13:12,360
+in here. I d
+
+1810
+02:13:14,640 --> 02:13:15,320
+place it here.
+
+1811
+02:13:15,320 --> 02:13:17,680
+Okay, so we identified our table.
+
+1812
+02:13:17,880 --> 02:13:18,960
+This is good.
+
+1813
+02:13:18,960 --> 02:13:33,840
+Okay, so where do I go next, guys?
+
+1814
+02:13:33,840 --> 02:13:35,000
+T bottom. Right?
+
+1815
+02:13:35,000 --> 02:13:39,000
+So I'm going to go to t body and, then
+
+1816
+02:13:39,480 --> 02:13:45,160
+I will go to t r.
+
+1817
+02:13:45,160 --> 02:13:45,600
+All right.
+
+1818
+02:13:45,600 --> 02:13:49,800
+So now we captured all the roles in here.
+
+1819
+02:13:51,000 --> 02:13:55,400
+Okay, so we got nine in here,
+
+1820
+02:13:55,400 --> 02:13:59,160
+So we captured nine different elements,
+Right?
+
+1821
+02:13:59,680 --> 02:14:00,520
+Okay,
+
+1822
+02:14:01,160 --> 02:14:03,360
+so let's go back in here.
+
+1823
+02:14:03,360 --> 02:14:05,560
+So what do I do with those nine elements?
+
+1824
+02:14:05,560 --> 02:14:06,400
+Guys,
+
+1825
+02:14:07,760 --> 02:14:09,320
+let me.
+
+1826
+02:14:10,120 --> 02:14:11,640
+Okay, this
+
+1827
+02:14:11,640 --> 02:14:13,880
+what we're going to do,
+we will be storing them
+
+1828
+02:14:14,200 --> 02:14:18,040
+inside the list right
+
+1829
+02:14:19,320 --> 02:14:20,960
+list of with
+
+1830
+02:14:20,960 --> 02:14:25,400
+elements in here, say rows
+
+1831
+02:14:26,440 --> 02:14:29,080
+C drive or
+
+1832
+02:14:29,240 --> 02:14:31,520
+find elements
+
+1833
+02:14:31,800 --> 02:14:34,600
+by X Factor in here.
+
+1834
+02:14:34,600 --> 02:14:37,560
+Is this right?
+
+1835
+02:14:37,560 --> 02:14:40,560
+And let's import the list.
+
+1836
+02:14:41,000 --> 02:14:41,840
+Okay.
+
+1837
+02:14:42,920 --> 02:14:45,280
+So now what I want to do,
+
+1838
+02:14:45,280 --> 02:14:50,240
+I want to get all the text,
+print it out inside my console.
+
+1839
+02:14:50,520 --> 02:14:56,200
+But this time what I want to do,
+I want to use the regular loop guys.
+
+1840
+02:14:56,400 --> 02:15:00,160
+Okay,
+
+1841
+02:15:00,160 --> 02:15:02,840
+so we stored everything in the loop.
+
+1842
+02:15:03,160 --> 02:15:07,000
+So I'm starting my for loop in here.
+
+1843
+02:15:07,000 --> 02:15:09,480
+So where do I start from Guessing here.
+
+1844
+02:15:09,720 --> 02:15:13,440
+So I have an integer I write is equal
+
+1845
+02:15:13,440 --> 02:15:17,880
+to what?
+
+1846
+02:15:17,880 --> 02:15:18,840
+From zero.
+
+1847
+02:15:18,840 --> 02:15:21,440
+Okay. From zero.
+
+1848
+02:15:21,600 --> 02:15:24,440
+And then I is less than what
+
+1849
+02:15:30,360 --> 02:15:31,200
+the size.
+
+1850
+02:15:31,200 --> 02:15:31,600
+Right?
+
+1851
+02:15:31,600 --> 02:15:36,240
+So we have rows that size
+
+1852
+02:15:37,360 --> 02:15:41,800
+and then we will be incrementing by one.
+
+1853
+02:15:42,840 --> 02:15:45,040
+Okay. All right. So this is our for loop.
+
+1854
+02:15:45,320 --> 02:15:46,720
+What do I need to do next, guys?
+
+1855
+02:15:46,720 --> 02:15:49,160
+How do I print everything out?
+
+1856
+02:15:50,040 --> 02:15:50,720
+There we go.
+
+1857
+02:15:50,720 --> 02:15:55,720
+So we get the string.
+
+1858
+02:15:55,720 --> 02:15:59,160
+So text right
+
+1859
+02:15:59,280 --> 02:16:01,280
+is equal to
+
+1860
+02:16:01,800 --> 02:16:06,240
+rows that get I here, right?
+
+1861
+02:16:06,480 --> 02:16:07,280
+Because we lose.
+
+1862
+02:16:07,280 --> 02:16:10,040
+We're using the regular for loop.
+
+1863
+02:16:10,040 --> 02:16:13,040
+So we need to go with the indexes in here
+
+1864
+02:16:13,320 --> 02:16:15,600
+and then get text.
+
+1865
+02:16:17,520 --> 02:16:20,000
+And then what we need to do in here,
+
+1866
+02:16:20,440 --> 02:16:24,800
+we can simply print out a row text.
+
+1867
+02:16:24,800 --> 02:16:25,640
+Right. Okay.
+
+1868
+02:16:25,640 --> 02:16:43,240
+So let me run this
+and see what we're going to have.
+
+1869
+02:16:43,240 --> 02:16:48,600
+Okay.
+
+1870
+02:16:48,600 --> 02:16:49,640
+There we go.
+
+1871
+02:16:50,280 --> 02:16:52,200
+All right. So what do we see in here?
+
+1872
+02:16:52,200 --> 02:16:55,200
+So it printed all the rows in here,
+
+1873
+02:16:55,360 --> 02:16:58,680
+but what did it
+include inside our console guys?
+
+1874
+02:17:00,600 --> 02:17:04,120
+So other than all the all the
+
+1875
+02:17:04,600 --> 02:17:08,160
+what's called the data and all the orders,
+
+1876
+02:17:08,160 --> 02:17:13,280
+what else do we have inside my console?
+
+1877
+02:17:13,280 --> 02:17:15,600
+The title of each column. Right.
+
+1878
+02:17:15,600 --> 02:17:18,360
+So the headers. What if I don't want them?
+
+1879
+02:17:18,920 --> 02:17:21,120
+How do I, how do I get rid of those guys
+
+1880
+02:17:26,400 --> 02:17:28,280
+if condition?
+
+1881
+02:17:28,400 --> 02:17:29,960
+Why do we need an F condition?
+
+1882
+02:17:29,960 --> 02:17:32,760
+What do I put in this condition?
+
+1883
+02:17:32,760 --> 02:17:36,240
+We can simply start from one.
+
+1884
+02:17:36,640 --> 02:17:38,000
+Right? Exactly.
+
+1885
+02:17:38,000 --> 02:17:40,520
+There we go. So
+
+1886
+02:17:41,120 --> 02:17:44,080
+because everything is under t body.
+
+1887
+02:17:44,360 --> 02:17:49,880
+So instead of starting from zero
+element of the mess,
+
+1888
+02:17:50,040 --> 02:17:53,640
+we can start from the first one and let's
+
+1889
+02:17:53,640 --> 02:17:55,520
+we run this
+
+1890
+02:17:57,000 --> 02:17:58,960
+and see if we can get rid of
+
+1891
+02:17:58,960 --> 02:18:09,800
+so right. Okay
+
+1892
+02:18:10,800 --> 02:18:11,840
+here. There we go.
+
+1893
+02:18:11,840 --> 02:18:16,480
+So we only have the information about the
+
+1894
+02:18:18,320 --> 02:18:21,040
+what do you call about the
+
+1895
+02:18:21,040 --> 02:18:23,000
+orders. Right.
+
+1896
+02:18:23,000 --> 02:18:25,600
+So now, guys, what I want to do in here,
+
+1897
+02:18:26,360 --> 02:18:29,000
+I want to go ahead and click
+
+1898
+02:18:29,240 --> 02:18:32,040
+on this particular checkbox.
+
+1899
+02:18:32,520 --> 02:18:36,080
+How would I do this?
+
+1900
+02:18:36,080 --> 02:18:37,880
+Any thoughts
+
+1901
+02:18:48,320 --> 02:18:49,120
+contains.
+
+1902
+02:18:49,120 --> 02:18:57,000
+Okay,
+
+1903
+02:18:57,000 --> 02:18:59,840
+Boolean method.
+
+1904
+02:19:00,040 --> 02:19:00,440
+Okay.
+
+1905
+02:19:00,440 --> 02:19:03,160
+What do I have inside the if condition?
+
+1906
+02:19:03,160 --> 02:19:06,360
+Okay, so if condition,
+what am I having inside the?
+
+1907
+02:19:06,360 --> 02:19:09,400
+If okay, so let's say I have okay.
+
+1908
+02:19:09,480 --> 02:19:12,840
+Is okay
+
+1909
+02:19:13,480 --> 02:19:16,240
+a row tax right
+
+1910
+02:19:18,840 --> 02:19:21,360
+contains let's say
+
+1911
+02:19:21,920 --> 02:19:27,240
+we're looking for a bulb feather right?
+
+1912
+02:19:27,240 --> 02:19:38,320
+Okay then what am I clicking on?
+
+1913
+02:19:38,320 --> 02:19:40,600
+CheckBox. Okay. Where's my check box guys,
+
+1914
+02:19:41,800 --> 02:19:46,880
+did I identify the checkbox in here?
+
+1915
+02:19:46,880 --> 02:19:48,560
+No. Right,
+
+1916
+02:19:49,400 --> 02:19:50,400
+not yet.
+
+1917
+02:19:50,400 --> 02:19:52,280
+There we go. We haven't decided yet.
+
+1918
+02:19:52,280 --> 02:19:56,160
+So now let's go back in here and find.
+
+1919
+02:19:56,160 --> 02:20:02,720
+Okay,
+so how do I want to locate the checkbox?
+
+1920
+02:20:02,720 --> 02:20:05,560
+The do I just locate this one does
+
+1921
+02:20:06,240 --> 02:20:14,280
+or how do we want to keep this?
+
+1922
+02:20:14,280 --> 02:20:17,680
+Okay, so we have ID name
+
+1923
+02:20:17,680 --> 02:20:22,440
+so we can just locate one checkbox in here
+and go ahead and click.
+
+1924
+02:20:22,440 --> 02:20:22,960
+This does
+
+1925
+02:20:28,920 --> 02:20:30,440
+How do we want to approach this?
+
+1926
+02:20:30,440 --> 02:20:31,080
+Guys?
+
+1927
+02:20:31,760 --> 02:20:41,200
+Any thoughts?
+
+1928
+02:20:41,200 --> 02:20:44,160
+I can locate them all.
+
+1929
+02:20:44,200 --> 02:20:48,200
+Okay.
+
+1930
+02:20:48,200 --> 02:20:48,760
+Okay, guys.
+
+1931
+02:20:48,760 --> 02:20:51,240
+So here what we want to do,
+
+1932
+02:20:51,880 --> 02:20:56,240
+we want to locate all the checkboxes.
+
+1933
+02:20:56,280 --> 02:20:58,360
+Why am I locating all the checkboxes?
+
+1934
+02:20:58,360 --> 02:21:01,080
+Why am I not just coming here
+and clicking on this one
+
+1935
+02:21:09,040 --> 02:21:12,040
+in case the data changes in the future?
+
+1936
+02:21:12,280 --> 02:21:13,720
+Right, Exactly.
+
+1937
+02:21:13,720 --> 02:21:16,360
+So we said this is a dynamic web table.
+
+1938
+02:21:16,600 --> 02:21:18,760
+So tomorrow it can be the bulb
+
+1939
+02:21:18,760 --> 02:21:23,080
+feather can be the last in here of orders
+or the first one.
+
+1940
+02:21:23,200 --> 02:21:25,160
+We don't know that. Right.
+
+1941
+02:21:25,160 --> 02:21:30,360
+So if we just locate this checkbox,
+it won't click on that.
+
+1942
+02:21:30,880 --> 02:21:32,840
+Right. Okay.
+
+1943
+02:21:32,840 --> 02:21:35,760
+So now what I will do, I will get
+
+1944
+02:21:36,320 --> 02:21:39,520
+all the checkboxes are available for me.
+
+1945
+02:21:39,880 --> 02:21:43,840
+Okay, So I am inside the rows right now.
+
+1946
+02:21:44,880 --> 02:21:45,400
+Right?
+
+1947
+02:21:45,400 --> 02:21:48,680
+So where is my checkboxes located?
+
+1948
+02:21:49,000 --> 02:21:53,840
+It's inside each row, but it's inside
+only one thing.
+
+1949
+02:21:53,840 --> 02:21:54,320
+Guys.
+
+1950
+02:21:54,320 --> 02:22:06,080
+What is it?
+
+1951
+02:22:06,080 --> 02:22:09,400
+Input. It's inside the column. Right.
+
+1952
+02:22:09,600 --> 02:22:15,600
+So it's only inside the first column
+that we have inside our table.
+
+1953
+02:22:15,880 --> 02:22:16,400
+Right?
+
+1954
+02:22:16,400 --> 02:22:19,960
+So so far, by this X path, guys,
+
+1955
+02:22:20,120 --> 02:22:24,640
+what we did is
+we only identified the rows, right?
+
+1956
+02:22:24,920 --> 02:22:30,600
+So what I need to do now,
+I need to go ahead and identify
+
+1957
+02:22:30,840 --> 02:22:33,120
+only the
+
+1958
+02:22:33,680 --> 02:22:36,000
+okay, so how am I going to do this?
+
+1959
+02:22:36,320 --> 02:22:38,160
+So let's take a look.
+
+1960
+02:22:38,160 --> 02:22:50,840
+What do I have inside my rows, guys?
+
+1961
+02:22:50,840 --> 02:22:52,240
+What is inside my rows?
+
+1962
+02:22:52,240 --> 02:22:55,040
+Guys, the table data. Right.
+
+1963
+02:22:55,320 --> 02:22:57,480
+Which one of these table
+
+1964
+02:22:58,400 --> 02:23:01,120
+consists of a checkbox? Does
+
+1965
+02:23:16,360 --> 02:23:17,520
+TDI want input?
+
+1966
+02:23:17,520 --> 02:23:19,040
+The first one, right?
+
+1967
+02:23:19,040 --> 02:23:21,520
+Only the first data of
+
+1968
+02:23:22,680 --> 02:23:26,600
+of each row has the checkbox.
+
+1969
+02:23:26,600 --> 02:23:27,000
+Right.
+
+1970
+02:23:27,000 --> 02:23:32,240
+So what we can simply do in here,
+we can put td1.
+
+1971
+02:23:32,880 --> 02:23:35,120
+Okay. And it will
+
+1972
+02:23:35,280 --> 02:23:37,680
+that particular cell.
+
+1973
+02:23:38,240 --> 02:23:38,760
+Okay.
+
+1974
+02:23:38,760 --> 02:23:42,120
+And you can see we identified
+only eight of them.
+
+1975
+02:23:42,400 --> 02:23:46,800
+So let's go ahead here you can see that
+
+1976
+02:23:46,800 --> 02:23:50,800
+we identified all the checkboxes in here.
+
+1977
+02:23:51,440 --> 02:23:52,080
+Okay.
+
+1978
+02:23:52,080 --> 02:24:08,240
+Any questions on guys?
+
+1979
+02:24:08,240 --> 02:24:14,600
+Why not?
+
+1980
+02:24:14,600 --> 02:24:17,200
+Okay, so you want to do a text box?
+
+1981
+02:24:17,200 --> 02:24:18,600
+Sather Right.
+
+1982
+02:24:18,600 --> 02:24:21,600
+So what if what you're
+
+1983
+02:24:23,440 --> 02:24:25,840
+here, your condition changes?
+
+1984
+02:24:27,120 --> 02:24:35,440
+What is it going to click on?
+
+1985
+02:24:35,440 --> 02:24:37,440
+It won't work, right?
+
+1986
+02:24:37,440 --> 02:24:41,520
+So if your condition changes in here,
+then you're going to have to manipulate
+
+1987
+02:24:41,520 --> 02:24:44,920
+with your
+with your checkbox as well. Okay?
+
+1988
+02:24:44,960 --> 02:24:49,920
+So that makes it to a different two
+different places to change it.
+
+1989
+02:24:49,920 --> 02:24:55,400
+Okay, so what you want to do, if anything
+changes, if your condition changes,
+
+1990
+02:24:55,640 --> 02:24:58,960
+so you want to make changes in your script
+
+1991
+02:24:59,200 --> 02:25:01,440
+as less as possible.
+
+1992
+02:25:02,040 --> 02:25:03,440
+Okay.
+
+1993
+02:25:03,440 --> 02:25:08,160
+So here
+we identified eight different checkboxes.
+
+1994
+02:25:08,400 --> 02:25:10,040
+So I'm going to copy this.
+
+1995
+02:25:11,160 --> 02:25:13,640
+And what I will do in here?
+
+1996
+02:25:13,760 --> 02:25:17,240
+So if I, if we identified a checkboxes,
+what are we doing
+
+1997
+02:25:17,240 --> 02:25:18,320
+with those
+
+1998
+02:25:32,800 --> 02:25:33,200
+two? Right.
+
+1999
+02:25:33,200 --> 02:25:36,520
+Before we iterate,
+we need to store them right?
+
+2000
+02:25:36,680 --> 02:25:39,160
+We need to store them in a list
+
+2001
+02:25:39,840 --> 02:25:43,280
+of web elements
+
+2002
+02:25:43,280 --> 02:25:44,840
+right here.
+
+2003
+02:25:44,840 --> 02:25:47,320
+We can say the checkboxes
+
+2004
+02:25:48,000 --> 02:25:50,680
+is equal to the driver
+
+2005
+02:25:51,080 --> 02:25:53,240
+that find elements
+
+2006
+02:25:54,920 --> 02:25:58,520
+by x path
+
+2007
+02:25:58,680 --> 02:26:01,680
+and paste my x path in here.
+
+2008
+02:26:01,680 --> 02:26:02,720
+Okay guys.
+
+2009
+02:26:02,720 --> 02:26:05,840
+So now what
+do I need to do in order to click
+
+2010
+02:26:06,000 --> 02:26:10,360
+on that checkbox?
+
+2011
+02:26:10,360 --> 02:26:22,520
+If let's not check
+if it's selected or not yet.
+
+2012
+02:26:22,520 --> 02:26:25,760
+Okay, So let's just click on that
+how do we do
+
+2013
+02:26:25,760 --> 02:26:40,680
+that?
+
+2014
+02:26:40,680 --> 02:26:43,320
+I am using a specific name.
+
+2015
+02:26:43,320 --> 02:26:46,400
+I'm using specific name in here, right?
+
+2016
+02:26:46,560 --> 02:26:50,840
+So if I change this to a different name,
+you're path is not going to work
+
+2017
+02:26:56,040 --> 02:26:58,480
+right?
+
+2018
+02:26:58,480 --> 02:27:01,480
+So your X path indicates
+
+2019
+02:27:02,240 --> 02:27:04,760
+your Xbox indicates box further in there.
+
+2020
+02:27:04,960 --> 02:27:11,000
+What if I change the name in here?
+
+2021
+02:27:11,000 --> 02:27:15,200
+Then I'm going to have to change your
+your X path as well.
+
+2022
+02:27:15,200 --> 02:27:23,280
+The one you set before.
+
+2023
+02:27:23,280 --> 02:27:25,160
+Okay. All right.
+
+2024
+02:27:25,160 --> 02:27:27,280
+How do I click on the checkbox guys
+
+2025
+02:27:28,360 --> 02:27:32,800
+in here?
+
+2026
+02:27:32,800 --> 02:27:43,840
+So I just do checkboxes dot click.
+
+2027
+02:27:43,840 --> 02:27:44,520
+Okay.
+
+2028
+02:27:44,520 --> 02:27:55,000
+If not, how do we do this?
+
+2029
+02:27:55,000 --> 02:28:07,680
+And then click okay.
+
+2030
+02:28:07,680 --> 02:28:11,640
+Okay, guys, we have a list of web elements
+I need to get one
+
+2031
+02:28:16,600 --> 02:28:17,680
+finding by index.
+
+2032
+02:28:17,680 --> 02:28:20,960
+How do I get an element from that?
+
+2033
+02:28:20,960 --> 02:28:29,560
+From the list guys.
+
+2034
+02:28:29,560 --> 02:28:40,360
+Come on, guys, you can do this.
+
+2035
+02:28:40,360 --> 02:28:42,720
+Get I. There we go. Why?
+
+2036
+02:28:42,840 --> 02:28:48,800
+Why do we need another loop in here, guys?
+
+2037
+02:28:48,800 --> 02:28:49,360
+No. Right.
+
+2038
+02:28:49,360 --> 02:28:52,720
+Because we are already
+iterating through those
+
+2039
+02:28:54,040 --> 02:28:55,360
+through those rows.
+
+2040
+02:28:55,360 --> 02:28:57,040
+Right. So we don't need another loop.
+
+2041
+02:28:57,040 --> 02:29:01,320
+So We simply can do in here.
+
+2042
+02:29:01,320 --> 02:29:06,480
+We get one element
+from that, from the list.
+
+2043
+02:29:06,720 --> 02:29:09,160
+And what we can do, we can click on this
+
+2044
+02:29:10,200 --> 02:29:11,320
+right?
+
+2045
+02:29:11,320 --> 02:29:18,840
+And then what do we need to do
+after we click?
+
+2046
+02:29:18,840 --> 02:29:21,480
+We need to break the loop, right?
+
+2047
+02:29:22,520 --> 02:29:24,400
+So we need to stop it.
+
+2048
+02:29:24,400 --> 02:29:28,760
+Okay, So let's run this so that you can
+visually see what is going on.
+
+2049
+02:29:29,400 --> 02:29:46,040
+Okay?
+
+2050
+02:29:46,040 --> 02:29:46,440
+Okay.
+
+2051
+02:29:46,440 --> 02:29:47,000
+There we go.
+
+2052
+02:29:47,000 --> 02:29:54,800
+What happened, guys?
+
+2053
+02:29:54,800 --> 02:30:01,920
+What did we click on right now?
+
+2054
+02:30:01,920 --> 02:30:04,280
+Everyone got the Samuel Clements, right?
+
+2055
+02:30:04,320 --> 02:30:13,640
+What is going on in here?
+
+2056
+02:30:13,640 --> 02:30:34,640
+Why did it click on the next one, guys?
+
+2057
+02:30:34,640 --> 02:30:35,160
+All right, go.
+
+2058
+02:30:35,160 --> 02:30:36,000
+Okay, let's.
+
+2059
+02:30:36,000 --> 02:30:43,720
+Okay, This is the code.
+
+2060
+02:30:43,720 --> 02:30:50,800
+Why did it click on the next one
+and not on the bop feather?
+
+2061
+02:30:50,800 --> 02:30:51,480
+There we go.
+
+2062
+02:30:51,480 --> 02:30:54,720
+So we started from the one, right?
+
+2063
+02:30:54,960 --> 02:30:59,120
+And here
+I'm starting from the first element
+
+2064
+02:30:59,120 --> 02:31:01,840
+in here,
+from the second one right in here,
+
+2065
+02:31:02,440 --> 02:31:04,840
+because our elements from there,
+
+2066
+02:31:05,520 --> 02:31:08,200
+from the list
+is starting from the index of
+
+2067
+02:31:10,920 --> 02:31:11,560
+right.
+
+2068
+02:31:11,560 --> 02:31:15,400
+We starting from the one
+we're getting an AI in here.
+
+2069
+02:31:16,360 --> 02:31:21,040
+So we starting
+from the second value of the checkboxes.
+
+2070
+02:31:21,040 --> 02:31:23,440
+Okay. Is that clear, guys?
+
+2071
+02:31:23,440 --> 02:31:25,520
+Why it clicked on the next one?
+
+2072
+02:31:26,280 --> 02:31:28,640
+So in order to level them up,
+
+2073
+02:31:28,920 --> 02:31:33,000
+what are we doing in here?
+
+2074
+02:31:33,000 --> 02:31:39,840
+Is it plus one or minus one?
+
+2075
+02:31:39,840 --> 02:31:45,360
+Is it plus
+because it clicked on the next one, guys.
+
+2076
+02:31:45,360 --> 02:31:48,360
+So we need to get one back, right?
+
+2077
+02:31:48,360 --> 02:31:54,840
+So what we're going to do,
+we need to do minus one in here.
+
+2078
+02:31:54,840 --> 02:31:57,720
+Okay, So
+
+2079
+02:31:57,960 --> 02:32:00,640
+let's get this rerun again
+
+2080
+02:32:00,640 --> 02:32:04,440
+and see if we going to
+
+2081
+02:32:06,360 --> 02:32:09,120
+click on the
+
+2082
+02:32:09,120 --> 02:32:10,240
+right one.
+
+2083
+02:32:11,400 --> 02:32:13,080
+And then there we go.
+
+2084
+02:32:13,080 --> 02:32:15,440
+So now we have box feather in here.
+
+2085
+02:32:15,480 --> 02:32:19,760
+We clicked on that checkbox
+and now everything is working fine.
+
+2086
+02:32:20,360 --> 02:32:20,640
+All right.
+
+2087
+02:32:22,040 --> 02:32:23,000
+Any questions
+
+2088
+02:32:23,000 --> 02:32:30,600
+on this?
+
+2089
+02:32:30,600 --> 02:32:59,720
+Let me close this.
+
+2090
+02:32:59,720 --> 02:33:02,160
+Okay. Yours gives the same result, right?
+
+2091
+02:33:02,160 --> 02:33:03,320
+Okay, good.
+
+2092
+02:33:03,320 --> 02:33:06,720
+So now change the condition in here.
+
+2093
+02:33:07,160 --> 02:33:11,400
+Change the condition in here
+to this Susan MacLaren
+
+2094
+02:33:11,520 --> 02:33:15,800
+and run your code.
+
+2095
+02:33:15,800 --> 02:33:18,120
+But do not change your X path, okay?
+
+2096
+02:33:18,600 --> 02:33:28,000
+What's going to happen?
+
+2097
+02:33:28,000 --> 02:33:29,840
+See, that's what I was telling you, Andre.
+
+2098
+02:33:29,840 --> 02:33:33,120
+Okay, so because you changing
+
+2099
+02:33:33,120 --> 02:33:38,640
+your condition in here,
+but your expert has the name as well.
+
+2100
+02:33:38,880 --> 02:33:41,560
+So that's why that's why it's
+
+2101
+02:33:41,640 --> 02:33:45,400
+going to be changed
+in two different places.
+
+2102
+02:33:46,080 --> 02:33:47,720
+If you go with your.
+
+2103
+02:33:47,720 --> 02:33:51,480
+Okay, first
+
+2104
+02:33:51,480 --> 02:33:55,840
+place.
+
+2105
+02:33:55,840 --> 02:33:56,320
+No, no, no.
+
+2106
+02:33:56,320 --> 02:34:01,520
+It clicked on Samuel Clements
+because we starting from one in here.
+
+2107
+02:34:01,800 --> 02:34:02,400
+Okay.
+
+2108
+02:34:02,400 --> 02:34:06,040
+So if you start from one in here,
+that means you starting
+
+2109
+02:34:06,240 --> 02:34:12,360
+from the second checkbox in here
+so that that's why you going one forward.
+
+2110
+02:34:12,400 --> 02:34:13,040
+Okay.
+
+2111
+02:34:13,040 --> 02:34:16,800
+So order for us to go in a level
+with that for loop,
+
+2112
+02:34:16,800 --> 02:34:19,920
+we need to get one checkbox back.
+
+2113
+02:34:21,000 --> 02:34:26,040
+Okay.
+
+2114
+02:34:26,040 --> 02:34:50,120
+Any other questions guys?
+
+2115
+02:34:50,120 --> 02:34:52,800
+Okay. So
+
+2116
+02:34:55,000 --> 02:34:56,160
+okay, I'll break the code.
+
+2117
+02:34:56,160 --> 02:34:57,680
+Okay. One second, guys. Okay.
+
+2118
+02:34:57,680 --> 02:34:59,680
+So I have a question in here.
+
+2119
+02:34:59,720 --> 02:35:03,760
+What if I want to click on Mark
+
+2120
+02:35:03,760 --> 02:35:07,920
+Smith, Bob Sather and Claire Jefferson?
+
+2121
+02:35:07,920 --> 02:35:11,200
+Guys, what would I change in my code
+
+2122
+02:35:11,640 --> 02:35:14,440
+or how would I do this?
+
+2123
+02:35:14,440 --> 02:35:24,360
+Let's go back in here.
+
+2124
+02:35:24,360 --> 02:35:34,280
+So if Bob is lost, that's fine.
+
+2125
+02:35:34,280 --> 02:35:39,480
+Put or okay,
+So what if I take a look at the table guys
+
+2126
+02:35:40,800 --> 02:35:43,560
+using and take a look at the table?
+
+2127
+02:35:43,920 --> 02:35:46,960
+Do we need any or and inside our
+
+2128
+02:35:46,960 --> 02:35:48,480
+if condition
+
+2129
+02:35:51,840 --> 02:35:52,960
+it will only click one.
+
+2130
+02:35:52,960 --> 02:35:56,400
+Okay we don't need the break
+because we're clicking on different ones.
+
+2131
+02:35:56,400 --> 02:35:57,360
+That's a good point.
+
+2132
+02:35:57,360 --> 02:35:59,520
+Okay. That I agree with.
+
+2133
+02:35:59,520 --> 02:36:02,400
+Okay, so let's go ahead and delete this.
+
+2134
+02:36:02,400 --> 02:36:04,080
+Right. Okay.
+
+2135
+02:36:04,080 --> 02:36:07,080
+What about how how would I do?
+
+2136
+02:36:07,080 --> 02:36:11,160
+How would I click these three
+without putting an end
+
+2137
+02:36:11,160 --> 02:36:21,000
+or statements?
+
+2138
+02:36:21,000 --> 02:36:21,960
+II minus two?
+
+2139
+02:36:21,960 --> 02:36:26,240
+Not really.
+
+2140
+02:36:26,240 --> 02:36:35,600
+Okay, guys,
+let's take a look at the table.
+
+2141
+02:36:35,600 --> 02:36:50,840
+Let's pay attention to the table rows,
+guys.
+
+2142
+02:36:50,840 --> 02:36:52,280
+Just two more clicks.
+
+2143
+02:36:52,280 --> 02:36:52,840
+Not really.
+
+2144
+02:36:52,840 --> 02:36:54,960
+No. I want to keep it as it is right now.
+
+2145
+02:36:55,080 --> 02:36:56,600
+I don't want to add more clicks
+
+2146
+02:36:59,800 --> 02:37:00,960
+by product.
+
+2147
+02:37:00,960 --> 02:37:03,280
+Absolutely. Right. There we go.
+
+2148
+02:37:04,160 --> 02:37:06,840
+You can see in here, family album,
+
+2149
+02:37:07,680 --> 02:37:11,720
+family Album, Sam,
+the album in here, right?
+
+2150
+02:37:11,920 --> 02:37:14,600
+So the product they have is the same.
+
+2151
+02:37:14,800 --> 02:37:18,240
+So what you need to change in here is only
+
+2152
+02:37:20,320 --> 02:37:24,560
+this part.
+
+2153
+02:37:24,560 --> 02:37:26,760
+Okay, so let's run this
+
+2154
+02:37:29,840 --> 02:37:31,200
+and see
+
+2155
+02:37:31,560 --> 02:37:33,880
+if this is going
+to click on three of those
+
+2156
+02:37:42,000 --> 02:37:45,000
+and we go 1 to 3.
+
+2157
+02:37:45,480 --> 02:37:46,200
+Right?
+
+2158
+02:37:46,200 --> 02:37:50,200
+That's why, guys,
+I told you to pay attention on the table.
+
+2159
+02:37:50,440 --> 02:37:53,040
+Okay. What do have on the rows, guys?
+
+2160
+02:37:53,040 --> 02:37:55,320
+What what is the common
+
+2161
+02:37:56,280 --> 02:38:00,080
+containing text that we have
+that we don't have to write a lot of code.
+
+2162
+02:38:00,400 --> 02:38:04,800
+Okay.
+
+2163
+02:38:04,800 --> 02:38:06,920
+If there was no
+
+2164
+02:38:06,960 --> 02:38:09,680
+same product, then you would go with
+
+2165
+02:38:09,960 --> 02:38:13,080
+with different things
+you can do, you can put or
+
+2166
+02:38:14,160 --> 02:38:17,160
+inside your F condition
+or you could do another if condition.
+
+2167
+02:38:17,160 --> 02:38:18,640
+So it's all up to you.
+
+2168
+02:38:18,640 --> 02:38:20,640
+Okay.
+
+2169
+02:38:20,640 --> 02:38:24,720
+In this particular situation,
+the only thing that you want to change
+
+2170
+02:38:24,720 --> 02:38:27,640
+is the containing text, because they have
+
+2171
+02:38:28,680 --> 02:38:31,240
+they all have the same exact
+
+2172
+02:38:31,240 --> 02:38:34,680
+product.
+
+2173
+02:38:34,680 --> 02:38:35,480
+Okay.
+
+2174
+02:38:38,360 --> 02:38:43,040
+Any questions, guys?
+
+2175
+02:38:43,040 --> 02:38:47,400
+Any questions on how to handle
+static and dynamic
+
+2176
+02:38:47,400 --> 02:39:04,560
+web tables?
+
+2177
+02:39:04,560 --> 02:39:08,040
+And let's see,
+people are typing to the code.
+
+2178
+02:39:08,040 --> 02:39:19,760
+Okay, yours click to checkboxes.
+
+2179
+02:39:19,760 --> 02:39:21,040
+Send us the screenshot.
+
+2180
+02:39:21,040 --> 02:39:22,200
+We want to see the code.
+
+2181
+02:39:22,200 --> 02:39:51,840
+Okay.
+
+2182
+02:39:51,840 --> 02:39:55,040
+Okay. Any questions, guys?
+
+2183
+02:39:55,040 --> 02:39:56,880
+Any questions on the weights?
+
+2184
+02:39:56,880 --> 02:39:58,200
+Any questions on?
+
+2185
+02:39:58,200 --> 02:40:38,000
+The the web tables?
+
+2186
+02:40:38,000 --> 02:40:40,080
+Yeah. We just need some practice. Right.
+
+2187
+02:40:40,320 --> 02:40:49,920
+So see?
+
+2188
+02:40:49,920 --> 02:40:54,840
+Yeah, yeah.
+
+2189
+02:40:54,840 --> 02:40:57,360
+The for the floor loop,
+we started from zero.
+
+2190
+02:40:58,320 --> 02:41:04,000
+Okay, so you need to start your
+for loop from one.
+
+2191
+02:41:04,000 --> 02:41:37,600
+Okay.
+
+2192
+02:41:37,600 --> 02:41:39,640
+There are only two checkboxes.
+
+2193
+02:41:39,640 --> 02:41:57,280
+There should be three
+right from the album.
+
+2194
+02:41:57,280 --> 02:42:05,440
+And let's see.
+
+2195
+02:42:05,440 --> 02:42:07,200
+Okay, it's yours.
+
+2196
+02:42:07,200 --> 02:42:08,320
+Checked only one.
+
+2197
+02:42:08,320 --> 02:42:10,840
+I think you have a break inside the loop.
+
+2198
+02:42:10,840 --> 02:42:48,320
+Okay, so you need to remove that break.
+
+2199
+02:42:48,320 --> 02:42:55,920
+Okay, Let me see.
+
+2200
+02:42:55,920 --> 02:43:01,680
+I should put on three.
+
+2201
+02:43:01,680 --> 02:43:03,280
+And you're not getting any errors.
+
+2202
+02:43:04,560 --> 02:43:07,480
+Whoever is getting only two checkboxes,
+is there any error?
+
+2203
+02:43:07,520 --> 02:43:27,920
+You guys getting?
+
+2204
+02:43:27,920 --> 02:43:28,600
+Okay,
+
+2205
+02:43:30,240 --> 02:43:30,760
+let's
+
+2206
+02:44:00,000 --> 02:44:01,800
+not sure why it's not clicking.
+
+2207
+02:44:01,800 --> 02:44:07,920
+It should meet one, but it's probably.
+
+2208
+02:44:07,920 --> 02:44:25,280
+Let's see now.
+
+2209
+02:44:25,360 --> 02:44:26,160
+I should
+
+2210
+02:44:28,640 --> 02:44:29,280
+match or.
+
+2211
+02:44:29,280 --> 02:44:31,000
+Right. And
+
+2212
+02:44:31,920 --> 02:44:34,960
+if you have the same exact code in here
+
+2213
+02:44:36,720 --> 02:44:38,040
+it should be present on.
+
+2214
+02:44:38,040 --> 02:44:39,560
+So you guys
+
+2215
+02:44:44,920 --> 02:44:45,840
+are you worse?
+
+2216
+02:44:45,840 --> 02:44:50,040
+Okay, so take a look at
+what is the difference between yours.
+
+2217
+02:44:50,040 --> 02:44:52,880
+Your and demo of these code.
+
+2218
+02:44:53,320 --> 02:45:00,800
+Okay.
+
+2219
+02:45:00,800 --> 02:45:21,240
+Okay, guys, any other questions?
+
+2220
+02:45:21,240 --> 02:45:24,280
+Yes, I'll push the code, guys. Okay.
+
+2221
+02:45:24,280 --> 02:45:27,080
+Any questions on on anything
+
+2222
+02:45:27,080 --> 02:45:34,640
+we have covered guys.
+
+2223
+02:45:34,640 --> 02:45:36,440
+Intense, but not too much.
+
+2224
+02:45:36,440 --> 02:45:37,920
+You want more?
+
+2225
+02:45:38,480 --> 02:45:45,160
+I can bring more guys if you want.
+
+2226
+02:45:45,160 --> 02:45:46,800
+Have not today.
+
+2227
+02:45:46,800 --> 02:45:49,920
+Okay.
+
+2228
+02:45:49,920 --> 02:45:50,920
+Only fluent ways.
+
+2229
+02:45:50,920 --> 02:45:52,160
+Not clear, guys. Okay.
+
+2230
+02:45:52,160 --> 02:45:54,640
+Don't focus too much on the one. Great.
+
+2231
+02:45:54,680 --> 02:45:55,200
+Okay.
+
+2232
+02:45:55,200 --> 02:45:57,120
+I'll ask Moazzam if you can.
+
+2233
+02:45:57,120 --> 02:45:59,440
+If you can bring up an example. Okay.
+
+2234
+02:46:00,840 --> 02:46:03,920
+I hope you can.
+
+2235
+02:46:03,920 --> 02:46:08,280
+And he will show you the example for the
+what's called for the flown way.
+
+2236
+02:46:08,280 --> 02:46:13,320
+Okay.
+
+2237
+02:46:13,320 --> 02:46:15,440
+And let me see actually what I have.
+
+2238
+02:46:15,440 --> 02:46:16,680
+So the
+
+2239
+02:46:19,880 --> 02:46:21,520
+we want to have
+
+2240
+02:46:21,520 --> 02:46:26,120
+some more topics today.
+
+2241
+02:46:26,120 --> 02:46:26,920
+Unfortunately.
+
+2242
+02:46:26,920 --> 02:46:29,840
+Unfortunately, we're out of time.
+
+2243
+02:46:29,840 --> 02:46:37,960
+Okay. So.
+
+2244
+02:46:37,960 --> 02:46:38,520
+All right.
+
+2245
+02:46:38,520 --> 02:46:40,520
+So let me get this.
+
+2246
+02:46:40,520 --> 02:46:42,360
+Yeah.
+
+2247
+02:46:42,360 --> 02:46:46,640
+Opposed to homework in here.
+
+2248
+02:46:46,640 --> 02:46:49,360
+All right. So
+
+2249
+02:46:50,760 --> 02:46:54,120
+let's see what it was.
+
+2250
+02:46:54,120 --> 02:46:55,680
+Okay, guys.
+
+2251
+02:46:55,800 --> 02:46:58,680
+All right, so here is the thing.
+
+2252
+02:46:58,680 --> 02:47:01,040
+So here's what I want you to do in here.
+
+2253
+02:47:01,080 --> 02:47:01,440
+Okay?
+
+2254
+02:47:01,440 --> 02:47:03,480
+So they
+
+2255
+02:47:03,680 --> 02:47:05,280
+go to this website, right?
+
+2256
+02:47:05,280 --> 02:47:08,160
+Click on the checkbox and click on Remove.
+
+2257
+02:47:08,640 --> 02:47:11,520
+Okay, Click on the checkbox,
+click on remove.
+
+2258
+02:47:12,800 --> 02:47:16,080
+So you want to do you want to make sure
+
+2259
+02:47:16,800 --> 02:47:18,880
+that this text is
+
+2260
+02:47:19,920 --> 02:47:21,040
+is appeared in here.
+
+2261
+02:47:22,000 --> 02:47:22,680
+Okay.
+
+2262
+02:47:22,720 --> 02:47:24,240
+And then
+
+2263
+02:47:24,760 --> 02:47:29,040
+what you want to do,
+you want to enable this text box.
+
+2264
+02:47:29,800 --> 02:47:32,440
+Okay, You want to enable it
+
+2265
+02:47:32,680 --> 02:47:35,600
+and verify that this text box is enabled.
+
+2266
+02:47:35,920 --> 02:47:40,680
+Type something in here
+and verified this text
+
+2267
+02:47:41,280 --> 02:47:45,040
+and click on this some disable as well.
+
+2268
+02:47:46,480 --> 02:47:49,560
+Okay, Click,
+
+2269
+02:47:49,560 --> 02:47:52,880
+disable and verify
+that the text box is disabled.
+
+2270
+02:47:53,080 --> 02:47:55,200
+Is that clear? Guys,
+
+2271
+02:47:55,880 --> 02:48:01,640
+any questions.
+
+2272
+02:48:01,640 --> 02:48:02,280
+Okay, good.
+
+2273
+02:48:02,280 --> 02:48:06,600
+Don't pay attention to this one
+because it's not functioning properly.
+
+2274
+02:48:06,600 --> 02:48:07,400
+Okay.
+
+2275
+02:48:07,400 --> 02:48:11,240
+Just do the steps and verify
+the text in here.
+
+2276
+02:48:11,240 --> 02:48:16,560
+Verify the buttons,
+not the button, the text box, if you like.
+
+2277
+02:48:16,560 --> 02:48:18,800
+And let me post this
+
+2278
+02:48:19,880 --> 02:48:22,520
+of course, announcements
+
+2279
+02:48:32,240 --> 02:48:35,040
+I posted
+and of course announcements, guys.
+
+2280
+02:48:35,040 --> 02:48:36,720
+Okay, one more thing.
+
+2281
+02:48:36,720 --> 02:48:38,280
+Okay, guys, I have a question.
+
+2282
+02:48:38,280 --> 02:48:41,280
+What Is the topic that you're in with Java
+
+2283
+02:48:41,280 --> 02:48:49,000
+guys.
+
+2284
+02:48:49,000 --> 02:48:50,520
+Okay. In the maps,
+
+2285
+02:48:51,560 --> 02:48:54,080
+you know, what's the next topic, guys
+
+2286
+02:48:54,080 --> 02:48:57,920
+Is it exception handling
+
+2287
+02:48:57,960 --> 02:48:58,800
+or file hand?
+
+2288
+02:48:58,800 --> 02:49:01,440
+Okay, okay.
+Okay. File reading. Okay, good.
+
+2289
+02:49:01,920 --> 02:49:04,880
+After that,
+you're going to have exception handling.
+
+2290
+02:49:04,880 --> 02:49:05,600
+Okay.
+
+2291
+02:49:05,640 --> 02:49:08,000
+So what I want you to do now, guys,
+
+2292
+02:49:09,120 --> 02:49:10,120
+what I want you to do.
+
+2293
+02:49:10,120 --> 02:49:13,440
+So we have eight packages in here, right?
+
+2294
+02:49:13,800 --> 02:49:15,400
+We have eight packages.
+
+2295
+02:49:15,400 --> 02:49:19,200
+What I want you to do,
+I want you create another package.
+
+2296
+02:49:19,680 --> 02:49:20,360
+Okay?
+
+2297
+02:49:20,640 --> 02:49:24,240
+Create another package
+and name it as utilities.
+
+2298
+02:49:24,600 --> 02:49:24,960
+Okay?
+
+2299
+02:49:24,960 --> 02:49:27,720
+Or you can name it as utils.
+
+2300
+02:49:27,720 --> 02:49:28,640
+Okay,
+
+2301
+02:49:29,240 --> 02:49:33,120
+So create that package name utils
+
+2302
+02:49:33,600 --> 02:49:38,200
+and what you need to do,
+create a java class.
+
+2303
+02:49:38,200 --> 02:49:42,040
+So let me put it here, create a package
+
+2304
+02:49:43,120 --> 02:49:46,520
+and name it as
+
+2305
+02:49:47,960 --> 02:49:49,840
+utils. Okay.
+
+2306
+02:49:49,840 --> 02:49:50,960
+Or utils.
+
+2307
+02:49:50,960 --> 02:49:52,240
+It doesn't really matter.
+
+2308
+02:49:52,240 --> 02:49:53,600
+Created class.
+
+2309
+02:49:53,600 --> 02:49:55,520
+Okay.
+
+2310
+02:49:55,520 --> 02:49:57,000
+And name it
+
+2311
+02:49:58,640 --> 02:50:02,760
+as common methods.
+
+2312
+02:50:03,240 --> 02:50:05,880
+Okay guys. So what want you to do?
+
+2313
+02:50:06,440 --> 02:50:11,640
+I want you to build two functions,
+which is common function.
+
+2314
+02:50:11,800 --> 02:50:15,760
+When I call that function,
+it opens my browser
+
+2315
+02:50:15,880 --> 02:50:19,680
+and when I call the second
+it will close my browser.
+
+2316
+02:50:19,960 --> 02:50:20,680
+Is that clear?
+
+2317
+02:50:20,680 --> 02:50:26,120
+Guys,
+
+2318
+02:50:26,120 --> 02:50:27,480
+create
+
+2319
+02:50:29,520 --> 02:50:33,440
+functions.
+
+2320
+02:50:33,440 --> 02:50:34,320
+I mean methods.
+
+2321
+02:50:34,320 --> 02:50:38,240
+Write methods to open
+
+2322
+02:50:39,120 --> 02:50:49,320
+and close the browsers.
+
+2323
+02:50:49,320 --> 02:50:52,720
+Okay, guys, is that clear?
+
+2324
+02:50:52,720 --> 02:50:55,760
+So what I want you to do,
+just create a method.
+
+2325
+02:50:55,960 --> 02:50:59,520
+Okay, so Create two methods.
+
+2326
+02:51:00,040 --> 02:51:00,920
+Which one?
+
+2327
+02:51:00,920 --> 02:51:04,320
+The first one opens up the
+
+2328
+02:51:06,480 --> 02:51:07,320
+what's called
+
+2329
+02:51:07,320 --> 02:51:10,080
+the browser and navigates to the euro.
+
+2330
+02:51:10,640 --> 02:51:13,920
+Okay, so the URL I can
+
+2331
+02:51:14,120 --> 02:51:16,800
+I need to pass
+the URL inside the signature.
+
+2332
+02:51:17,520 --> 02:51:18,480
+Okay guys.
+
+2333
+02:51:18,480 --> 02:51:21,120
+So I hope you guys already know
+how to create methods,
+
+2334
+02:51:21,360 --> 02:51:24,920
+how to do the parameters
+and how to do the return types.
+
+2335
+02:51:25,280 --> 02:51:27,440
+Right? There we go.
+
+2336
+02:51:27,440 --> 02:51:31,320
+So open launching the browser
+and navigating to the euro
+
+2337
+02:51:31,720 --> 02:51:35,400
+closing
+is going to be just quitting the browser.
+
+2338
+02:51:35,720 --> 02:51:39,920
+Okay, So whenever I, I call those methods,
+
+2339
+02:51:39,920 --> 02:51:44,840
+I want those to open
+and I want us to close the browsers.
+
+2340
+02:51:46,240 --> 02:51:46,680
+Is that
+
+2341
+02:51:46,680 --> 02:51:53,520
+clear, guys?
+
+2342
+02:51:53,520 --> 02:51:56,160
+Andre Yes, that's what I want exactly.
+
+2343
+02:51:56,680 --> 02:51:59,040
+Or you can come up with different idea.
+
+2344
+02:51:59,040 --> 02:52:06,320
+That's fine with me.
+
+2345
+02:52:06,320 --> 02:52:10,160
+Okay, so let's see how good you are in job
+analysis.
+
+2346
+02:52:10,200 --> 02:52:14,920
+Okay, so this is basic, basic
+things that you going to be actually
+
+2347
+02:52:14,920 --> 02:52:19,800
+creating methods inside your framework,
+okay.
+
+2348
+02:52:20,040 --> 02:52:23,880
+Because you're going to have as a separate
+
+2349
+02:52:23,880 --> 02:52:27,000
+class, which has all the common methods
+
+2350
+02:52:27,240 --> 02:52:31,920
+to click to send keys
+to choose anything from the dropdown,
+
+2351
+02:52:32,160 --> 02:52:35,880
+to choose any checkbox
+or any radial button.
+
+2352
+02:52:36,240 --> 02:52:36,960
+Okay, guys.
+
+2353
+02:52:36,960 --> 02:52:39,840
+So you will have a lot of different common
+methods.
+
+2354
+02:52:40,160 --> 02:52:40,600
+Okay.
+
+2355
+02:52:40,600 --> 02:52:45,000
+So I want you to start with these two
+methods inside your Common methods class.
+
+2356
+02:52:46,280 --> 02:53:01,760
+Okay.
+
+2357
+02:53:01,760 --> 02:53:03,880
+All right. Any questions, guys?
+
+2358
+02:53:03,880 --> 02:53:20,880
+Is there anyone who is confused
+about the second homework?
+
+2359
+02:53:20,880 --> 02:53:22,600
+I hope not. I think
+
+2360
+02:53:26,720 --> 02:53:28,120
+you're confused. Why?
+
+2361
+02:53:28,120 --> 02:53:29,760
+You just need to.
+
+2362
+02:53:30,720 --> 02:53:32,920
+You just need to build two methods.
+
+2363
+02:53:32,920 --> 02:53:33,480
+Right?
+
+2364
+02:53:33,480 --> 02:54:10,600
+So what are you confused about?
+
+2365
+02:54:10,600 --> 02:54:14,840
+Okay, so if you're a little bit confused
+with how to build those,
+
+2366
+02:54:14,840 --> 02:54:18,320
+please communicate with the teammates
+
+2367
+02:54:19,080 --> 02:54:21,240
+and come up with some solutions on that.
+
+2368
+02:54:21,960 --> 02:54:25,680
+Okay, guys.
+
+2369
+02:54:25,680 --> 02:54:26,280
+All right.
+
+2370
+02:54:26,280 --> 02:54:29,400
+Any other questions
+
+2371
+02:54:35,400 --> 02:54:36,960
+is no questions.
+
+2372
+02:54:36,960 --> 02:54:39,600
+Then we can wrap it up for today.
+
+2373
+02:54:40,240 --> 02:54:42,960
+I know it's a lot of information,
+
+2374
+02:54:42,960 --> 02:54:44,160
+so let me check.
+
+2375
+02:54:44,160 --> 02:54:46,400
+What do we have for the next class?
+
+2376
+02:54:47,280 --> 02:54:54,560
+Not really sure what we have.
+
+2377
+02:54:54,560 --> 02:54:59,720
+Let me check guys in quick.
+
+2378
+02:54:59,720 --> 02:55:00,480
+Okay. Yes.
+
+2379
+02:55:00,480 --> 02:55:04,400
+So next class, guys,
+we will be handling calendars.
+
+2380
+02:55:04,840 --> 02:55:05,400
+Okay.
+
+2381
+02:55:05,400 --> 02:55:07,200
+So please take a look at that.
+
+2382
+02:55:07,200 --> 02:55:09,240
+How to handle calendar Miscellaneous.
+
+2383
+02:55:09,600 --> 02:55:17,360
+Okay.
+
+2384
+02:55:17,360 --> 02:55:18,440
+Okay, guys.
+
+2385
+02:55:18,440 --> 02:55:21,000
+All right. Please complete the homework.
+
+2386
+02:55:21,000 --> 02:55:23,720
+Please review all that we've done so far.
+
+2387
+02:55:23,920 --> 02:55:24,760
+Okay.
+
+2388
+02:55:24,760 --> 02:55:28,040
+And I will see you next week, guys. Okay.
+
+2389
+02:55:29,160 --> 02:55:30,000
+Stay safe.
+
+2390
+02:55:30,000 --> 02:55:31,720
+Have a good one.
+
+2391
+02:55:32,320 --> 02:55:34,480
+Yes, I'll share the slides, guys.
+
+2392
+02:55:34,480 --> 02:55:36,600
+Okay.
+
+2393
+02:55:36,600 --> 02:55:38,240
+Have a great night, everyone.
+
+2394
+02:55:38,240 --> 02:55:40,680
+Take care and I'll see you next week.
+
+2395
+02:55:41,160 --> 02:55:43,920
+All right. Bye, everybody.

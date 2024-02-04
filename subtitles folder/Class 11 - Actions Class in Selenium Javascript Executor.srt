@@ -1,0 +1,8603 @@
+﻿1
+00:00:16,960 --> 00:00:20,000
+I lost two classes, guys.
+
+2
+00:00:21,000 --> 00:00:31,320
+Well, technically,
+today is the last class of selenium.
+
+3
+00:00:36,640 --> 00:00:39,520
+Tomorrow, we're going to be going over
+
+4
+00:00:39,520 --> 00:00:40,600
+some other design.
+
+5
+00:00:40,600 --> 00:00:42,720
+Okay, so design of the framework.
+
+6
+00:00:43,920 --> 00:00:46,200
+I'll start with page object model,
+
+7
+00:00:46,200 --> 00:00:48,640
+and then you guys going to continue with
+
+8
+00:00:49,960 --> 00:00:53,000
+with building up the test
+engine framework and Cucumber
+
+9
+00:00:53,000 --> 00:00:55,320
+framework.
+
+10
+00:01:01,080 --> 00:01:03,840
+Okay.
+
+11
+00:01:08,600 --> 00:01:09,720
+All right.
+
+12
+00:01:10,680 --> 00:01:13,680
+So I hope everyone completed the homework
+
+13
+00:01:14,600 --> 00:01:17,000
+that I gave last time.
+
+14
+00:01:17,000 --> 00:01:17,400
+Right.
+
+15
+00:01:17,400 --> 00:01:24,000
+And everyone understood
+about the last class, all the topics.
+
+16
+00:01:24,000 --> 00:01:27,640
+And I hope you guys are practicing right,
+Especially the tables.
+
+17
+00:01:28,160 --> 00:01:31,800
+How to manipulate the tables, rows
+
+18
+00:01:31,800 --> 00:01:35,840
+and columns.
+
+19
+00:01:35,840 --> 00:01:36,400
+All right.
+
+20
+00:01:36,400 --> 00:01:41,280
+So today, it's not going to be
+a really difficult class, but
+
+21
+00:01:41,280 --> 00:01:45,440
+just going to go over some last topics and
+
+22
+00:01:46,880 --> 00:01:50,760
+if we have time, I'm going to start with
+page object model, and then
+
+23
+00:01:51,720 --> 00:01:54,440
+we'll end there.
+
+24
+00:01:56,320 --> 00:01:56,600
+Okay.
+
+25
+00:01:59,400 --> 00:02:09,480
+See? All right.
+
+26
+00:02:09,480 --> 00:02:12,920
+So let's let's do a quick recap, guys,
+
+27
+00:02:13,000 --> 00:02:17,960
+of what we've done so far or last class.
+
+28
+00:02:18,520 --> 00:02:19,280
+All right.
+
+29
+00:02:19,280 --> 00:02:24,160
+And then we can go ahead and start
+with some new topics.
+
+30
+00:02:24,200 --> 00:02:24,800
+Okay.
+
+31
+00:02:26,240 --> 00:02:26,840
+All right.
+
+32
+00:02:26,840 --> 00:02:29,080
+So what did we do last class, guys?
+
+33
+00:02:30,640 --> 00:02:33,840
+Okay, so we worked with calendars, right?
+
+34
+00:02:34,680 --> 00:02:37,040
+What else?
+
+35
+00:02:39,360 --> 00:02:44,080
+And we have covered actions class
+with covered screenshots.
+
+36
+00:02:44,080 --> 00:02:44,440
+Right?
+
+37
+00:02:44,440 --> 00:02:47,040
+So now we know how to
+
+38
+00:02:47,960 --> 00:02:51,000
+how to have screenshots, how to make
+
+39
+00:02:53,880 --> 00:02:56,400
+some other extra actions.
+
+40
+00:02:56,840 --> 00:02:57,240
+Right.
+
+41
+00:02:57,240 --> 00:03:00,120
+With Selenium.
+
+42
+00:03:00,960 --> 00:03:03,160
+Check. Check your settings.
+
+43
+00:03:03,160 --> 00:03:03,640
+Okay.
+
+44
+00:03:03,640 --> 00:03:13,920
+So it seems like
+everybody else can hear me.
+
+45
+00:03:16,160 --> 00:03:17,360
+Okay, good.
+
+46
+00:03:18,240 --> 00:03:20,600
+All right, guys. So.
+
+47
+00:03:20,600 --> 00:03:21,920
+So now
+
+48
+00:03:22,480 --> 00:03:24,600
+let's start with calendars. Right.
+
+49
+00:03:24,600 --> 00:03:26,600
+So what do we know about calendars, guys?
+
+50
+00:03:26,640 --> 00:03:42,120
+How do we handle calendars?
+
+51
+00:03:44,160 --> 00:03:44,800
+Okay.
+
+52
+00:03:44,800 --> 00:03:45,280
+All right.
+
+53
+00:03:45,280 --> 00:03:48,480
+So calendars are similar to the table,
+
+54
+00:03:48,920 --> 00:03:51,640
+right, that we have on the Web pages.
+
+55
+00:03:52,960 --> 00:03:55,560
+So how to handle
+with first click on the calendar.
+
+56
+00:03:55,800 --> 00:03:58,720
+Then we find the month and the date.
+
+57
+00:03:59,160 --> 00:04:01,960
+Okay.
+
+58
+00:04:01,960 --> 00:04:04,160
+Store date into a list.
+
+59
+00:04:04,240 --> 00:04:06,800
+Okay, So what do we do?
+
+60
+00:04:06,840 --> 00:04:18,240
+What do we do with what month, guys?
+
+61
+00:04:18,240 --> 00:04:19,880
+We get the text.
+
+62
+00:04:19,880 --> 00:04:20,640
+Okay.
+
+63
+00:04:20,640 --> 00:04:23,240
+And then what?
+
+64
+00:04:24,480 --> 00:04:29,080
+So we locate the month, we get the texts,
+and then look through.
+
+65
+00:04:29,120 --> 00:04:30,800
+We find the next button.
+
+66
+00:04:30,800 --> 00:04:31,120
+Right.
+
+67
+00:04:31,120 --> 00:04:34,360
+Okay, good.
+
+68
+00:04:38,080 --> 00:04:38,400
+Okay.
+
+69
+00:04:38,400 --> 00:04:40,680
+I have my month. I have my next button.
+
+70
+00:04:40,800 --> 00:04:48,920
+What else?
+
+71
+00:04:48,920 --> 00:04:50,400
+We need a while. Right.
+
+72
+00:04:50,400 --> 00:04:52,280
+Because we don't really know
+how many times
+
+73
+00:04:52,280 --> 00:04:56,640
+we need to click on the next button
+to find the expected months.
+
+74
+00:04:57,120 --> 00:04:59,920
+Right.
+So we're clicking on the next button.
+
+75
+00:04:59,920 --> 00:05:01,200
+So we found our month.
+
+76
+00:05:01,200 --> 00:05:03,640
+Now we stop there. Right.
+
+77
+00:05:03,960 --> 00:05:07,640
+So afterwards, we will go ahead and start
+
+78
+00:05:07,640 --> 00:05:10,400
+looking for the date.
+
+79
+00:05:10,720 --> 00:05:13,640
+Right. That we need.
+
+80
+00:05:14,840 --> 00:05:18,240
+And then we're going to go ahead and start
+looking through the dates.
+
+81
+00:05:18,240 --> 00:05:23,800
+And we have a condition
+when our matching the date
+
+82
+00:05:24,360 --> 00:05:26,480
+where we match the date
+with our condition.
+
+83
+00:05:26,760 --> 00:05:28,560
+Only then we're going to click on it.
+
+84
+00:05:28,560 --> 00:05:30,480
+Right. Okay.
+
+85
+00:05:30,480 --> 00:05:31,080
+Nice.
+
+86
+00:05:31,080 --> 00:05:35,600
+What about the.
+
+87
+00:05:35,600 --> 00:05:37,480
+Before we move forward?
+
+88
+00:05:37,480 --> 00:05:39,960
+Any questions, guys, on the calendars?
+
+89
+00:05:39,960 --> 00:05:48,720
+How to handle the calendars?
+
+90
+00:05:52,040 --> 00:05:52,560
+Oh, good.
+
+91
+00:05:52,560 --> 00:05:54,320
+Right. Okay.
+
+92
+00:05:54,720 --> 00:05:56,480
+All right, So let's
+
+93
+00:05:56,480 --> 00:05:58,760
+let's go ahead and talk about
+
+94
+00:05:59,920 --> 00:06:01,840
+talk about the actions class.
+
+95
+00:06:01,840 --> 00:06:04,040
+Right.
+
+96
+00:06:07,440 --> 00:06:10,720
+If declared outside of the loop.
+
+97
+00:06:10,720 --> 00:06:11,240
+Okay. Yeah.
+
+98
+00:06:11,240 --> 00:06:15,320
+Then that means your page
+is getting refreshed, right?
+
+99
+00:06:15,360 --> 00:06:20,280
+When you click on next or something is get
+something is happening in the website.
+
+100
+00:06:20,280 --> 00:06:20,800
+Right.
+
+101
+00:06:20,800 --> 00:06:25,320
+If your next button wasn't working,
+if you declaring it outside of the loop.
+
+102
+00:06:25,400 --> 00:06:27,240
+Right. So that happened
+
+103
+00:06:28,520 --> 00:06:30,520
+last time
+when we were dealing with tables.
+
+104
+00:06:30,520 --> 00:06:33,840
+When you click on next,
+the whole page is getting refreshed.
+
+105
+00:06:34,040 --> 00:06:34,680
+Right.
+
+106
+00:06:34,760 --> 00:06:38,840
+So that's probably why it wasn't working.
+
+107
+00:06:40,560 --> 00:06:44,080
+Okay, so what do we know about actions,
+class guys?
+
+108
+00:06:44,400 --> 00:06:46,040
+What can we do with actions?
+
+109
+00:06:46,040 --> 00:06:48,560
+Class when we use actions, class.
+
+110
+00:06:52,080 --> 00:06:53,680
+So actions class is used
+
+111
+00:06:53,680 --> 00:06:57,720
+for keyboard and mouse actions, right?
+
+112
+00:06:58,080 --> 00:06:58,520
+Okay.
+
+113
+00:06:58,520 --> 00:07:02,840
+So what kind of actions do we know?
+
+114
+00:07:08,040 --> 00:07:12,440
+Okay, so we now drag and drop right?
+
+115
+00:07:13,840 --> 00:07:18,480
+We have mouse over or double click.
+
+116
+00:07:18,680 --> 00:07:21,120
+Right. We have right click. Okay.
+
+117
+00:07:21,240 --> 00:07:24,280
+So these are some extra actions
+
+118
+00:07:24,280 --> 00:07:27,480
+that we can perform with actions
+class, Right.
+
+119
+00:07:27,960 --> 00:07:31,040
+Okay. So we've done drag and drop.
+
+120
+00:07:31,040 --> 00:07:33,440
+I think we've done moves to an element.
+
+121
+00:07:33,840 --> 00:07:34,200
+Right.
+
+122
+00:07:34,200 --> 00:07:39,440
+So today we will be going over the right
+click and the double click actions.
+
+123
+00:07:39,840 --> 00:07:44,520
+Okay.
+
+124
+00:07:44,520 --> 00:07:45,080
+All right.
+
+125
+00:07:45,080 --> 00:07:48,400
+So but before we do that,
+
+126
+00:07:49,280 --> 00:07:51,800
+let's go over the screenshots. Right?
+
+127
+00:07:51,800 --> 00:07:54,080
+So why do we need screenshots? Guys
+
+128
+00:08:07,760 --> 00:08:10,280
+to report the bugs, Right.
+
+129
+00:08:10,320 --> 00:08:13,240
+To have approved or something. Right.
+
+130
+00:08:13,240 --> 00:08:18,960
+If our test case passed or failed
+so that we can show to our developers
+
+131
+00:08:18,960 --> 00:08:21,520
+if it's de fact, we just
+
+132
+00:08:21,520 --> 00:08:24,880
+would just create a defect
+and attach everything in there.
+
+133
+00:08:25,400 --> 00:08:28,560
+And so main point of having the screenshot
+
+134
+00:08:28,560 --> 00:08:32,480
+is to have a proof of our test case
+
+135
+00:08:32,880 --> 00:08:35,520
+has covered some functionality.
+
+136
+00:08:35,880 --> 00:08:36,560
+Right.
+
+137
+00:08:36,800 --> 00:08:39,480
+So what's difference between actions
+class and action class?
+
+138
+00:08:39,480 --> 00:08:42,600
+I think we already had that question
+last class.
+
+139
+00:08:42,920 --> 00:08:45,280
+I'm not sure what action class has.
+
+140
+00:08:45,880 --> 00:08:46,200
+Okay.
+
+141
+00:08:46,200 --> 00:08:49,800
+I've never looked into that.
+
+142
+00:08:49,800 --> 00:08:52,120
+So it probably has
+some different methods in there.
+
+143
+00:08:52,160 --> 00:08:54,480
+So just take a look
+what's going on in there?
+
+144
+00:08:55,520 --> 00:08:56,960
+Okay.
+
+145
+00:09:00,400 --> 00:09:03,120
+All right.
+
+146
+00:09:04,320 --> 00:09:06,960
+Any other questions
+before we move forward,
+
+147
+00:09:07,000 --> 00:09:10,640
+guys?
+
+148
+00:09:14,520 --> 00:09:14,880
+Okay.
+
+149
+00:09:14,880 --> 00:09:16,200
+And one more thing, guys.
+
+150
+00:09:16,200 --> 00:09:20,040
+Today, since it's the last technically
+last class of this millennium
+
+151
+00:09:20,360 --> 00:09:25,640
+and tomorrow we won't be doing
+anything new with Selenium.
+
+152
+00:09:26,560 --> 00:09:29,920
+So I am going to give you
+
+153
+00:09:30,560 --> 00:09:32,960
+a very big homework
+
+154
+00:09:33,920 --> 00:09:35,160
+from the
+
+155
+00:09:35,160 --> 00:09:37,920
+from the very beginning,
+what we've started so far.
+
+156
+00:09:38,360 --> 00:09:40,560
+Okay. To
+
+157
+00:09:41,680 --> 00:09:44,840
+up to date.
+
+158
+00:09:44,960 --> 00:09:45,360
+Okay.
+
+159
+00:09:45,360 --> 00:09:49,280
+So it's going to be
+pretty good exercises for you
+
+160
+00:09:49,920 --> 00:09:52,400
+so that you can refresh your memory
+
+161
+00:09:53,200 --> 00:09:56,920
+from what we started from
+right until today.
+
+162
+00:09:58,160 --> 00:09:58,520
+Right.
+
+163
+00:09:58,520 --> 00:10:05,000
+You're going to have to create a lot of
+a lot of new steps and do more examples.
+
+164
+00:10:05,480 --> 00:10:08,520
+It's not going to be the Oracle now.
+
+165
+00:10:10,200 --> 00:10:12,840
+I have pretty good examples in here
+
+166
+00:10:12,840 --> 00:10:17,440
+so that you guys can go ahead and do that,
+but I'll give them to you
+
+167
+00:10:17,440 --> 00:10:18,520
+at the end of the class.
+
+168
+00:10:18,520 --> 00:10:21,640
+But did you guys start with Test
+and G already
+
+169
+00:10:21,640 --> 00:10:23,840
+or no.
+
+170
+00:10:25,160 --> 00:10:26,680
+Okay. Nice. Okay.
+
+171
+00:10:26,680 --> 00:10:30,360
+So you covered test in G,
+Did you did you guys cover
+
+172
+00:10:30,600 --> 00:10:33,360
+assertions or. No.
+
+173
+00:10:36,000 --> 00:10:37,400
+Okay, you guys covered the session.
+
+174
+00:10:37,400 --> 00:10:39,240
+It's nice. Okay, good.
+
+175
+00:10:39,240 --> 00:10:41,640
+Because I have
+this kind of examples as well,
+
+176
+00:10:41,640 --> 00:10:45,360
+so I'll give those to you
+so that you can practice on those as well.
+
+177
+00:10:45,600 --> 00:10:45,960
+Okay.
+
+178
+00:10:45,960 --> 00:10:48,120
+Next.
+
+179
+00:10:49,680 --> 00:10:50,320
+All right.
+
+180
+00:10:50,320 --> 00:10:53,160
+So right now let's see.
+
+181
+00:10:54,120 --> 00:10:57,200
+What I am going to do is
+
+182
+00:10:58,600 --> 00:11:01,280
+on set then.
+
+183
+00:11:01,800 --> 00:11:02,160
+All right.
+
+184
+00:11:02,160 --> 00:11:05,680
+So today what we're going to be doing
+will go over the rest
+
+185
+00:11:07,560 --> 00:11:09,280
+methods that we have in actions
+
+186
+00:11:09,280 --> 00:11:12,680
+class, like right click and double clicks.
+
+187
+00:11:13,160 --> 00:11:15,680
+Then what we're going to be doing
+will will be
+
+188
+00:11:15,680 --> 00:11:19,560
+uploading some files
+by writing some scripts.
+
+189
+00:11:20,080 --> 00:11:23,960
+And what we're going to go over
+is JavaScript execute.
+
+190
+00:11:24,360 --> 00:11:28,080
+Okay, so not too much today.
+
+191
+00:11:28,360 --> 00:11:31,760
+And then if we have time, I'll just start
+with page object model, and then
+
+192
+00:11:31,880 --> 00:11:34,920
+we'll continue tomorrow.
+
+193
+00:11:36,520 --> 00:11:36,880
+Okay.
+
+194
+00:11:36,880 --> 00:11:41,160
+So let me create the class, Right?
+
+195
+00:11:41,240 --> 00:11:44,040
+Let me create a new
+
+196
+00:11:44,040 --> 00:11:45,360
+package
+
+197
+00:11:46,680 --> 00:11:49,440
+to class 11 point
+
+198
+00:11:51,560 --> 00:11:53,800
+and create a new class.
+
+199
+00:11:53,800 --> 00:11:55,840
+And that's
+
+200
+00:11:57,480 --> 00:11:57,960
+right.
+
+201
+00:11:57,960 --> 00:12:00,760
+And double
+
+202
+00:12:01,240 --> 00:12:05,240
+what actions?
+
+203
+00:12:08,040 --> 00:12:10,800
+Oh, that's awesome.
+
+204
+00:12:10,960 --> 00:12:11,440
+That's
+
+205
+00:12:16,360 --> 00:12:16,920
+all right.
+
+206
+00:12:16,920 --> 00:12:20,800
+So let's see.
+
+207
+00:12:22,680 --> 00:12:25,200
+So let me just copy this
+
+208
+00:12:29,640 --> 00:12:33,520
+just here.
+
+209
+00:12:34,680 --> 00:12:37,280
+So if
+
+210
+00:12:40,240 --> 00:12:43,680
+let me see if we have
+
+211
+00:12:44,400 --> 00:12:46,720
+something that's
+
+212
+00:12:46,720 --> 00:12:55,040
+more all.
+
+213
+00:12:56,640 --> 00:12:58,080
+Okay. All right.
+
+214
+00:12:58,080 --> 00:13:02,520
+So what we're going to be doing in here,
+we will be navigating to this website.
+
+215
+00:13:02,520 --> 00:13:05,760
+And then when we navigate, you can see
+
+216
+00:13:05,760 --> 00:13:09,000
+that these buttons
+indicate some text in here.
+
+217
+00:13:09,000 --> 00:13:11,600
+And this one is asking us to right click.
+
+218
+00:13:11,960 --> 00:13:14,920
+This one is asking us to double click.
+
+219
+00:13:14,920 --> 00:13:17,240
+Okay, I'll share the links in a moment.
+
+220
+00:13:17,240 --> 00:13:17,960
+Okay.
+
+221
+00:13:18,480 --> 00:13:23,800
+So when we right
+click on this, you will see there's a
+
+222
+00:13:25,400 --> 00:13:27,400
+what's called there's a menu popping up.
+
+223
+00:13:27,400 --> 00:13:31,520
+So I click on edit
+We need to handle this in here
+
+224
+00:13:31,880 --> 00:13:36,080
+and I'm going to double click on this
+and then we'll be handling
+
+225
+00:13:36,080 --> 00:13:37,400
+this alert as well.
+
+226
+00:13:37,400 --> 00:13:39,440
+Okay, so
+
+227
+00:13:41,280 --> 00:13:46,440
+let me just send this.
+
+228
+00:13:46,440 --> 00:13:47,040
+Okay.
+
+229
+00:13:47,960 --> 00:13:52,040
+And I need to update this in here.
+
+230
+00:13:52,520 --> 00:13:53,040
+Okay.
+
+231
+00:13:53,040 --> 00:14:03,400
+Any questions, guys,
+before we get started?
+
+232
+00:14:03,400 --> 00:14:04,280
+Now? Questions.
+
+233
+00:14:04,280 --> 00:14:07,160
+Okay.
+
+234
+00:14:07,160 --> 00:14:07,760
+Good.
+
+235
+00:14:09,160 --> 00:14:09,800
+Okay.
+
+236
+00:14:09,800 --> 00:14:14,000
+So now, guys, first of all,
+what do I need to do
+
+237
+00:14:14,520 --> 00:14:17,960
+in order for me to start this text?
+
+238
+00:14:18,200 --> 00:14:20,520
+So I already navigate.
+
+239
+00:14:20,520 --> 00:14:22,360
+I already navigated to that you out.
+
+240
+00:14:22,360 --> 00:14:25,240
+What is my next step in here?
+
+241
+00:14:25,360 --> 00:14:28,080
+We need to find this element, right?
+
+242
+00:14:28,080 --> 00:14:30,560
+That we need, that
+we want to interact with.
+
+243
+00:14:30,800 --> 00:14:34,080
+So I'm going to inspect this page
+
+244
+00:14:34,080 --> 00:14:37,840
+in here and I have my Dom open.
+
+245
+00:14:37,840 --> 00:14:40,440
+So let's go ahead and try to
+
+246
+00:14:42,600 --> 00:14:44,240
+identify this element.
+
+247
+00:14:44,240 --> 00:14:47,400
+So how can we identify this element, guys?
+
+248
+00:14:48,200 --> 00:14:50,400
+So I have a class in here.
+
+249
+00:14:50,400 --> 00:14:55,120
+I also have some texts in here.
+
+250
+00:14:55,120 --> 00:14:58,320
+We could do an X path
+and go by text, right?
+
+251
+00:14:58,520 --> 00:15:02,240
+So they open up.
+
+252
+00:15:03,840 --> 00:15:06,040
+What's the topic right now?
+
+253
+00:15:06,040 --> 00:15:08,440
+The topic is right click and double click
+
+254
+00:15:08,720 --> 00:15:11,680
+on actions.
+
+255
+00:15:11,680 --> 00:15:13,760
+Okay, so I open this.
+
+256
+00:15:15,040 --> 00:15:17,120
+Let me actually this
+
+257
+00:15:17,120 --> 00:15:19,880
+I open this selector box. Right.
+
+258
+00:15:19,880 --> 00:15:21,880
+So double slash.
+
+259
+00:15:21,880 --> 00:15:25,440
+I have a span
+
+260
+00:15:27,040 --> 00:15:28,440
+tag in here.
+
+261
+00:15:28,440 --> 00:15:32,520
+Okay, so what I am going to do, since I am
+
+262
+00:15:32,920 --> 00:15:35,560
+identifying this by text,
+
+263
+00:15:36,320 --> 00:15:38,440
+I'm going to mention text in here and
+
+264
+00:15:40,640 --> 00:15:42,480
+I will need to paste
+
+265
+00:15:42,480 --> 00:15:45,240
+a text that is on our button.
+
+266
+00:15:45,720 --> 00:15:47,640
+Right. Okay.
+
+267
+00:15:47,640 --> 00:15:50,640
+This is our x path and this is one of one
+
+268
+00:15:52,320 --> 00:15:54,000
+can use link text in here.
+
+269
+00:15:54,000 --> 00:15:55,040
+That's a question for you.
+
+270
+00:15:55,040 --> 00:15:59,160
+Can you?
+
+271
+00:15:59,160 --> 00:16:04,520
+Why not?
+
+272
+00:16:04,520 --> 00:16:06,840
+It's not a link, right?
+
+273
+00:16:07,280 --> 00:16:10,040
+So you can use a link text for links.
+
+274
+00:16:10,800 --> 00:16:14,240
+Because as in here we don't have any tag.
+
+275
+00:16:14,240 --> 00:16:14,640
+Right?
+
+276
+00:16:14,640 --> 00:16:18,400
+So that the tag that we have
+is ten right now.
+
+277
+00:16:18,720 --> 00:16:21,720
+So if it had an eight only then
+
+278
+00:16:21,920 --> 00:16:25,880
+you can use the link text.
+
+279
+00:16:25,880 --> 00:16:26,400
+All right.
+
+280
+00:16:26,400 --> 00:16:31,160
+So what I am going to do
+when a copy of this class go back here
+
+281
+00:16:31,560 --> 00:16:34,400
+and I will create a web
+
+282
+00:16:34,400 --> 00:16:37,080
+element in here and say that
+
+283
+00:16:38,200 --> 00:16:39,880
+right click
+
+284
+00:16:40,320 --> 00:16:43,440
+button is equal to
+
+285
+00:16:44,280 --> 00:16:46,480
+driver dot find element
+
+286
+00:16:47,760 --> 00:16:50,520
+by x path.
+
+287
+00:16:52,480 --> 00:16:53,040
+There we go.
+
+288
+00:16:53,040 --> 00:16:57,600
+So we have an element
+that we want to interact with, right?
+
+289
+00:16:57,720 --> 00:17:09,960
+So what is our next step, guys?
+
+290
+00:17:09,960 --> 00:17:14,760
+We need to create an action class
+object, right?
+
+291
+00:17:15,120 --> 00:17:17,240
+So in order perform some actions,
+
+292
+00:17:18,880 --> 00:17:20,160
+some extra actions
+
+293
+00:17:20,160 --> 00:17:23,840
+like move to an element of right
+click, double click right.
+
+294
+00:17:23,840 --> 00:17:27,280
+What we need to do,
+we need to have an object of action class
+
+295
+00:17:27,640 --> 00:17:29,560
+ready for us, right?
+
+296
+00:17:29,560 --> 00:17:32,120
+So actions action is equal to new
+
+297
+00:17:34,760 --> 00:17:36,960
+actions in here.
+
+298
+00:17:36,960 --> 00:17:40,400
+And what we need to do,
+we need to import this class.
+
+299
+00:17:40,920 --> 00:17:43,040
+Okay, So inside
+
+300
+00:17:43,520 --> 00:17:46,680
+the constructor, what we need to specify,
+
+301
+00:17:46,800 --> 00:17:51,800
+we need to specify the execution
+object, right?
+
+302
+00:17:51,800 --> 00:17:55,200
+Which is in this case, our driver. Okay.
+
+303
+00:17:55,400 --> 00:17:58,560
+So once we have this action
+
+304
+00:18:00,040 --> 00:18:02,040
+class object and we have an element
+
+305
+00:18:02,040 --> 00:18:04,920
+that we want to perform our action on,
+
+306
+00:18:05,960 --> 00:18:09,440
+then we can start performing our action.
+
+307
+00:18:09,480 --> 00:18:09,760
+Right?
+
+308
+00:18:09,760 --> 00:18:13,000
+So in this case, what we need to do,
+we need to right click on that button.
+
+309
+00:18:13,480 --> 00:18:13,800
+Right.
+
+310
+00:18:13,800 --> 00:18:19,160
+So in action class, guys, right
+click is called a little bit Different.
+
+311
+00:18:19,440 --> 00:18:24,480
+Okay, So when I try to access all the
+
+312
+00:18:26,760 --> 00:18:28,800
+methods from actions class,
+
+313
+00:18:28,800 --> 00:18:33,400
+what I need to select in here is context.
+
+314
+00:18:33,760 --> 00:18:36,200
+Click okay.
+
+315
+00:18:36,200 --> 00:18:40,440
+So contact's click is what it's going
+to do is going to go ahead and click.
+
+316
+00:18:41,040 --> 00:18:43,600
+It's going to perform. I right
+click, okay.
+
+317
+00:18:43,840 --> 00:18:47,040
+So I'm going to choose the first method
+because what we need to do,
+
+318
+00:18:47,160 --> 00:18:50,760
+we need to perform an action
+on the element, right?
+
+319
+00:18:51,120 --> 00:18:53,760
+So I'm going to copy this
+
+320
+00:18:53,760 --> 00:18:56,080
+and paste this in here.
+
+321
+00:18:56,080 --> 00:18:59,240
+What I need to do after I I'm doing
+
+322
+00:18:59,360 --> 00:19:02,840
+the contacts click and here guys,
+
+323
+00:19:02,880 --> 00:19:06,240
+I need to perform this action right?
+
+324
+00:19:06,520 --> 00:19:09,040
+And if I have
+
+325
+00:19:09,200 --> 00:19:12,760
+more than one action
+on the same line, guys,
+
+326
+00:19:12,840 --> 00:19:20,520
+what do we need to do in that case?
+
+327
+00:19:20,520 --> 00:19:25,200
+We need to build all the actions
+and then perform, right?
+
+328
+00:19:25,320 --> 00:19:26,160
+Okay, good.
+
+329
+00:19:27,520 --> 00:19:30,400
+All right, so let's run this.
+
+330
+00:19:30,400 --> 00:19:32,880
+Okay, So I'm going to run this
+
+331
+00:19:33,200 --> 00:19:36,840
+and let's see if we will be able to right
+click
+
+332
+00:19:36,840 --> 00:19:40,440
+on that specific element
+
+333
+00:19:56,920 --> 00:19:59,680
+and we'll go there.
+
+334
+00:19:59,920 --> 00:20:02,040
+So we right click.
+
+335
+00:20:02,920 --> 00:20:05,800
+So now you can see that
+this menu popped up.
+
+336
+00:20:05,800 --> 00:20:12,000
+So what we need to do now, we need to
+click on this edit option, right?
+
+337
+00:20:12,720 --> 00:20:15,200
+So any questions before we move forward,
+
+338
+00:20:15,200 --> 00:20:21,800
+guys?
+
+339
+00:20:21,800 --> 00:20:23,200
+Okay. Pretty easy, right?
+
+340
+00:20:23,200 --> 00:20:26,120
+If you want to do a right click,
+you just use
+
+341
+00:20:26,760 --> 00:20:29,280
+contact's click from Actions class.
+
+342
+00:20:29,520 --> 00:20:31,600
+All right, So click on this.
+
+343
+00:20:31,600 --> 00:20:34,560
+So now what I need to do,
+I need to go ahead
+
+344
+00:20:35,040 --> 00:20:40,000
+and locate this element, Right?
+
+345
+00:20:40,200 --> 00:20:42,760
+How are we supposed to locate this one?
+
+346
+00:20:42,760 --> 00:20:49,400
+Guys,
+
+347
+00:20:49,400 --> 00:21:01,840
+any thoughts?
+
+348
+00:21:01,840 --> 00:21:03,800
+I have this element that I want to click
+
+349
+00:21:06,960 --> 00:21:07,640
+share.
+
+350
+00:21:07,920 --> 00:21:08,760
+Okay.
+
+351
+00:21:09,440 --> 00:21:09,920
+Okay.
+
+352
+00:21:09,920 --> 00:21:16,200
+So simply, we have a we have a tag
+and we have a text in here, right?
+
+353
+00:21:16,320 --> 00:21:19,440
+Why don't we go ahead
+and do the same thing as we've done
+
+354
+00:21:19,440 --> 00:21:22,800
+for the button itself,
+for the button of right click me.
+
+355
+00:21:22,800 --> 00:21:23,520
+Right.
+
+356
+00:21:23,520 --> 00:21:27,280
+So what I'm going to do in here,
+double slash
+
+357
+00:21:28,320 --> 00:21:30,360
+span tag, right?
+
+358
+00:21:30,400 --> 00:21:34,320
+Again, I'm using the text option and here
+
+359
+00:21:34,720 --> 00:21:37,320
+and what I will do, I'll go ahead
+
+360
+00:21:37,320 --> 00:21:41,920
+and put the existing text in here
+and you can see that
+
+361
+00:21:41,920 --> 00:21:45,240
+it's one of one
+it located the element we need.
+
+362
+00:21:45,680 --> 00:21:48,360
+So what I'm going to do, I'm going to
+
+363
+00:21:48,360 --> 00:21:50,600
+copy this, go back
+
+364
+00:21:51,680 --> 00:21:57,520
+to my script and I will create another web
+element in here.
+
+365
+00:21:57,840 --> 00:21:58,640
+All right?
+
+366
+00:21:59,160 --> 00:22:01,560
+Okay. So edit
+
+367
+00:22:01,560 --> 00:22:03,080
+option
+
+368
+00:22:03,720 --> 00:22:07,520
+is a driver, that font element
+
+369
+00:22:08,160 --> 00:22:11,560
+by X path and I will paste this
+
+370
+00:22:12,840 --> 00:22:14,040
+in here.
+
+371
+00:22:14,040 --> 00:22:14,720
+Okay.
+
+372
+00:22:14,720 --> 00:22:18,240
+So once we have done this,
+so now what do I need to do in this case?
+
+373
+00:22:18,240 --> 00:22:26,720
+Guys, we can simply
+
+374
+00:22:28,160 --> 00:22:29,640
+go ahead
+
+375
+00:22:30,280 --> 00:22:33,640
+and perform a regular click, right?
+
+376
+00:22:34,360 --> 00:22:37,320
+But sometimes, guys,
+
+377
+00:22:37,400 --> 00:22:41,040
+sometimes this click will not work.
+
+378
+00:22:41,240 --> 00:22:41,880
+Okay?
+
+379
+00:22:41,880 --> 00:22:44,880
+So you will not know why it's not working.
+
+380
+00:22:44,880 --> 00:22:45,200
+And maybe
+
+381
+00:22:45,200 --> 00:22:49,360
+something is wrong with a website or just
+selenium is not picking up something.
+
+382
+00:22:49,360 --> 00:22:54,080
+So in that case, guys,
+if this click doesn't work,
+
+383
+00:22:54,480 --> 00:22:57,880
+there is an option to click on any element
+on the web
+
+384
+00:22:57,880 --> 00:23:00,480
+page from the action class as well.
+
+385
+00:23:00,960 --> 00:23:01,680
+Okay.
+
+386
+00:23:01,680 --> 00:23:04,320
+So what you can do in here,
+
+387
+00:23:04,440 --> 00:23:08,400
+we will be using the action class object
+
+388
+00:23:08,960 --> 00:23:11,160
+and what we can perform
+
+389
+00:23:11,480 --> 00:23:16,720
+is this simple click in here,
+but we need to specify what
+
+390
+00:23:18,960 --> 00:23:22,640
+what elements we need to click and then
+
+391
+00:23:23,920 --> 00:23:26,320
+perform our action.
+
+392
+00:23:26,320 --> 00:23:30,520
+Okay.
+
+393
+00:23:30,520 --> 00:23:33,120
+Is it always safer to use actions?
+
+394
+00:23:33,360 --> 00:23:36,600
+No, guys, it's not always safer
+because most of the time,
+
+395
+00:23:36,600 --> 00:23:40,680
+like 90% of the time
+your regular click will work.
+
+396
+00:23:41,120 --> 00:23:43,920
+Okay. But sometimes it's very rare.
+
+397
+00:23:44,320 --> 00:23:47,520
+I think in my project
+I've only seen this once
+
+398
+00:23:47,520 --> 00:23:52,800
+that it didn't work and we
+we use some different ways of clicking.
+
+399
+00:23:53,240 --> 00:23:59,520
+Okay. Yep.
+
+400
+00:23:59,520 --> 00:24:03,120
+So as I said, guys in coding
+
+401
+00:24:03,720 --> 00:24:09,000
+there is not only one option to perform
+some actions or to have a solution, right?
+
+402
+00:24:09,240 --> 00:24:12,960
+So in coding there's a lot of different,
+different solutions, right?
+
+403
+00:24:12,960 --> 00:24:19,120
+So this one is one of the alternatives
+for the regular click.
+
+404
+00:24:19,680 --> 00:24:25,480
+Okay,
+Well the regular click is going to work.
+
+405
+00:24:25,680 --> 00:24:29,120
+Okay guys,
+in this case, in this example, but this is
+
+406
+00:24:30,120 --> 00:24:32,480
+an extra thing for you guys.
+
+407
+00:24:32,480 --> 00:24:35,800
+If sometimes this regular click
+doesn't work,
+
+408
+00:24:36,040 --> 00:24:39,480
+you don't get lost
+or you don't panic or anything.
+
+409
+00:24:39,480 --> 00:24:44,040
+You use a different way for this.
+
+410
+00:24:44,040 --> 00:24:47,200
+Okay, so let's run this and see
+
+411
+00:24:48,120 --> 00:24:51,080
+if we are able to click
+
+412
+00:24:51,080 --> 00:25:03,360
+on that edit option.
+
+413
+00:25:03,360 --> 00:25:04,840
+Okay, There you go. So we clicked.
+
+414
+00:25:04,840 --> 00:25:11,160
+We can clearly see in here
+that we have a alert popping up in here.
+
+415
+00:25:11,480 --> 00:25:15,600
+Okay?
+
+416
+00:25:15,600 --> 00:25:19,200
+No one would look at us
+weirdly for using actions.
+
+417
+00:25:20,040 --> 00:25:23,600
+First of all,
+you need to use the regular click.
+
+418
+00:25:23,600 --> 00:25:24,080
+Okay.
+
+419
+00:25:24,080 --> 00:25:28,680
+So if that doesn't work,
+only then you're using the actions.
+
+420
+00:25:28,680 --> 00:25:32,800
+Click okay.
+
+421
+00:25:32,800 --> 00:25:38,040
+So if if you have a reason to say that,
+hey, okay, so the regular click
+
+422
+00:25:38,280 --> 00:25:43,440
+somehow not working when I'm performing
+or trying to click on some elements
+
+423
+00:25:43,920 --> 00:25:47,640
+and that's why I'm using this action,
+then it's fine.
+
+424
+00:25:47,680 --> 00:25:49,080
+No one is going to say anything.
+
+425
+00:25:49,080 --> 00:25:52,000
+Okay, sure.
+
+426
+00:25:52,000 --> 00:26:12,840
+Let's have it in the notes.
+
+427
+00:26:12,840 --> 00:26:14,240
+Okay, So
+
+428
+00:26:20,440 --> 00:26:22,680
+if let's
+
+429
+00:26:22,800 --> 00:26:25,880
+put it this way, if regular
+
+430
+00:26:27,680 --> 00:26:28,760
+click
+
+431
+00:26:30,120 --> 00:26:32,640
+not work
+
+432
+00:26:35,400 --> 00:26:38,560
+you can use and
+
+433
+00:26:38,840 --> 00:26:41,640
+turn the way off
+
+434
+00:26:46,680 --> 00:26:47,720
+having
+
+435
+00:26:48,240 --> 00:26:50,840
+access class
+
+436
+00:26:52,400 --> 00:26:57,960
+click method F from
+
+437
+00:26:59,640 --> 00:27:03,040
+in order to perform tense.
+
+438
+00:27:03,120 --> 00:27:05,080
+Well it's sometimes
+
+439
+00:27:05,080 --> 00:27:08,880
+okay, let's go ahead and take a look
+what that method actually does.
+
+440
+00:27:08,880 --> 00:27:11,240
+Okay. So let's see if we have this.
+
+441
+00:27:12,440 --> 00:27:14,040
+Let's see here.
+
+442
+00:27:14,040 --> 00:27:17,560
+This form, it's building
+and performing at the same time.
+
+443
+00:27:17,880 --> 00:27:20,880
+It's going to work without this, I think.
+
+444
+00:27:21,240 --> 00:27:24,720
+But sometimes it won't catch the action.
+
+445
+00:27:24,720 --> 00:27:25,560
+Okay.
+
+446
+00:27:25,560 --> 00:27:29,000
+So as I said before, guys,
+if you have multiple
+
+447
+00:27:30,240 --> 00:27:34,120
+what's called multiple methods, right?
+
+448
+00:27:34,120 --> 00:27:38,160
+If you have a method chaining in here
+and you just do it
+
+449
+00:27:38,760 --> 00:27:41,440
+without build, it will work. That is fine.
+
+450
+00:27:41,640 --> 00:27:46,200
+But you do build
+so that it's a precaution for you, right?
+
+451
+00:27:46,360 --> 00:27:50,160
+In the future it might not work
+so that you don't have to go ahead
+
+452
+00:27:50,160 --> 00:27:52,000
+and change that again.
+
+453
+00:27:52,000 --> 00:27:54,440
+Okay. So you take a little bit precaution.
+
+454
+00:27:54,600 --> 00:27:58,000
+Even if it's working, it's fine,
+but you take it precaution
+
+455
+00:27:58,000 --> 00:27:59,240
+so that in the future,
+
+456
+00:27:59,240 --> 00:28:02,600
+if it doesn't work, you don't have to go
+back and change the code.
+
+457
+00:28:03,200 --> 00:28:11,600
+Okay.
+
+458
+00:28:11,600 --> 00:28:25,600
+Any questions, guys?
+
+459
+00:28:25,600 --> 00:28:26,360
+All right.
+
+460
+00:28:26,360 --> 00:28:29,760
+So now I clicked on edit what I need to do
+
+461
+00:28:29,760 --> 00:28:33,720
+now, guys, I clicked on.
+
+462
+00:28:33,720 --> 00:28:39,000
+Edit I have this thingy over here.
+
+463
+00:28:39,000 --> 00:28:41,160
+We need to handle the alert. Right. Okay.
+
+464
+00:28:41,160 --> 00:28:52,320
+So what kind of alert
+are we having right now in here?
+
+465
+00:28:52,320 --> 00:28:52,680
+Okay.
+
+466
+00:28:52,880 --> 00:28:59,760
+What kind of pop up?
+
+467
+00:28:59,760 --> 00:29:00,680
+It's a simple alert.
+
+468
+00:29:00,680 --> 00:29:03,360
+Okay, So is it a Windows based? Is it a
+
+469
+00:29:04,640 --> 00:29:05,360
+web page?
+
+470
+00:29:05,360 --> 00:29:06,960
+Is it a JavaScript alert?
+
+471
+00:29:06,960 --> 00:29:11,720
+What kind?
+
+472
+00:29:11,720 --> 00:29:15,480
+Okay, so there's a window,
+there's JavaScript, there is web based.
+
+473
+00:29:15,840 --> 00:29:18,400
+Okay,
+So I have different different answers.
+
+474
+00:29:18,400 --> 00:29:23,880
+Guys.
+
+475
+00:29:23,880 --> 00:29:24,240
+Okay.
+
+476
+00:29:24,240 --> 00:29:32,480
+Why do you guys think it's a web
+based alert?
+
+477
+00:29:32,480 --> 00:29:35,760
+So people who said it's a web based alert,
+why do you guys think it's a Web
+
+478
+00:29:35,760 --> 00:29:49,320
+based alert?
+
+479
+00:29:49,320 --> 00:29:50,920
+It's from the Web.
+
+480
+00:29:50,920 --> 00:29:56,320
+Okay.
+
+481
+00:29:56,320 --> 00:29:58,680
+We cannot inspected. Right.
+
+482
+00:29:58,800 --> 00:30:01,840
+So if you have a Web based alert,
+what you can do
+
+483
+00:30:02,160 --> 00:30:04,800
+is you can go ahead and inspect that.
+
+484
+00:30:05,400 --> 00:30:06,240
+Okay.
+
+485
+00:30:06,240 --> 00:30:09,920
+So if you have a Windows based alert,
+so that means you're
+
+486
+00:30:09,920 --> 00:30:14,440
+having a completely new window
+popping up for you.
+
+487
+00:30:14,840 --> 00:30:15,360
+Right.
+
+488
+00:30:15,360 --> 00:30:20,400
+So since it's neither of those,
+that means this is a JavaScript alert
+
+489
+00:30:20,560 --> 00:30:23,840
+and this is a simple alert, right?
+
+490
+00:30:24,120 --> 00:30:27,320
+What we can do, we can only click on.
+
+491
+00:30:27,600 --> 00:30:29,160
+Okay, right.
+
+492
+00:30:29,160 --> 00:30:31,800
+So how do I handle this
+alert in my script?
+
+493
+00:30:31,800 --> 00:30:41,680
+Guys?
+
+494
+00:30:41,680 --> 00:30:43,200
+Okay, switch. Right.
+
+495
+00:30:43,200 --> 00:30:45,040
+So we need to switch to that alert.
+
+496
+00:30:46,880 --> 00:30:47,520
+Okay.
+
+497
+00:30:47,520 --> 00:30:50,160
+So okay, so driver
+
+498
+00:30:50,680 --> 00:30:54,360
+that switch to an alert.
+
+499
+00:30:54,560 --> 00:30:55,280
+Okay.
+
+500
+00:30:55,280 --> 00:31:00,680
+Do I need to somewhere?
+
+501
+00:31:00,680 --> 00:31:02,160
+I switch to an alert. What?
+
+502
+00:31:02,160 --> 00:31:04,640
+What is next, guys
+
+503
+00:31:22,200 --> 00:31:24,920
+assigned to a variable of an alert type.
+
+504
+00:31:24,920 --> 00:31:26,360
+Okay, that's very good.
+
+505
+00:31:26,360 --> 00:31:31,400
+So if you have a question in your
+interview, guys, we went through this.
+
+506
+00:31:31,400 --> 00:31:34,800
+If you have a question,
+how do you handle alert with selenium?
+
+507
+00:31:35,160 --> 00:31:37,440
+What would be the answer
+
+508
+00:31:43,680 --> 00:31:46,560
+using an alert interface, right?
+
+509
+00:31:46,560 --> 00:31:48,560
+Absolutely. Right. There we go.
+
+510
+00:31:48,560 --> 00:31:53,240
+So what we can
+do, alert, alert is equal to this.
+
+511
+00:31:53,560 --> 00:31:56,240
+So import the alert
+
+512
+00:31:56,240 --> 00:31:58,360
+interface in here
+
+513
+00:31:58,360 --> 00:32:03,120
+and then we have alert dot, except.
+
+514
+00:32:03,120 --> 00:32:03,800
+Right.
+
+515
+00:32:03,800 --> 00:32:04,200
+Okay.
+
+516
+00:32:04,200 --> 00:32:07,040
+So we're going to accept that
+alert in here.
+
+517
+00:32:07,680 --> 00:32:08,240
+All right.
+
+518
+00:32:08,240 --> 00:32:19,560
+So let's execute this.
+
+519
+00:32:19,560 --> 00:32:20,640
+That should be enough.
+
+520
+00:32:20,640 --> 00:32:25,240
+If you say you use alert interface
+and you can ask them if you want to go
+
+521
+00:32:25,240 --> 00:32:28,280
+in details on how often, how many ways
+
+522
+00:32:28,280 --> 00:32:31,280
+or what can you do or how can you handle
+
+523
+00:32:37,680 --> 00:32:39,360
+you can just do.
+
+524
+00:32:39,600 --> 00:32:41,880
+Okay. Seems like it handled that alert.
+
+525
+00:32:41,880 --> 00:32:43,080
+Okay.
+
+526
+00:32:43,080 --> 00:32:46,480
+So you can just do here.
+
+527
+00:32:46,680 --> 00:32:49,280
+You could just do not accept that is fine.
+
+528
+00:32:49,480 --> 00:32:53,240
+But if you have in in your future,
+
+529
+00:32:53,440 --> 00:32:57,480
+if you have more alerts
+you need to handle,
+
+530
+00:32:57,560 --> 00:33:04,680
+what do you want to do?
+
+531
+00:33:04,680 --> 00:33:09,000
+So let's say in our execution right now,
+I need to.
+
+532
+00:33:09,000 --> 00:33:10,800
+Okay. So let's get back.
+
+533
+00:33:10,800 --> 00:33:12,840
+So I clicked on right click right.
+
+534
+00:33:13,360 --> 00:33:15,160
+This alert popped up.
+
+535
+00:33:15,160 --> 00:33:15,720
+I clicked.
+
+536
+00:33:15,720 --> 00:33:18,400
+Okay, so now I'm clicking on this one.
+
+537
+00:33:18,520 --> 00:33:22,360
+See, I have another alert.
+
+538
+00:33:22,360 --> 00:33:26,040
+So that means
+I need to go ahead and switch to it again.
+
+539
+00:33:26,480 --> 00:33:27,000
+Right.
+
+540
+00:33:27,000 --> 00:33:28,960
+But let's go back.
+
+541
+00:33:28,960 --> 00:33:32,200
+If I assign this to a variable, if
+
+542
+00:33:33,520 --> 00:33:37,320
+I don't have to do this again,
+
+543
+00:33:37,320 --> 00:33:42,600
+that's why we're assigning this switch
+to alert to a variable,
+
+544
+00:33:42,600 --> 00:33:47,040
+because we don't want to switch
+to alert again and again in the future.
+
+545
+00:33:48,160 --> 00:33:53,120
+Okay.
+
+546
+00:33:53,120 --> 00:33:54,960
+All right. So let's go back in here.
+
+547
+00:33:54,960 --> 00:33:59,400
+So now what I need to do,
+I handled that alert, right?
+
+548
+00:33:59,880 --> 00:34:03,240
+So now what I want to do,
+I want to double click on this.
+
+549
+00:34:03,760 --> 00:34:05,240
+Okay?
+
+550
+00:34:05,240 --> 00:34:10,560
+And get this text print out in my console
+and then handle this alert.
+
+551
+00:34:11,080 --> 00:34:14,160
+Okay.
+
+552
+00:34:14,160 --> 00:34:18,280
+So if I double click on this,
+what kind of alert am I having in here
+
+553
+00:34:18,280 --> 00:34:28,800
+this time?
+
+554
+00:34:28,800 --> 00:34:30,920
+Again, a simple alert, right?
+
+555
+00:34:30,920 --> 00:34:32,160
+Okay, good.
+
+556
+00:34:32,960 --> 00:34:33,360
+All right.
+
+557
+00:34:33,360 --> 00:34:37,240
+So now let's
+go ahead and identify this element.
+
+558
+00:34:37,760 --> 00:34:38,560
+Okay.
+
+559
+00:34:38,560 --> 00:34:40,560
+How do we want to identify this element?
+
+560
+00:34:40,560 --> 00:34:49,160
+Guys?
+
+561
+00:34:49,160 --> 00:34:51,520
+Okay, That's a good question, Blake.
+
+562
+00:34:51,520 --> 00:34:54,240
+Guys,
+do we have to switch back when we are
+
+563
+00:34:55,000 --> 00:35:01,360
+when we handle an alert?
+
+564
+00:35:01,360 --> 00:35:06,600
+Where did we use to do this?
+
+565
+00:35:06,600 --> 00:35:08,120
+In frames, right?
+
+566
+00:35:08,120 --> 00:35:12,280
+So if you have a frame,
+you switch to the frame manually
+
+567
+00:35:12,480 --> 00:35:15,520
+and you switch back manually, but
+
+568
+00:35:15,720 --> 00:35:18,720
+with alerts, you switch to an alert,
+
+569
+00:35:18,960 --> 00:35:23,080
+but it gets the focus back
+automatically, Right?
+
+570
+00:35:23,440 --> 00:35:24,200
+Okay.
+
+571
+00:35:24,200 --> 00:35:29,280
+So since we have a pretty long
+text in here, why don't we use a contains
+
+572
+00:35:29,480 --> 00:35:34,320
+method
+right when we are having a x path in here?
+
+573
+00:35:35,600 --> 00:35:36,200
+Okay.
+
+574
+00:35:36,200 --> 00:35:39,200
+So I'm going to go ahead and do button
+
+575
+00:35:41,080 --> 00:35:43,560
+and do contains
+
+576
+00:35:44,320 --> 00:35:46,560
+right text
+
+577
+00:35:47,840 --> 00:35:49,680
+is equal to
+
+578
+00:35:51,000 --> 00:35:53,080
+double click.
+
+579
+00:35:53,080 --> 00:35:53,480
+Okay.
+
+580
+00:35:53,480 --> 00:36:12,200
+Why is this not working guys? See?
+
+581
+00:36:12,200 --> 00:36:12,840
+All right.
+
+582
+00:36:12,840 --> 00:36:17,040
+We should use a comma
+instead of an equal sign.
+
+583
+00:36:17,040 --> 00:36:17,400
+Right?
+
+584
+00:36:17,400 --> 00:36:21,920
+So if you use this,
+then we can see that it is one of one.
+
+585
+00:36:22,560 --> 00:36:25,800
+It's unique and I can copy this path.
+
+586
+00:36:27,200 --> 00:36:28,000
+Right.
+
+587
+00:36:28,160 --> 00:36:33,560
+So go back in here
+and create another web element,
+
+588
+00:36:33,560 --> 00:36:35,160
+which is
+
+589
+00:36:37,480 --> 00:36:38,400
+double click
+
+590
+00:36:38,400 --> 00:36:42,320
+button is equal to driver add find element
+
+591
+00:36:43,920 --> 00:36:49,240
+X path, paste this and here.
+
+592
+00:36:49,240 --> 00:36:49,840
+Right.
+
+593
+00:36:51,000 --> 00:36:53,040
+So now guys, this is
+
+594
+00:36:53,040 --> 00:36:56,880
+I have my web element, right?
+
+595
+00:36:56,880 --> 00:36:59,120
+So I need to perform
+a double click in here.
+
+596
+00:36:59,760 --> 00:37:03,000
+So since I already have an object
+
+597
+00:37:03,240 --> 00:37:07,800
+of the actions class in here,
+I don't have to create a new one, right?
+
+598
+00:37:07,800 --> 00:37:11,400
+So I'm going to be using the object
+that I created on line 19
+
+599
+00:37:11,720 --> 00:37:16,680
+and I'll go Action dot simple,
+double click.
+
+600
+00:37:17,240 --> 00:37:19,440
+Okay, So a double click in here.
+
+601
+00:37:19,880 --> 00:37:23,280
+And what I need to do, I need to mention
+
+602
+00:37:23,520 --> 00:37:26,520
+what element I am double clicked
+
+603
+00:37:28,160 --> 00:37:28,440
+right?
+
+604
+00:37:28,440 --> 00:37:32,560
+And then what I want to do,
+I need to perform right.
+
+605
+00:37:34,120 --> 00:37:34,920
+Okay.
+
+606
+00:37:35,000 --> 00:37:38,040
+So once I perform this,
+what is my next step?
+
+607
+00:37:38,040 --> 00:37:49,920
+Guys?
+
+608
+00:37:49,920 --> 00:37:51,160
+Accept that alert.
+
+609
+00:37:51,160 --> 00:37:58,480
+Okay, so we need to switch it to switch
+and get texts.
+
+610
+00:37:58,520 --> 00:37:59,160
+Right.
+
+611
+00:37:59,160 --> 00:38:01,240
+So do I. Do I need to switch again?
+
+612
+00:38:01,240 --> 00:38:01,920
+Guys in here.
+
+613
+00:38:01,920 --> 00:38:04,160
+I need to driver that switch
+
+614
+00:38:07,000 --> 00:38:07,720
+now. Right.
+
+615
+00:38:07,720 --> 00:38:12,000
+We don't really need to do this
+because we already have an object
+
+616
+00:38:12,000 --> 00:38:15,840
+of an alert in here
+which helps us to switch to an alert.
+
+617
+00:38:16,280 --> 00:38:16,600
+Right.
+
+618
+00:38:16,600 --> 00:38:23,960
+So what I will do, I'll directly
+print out the alert dot, get text in here,
+
+619
+00:38:23,960 --> 00:38:27,000
+and after this what I need to do,
+
+620
+00:38:27,600 --> 00:38:30,880
+I will simply accept that left.
+
+621
+00:38:31,600 --> 00:38:35,280
+Okay, Now let's execute this
+
+622
+00:38:36,360 --> 00:38:38,280
+code and see
+
+623
+00:38:38,880 --> 00:38:51,960
+if everything runs smooth.
+
+624
+00:38:51,960 --> 00:38:52,600
+There we go.
+
+625
+00:38:52,600 --> 00:38:55,000
+So seems like
+we double clicked on that as well.
+
+626
+00:38:55,200 --> 00:38:58,320
+And you can see that
+we got the text from the alert
+
+627
+00:38:58,320 --> 00:39:01,200
+and we accept that that alert as well.
+
+628
+00:39:01,880 --> 00:39:02,200
+Right.
+
+629
+00:39:03,480 --> 00:39:03,840
+Okay.
+
+630
+00:39:03,840 --> 00:39:06,440
+Any questions, guys, on how to perform it?
+
+631
+00:39:06,440 --> 00:39:10,080
+Right
+click and double clicks by using actions
+
+632
+00:39:10,080 --> 00:39:25,960
+class.
+
+633
+00:39:25,960 --> 00:39:27,600
+Very straightforward.
+
+634
+00:39:27,600 --> 00:39:29,640
+Everything good, right?
+
+635
+00:39:29,680 --> 00:39:30,800
+Double click.
+
+636
+00:39:30,800 --> 00:39:33,600
+The only thing that might be getting
+a little bit
+
+637
+00:39:33,600 --> 00:39:37,800
+confused with actions class
+is this context.
+
+638
+00:39:37,800 --> 00:39:41,040
+Click okay
+because everything else is simple.
+
+639
+00:39:41,040 --> 00:39:45,160
+English drag and drop
+move to element right?
+
+640
+00:39:45,160 --> 00:39:45,920
+Double click.
+
+641
+00:39:45,920 --> 00:39:47,760
+The only thing that is not
+
+642
+00:39:47,760 --> 00:39:52,400
+simple English in here is the contacts
+click, which performs the right click.
+
+643
+00:39:52,640 --> 00:39:58,960
+Okay,
+so you just need to remember this one.
+
+644
+00:39:58,960 --> 00:39:59,920
+Okay,
+
+645
+00:40:01,040 --> 00:40:04,080
+If there's no questions,
+
+646
+00:40:04,080 --> 00:40:07,560
+then let's move to a different topic
+
+647
+00:40:07,560 --> 00:40:20,840
+in here.
+
+648
+00:40:20,840 --> 00:40:32,560
+Check one thing.
+
+649
+00:40:32,560 --> 00:40:35,480
+All right,
+guess so. Now what we going to be doing?
+
+650
+00:40:35,480 --> 00:40:38,400
+We will be uploading some files
+
+651
+00:40:39,000 --> 00:40:42,000
+and I'm pretty sure you guys already know
+how to do this manually.
+
+652
+00:40:42,360 --> 00:40:42,640
+Right?
+
+653
+00:40:42,640 --> 00:40:46,720
+Whenever you are uploading some pictures,
+whenever you uploading some documents
+
+654
+00:40:46,720 --> 00:40:47,960
+and some website.
+
+655
+00:40:47,960 --> 00:40:48,240
+Right.
+
+656
+00:40:48,240 --> 00:40:53,200
+You go ahead
+and let me actually pull that up in here
+
+657
+00:40:57,600 --> 00:40:58,640
+file upload.
+
+658
+00:40:58,640 --> 00:40:59,040
+Right.
+
+659
+00:40:59,040 --> 00:41:02,560
+So if you want to do this, you click
+sorry,
+
+660
+00:41:03,600 --> 00:41:05,840
+you choose your file first, right?
+
+661
+00:41:05,840 --> 00:41:07,600
+So you click on this.
+
+662
+00:41:07,600 --> 00:41:10,680
+There is you need to choose a file
+from your computer.
+
+663
+00:41:11,520 --> 00:41:15,240
+When you do that, you click
+okay, It's going to pop up in here
+
+664
+00:41:15,240 --> 00:41:18,960
+and what you do,
+you upload that file in here, right?
+
+665
+00:41:19,240 --> 00:41:21,720
+And you've done this in social media.
+
+666
+00:41:21,720 --> 00:41:26,000
+You've probably done this
+for some documents, whatever you're
+
+667
+00:41:26,000 --> 00:41:31,200
+uploading for something, business licenses
+or just to get any documentation.
+
+668
+00:41:31,640 --> 00:41:32,280
+Right.
+
+669
+00:41:33,040 --> 00:41:37,760
+So this is what we will be doing,
+but we will be doing it through this.
+
+670
+00:41:37,800 --> 00:41:39,040
+Correct. Okay.
+
+671
+00:41:39,040 --> 00:41:42,400
+So it's going to be really easy
+to upload any files
+
+672
+00:41:42,400 --> 00:41:44,040
+through this script
+
+673
+00:41:46,280 --> 00:41:48,480
+and I'll show you how to do this.
+
+674
+00:41:48,920 --> 00:41:49,320
+All right.
+
+675
+00:41:50,360 --> 00:41:52,440
+So let's go back
+
+676
+00:41:52,640 --> 00:41:56,600
+in our intelligent
+and I'm going to create a new Java class.
+
+677
+00:41:56,800 --> 00:41:57,520
+Okay?
+
+678
+00:41:58,200 --> 00:42:01,080
+So what I'll do is do file
+
+679
+00:42:01,720 --> 00:42:06,400
+upload.
+
+680
+00:42:06,400 --> 00:42:17,440
+Okay,
+
+681
+00:42:17,440 --> 00:42:19,880
+of the list and
+
+682
+00:42:33,720 --> 00:42:36,440
+I have this in here
+
+683
+00:42:37,120 --> 00:42:40,920
+and I go, guys.
+
+684
+00:42:40,920 --> 00:42:44,960
+Okay.
+
+685
+00:42:44,960 --> 00:42:45,600
+All right.
+
+686
+00:42:45,600 --> 00:42:49,320
+So manually, guys, by uploading
+
+687
+00:42:50,160 --> 00:42:54,000
+when you want to upload anything,
+what you want to do
+
+688
+00:42:54,000 --> 00:42:56,320
+is go ahead in here
+
+689
+00:42:59,240 --> 00:43:01,120
+and stuff this.
+
+690
+00:43:01,120 --> 00:43:01,920
+Okay.
+
+691
+00:43:01,920 --> 00:43:06,760
+So basically manually
+whenever you are trying to
+
+692
+00:43:08,160 --> 00:43:10,160
+to upload any file, Right.
+
+693
+00:43:10,160 --> 00:43:12,520
+So you have to go click on this.
+
+694
+00:43:12,960 --> 00:43:19,760
+Then you have to go find your file in here
+
+695
+00:43:19,760 --> 00:43:23,160
+and let's say anything in here, right?
+
+696
+00:43:23,520 --> 00:43:24,640
+Okay.
+
+697
+00:43:24,640 --> 00:43:25,560
+There we go.
+
+698
+00:43:25,560 --> 00:43:36,240
+So we have this in here.
+
+699
+00:43:36,240 --> 00:43:38,840
+Okay. Am I going too fast, guys?
+
+700
+00:43:38,840 --> 00:43:41,240
+Is there a lot of people who are behind
+
+701
+00:43:41,240 --> 00:44:00,120
+right now?
+
+702
+00:44:00,120 --> 00:44:01,280
+Sometimes. Okay, guys.
+
+703
+00:44:01,280 --> 00:44:04,560
+So let me continue
+and then I'll give you time to type.
+
+704
+00:44:04,800 --> 00:44:11,040
+Okay.
+
+705
+00:44:11,040 --> 00:44:13,360
+How did we get to the page that I'm on?
+
+706
+00:44:13,360 --> 00:44:15,360
+I sent you the link, guys.
+
+707
+00:44:15,360 --> 00:44:17,280
+I'll show you how how we got in here.
+
+708
+00:44:17,280 --> 00:44:31,360
+Okay, So.
+
+709
+00:44:31,360 --> 00:44:32,880
+Okay, I'll show you where to click.
+
+710
+00:44:32,880 --> 00:44:33,480
+Okay, guys.
+
+711
+00:44:33,480 --> 00:44:35,880
+So let's captured the logic right now.
+
+712
+00:44:36,240 --> 00:44:36,760
+Seems like
+
+713
+00:44:36,760 --> 00:44:40,880
+everyone is trying to get to the page
+that I am on and trying to type in.
+
+714
+00:44:40,880 --> 00:44:41,480
+Right?
+
+715
+00:44:41,480 --> 00:44:44,560
+So I think it's better to catch up
+with the logic first.
+
+716
+00:44:44,560 --> 00:44:47,040
+Okay, guys,
+I'll show you how to get to any page.
+
+717
+00:44:47,040 --> 00:44:48,240
+It's easy, right?
+
+718
+00:44:48,240 --> 00:44:51,200
+But first of all, what we need to do,
+we need to catch the logic
+
+719
+00:44:51,560 --> 00:44:52,400
+behind everything.
+
+720
+00:44:52,400 --> 00:44:58,080
+Okay.
+
+721
+00:44:58,080 --> 00:44:58,760
+All right.
+
+722
+00:44:58,760 --> 00:45:01,560
+So manually, guys, whenever you do this,
+
+723
+00:45:02,000 --> 00:45:06,160
+you have basically
+you need to choose the file in here.
+
+724
+00:45:06,480 --> 00:45:10,200
+And what you need to do is
+you need to click on upload.
+
+725
+00:45:10,560 --> 00:45:11,280
+Right?
+
+726
+00:45:11,400 --> 00:45:16,560
+Seems like it's not working,
+but it's okay.
+
+727
+00:45:16,560 --> 00:45:21,720
+So let me choose a different from here.
+
+728
+00:45:21,720 --> 00:45:23,840
+Let's choose this one.
+
+729
+00:45:23,840 --> 00:45:25,920
+It should rest upload.
+
+730
+00:45:25,920 --> 00:45:27,640
+There we go. All right.
+
+731
+00:45:27,640 --> 00:45:30,440
+So when you upload,
+you should be getting anything
+
+732
+00:45:30,440 --> 00:45:35,000
+like verification or success message,
+right when you are doing it manually.
+
+733
+00:45:35,360 --> 00:45:39,960
+So in this case, we the file was uploaded,
+we chose the file from our computer.
+
+734
+00:45:40,080 --> 00:45:46,920
+We on the upload and we have this name
+and the success message in here.
+
+735
+00:45:48,560 --> 00:45:53,240
+Okay All right.
+
+736
+00:45:54,120 --> 00:45:57,880
+So now let's do it in the script.
+
+737
+00:45:58,320 --> 00:45:59,840
+Okay, so it's pretty easy.
+
+738
+00:45:59,840 --> 00:46:04,160
+So first of all, guys,
+what I want you to pay attention in here,
+
+739
+00:46:04,440 --> 00:46:09,600
+so let's get that so simply, guys,
+whenever
+
+740
+00:46:10,560 --> 00:46:12,840
+which type of file we can
+
+741
+00:46:14,240 --> 00:46:17,880
+try to upload guys like the
+
+742
+00:46:17,880 --> 00:46:21,480
+I think text file or Excel or word file,
+it's in here.
+
+743
+00:46:21,640 --> 00:46:23,920
+So that's going to be better
+
+744
+00:46:25,360 --> 00:46:27,000
+because I don't think
+
+745
+00:46:27,000 --> 00:46:30,360
+this website accepts all type of files.
+
+746
+00:46:30,360 --> 00:46:31,120
+Okay.
+
+747
+00:46:32,120 --> 00:46:33,800
+You could try you could try pictures
+
+748
+00:46:33,800 --> 00:46:39,120
+as well.
+
+749
+00:46:39,120 --> 00:46:40,400
+Okay. Yeah, that's fine.
+
+750
+00:46:40,400 --> 00:46:45,000
+That's okay.
+
+751
+00:46:45,000 --> 00:46:45,400
+All right.
+
+752
+00:46:45,400 --> 00:46:49,520
+So before guys, before doing anything.
+
+753
+00:46:49,560 --> 00:46:50,280
+Okay.
+
+754
+00:46:50,360 --> 00:46:52,600
+Before writing your script, guys, what?
+
+755
+00:46:52,600 --> 00:46:57,760
+I want you to make sure guys,
+So whenever we have a button, right?
+
+756
+00:46:57,920 --> 00:47:01,520
+Whenever we have a button
+and you inspect that button, what do you.
+
+757
+00:47:01,680 --> 00:47:05,000
+What kind of tag do you see for that
+button?
+
+758
+00:47:05,000 --> 00:47:14,640
+Guys?
+
+759
+00:47:14,640 --> 00:47:16,080
+No, no, not the tag name.
+
+760
+00:47:16,080 --> 00:47:18,720
+The tag name, not the attributes. Right.
+
+761
+00:47:18,720 --> 00:47:20,320
+So exactly.
+
+762
+00:47:20,320 --> 00:47:23,440
+So usually
+when you're inspecting a button,
+
+763
+00:47:23,880 --> 00:47:26,520
+the tag name should be button, right?
+
+764
+00:47:26,520 --> 00:47:27,960
+Pretty straightforward.
+
+765
+00:47:27,960 --> 00:47:33,280
+But whenever you are uploading a file guys
+through the script,
+
+766
+00:47:33,280 --> 00:47:39,120
+what you need to make sure, guys,
+that this file, when you choose
+
+767
+00:47:40,640 --> 00:47:42,560
+this button, when you choose the file
+
+768
+00:47:42,560 --> 00:47:45,480
+guys, has the tag of input.
+
+769
+00:47:46,880 --> 00:47:49,800
+Okay, so here it's a little bit different.
+
+770
+00:47:50,080 --> 00:47:54,280
+So what you can do in here,
+you can input something.
+
+771
+00:47:55,080 --> 00:47:55,800
+Okay.
+
+772
+00:47:55,800 --> 00:47:58,880
+And in this case,
+what we will be doing in here,
+
+773
+00:47:59,040 --> 00:48:01,680
+we will be inputting that path
+
+774
+00:48:02,000 --> 00:48:07,440
+and the location of the file
+that we want to upload.
+
+775
+00:48:07,440 --> 00:48:08,240
+Okay.
+
+776
+00:48:08,240 --> 00:48:13,560
+Is that clear, guys?
+
+777
+00:48:13,560 --> 00:48:16,080
+So basically, here's what we did.
+
+778
+00:48:16,320 --> 00:48:21,600
+So when I choose file,
+I am choosing from my desktop, right?
+
+779
+00:48:21,600 --> 00:48:24,640
+And here if I click on this.
+
+780
+00:48:24,640 --> 00:48:29,520
+So basically what I'm doing,
+I am giving this place,
+
+781
+00:48:30,320 --> 00:48:33,160
+I'm giving this place a path
+
+782
+00:48:33,360 --> 00:48:36,800
+or the location of my file, right?
+
+783
+00:48:36,800 --> 00:48:38,720
+So we will be doing the same thing.
+
+784
+00:48:38,720 --> 00:48:42,520
+So but first of all,
+what we need to do, we need to
+
+785
+00:48:44,880 --> 00:48:46,880
+let me see in here, we need
+
+786
+00:48:46,880 --> 00:48:51,040
+to locate this choose file element.
+
+787
+00:48:51,520 --> 00:48:53,720
+Okay. So
+
+788
+00:48:55,480 --> 00:48:57,560
+before, before we get into the page.
+
+789
+00:48:57,560 --> 00:49:00,680
+Right. So we we are on this page, right?
+
+790
+00:49:00,680 --> 00:49:04,080
+So what we need to do,
+we need to click on this file.
+
+791
+00:49:04,080 --> 00:49:07,080
+Upload. Okay, guys.
+
+792
+00:49:07,080 --> 00:49:10,880
+So let me inspect this in here.
+
+793
+00:49:11,680 --> 00:49:12,080
+All right.
+
+794
+00:49:12,080 --> 00:49:13,280
+So we have this.
+
+795
+00:49:13,280 --> 00:49:22,400
+What can we use in here, guys? I d
+
+796
+00:49:23,440 --> 00:49:26,080
+we can use a link text right there.
+
+797
+00:49:26,080 --> 00:49:26,880
+We go.
+
+798
+00:49:26,880 --> 00:49:30,760
+So let me copy this.
+
+799
+00:49:30,760 --> 00:49:34,520
+Get back in here and create a web element
+
+800
+00:49:34,520 --> 00:49:37,320
+and say that file
+
+801
+00:49:38,320 --> 00:49:41,480
+upload link is equal to driver
+
+802
+00:49:42,880 --> 00:49:45,360
+find element by
+
+803
+00:49:46,400 --> 00:49:49,880
+link, text
+and paste this link text links here.
+
+804
+00:49:50,640 --> 00:49:53,000
+So what we simply need to do is
+
+805
+00:49:54,160 --> 00:49:57,280
+to click on that link.
+
+806
+00:49:57,720 --> 00:50:00,680
+All right, so let's get back in here.
+
+807
+00:50:00,920 --> 00:50:03,440
+So when I click on the file upload link
+
+808
+00:50:04,720 --> 00:50:08,040
+in here, then I'm going to
+
+809
+00:50:08,120 --> 00:50:12,240
+what's called land on this page
+where I can actually upload the file.
+
+810
+00:50:12,880 --> 00:50:13,600
+Right?
+
+811
+00:50:13,680 --> 00:50:16,160
+So now before we upload the file,
+
+812
+00:50:16,320 --> 00:50:20,040
+we need to locate this element.
+
+813
+00:50:20,760 --> 00:50:21,520
+Okay.
+
+814
+00:50:21,560 --> 00:50:26,600
+And in here what we have, we have an ID
+in here which I can use, right?
+
+815
+00:50:26,880 --> 00:50:29,160
+So I'm going to copy this ID
+
+816
+00:50:32,800 --> 00:50:34,640
+and I will create
+
+817
+00:50:34,640 --> 00:50:38,760
+another web element and name
+it as choose file
+
+818
+00:50:39,360 --> 00:50:43,120
+is equal to the
+
+819
+00:50:43,200 --> 00:50:44,040
+driver.
+
+820
+00:50:44,040 --> 00:50:46,760
+Find element by I.D
+
+821
+00:50:47,320 --> 00:50:50,840
+and paste this into.
+
+822
+00:50:50,840 --> 00:50:51,600
+Okay.
+
+823
+00:50:51,840 --> 00:50:53,520
+Is that clear? So far guys?
+
+824
+00:50:53,520 --> 00:51:03,760
+What I'm doing in here.
+
+825
+00:51:03,760 --> 00:51:07,920
+Okay, cool.
+
+826
+00:51:07,920 --> 00:51:08,760
+All right.
+
+827
+00:51:09,920 --> 00:51:12,960
+So simply guys, now since
+
+828
+00:51:14,280 --> 00:51:17,720
+it's an input element, right?
+
+829
+00:51:17,880 --> 00:51:20,320
+That means we can send something.
+
+830
+00:51:20,360 --> 00:51:22,880
+We can send some text in there. Right.
+
+831
+00:51:23,040 --> 00:51:26,480
+And as I mentioned before,
+what we need to specify
+
+832
+00:51:26,640 --> 00:51:29,920
+is our location of the file, right?
+
+833
+00:51:29,920 --> 00:51:34,600
+Or in other words,
+we need to specify the path of the file.
+
+834
+00:51:35,160 --> 00:51:36,440
+Right. So
+
+835
+00:51:37,400 --> 00:51:40,320
+so what I have in my
+
+836
+00:51:40,320 --> 00:51:43,200
+desktop right now, so let me see
+
+837
+00:51:44,200 --> 00:51:45,040
+here.
+
+838
+00:51:45,040 --> 00:51:47,480
+Meet it is over here. Yes.
+
+839
+00:51:47,960 --> 00:51:48,800
+So there we go.
+
+840
+00:51:48,800 --> 00:51:52,280
+So I have this sample test data
+
+841
+00:51:52,280 --> 00:51:55,160
+in here on my desktop, Right.
+
+842
+00:51:55,480 --> 00:51:58,440
+So what I need, I need a
+
+843
+00:52:00,200 --> 00:52:02,760
+I need a whole pass for this
+
+844
+00:52:04,080 --> 00:52:04,920
+file. Right.
+
+845
+00:52:04,920 --> 00:52:08,840
+So in in Mac, what I need to do,
+I'm going to do get info
+
+846
+00:52:09,120 --> 00:52:13,760
+and I think in Windows what you need to do
+is you need to go ahead and get
+
+847
+00:52:14,880 --> 00:52:16,960
+you go to properties, right?
+
+848
+00:52:18,520 --> 00:52:24,400
+So get info in here.
+
+849
+00:52:24,400 --> 00:52:26,000
+I have it here. Right.
+
+850
+00:52:26,000 --> 00:52:31,120
+So in Mac guys, what you need to do,
+you need to start with users, okay?
+
+851
+00:52:31,240 --> 00:52:33,720
+You don't need this Mac SSD or whatever.
+
+852
+00:52:34,240 --> 00:52:35,000
+Okay.
+
+853
+00:52:35,000 --> 00:52:39,000
+What you need to do,
+you need to start with users.
+
+854
+00:52:39,520 --> 00:52:42,600
+Okay, so I'm going to copy that.
+
+855
+00:52:42,600 --> 00:52:46,640
+The one in here
+and I will go to intelligent.
+
+856
+00:52:47,160 --> 00:52:51,600
+Okay, so open this back.
+
+857
+00:52:51,600 --> 00:52:55,760
+And what I am going
+to do is going to copy this
+
+858
+00:52:56,920 --> 00:52:59,960
+file and simply
+
+859
+00:53:02,040 --> 00:53:04,560
+send keys in here
+
+860
+00:53:04,560 --> 00:53:10,440
+and not this one.
+
+861
+00:53:10,440 --> 00:53:15,720
+Okay, Choose file, send keys in here
+
+862
+00:53:16,560 --> 00:53:19,360
+and let me see.
+
+863
+00:53:20,880 --> 00:53:24,600
+And I'm going to get this
+
+864
+00:53:27,560 --> 00:53:30,200
+and paste this thing here.
+
+865
+00:53:30,200 --> 00:53:31,880
+Okay? Is that clear, guys?
+
+866
+00:53:31,880 --> 00:53:39,240
+Any questions?
+
+867
+00:53:39,240 --> 00:53:42,840
+Yeah, Yeah, I'll edit
+guys. I'll edit guys.
+
+868
+00:53:42,840 --> 00:53:47,520
+So I'm just trying to I'm just trying
+to see if everyone is on the same page.
+
+869
+00:53:47,880 --> 00:53:55,320
+Okay.
+
+870
+00:53:55,320 --> 00:53:55,960
+Okay.
+
+871
+00:53:55,960 --> 00:54:02,400
+Seems like all good.
+
+872
+00:54:02,400 --> 00:54:02,880
+All right.
+
+873
+00:54:02,880 --> 00:54:08,200
+So now I only have here up
+to my desktop, right?
+
+874
+00:54:08,200 --> 00:54:12,960
+So what I need to do,
+I need to mention the actual file.
+
+875
+00:54:13,520 --> 00:54:14,000
+Right?
+
+876
+00:54:14,000 --> 00:54:18,960
+So my file name is simple tasks data.
+
+877
+00:54:18,960 --> 00:54:19,320
+Right.
+
+878
+00:54:19,320 --> 00:54:24,120
+And do not forget guys
+to mention the extension as well.
+
+879
+00:54:24,640 --> 00:54:25,400
+Okay.
+
+880
+00:54:25,400 --> 00:54:28,640
+So it's going to be x
+
+881
+00:54:29,160 --> 00:54:32,880
+as x seems since it is an Excel file.
+
+882
+00:54:33,240 --> 00:54:33,760
+Right?
+
+883
+00:54:33,760 --> 00:54:37,080
+So after you locate the desktop
+
+884
+00:54:37,080 --> 00:54:40,560
+and then what you need
+to do is you need to actually
+
+885
+00:54:41,640 --> 00:54:43,120
+mention the file
+
+886
+00:54:43,120 --> 00:54:46,960
+name as well.
+
+887
+00:54:46,960 --> 00:54:47,760
+Okay.
+
+888
+00:54:48,320 --> 00:55:01,560
+Any questions on this, guys? Yes.
+
+889
+00:55:01,560 --> 00:55:05,080
+You have to write the full name
+of the file and its extension.
+
+890
+00:55:05,760 --> 00:55:12,360
+Okay.
+
+891
+00:55:12,360 --> 00:55:13,640
+I think you have to put.
+
+892
+00:55:13,640 --> 00:55:15,080
+Yes, I think you have to.
+
+893
+00:55:15,080 --> 00:55:25,160
+Guys, if it's PNG file.
+
+894
+00:55:25,160 --> 00:55:32,520
+Yes. Dot PNG.
+
+895
+00:55:32,520 --> 00:55:35,720
+All right, so let me execute this.
+
+896
+00:55:36,120 --> 00:55:48,680
+Okay, Let's execute this.
+
+897
+00:55:48,680 --> 00:55:49,920
+Okay. Running here.
+
+898
+00:55:49,920 --> 00:55:51,600
+Click on that. Okay.
+
+899
+00:55:51,600 --> 00:55:54,120
+So you can see that in here, guys.
+
+900
+00:55:55,080 --> 00:55:58,200
+You can see that
+we uploaded the sample test
+
+901
+00:55:58,200 --> 00:56:02,200
+data in here.
+
+902
+00:56:02,200 --> 00:56:02,640
+Okay.
+
+903
+00:56:02,640 --> 00:56:06,200
+So that means the path that I gave
+was correct.
+
+904
+00:56:07,200 --> 00:56:17,040
+Okay.
+
+905
+00:56:17,040 --> 00:56:17,360
+Okay.
+
+906
+00:56:17,360 --> 00:56:22,480
+So when you run guys, as long as you see
+your file name on the web page,
+
+907
+00:56:22,720 --> 00:56:25,680
+that means it is fine.
+
+908
+00:56:25,680 --> 00:56:28,640
+That means you were able
+to provide the right path
+
+909
+00:56:28,880 --> 00:56:42,560
+for your file. Yes.
+
+910
+00:56:42,760 --> 00:56:45,040
+Without the extension, it will not work.
+
+911
+00:56:45,400 --> 00:56:48,440
+So you have to make sure
+you put the extension as well.
+
+912
+00:56:48,840 --> 00:56:50,400
+Okay.
+
+913
+00:56:50,400 --> 00:56:55,840
+So we send the whole path of the
+of our file.
+
+914
+00:56:55,960 --> 00:56:58,680
+So now the only thing that's left for us
+
+915
+00:56:58,880 --> 00:57:02,640
+is to go ahead, actually click on upload.
+
+916
+00:57:03,360 --> 00:57:04,080
+Right.
+
+917
+00:57:04,440 --> 00:57:07,320
+So it has an ID in here,
+
+918
+00:57:08,360 --> 00:57:10,560
+so I'm going to copy this ID
+
+919
+00:57:11,400 --> 00:57:14,720
+and I will go back and here create
+
+920
+00:57:14,720 --> 00:57:18,720
+another web element right.
+
+921
+00:57:18,720 --> 00:57:21,120
+Upload button is equal to driver
+
+922
+00:57:22,560 --> 00:57:25,040
+find element by
+
+923
+00:57:27,120 --> 00:57:30,480
+ID, paste that ID here
+
+924
+00:57:35,560 --> 00:57:44,040
+and I'll just simply click on upload.
+
+925
+00:57:44,480 --> 00:57:47,160
+Okay.
+
+926
+00:57:47,160 --> 00:57:48,240
+Tried different.
+
+927
+00:57:48,240 --> 00:57:49,360
+Okay. Yeah, that's fine.
+
+928
+00:57:49,360 --> 00:57:52,880
+That's okay. All right.
+
+929
+00:57:52,880 --> 00:57:56,520
+So let's run
+this and see if we can get the
+
+930
+00:57:57,080 --> 00:58:08,160
+the success message
+and the name of our file.
+
+931
+00:58:08,160 --> 00:58:09,240
+There we go.
+
+932
+00:58:09,400 --> 00:58:11,520
+So we clicked on upload as well.
+
+933
+00:58:11,520 --> 00:58:14,840
+So now we get the success message,
+which is file upload it
+
+934
+00:58:15,360 --> 00:58:20,120
+and the the file name in here as well.
+
+935
+00:58:20,760 --> 00:58:23,560
+Right. Pretty straightforward and easy.
+
+936
+00:58:23,840 --> 00:58:31,440
+Right guys.
+
+937
+00:58:31,440 --> 00:58:34,200
+So sometimes guys, sometimes
+
+938
+00:58:35,680 --> 00:58:38,080
+what we need to do is
+
+939
+00:58:38,080 --> 00:58:42,440
+sometimes this send keys
+will not work for us.
+
+940
+00:58:42,880 --> 00:58:45,480
+Okay? So sometimes it's not going to work.
+
+941
+00:58:45,480 --> 00:58:49,800
+That's why whenever it doesn't work, guys,
+you will need to use
+
+942
+00:58:49,800 --> 00:58:51,440
+some different libraries.
+
+943
+00:58:51,440 --> 00:58:55,680
+So in this case, what you can use is
+you can use a rollback class.
+
+944
+00:58:55,920 --> 00:58:58,680
+Okay, So it has it has different
+
+945
+00:58:58,680 --> 00:59:02,360
+different methods
+and you can perform different, different
+
+946
+00:59:03,840 --> 00:59:05,280
+key actions as well.
+
+947
+00:59:05,280 --> 00:59:09,840
+So you can copy that file
+and you can paste that file in your
+
+948
+00:59:10,960 --> 00:59:13,200
+in your web page. Okay.
+
+949
+00:59:13,200 --> 00:59:15,960
+So just you could just take a look
+at that rollback class.
+
+950
+00:59:15,960 --> 00:59:17,880
+Just briefly, guys.
+
+951
+00:59:17,880 --> 00:59:21,600
+And but most of the time this send keys
+
+952
+00:59:21,600 --> 00:59:26,880
+will work perfectly fine.
+
+953
+00:59:26,880 --> 00:59:30,120
+Let me go in here
+
+954
+00:59:31,440 --> 00:59:33,280
+and let me say
+
+955
+00:59:33,280 --> 00:59:42,000
+upload files, not interact.
+
+956
+00:59:42,360 --> 00:59:44,480
+That's why we use correct? Yes.
+
+957
+00:59:44,680 --> 00:59:47,920
+So that's why we sending direct path
+
+958
+00:59:47,920 --> 00:59:51,360
+because we won't be able to interact
+with a Windows based popups.
+
+959
+00:59:51,360 --> 00:59:51,880
+Right.
+
+960
+00:59:51,880 --> 00:59:55,800
+But if you want to interact with Windows
+based pop ups, what you can
+
+961
+00:59:55,800 --> 01:00:00,080
+do, you can use a robot class,
+as I just mentioned.
+
+962
+01:00:00,320 --> 01:00:06,040
+Okay, upload
+
+963
+01:00:08,080 --> 01:00:09,720
+documents in here.
+
+964
+01:00:09,720 --> 01:00:12,960
+So in order to upload
+
+965
+01:00:15,440 --> 01:00:17,160
+documents using
+
+966
+01:00:17,160 --> 01:00:23,440
+selenium, we can simply
+
+967
+01:00:25,480 --> 01:00:29,640
+do is right
+
+968
+01:00:30,320 --> 01:00:31,920
+and we can
+
+969
+01:00:33,720 --> 01:00:36,480
+pass a file path.
+
+970
+01:00:36,480 --> 01:00:37,000
+Right.
+
+971
+01:00:37,720 --> 01:00:42,840
+And if send keys
+
+972
+01:00:46,240 --> 01:00:51,480
+not work, use
+
+973
+01:00:52,520 --> 01:00:53,520
+robot.
+
+974
+01:00:54,040 --> 01:00:56,920
+Okay, so robot
+class is basically coming from Java.
+
+975
+01:00:56,920 --> 01:00:58,560
+Okay. From Java Library.
+
+976
+01:00:58,560 --> 01:01:01,800
+So there's a lot of different combinations
+that you can do with keyboard.
+
+977
+01:01:02,400 --> 01:01:03,880
+Okay.
+
+978
+01:01:03,880 --> 01:01:05,880
+So you can briefly take a look at that,
+
+979
+01:01:05,880 --> 01:01:09,480
+what kind of methods it has
+and what else you can perform.
+
+980
+01:01:10,040 --> 01:01:12,480
+Okay, But it's a pretty good library.
+
+981
+01:01:12,480 --> 01:01:15,520
+I found some actions with that as well,
+
+982
+01:01:15,520 --> 01:01:21,360
+and it's pretty good.
+
+983
+01:01:21,360 --> 01:01:24,480
+Okay. All right.
+
+984
+01:01:24,480 --> 01:01:29,520
+I guess any questions on actions class
+and how to upload the documents?
+
+985
+01:01:29,520 --> 01:01:45,480
+Yes. Okay.
+
+986
+01:01:46,320 --> 01:01:48,440
+It's 807.
+
+987
+01:01:48,440 --> 01:01:49,120
+Okay, guys.
+
+988
+01:01:49,120 --> 01:01:54,360
+So let's take a quick break
+and let people type up the code in here.
+
+989
+01:01:55,760 --> 01:02:00,400
+So probably let's come back at 825.
+
+990
+01:02:00,960 --> 01:02:01,800
+Okay?
+
+991
+01:02:02,040 --> 01:02:03,240
+Come back at 825.
+
+992
+01:02:03,240 --> 01:02:10,440
+A ten minute break,
+and then we'll continue with JavaScript.
+
+993
+01:02:10,440 --> 01:02:10,960
+Execute.
+
+994
+01:02:11,960 --> 01:02:13,280
+Okay.
+
+995
+01:02:13,280 --> 01:02:17,040
+All right.
+
+996
+01:02:17,040 --> 01:02:20,760
+Okay, guys, I'll see you at 825
+
+997
+01:02:23,760 --> 01:02:26,800
+next to the code for
+
+998
+01:02:29,400 --> 01:02:32,400
+why it's not it's
+
+999
+01:02:39,440 --> 01:20:02,240
+it's just.
+
+1000
+01:20:02,240 --> 01:20:04,400
+All right, guys, let's get back
+
+1001
+01:20:10,480 --> 01:20:12,360
+and let's continue
+
+1002
+01:20:12,360 --> 01:20:16,800
+the class.
+
+1003
+01:20:16,800 --> 01:20:47,760
+So I get to go.
+
+1004
+01:20:48,000 --> 01:21:01,000
+Nice.
+
+1005
+01:21:01,000 --> 01:21:01,800
+Okay, guys.
+
+1006
+01:21:01,800 --> 01:21:06,680
+So now let's talk about the JavaScript
+execute,
+
+1007
+01:21:07,880 --> 01:21:08,520
+right?
+
+1008
+01:21:09,240 --> 01:21:11,280
+Okay, so JavaScript execution,
+
+1009
+01:21:11,280 --> 01:21:14,240
+guys, did anyone do a research?
+
+1010
+01:21:14,280 --> 01:21:18,000
+First of all, guys, didn't
+anyone to do a research
+
+1011
+01:21:18,000 --> 01:21:20,920
+about the JavaScript executes
+
+1012
+01:21:31,680 --> 01:21:33,120
+see things like not,
+
+1013
+01:21:33,120 --> 01:21:44,720
+okay, okay,
+
+1014
+01:21:45,720 --> 01:21:48,240
+that's fine.
+
+1015
+01:21:48,240 --> 01:21:48,760
+All right.
+
+1016
+01:21:48,760 --> 01:21:52,200
+So JavaScript executes, right?
+
+1017
+01:21:52,320 --> 01:21:57,360
+So JavaScript execution is a library
+
+1018
+01:21:57,480 --> 01:21:59,880
+that is present in Selene, Okay.
+
+1019
+01:22:00,360 --> 01:22:02,640
+And it can be executed
+
+1020
+01:22:03,520 --> 01:22:05,600
+in different programing languages
+
+1021
+01:22:06,360 --> 01:22:09,760
+like Java, Python
+and different differently.
+
+1022
+01:22:09,960 --> 01:22:14,640
+So the JavaScript executable
+is an interface, Okay?
+
+1023
+01:22:14,840 --> 01:22:17,360
+And he has some methods
+
+1024
+01:22:17,640 --> 01:22:20,520
+that you can perform on the web page.
+
+1025
+01:22:20,720 --> 01:22:21,240
+Okay.
+
+1026
+01:22:21,240 --> 01:22:27,080
+So these methods are a little bit
+different than usual actions.
+
+1027
+01:22:27,080 --> 01:22:32,960
+Okay,
+So like there is one exact same method
+
+1028
+01:22:33,600 --> 01:22:37,920
+for click which you can perform
+with JavaScript, execute as well.
+
+1029
+01:22:38,200 --> 01:22:38,840
+Okay.
+
+1030
+01:22:38,840 --> 01:22:43,000
+So other methods you can,
+you can highlight an element,
+
+1031
+01:22:43,160 --> 01:22:49,200
+you can refresh the page,
+you can scroll up and down and on the page
+
+1032
+01:22:50,200 --> 01:22:52,200
+you can also open a new tab
+
+1033
+01:22:52,200 --> 01:22:56,520
+and you can also scroll
+to a specific element.
+
+1034
+01:22:57,000 --> 01:23:01,680
+Okay So these kind of actions are given
+
+1035
+01:23:01,680 --> 01:23:05,400
+inside our JavaScript
+to execute our library.
+
+1036
+01:23:05,640 --> 01:23:06,480
+Okay.
+
+1037
+01:23:06,600 --> 01:23:11,280
+And we will be performing those actions
+right now.
+
+1038
+01:23:11,640 --> 01:23:12,360
+Okay.
+
+1039
+01:23:12,360 --> 01:23:16,680
+So we should only be using JavaScript,
+
+1040
+01:23:16,680 --> 01:23:22,720
+execute order
+when we are not able to perform actions
+
+1041
+01:23:23,040 --> 01:23:25,880
+such as click
+
+1042
+01:23:25,880 --> 01:23:28,480
+on the elements or opening a new tab.
+
+1043
+01:23:29,000 --> 01:23:32,280
+Okay guys, so
+
+1044
+01:23:32,280 --> 01:23:35,000
+let's go over the notes first
+
+1045
+01:23:37,480 --> 01:23:38,640
+and here.
+
+1046
+01:23:38,680 --> 01:23:41,760
+Okay, So JavaScript
+
+1047
+01:23:43,760 --> 01:23:45,120
+executes.
+
+1048
+01:23:45,120 --> 01:23:48,720
+Okay, so it is a library,
+
+1049
+01:23:50,040 --> 01:23:53,640
+is a library and selenium
+
+1050
+01:23:54,440 --> 01:23:57,960
+which can be executed
+
+1051
+01:24:00,560 --> 01:24:02,120
+different
+
+1052
+01:24:04,200 --> 01:24:05,760
+languages.
+
+1053
+01:24:05,760 --> 01:24:10,560
+Okay, So we can put those in here, Java,
+
+1054
+01:24:11,920 --> 01:24:18,400
+C-sharp, Python and etc..
+
+1055
+01:24:18,880 --> 01:24:20,520
+Okay.
+
+1056
+01:24:20,520 --> 01:24:24,280
+And we can say that
+JavaScript execute here
+
+1057
+01:24:24,760 --> 01:24:29,600
+is an interface, right?
+
+1058
+01:24:29,920 --> 01:24:33,000
+And methods or actions
+
+1059
+01:24:34,440 --> 01:24:37,720
+which can be performed
+
+1060
+01:24:40,520 --> 01:24:47,840
+by using execute.
+
+1061
+01:24:47,840 --> 01:24:50,880
+So those are the actions in here.
+
+1062
+01:24:50,880 --> 01:24:53,760
+Click on the element,
+
+1063
+01:24:55,120 --> 01:25:00,160
+right scroll to the page
+
+1064
+01:25:01,480 --> 01:25:04,440
+and refresh the page
+
+1065
+01:25:06,120 --> 01:25:08,760
+and highlight
+
+1066
+01:25:09,560 --> 01:25:14,160
+the the element.
+
+1067
+01:25:14,160 --> 01:25:17,400
+We can also do scroll to a
+
+1068
+01:25:19,520 --> 01:25:21,600
+specific
+
+1069
+01:25:22,880 --> 01:25:27,320
+element and we can also open and use TAP.
+
+1070
+01:25:28,320 --> 01:25:31,440
+Okay, So any questions guys,
+
+1071
+01:25:31,440 --> 01:25:35,040
+before we move to an actual implementation
+
+1072
+01:25:59,880 --> 01:26:01,320
+robot class,
+
+1073
+01:26:01,320 --> 01:26:03,800
+it has different methods to
+
+1074
+01:26:05,520 --> 01:26:07,320
+to interact with Windows
+
+1075
+01:26:07,320 --> 01:26:12,520
+based platforms.
+
+1076
+01:26:12,520 --> 01:26:14,360
+It comes from Java Library.
+
+1077
+01:26:14,360 --> 01:26:17,280
+Okay. All right.
+
+1078
+01:26:17,440 --> 01:26:22,440
+So JavaScript
+executable here has two different methods.
+
+1079
+01:26:22,720 --> 01:26:23,520
+Okay.
+
+1080
+01:26:23,520 --> 01:26:28,360
+It has executed script and execute
+async script.
+
+1081
+01:26:28,760 --> 01:26:29,440
+Okay.
+
+1082
+01:26:29,440 --> 01:26:32,560
+So it's going to help us to keep the
+
+1083
+01:26:33,160 --> 01:26:36,360
+the extras
+and now more interactive, right?
+
+1084
+01:26:36,360 --> 01:26:40,680
+As we said in here, scrolling to the page,
+highlighting an element,
+
+1085
+01:26:41,600 --> 01:26:44,040
+scrolling to a specific element.
+
+1086
+01:26:44,400 --> 01:26:46,800
+Right. Or opening and you tap
+
+1087
+01:26:47,880 --> 01:26:49,200
+right again guys.
+
+1088
+01:26:49,200 --> 01:26:51,600
+So we can click
+
+1089
+01:26:51,600 --> 01:26:56,080
+on the element the now we can click
+by regular selenium and click.
+
+1090
+01:26:56,080 --> 01:26:58,880
+We're going to have an action
+class click right.
+
+1091
+01:26:59,040 --> 01:27:02,600
+And now there's another alternative
+that we can use is
+
+1092
+01:27:02,880 --> 01:27:05,880
+JavaScript execute or collect.
+
+1093
+01:27:05,880 --> 01:27:09,320
+Okay, So sometimes, as I said,
+it's not going to work.
+
+1094
+01:27:09,320 --> 01:27:10,880
+So you have to use some different,
+
+1095
+01:27:10,880 --> 01:27:15,200
+different ways
+in order to achieve what you need to do.
+
+1096
+01:27:15,200 --> 01:27:15,920
+Right.
+
+1097
+01:27:16,640 --> 01:27:21,400
+Okay, so JavaScript executed guys.
+
+1098
+01:27:21,400 --> 01:27:24,840
+It has a little bit of a different syntax.
+
+1099
+01:27:24,840 --> 01:27:25,560
+Okay.
+
+1100
+01:27:25,560 --> 01:27:28,080
+So what you need to do, you just need to
+
+1101
+01:27:29,760 --> 01:27:32,880
+what's called you just need to
+
+1102
+01:27:32,880 --> 01:27:36,400
+remember those that script
+
+1103
+01:27:36,400 --> 01:27:42,000
+that I am going to write down right now,
+it has its own built in script
+
+1104
+01:27:42,000 --> 01:27:45,760
+that you need to follow
+in order to perform this kind of actions.
+
+1105
+01:27:46,080 --> 01:27:47,960
+Okay, So
+
+1106
+01:27:48,960 --> 01:27:49,840
+What I am
+
+1107
+01:27:49,840 --> 01:27:53,080
+going to do, I'm
+going to create a new Java class in here
+
+1108
+01:27:53,720 --> 01:27:55,840
+and I will name it as
+
+1109
+01:27:58,720 --> 01:28:01,560
+JavaScript execute or demo.
+
+1110
+01:28:03,440 --> 01:28:06,400
+Okay, So
+
+1111
+01:28:07,520 --> 01:28:10,360
+now what I want to do in here
+
+1112
+01:28:13,200 --> 01:28:28,520
+is, is this.
+
+1113
+01:28:28,520 --> 01:28:31,680
+So let me get
+
+1114
+01:28:31,680 --> 01:28:40,440
+the URL.
+
+1115
+01:28:40,440 --> 01:28:43,680
+Might have this here.
+
+1116
+01:28:43,680 --> 01:28:45,200
+I'm not here.
+
+1117
+01:28:45,200 --> 01:28:46,440
+Okay, that's
+
+1118
+01:28:51,320 --> 01:28:53,960
+my thing.
+
+1119
+01:28:54,160 --> 01:28:56,880
+It was some thoughts project
+
+1120
+01:28:57,320 --> 01:29:16,760
+right now.
+
+1121
+01:29:16,760 --> 01:29:19,240
+What was that
+
+1122
+01:29:23,920 --> 01:29:24,720
+scene
+
+1123
+01:29:26,000 --> 01:29:29,960
+that guys what was the what was
+
+1124
+01:29:31,120 --> 01:29:34,680
+the length for the
+
+1125
+01:29:36,040 --> 01:29:39,280
+okay so I had it right okay
+
+1126
+01:29:39,280 --> 01:29:41,400
+but it was system okay.
+
+1127
+01:29:41,520 --> 01:29:43,680
+All right Yeah I had it right. Okay guys.
+
+1128
+01:29:44,000 --> 01:29:46,120
+So what I want to do in here, guys,
+
+1129
+01:29:47,800 --> 01:29:49,680
+I want to
+
+1130
+01:29:50,040 --> 01:29:53,160
+navigate to this page
+
+1131
+01:29:53,160 --> 01:29:55,200
+and what I want to do.
+
+1132
+01:29:55,200 --> 01:29:57,120
+I want to
+
+1133
+01:29:57,480 --> 01:30:01,440
+enter using name and password
+and what I want to do.
+
+1134
+01:30:01,440 --> 01:30:04,640
+I want to highlight the password
+
+1135
+01:30:05,520 --> 01:30:09,600
+text box in here.
+
+1136
+01:30:09,600 --> 01:30:13,800
+Okay, So let's go back
+
+1137
+01:30:15,360 --> 01:30:18,320
+in here and let's see
+
+1138
+01:30:20,520 --> 01:30:21,480
+where we use
+
+1139
+01:30:21,480 --> 01:30:26,640
+to identify those.
+
+1140
+01:30:26,640 --> 01:30:34,200
+Think we have it here now,
+
+1141
+01:30:34,200 --> 01:30:38,440
+okay. Yes.
+
+1142
+01:30:38,440 --> 01:30:41,160
+So I'm going to copy this
+
+1143
+01:30:41,160 --> 01:30:43,440
+and place this in here.
+
+1144
+01:30:43,440 --> 01:30:45,720
+Okay.
+
+1145
+01:30:45,720 --> 01:30:47,880
+Log in, button in here. Okay, guys.
+
+1146
+01:30:48,120 --> 01:30:50,640
+So everyone knows what this trip does,
+
+1147
+01:30:50,880 --> 01:31:00,440
+right?
+
+1148
+01:31:00,440 --> 01:31:03,680
+I think I need I might change the URL
+
+1149
+01:31:05,280 --> 01:31:09,560
+in my script.
+
+1150
+01:31:09,560 --> 01:31:11,280
+Okay, so this is the URL.
+
+1151
+01:31:11,280 --> 01:31:14,800
+So what I need to do here, I'm passing
+
+1152
+01:31:15,960 --> 01:31:17,160
+username and password.
+
+1153
+01:31:17,160 --> 01:31:18,840
+Okay?
+
+1154
+01:31:18,840 --> 01:31:20,920
+And what I am doing here,
+
+1155
+01:31:22,400 --> 01:31:28,440
+I will be highlighting this password.
+
+1156
+01:31:28,440 --> 01:31:29,240
+Okay.
+
+1157
+01:31:30,600 --> 01:31:31,320
+All right.
+
+1158
+01:31:31,320 --> 01:31:35,040
+So now what I need to do guys,
+
+1159
+01:31:35,280 --> 01:31:40,720
+since I passed username
+and password in here, what I need to do.
+
+1160
+01:31:40,720 --> 01:31:43,720
+Okay, so let me comment this out.
+
+1161
+01:31:44,200 --> 01:31:45,760
+Okay.
+
+1162
+01:31:45,760 --> 01:31:49,920
+So first of all, if I want to use
+a JavaScript executed in here,
+
+1163
+01:31:50,240 --> 01:31:54,520
+I need a JavaScript execute or object.
+
+1164
+01:31:54,840 --> 01:31:55,360
+Okay.
+
+1165
+01:31:55,360 --> 01:31:59,560
+And since this is an interface, right,
+we won't be able to create
+
+1166
+01:31:59,880 --> 01:32:03,760
+a an object directly, right?
+
+1167
+01:32:04,080 --> 01:32:06,880
+We either to create it indirectly
+
+1168
+01:32:06,880 --> 01:32:09,600
+or we will be casting this down.
+
+1169
+01:32:10,320 --> 01:32:10,920
+Right.
+
+1170
+01:32:10,920 --> 01:32:13,880
+So when was the last time we were casting
+something down?
+
+1171
+01:32:13,880 --> 01:32:16,440
+Guys were what was the implementation
+
+1172
+01:32:27,000 --> 01:32:27,960
+and the web driver?
+
+1173
+01:32:27,960 --> 01:32:38,000
+We're creating an object indirectly,
+right?
+
+1174
+01:32:38,000 --> 01:32:49,840
+Any other times, guys?
+
+1175
+01:32:49,840 --> 01:32:51,720
+Alerts No, we're not.
+
+1176
+01:32:51,720 --> 01:32:53,600
+We're not down casting in there.
+
+1177
+01:32:53,600 --> 01:32:57,920
+Right.
+
+1178
+01:32:57,920 --> 01:33:03,120
+The question is, when was the last time
+we were casting something down
+
+1179
+01:33:03,120 --> 01:33:04,320
+or up
+
+1180
+01:33:16,120 --> 01:33:18,000
+in our implementation?
+
+1181
+01:33:18,000 --> 01:33:19,640
+Anyone remember
+
+1182
+01:33:27,120 --> 01:33:32,040
+now? Okay, guys,
+
+1183
+01:33:33,480 --> 01:33:35,040
+last class.
+
+1184
+01:33:35,040 --> 01:33:35,960
+What did we do?
+
+1185
+01:33:35,960 --> 01:33:39,480
+Guys, It was just last
+
+1186
+01:33:39,480 --> 01:33:43,360
+class, right?
+
+1187
+01:33:43,360 --> 01:33:48,280
+So what we did in the last class, guys,
+we casted down,
+
+1188
+01:33:48,640 --> 01:33:51,480
+take screenshots, interface, right?
+
+1189
+01:33:51,480 --> 01:33:56,080
+So what we are going to be doing this
+time,
+
+1190
+01:33:56,320 --> 01:34:01,360
+we will be doing the same thing,
+but we will be doing it.
+
+1191
+01:34:01,360 --> 01:34:03,360
+The JavaScript executing.
+
+1192
+01:34:03,360 --> 01:34:10,840
+Okay,
+so what I will do in here, JavaScript
+
+1193
+01:34:12,000 --> 01:34:13,960
+executable, right?
+
+1194
+01:34:13,960 --> 01:34:16,640
+I'll put it as gas. Jess Right.
+
+1195
+01:34:17,240 --> 01:34:21,960
+So I'll have a JavaScript execute
+
+1196
+01:34:21,960 --> 01:34:26,840
+right here and we are passing this down
+to the driver, right?
+
+1197
+01:34:26,840 --> 01:34:31,440
+Because that's our actual execution
+object, right?
+
+1198
+01:34:31,720 --> 01:34:35,160
+So we have this in here,
+we have a JavaScript execution
+
+1199
+01:34:35,520 --> 01:34:37,480
+execute object in here.
+
+1200
+01:34:37,480 --> 01:34:42,040
+So now as I said, guys,
+it only gives us two different methods,
+
+1201
+01:34:42,040 --> 01:34:46,960
+which is execute script and execute
+async script, right?
+
+1202
+01:34:47,240 --> 01:34:51,720
+So we are only going to be using
+the execute script method.
+
+1203
+01:34:51,960 --> 01:34:53,400
+Okay. So
+
+1204
+01:34:54,640 --> 01:34:56,760
+what I will do in here,
+
+1205
+01:34:56,760 --> 01:35:02,560
+I'll do just that execute script.
+
+1206
+01:35:02,560 --> 01:35:06,120
+So in here this method is going to
+
+1207
+01:35:07,280 --> 01:35:10,240
+expect us to different arguments.
+
+1208
+01:35:10,560 --> 01:35:11,240
+Okay.
+
+1209
+01:35:11,240 --> 01:35:16,160
+So the first argument is the action
+we are performing.
+
+1210
+01:35:16,440 --> 01:35:22,000
+The second one is
+the object on the web page.
+
+1211
+01:35:22,000 --> 01:35:27,200
+Okay, so in here, guys, what is that
+object that we're performing an action
+
+1212
+01:35:27,320 --> 01:35:37,800
+on, not on the web page?
+
+1213
+01:35:37,840 --> 01:35:40,520
+What is the object
+that we're performing an action on
+
+1214
+01:35:43,320 --> 01:35:45,360
+the password TextBox.
+
+1215
+01:35:45,360 --> 01:35:46,000
+Right.
+
+1216
+01:35:46,000 --> 01:35:48,160
+So what I'm going to do in here,
+
+1217
+01:35:48,720 --> 01:35:50,880
+I'll just copy this
+
+1218
+01:35:51,680 --> 01:35:54,360
+and paste this in here, right?
+
+1219
+01:35:54,480 --> 01:35:58,360
+So that's the element
+we need to interact with.
+
+1220
+01:35:58,880 --> 01:36:02,320
+So before this, write what I need to
+
+1221
+01:36:02,320 --> 01:36:05,800
+do, I am going to perform an action.
+
+1222
+01:36:06,120 --> 01:36:10,920
+Okay, So since I said, guys,
+it has a little bit of different
+
+1223
+01:36:12,880 --> 01:36:15,960
+script, so you just need to remember
+
+1224
+01:36:17,040 --> 01:36:18,520
+how it works.
+
+1225
+01:36:18,520 --> 01:36:23,640
+Okay, so this is a built in script
+that I am going to put in here right now.
+
+1226
+01:36:23,800 --> 01:36:28,200
+Okay, So what you need to do in here,
+you need to start with
+
+1227
+01:36:28,680 --> 01:36:31,600
+arguments, okay?
+
+1228
+01:36:31,600 --> 01:36:33,120
+Arguments.
+
+1229
+01:36:33,120 --> 01:36:35,520
+Open and close the square bracket.
+
+1230
+01:36:36,680 --> 01:36:39,520
+Inside the square bracket,
+you need to put the zero
+
+1231
+01:36:40,120 --> 01:36:43,440
+and then that style.
+
+1232
+01:36:44,280 --> 01:36:48,000
+Okay, So we are we are working right now.
+
+1233
+01:36:48,000 --> 01:36:50,760
+We're trying to change some styles
+in here.
+
+1234
+01:36:50,760 --> 01:36:51,480
+Okay.
+
+1235
+01:36:51,480 --> 01:36:54,520
+And in this style,
+what are we trying to do?
+
+1236
+01:36:54,720 --> 01:36:57,120
+We're trying to do
+
+1237
+01:36:57,120 --> 01:37:01,160
+with trying to manipulate
+with a background color.
+
+1238
+01:37:01,440 --> 01:37:02,320
+Okay.
+
+1239
+01:37:02,400 --> 01:37:06,080
+And what I need to do
+is want to put the background color
+
+1240
+01:37:07,440 --> 01:37:11,240
+and I'll put an equal sign
+
+1241
+01:37:11,360 --> 01:37:15,240
+single code, and let's do it as red.
+
+1242
+01:37:16,080 --> 01:37:17,400
+Okay. So
+
+1243
+01:37:18,480 --> 01:37:20,280
+here, don't get confused yet.
+
+1244
+01:37:20,280 --> 01:37:21,200
+Okay, guys.
+
+1245
+01:37:21,200 --> 01:37:24,960
+So because this script that I just wrote,
+
+1246
+01:37:25,280 --> 01:37:30,120
+this is a built in script
+to a JavaScript, it okay,
+
+1247
+01:37:30,120 --> 01:37:36,240
+So if I don't think you have to memorize
+all the scripts
+
+1248
+01:37:36,240 --> 01:37:40,640
+that that JavaScript execute or has,
+you just need to know the logic
+
+1249
+01:37:40,840 --> 01:37:44,360
+and the actions
+that you can perform with JavaScript.
+
+1250
+01:37:44,360 --> 01:37:45,440
+Execute.
+
+1251
+01:37:45,480 --> 01:37:49,680
+Okay, So what I will do right now,
+let me run this
+
+1252
+01:37:50,160 --> 01:37:52,680
+so that you guys can visually see
+
+1253
+01:37:52,680 --> 01:38:05,680
+what is going on.
+
+1254
+01:38:05,680 --> 01:38:06,800
+There we go.
+
+1255
+01:38:06,800 --> 01:38:09,000
+So what happened here, guys?
+
+1256
+01:38:09,320 --> 01:38:13,880
+Whenever I, I entered my log in
+
+1257
+01:38:14,160 --> 01:38:18,360
+and the password,
+it highlighted my password.
+
+1258
+01:38:18,440 --> 01:38:21,040
+TextBox Right, guys.
+
+1259
+01:38:21,040 --> 01:38:25,560
+So when,
+when can you actually use this guys
+
+1260
+01:38:27,480 --> 01:38:29,800
+Yeah, this is just a visual change for us.
+
+1261
+01:38:29,800 --> 01:38:30,480
+Exactly.
+
+1262
+01:38:31,440 --> 01:38:32,560
+For screenshots.
+
+1263
+01:38:32,560 --> 01:38:33,560
+Absolutely right.
+
+1264
+01:38:33,560 --> 01:38:37,880
+So sometimes let's say
+the text is not appearing correctly.
+
+1265
+01:38:37,880 --> 01:38:41,400
+So what you can do, you can just
+highlighted take screenshots and
+
+1266
+01:38:42,120 --> 01:38:44,440
+create a defect and attach that in there.
+
+1267
+01:38:44,960 --> 01:38:45,720
+Right.
+
+1268
+01:38:46,440 --> 01:38:47,080
+There we go.
+
+1269
+01:38:47,080 --> 01:38:52,640
+When you want to highlight important words
+or any elements on the webpage, right?
+
+1270
+01:38:52,720 --> 01:38:57,720
+So this is one of the actions
+that you can perform with
+
+1271
+01:38:58,840 --> 01:39:01,000
+with JavaScript to.
+
+1272
+01:39:01,440 --> 01:39:02,040
+Okay.
+
+1273
+01:39:02,040 --> 01:39:26,200
+Any questions on this?
+
+1274
+01:39:26,200 --> 01:39:37,920
+The blogs are crazy right now.
+
+1275
+01:39:37,920 --> 01:39:40,120
+You misspelled arguments zero
+
+1276
+01:39:51,000 --> 01:39:53,320
+line 21 here.
+
+1277
+01:39:53,320 --> 01:40:01,240
+This is down casting.
+
+1278
+01:40:01,240 --> 01:40:02,280
+We have an interface.
+
+1279
+01:40:02,280 --> 01:40:06,560
+We need an object of that interface.
+
+1280
+01:40:06,560 --> 01:40:13,320
+So basically what we're doing in here
+is down casting our object
+
+1281
+01:40:13,600 --> 01:40:17,040
+to the execution point object
+that we have.
+
+1282
+01:40:17,400 --> 01:40:18,360
+Okay.
+
+1283
+01:40:18,480 --> 01:40:21,120
+So in here, since the driver is our
+
+1284
+01:40:22,000 --> 01:40:26,680
+execution object,
+so we need to perform some different
+
+1285
+01:40:28,120 --> 01:40:30,320
+actions as well, right?
+
+1286
+01:40:30,320 --> 01:40:31,800
+So that's why we're doing this.
+
+1287
+01:40:31,800 --> 01:40:41,640
+Since we can't create an object
+of the JavaScript, execute or interface.
+
+1288
+01:40:41,640 --> 01:40:43,080
+So I said your name. Right?
+
+1289
+01:40:43,080 --> 01:40:43,600
+Okay.
+
+1290
+01:40:43,600 --> 01:40:47,040
+Okay, no problem.
+
+1291
+01:40:47,040 --> 01:40:49,520
+Can you highlight
+any text on the webpage? Yes.
+
+1292
+01:40:49,680 --> 01:40:52,160
+So if you go ahead and get
+
+1293
+01:40:52,600 --> 01:40:55,800
+you need to have a web
+element on hand, right?
+
+1294
+01:40:55,800 --> 01:41:02,080
+So You need to locate that web element
+and then you have to execute this.
+
+1295
+01:41:02,080 --> 01:41:03,000
+Correct.
+
+1296
+01:41:03,440 --> 01:41:10,680
+Okay.
+
+1297
+01:41:10,680 --> 01:41:13,280
+You can try. Yeah, try.
+
+1298
+01:41:14,280 --> 01:41:16,840
+Let's try.
+
+1299
+01:41:16,840 --> 01:41:20,160
+I don't know if we're going to work
+
+1300
+01:41:20,160 --> 01:41:21,920
+red or what.
+
+1301
+01:41:21,920 --> 01:41:23,160
+What else can we do?
+
+1302
+01:41:23,160 --> 01:41:24,040
+Purple
+
+1303
+01:41:27,200 --> 01:41:27,760
+of blue.
+
+1304
+01:41:27,760 --> 01:41:30,960
+Okay, Yeah, Let's do this. Fine.
+
+1305
+01:41:31,080 --> 01:41:32,120
+There we go.
+
+1306
+01:41:32,120 --> 01:41:47,240
+So let's execute this.
+
+1307
+01:41:47,240 --> 01:41:48,320
+There we go.
+
+1308
+01:41:48,520 --> 01:41:54,200
+So now it's a different color in here,
+right?
+
+1309
+01:41:54,200 --> 01:41:55,040
+Okay.
+
+1310
+01:41:56,000 --> 01:41:56,280
+All right.
+
+1311
+01:41:56,280 --> 01:42:06,600
+Any questions, guys, on this?
+
+1312
+01:42:06,600 --> 01:42:08,160
+What does zero mean?
+
+1313
+01:42:08,160 --> 01:42:11,320
+I'm not really sure what this means,
+
+1314
+01:42:11,680 --> 01:42:15,880
+but just know that this is how it's built.
+
+1315
+01:42:15,880 --> 01:42:16,320
+Okay?
+
+1316
+01:42:20,640 --> 01:42:22,600
+How can you use it without down casting?
+
+1317
+01:42:22,600 --> 01:42:27,160
+I don't think you will be able to, but
+there might be some other ways, of course.
+
+1318
+01:42:27,400 --> 01:42:39,840
+But this is one of the way that I know of.
+
+1319
+01:42:39,840 --> 01:42:43,000
+Yeah, you can use the same syntax
+for the username.
+
+1320
+01:42:43,120 --> 01:42:44,800
+You just need to change that element.
+
+1321
+01:42:44,800 --> 01:42:51,520
+You interacting with.
+
+1322
+01:42:51,520 --> 01:42:56,400
+Okay.
+
+1323
+01:42:56,400 --> 01:43:11,280
+Any other questions?
+
+1324
+01:43:11,280 --> 01:43:16,200
+Okay, so here what we're doing,
+we're just down casting.
+
+1325
+01:43:16,200 --> 01:43:19,560
+That means.
+
+1326
+01:43:19,560 --> 01:43:23,840
+So when you try to convert one data type
+
+1327
+01:43:23,840 --> 01:43:28,360
+to another data type,
+that's when you want a down downcast.
+
+1328
+01:43:28,360 --> 01:43:38,440
+Okay.
+
+1329
+01:43:38,440 --> 01:43:41,280
+Line 20.
+Yes, the line 21 will be the same.
+
+1330
+01:43:41,280 --> 01:43:45,000
+You just need to use this object
+
+1331
+01:43:49,560 --> 01:43:50,520
+on the username.
+
+1332
+01:43:50,520 --> 01:43:50,920
+Sure.
+
+1333
+01:43:50,920 --> 01:43:55,320
+Just you can have the same exact in here.
+
+1334
+01:43:55,520 --> 01:43:57,840
+You just need to change the
+
+1335
+01:43:59,720 --> 01:44:00,920
+the element that you're
+
+1336
+01:44:00,920 --> 01:44:07,640
+trying to interact with right.
+
+1337
+01:44:07,640 --> 01:44:09,680
+So let's do this right.
+
+1338
+01:44:10,440 --> 01:44:11,560
+And the other one is blue.
+
+1339
+01:44:11,560 --> 01:44:23,480
+So let's run this.
+
+1340
+01:44:23,480 --> 01:44:26,040
+All right, there you go.
+
+1341
+01:44:26,040 --> 01:44:29,400
+So you just need to change the
+
+1342
+01:44:29,400 --> 01:44:32,240
+the objects that you want to interact
+with on the web page.
+
+1343
+01:44:33,520 --> 01:44:36,360
+So we use for other actions.
+
+1344
+01:44:36,720 --> 01:44:50,200
+What what other actions
+are you talking about?
+
+1345
+01:44:50,200 --> 01:44:51,840
+Confuse on down casting.
+
+1346
+01:44:51,840 --> 01:44:53,240
+Okay, guys.
+
+1347
+01:44:54,120 --> 01:44:54,600
+Okay.
+
+1348
+01:44:54,600 --> 01:44:57,040
+In order for us to use
+
+1349
+01:44:59,040 --> 01:45:03,200
+to use JavaScript, execute our methods.
+
+1350
+01:45:03,280 --> 01:45:07,200
+Okay,
+how do I get access to those methods guys?
+
+1351
+01:45:07,200 --> 01:45:09,000
+Okay. If I have a class. Okay.
+
+1352
+01:45:09,000 --> 01:45:13,080
+And it has some methods like, let's say
+action class, what do we do, guys?
+
+1353
+01:45:13,920 --> 01:45:17,640
+So in order for me to get access to,
+the actions class
+
+1354
+01:45:17,640 --> 01:45:26,640
+methods, we create an object, right?
+
+1355
+01:45:26,880 --> 01:45:28,480
+Because it's a class.
+
+1356
+01:45:28,480 --> 01:45:33,960
+Okay, So we're creating an object
+because we can do this with actions class
+
+1357
+01:45:33,960 --> 01:45:37,440
+because it's a class and you can create
+an object of the class, right?
+
+1358
+01:45:37,760 --> 01:45:40,960
+So since this JavaScript
+
+1359
+01:45:40,960 --> 01:45:43,720
+execution is an interface, right?
+
+1360
+01:45:43,960 --> 01:45:48,840
+So it's an interface
+and we just need to have access
+
+1361
+01:45:49,040 --> 01:45:51,760
+to the, to the methods, okay.
+
+1362
+01:45:52,240 --> 01:45:54,160
+To the methods that it has.
+
+1363
+01:45:54,160 --> 01:45:58,000
+And in order to do this one,
+what we need to do,
+
+1364
+01:45:58,080 --> 01:46:04,000
+we need to have an object to
+we need to be able to execute it.
+
+1365
+01:46:04,560 --> 01:46:08,000
+Okay, So what we're doing right now,
+we're basically
+
+1366
+01:46:08,000 --> 01:46:12,000
+converting the data type in here by down
+casting.
+
+1367
+01:46:12,040 --> 01:46:15,080
+Okay, So don't go too much into details.
+
+1368
+01:46:15,320 --> 01:46:18,240
+Went to down
+Castle, went to up class in here.
+
+1369
+01:46:18,480 --> 01:46:22,560
+Okay so whenever you're having
+an interface and you trying to use it
+
+1370
+01:46:22,560 --> 01:46:26,280
+from different libraries,
+you either don't pass or you directly,
+
+1371
+01:46:27,920 --> 01:46:29,880
+you can implement
+
+1372
+01:46:29,880 --> 01:46:33,640
+most of the time as we did on alerts guys,
+
+1373
+01:46:34,800 --> 01:46:36,680
+depending on
+
+1374
+01:46:36,680 --> 01:46:39,840
+what kind of interfaces they are
+
+1375
+01:46:39,840 --> 01:46:43,040
+and what kind of
+
+1376
+01:46:43,080 --> 01:46:45,040
+actions you want to perform.
+
+1377
+01:46:45,040 --> 01:46:50,880
+Okay, so but in JavaScript guys
+in JavaScript execute or what
+
+1378
+01:46:50,880 --> 01:46:55,080
+you need to do, since you're performing
+some actions on the web page,
+
+1379
+01:46:55,240 --> 01:47:00,240
+you need to cast it down
+and change your data type to a web driver.
+
+1380
+01:47:00,720 --> 01:47:04,440
+Okay?
+
+1381
+01:47:04,440 --> 01:47:06,520
+No, you don't have to do that.
+
+1382
+01:47:06,520 --> 01:47:15,840
+Okay?
+
+1383
+01:47:15,840 --> 01:47:17,000
+You don't have to.
+
+1384
+01:47:17,000 --> 01:47:22,280
+Dom cast all the what's called
+all the interfaces, okay,
+
+1385
+01:47:22,520 --> 01:47:26,720
+Because here, guys, what we are doing,
+we're actually
+
+1386
+01:47:26,720 --> 01:47:30,360
+performing an action
+on the web page, right.
+
+1387
+01:47:30,480 --> 01:47:36,240
+And to perform action on the web page,
+we are using the driver in here.
+
+1388
+01:47:36,840 --> 01:47:37,560
+Right?
+
+1389
+01:47:37,560 --> 01:47:42,520
+So, so in order for us to
+
+1390
+01:47:42,600 --> 01:47:46,320
+to perform some actions
+and use at the same time
+
+1391
+01:47:46,480 --> 01:47:49,800
+the methods that are available
+in the JavaScript executable,
+
+1392
+01:47:49,800 --> 01:47:53,200
+we need to have this JavaScript execute
+
+1393
+01:47:53,200 --> 01:47:56,000
+or casted down and change the data type.
+
+1394
+01:47:56,560 --> 01:48:01,080
+Okay.
+
+1395
+01:48:01,080 --> 01:48:02,680
+Yeah. I think I already did that.
+
+1396
+01:48:02,680 --> 01:48:04,320
+It should highlight both.
+
+1397
+01:48:04,320 --> 01:48:06,000
+Okay, check them.
+
+1398
+01:48:06,000 --> 01:48:08,400
+Check the spell spelling on the
+
+1399
+01:48:10,560 --> 01:48:12,360
+on your script.
+
+1400
+01:48:12,360 --> 01:48:17,120
+Okay.
+
+1401
+01:48:17,120 --> 01:48:20,760
+And check your elements
+that you're trying to interact.
+
+1402
+01:48:22,720 --> 01:48:23,680
+Okay, guys.
+
+1403
+01:48:23,680 --> 01:48:27,960
+So now we change the background color
+of the username and password
+
+1404
+01:48:27,960 --> 01:48:29,840
+text boxes, right?
+
+1405
+01:48:29,840 --> 01:48:33,280
+So what I want to do guys,
+
+1406
+01:48:33,280 --> 01:48:37,200
+I want to click on the log in button,
+
+1407
+01:48:37,800 --> 01:48:40,080
+but I don't want to use the regular click.
+
+1408
+01:48:40,200 --> 01:48:40,800
+Okay.
+
+1409
+01:48:40,800 --> 01:48:45,000
+So there is another alternative for you to
+
+1410
+01:48:45,680 --> 01:48:51,560
+to click on any button
+or on any web element, right?
+
+1411
+01:48:51,560 --> 01:48:52,760
+If you want to click.
+
+1412
+01:48:52,760 --> 01:48:57,240
+So again, guys, since we already have the
+
+1413
+01:48:59,000 --> 01:49:01,800
+the JavaScript execute our
+
+1414
+01:49:01,800 --> 01:49:04,520
+object in here, what I am going to do,
+
+1415
+01:49:04,920 --> 01:49:09,120
+I am going to use that
+and I will use the same exact method.
+
+1416
+01:49:09,440 --> 01:49:15,600
+Okay, so now what is the element we will
+be interacting with in this case, less
+
+1417
+01:49:25,240 --> 01:49:27,320
+the login button, right?
+
+1418
+01:49:27,320 --> 01:49:30,880
+So what I'm going to do,
+I'm going to put the login button in here.
+
+1419
+01:49:31,920 --> 01:49:32,840
+Okay.
+
+1420
+01:49:32,880 --> 01:49:35,040
+And then what I need to do,
+
+1421
+01:49:35,280 --> 01:49:40,120
+I need to write down this credit,
+that action that we're going to be doing.
+
+1422
+01:49:40,120 --> 01:49:40,440
+Right.
+
+1423
+01:49:40,440 --> 01:49:42,960
+So again, arguments
+
+1424
+01:49:44,120 --> 01:49:46,240
+with zero, Okay.
+
+1425
+01:49:46,680 --> 01:49:49,440
+And what I simply want to do
+
+1426
+01:49:49,800 --> 01:49:54,680
+is to click, okay,
+
+1427
+01:49:54,800 --> 01:49:59,440
+So this is the script,
+the built in script for JavaScript execute
+
+1428
+01:49:59,440 --> 01:50:04,600
+or to click on the button or the element,
+whichever you want to.
+
+1429
+01:50:05,840 --> 01:50:08,840
+Okay. Yep.
+
+1430
+01:50:08,840 --> 01:50:12,200
+We got all we got three
+different click options right now.
+
+1431
+01:50:12,960 --> 01:50:15,640
+Okay, So let's execute this.
+
+1432
+01:50:15,720 --> 01:50:17,880
+I think this is going to be really fast.
+
+1433
+01:50:17,880 --> 01:50:32,800
+So let's see.
+
+1434
+01:50:32,800 --> 01:50:33,760
+There we go.
+
+1435
+01:50:33,760 --> 01:50:38,760
+So it highlighted all to element's
+username and password, right?
+
+1436
+01:50:39,400 --> 01:50:43,040
+And, and it clicked on the login button
+
+1437
+01:50:43,040 --> 01:50:46,680
+and we see that we are on the dashboard.
+
+1438
+01:50:47,520 --> 01:50:49,960
+Okay. Now, excuse me.
+
+1439
+01:50:50,000 --> 01:50:50,640
+Exactly.
+
+1440
+01:50:50,640 --> 01:50:54,200
+No excuse for not being able to click.
+
+1441
+01:50:54,200 --> 01:50:55,720
+Right. Exactly.
+
+1442
+01:50:57,480 --> 01:50:57,920
+All right,
+
+1443
+01:50:57,920 --> 01:51:05,760
+guys Any questions on this?
+
+1444
+01:51:05,760 --> 01:51:10,560
+Any questions on how to highlight
+or how to
+
+1445
+01:51:12,200 --> 01:51:17,400
+click on the Web element?
+
+1446
+01:51:17,400 --> 01:51:19,120
+Any preference on clicking?
+
+1447
+01:51:19,120 --> 01:51:22,480
+Yes, regular
+click is the first option for you.
+
+1448
+01:51:23,160 --> 01:51:26,120
+Okay.
+
+1449
+01:51:26,120 --> 01:51:28,960
+Regular click is the first option for you.
+
+1450
+01:51:29,160 --> 01:51:31,360
+The second option, it depends on you.
+
+1451
+01:51:31,960 --> 01:51:34,240
+You either want to go with JavaScript,
+execute,
+
+1452
+01:51:34,640 --> 01:51:38,000
+or actions class click
+okay, it's up to you.
+
+1453
+01:51:38,640 --> 01:51:43,240
+They both to alternative to the
+to the regular click
+
+1454
+01:51:43,240 --> 01:51:48,960
+on Insulate.
+
+1455
+01:51:48,960 --> 01:51:54,920
+Okay.
+
+1456
+01:51:54,920 --> 01:52:05,320
+Any questions guys, for now?
+
+1457
+01:52:05,320 --> 01:52:06,960
+Okay, good. All right.
+
+1458
+01:52:06,960 --> 01:52:11,760
+So now let me go ahead and create
+one more class
+
+1459
+01:52:12,840 --> 01:52:19,080
+and Skeeter demo two.
+
+1460
+01:52:19,600 --> 01:52:24,760
+So let's go over different
+different options
+
+1461
+01:52:25,920 --> 01:52:28,200
+in JavaScript. Executed.
+
+1462
+01:52:28,200 --> 01:52:32,760
+Okay, go.
+
+1463
+01:52:34,680 --> 01:52:38,160
+So I am going to change the URL to
+
+1464
+01:52:39,720 --> 01:52:43,280
+Amazon.com.
+
+1465
+01:52:43,280 --> 01:52:43,920
+Okay.
+
+1466
+01:52:44,600 --> 01:52:46,680
+So okay.
+
+1467
+01:52:47,320 --> 01:52:50,840
+So now, yes,
+
+1468
+01:52:50,840 --> 01:52:53,760
+when normal click doesn't work,
+you will try the others.
+
+1469
+01:52:54,000 --> 01:52:59,280
+Exactly.
+
+1470
+01:52:59,280 --> 01:53:00,080
+Okay, guys.
+
+1471
+01:53:00,080 --> 01:53:03,800
+So now when you navigate to the Amazon,
+you can see that
+
+1472
+01:53:03,800 --> 01:53:06,960
+the page is very long, right?
+
+1473
+01:53:06,960 --> 01:53:09,480
+So there's a lot of stuff
+going on in here.
+
+1474
+01:53:09,480 --> 01:53:10,760
+There's a lot of links.
+
+1475
+01:53:10,760 --> 01:53:13,880
+So in order to to find something,
+
+1476
+01:53:13,880 --> 01:53:16,920
+you have to scroll down right?
+
+1477
+01:53:16,920 --> 01:53:21,680
+So sometimes, guys,
+sometimes it's not going to happen
+
+1478
+01:53:22,320 --> 01:53:25,920
+very often guys,
+but it's really rarely happening.
+
+1479
+01:53:25,920 --> 01:53:29,600
+Thing
+that if you want to click on some elements
+
+1480
+01:53:29,600 --> 01:53:33,240
+in the middle of the website
+and you are just
+
+1481
+01:53:33,240 --> 01:53:36,240
+showing this, it's not going to work.
+
+1482
+01:53:36,240 --> 01:53:39,840
+Sometimes selenium doesn't
+catch some elements which are not
+
+1483
+01:53:40,320 --> 01:53:42,800
+visible to them, to selenium.
+
+1484
+01:53:42,840 --> 01:53:45,920
+Okay,
+So in order to click on those Elements,
+
+1485
+01:53:46,120 --> 01:53:49,840
+what you want to
+do, you want to scroll down
+
+1486
+01:53:51,160 --> 01:53:53,760
+or what
+you want to do, you want to scroll up.
+
+1487
+01:53:54,040 --> 01:53:56,800
+Okay, So
+
+1488
+01:53:57,600 --> 01:54:02,240
+what we're going to be doing right now,
+we're going to be scrolling up and down
+
+1489
+01:54:02,480 --> 01:54:07,040
+and we will be scrolling
+to the specific elements.
+
+1490
+01:54:07,480 --> 01:54:10,880
+Okay, So let's go back in here
+
+1491
+01:54:10,880 --> 01:54:13,000
+and start actually
+
+1492
+01:54:14,400 --> 01:54:16,680
+implementing that. Okay.
+
+1493
+01:54:16,680 --> 01:54:19,160
+So first of all, guys,
+
+1494
+01:54:19,400 --> 01:54:22,920
+if you want to scroll up and down
+what you need to do,
+
+1495
+01:54:23,040 --> 01:54:25,800
+you will go ahead and use JavaScript,
+execute.
+
+1496
+01:54:26,240 --> 01:54:26,880
+Okay?
+
+1497
+01:54:26,880 --> 01:54:31,040
+So for me to use a JavaScript,
+execute or methods, what I need to do,
+
+1498
+01:54:31,200 --> 01:54:33,480
+I need to create a
+
+1499
+01:54:34,920 --> 01:54:37,960
+object of the JavaScript, execute it right
+
+1500
+01:54:39,160 --> 01:54:41,960
+script, execute a driver in here.
+
+1501
+01:54:42,200 --> 01:54:43,640
+So we cast it down.
+
+1502
+01:54:43,640 --> 01:54:49,560
+So now what I need to do,
+I need to execute some scripts, right?
+
+1503
+01:54:50,400 --> 01:54:54,520
+So in here guys, since I want to scroll up
+
+1504
+01:54:54,520 --> 01:54:58,160
+and down, I don't have anything right now
+
+1505
+01:54:59,840 --> 01:55:02,000
+to scroll into, right?
+
+1506
+01:55:02,000 --> 01:55:05,040
+So I will be scrolling by numbers.
+
+1507
+01:55:05,120 --> 01:55:08,280
+What do we scroll by on the web page,
+
+1508
+01:55:08,280 --> 01:55:17,480
+guys?
+
+1509
+01:55:17,480 --> 01:55:18,840
+Just calling up and down.
+
+1510
+01:55:18,840 --> 01:55:21,000
+Guys, we're not changing any pages, right?
+
+1511
+01:55:21,000 --> 01:55:24,880
+So here we are on the same page,
+but we're just scrolling down
+
+1512
+01:55:25,240 --> 01:55:25,920
+right
+
+1513
+01:55:37,240 --> 01:55:37,760
+For now.
+
+1514
+01:55:37,760 --> 01:55:39,560
+We don't need an element, right?
+
+1515
+01:55:39,560 --> 01:55:43,560
+Because we are just
+scrolling down on The View, guys.
+
+1516
+01:55:43,920 --> 01:55:50,240
+Okay,
+
+1517
+01:55:50,240 --> 01:55:53,400
+what are we scrolling by
+
+1518
+01:55:54,480 --> 01:55:55,120
+browsing?
+
+1519
+01:55:55,120 --> 01:55:57,880
+Okay, lines.
+
+1520
+01:55:58,560 --> 01:56:04,320
+Not really.
+
+1521
+01:56:04,320 --> 01:56:09,120
+So we will be scrolling by pixels.
+
+1522
+01:56:10,040 --> 01:56:14,240
+Okay,
+
+1523
+01:56:14,240 --> 01:56:20,720
+so what we are having here,
+we will be scrolling by pixels.
+
+1524
+01:56:20,720 --> 01:56:21,440
+Okay,
+
+1525
+01:56:24,520 --> 01:56:26,840
+so what I am going to do in here,
+
+1526
+01:56:28,160 --> 01:56:31,800
+I am going to
+
+1527
+01:56:34,920 --> 01:56:42,640
+I am going to put a script
+that is built in for JavaScript.
+
+1528
+01:56:42,800 --> 01:56:45,480
+Okay, so what I am going to do in here,
+
+1529
+01:56:45,840 --> 01:56:49,480
+so I am scrolling on the window, right?
+
+1530
+01:56:49,480 --> 01:56:52,680
+So I'll put window that
+
+1531
+01:56:53,760 --> 01:56:56,040
+scroll by
+
+1532
+01:56:57,680 --> 01:57:02,000
+and inside the parentheses what I will do,
+
+1533
+01:57:03,480 --> 01:57:06,480
+I will start from the zero and.
+
+1534
+01:57:06,480 --> 01:57:11,360
+I will go down by 500 pixels in here.
+
+1535
+01:57:12,120 --> 01:57:16,640
+Okay, so let me run this
+
+1536
+01:57:16,880 --> 01:57:20,120
+and see what we're going to have
+
+1537
+01:57:24,320 --> 01:57:24,720
+for now.
+
+1538
+01:57:24,720 --> 01:57:26,760
+Yes, we have to. Yes, Correct.
+
+1539
+01:57:28,440 --> 01:57:31,920
+If you just want, scroll on the page.
+
+1540
+01:57:32,480 --> 01:57:35,080
+So for now you have to.
+
+1541
+01:57:35,080 --> 01:57:38,200
+Yes. Yes.
+
+1542
+01:57:38,200 --> 01:57:40,320
+So we navigate to the Amazon right now.
+
+1543
+01:57:40,360 --> 01:57:44,640
+So now you can see that
+we are a little bit down in here.
+
+1544
+01:57:45,800 --> 01:57:46,320
+Okay.
+
+1545
+01:57:46,320 --> 01:57:49,120
+So you can see that
+we are not at the very top.
+
+1546
+01:57:49,320 --> 01:57:51,680
+We work a little bit.
+
+1547
+01:57:51,680 --> 01:57:53,400
+Scroll down in here.
+
+1548
+01:57:53,400 --> 01:57:58,680
+Okay.
+
+1549
+01:57:58,680 --> 01:58:29,280
+Any questions, guys?
+
+1550
+01:58:29,280 --> 01:58:31,480
+Scroll with actions.
+
+1551
+01:58:31,480 --> 01:58:39,080
+I haven't tried that.
+
+1552
+01:58:39,080 --> 01:58:39,360
+Okay.
+
+1553
+01:58:39,360 --> 01:58:41,600
+So how to know after zero
+
+1554
+01:58:42,480 --> 01:58:45,120
+what number to put for?
+
+1555
+01:58:45,120 --> 01:58:47,480
+This is just an option to scroll down.
+
+1556
+01:58:47,800 --> 01:58:50,640
+Okay, so you can guess any any number
+
+1557
+01:58:54,040 --> 01:58:56,640
+of checks and
+
+1558
+01:58:58,520 --> 01:58:59,880
+in the scrolling text.
+
+1559
+01:58:59,880 --> 01:59:01,320
+I'm not. No, no guys.
+
+1560
+01:59:01,320 --> 01:59:06,480
+So here I am just scrolling down
+without knowing where I'm going to end up.
+
+1561
+01:59:07,120 --> 01:59:15,240
+Okay,
+so I'm just scrolling a little bit down
+
+1562
+01:59:15,240 --> 01:59:19,880
+so I don't know where I'm going to end up,
+but this is how you scroll
+
+1563
+01:59:19,880 --> 01:59:23,760
+down on the page and I'm going to show you
+how to scroll down
+
+1564
+01:59:23,760 --> 01:59:27,920
+to this, to this specific element, and
+that's going to make more sense to you.
+
+1565
+01:59:27,920 --> 01:59:33,760
+Okay, You can scroll more.
+
+1566
+01:59:33,760 --> 01:59:34,320
+Yeah.
+
+1567
+01:59:34,800 --> 01:59:40,280
+If you if you edit this number,
+you can scroll more.
+
+1568
+01:59:40,280 --> 01:59:41,080
+Okay.
+
+1569
+01:59:41,080 --> 01:59:44,080
+So now if I want to scroll back up, guys,
+
+1570
+01:59:44,640 --> 02:00:02,560
+So how would you do this?
+
+1571
+02:00:02,560 --> 02:00:05,880
+Okay. Or
+
+1572
+02:00:05,880 --> 02:00:08,080
+just here,
+
+1573
+02:00:08,080 --> 02:00:11,680
+what you want to do this same way, right?
+
+1574
+02:00:12,720 --> 02:00:14,160
+What you can do,
+
+1575
+02:00:14,160 --> 02:00:25,600
+you can go -500.
+
+1576
+02:00:25,600 --> 02:00:30,280
+I'm not sure about a horizontal way
+how to scroll on horizontal way
+
+1577
+02:00:30,400 --> 02:00:33,400
+because here guys this JavaScript execute
+
+1578
+02:00:33,400 --> 02:00:38,640
+or whenever you maximize your page,
+most of the pages
+
+1579
+02:00:38,760 --> 02:00:42,160
+they get,
+you don't have to scroll horizontally
+
+1580
+02:00:42,360 --> 02:00:52,240
+right?
+
+1581
+02:00:52,240 --> 02:00:52,920
+Okay.
+
+1582
+02:00:52,920 --> 02:00:55,160
+So this is going to be really fast.
+
+1583
+02:00:55,160 --> 02:01:10,440
+So let's see if we can catch up on this.
+
+1584
+02:01:10,440 --> 02:01:15,480
+Let's see.
+
+1585
+02:01:15,480 --> 02:01:16,440
+Okay, there we go.
+
+1586
+02:01:16,440 --> 02:01:19,960
+So we scroll down and we went back up.
+
+1587
+02:01:21,000 --> 02:01:38,200
+Okay, Can you break in between?
+
+1588
+02:01:38,200 --> 02:01:46,920
+What do you mean?
+
+1589
+02:01:46,920 --> 02:01:47,640
+Oh, you want to see?
+
+1590
+02:01:47,640 --> 02:01:49,160
+Yeah, yeah, sure. Yeah. Let's.
+
+1591
+02:01:49,160 --> 02:01:54,840
+Let's do this.
+
+1592
+02:01:54,840 --> 02:01:55,440
+Yeah, sure.
+
+1593
+02:01:55,440 --> 02:01:58,160
+Let's put for 2 seconds. Okay?
+
+1594
+02:01:59,000 --> 02:02:19,600
+And let's run this.
+
+1595
+02:02:19,600 --> 02:02:20,120
+Okay.
+
+1596
+02:02:20,120 --> 02:02:24,080
+There we go.
+
+1597
+02:02:24,080 --> 02:02:27,720
+All right,
+so we scroll down and we scroll back up
+
+1598
+02:02:45,160 --> 02:02:46,960
+the second JavaScript executable.
+
+1599
+02:02:46,960 --> 02:02:51,360
+I think it's a class
+that's a different thing.
+
+1600
+02:02:51,360 --> 02:02:53,480
+So the one you should be looking for
+
+1601
+02:02:53,480 --> 02:02:56,880
+is JavaScript executable,
+which is an interface.
+
+1602
+02:02:58,120 --> 02:03:06,120
+Okay.
+
+1603
+02:03:06,120 --> 02:03:06,640
+All right.
+
+1604
+02:03:06,640 --> 02:03:10,840
+So now, guys, what I want to do in here,
+since
+
+1605
+02:03:10,840 --> 02:03:15,000
+it's a long way right
+there, is it's a long page here.
+
+1606
+02:03:15,160 --> 02:03:18,840
+What I want to do, I want to scroll.
+
+1607
+02:03:19,640 --> 02:03:22,680
+Okay, beautiful.
+
+1608
+02:03:22,680 --> 02:03:25,320
+I want to see
+
+1609
+02:03:32,080 --> 02:03:33,080
+I want to scroll
+
+1610
+02:03:33,080 --> 02:03:36,120
+right to this button over here.
+
+1611
+02:03:36,640 --> 02:03:37,880
+Back to top.
+
+1612
+02:03:37,880 --> 02:03:40,560
+Okay. So.
+
+1613
+02:03:40,560 --> 02:03:45,240
+So since we don't know how many pixels
+we need to scroll down.
+
+1614
+02:03:45,520 --> 02:03:47,400
+Okay, What we can do?
+
+1615
+02:03:47,400 --> 02:03:50,680
+We can directly scroll to this element.
+
+1616
+02:03:51,160 --> 02:03:58,720
+Okay, so what I am going to do in here,
+I am going to inspect this page
+
+1617
+02:03:59,280 --> 02:04:04,160
+and I will need to identify this element
+first.
+
+1618
+02:04:04,680 --> 02:04:09,840
+Okay, So let's see,
+what can we use in here, guys?
+
+1619
+02:04:10,000 --> 02:04:22,560
+How can we identify this?
+
+1620
+02:04:22,560 --> 02:04:25,240
+Let's
+see if class name is available. Right.
+
+1621
+02:04:25,240 --> 02:04:27,480
+So let me copy this class name
+
+1622
+02:04:28,720 --> 02:04:29,800
+in here.
+
+1623
+02:04:29,920 --> 02:04:30,600
+All right.
+
+1624
+02:04:30,600 --> 02:04:34,600
+And let's create this web element
+
+1625
+02:04:37,440 --> 02:04:39,720
+back to top, right?
+
+1626
+02:04:39,720 --> 02:04:40,040
+Right.
+
+1627
+02:04:40,040 --> 02:04:40,680
+Where
+
+1628
+02:04:43,640 --> 02:04:47,160
+to find element.
+
+1629
+02:04:47,160 --> 02:04:50,440
+I have a class name in here
+
+1630
+02:04:56,000 --> 02:04:58,200
+and what I need to do now
+
+1631
+02:04:58,400 --> 02:05:01,200
+since I have that element on hand
+right now.
+
+1632
+02:05:01,440 --> 02:05:04,440
+So I going to
+
+1633
+02:05:04,440 --> 02:05:06,640
+execute this script.
+
+1634
+02:05:07,080 --> 02:05:10,080
+Okay. So again,
+
+1635
+02:05:10,080 --> 02:05:13,040
+I need to paste an element
+
+1636
+02:05:13,040 --> 02:05:18,000
+that I need to interact first in here
+and then I need to paste it.
+
+1637
+02:05:18,000 --> 02:05:19,360
+Actual scripts.
+
+1638
+02:05:19,360 --> 02:05:21,920
+Okay, So what I'm going to do
+
+1639
+02:05:22,680 --> 02:05:28,080
+is zero arguments, and here, right.
+
+1640
+02:05:28,120 --> 02:05:31,280
+And now what the action is,
+
+1641
+02:05:31,560 --> 02:05:36,960
+I am basically scrolling into the view,
+right Scroll
+
+1642
+02:05:37,960 --> 02:05:40,360
+into view in here
+
+1643
+02:05:41,240 --> 02:05:43,680
+and open and close parentheses
+
+1644
+02:05:44,240 --> 02:05:48,960
+and I'll just paste to inside.
+
+1645
+02:05:48,960 --> 02:05:49,800
+Okay,
+
+1646
+02:05:51,720 --> 02:05:54,400
+So let me execute this
+
+1647
+02:05:55,000 --> 02:05:59,640
+and let's see if we will be,
+
+1648
+02:05:59,640 --> 02:06:04,280
+scrolling down to the exact same element
+that we just mentioned here
+
+1649
+02:06:14,960 --> 02:06:17,880
+or just go up and down.
+
+1650
+02:06:17,880 --> 02:06:20,800
+And now you can see that we scroll
+
+1651
+02:06:21,120 --> 02:06:24,720
+right to the bottom where you can see this
+
+1652
+02:06:25,000 --> 02:06:27,480
+back to the top button in here,
+
+1653
+02:06:28,000 --> 02:06:32,280
+right?
+
+1654
+02:06:32,280 --> 02:06:34,560
+Pretty cool, right, guys?
+
+1655
+02:06:34,560 --> 02:06:37,760
+It's just it's just a little bit confusing
+
+1656
+02:06:38,640 --> 02:06:41,120
+scripts that Java's executed or has.
+
+1657
+02:06:41,120 --> 02:06:50,840
+But other than that, there is a lot
+of cool stuff that you can do with this.
+
+1658
+02:06:50,840 --> 02:06:51,520
+All right.
+
+1659
+02:06:51,520 --> 02:07:00,360
+Any questions, guys?
+
+1660
+02:07:00,360 --> 02:07:25,680
+Let me close the session in here.
+
+1661
+02:07:25,680 --> 02:07:28,200
+Good question, Michael.
+
+1662
+02:07:28,320 --> 02:07:29,240
+Yeah, you could do that.
+
+1663
+02:07:29,240 --> 02:07:30,440
+Try this.
+
+1664
+02:07:30,800 --> 02:07:31,760
+Try this at work.
+
+1665
+02:07:31,760 --> 02:07:35,120
+Let's see what happens.
+
+1666
+02:07:35,120 --> 02:07:37,280
+So if you get fired,
+don't come to me, though,
+
+1667
+02:07:38,760 --> 02:07:50,160
+okay?
+
+1668
+02:07:50,160 --> 02:07:50,520
+Okay.
+
+1669
+02:07:50,520 --> 02:07:53,880
+If it comes to me,
+then I'll probably laugh, but it's okay.
+
+1670
+02:07:54,360 --> 02:08:05,880
+We'll see.
+
+1671
+02:08:05,880 --> 02:08:06,720
+Okay.
+
+1672
+02:08:06,720 --> 02:08:07,720
+Now questions.
+
+1673
+02:08:07,720 --> 02:08:10,800
+Let's continue. Right. So let me create
+
+1674
+02:08:12,040 --> 02:08:14,600
+a new Java class in here and say
+
+1675
+02:08:30,520 --> 02:08:31,680
+class four
+
+1676
+02:08:31,800 --> 02:08:37,120
+Oh, I'll probably won't be boss
+
+1677
+02:08:48,360 --> 02:08:51,680
+for I won't be probably doing automation
+
+1678
+02:08:51,960 --> 02:09:13,920
+in three months, guys.
+
+1679
+02:09:13,920 --> 02:09:16,240
+Yes, I am going
+full time back in development,
+
+1680
+02:09:17,160 --> 02:09:19,560
+but probably in a month or so
+
+1681
+02:09:19,560 --> 02:09:29,520
+we'll see.
+
+1682
+02:09:29,520 --> 02:09:31,040
+Oh, no, no.
+
+1683
+02:09:31,040 --> 02:09:35,440
+This not in my last batch, guys.
+
+1684
+02:09:35,440 --> 02:09:45,040
+Probably not, but.
+
+1685
+02:09:45,040 --> 02:09:45,640
+All right.
+
+1686
+02:09:45,640 --> 02:09:53,640
+So let's continue.
+
+1687
+02:09:53,640 --> 02:09:54,440
+All right.
+
+1688
+02:09:55,040 --> 02:09:56,240
+So now
+
+1689
+02:09:57,360 --> 02:09:58,600
+study
+
+1690
+02:10:09,200 --> 02:10:12,720
+what to do
+if if you if you study and it's fun,
+
+1691
+02:10:12,720 --> 02:10:17,760
+but you absolutely not passionate
+so if you're finding fun stuff in it.
+
+1692
+02:10:17,880 --> 02:10:21,160
+So that means you already have
+some passion, right?
+
+1693
+02:10:21,880 --> 02:10:22,920
+We just
+
+1694
+02:10:23,760 --> 02:10:26,040
+just think about money now,
+
+1695
+02:10:26,040 --> 02:10:33,920
+okay.
+
+1696
+02:10:33,920 --> 02:10:34,480
+All right, guys.
+
+1697
+02:10:34,480 --> 02:10:39,600
+So let me copy this and let's go over
+
+1698
+02:10:42,360 --> 02:10:43,680
+some more JavaScript
+
+1699
+02:10:43,680 --> 02:10:50,760
+execute or actions.
+
+1700
+02:10:50,760 --> 02:10:54,920
+So instead of Amazon,
+I will be going to Google.
+
+1701
+02:10:55,440 --> 02:10:55,840
+Okay.
+
+1702
+02:10:55,840 --> 02:11:02,040
+So what I am going to do in here, guys,
+I will be using a JavaScript
+
+1703
+02:11:02,040 --> 02:11:05,880
+executed to open up a new tab.
+
+1704
+02:11:05,880 --> 02:11:11,640
+Okay, So what I will do
+and here again I am going to
+
+1705
+02:11:12,880 --> 02:11:15,280
+create a JavaScript execute object
+
+1706
+02:11:15,720 --> 02:11:18,880
+and casted down
+
+1707
+02:11:18,880 --> 02:11:22,560
+to the driver. Right?
+
+1708
+02:11:22,560 --> 02:11:28,080
+And then what I need to do,
+I am going to execute this script.
+
+1709
+02:11:28,400 --> 02:11:32,200
+Okay, so me to open a new tab, it's
+
+1710
+02:11:32,200 --> 02:11:36,840
+going to be just one script
+and I will be managing Windows again.
+
+1711
+02:11:37,160 --> 02:11:40,800
+All right, So window dot open
+
+1712
+02:11:41,320 --> 02:11:45,120
+right, and opening closed parentheses
+here.
+
+1713
+02:11:45,360 --> 02:11:49,440
+I need to insert the semicolon
+and finish my
+
+1714
+02:11:52,600 --> 02:11:54,720
+what's called
+
+1715
+02:11:56,640 --> 02:11:58,200
+and finish my statement.
+
+1716
+02:11:58,200 --> 02:12:00,760
+Okay, So let's actually
+
+1717
+02:12:03,480 --> 02:12:04,560
+do this.
+
+1718
+02:12:04,560 --> 02:12:07,960
+Okay. Okay.
+
+1719
+02:12:07,960 --> 02:12:09,480
+Let's run this first. Okay.
+
+1720
+02:12:09,480 --> 02:12:16,800
+And let's see what's going to happen.
+
+1721
+02:12:16,800 --> 02:12:22,360
+I'm going to bias syntax poser.
+
+1722
+02:12:22,360 --> 02:12:32,520
+I thought you going
+to put my picture in there.
+
+1723
+02:12:32,520 --> 02:12:38,400
+All right, So I'm executing this.
+
+1724
+02:12:38,400 --> 02:12:40,120
+Oh, he already has mine. Okay.
+
+1725
+02:12:40,120 --> 02:12:44,640
+Okay, good, good.
+
+1726
+02:12:44,640 --> 02:12:47,160
+All right,
+So I executed this script, right?
+
+1727
+02:12:47,160 --> 02:12:51,000
+So what happened
+is I navigate it to Google and
+
+1728
+02:12:51,320 --> 02:12:54,120
+I opened up a new tab.
+
+1729
+02:12:54,840 --> 02:12:55,200
+Right?
+
+1730
+02:12:56,680 --> 02:12:59,520
+So right now, guys,
+
+1731
+02:13:00,240 --> 02:13:03,600
+so let me close this.
+
+1732
+02:13:03,600 --> 02:13:05,640
+Any questions on this line?
+
+1733
+02:13:05,640 --> 02:13:14,360
+16 guys.
+
+1734
+02:13:14,360 --> 02:13:18,680
+Now, this is just a built in scripts in.
+
+1735
+02:13:18,680 --> 02:13:21,360
+Right? So I have a question for you guys.
+
+1736
+02:13:21,360 --> 02:13:24,440
+So if I navigate to the URL
+
+1737
+02:13:25,120 --> 02:13:29,200
+after I open up and New window guys
+
+1738
+02:13:31,040 --> 02:13:34,480
+in the script this time
+this is a built in script, okay?
+
+1739
+02:13:34,720 --> 02:13:39,720
+That's
+why we need to put the semicolon in here.
+
+1740
+02:13:39,720 --> 02:13:44,520
+So okay, when I open up a browser,
+I open up a new window.
+
+1741
+02:13:44,800 --> 02:13:45,400
+Okay.
+
+1742
+02:13:45,400 --> 02:13:50,000
+So if I navigate to Google, guys,
+where is this going to open?
+
+1743
+02:13:50,000 --> 02:13:53,080
+Is it going to open on the first tab
+or the second one
+
+1744
+02:14:01,320 --> 02:14:01,960
+second line?
+
+1745
+02:14:01,960 --> 02:14:04,440
+Okay. Okay.
+
+1746
+02:14:04,560 --> 02:14:06,520
+First
+
+1747
+02:14:08,800 --> 02:14:09,080
+will.
+
+1748
+02:14:09,080 --> 02:14:11,360
+First, second. Okay, cool.
+
+1749
+02:14:11,720 --> 02:14:13,840
+Let's run this and see
+
+1750
+02:14:26,640 --> 02:14:27,200
+what happened.
+
+1751
+02:14:27,200 --> 02:14:27,560
+Guys.
+
+1752
+02:14:29,200 --> 02:14:30,520
+It opened
+
+1753
+02:14:30,520 --> 02:14:35,480
+that page and navigated to that page
+on the first tab. Why?
+
+1754
+02:14:35,840 --> 02:14:39,400
+Because even though we open
+a new tab in here,
+
+1755
+02:14:39,640 --> 02:14:44,080
+our focus is still on the first page.
+
+1756
+02:14:44,480 --> 02:14:49,200
+Okay,
+so if I locate this element, the search.
+
+1757
+02:14:49,560 --> 02:14:51,880
+Okay, if I locate this element
+
+1758
+02:14:52,200 --> 02:14:54,720
+and I send some cheese in here
+
+1759
+02:14:56,080 --> 02:14:59,720
+right after this script,
+is it going to send in there
+
+1760
+02:14:59,760 --> 02:15:08,160
+or now?
+
+1761
+02:15:08,160 --> 02:15:09,200
+Yes, right.
+
+1762
+02:15:09,200 --> 02:15:12,400
+Because our focus is on the
+
+1763
+02:15:13,880 --> 02:15:15,360
+Google in here.
+
+1764
+02:15:15,360 --> 02:15:17,440
+So let's go ahead.
+
+1765
+02:15:17,440 --> 02:15:19,520
+I think it was this one. All right.
+
+1766
+02:15:19,520 --> 02:15:23,040
+So let's inspect that
+
+1767
+02:15:26,280 --> 02:15:26,840
+Google.
+
+1768
+02:15:26,840 --> 02:15:32,640
+So let's inspect this page.
+
+1769
+02:15:32,640 --> 02:15:36,720
+And what I want to do here, let's see.
+
+1770
+02:15:36,720 --> 02:15:43,200
+Okay, I have a name in here,
+so let me use this thing.
+
+1771
+02:15:43,200 --> 02:15:45,880
+Close this. Okay.
+
+1772
+02:15:45,880 --> 02:15:49,800
+So what element search is equal to driver
+
+1773
+02:15:49,800 --> 02:15:53,560
+dot find element by
+
+1774
+02:15:54,680 --> 02:15:57,400
+where is the name
+
+1775
+02:15:58,920 --> 02:16:02,320
+here and what I need to do.
+
+1776
+02:16:02,640 --> 02:16:05,120
+Search, start and keys.
+
+1777
+02:16:06,360 --> 02:16:08,240
+There's a lot of stuff in right.
+
+1778
+02:16:08,240 --> 02:16:09,000
+Okay.
+
+1779
+02:16:09,120 --> 02:16:11,280
+So let's execute this
+
+1780
+02:16:23,520 --> 02:16:26,400
+so we open a new tab.
+
+1781
+02:16:26,760 --> 02:16:28,480
+Tab in here.
+
+1782
+02:16:28,520 --> 02:16:31,840
+Would navigate it to Google
+on the first of all on and you can see
+
+1783
+02:16:31,840 --> 02:16:37,040
+that we entered the text on the first tab
+because our focus is still there.
+
+1784
+02:16:37,200 --> 02:16:39,800
+But visually we on the same
+
+1785
+02:16:40,160 --> 02:16:42,760
+we are on the second tab, right?
+
+1786
+02:16:43,320 --> 02:16:45,640
+Any questions on this?
+
+1787
+02:16:45,640 --> 02:16:47,800
+Any questions on JavaScript?
+
+1788
+02:16:47,800 --> 02:16:54,320
+Execute any questions to what we've done
+so far in Selenium.
+
+1789
+02:16:54,320 --> 02:17:19,520
+Guys,
+
+1790
+02:17:19,520 --> 02:17:22,800
+if you click on what
+
+1791
+02:17:24,240 --> 02:17:26,840
+you don't have to click
+to open a new tab, right?
+
+1792
+02:17:26,840 --> 02:17:30,800
+So you just need to execute this script
+and it will open
+
+1793
+02:17:30,800 --> 02:17:43,200
+a new tab for you.
+
+1794
+02:17:43,200 --> 02:17:46,720
+The text we sent, the text we sent
+
+1795
+02:17:47,760 --> 02:17:50,920
+in here.
+
+1796
+02:17:50,920 --> 02:17:53,160
+So you
+need to click on the Google support.
+
+1797
+02:17:53,160 --> 02:17:54,920
+I don't think
+it's going to open a new tab.
+
+1798
+02:17:54,920 --> 02:17:56,120
+If you click
+
+1799
+02:18:15,600 --> 02:18:16,520
+the first one. Yes.
+
+1800
+02:18:16,520 --> 02:18:21,880
+So if you want to do that, you
+you open a new window.
+
+1801
+02:18:22,120 --> 02:18:26,800
+You need to switch your focus
+to the second right.
+
+1802
+02:18:27,000 --> 02:18:30,240
+And only then you can navigate to the
+
+1803
+02:18:30,520 --> 02:18:35,960
+to the different zero.
+
+1804
+02:18:35,960 --> 02:18:43,680
+Actually, that's going to be
+a good homework for you guys.
+
+1805
+02:18:43,680 --> 02:18:44,840
+Let me add that.
+
+1806
+02:18:44,840 --> 02:18:48,760
+Okay?
+
+1807
+02:18:48,760 --> 02:18:51,360
+Because you already should know how it is.
+
+1808
+02:18:51,360 --> 02:18:54,720
+Switch between windows
+
+1809
+02:18:55,280 --> 02:18:57,120
+or is and it's
+
+1810
+02:19:05,360 --> 02:19:05,840
+Michael.
+
+1811
+02:19:05,840 --> 02:19:07,840
+That's not that's not good, man.
+
+1812
+02:19:07,840 --> 02:19:08,720
+That's.
+
+1813
+02:19:10,080 --> 02:19:14,320
+Am I falling in there?
+
+1814
+02:19:14,320 --> 02:19:15,680
+Why are they holding me?
+
+1815
+02:19:15,680 --> 02:19:21,120
+I'm like, I'm like,
+fainting in there, man.
+
+1816
+02:19:21,120 --> 02:19:34,920
+Come on.
+
+1817
+02:19:34,920 --> 02:19:36,920
+They hold me back.
+
+1818
+02:19:36,920 --> 02:19:51,960
+Okay.
+
+1819
+02:19:51,960 --> 02:19:54,880
+All right,
+So that's actually pathetic notes.
+
+1820
+02:19:55,440 --> 02:19:56,400
+Let me see
+
+1821
+02:20:01,040 --> 02:20:03,640
+the homework.
+
+1822
+02:20:04,720 --> 02:20:07,760
+So open
+
+1823
+02:20:09,000 --> 02:20:14,520
+new browser, right.
+
+1824
+02:20:14,520 --> 02:20:17,040
+Open a new tab.
+
+1825
+02:20:18,680 --> 02:20:24,160
+Navigate to a different URL
+
+1826
+02:20:24,680 --> 02:20:27,400
+on a new tab.
+
+1827
+02:20:27,400 --> 02:20:28,120
+Okay.
+
+1828
+02:20:28,360 --> 02:20:29,560
+There you go
+
+1829
+02:20:32,040 --> 02:20:32,880
+to syntax.
+
+1830
+02:20:32,880 --> 02:20:36,120
+Okay. Nice.
+
+1831
+02:20:36,120 --> 02:20:37,840
+At least here I have two guns.
+
+1832
+02:20:37,840 --> 02:20:52,680
+Okay, that's good.
+
+1833
+02:20:52,680 --> 02:20:55,040
+My mic is in team syntax. Why?
+
+1834
+02:20:55,520 --> 02:20:56,480
+Who hired him?
+
+1835
+02:20:56,480 --> 02:21:09,240
+First of all, he hired and so.
+
+1836
+02:21:09,240 --> 02:21:10,920
+Well, probably he's working for free.
+
+1837
+02:21:10,920 --> 02:21:21,760
+So that that works.
+
+1838
+02:21:21,760 --> 02:21:22,680
+Okay.
+
+1839
+02:21:23,240 --> 02:21:28,640
+All right, guys, any questions?
+
+1840
+02:21:28,640 --> 02:21:30,680
+Any questions on.
+
+1841
+02:21:31,560 --> 02:21:33,160
+Let's put the jokes aside. Right.
+
+1842
+02:21:33,160 --> 02:21:35,280
+So we've got 30 more minutes, guys.
+
+1843
+02:21:35,280 --> 02:21:37,520
+So any questions on
+
+1844
+02:21:38,600 --> 02:21:41,560
+JavaScript, executable actions, classes,
+
+1845
+02:21:41,560 --> 02:21:43,720
+anything guys
+
+1846
+02:22:35,480 --> 02:22:37,480
+are, it's fresh.
+
+1847
+02:22:37,480 --> 02:22:39,640
+That's a homework for you. Okay.
+
+1848
+02:22:39,680 --> 02:22:42,440
+So that's what I have
+
+1849
+02:22:42,760 --> 02:22:44,120
+in my notes. Okay.
+
+1850
+02:22:44,120 --> 02:22:46,560
+Find out how to refresh with JavaScript.
+
+1851
+02:22:46,560 --> 02:22:51,600
+Execute.
+
+1852
+02:22:51,600 --> 02:22:53,800
+We go through the last homework.
+
+1853
+02:22:54,320 --> 02:22:58,080
+What is what is confusing
+guys for the last
+
+1854
+02:22:58,320 --> 02:23:05,280
+for the last.
+
+1855
+02:23:05,280 --> 02:23:06,360
+Yeah. I don't think you should.
+
+1856
+02:23:06,360 --> 02:23:08,320
+You should worry too much about this.
+
+1857
+02:23:08,320 --> 02:23:11,880
+Remembering the script. Exactly.
+
+1858
+02:23:11,880 --> 02:23:26,000
+For use with this one.
+
+1859
+02:23:26,000 --> 02:23:31,880
+What is the confusion?
+
+1860
+02:23:31,880 --> 02:23:34,200
+Are we going to use Firefox in selenium?
+
+1861
+02:23:34,200 --> 02:23:37,640
+No, but I'm not sure if you guys are going
+to be doing this in test engine.
+
+1862
+02:23:38,240 --> 02:23:43,640
+You should probably I think you will be
+doing some parallel testing in testing.
+
+1863
+02:23:43,640 --> 02:23:44,520
+G Okay.
+
+1864
+02:23:44,520 --> 02:23:53,120
+So you will be using two different
+browsers.
+
+1865
+02:23:53,120 --> 02:23:54,880
+But again, guys, I'm not sure.
+
+1866
+02:23:54,880 --> 02:23:59,120
+I think that was one of the topics
+where you parallel testing.
+
+1867
+02:23:59,120 --> 02:24:02,760
+You can ask the instructor, I don't even
+know who's going to be teaching testing.
+
+1868
+02:24:02,800 --> 02:24:13,880
+You guys.
+
+1869
+02:24:13,880 --> 02:24:14,880
+Oh, okay.
+
+1870
+02:24:14,880 --> 02:24:18,840
+Yeah, ask him because I'm pretty
+sure testing G has Good,
+
+1871
+02:24:20,240 --> 02:24:21,160
+good.
+
+1872
+02:24:21,160 --> 02:24:41,760
+Where you guys can do parallel testings.
+
+1873
+02:24:41,760 --> 02:24:47,280
+All right,
+so let's go over the homework now.
+
+1874
+02:24:47,280 --> 02:24:51,320
+Okay?
+
+1875
+02:24:51,320 --> 02:24:51,720
+Okay.
+
+1876
+02:24:51,800 --> 02:24:55,040
+Pretty good amount of things in here.
+
+1877
+02:24:55,040 --> 02:25:11,760
+Like, there's no questions for me.
+
+1878
+02:25:11,760 --> 02:25:14,520
+Yes, that's it for tonight.
+
+1879
+02:25:14,520 --> 02:25:17,320
+I think I'll
+
+1880
+02:25:17,320 --> 02:25:18,120
+I'll.
+
+1881
+02:25:18,120 --> 02:25:21,560
+I'll start with I'll start with
+
+1882
+02:25:23,200 --> 02:25:26,480
+page Object model right now,
+just to give you
+
+1883
+02:25:26,480 --> 02:25:29,520
+an idea of what is going on
+
+1884
+02:25:30,360 --> 02:25:31,720
+and then we'll wrap it up.
+
+1885
+02:25:31,720 --> 02:25:34,440
+But first, let's go
+let's go over the homework.
+
+1886
+02:25:35,000 --> 02:25:37,160
+Okay.
+
+1887
+02:25:37,160 --> 02:25:38,320
+Okay, guys.
+
+1888
+02:25:38,320 --> 02:25:42,160
+So the first homework, you open
+a new browser, you open a new tab,
+
+1889
+02:25:42,160 --> 02:25:46,480
+you navigate to the different URL
+on a new.
+
+1890
+02:25:46,480 --> 02:25:50,160
+Okay, So that's that should be clear.
+
+1891
+02:25:51,600 --> 02:25:54,240
+And then here goes
+
+1892
+02:25:54,720 --> 02:25:58,960
+one test case
+where you need to use it in testing,
+
+1893
+02:25:59,600 --> 02:26:02,040
+and I want you to use assertion.
+
+1894
+02:26:02,760 --> 02:26:03,640
+Okay.
+
+1895
+02:26:03,920 --> 02:26:06,360
+So what I you to do is
+
+1896
+02:26:07,520 --> 02:26:09,200
+navigate to this
+
+1897
+02:26:09,200 --> 02:26:11,280
+website and then you're to know it's
+
+1898
+02:26:14,040 --> 02:26:14,880
+here.
+
+1899
+02:26:14,880 --> 02:26:15,560
+All right,
+
+1900
+02:26:16,440 --> 02:26:18,480
+So enter a valid username
+
+1901
+02:26:18,800 --> 02:26:20,880
+and leave the password empty.
+
+1902
+02:26:21,560 --> 02:26:26,000
+Okay,
+So on log in button and verify the error.
+
+1903
+02:26:27,080 --> 02:26:31,080
+The error message with the text
+password cannot be empty.
+
+1904
+02:26:31,200 --> 02:26:34,080
+Is this way. Okay.
+
+1905
+02:26:34,680 --> 02:26:37,680
+And you guys are did this
+
+1906
+02:26:42,120 --> 02:26:42,520
+okay.
+
+1907
+02:26:42,520 --> 02:26:43,000
+That's fine.
+
+1908
+02:26:43,000 --> 02:26:44,360
+You can do it one more time.
+
+1909
+02:26:44,360 --> 02:26:47,280
+Right. But.
+
+1910
+02:26:47,840 --> 02:26:48,600
+But do it.
+
+1911
+02:26:48,600 --> 02:26:49,040
+Okay.
+
+1912
+02:26:49,040 --> 02:26:51,960
+So don't do it in test
+and you do it in selenium now.
+
+1913
+02:26:52,720 --> 02:26:58,080
+Okay.
+
+1914
+02:26:58,080 --> 02:26:58,520
+All right.
+
+1915
+02:26:58,520 --> 02:27:03,680
+So the second one, did you probably you
+guys probably did this as well
+
+1916
+02:27:03,680 --> 02:27:07,920
+so navigating to the same website,
+leave username and password empty
+
+1917
+02:27:08,280 --> 02:27:10,520
+and click on the log in button.
+
+1918
+02:27:11,120 --> 02:27:11,640
+Okay.
+
+1919
+02:27:11,640 --> 02:27:14,520
+And verify this error message is
+
+1920
+02:27:14,520 --> 02:27:18,000
+this way.
+
+1921
+02:27:18,000 --> 02:27:21,440
+Okay. And here
+
+1922
+02:27:22,520 --> 02:27:24,440
+the other one.
+
+1923
+02:27:25,360 --> 02:27:28,120
+So you need to to the same website.
+
+1924
+02:27:29,720 --> 02:27:32,400
+Enter valid
+
+1925
+02:27:32,400 --> 02:27:34,520
+username and the wrong password.
+
+1926
+02:27:35,320 --> 02:27:36,360
+Okay.
+
+1927
+02:27:36,360 --> 02:27:39,360
+So click on log in and verify that
+
+1928
+02:27:39,680 --> 02:27:42,480
+invalid credentials is this okay?
+
+1929
+02:27:43,360 --> 02:27:44,280
+When is the due date?
+
+1930
+02:27:44,280 --> 02:27:45,960
+There's no due date for this. Okay.
+
+1931
+02:27:45,960 --> 02:27:48,440
+This is for your own practice, guys.
+
+1932
+02:27:48,440 --> 02:27:53,040
+Okay.
+
+1933
+02:27:53,040 --> 02:27:57,280
+So this one, do it on the selenium
+project.
+
+1934
+02:27:57,680 --> 02:27:58,360
+Okay.
+
+1935
+02:27:58,360 --> 02:28:00,640
+So what I want you to do on this one
+
+1936
+02:28:02,840 --> 02:28:05,960
+is to go here
+
+1937
+02:28:12,200 --> 02:28:14,080
+and start
+
+1938
+02:28:14,080 --> 02:28:18,120
+going through each and every tab in here.
+
+1939
+02:28:19,560 --> 02:28:22,200
+Okay,
+So first of all, what you need to do,
+
+1940
+02:28:22,200 --> 02:28:25,760
+you need to drag and drop
+here, double click in here,
+
+1941
+02:28:27,200 --> 02:28:30,320
+switch to the frame, enter something here.
+
+1942
+02:28:30,320 --> 02:28:31,200
+Okay.
+
+1943
+02:28:31,800 --> 02:28:38,320
+I don't think
+we have anything in here. Yes.
+
+1944
+02:28:38,760 --> 02:28:42,480
+And then click on the next available.
+
+1945
+02:28:42,480 --> 02:28:43,920
+So I think we're on the phone
+
+1946
+02:28:45,520 --> 02:28:46,600
+right now. Yes.
+
+1947
+02:28:46,600 --> 02:28:50,880
+Click on the next tab
+for click on this link.
+
+1948
+02:28:50,880 --> 02:28:54,360
+Wait for the element in here, verify
+
+1949
+02:28:54,480 --> 02:28:58,560
+the whole text is displayed in here.
+
+1950
+02:28:58,800 --> 02:29:00,880
+Then click on the next tab, guys.
+
+1951
+02:29:01,680 --> 02:29:07,320
+Okay, Let's
+see how you're going to handle this. So.
+
+1952
+02:29:08,800 --> 02:29:12,080
+So basically
+what I want you to do is navigate
+
+1953
+02:29:12,480 --> 02:29:17,120
+through every tab that you have in here
+and perform all the actions.
+
+1954
+02:29:17,280 --> 02:29:22,040
+Okay, So this form, right,
+you already know how to handle the
+
+1955
+02:29:23,520 --> 02:29:27,840
+what's called radio buttons and checkbox
+says you know how to handle the drop downs
+
+1956
+02:29:27,840 --> 02:29:33,880
+and here we know how to input text
+and click on submit and everything.
+
+1957
+02:29:34,320 --> 02:29:38,600
+Right So when you're done with that
+you go to controls.
+
+1958
+02:29:39,320 --> 02:29:41,640
+I think you already we were already there.
+
+1959
+02:29:42,040 --> 02:29:44,000
+So widgets in here. There we go.
+
+1960
+02:29:44,000 --> 02:29:46,360
+We have another file upload, Right.
+
+1961
+02:29:46,360 --> 02:29:48,480
+So try to upload any file in here
+
+1962
+02:29:49,880 --> 02:29:53,480
+actions again, click me double click.
+
+1963
+02:29:53,520 --> 02:29:56,480
+Okay drag and drop in here.
+
+1964
+02:29:56,480 --> 02:29:58,840
+Move to an element.
+
+1965
+02:29:58,840 --> 02:30:01,240
+Right. So switching.
+
+1966
+02:30:01,240 --> 02:30:02,960
+So we've done this example.
+
+1967
+02:30:02,960 --> 02:30:04,320
+Try to do it again.
+
+1968
+02:30:04,320 --> 02:30:06,800
+Okay Exactly.
+
+1969
+02:30:06,960 --> 02:30:10,840
+Do everything on the website
+one by one on the tabs.
+
+1970
+02:30:11,200 --> 02:30:26,040
+Okay. Yes.
+
+1971
+02:30:26,040 --> 02:30:29,880
+They the YouTube channel
+that I used to work is nivine.
+
+1972
+02:30:30,000 --> 02:30:30,480
+Okay.
+
+1973
+02:30:30,480 --> 02:30:32,960
+I think it was nivine
+
+1974
+02:30:33,960 --> 02:30:35,920
+something.
+
+1975
+02:30:35,920 --> 02:30:39,160
+But if you just Google not Google,
+
+1976
+02:30:39,160 --> 02:30:41,400
+just let's go
+
+1977
+02:30:47,600 --> 02:30:48,600
+Navy automation.
+
+1978
+02:30:48,600 --> 02:30:51,000
+There we go. Okay,
+
+1979
+02:30:51,120 --> 02:30:53,120
+So remember this
+
+1980
+02:30:55,880 --> 02:30:57,680
+you guys
+
+1981
+02:30:57,680 --> 02:30:58,920
+okay, you
+
+1982
+02:31:01,000 --> 02:31:05,560
+So yeah, I think this is for the
+
+1983
+02:31:07,080 --> 02:31:08,680
+Naveen Automation lab.
+
+1984
+02:31:08,680 --> 02:31:10,440
+Okay. So go in here.
+
+1985
+02:31:10,440 --> 02:31:12,480
+He's got pretty good
+
+1986
+02:31:13,840 --> 02:31:19,840
+pretty good videos in here.
+
+1987
+02:31:19,840 --> 02:31:23,840
+He explains a lot of good stuff
+
+1988
+02:31:29,640 --> 02:31:32,880
+that.
+
+1989
+02:31:32,880 --> 02:31:33,560
+All right.
+
+1990
+02:31:33,560 --> 02:31:39,720
+Any other questions, guys?
+
+1991
+02:31:39,720 --> 02:31:49,920
+Homework? Yes.
+
+1992
+02:31:49,920 --> 02:31:51,240
+It's posted in the course.
+
+1993
+02:31:51,240 --> 02:31:58,800
+Announcements.
+
+1994
+02:31:58,800 --> 02:32:01,480
+Go. Okay.
+
+1995
+02:32:01,480 --> 02:32:03,840
+I'll push the code right after we finish.
+
+1996
+02:32:03,880 --> 02:32:04,680
+Okay.
+
+1997
+02:32:04,720 --> 02:32:07,440
+All right, guys,
+If there's no questions tomorrow,
+
+1998
+02:32:07,600 --> 02:32:11,120
+we're going to go over the page model.
+
+1999
+02:32:11,400 --> 02:32:13,560
+That's going to be a little confusing.
+
+2000
+02:32:13,560 --> 02:32:15,040
+Okay, guys.
+
+2001
+02:32:15,120 --> 02:32:18,240
+But because I will be jumping through
+
+2002
+02:32:19,560 --> 02:32:21,920
+between a lot of different packages.
+
+2003
+02:32:22,040 --> 02:32:22,720
+Okay.
+
+2004
+02:32:22,720 --> 02:32:25,840
+So I'd suggest to just follow me
+when I'm explaining
+
+2005
+02:32:25,840 --> 02:32:29,040
+and not type
+because you will get lost in there.
+
+2006
+02:32:29,240 --> 02:32:29,840
+Okay.
+
+2007
+02:32:29,840 --> 02:32:33,080
+So I'll be jumping
+through different packages tomorrow.
+
+2008
+02:32:33,240 --> 02:32:36,200
+So it would be best to follow me
+
+2009
+02:32:36,200 --> 02:32:39,480
+what I'm doing in there.
+
+2010
+02:32:39,480 --> 02:32:43,720
+I don't think I'm going to teach
+cucumber guys.
+
+2011
+02:32:43,720 --> 02:32:44,520
+Okay.
+
+2012
+02:32:47,640 --> 02:32:51,360
+Yes. No typing tomorrow.
+
+2013
+02:32:51,360 --> 02:32:53,760
+Just come to the class and enjoy the show.
+
+2014
+02:32:54,360 --> 02:33:00,840
+Last class tomorrow.
+
+2015
+02:33:00,840 --> 02:33:03,480
+All right? Okay, guys.
+
+2016
+02:33:03,480 --> 02:33:05,240
+Have a good night, everyone.
+
+2017
+02:33:05,240 --> 02:33:06,960
+Thanks, everybody.
+
+2018
+02:33:06,960 --> 02:33:09,040
+But tomorrow's topic page object model.
+
+2019
+02:33:09,600 --> 02:33:11,760
+Okay.
+
+2020
+02:33:11,760 --> 02:33:14,280
+I'll see you guys tomorrow.
+
+2021
+02:33:14,280 --> 02:33:16,520
+And please start
+
+2022
+02:33:16,920 --> 02:33:19,680
+working on the homework
+and please practice.
+
+2023
+02:33:20,240 --> 02:33:21,600
+Okay.
+
+2024
+02:33:21,600 --> 02:33:24,120
+Thanks, everybody,
+and I'll see you tomorrow.
+
+2025
+02:33:24,120 --> 02:33:27,080
+Okay.
+
+2026
+02:33:27,080 --> 02:33:35,520
+Goodnight, everyone.

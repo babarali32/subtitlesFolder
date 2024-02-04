@@ -1,0 +1,10945 @@
+﻿1
+00:00:09,120 --> 00:00:12,200
+Everyone forgot for the record.
+
+2
+00:00:12,200 --> 00:00:14,520
+So now Hooks when we talk about
+
+3
+00:00:14,520 --> 00:00:17,160
+hooks, basically we have two hooks in.
+
+4
+00:00:17,680 --> 00:00:20,800
+What are these two?
+
+5
+00:00:21,880 --> 00:00:24,800
+You can, you can.
+
+6
+00:00:25,040 --> 00:00:27,720
+It's an open gate or
+
+7
+00:00:30,120 --> 00:00:31,160
+not the same words.
+
+8
+00:00:31,160 --> 00:00:31,440
+If it
+
+9
+00:00:31,440 --> 00:00:35,280
+if you were right, then I would take it
+if it is already in my mind.
+
+10
+00:00:35,600 --> 00:00:36,760
+And then later.
+
+11
+00:00:36,760 --> 00:00:40,280
+Then after that I have spoken before
+an honorary consul.
+
+12
+00:00:41,440 --> 00:00:45,480
+We have in order to deliver the posters
+before and seconds after,
+
+13
+00:00:45,800 --> 00:00:50,000
+we have seen the same kind of annotations
+in this dingy part.
+
+14
+00:00:50,160 --> 00:00:53,040
+But did we had a lot of lot of information
+
+15
+00:00:53,040 --> 00:00:57,160
+available for victims of litigation
+before up to method, before class,
+
+16
+00:00:57,160 --> 00:01:01,040
+after class before based on her best
+before, soon after.
+
+17
+00:01:01,600 --> 00:01:02,040
+Right.
+
+18
+00:01:02,160 --> 00:01:05,520
+And sometimes we get confused
+which one we use, which will not be.
+
+19
+00:01:06,280 --> 00:01:09,200
+So let's
+wait to make this job simplified for us.
+
+20
+00:01:09,600 --> 00:01:12,600
+And then instead of using
+so many annotations
+
+21
+00:01:12,600 --> 00:01:16,640
+we can simply use
+just to default and appear to simply be
+
+22
+00:01:16,640 --> 00:01:20,680
+first states for your preconditions
+and participants for your condition.
+
+23
+00:01:21,840 --> 00:01:22,480
+I agree with
+
+24
+00:01:22,480 --> 00:01:27,960
+high level.
+
+25
+00:01:27,960 --> 00:01:28,680
+All right.
+
+26
+00:01:28,680 --> 00:01:30,640
+You don't need to be
+
+27
+00:01:31,640 --> 00:01:32,840
+imported from
+
+28
+00:01:34,440 --> 00:01:42,920
+the hooks.
+
+29
+00:01:43,560 --> 00:01:44,880
+Hooks in the
+
+30
+00:01:47,800 --> 00:01:48,440
+obviously.
+
+31
+00:01:48,440 --> 00:01:49,440
+Yes, obviously
+
+32
+00:01:49,440 --> 00:01:53,560
+we have to use it, particularly
+because with the J, you need to remember
+
+33
+00:01:53,560 --> 00:01:57,480
+whatever the things we are doing with
+Jane is related to your class.
+
+34
+00:01:58,600 --> 00:02:00,080
+It is a little
+
+35
+00:02:01,280 --> 00:02:02,800
+bit better class.
+
+36
+00:02:02,800 --> 00:02:06,560
+That was the portion we use
+from the unique associates.
+
+37
+00:02:06,560 --> 00:02:08,880
+These are the versions we use from David.
+
+38
+00:02:08,880 --> 00:02:11,920
+But apart from these two, all the things
+
+39
+00:02:11,960 --> 00:02:15,320
+we are importing
+from consumer part of the trade.
+
+40
+00:02:15,520 --> 00:02:17,760
+So please take care of your worst case.
+
+41
+00:02:17,760 --> 00:02:20,400
+And any the if you have this code
+in your machine, then
+
+42
+00:02:21,000 --> 00:02:23,720
+we have an improved
+
+43
+00:02:24,120 --> 00:02:24,840
+point.
+
+44
+00:02:24,840 --> 00:02:27,000
+So before,
+
+45
+00:02:27,760 --> 00:02:30,240
+after these two hooks, we have more
+
+46
+00:02:31,440 --> 00:02:33,280
+information
+
+47
+00:02:35,440 --> 00:02:36,240
+post condition
+
+48
+00:02:38,160 --> 00:02:40,800
+this precondition,
+both hooks would be correct.
+
+49
+00:02:41,720 --> 00:02:43,200
+Yes. Yes, correct.
+
+50
+00:02:43,200 --> 00:02:48,200
+So I am coming to this point though,
+how we can really put these hooks.
+
+51
+00:02:48,200 --> 00:02:52,840
+When we keep these hooks in our project,
+we give them enough steps.
+
+52
+00:02:52,840 --> 00:02:55,840
+Package three
+
+53
+00:02:55,840 --> 00:02:58,760
+steps, library steps, definitions
+that are available.
+
+54
+00:02:59,040 --> 00:03:03,440
+We keep these particular hooks
+class inside that each framework is, but
+
+55
+00:03:03,440 --> 00:03:07,960
+then we could look at group of mistakes
+and we are using good management class.
+
+56
+00:03:07,960 --> 00:03:11,280
+It takes my hooks as a precondition
+in most condition
+
+57
+00:03:12,960 --> 00:03:15,960
+and its package
+
+58
+00:03:28,960 --> 00:03:29,600
+it should
+
+59
+00:03:29,600 --> 00:03:32,040
+extent Common interests are common,
+but they're spotted.
+
+60
+00:03:32,600 --> 00:03:36,840
+Like if they're tied for a little bit
+about the common.
+
+61
+00:03:36,840 --> 00:03:41,360
+But there's very much time on specifically
+this particular class common metrics
+
+62
+00:03:41,600 --> 00:03:44,440
+as it is very important, something
+
+63
+00:03:45,440 --> 00:03:47,680
+this is something we will do in Saturday's
+class.
+
+64
+00:03:47,680 --> 00:03:51,400
+I most probably in separate
+this class three and into one of the
+
+65
+00:03:51,440 --> 00:03:52,520
+class is very painful.
+
+66
+00:03:53,640 --> 00:03:56,160
+So yes, then you will see that
+you will see things.
+
+67
+00:03:56,440 --> 00:04:00,200
+I'm intentionally, you know,
+taking the topics one or two here
+
+68
+00:04:00,240 --> 00:04:05,080
+and then because if I see that this class
+is going to take 3 hours,
+
+69
+00:04:05,120 --> 00:04:08,600
+not even complete 3 hours, three,
+including breaks and everything,
+
+70
+00:04:08,920 --> 00:04:10,440
+but then do something
+
+71
+00:04:10,440 --> 00:04:14,560
+if there is a topic that we can not can
+begin this two minute 140 minutes.
+
+72
+00:04:14,800 --> 00:04:17,160
+I intentionally was one.
+
+73
+00:04:17,200 --> 00:04:21,200
+Those topics to the bigger classes
+and their topics would be completed.
+
+74
+00:04:21,200 --> 00:04:23,160
+The short class in digital.
+
+75
+00:04:23,160 --> 00:04:28,320
+You take those topics in these classes,
+so I cannot I should not break the links
+
+76
+00:04:28,520 --> 00:04:30,960
+and I can complete
+one topic in this class.
+
+77
+00:04:31,480 --> 00:04:35,240
+So you guys might be thinking
+why we are not learning common methods
+
+78
+00:04:35,240 --> 00:04:36,560
+by going to that.
+
+79
+00:04:36,560 --> 00:04:38,600
+So there is a particular standard
+that is a
+
+80
+00:04:39,480 --> 00:04:43,680
+I don't want to break the links
+to the top of the topic.
+
+81
+00:04:43,680 --> 00:04:46,600
+I expect to be off
+of the topic of extreme tomorrow.
+
+82
+00:04:46,600 --> 00:04:48,600
+And then sort of do you break the chain?
+
+83
+00:04:48,600 --> 00:04:52,000
+I don't want to do this until you
+So in one flow,
+
+84
+00:04:52,120 --> 00:04:55,520
+if we could complete one topic
+because that it is intended of people,
+
+85
+00:04:55,560 --> 00:05:00,280
+it is a short topic but it's good it's
+a good plan is to complete one topic in
+
+86
+00:05:00,280 --> 00:05:11,600
+1 to 3. Okay
+
+87
+00:05:12,560 --> 00:05:13,040
+days.
+
+88
+00:05:14,520 --> 00:05:16,720
+So now before and after,
+
+89
+00:05:17,000 --> 00:05:20,360
+these are two hooks we have up the ropes.
+
+90
+00:05:20,520 --> 00:05:24,520
+The first thing we learned was so far
+we paused.
+
+91
+00:05:24,520 --> 00:05:28,240
+Hard coded data is not possible.
+
+92
+00:05:28,240 --> 00:05:29,280
+Simply hardcoded it.
+
+93
+00:05:29,280 --> 00:05:33,360
+And then I showed
+all of the possible scenarios for you guys
+
+94
+00:05:33,600 --> 00:05:36,680
+to parse the data from different sources.
+
+95
+00:05:37,160 --> 00:05:37,720
+Trade.
+
+96
+00:05:37,720 --> 00:05:40,000
+So tell me one by one,
+what are those sources
+
+97
+00:05:40,800 --> 00:05:45,600
+that we can predict?
+
+98
+00:05:45,600 --> 00:05:48,040
+First one was yes.
+
+99
+00:05:48,280 --> 00:05:52,200
+First
+we simply passed are username and password
+
+100
+00:05:52,200 --> 00:05:55,440
+from config build
+
+101
+00:05:55,920 --> 00:05:58,240
+properties by right.
+
+102
+00:05:58,440 --> 00:06:01,840
+First
+we passed it from computer properties, but
+
+103
+00:06:03,480 --> 00:06:08,320
+so that this time I need to pass
+hardcoded data and instead of hardcoded
+
+104
+00:06:08,320 --> 00:06:13,320
+data, what I can do is I can simply code
+my get property right value.
+
+105
+00:06:13,960 --> 00:06:17,280
+And then from there we are reading
+the property is based on the key
+
+106
+00:06:17,560 --> 00:06:21,560
+those guys will provide and based on
+those is the best data
+
+107
+00:06:21,560 --> 00:06:25,160
+by function, especially data
+from confident properties mine.
+
+108
+00:06:25,360 --> 00:06:29,040
+And it could simply
+it would simply be in my user password.
+
+109
+00:06:30,240 --> 00:06:33,320
+Correct.
+
+110
+00:06:33,320 --> 00:06:35,360
+Is this correct case
+
+111
+00:06:36,720 --> 00:06:44,400
+nice.
+
+112
+00:06:44,400 --> 00:06:46,960
+Second we deposited that is stronger
+
+113
+00:06:52,760 --> 00:06:55,400
+feature rate
+
+114
+00:06:55,400 --> 00:06:58,760
+feature by now that we showed
+how we pass this data
+
+115
+00:06:58,760 --> 00:07:01,960
+in terms of double quotes rate,
+we passed this data.
+
+116
+00:07:02,520 --> 00:07:03,800
+So you see
+
+117
+00:07:04,560 --> 00:07:06,000
+that's how we passed the data.
+
+118
+00:07:06,000 --> 00:07:10,400
+So now this time we are not passing
+these keys to add the employee
+
+119
+00:07:10,400 --> 00:07:14,400
+from my confident properties,
+but instead I'm passing it
+
+120
+00:07:14,600 --> 00:07:18,880
+directly from my cementing right
+in my feature point.
+
+121
+00:07:19,560 --> 00:07:22,120
+So this is the second one, how it reads.
+
+122
+00:07:22,440 --> 00:07:25,160
+It will convert these particular steps
+
+123
+00:07:25,160 --> 00:07:30,480
+along with them and then we would see
+when I actually implement
+
+124
+00:07:30,760 --> 00:07:34,320
+this step, it will give me this
+stable step definition
+
+125
+00:07:34,560 --> 00:07:39,400
+where I'm handling previous strings
+but force them really last that right.
+
+126
+00:07:39,760 --> 00:07:44,000
+And then based on the keys
+that have voided values are that provided
+
+127
+00:07:44,000 --> 00:07:47,800
+in my feature while it is taking the data
+in my function.
+
+128
+00:07:47,800 --> 00:07:50,040
+And then I'm calling
+this a number of different
+
+129
+00:07:51,120 --> 00:07:53,480
+so for any question in this part,
+
+130
+00:07:53,480 --> 00:07:58,120
+instead of calling this data
+as a hardcoded or instead of calling
+
+131
+00:07:58,120 --> 00:08:00,960
+this data from computer properties,
+
+132
+00:08:01,120 --> 00:08:04,400
+I'm simply passing this data
+from my feature.
+
+133
+00:08:04,400 --> 00:08:07,640
+Right. But again, that is a problem.
+I see.
+
+134
+00:08:07,640 --> 00:08:09,680
+That is a problem.
+I see. What is the problem?
+
+135
+00:08:10,080 --> 00:08:13,200
+The problem is
+I can use this in a new build
+
+136
+00:08:13,600 --> 00:08:17,880
+in one bank for just one import.
+
+137
+00:08:17,880 --> 00:08:22,400
+If I use this particular step,
+then I can implement my decision
+
+138
+00:08:22,400 --> 00:08:27,600
+and make it execute this scenario just
+for one employee, not for all the inputs.
+
+139
+00:08:27,720 --> 00:08:33,120
+Correct.
+
+140
+00:08:33,120 --> 00:08:33,680
+Okay.
+
+141
+00:08:34,160 --> 00:08:38,400
+But when it comes to our principle,
+what is our target?
+
+142
+00:08:38,400 --> 00:08:41,560
+The target is to achieve data driven
+testing,
+
+143
+00:08:42,680 --> 00:08:43,400
+right?
+
+144
+00:08:43,400 --> 00:08:47,880
+So when I see the target is to achieve
+data driven distinct, it simply means
+
+145
+00:08:48,080 --> 00:08:53,280
+my one scenario should execute
+across my deposits of data.
+
+146
+00:08:53,640 --> 00:08:58,560
+So I need to come up with the idea through
+which I can execute my escape across
+
+147
+00:08:58,600 --> 00:08:59,760
+multiple people's books of data.
+
+148
+00:09:01,040 --> 00:09:02,000
+So it is pretty much
+
+149
+00:09:02,000 --> 00:09:05,400
+clear that
+if I want to make these kind of scenarios,
+
+150
+00:09:05,800 --> 00:09:09,800
+I can execute once multiple names
+across different sets of data.
+
+151
+00:09:10,520 --> 00:09:13,560
+I have to either
+rely on some external point
+
+152
+00:09:13,960 --> 00:09:19,680
+to achieve the speed or I need to search
+more and more functionality.
+
+153
+00:09:19,680 --> 00:09:20,200
+Right?
+
+154
+00:09:20,240 --> 00:09:23,040
+So when I searched
+more functionality of the toolbox,
+
+155
+00:09:23,040 --> 00:09:26,680
+then I found one concept
+calls the matter of like
+
+156
+00:09:28,360 --> 00:09:29,240
+right.
+
+157
+00:09:29,240 --> 00:09:31,640
+Then I found one concept
+called scenario of this.
+
+158
+00:09:32,160 --> 00:09:34,480
+It would put all of these things
+in the process, but
+
+159
+00:10:04,400 --> 00:10:05,280
+first thing is,
+
+160
+00:10:05,280 --> 00:10:07,480
+the second thing is
+
+161
+00:10:09,000 --> 00:10:11,320
+seeing the data from
+
+162
+00:10:12,800 --> 00:10:15,560
+the box.
+
+163
+00:10:15,560 --> 00:10:31,560
+People.
+
+164
+00:10:31,560 --> 00:10:33,800
+So now next thing,
+what we didn't really do
+
+165
+00:10:33,800 --> 00:10:38,400
+is we simply provide scenario outline
+instead of scenario.
+
+166
+00:10:38,760 --> 00:10:42,840
+And then when we provided, then
+how do you apply it to the real examples?
+
+167
+00:10:42,840 --> 00:10:45,960
+Table three This example statement
+
+168
+00:10:46,200 --> 00:10:50,400
+generally gives us how we can
+muster data based on key.
+
+169
+00:10:50,400 --> 00:10:51,000
+And when
+
+170
+00:10:52,320 --> 00:10:56,320
+you see you, when you talk about examples
+
+171
+00:10:56,320 --> 00:10:59,560
+tuple based on key
+and we can pass the data
+
+172
+00:11:00,800 --> 00:11:04,560
+gradients.
+
+173
+00:11:04,560 --> 00:11:07,480
+So these keys
+we will pass in our scenario.
+
+174
+00:11:07,720 --> 00:11:09,160
+Now tell me one more thing.
+
+175
+00:11:09,160 --> 00:11:12,200
+This example statement
+is limited to just one step,
+
+176
+00:11:12,200 --> 00:11:15,680
+but we can be use
+all the keys can be used in multiple steps
+
+177
+00:11:16,040 --> 00:11:17,360
+once in any
+
+178
+00:11:23,280 --> 00:11:27,160
+equal step straight,
+it can be using multiple steps.
+
+179
+00:11:27,160 --> 00:11:29,800
+For example, if I was them with them.
+
+180
+00:11:29,880 --> 00:11:34,280
+Lastly, and I want to handle this post,
+the post system made a limited
+
+181
+00:11:34,320 --> 00:11:35,360
+second one and last.
+
+182
+00:11:35,360 --> 00:11:38,920
+The third one is I can do this on,
+
+183
+00:11:38,920 --> 00:11:43,560
+I can do this.
+
+184
+00:11:43,560 --> 00:11:47,040
+But so this is the second
+we know how it works.
+
+185
+00:11:47,400 --> 00:11:50,200
+Basically
+when you actually execute your scenario.
+
+186
+00:11:50,400 --> 00:11:52,560
+So executes three names here.
+
+187
+00:11:52,560 --> 00:11:58,680
+My because the data I mentioned in line
+number 2424 disease, it creates three
+
+188
+00:11:58,920 --> 00:12:04,040
+region in when it creates create region,
+I will simply get this data.
+
+189
+00:12:04,200 --> 00:12:08,320
+I can simply execute this in any one time,
+but it will get executed.
+
+190
+00:12:08,320 --> 00:12:09,280
+Three things.
+
+191
+00:12:09,280 --> 00:12:12,720
+This is the functionality of the Google
+G data
+
+192
+00:12:12,960 --> 00:12:16,560
+team on disk.
+
+193
+00:12:16,560 --> 00:12:17,600
+Is this clear? Everyone
+
+194
+00:12:22,160 --> 00:12:23,080
+wants?
+
+195
+00:12:23,080 --> 00:12:25,800
+Then what is the other way?
+
+196
+00:12:25,880 --> 00:12:29,040
+The other bit on behalf of B is
+
+197
+00:12:30,520 --> 00:12:33,960
+to parse their data by our data table.
+
+198
+00:12:34,800 --> 00:12:35,640
+Correct
+
+199
+00:12:39,440 --> 00:12:40,160
+data.
+
+200
+00:12:40,200 --> 00:12:41,240
+Right. So.
+
+201
+00:12:41,800 --> 00:12:45,600
+So now what we are going to do
+is we are going to parse the data.
+
+202
+00:12:45,720 --> 00:12:50,160
+But tell me guys, what is the difference
+in between detectible in examples?
+
+203
+00:12:51,840 --> 00:12:53,640
+Examples is also a table
+
+204
+00:12:53,640 --> 00:12:57,480
+is also going to be a passing data
+from both basis.
+
+205
+00:12:57,720 --> 00:13:01,240
+Then what is the difference?
+
+206
+00:13:01,240 --> 00:13:04,240
+If you see in data table
+there is a key and false
+
+207
+00:13:04,240 --> 00:13:10,800
+name with the last name is the key, right
+is to 1 to 3 M is just 4.6 is the value.
+
+208
+00:13:10,800 --> 00:13:13,320
+So there is a key and value in the name
+Elizabeth
+
+209
+00:13:15,760 --> 00:13:18,680
+No steps
+
+210
+00:13:19,120 --> 00:13:20,840
+lost in any argument.
+
+211
+00:13:20,840 --> 00:13:23,040
+Yes. Yes. Got it.
+
+212
+00:13:23,080 --> 00:13:26,120
+So one detectible. The major difference.
+
+213
+00:13:26,120 --> 00:13:28,520
+The major difference
+most in any of is body
+
+214
+00:13:29,760 --> 00:13:31,360
+major differences.
+
+215
+00:13:31,360 --> 00:13:34,760
+We can use examples
+table for multiple steps.
+
+216
+00:13:35,040 --> 00:13:35,440
+Right.
+
+217
+00:13:35,440 --> 00:13:38,640
+The keys which we are defining and values
+which were DV.
+
+218
+00:13:38,640 --> 00:13:41,400
+We can use this keys in values
+in multiple steps.
+
+219
+00:13:41,760 --> 00:13:46,760
+But here in this particular
+detectable part, we can use this data
+
+220
+00:13:47,320 --> 00:13:51,200
+only for one particular step,
+nor for multiple step.
+
+221
+00:13:51,440 --> 00:13:53,280
+Yeah, got it.
+
+222
+00:13:53,280 --> 00:13:54,040
+Where were you guys?
+
+223
+00:13:54,040 --> 00:13:55,160
+I was expecting your answer.
+
+224
+00:13:55,160 --> 00:13:56,240
+Since long
+
+225
+00:13:57,280 --> 00:14:02,680
+a great.
+
+226
+00:14:02,680 --> 00:14:04,360
+All right, guys.
+
+227
+00:14:04,360 --> 00:14:05,720
+Now they did.
+
+228
+00:14:05,720 --> 00:14:08,640
+I do tapes of scenarios.
+We have been detected with.
+
+229
+00:14:08,640 --> 00:14:10,040
+What are those two?
+
+230
+00:14:10,040 --> 00:14:12,600
+The first one we are seeing here
+and what we are doing.
+
+231
+00:14:12,920 --> 00:14:15,120
+We are simply passing
+first name with a them.
+
+232
+00:14:15,160 --> 00:14:18,560
+And lastly,
+and we are providing the values.
+
+233
+00:14:18,560 --> 00:14:19,800
+That's what we are doing.
+
+234
+00:14:19,800 --> 00:14:22,800
+So now here what we have to convert
+according
+
+235
+00:14:22,800 --> 00:14:24,840
+to the functionality of the convert.
+
+236
+00:14:25,080 --> 00:14:27,240
+When I actually create this,
+
+237
+00:14:27,240 --> 00:14:32,200
+it will give me a different
+kind of like this when it gives me
+
+238
+00:14:32,200 --> 00:14:36,480
+the argument, quantitative grade
+this that I would have any to handle.
+
+239
+00:14:36,720 --> 00:14:41,160
+I need to create a data
+the debates automatically insert
+
+240
+00:14:41,160 --> 00:14:45,600
+this table with
+I know key and the loop is a concept I'll
+
+241
+00:14:47,400 --> 00:14:50,160
+develop it as a concept. All
+
+242
+00:14:50,160 --> 00:14:52,000
+maps in Java. Right?
+
+243
+00:14:52,000 --> 00:14:54,640
+So when we talk about mapping,
+do what we have to do.
+
+244
+00:14:54,960 --> 00:14:57,760
+Every single line is returning the map.
+
+245
+00:14:58,800 --> 00:15:01,680
+If I have multiple rules, multiple maps,
+
+246
+00:15:02,160 --> 00:15:05,000
+okay, If I take one at one time, fine.
+
+247
+00:15:05,000 --> 00:15:07,400
+But I have to put it somewhere, right?
+
+248
+00:15:07,560 --> 00:15:08,880
+So my people maps.
+
+249
+00:15:08,880 --> 00:15:11,280
+If I have to do that, I need one list.
+
+250
+00:15:11,640 --> 00:15:15,000
+Then I can store these multiple maps
+so listed or add.
+
+251
+00:15:15,000 --> 00:15:17,240
+This is the last thing
+this particular function.
+
+252
+00:15:17,240 --> 00:15:19,720
+And then I'm adding all the members
+together.
+
+253
+00:15:19,840 --> 00:15:23,880
+However, these things that are working
+internally, but I'm just explaining it
+
+254
+00:15:23,880 --> 00:15:28,440
+the functionality and from there
+we can read this database from the key.
+
+255
+00:15:28,680 --> 00:15:30,240
+So inverse preparation.
+
+256
+00:15:30,240 --> 00:15:35,640
+By passing all the guides, it will read
+the complete data from the of these
+
+257
+00:15:35,760 --> 00:15:40,600
+I am passing values which is reading
+similarly passing in the Keys.
+
+258
+00:15:40,600 --> 00:15:42,360
+We have already provided values.
+
+259
+00:15:42,360 --> 00:15:46,120
+It will read similarly Bertoldo excellent.
+
+260
+00:15:46,120 --> 00:15:47,360
+There are some things working here,
+
+261
+00:15:48,480 --> 00:15:48,760
+right?
+
+262
+00:15:48,760 --> 00:16:01,960
+Great.
+
+263
+00:16:01,960 --> 00:16:04,560
+Great. Someone forgot the homework.
+
+264
+00:16:04,560 --> 00:16:07,120
+I I'm not to remember the need.
+
+265
+00:16:07,680 --> 00:16:09,440
+Someone forgot I was.
+
+266
+00:16:09,440 --> 00:16:11,560
+I woke up last year, right?
+
+267
+00:16:11,760 --> 00:16:16,240
+I mean 530 or six I woke up
+and I saw a couple of messages
+
+268
+00:16:16,240 --> 00:16:20,480
+from students and someone was discussing,
+Hey, I forgot the whole room better.
+
+269
+00:16:20,480 --> 00:16:26,720
+Well,
+so even if everything they do let me know
+
+270
+00:16:26,840 --> 00:16:33,240
+so that I will remind you again
+and again and again.
+
+271
+00:16:33,240 --> 00:16:33,640
+All right.
+
+272
+00:16:33,640 --> 00:16:35,760
+I see you are the culprit.
+
+273
+00:16:35,760 --> 00:16:36,160
+There
+
+274
+00:16:38,280 --> 00:16:39,400
+is going to
+
+275
+00:16:41,640 --> 00:16:43,720
+Angelino, Chicago.
+
+276
+00:16:43,720 --> 00:16:43,920
+Really?
+
+277
+00:16:43,920 --> 00:16:56,640
+Not a great one for like.
+
+278
+00:16:56,640 --> 00:16:57,480
+Fine.
+
+279
+00:16:58,920 --> 00:16:59,640
+Excellent.
+
+280
+00:16:59,640 --> 00:17:02,720
+Excellent.
+
+281
+00:17:02,720 --> 00:17:06,320
+So now let me put this part of the books
+
+282
+00:17:06,320 --> 00:17:11,440
+in the data from examples
+and then from 830
+
+283
+00:17:13,040 --> 00:17:16,880
+oh, we're supposed
+
+284
+00:17:17,480 --> 00:17:20,880
+exempt books.
+
+285
+00:17:20,880 --> 00:17:23,160
+That is
+
+286
+00:17:23,720 --> 00:17:32,320
+a keeper, because that word
+
+287
+00:17:34,320 --> 00:17:39,480
+simple statement, we keep
+
+288
+00:17:41,720 --> 00:17:43,280
+it. We do
+
+289
+00:17:47,080 --> 00:17:52,400
+that.
+
+290
+00:17:52,400 --> 00:17:58,600
+So for any questions, a student,
+
+291
+00:17:58,600 --> 00:18:01,680
+any questions, anyone
+
+292
+00:18:03,960 --> 00:18:04,720
+here?
+
+293
+00:18:05,320 --> 00:18:07,720
+Excellent.
+
+294
+00:18:07,720 --> 00:18:17,080
+Is there any other one
+who has any question?
+
+295
+00:18:17,080 --> 00:18:18,840
+Just fine.
+
+296
+00:18:19,240 --> 00:18:21,000
+Now, now,
+
+297
+00:18:21,000 --> 00:18:23,720
+let's come back to this particular
+topic here.
+
+298
+00:18:25,600 --> 00:18:29,200
+Again, important point is
+
+299
+00:18:29,720 --> 00:18:34,560
+now we are going to be a little bit
+on not much.
+
+300
+00:18:34,560 --> 00:18:37,760
+Obviously, that framework
+is not deep down, but two years
+
+301
+00:18:38,720 --> 00:18:41,120
+from now onwards,
+we are going a little bit deep
+
+302
+00:18:41,280 --> 00:18:45,840
+and will try to understand how things
+connected internally in the framework.
+
+303
+00:18:45,840 --> 00:18:46,520
+Right.
+
+304
+00:18:46,560 --> 00:18:50,480
+So from now onwards
+we are starting to give the real sheet
+
+305
+00:18:50,520 --> 00:18:55,920
+of one compute framework and we will see
+how this thing works for rate.
+
+306
+00:18:56,360 --> 00:19:00,720
+Right now we are using Neven Project,
+but I know we do not have this memory
+
+307
+00:19:00,720 --> 00:19:03,680
+do it right even though I have been
+writing in my machine.
+
+308
+00:19:03,680 --> 00:19:06,880
+But you guys looked at it so I wish it
+
+309
+00:19:06,880 --> 00:19:09,920
+when reading and we think you would meet.
+
+310
+00:19:09,920 --> 00:19:10,520
+Great.
+
+311
+00:19:10,520 --> 00:19:13,320
+I hope for Mac users Bruins join everyone.
+
+312
+00:19:14,040 --> 00:19:15,840
+Everyone has a room in your machine
+
+313
+00:19:17,680 --> 00:19:18,640
+and for
+
+314
+00:19:18,680 --> 00:19:23,640
+Windows users always easy to download
+to create memory in your local machine.
+
+315
+00:19:23,640 --> 00:19:25,800
+So I mentioned the reduce
+bottleneck. Great.
+
+316
+00:19:26,520 --> 00:19:27,720
+No idea.
+
+317
+00:19:27,720 --> 00:19:29,120
+Nine such
+
+318
+00:19:29,640 --> 00:19:30,800
+good idea
+
+319
+00:19:35,000 --> 00:19:35,960
+slide
+
+320
+00:19:37,200 --> 00:19:39,080
+illuminated
+
+321
+00:19:41,680 --> 00:19:42,720
+only two days.
+
+322
+00:19:42,720 --> 00:19:47,520
+Now see one more scenario left
+so far for passing their data.
+
+323
+00:19:48,360 --> 00:19:50,560
+Again, this data table examples
+
+324
+00:19:50,560 --> 00:19:54,600
+Table feature While parsing the data
+from config properties.
+
+325
+00:19:54,600 --> 00:19:55,280
+Fine.
+
+326
+00:19:55,280 --> 00:19:56,960
+All these options are available.
+
+327
+00:19:56,960 --> 00:19:58,160
+Very good options.
+
+328
+00:19:58,160 --> 00:19:58,920
+Data table.
+
+329
+00:19:58,920 --> 00:20:01,080
+Excellent options.
+Let's say game scenario.
+
+330
+00:20:01,080 --> 00:20:06,320
+They will show you here we are passing
+the data would not based on gain value
+
+331
+00:20:06,880 --> 00:20:09,920
+there
+we parsed as maps here we are passing
+
+332
+00:20:09,920 --> 00:20:12,600
+this detectable as
+
+333
+00:20:16,640 --> 00:20:17,880
+in list
+
+334
+00:20:17,880 --> 00:20:21,200
+rate in passing this data as list point.
+
+335
+00:20:21,360 --> 00:20:22,200
+No issues.
+
+336
+00:20:22,200 --> 00:20:24,720
+So now this time
+when we are simply passing the options,
+
+337
+00:20:24,720 --> 00:20:26,840
+we can take all of these options
+in the list.
+
+338
+00:20:27,360 --> 00:20:30,960
+Similarly, we can take these options
+from the application on the list
+
+339
+00:20:30,960 --> 00:20:33,640
+and we compare these two options. This
+to list together.
+
+340
+00:20:33,840 --> 00:20:36,640
+It would list adequate possibilities.
+
+341
+00:20:36,640 --> 00:20:39,720
+But again, like I said, these
+
+342
+00:20:39,720 --> 00:20:42,840
+are these scenarios
+that are applicable and appropriate.
+
+343
+00:20:43,120 --> 00:20:45,920
+When the volume of your data is small,
+
+344
+00:20:47,880 --> 00:20:48,600
+the volume of
+
+345
+00:20:48,600 --> 00:20:51,320
+your data is not small,
+then this to not use
+
+346
+00:20:51,680 --> 00:20:57,160
+more use that.
+
+347
+00:20:57,160 --> 00:21:01,040
+In that case, what we have to do,
+we have to keep our best
+
+348
+00:21:01,040 --> 00:21:05,040
+data separate from our best script.
+
+349
+00:21:05,040 --> 00:21:06,560
+This is very important.
+
+350
+00:21:06,560 --> 00:21:10,600
+We need to learn this line
+so that the model, the world,
+
+351
+00:21:10,800 --> 00:21:16,240
+we do it.
+
+352
+00:21:16,240 --> 00:21:19,400
+What we are going to do is
+this is my Alexa
+
+353
+00:21:19,560 --> 00:21:22,520
+script, my class.
+
+354
+00:21:22,520 --> 00:21:26,440
+I should be having one district
+of finance trade
+
+355
+00:21:26,760 --> 00:21:29,440
+separate district of late this time.
+
+356
+00:21:29,440 --> 00:21:33,200
+I will write my script everything here
+and I will keep my data here.
+
+357
+00:21:34,000 --> 00:21:36,720
+I will pass this data in my script
+from here.
+
+358
+00:21:37,120 --> 00:21:37,320
+Right?
+
+359
+00:21:37,320 --> 00:21:38,640
+I have to create a function through
+
+360
+00:21:38,640 --> 00:21:42,120
+which I can read my data
+and use my trade in my classes.
+
+361
+00:21:42,960 --> 00:21:45,120
+So what is the advantage that advantages
+
+362
+00:21:45,480 --> 00:21:48,480
+this fight could
+be a large amount of data.
+
+363
+00:21:49,440 --> 00:21:51,400
+This particular district
+
+364
+00:21:51,400 --> 00:21:54,200
+file can be a large amount of readers.
+
+365
+00:21:54,200 --> 00:21:55,920
+Even the volume of the data is large.
+
+366
+00:21:55,920 --> 00:22:01,560
+I can keep it the same thing
+if I am changing something in my code,
+
+367
+00:22:01,920 --> 00:22:05,280
+if I'm changing something
+that the class is, it's
+
+368
+00:22:05,280 --> 00:22:08,080
+not going to affect my business
+development
+
+369
+00:22:09,120 --> 00:22:13,680
+or if I'm changing or playing
+with the data, it's not going to affect
+
+370
+00:22:13,680 --> 00:22:15,720
+with my code
+
+371
+00:22:15,720 --> 00:22:17,720
+or district the advantage
+
+372
+00:22:17,720 --> 00:22:20,760
+of using this data to replace
+
+373
+00:22:20,760 --> 00:22:21,560
+everything.
+
+374
+00:22:21,560 --> 00:22:23,560
+Whenever you will be working
+in the daytime
+
+375
+00:22:23,560 --> 00:22:27,480
+industry or on the project grade
+that you have to follow
+
+376
+00:22:27,560 --> 00:22:31,360
+this particular functionality,
+this concept you have to follow.
+
+377
+00:22:31,600 --> 00:22:32,920
+You cannot pass here today.
+
+378
+00:22:32,920 --> 00:22:37,440
+You should not passing to this particular
+individual based or not because let's see
+
+379
+00:22:38,760 --> 00:22:42,800
+if you are working with Facebook
+or if you're working with a Netflix
+
+380
+00:22:43,080 --> 00:22:46,320
+or maybe any company data
+the big fight next.
+
+381
+00:22:46,360 --> 00:22:50,600
+Big James If you're working with them,
+you have produced every single application
+
+382
+00:22:50,600 --> 00:22:51,800
+across millions of years,
+
+383
+00:22:53,080 --> 00:22:53,480
+right?
+
+384
+00:22:53,520 --> 00:22:54,320
+Invest in mine.
+
+385
+00:22:54,320 --> 00:22:56,920
+We did not millions of users,
+maybe hundreds of users.
+
+386
+00:22:57,640 --> 00:22:59,280
+We don't have that much of time to invent.
+
+387
+00:22:59,280 --> 00:23:03,480
+Every single user was named middle name,
+last name, similarity, date of birth,
+
+388
+00:23:03,720 --> 00:23:06,680
+location, nationality,
+passport number and love level.
+
+389
+00:23:06,760 --> 00:23:08,280
+So many things in your example.
+
+390
+00:23:08,280 --> 00:23:09,560
+Stupid.
+
+391
+00:23:09,560 --> 00:23:11,480
+Do you have that window of time?
+
+392
+00:23:11,480 --> 00:23:13,360
+No. Right.
+
+393
+00:23:13,360 --> 00:23:15,200
+So we're to pass this data.
+
+394
+00:23:15,200 --> 00:23:18,840
+Simply
+keep this data in your one particular
+
+395
+00:23:18,880 --> 00:23:24,360
+apps migrated from that find you can read
+so now need we use sequence for data
+
+396
+00:23:24,800 --> 00:23:29,160
+sequel is for data
+this it's not a my great support
+
+397
+00:23:29,520 --> 00:23:32,560
+so when you will be actually studying
+the database that you will read
+
+398
+00:23:33,480 --> 00:23:36,960
+the database connection and everything
+but I'm talking about one particular
+
+399
+00:23:37,240 --> 00:23:38,880
+result no data right?
+
+400
+00:23:39,840 --> 00:23:41,520
+So what, what would be the data plans?
+
+401
+00:23:41,520 --> 00:23:42,480
+We can have
+
+402
+00:23:43,080 --> 00:23:45,240
+sort of options see us to do together.
+
+403
+00:23:46,000 --> 00:23:48,480
+We can mix them all by.
+
+404
+00:23:48,480 --> 00:23:53,080
+We get faster in this environment, we can
+pass stricter directly picture weight.
+
+405
+00:23:53,400 --> 00:23:57,360
+Similarly,
+we can pass data from our Excel,
+
+406
+00:23:57,360 --> 00:24:00,840
+find your is correct data, but
+
+407
+00:24:05,400 --> 00:24:06,120
+all right.
+
+408
+00:24:06,440 --> 00:24:08,600
+So now the next thing
+
+409
+00:24:08,760 --> 00:24:13,560
+which we are going to study is excel
+
+410
+00:24:13,920 --> 00:24:18,400
+in how to read data
+from Excel in our scenario.
+
+411
+00:24:18,720 --> 00:24:23,160
+So we will be writing a function
+which will be the global function,
+
+412
+00:24:23,400 --> 00:24:27,400
+whatever the things that we will going
+to provide in this data by,
+
+413
+00:24:27,480 --> 00:24:32,440
+except why it will read all the data
+based on the gives from there
+
+414
+00:24:32,640 --> 00:24:35,560
+and it will simply pass
+through that framework.
+
+415
+00:24:37,000 --> 00:24:37,560
+Is it clear?
+
+416
+00:24:37,560 --> 00:24:43,640
+So class, it's very easy.
+
+417
+00:24:44,400 --> 00:24:44,880
+I should
+
+418
+00:24:52,160 --> 00:24:54,080
+clean and clear.
+
+419
+00:24:54,760 --> 00:24:56,920
+We have one option simple
+
+420
+00:24:57,200 --> 00:25:02,400
+with the name clean and clear,
+crystal clean.
+
+421
+00:25:03,480 --> 00:25:08,080
+You get about it.
+
+422
+00:25:08,080 --> 00:25:09,400
+You do that
+
+423
+00:25:09,840 --> 00:25:10,640
+well.
+
+424
+00:25:10,760 --> 00:25:13,080
+Shampoo in progress.
+
+425
+00:25:13,080 --> 00:25:17,400
+If everywhere it is
+now, people are not afraid of this.
+
+426
+00:25:17,400 --> 00:25:19,680
+This how convenient.
+
+427
+00:25:21,000 --> 00:25:22,640
+Really? And made in India.
+
+428
+00:25:22,640 --> 00:25:32,160
+So how would we Indians
+maybe adopt things?
+
+429
+00:25:32,160 --> 00:25:37,840
+All right.
+
+430
+00:25:37,840 --> 00:25:40,680
+Like with Indian, with the right industry.
+
+431
+00:25:40,680 --> 00:25:42,200
+You see faith.
+
+432
+00:25:42,200 --> 00:25:47,120
+People from India, the U.S.A.,
+they become the CEO of the companies
+
+433
+00:25:47,120 --> 00:25:50,840
+and the managing director, assistant vice
+president, president of marketing,
+
+434
+00:25:50,840 --> 00:25:51,720
+and so many things.
+
+435
+00:25:51,720 --> 00:25:56,200
+Right.
+
+436
+00:25:56,200 --> 00:25:57,960
+Is it Asian?
+
+437
+00:25:57,960 --> 00:26:00,240
+We read by.
+
+438
+00:26:00,280 --> 00:26:03,400
+I had never come across
+with this kind of information in books
+
+439
+00:26:09,440 --> 00:26:10,760
+I never meet
+
+440
+00:26:10,760 --> 00:26:14,600
+says, Well, to be honest
+
+441
+00:26:21,240 --> 00:26:24,440
+right they look like in like
+
+442
+00:26:29,800 --> 00:26:30,960
+this piece
+
+443
+00:26:30,960 --> 00:26:34,560
+to the founder of please
+to make him I made in person
+
+444
+00:26:37,280 --> 00:26:39,640
+yeah look in the category
+
+445
+00:26:40,440 --> 00:26:41,840
+All right
+
+446
+00:26:51,040 --> 00:26:51,360
+thanks.
+
+447
+00:26:51,360 --> 00:26:53,400
+Why I always request my experience.
+
+448
+00:26:53,480 --> 00:26:56,000
+Stop watching television.
+
+449
+00:26:56,160 --> 00:26:58,920
+There's some memories.
+
+450
+00:26:58,920 --> 00:26:59,640
+Right?
+
+451
+00:27:00,160 --> 00:27:02,840
+So now what we have to do is see
+
+452
+00:27:02,840 --> 00:27:08,160
+if I am going to provide my decided
+that it one particular place to tell me
+
+453
+00:27:08,160 --> 00:27:11,800
+this providing this data in a bite,
+it is a part of Java
+
+454
+00:27:11,800 --> 00:27:13,320
+or non Java
+
+455
+00:27:20,440 --> 00:27:21,440
+has seen.
+
+456
+00:27:21,440 --> 00:27:26,240
+My question is if I'm going to provide
+Wendy's did that in one particular funny
+
+457
+00:27:26,400 --> 00:27:31,520
+right to this Baileys Java or non
+Java called mystic Mundo Excellent point.
+
+458
+00:27:31,520 --> 00:27:36,120
+Passing their data in a Katrina
+search on is non
+
+459
+00:27:36,120 --> 00:27:39,960
+java good.
+
+460
+00:27:39,960 --> 00:27:40,960
+So now.
+
+461
+00:27:40,960 --> 00:27:44,760
+Nor is it possible that I can be passed.
+
+462
+00:27:44,760 --> 00:27:47,200
+I can pass my data in from my people.
+
+463
+00:27:47,200 --> 00:27:51,280
+Excel likes language
+possible for particular module.
+
+464
+00:27:51,280 --> 00:27:53,400
+Speak to them readable by trained.
+
+465
+00:27:53,400 --> 00:27:59,520
+We can do that to tell me
+which position I have in my framework.
+
+466
+00:27:59,520 --> 00:28:00,120
+The framework.
+
+467
+00:28:00,120 --> 00:28:02,880
+Now we are starting to break slowly.
+
+468
+00:28:02,880 --> 00:28:04,640
+We are starting to be
+
+469
+00:28:04,640 --> 00:28:08,720
+good me which part I have
+where I can keep all the non java stuff
+
+470
+00:28:14,320 --> 00:28:16,320
+and the resources
+
+471
+00:28:16,320 --> 00:28:22,920
+and the resources.
+
+472
+00:28:22,920 --> 00:28:25,600
+Fine. So let me do one thing.
+
+473
+00:28:26,400 --> 00:28:30,960
+If you see I have features, I have config,
+I'm going to create one of the default
+
+474
+00:28:31,560 --> 00:28:34,440
+and I'm going to create another directly
+component
+
+475
+00:28:37,680 --> 00:28:39,080
+is data
+
+476
+00:28:39,440 --> 00:28:40,440
+release.
+
+477
+00:28:41,000 --> 00:28:45,880
+I created another pool
+directly under resources called this data.
+
+478
+00:28:45,880 --> 00:28:49,800
+The reason behind
+this is because in this disaster now
+
+479
+00:28:50,000 --> 00:28:53,880
+I can have an Excel point
+or I can have multiple exceptions
+
+480
+00:28:53,880 --> 00:28:56,680
+to bring me on the situation
+depending on the request.
+
+481
+00:28:56,680 --> 00:29:01,240
+Because if I keep only one Excel point
+here, then obviously it is of no point,
+
+482
+00:29:01,240 --> 00:29:05,040
+no use because no multiple examples
+would make this resource structure
+
+483
+00:29:05,040 --> 00:29:06,200
+complex way.
+
+484
+00:29:06,200 --> 00:29:09,160
+So I need to have separate position,
+separate
+
+485
+00:29:09,160 --> 00:29:11,440
+location for separate kind of things.
+
+486
+00:29:12,040 --> 00:29:12,680
+All right.
+
+487
+00:29:12,680 --> 00:29:15,640
+And in save this particular I can provide
+
+488
+00:29:15,640 --> 00:29:19,160
+my Excel point.
+
+489
+00:29:19,160 --> 00:29:20,880
+It's not going feature on us.
+
+490
+00:29:20,880 --> 00:29:25,920
+It started will be to expand
+independent resources.
+
+491
+00:29:25,920 --> 00:29:28,680
+You'll see if it wasn't a feature
+it should be.
+
+492
+00:29:28,680 --> 00:29:31,080
+And this under feature it should again.
+
+493
+00:29:31,080 --> 00:29:33,520
+But it is in the same line
+with the feature
+
+494
+00:29:34,200 --> 00:29:36,840
+I hope is
+you know how to read this header,
+
+495
+00:29:36,840 --> 00:29:39,360
+how we can observe this error
+in everything in the project.
+
+496
+00:29:39,720 --> 00:29:40,440
+Everyone knows it.
+
+497
+00:29:40,440 --> 00:29:45,480
+Great, simple book.
+
+498
+00:29:45,800 --> 00:29:48,880
+So now, now remember we have
+
+499
+00:29:52,000 --> 00:29:54,960
+we have
+two versions rate of Excel in mind.
+
+500
+00:29:54,960 --> 00:29:59,360
+The first is DAW excellence
+and second is DAW excellence.
+
+501
+00:29:59,360 --> 00:30:02,160
+It's these are two for amount of Excel
+we all have.
+
+502
+00:30:03,040 --> 00:30:06,960
+We only started this to excel points
+and not only not excellence
+
+503
+00:30:06,960 --> 00:30:09,640
+and not excellence,
+everyone is available this
+
+504
+00:30:11,720 --> 00:30:14,600
+nowadays in the latest in of this we use
+
+505
+00:30:15,680 --> 00:30:17,400
+we use which one
+
+506
+00:30:20,240 --> 00:30:22,080
+majority of bunch we use both
+
+507
+00:30:22,080 --> 00:30:24,560
+Excel is ex getting
+
+508
+00:30:26,480 --> 00:30:28,440
+by and so here also with it
+
+509
+00:30:28,440 --> 00:30:32,760
+I use both nice silver
+jack of almost four month clean.
+
+510
+00:30:33,320 --> 00:30:37,760
+So now dart excel s extra
+we are going to use here.
+
+511
+00:30:38,520 --> 00:30:39,280
+Let's see.
+
+512
+00:30:39,280 --> 00:30:43,760
+But if your Microsoft office
+is the older one right
+
+513
+00:30:44,120 --> 00:30:47,040
+and you guys are using the word Excel
+this time to probably point
+
+514
+00:30:47,160 --> 00:30:48,400
+well, we should change that.
+
+515
+00:30:48,400 --> 00:30:50,760
+I reached any rate in our code.
+
+516
+00:30:50,760 --> 00:30:52,200
+So let's start.
+
+517
+00:30:52,440 --> 00:30:56,320
+Let me prepare one excellent post.
+
+518
+00:30:56,320 --> 00:30:59,760
+So let me open the exam. Find this
+
+519
+00:31:03,840 --> 00:31:05,760
+fine line.
+
+520
+00:31:05,760 --> 00:31:08,560
+So let me create a new exemplar control
+
+521
+00:31:08,760 --> 00:31:13,480
+and now I'm going to provide I'm
+going to provide the data
+
+522
+00:31:14,040 --> 00:31:21,640
+by voting support, check
+how to district come up.
+
+523
+00:31:21,640 --> 00:31:23,280
+You mean this one?
+
+524
+00:31:23,280 --> 00:31:24,000
+Well, you
+
+525
+00:31:25,920 --> 00:31:26,880
+simply right
+
+526
+00:31:26,880 --> 00:31:30,840
+click on resources
+and you going to directly
+
+527
+00:31:31,040 --> 00:31:34,600
+and rate is required
+and then it can use this data.
+
+528
+00:31:34,840 --> 00:31:38,880
+So now whatever the excel
+by which we will be using to master data,
+
+529
+00:31:39,120 --> 00:31:41,520
+we will keep all those exit points here.
+
+530
+00:31:42,120 --> 00:31:46,320
+Okay. So
+
+531
+00:31:47,520 --> 00:31:51,760
+any name.
+
+532
+00:31:51,760 --> 00:31:52,440
+Right?
+
+533
+00:31:52,520 --> 00:31:55,640
+So now, guys,
+let's prepare the district of Post
+
+534
+00:31:56,040 --> 00:32:00,480
+and now to prepare their district
+that we must know the scenario
+
+535
+00:32:00,600 --> 00:32:02,080
+which we would be using.
+
+536
+00:32:02,080 --> 00:32:04,680
+So let's talk about this scenario first.
+
+537
+00:32:04,680 --> 00:32:06,680
+I would go here
+
+538
+00:32:07,440 --> 00:32:11,600
+even as do I need to pull the enemy
+username and password from that particular
+
+539
+00:32:20,720 --> 00:32:21,480
+base?
+
+540
+00:32:21,480 --> 00:32:25,440
+Do I need to pass admin username
+and password to simply know
+
+541
+00:32:25,480 --> 00:32:28,120
+it is a one time activity
+which I am dealing already with
+
+542
+00:32:28,680 --> 00:32:31,120
+and paid with my configured properties?
+
+543
+00:32:31,120 --> 00:32:32,120
+Fine. So I didn't.
+
+544
+00:32:32,120 --> 00:32:34,560
+I don't need the password
+for my particular
+
+545
+00:32:34,960 --> 00:32:38,120
+by the data
+which I would be using every now and then.
+
+546
+00:32:38,120 --> 00:32:40,640
+Made for news
+and where the value would be.
+
+547
+00:32:40,640 --> 00:32:44,120
+Large bank. But I need to pass from Excel.
+
+548
+00:32:44,160 --> 00:32:47,760
+But the upfront rate.
+
+549
+00:32:47,960 --> 00:32:48,960
+So now
+
+550
+00:32:49,600 --> 00:32:52,040
+what I'm see is basically I need to pay
+
+551
+00:32:52,160 --> 00:32:55,080
+the employee getting
+
+552
+00:32:55,080 --> 00:32:58,440
+credits, I need to add the employee.
+
+553
+00:32:58,680 --> 00:33:02,360
+So when I'm going to add employee,
+I need to pass force to me,
+
+554
+00:33:03,480 --> 00:33:07,320
+I need to pass,
+I need must be asked to me.
+
+555
+00:33:07,920 --> 00:33:12,280
+This time we will provide for do but
+photograph visible.
+
+556
+00:33:12,440 --> 00:33:13,200
+All right.
+
+557
+00:33:13,200 --> 00:33:18,840
+So we will upload the photograph
+also will select this create login details
+
+558
+00:33:19,560 --> 00:33:25,160
+will provide username password, confirm
+password and then will simply separate it.
+
+559
+00:33:27,240 --> 00:33:29,040
+Okay.
+
+560
+00:33:29,040 --> 00:33:30,200
+I hope you understand my point.
+
+561
+00:33:30,200 --> 00:33:33,520
+What I'm excluding whatever the are
+there needs to be able to save me.
+
+562
+00:33:33,920 --> 00:33:36,960
+We are sending
+mostly we are sending within them.
+
+563
+00:33:36,960 --> 00:33:38,640
+We are sending last two names.
+
+564
+00:33:38,640 --> 00:33:42,880
+We are sending photo that we are taking on
+to create login details checkbox.
+
+565
+00:33:43,120 --> 00:33:46,200
+Then we will enter the username password
+convoke password
+
+566
+00:33:46,440 --> 00:33:50,400
+and then we will click on Save
+and that's how we add the employee.
+
+567
+00:33:50,400 --> 00:33:51,400
+This time
+
+568
+00:33:52,600 --> 00:33:54,360
+it is going to be one
+
+569
+00:34:00,000 --> 00:34:02,400
+nice.
+
+570
+00:34:02,400 --> 00:34:05,360
+So let's go ahead and do it
+
+571
+00:34:05,840 --> 00:34:06,280
+with is.
+
+572
+00:34:06,280 --> 00:34:09,440
+My ex implied that this is my exit
+
+573
+00:34:10,640 --> 00:34:12,480
+from external. Right.
+
+574
+00:34:12,480 --> 00:34:13,640
+Right right.
+
+575
+00:34:13,640 --> 00:34:15,800
+But real employee. Correct.
+
+576
+00:34:17,120 --> 00:34:20,480
+So now the first thing I'm going to write
+it is mine
+
+577
+00:34:20,680 --> 00:34:26,480
+forced me.
+
+578
+00:34:26,480 --> 00:34:29,000
+The second one is mine,
+
+579
+00:34:29,000 --> 00:34:33,120
+isn't it?
+
+580
+00:34:33,120 --> 00:34:40,160
+The third one is my last name.
+
+581
+00:34:40,160 --> 00:34:41,960
+Then the fourth look is mine
+
+582
+00:34:43,440 --> 00:34:47,800
+for the Ram.
+
+583
+00:34:47,800 --> 00:34:50,720
+That is the remote point. What?
+I'm doing it.
+
+584
+00:34:50,720 --> 00:34:53,360
+Then it would be my username
+
+585
+00:34:56,040 --> 00:34:58,680
+and the last one would be my password.
+
+586
+00:35:00,400 --> 00:35:02,760
+So I need to pass anything for logging
+
+587
+00:35:02,760 --> 00:35:08,400
+checkboxes here.
+
+588
+00:35:08,400 --> 00:35:10,400
+No need to pass anything for checkbox.
+Norm.
+
+589
+00:35:11,320 --> 00:35:14,640
+Do you think that we need to pass
+or confirm password field as well
+
+590
+00:35:15,040 --> 00:35:20,400
+in exit by?
+
+591
+00:35:20,400 --> 00:35:24,440
+Because whatever the things we are passing
+in, our password rate does seem to
+
+592
+00:35:24,440 --> 00:35:25,240
+be killed by something.
+
+593
+00:35:25,240 --> 00:35:26,880
+The password is well, same as password.
+
+594
+00:35:26,880 --> 00:35:28,080
+We can use.
+
+595
+00:35:28,320 --> 00:35:30,600
+But then why do it unnecessarily?
+
+596
+00:35:30,600 --> 00:35:32,840
+When instructed, we can use the same.
+
+597
+00:35:33,120 --> 00:35:35,120
+Right? Exactly.
+
+598
+00:35:35,120 --> 00:35:37,600
+Now, now let's create
+
+599
+00:35:37,600 --> 00:35:41,080
+a user security force
+name with an impossibility.
+
+600
+00:35:41,600 --> 00:35:44,800
+So first name will be alone. And Aisha.
+
+601
+00:35:44,800 --> 00:35:46,720
+So it would be Alicia.
+
+602
+00:35:46,720 --> 00:35:47,960
+This would be the first name
+
+603
+00:35:49,240 --> 00:35:51,400
+is always be Ms..
+
+604
+00:35:51,400 --> 00:35:57,120
+It is no better than this for Milena.
+
+605
+00:35:57,120 --> 00:35:59,120
+And then the last name will be
+
+606
+00:36:02,880 --> 00:36:03,200
+the Ms.
+
+607
+00:36:03,200 --> 00:36:12,080
+nine and both have in it
+and a definite trade in the last.
+
+608
+00:36:12,080 --> 00:36:14,760
+So now, even if I mix
+
+609
+00:36:14,760 --> 00:36:17,480
+it, it could be seen
+
+610
+00:36:18,600 --> 00:36:21,640
+for a and with the same
+
+611
+00:36:22,640 --> 00:36:25,760
+photograph part trade photograph by trade.
+
+612
+00:36:26,000 --> 00:36:28,160
+Just to keep it, keep it like this.
+
+613
+00:36:28,160 --> 00:36:30,200
+I will tell you what to do
+with the photographs.
+
+614
+00:36:30,560 --> 00:36:31,920
+Also.
+
+615
+00:36:31,920 --> 00:36:34,440
+Then the user name would be here.
+
+616
+00:36:34,440 --> 00:36:36,480
+The user name would be should be open.
+
+617
+00:36:36,480 --> 00:36:39,280
+Excellent volume
+if you want to. Sebastian.
+
+618
+00:36:39,280 --> 00:36:40,720
+You can also you can do this.
+
+619
+00:36:40,720 --> 00:36:46,080
+No issues, but in the end you will get it.
+
+620
+00:36:46,080 --> 00:36:50,800
+See the last four words of someone's
+name, right is the complete name and
+
+621
+00:36:54,080 --> 00:36:55,120
+unusual almost.
+
+622
+00:36:55,120 --> 00:36:56,160
+Really? Yes.
+
+623
+00:36:56,160 --> 00:37:01,920
+Or one I know.
+
+624
+00:37:01,920 --> 00:37:04,200
+All right, so now the username.
+
+625
+00:37:04,200 --> 00:37:08,560
+I'm going to grow a trade, so make sure
+that this username must not exist there.
+
+626
+00:37:08,800 --> 00:37:10,120
+There's white indentured.
+
+627
+00:37:10,120 --> 00:37:19,440
+I provide this kind of name so that
+my data don't match their contract, but
+
+628
+00:37:20,840 --> 00:37:27,880
+whenever I meet them, I.
+
+629
+00:37:27,880 --> 00:37:31,360
+Okay, so now let's take the username
+and password.
+
+630
+00:37:31,360 --> 00:37:34,400
+So here I'm thinking for these below show.
+
+631
+00:37:34,400 --> 00:37:35,400
+One, two, three.
+
+632
+00:37:35,400 --> 00:37:37,880
+The username and password would be
+
+633
+00:37:42,600 --> 00:37:43,360
+one, two, three,
+
+634
+00:37:43,360 --> 00:37:46,560
+four, five,
+and then the password would be replaced.
+
+635
+00:37:47,240 --> 00:37:48,120
+It's based.
+
+636
+00:37:48,120 --> 00:37:54,240
+One, two, three, exclamation mark.
+
+637
+00:37:54,240 --> 00:37:58,160
+Now the only thing remaining here,
+the only thing remaining here
+
+638
+00:37:58,160 --> 00:38:00,200
+is the photograph getting
+
+639
+00:38:02,400 --> 00:38:03,400
+selected.
+
+640
+00:38:03,440 --> 00:38:06,560
+So how we generally buzz
+the photograph in know exactly.
+
+641
+00:38:07,440 --> 00:38:10,560
+But we need to post the bad photograph.
+
+642
+00:38:10,840 --> 00:38:13,200
+Yes, yes, yes. Correct.
+
+643
+00:38:13,200 --> 00:38:17,760
+So unfortunately, I do not have any
+images of its downloaded post
+
+644
+00:38:27,440 --> 00:38:28,880
+of images
+
+645
+00:38:31,160 --> 00:38:31,920
+of the images.
+
+646
+00:38:31,920 --> 00:38:33,800
+Lipstick. Anyone from here?
+
+647
+00:38:33,800 --> 00:38:34,920
+Maybe
+
+648
+00:38:36,480 --> 00:38:37,520
+like this? Something.
+
+649
+00:38:37,520 --> 00:38:40,440
+So this one
+
+650
+00:38:43,880 --> 00:38:47,640
+and save the image.
+
+651
+00:38:48,960 --> 00:38:51,320
+So which format we need GBG.
+
+652
+00:38:51,640 --> 00:38:55,440
+I will take the GBG one
+and let's keep it in the download.
+
+653
+00:38:55,440 --> 00:38:57,440
+The name of the image would be badge
+
+654
+00:38:59,200 --> 00:39:02,640
+image, the image of the Bachelor.
+
+655
+00:39:02,640 --> 00:39:04,720
+When this very political
+
+656
+00:39:10,480 --> 00:39:12,800
+not wanted to exist or gbg
+
+657
+00:39:12,840 --> 00:39:16,880
+image point record
+this image is not really.
+
+658
+00:39:16,960 --> 00:39:20,520
+We have this particular image. Mm.
+
+659
+00:39:21,240 --> 00:39:21,720
+Nice one.
+
+660
+00:39:21,720 --> 00:39:23,760
+Someone use this one
+
+661
+00:39:24,160 --> 00:39:26,360
+is a take it from here.
+
+662
+00:39:26,640 --> 00:39:28,160
+Right. And
+
+663
+00:39:28,720 --> 00:39:30,920
+would be listed here
+
+664
+00:39:30,920 --> 00:39:33,600
+now can you see this actually
+would be image behavior on my text.
+
+665
+00:39:33,600 --> 00:39:34,440
+Always
+
+666
+00:39:38,080 --> 00:39:38,240
+going
+
+667
+00:39:40,000 --> 00:39:40,320
+be one.
+
+668
+00:39:40,320 --> 00:39:46,400
+See this particular part.
+
+669
+00:39:46,400 --> 00:39:47,040
+Right.
+
+670
+00:39:47,520 --> 00:39:52,160
+I have to provide the body of this image
+in my excellent Right.
+
+671
+00:39:52,480 --> 00:39:53,880
+So how to get the path of this.
+
+672
+00:39:53,880 --> 00:39:55,640
+In which case when should I go
+
+673
+00:40:00,120 --> 00:40:00,360
+this?
+
+674
+00:40:00,360 --> 00:40:02,680
+Should I go to get the bad
+
+675
+00:40:03,440 --> 00:40:04,080
+properties?
+
+676
+00:40:04,080 --> 00:40:05,200
+Thank you, sir.
+
+677
+00:40:05,560 --> 00:40:08,960
+You see here
+it says this is the bottom, right?
+
+678
+00:40:08,960 --> 00:40:10,560
+This is the board.
+
+679
+00:40:10,560 --> 00:40:13,920
+And here I have to provide the name
+with the extension.
+
+680
+00:40:14,000 --> 00:40:14,360
+Right.
+
+681
+00:40:14,360 --> 00:40:19,080
+So we take this particular path from here.
+
+682
+00:40:19,080 --> 00:40:20,160
+Okay?
+
+683
+00:40:20,240 --> 00:40:21,120
+No reason why.
+
+684
+00:40:21,120 --> 00:40:22,880
+Excuse, I.
+
+685
+00:40:23,400 --> 00:40:24,960
+I have to go in my exit.
+
+686
+00:40:24,960 --> 00:40:29,360
+I will be used to this particular block.
+
+687
+00:40:29,360 --> 00:40:32,000
+Is this the complete board
+or do any to do anything else here?
+
+688
+00:40:32,000 --> 00:40:33,960
+This can
+
+689
+00:40:34,080 --> 00:40:35,440
+slash
+
+690
+00:40:36,840 --> 00:40:38,960
+image talk
+
+691
+00:40:38,960 --> 00:40:42,240
+g b g name of the file with extension.
+
+692
+00:40:42,720 --> 00:40:46,720
+So now if you see I have this
+match element image right.
+
+693
+00:40:46,920 --> 00:40:49,000
+Would really name would simply image
+
+694
+00:41:06,200 --> 00:41:07,800
+image file.
+
+695
+00:41:07,800 --> 00:41:09,840
+So this is that image or gbg
+
+696
+00:41:13,800 --> 00:41:14,880
+copy is part of it.
+
+697
+00:41:14,880 --> 00:41:16,240
+Right click by the gentleman.
+
+698
+00:41:16,240 --> 00:41:18,040
+But everyone is not using this right.
+
+699
+00:41:18,040 --> 00:41:19,400
+So that's why I have to read this
+
+700
+00:41:20,560 --> 00:41:21,080
+image.
+
+701
+00:41:21,080 --> 00:41:23,120
+Don't you be? Is this the correct one?
+
+702
+00:41:23,560 --> 00:41:26,240
+People might be having Windows
+eight, Windows eight.
+
+703
+00:41:26,280 --> 00:41:26,760
+Right.
+
+704
+00:41:26,760 --> 00:41:31,200
+So for them also, I need to take, you
+know, there's going to be a single person.
+
+705
+00:41:31,200 --> 00:41:33,960
+Everyone can understand the things.
+
+706
+00:41:33,960 --> 00:41:37,000
+If I'm one of those vendors
+of an operating system,
+
+707
+00:41:37,000 --> 00:41:40,360
+we people who are using
+the little logins, right.
+
+708
+00:41:40,360 --> 00:41:43,160
+They might be having the problem
+or the older the problem
+
+709
+00:41:44,720 --> 00:41:47,760
+now is create looks created.
+
+710
+00:41:48,000 --> 00:41:49,320
+Thank you, sir.
+
+711
+00:41:49,840 --> 00:41:51,360
+Do you want to
+
+712
+00:41:51,720 --> 00:41:53,760
+take another image
+for on that user of the scene
+
+713
+00:41:53,760 --> 00:41:57,720
+which we can use
+whatever the other user, any
+
+714
+00:41:57,800 --> 00:41:58,920
+similarly we can use?
+
+715
+00:41:58,920 --> 00:42:01,920
+Or do we need to remove symbol for
+
+716
+00:42:02,920 --> 00:42:06,000
+one, let's take the neutral name.
+
+717
+00:42:06,520 --> 00:42:10,120
+It would be Silva plus Marina, Silvana
+
+718
+00:42:16,600 --> 00:42:17,000
+Right.
+
+719
+00:42:17,400 --> 00:42:19,480
+And middle name is always the best one. We
+
+720
+00:42:20,560 --> 00:42:23,080
+but the last name be
+
+721
+00:42:31,920 --> 00:42:33,000
+along
+
+722
+00:42:35,440 --> 00:42:35,880
+the same.
+
+723
+00:42:35,880 --> 00:42:39,160
+But it would be
+
+724
+00:42:39,840 --> 00:42:42,440
+said one the near one
+
+725
+00:42:46,240 --> 00:42:48,520
+right it is
+
+726
+00:42:50,520 --> 00:43:01,360
+1235.
+
+727
+00:43:01,360 --> 00:43:03,600
+I can come up with new names. All right
+
+728
+00:43:04,880 --> 00:43:13,920
+then. Once
+
+729
+00:43:17,760 --> 00:43:19,560
+then after this.
+
+730
+00:43:19,560 --> 00:43:20,600
+The third employee.
+
+731
+00:43:20,600 --> 00:43:21,400
+The third employee.
+
+732
+00:43:21,400 --> 00:43:22,320
+We need
+
+733
+00:43:24,840 --> 00:43:27,120
+is So the third one
+
+734
+00:43:27,120 --> 00:43:31,120
+It with the grid is noble.
+
+735
+00:43:31,120 --> 00:43:32,520
+So Hanna thumb.
+
+736
+00:43:32,520 --> 00:43:34,760
+So see is going to
+
+737
+00:43:36,400 --> 00:43:38,800
+observe a nice fade.
+
+738
+00:43:39,000 --> 00:43:39,960
+Next take this.
+
+739
+00:43:39,960 --> 00:43:43,800
+So Hanna nice once you look mine only
+
+740
+00:43:46,200 --> 00:43:48,280
+in as Google using same image for the
+
+741
+00:43:51,000 --> 00:43:53,880
+oh five.
+
+742
+00:43:54,760 --> 00:43:57,520
+Audrey let's take this and then simply
+
+743
+00:43:58,800 --> 00:44:00,200
+we need to change this one.
+
+744
+00:44:00,200 --> 00:44:02,840
+So I'm changing it too.
+
+745
+00:44:02,960 --> 00:44:05,160
+So one, two, three, four, five.
+
+746
+00:44:06,480 --> 00:44:08,760
+For these three employees,
+we prepared this data.
+
+747
+00:44:08,920 --> 00:44:14,080
+Is this correct?
+
+748
+00:44:14,080 --> 00:44:17,000
+Let's now
+the very first thing I need to do is
+
+749
+00:44:17,000 --> 00:44:20,280
+let's change the name of this particular
+sheet from here.
+
+750
+00:44:21,000 --> 00:44:25,040
+So when I change the name of this sheet,
+I will provide this neat
+
+751
+00:44:25,440 --> 00:44:29,680
+name as I would name as employee data
+
+752
+00:44:29,880 --> 00:44:31,920
+because I want to add on the employee
+
+753
+00:44:32,840 --> 00:44:35,840
+copy,
+I need to add on the employment database.
+
+754
+00:44:37,680 --> 00:44:39,880
+So for any question how we prepare this,
+
+755
+00:44:39,880 --> 00:44:44,040
+this data and let's see,
+this file is excellent.
+
+756
+00:44:44,320 --> 00:44:48,120
+You see it is asking for the text
+unless it is asking for the text this.
+
+757
+00:44:48,600 --> 00:44:50,880
+So I'm going to save
+and it's not excellent.
+
+758
+00:44:50,880 --> 00:44:52,040
+It's fine.
+
+759
+00:44:52,080 --> 00:44:54,440
+And the name would be it's
+
+760
+00:44:55,280 --> 00:44:58,880
+taken.
+
+761
+00:44:58,880 --> 00:45:00,120
+Believe it, Jared.
+
+762
+00:45:00,120 --> 00:45:03,360
+It was fine.
+
+763
+00:45:03,360 --> 00:45:05,200
+Would be nice to
+
+764
+00:45:15,120 --> 00:45:15,560
+remain
+
+765
+00:45:17,400 --> 00:45:18,840
+documents
+
+766
+00:45:20,280 --> 00:45:22,400
+or big stock because it would take
+
+767
+00:45:23,200 --> 00:45:26,840
+yes it is an index to know what I'm doing.
+
+768
+00:45:26,840 --> 00:45:28,920
+I see. I'm simply copying.
+
+769
+00:45:29,040 --> 00:45:31,560
+I'm simply this particular part because.
+
+770
+00:45:32,520 --> 00:45:33,720
+Thank you, sir.
+
+771
+00:45:33,720 --> 00:45:38,640
+Because this file should be
+in my framework, not in my local machine.
+
+772
+00:45:39,120 --> 00:45:41,640
+But it right now
+it is in my local machine.
+
+773
+00:45:41,640 --> 00:45:44,400
+Does it make any sense
+to have this right on my local machine?
+
+774
+00:45:45,840 --> 00:45:49,240
+No, because tomorrow
+my goal will be in the repository.
+
+775
+00:45:49,240 --> 00:45:53,120
+My good will be in someone else's machine
+and then also they will use
+
+776
+00:45:53,120 --> 00:45:54,280
+the same database.
+
+777
+00:45:54,280 --> 00:45:58,560
+And we need to make everything
+organized, everything unique and uniform
+
+778
+00:45:58,560 --> 00:46:00,240
+across all the platforms.
+
+779
+00:46:00,240 --> 00:46:00,880
+Doesn't matter
+
+780
+00:46:00,880 --> 00:46:04,600
+which operating system we are using,
+which location we are in, right?
+
+781
+00:46:04,800 --> 00:46:06,560
+Every single thing doesn't matter.
+
+782
+00:46:06,560 --> 00:46:11,040
+But whenever I want to call this data,
+I should be able to call this data, right?
+
+783
+00:46:11,160 --> 00:46:16,880
+So that's why this fight
+must be having in my in my favor.
+
+784
+00:46:17,400 --> 00:46:18,440
+So let's go.
+
+785
+00:46:18,440 --> 00:46:23,440
+And simply copy this particular mine
+and pasted under your district apart
+
+786
+00:46:24,720 --> 00:46:27,440
+instead of like,
+see if this does their day job.
+
+787
+00:46:27,440 --> 00:46:28,560
+Every store in this.
+
+788
+00:46:28,560 --> 00:46:30,360
+Yes. Okay.
+
+789
+00:46:30,360 --> 00:46:31,760
+And Eric,
+
+790
+00:46:32,080 --> 00:46:34,200
+now you'll see I have this
+
+791
+00:46:34,200 --> 00:46:37,840
+decided that each mistakes
+the list explained here available in my
+
+792
+00:46:39,160 --> 00:46:39,640
+lists.
+
+793
+00:46:42,360 --> 00:46:44,960
+Anyone has any question in this part
+
+794
+00:46:45,760 --> 00:46:49,200
+why we kept to this particular example
+in the framework.
+
+795
+00:46:49,200 --> 00:46:50,640
+Is everyone good
+
+796
+00:46:56,200 --> 00:46:57,960
+for now?
+
+797
+00:46:57,960 --> 00:47:00,280
+First,
+let me give you the overall scenario.
+
+798
+00:47:00,280 --> 00:47:03,960
+What we are going to do, the function
+
+799
+00:47:04,200 --> 00:47:08,280
+see, we have four spec
+
+800
+00:47:11,160 --> 00:47:12,000
+to be
+
+801
+00:47:12,000 --> 00:47:15,200
+every last name,
+be a username and password.
+
+802
+00:47:16,320 --> 00:47:18,600
+Can you do it again
+please. I this to find.
+
+803
+00:47:18,640 --> 00:47:22,160
+So what you have to do is
+
+804
+00:47:24,720 --> 00:47:27,240
+go wherever your excel file is available.
+
+805
+00:47:27,800 --> 00:47:30,520
+Just right
+click on add fight or simply copy
+
+806
+00:47:30,520 --> 00:47:32,760
+the code simply copy the point.
+
+807
+00:47:33,560 --> 00:47:37,440
+When you copy this file from here,
+go to your intelligent.
+
+808
+00:47:37,440 --> 00:47:39,080
+What is your project with your project?
+
+809
+00:47:39,080 --> 00:47:43,560
+Development Goal input is data
+heart rate click and paste it.
+
+810
+00:47:43,560 --> 00:47:47,120
+Or simply, you can use concurrency control
+for Windows
+
+811
+00:47:47,120 --> 00:47:50,040
+one in command C command we put make once.
+
+812
+00:47:50,360 --> 00:47:51,680
+All right.
+
+813
+00:47:51,680 --> 00:48:02,520
+City.
+
+814
+00:48:02,520 --> 00:48:07,040
+The very human I was giving the name,
+I would have given you the name as Koroma
+
+815
+00:48:07,320 --> 00:48:08,200
+with the Katrina
+
+816
+00:48:11,040 --> 00:48:13,000
+this take
+
+817
+00:48:17,600 --> 00:48:20,880
+all right case
+
+818
+00:48:20,880 --> 00:48:23,400
+so now now here
+
+819
+00:48:23,400 --> 00:48:27,880
+see these are these are the keys
+I have provided in here.
+
+820
+00:48:27,880 --> 00:48:28,480
+Let's see.
+
+821
+00:48:28,480 --> 00:48:31,680
+I appropriate the values.
+
+822
+00:48:31,680 --> 00:48:33,360
+I'm just giving the random values going.
+
+823
+00:48:33,360 --> 00:48:33,960
+Okay.
+
+824
+00:48:34,160 --> 00:48:37,080
+So did you can see
+
+825
+00:48:42,560 --> 00:48:44,400
+is this looks like my ex
+
+826
+00:48:44,400 --> 00:48:48,640
+and we read the data which I'm passing
+from makes it like correct.
+
+827
+00:48:48,640 --> 00:48:51,640
+Is it same or not?
+
+828
+00:48:51,640 --> 00:48:53,120
+Now just imagine.
+
+829
+00:48:53,120 --> 00:48:54,720
+Just imagine the concept.
+
+830
+00:48:54,720 --> 00:48:57,000
+Somehow you have a three for now.
+
+831
+00:48:57,080 --> 00:49:00,960
+Just there's been a noisy
+way is the concept of data table
+
+832
+00:49:02,880 --> 00:49:04,160
+in detail also
+
+833
+00:49:04,160 --> 00:49:07,200
+when passing the key and value data.
+
+834
+00:49:07,200 --> 00:49:10,200
+Also we were getting one map correct
+
+835
+00:49:12,800 --> 00:49:14,040
+correctly.
+
+836
+00:49:14,120 --> 00:49:16,240
+We were getting a map
+from every single room.
+
+837
+00:49:16,360 --> 00:49:20,680
+Remember he's coming from here, values
+coming from here.
+
+838
+00:49:20,840 --> 00:49:21,360
+Right?
+
+839
+00:49:21,360 --> 00:49:24,600
+And when we talk about key
+and value, it creates a map.
+
+840
+00:49:25,920 --> 00:49:27,360
+It creates the map.
+
+841
+00:49:27,360 --> 00:49:30,080
+But the problem is now the
+what is the problem?
+
+842
+00:49:30,080 --> 00:49:33,240
+The problem is when we were actually using
+
+843
+00:49:33,400 --> 00:49:36,320
+art or detectible,
+right in that detective,
+
+844
+00:49:36,720 --> 00:49:42,400
+we had all these things be implemented,
+we had all these things pre implemented.
+
+845
+00:49:42,640 --> 00:49:44,000
+But as a pre implemented,
+
+846
+00:49:44,000 --> 00:49:47,800
+it means the function was already building
+function, right?
+
+847
+00:49:48,040 --> 00:49:51,600
+So we were not actually
+writing the function,
+
+848
+00:49:51,800 --> 00:49:55,200
+but we were simply implementing
+the function, calling that function.
+
+849
+00:49:55,440 --> 00:49:57,680
+But now this, the menu is different.
+
+850
+00:49:57,680 --> 00:50:01,320
+This time we have to write this function
+to parse the data
+
+851
+00:50:01,440 --> 00:50:04,320
+from our excel by not actual script.
+
+852
+00:50:04,560 --> 00:50:07,000
+There's what we need to do
+on our own coding.
+
+853
+00:50:07,280 --> 00:50:11,880
+And to do this, we need to put this
+how we can create this particular part.
+
+854
+00:50:12,960 --> 00:50:17,360
+Okay, so first
+we have to get onto already this data
+
+855
+00:50:17,360 --> 00:50:21,280
+in Excel by now we will create
+a global function to read that.
+
+856
+00:50:21,280 --> 00:50:23,880
+It doesn't matter
+how many boots I would be having,
+
+857
+00:50:24,160 --> 00:50:26,520
+how many drawers,
+how many columns and everything.
+
+858
+00:50:27,320 --> 00:50:30,640
+Just one function will identify this
+and that function.
+
+859
+00:50:30,640 --> 00:50:33,920
+We definitely read the data for me
+from my cell phone.
+
+860
+00:50:34,480 --> 00:50:35,520
+I wrote Case,
+
+861
+00:50:35,520 --> 00:50:40,040
+so we are going to write that particular
+function, how things will work there.
+
+862
+00:50:40,200 --> 00:50:43,920
+That's what I'm going to spend you
+now first with this example
+
+863
+00:50:44,200 --> 00:50:46,040
+and then when we see this example,
+
+864
+00:50:46,040 --> 00:50:49,560
+then only we will proceed further
+and we see how things are going to work.
+
+865
+00:50:49,960 --> 00:50:54,800
+Okay, Is this okay to everyone? Want
+
+866
+00:51:04,320 --> 00:51:05,280
+nice.
+
+867
+00:51:05,280 --> 00:51:06,880
+So now see,
+
+868
+00:51:07,120 --> 00:51:08,400
+now see,
+
+869
+00:51:08,840 --> 00:51:10,160
+this rule
+
+870
+00:51:10,520 --> 00:51:12,920
+is your key.
+
+871
+00:51:12,920 --> 00:51:15,920
+This rule is your window
+
+872
+00:51:15,920 --> 00:51:17,760
+bistro again.
+
+873
+00:51:17,760 --> 00:51:22,520
+Similarly, if one more rule,
+it means also one more value.
+
+874
+00:51:22,520 --> 00:51:23,760
+So remember one thing.
+
+875
+00:51:23,760 --> 00:51:27,120
+If you observe,
+if you can see here, you're one
+
+876
+00:51:27,480 --> 00:51:30,720
+that is your key is always constraint.
+
+877
+00:51:31,200 --> 00:51:35,160
+It means your key is on risk
+coming from just one rule.
+
+878
+00:51:35,880 --> 00:51:38,080
+Every name values are changing.
+
+879
+00:51:38,080 --> 00:51:42,800
+Three would be level d
+d 30 defaulting deep.
+
+880
+00:51:43,080 --> 00:51:44,200
+And so on.
+
+881
+00:51:44,240 --> 00:51:49,080
+This particular part, this particular part
+is always unique, right?
+
+882
+00:51:49,840 --> 00:51:54,800
+So we can provide the value for this one
+and then yes, got it.
+
+883
+00:51:55,080 --> 00:51:59,480
+And then for every single rule, when will
+I treat it will give me the values.
+
+884
+00:51:59,760 --> 00:52:03,480
+So these will come
+always from the same point,
+
+885
+00:52:03,600 --> 00:52:07,200
+but every time values will come
+from the different points.
+
+886
+00:52:07,200 --> 00:52:12,280
+Great values will come first from B1, B2,
+then B3, then reboot, etc.
+
+887
+00:52:12,480 --> 00:52:15,040
+Based on the number of lines here. Great.
+
+888
+00:52:17,280 --> 00:52:20,880
+Understood what z 20.
+
+889
+00:52:21,840 --> 00:52:23,400
+Now here, here.
+
+890
+00:52:23,400 --> 00:52:27,720
+Let me tell you another important point,
+because when this point is clear
+
+891
+00:52:27,720 --> 00:52:31,320
+how we're going to take the data
+right in the form of G in the loop here.
+
+892
+00:52:31,560 --> 00:52:34,600
+So these will be constant
+values would be changing everything.
+
+893
+00:52:34,640 --> 00:52:37,600
+For the second thing here,
+what is more important,
+
+894
+00:52:37,600 --> 00:52:42,920
+see how to read every single detail
+from every single.
+
+895
+00:52:43,000 --> 00:52:47,400
+Remember, first we have Excel workbook,
+
+896
+00:52:48,600 --> 00:52:51,680
+what we have Excel file,
+we call it Workbook
+
+897
+00:52:54,400 --> 00:52:55,520
+release.
+
+898
+00:52:55,600 --> 00:52:58,720
+Now, like I said, in automation,
+we have to do
+
+899
+00:52:59,280 --> 00:53:03,960
+what automation wants,
+what we need to do way automation.
+
+900
+00:53:03,960 --> 00:53:08,480
+Your automation doesn't know
+in this workbook you have so many sheets
+
+901
+00:53:08,840 --> 00:53:11,520
+from which we have to read it.
+
+902
+00:53:12,400 --> 00:53:15,280
+So the ready force thing,
+what we have to do, we have to look in
+
+903
+00:53:15,320 --> 00:53:16,920
+this workbook in our code.
+
+904
+00:53:18,200 --> 00:53:19,840
+To my point,
+
+905
+00:53:19,840 --> 00:53:23,200
+we have to locate this workbook
+in our code.
+
+906
+00:53:23,200 --> 00:53:27,840
+Second thing in this workbook,
+if you see a lot of small
+
+907
+00:53:27,840 --> 00:53:31,360
+sheet names available here,
+we're deploying the name code employee.
+
+908
+00:53:31,360 --> 00:53:36,200
+Did the grade, so we have to build hey,
+going to this particular workbook
+
+909
+00:53:36,480 --> 00:53:40,480
+and in this particular workbook
+go into this particular worksheet
+
+910
+00:53:41,440 --> 00:53:42,240
+because my need to be
+
+911
+00:53:42,240 --> 00:53:45,680
+I can have the same kind of data
+in some other worksheet as well.
+
+912
+00:53:45,960 --> 00:53:49,280
+But your code will not want to read
+anything like this, right?
+
+913
+00:53:49,440 --> 00:53:52,560
+We have Google what to read,
+what part you need, read this.
+
+914
+00:53:52,800 --> 00:53:55,320
+So first we will locate the workbook.
+
+915
+00:53:56,040 --> 00:53:59,280
+Inside
+the workbook will locate the worksheet.
+
+916
+00:53:59,640 --> 00:54:03,360
+Inside the worksheet
+we will provide this rule
+
+917
+00:54:03,600 --> 00:54:07,520
+where we are having all the keys,
+all the keys played,
+
+918
+00:54:07,880 --> 00:54:11,320
+and then we will provide the data
+for all the rules.
+
+919
+00:54:11,320 --> 00:54:13,320
+We will be having all the values.
+
+920
+00:54:13,320 --> 00:54:17,600
+So remember for reading the data,
+for reading the data
+
+921
+00:54:17,600 --> 00:54:21,800
+and getting the physical number
+of rules we have a function
+
+922
+00:54:22,800 --> 00:54:25,400
+for getting the physical number of rules.
+
+923
+00:54:25,400 --> 00:54:27,280
+How many rules are available?
+
+924
+00:54:27,280 --> 00:54:28,600
+We have the function,
+
+925
+00:54:28,600 --> 00:54:32,080
+but we do not have a function,
+but physical number of columns.
+
+926
+00:54:32,960 --> 00:54:35,520
+For physical number of columns,
+we do not have a function.
+
+927
+00:54:35,760 --> 00:54:38,400
+So how we will do it,
+I will tell you in the function.
+
+928
+00:54:38,400 --> 00:54:40,960
+But right now I'm
+just giving you the overview.
+
+929
+00:54:40,960 --> 00:54:45,240
+Things which we are going to implement
+is first we will identify
+
+930
+00:54:45,240 --> 00:54:49,440
+Workbook three,
+then we will identify worksheet in their,
+
+931
+00:54:49,680 --> 00:54:54,480
+we will read the data for all the keys,
+all the rules in terms of math.
+
+932
+00:54:54,800 --> 00:54:57,720
+So now, now see, when I have this
+
+933
+00:54:57,720 --> 00:54:59,880
+particular key force to read
+
+934
+00:55:00,720 --> 00:55:08,400
+because it is part.
+
+935
+00:55:08,400 --> 00:55:12,560
+So now if you see
+my first rule is return me first
+
+936
+00:55:14,520 --> 00:55:17,480
+met one great map, one using the key.
+
+937
+00:55:17,480 --> 00:55:20,240
+And when you read
+from this particular room
+
+938
+00:55:21,240 --> 00:55:23,520
+next time in the next position
+
+939
+00:55:23,800 --> 00:55:27,840
+when it will return the values,
+it will return the value from this rule.
+
+940
+00:55:28,120 --> 00:55:31,600
+So my map will also be having
+key and value.
+
+941
+00:55:32,880 --> 00:55:37,800
+It will also be have a key
+and then the correct.
+
+942
+00:55:37,800 --> 00:55:41,280
+Is this correct?
+
+943
+00:55:41,280 --> 00:55:44,040
+So every row is returning one
+particular map.
+
+944
+00:55:44,760 --> 00:55:47,040
+If it was returning one particular map
+or not,
+
+945
+00:55:47,080 --> 00:55:50,400
+big keys always seem
+like value is different for us.
+
+946
+00:55:50,520 --> 00:55:52,440
+It is coming from one second.
+
+947
+00:55:52,440 --> 00:55:54,160
+It is coming from we would.
+
+948
+00:55:54,160 --> 00:55:55,000
+Yes, correct.
+
+949
+00:55:55,000 --> 00:55:57,880
+And every rule is returning the new web.
+
+950
+00:55:58,680 --> 00:56:00,920
+Now, what is the problem here?
+
+951
+00:56:00,920 --> 00:56:04,320
+If I don't stay this map anywhere
+
+952
+00:56:04,800 --> 00:56:07,680
+next time, if it returns the new map.
+
+953
+00:56:07,920 --> 00:56:12,720
+So this map will overwrite the old.
+
+954
+00:56:12,720 --> 00:56:13,520
+I think
+
+955
+00:56:14,760 --> 00:56:16,600
+if I look see then what would happen
+
+956
+00:56:16,600 --> 00:56:19,360
+if I take the over rate simply replaced.
+
+957
+00:56:19,640 --> 00:56:24,000
+So before getting and reading data
+from this, they can rule.
+
+958
+00:56:24,320 --> 00:56:26,520
+First I have to get this map
+
+959
+00:56:26,520 --> 00:56:30,120
+and then I have to add this member state,
+this map somewhere.
+
+960
+00:56:30,840 --> 00:56:37,680
+So how we will read,
+we can take map 1.17 and then map two,
+
+961
+00:56:38,160 --> 00:56:40,560
+then see, then map three,
+
+962
+00:56:40,920 --> 00:56:44,040
+then see if and so on and so on.
+
+963
+00:56:44,280 --> 00:56:44,840
+Read this.
+
+964
+00:56:46,560 --> 00:56:49,520
+So when I see this same option,
+it simply means
+
+965
+00:56:49,520 --> 00:56:54,000
+I need multiple maps in one place,
+one map to remember.
+
+966
+00:56:54,000 --> 00:56:57,080
+It's one depending on the dataset
+I will do, provided
+
+967
+00:56:57,320 --> 00:56:59,840
+I read all of these maps there.
+
+968
+00:57:00,280 --> 00:57:00,840
+Right.
+
+969
+00:57:00,840 --> 00:57:05,560
+So to get all of these maps in one place,
+which point of collection
+
+970
+00:57:05,560 --> 00:57:14,640
+I can use here from Java.
+
+971
+00:57:14,640 --> 00:57:19,400
+Yes, we can use here list read.
+
+972
+00:57:19,400 --> 00:57:22,680
+What we can use here is
+
+973
+00:57:24,840 --> 00:57:26,960
+we can use this list.
+
+974
+00:57:26,960 --> 00:57:29,680
+So in this list of map, right
+
+975
+00:57:29,920 --> 00:57:34,920
+where I would be having de comma value,
+but it is free trade.
+
+976
+00:57:35,120 --> 00:57:37,680
+And then I would be using your classic
+ABC function.
+
+977
+00:57:37,680 --> 00:57:40,800
+Something that gives
+this is something work
+
+978
+00:57:40,800 --> 00:57:45,280
+my data table is A to
+Z on my list of map connect.
+
+979
+00:57:45,600 --> 00:57:48,320
+So now what I'm doing, I have a list
+
+980
+00:57:48,520 --> 00:57:51,160
+and in this list I'm having multiple maps.
+
+981
+00:57:51,600 --> 00:57:53,600
+Correct. And making multiple maps.
+
+982
+00:57:53,880 --> 00:57:58,760
+And this particular function,
+if you observe closely your data
+
+983
+00:57:59,240 --> 00:58:03,600
+when you go into your deductible,
+it is actually returning us.
+
+984
+00:58:03,800 --> 00:58:05,160
+This particular mark
+
+985
+00:58:06,360 --> 00:58:07,200
+in your data
+
+986
+00:58:07,200 --> 00:58:11,240
+when you see it is returning as this,
+but only data table is maps
+
+987
+00:58:13,080 --> 00:58:14,680
+in your suitcase.
+
+988
+00:58:15,160 --> 00:58:16,880
+My detective is returning
+
+989
+00:58:16,880 --> 00:58:20,000
+the same function
+what we are going to implement.
+
+990
+00:58:20,280 --> 00:58:25,440
+So this is specifically for detecting,
+but we are going to create this function,
+
+991
+00:58:25,440 --> 00:58:30,680
+a global function, to read
+any kind of data, any value from any cell.
+
+992
+00:58:30,680 --> 00:58:32,520
+In my example
+
+993
+00:58:32,920 --> 00:58:34,720
+is everyone,
+
+994
+00:58:34,720 --> 00:58:38,640
+should we go ahead
+and write this function?
+
+995
+00:58:38,640 --> 00:58:39,160
+Right?
+
+996
+00:58:39,160 --> 00:58:40,520
+So now this one function
+
+997
+00:58:40,520 --> 00:58:44,760
+will be applicable to my entire framework,
+right to my implement.
+
+998
+00:58:44,760 --> 00:58:46,440
+The same function will work.
+
+999
+00:58:46,440 --> 00:58:50,320
+So tell me if I have something
+that is applicable to my airplane work.
+
+1000
+00:58:50,400 --> 00:58:53,840
+And this is a part of Java
+because I with great Java codes
+
+1001
+00:58:53,960 --> 00:58:55,640
+where we keep all of these things
+
+1002
+00:58:57,840 --> 00:59:00,440
+common, we
+
+1003
+00:59:02,760 --> 00:59:04,600
+is in utils
+
+1004
+00:59:04,600 --> 00:59:08,520
+correctly,
+we're getting a better job of this.
+
+1005
+00:59:08,640 --> 00:59:10,760
+We will keep this particular thing. Right?
+
+1006
+00:59:11,040 --> 00:59:14,680
+So when I go utils right lives, click here
+
+1007
+00:59:15,040 --> 00:59:19,840
+another find and the name of this file
+would be a new class
+
+1008
+00:59:20,200 --> 00:59:23,360
+the name of the new class would be
+
+1009
+00:59:23,360 --> 00:59:24,680
+excellent.
+
+1010
+00:59:25,240 --> 00:59:29,080
+The the name of this fight,
+it would be Excel.
+
+1011
+00:59:29,080 --> 00:59:30,640
+Really great case.
+
+1012
+00:59:30,640 --> 00:59:34,520
+So the code read my excel by
+I will write this
+
+1013
+00:59:34,520 --> 00:59:38,040
+code here industry
+
+1014
+00:59:41,160 --> 00:59:43,000
+in the spirit of one
+
+1015
+00:59:45,640 --> 00:59:46,240
+point
+
+1016
+00:59:54,960 --> 00:59:56,880
+should be in this function
+
+1017
+00:59:58,680 --> 01:00:00,640
+is everyone with me
+
+1018
+01:00:01,240 --> 01:00:04,440
+doing or support as you said.
+
+1019
+01:00:04,440 --> 01:00:06,760
+So I will follow
+
+1020
+01:00:07,240 --> 01:00:08,760
+public
+
+1021
+01:00:09,320 --> 01:00:11,280
+stating
+
+1022
+01:00:11,720 --> 01:00:14,440
+like open exit.
+
+1023
+01:00:14,760 --> 01:00:15,720
+The very first thing.
+
+1024
+01:00:15,720 --> 01:00:22,080
+What I have to do is I have to open the
+my category.
+
+1025
+01:00:22,560 --> 01:00:24,400
+We have them the right.
+
+1026
+01:00:24,400 --> 01:00:27,200
+So first I have to open the excellent
+right to expand.
+
+1027
+01:00:27,480 --> 01:00:30,280
+Unless if I open the fight,
+how would I read the data?
+
+1028
+01:00:30,280 --> 01:00:35,360
+I can't read so I will not pass anything
+hardcoded again,
+
+1029
+01:00:35,360 --> 01:00:40,120
+I will provide the fighting party
+of frames, but I the file
+
+1030
+01:00:42,000 --> 01:00:45,280
+fight board for my exam like this.
+
+1031
+01:00:45,720 --> 01:00:47,520
+Very very well.
+
+1032
+01:00:47,520 --> 01:00:49,320
+We'll call this particular matter.
+
+1033
+01:00:49,320 --> 01:00:53,200
+I will provide this, but wherever
+I want to read this particular thing.
+
+1034
+01:00:53,960 --> 01:00:55,440
+So it is here.
+
+1035
+01:00:55,440 --> 01:00:58,840
+How many of you guys still remember
+for the data to open the fight?
+
+1036
+01:00:58,840 --> 01:01:01,600
+The go to open the fight
+
+1037
+01:01:03,480 --> 01:01:03,960
+lights.
+
+1038
+01:01:03,960 --> 01:01:04,920
+Come on.
+
+1039
+01:01:05,840 --> 01:01:08,120
+We have done it. Then millions of times.
+
+1040
+01:01:08,120 --> 01:01:10,880
+The new fight
+
+1041
+01:01:11,400 --> 01:01:13,600
+the stream to
+We are passing this particular
+
+1042
+01:01:14,960 --> 01:01:17,640
+file input stream right is
+
+1043
+01:01:24,200 --> 01:01:27,720
+it should ask for a fight,
+not form exception.
+
+1044
+01:01:27,720 --> 01:01:30,320
+So we put it here. Correct.
+
+1045
+01:01:30,320 --> 01:01:33,760
+And then here
+I'm going to raid for my vulnerable.
+
+1046
+01:01:34,240 --> 01:01:37,080
+But it would be my workbook.
+
+1047
+01:01:37,080 --> 01:01:40,160
+I'm taking rate of workbook
+which can begin here
+
+1048
+01:01:40,600 --> 01:01:42,720
+from my user model.
+
+1049
+01:01:43,400 --> 01:01:45,480
+This particular one, what textbook?
+
+1050
+01:01:46,040 --> 01:01:48,760
+So from being I'm taking this or argy
+
+1051
+01:01:49,400 --> 01:01:51,920
+bargy 0.0 is
+
+1052
+01:01:51,960 --> 01:01:55,200
+is don't use at a moderate or workbook.
+
+1053
+01:01:55,200 --> 01:01:55,640
+All right.
+
+1054
+01:01:56,720 --> 01:01:58,840
+What is
+
+1055
+01:01:58,920 --> 01:02:03,320
+equal to which I'm speaking here
+is equals to new X.
+
+1056
+01:02:03,600 --> 01:02:08,520
+This is the workbook X is the workbook.
+
+1057
+01:02:08,880 --> 01:02:11,560
+Now let's make sure here.
+
+1058
+01:02:11,560 --> 01:02:12,840
+Okay, fine.
+
+1059
+01:02:12,840 --> 01:02:14,760
+Excess baggage clause. Fine.
+
+1060
+01:02:14,760 --> 01:02:17,280
+Let's get the get across here guys.
+
+1061
+01:02:18,000 --> 01:02:21,320
+Whoever is using whoever is using
+
+1062
+01:02:21,960 --> 01:02:25,360
+Excel as X fight, you have to call X.
+
+1063
+01:02:25,360 --> 01:02:27,560
+This is F workbook
+
+1064
+01:02:30,160 --> 01:02:32,520
+and whoever is is in not excellent fight.
+
+1065
+01:02:32,520 --> 01:02:34,080
+You have to call edge.
+
+1066
+01:02:34,080 --> 01:02:35,840
+Is this
+
+1067
+01:02:38,680 --> 01:02:39,520
+workbook
+
+1068
+01:02:39,520 --> 01:02:42,240
+Silva You have all the files, right?
+
+1069
+01:02:42,440 --> 01:02:45,040
+So for different files
+you have to call different marks.
+
+1070
+01:02:45,240 --> 01:02:48,360
+The first one is acceptance of workbook
+is for the ones
+
+1071
+01:02:48,600 --> 01:02:50,880
+who are using not a 6.1,
+
+1072
+01:02:51,600 --> 01:02:56,200
+but if you're using not explicit plain
+Excel point, then be able to use Edge.
+
+1073
+01:02:56,200 --> 01:02:58,000
+Is this one you see?
+
+1074
+01:02:59,280 --> 01:03:00,000
+You'll see here you
+
+1075
+01:03:00,000 --> 01:03:03,120
+will get the edges of visible
+
+1076
+01:03:03,760 --> 01:03:04,320
+rate again.
+
+1077
+01:03:04,320 --> 01:03:05,600
+Book one
+
+1078
+01:03:08,320 --> 01:03:11,080
+edge bit of this if
+
+1079
+01:03:11,160 --> 01:03:13,560
+workbook can you see guys
+
+1080
+01:03:13,560 --> 01:03:17,000
+we are getting this page
+is this F workbook also does this
+
+1081
+01:03:17,040 --> 01:03:21,560
+for the ones who are using
+you're not Exelis by appointment
+
+1082
+01:03:22,200 --> 01:03:26,200
+since majority or I think everyone
+is using a six by appointment.
+
+1083
+01:03:26,400 --> 01:03:27,520
+We are using x.
+
+1084
+01:03:27,520 --> 01:03:30,120
+This is one book.
+
+1085
+01:03:30,120 --> 01:03:35,720
+Is it clear to everyone?
+
+1086
+01:03:35,720 --> 01:03:36,480
+Fine.
+
+1087
+01:03:36,760 --> 01:03:40,680
+So this is my this is my post function
+that I have three days.
+
+1088
+01:03:41,880 --> 01:03:43,640
+This is my post function.
+
+1089
+01:03:43,640 --> 01:03:46,840
+After this
+I need to write another function nicely.
+
+1090
+01:03:47,120 --> 01:03:52,280
+I open,
+I open my excellent multi excel played.
+
+1091
+01:03:52,280 --> 01:03:53,480
+What is the next task?
+
+1092
+01:03:53,480 --> 01:03:56,840
+I have to identify which sheet
+and would do work upon
+
+1093
+01:03:57,640 --> 01:03:58,360
+getting
+
+1094
+01:04:01,000 --> 01:04:03,480
+that it would sheet and working in.
+
+1095
+01:04:04,040 --> 01:04:08,040
+If the fight is not X,
+then the end of it x and the end of will
+
+1096
+01:04:10,360 --> 01:04:11,760
+no flag.
+
+1097
+01:04:12,360 --> 01:04:14,160
+We can't take the extension. Right.
+
+1098
+01:04:14,160 --> 01:04:15,520
+It should support.
+
+1099
+01:04:15,520 --> 01:04:19,080
+I mean it depends on the Microsoft Office
+word and which one you use.
+
+1100
+01:04:19,080 --> 01:04:21,840
+If it is in 1997 it will not support.
+
+1101
+01:04:21,840 --> 01:04:25,120
+Don't extend it six
+If you're using this 2003 in the later
+
+1102
+01:04:25,120 --> 01:04:28,960
+one, it would support or take to six
+
+1103
+01:04:36,680 --> 01:04:41,880
+point.
+
+1104
+01:04:41,880 --> 01:04:45,680
+Now the next thing is
+we have the particular sheet
+
+1105
+01:04:46,680 --> 01:04:47,040
+here.
+
+1106
+01:04:47,040 --> 01:04:49,680
+I'm going to write the function
+public element is why
+
+1107
+01:04:49,680 --> 01:04:51,680
+I'm making one of this functions
+the statement.
+
+1108
+01:04:51,680 --> 01:04:54,480
+What is the reason behind this one?
+
+1109
+01:04:54,480 --> 01:05:01,720
+Making this function
+is treating invalid functions.
+
+1110
+01:05:01,720 --> 01:05:06,000
+Yes, because I'm going to use
+all of this functions in other classes.
+
+1111
+01:05:06,000 --> 01:05:09,680
+I know which class I'm
+going to read the data so I can read it.
+
+1112
+01:05:09,680 --> 01:05:13,840
+Anyway, this data way
+I'm making, this functions as static.
+
+1113
+01:05:13,840 --> 01:05:16,080
+I don't need to create
+the object of the class.
+
+1114
+01:05:16,080 --> 01:05:19,080
+And because this function now, I'm
+not returning anything.
+
+1115
+01:05:19,080 --> 01:05:21,720
+That's why I'm making them void
+
+1116
+01:05:22,720 --> 01:05:23,440
+reusable.
+
+1117
+01:05:23,440 --> 01:05:24,480
+Great, ma'am.
+
+1118
+01:05:24,480 --> 01:05:25,680
+So now here also
+
+1119
+01:05:25,680 --> 01:05:29,600
+they will provide sheet because today
+I'm busing the data from one sheet.
+
+1120
+01:05:29,800 --> 01:05:34,280
+Tomorrow I might be passing the data from
+some one of the shooters would be erased.
+
+1121
+01:05:34,640 --> 01:05:38,440
+So sheet again belongs to your or not
+
+1122
+01:05:38,520 --> 01:05:42,160
+Apache or boy or assistant user model.
+
+1123
+01:05:42,640 --> 01:05:46,560
+So from here
+I would provide this sheet equals
+
+1124
+01:05:46,560 --> 01:05:49,400
+to in this book don't
+
+1125
+01:05:50,480 --> 01:06:01,120
+look don't get that
+
+1126
+01:06:01,240 --> 01:06:05,560
+What is the issue here?
+
+1127
+01:06:05,560 --> 01:06:09,120
+That is why I'm not getting this book
+object
+
+1128
+01:06:12,840 --> 01:06:16,760
+any any data.
+
+1129
+01:06:16,760 --> 01:06:18,240
+Yes. Correct.
+
+1130
+01:06:18,240 --> 01:06:21,320
+This is not my variable,
+which is look and see.
+
+1131
+01:06:21,320 --> 01:06:23,440
+This is middle my one function.
+
+1132
+01:06:23,440 --> 01:06:26,840
+So the accessibility
+is limited to one particular method.
+
+1133
+01:06:27,160 --> 01:06:28,360
+So what I have to do,
+
+1134
+01:06:28,360 --> 01:06:31,680
+I have to define it on a class level
+because I will be using it
+
+1135
+01:06:31,680 --> 01:06:33,200
+in different methods.
+
+1136
+01:06:33,200 --> 01:06:34,440
+So let me do it.
+
+1137
+01:06:34,440 --> 01:06:36,600
+I'm going to make it this technique,
+
+1138
+01:06:37,720 --> 01:06:40,120
+this workbook as book,
+
+1139
+01:06:41,800 --> 01:06:43,840
+and this time I read deleted from you.
+
+1140
+01:06:44,240 --> 01:06:47,000
+Now see, in the end it is called
+
+1141
+01:06:47,000 --> 01:06:48,440
+similarly sheet.
+
+1142
+01:06:48,440 --> 01:06:53,840
+I will be using everywhere,
+so I'm going to use this sheet as sheet.
+
+1143
+01:06:54,240 --> 01:06:56,400
+And here I will remove this part.
+
+1144
+01:06:56,400 --> 01:06:57,600
+Now see,
+
+1145
+01:06:58,320 --> 01:07:05,640
+it is working on what we did this time.
+
+1146
+01:07:05,640 --> 01:07:06,080
+Make sense?
+
+1147
+01:07:06,080 --> 01:07:08,600
+Gates First I opened the template,
+
+1148
+01:07:09,320 --> 01:07:12,920
+then I got the sheet name in this sheet.
+
+1149
+01:07:12,920 --> 01:07:18,960
+Now I am going to read how many Jews
+I had right there from visual.
+
+1150
+01:07:19,000 --> 01:07:21,240
+I'm going to get what kind of data.
+
+1151
+01:07:21,240 --> 01:07:23,720
+So now let me write another function here.
+
+1152
+01:07:23,720 --> 01:07:26,280
+The function is public
+
+1153
+01:07:27,720 --> 01:07:29,440
+static.
+
+1154
+01:07:29,480 --> 01:07:33,240
+I'm seeing in is
+
+1155
+01:07:33,480 --> 01:07:37,320
+why I'm singing for the to count
+
+1156
+01:07:41,720 --> 01:07:44,120
+is why I wrote
+the return type is in digital
+
+1157
+01:07:44,440 --> 01:07:46,120
+in this particular function
+
+1158
+01:07:46,120 --> 01:07:49,360
+because it will return
+the total number of rules
+
+1159
+01:07:49,560 --> 01:07:51,760
+and then it will return
+to the number of rules.
+
+1160
+01:07:51,760 --> 01:07:54,960
+It will be in the digital form
+like there's when I'm writing.
+
+1161
+01:07:54,960 --> 01:07:58,440
+It is in digital function,
+so it will return me.
+
+1162
+01:07:58,440 --> 01:08:03,720
+What it will eliminate is a function
+called from this sheet.
+
+1163
+01:08:03,720 --> 01:08:04,720
+It will return get
+
+1164
+01:08:07,040 --> 01:08:09,840
+physical number of course
+
+1165
+01:08:09,840 --> 01:08:13,800
+retains this function due
+to physical number of rules will return
+
+1166
+01:08:13,960 --> 01:08:17,000
+How many rules I have in particular sheet
+
+1167
+01:08:18,360 --> 01:08:19,840
+is this being
+
+1168
+01:08:24,040 --> 01:08:30,880
+every one, each
+
+1169
+01:08:34,840 --> 01:08:36,080
+let's now.
+
+1170
+01:08:36,080 --> 01:08:41,360
+Next thing I need is a public static
+
+1171
+01:08:42,960 --> 01:08:45,080
+and now I need gained
+
+1172
+01:08:46,480 --> 01:08:49,200
+columns. Come
+
+1173
+01:08:50,000 --> 01:08:50,680
+this time.
+
+1174
+01:08:50,680 --> 01:08:53,040
+This time I'm having a problem
+
+1175
+01:08:53,040 --> 01:08:57,240
+because there is no function
+that I have in Java which returns
+
+1176
+01:08:57,240 --> 01:09:00,520
+the actual column column for example,
+the physical number of columns.
+
+1177
+01:09:00,520 --> 01:09:02,920
+That is no method. I don't have anything.
+
+1178
+01:09:02,920 --> 01:09:06,840
+So here I have to rely on my rules
+
+1179
+01:09:07,240 --> 01:09:10,480
+right from which rule
+I am getting the data.
+
+1180
+01:09:10,800 --> 01:09:12,480
+So remember
+
+1181
+01:09:12,720 --> 01:09:16,080
+how to get the actual column
+going to every rule.
+
+1182
+01:09:16,320 --> 01:09:19,240
+One example here, this is the Ruby
+
+1183
+01:09:23,040 --> 01:09:23,760
+here.
+
+1184
+01:09:24,520 --> 01:09:27,920
+It gives value, a new value value, right?
+
+1185
+01:09:28,280 --> 01:09:33,200
+So when we go into this rule,
+the last the last number of column, Right.
+
+1186
+01:09:33,240 --> 01:09:34,840
+Which is a physical column.
+
+1187
+01:09:34,840 --> 01:09:36,320
+Physical column. Right.
+
+1188
+01:09:36,320 --> 01:09:39,000
+So we will see every single scene in
+
+1189
+01:09:39,000 --> 01:09:41,880
+last number of physical scene,
+which would be easier to read.
+
+1190
+01:09:42,000 --> 01:09:44,360
+It means the total number of columns
+that are relevant.
+
+1191
+01:09:44,360 --> 01:09:47,760
+For example, how many physical
+since I have available in digital?
+
+1192
+01:09:48,160 --> 01:09:51,360
+One, two, three, four, five.
+
+1193
+01:09:51,520 --> 01:09:53,960
+So how many columns I have in this room?
+
+1194
+01:09:53,960 --> 01:09:54,600
+Five.
+
+1195
+01:09:54,600 --> 01:09:56,640
+Similarly going to this look again?
+
+1196
+01:09:56,640 --> 01:09:58,400
+Five and so on.
+
+1197
+01:09:58,400 --> 01:10:00,240
+Understood how I'm going to read it.
+
+1198
+01:10:00,240 --> 01:10:06,240
+We're going of columns.
+
+1199
+01:10:06,240 --> 01:10:09,880
+So here I have to rely,
+I have to rely on my
+
+1200
+01:10:10,320 --> 01:10:13,080
+first row index right?
+
+1201
+01:10:13,080 --> 01:10:15,000
+I have to rely on my windings.
+
+1202
+01:10:15,000 --> 01:10:17,960
+So from here
+I will see what it will return.
+
+1203
+01:10:18,520 --> 01:10:20,000
+It will in my first
+
+1204
+01:10:21,160 --> 01:10:21,760
+sheet.
+
+1205
+01:10:21,760 --> 01:10:25,200
+Don't get
+
+1206
+01:10:32,880 --> 01:10:34,240
+it through here.
+
+1207
+01:10:34,240 --> 01:10:36,280
+I will pass my drawings.
+
+1208
+01:10:37,200 --> 01:10:39,600
+Don't it says get
+
+1209
+01:10:41,000 --> 01:10:42,040
+physical. No at all.
+
+1210
+01:10:42,040 --> 01:10:44,800
+Since it physical since.
+
+1211
+01:10:45,720 --> 01:10:47,520
+This is the function.
+
+1212
+01:10:47,520 --> 01:10:50,160
+These are the two functions
+which will return my overall
+
+1213
+01:10:50,840 --> 01:10:53,560
+total rules, scope and total the cops.
+
+1214
+01:10:55,240 --> 01:10:57,360
+So for any question is reduce
+
+1215
+01:10:57,360 --> 01:11:02,440
+opening the exam by opening the sheet
+in Excel point with sheet
+
+1216
+01:11:02,880 --> 01:11:05,880
+taking the total rules
+and then taking the total columns
+
+1217
+01:11:07,040 --> 01:11:07,480
+so far.
+
+1218
+01:11:07,480 --> 01:11:09,560
+Is this understandable to everyone?
+
+1219
+01:11:09,680 --> 01:11:10,920
+What I'm doing
+
+1220
+01:11:14,560 --> 01:11:15,960
+now, whatever
+
+1221
+01:11:15,960 --> 01:11:19,120
+the things we are seeing here, right,
+you're seeing as of now,
+
+1222
+01:11:19,360 --> 01:11:23,160
+it is returning me
+draws, counts, sheet name by name.
+
+1223
+01:11:23,400 --> 01:11:26,200
+But in the end I need to work,
+
+1224
+01:11:26,200 --> 01:11:30,240
+I need values, I need to read the data
+which is available in every drawer.
+
+1225
+01:11:30,240 --> 01:11:33,760
+And but in this still screen,
+I need to read that data.
+
+1226
+01:11:34,000 --> 01:11:38,760
+So how can it read the data to me
+right under the function of late standing.
+
+1227
+01:11:38,760 --> 01:11:41,760
+And this time I'm my function name is
+
+1228
+01:11:44,320 --> 01:11:46,560
+Gate Gates to
+
+1229
+01:11:47,480 --> 01:11:51,120
+why I make this gates as a stream face.
+
+1230
+01:11:51,520 --> 01:11:54,800
+I am it is a string because the data
+which I'm widely
+
+1231
+01:11:55,120 --> 01:11:57,960
+available in my excel,
+it is available in which forward
+
+1232
+01:11:59,240 --> 01:12:00,960
+I'm passing User name Password.
+
+1233
+01:12:00,960 --> 01:12:02,800
+First name William last name.
+
+1234
+01:12:02,800 --> 01:12:05,920
+We are this in which former days
+stream forward.
+
+1235
+01:12:06,240 --> 01:12:06,800
+Right?
+
+1236
+01:12:06,840 --> 01:12:09,000
+So when I'm passing this
+in the spring forward,
+
+1237
+01:12:10,800 --> 01:12:12,320
+I'm going to take this data
+
+1238
+01:12:12,320 --> 01:12:15,440
+as a return of this particular function
+industry.
+
+1239
+01:12:15,960 --> 01:12:18,280
+Fine.
+
+1240
+01:12:18,280 --> 01:12:19,440
+Let's go ahead and do it.
+
+1241
+01:12:19,440 --> 01:12:23,080
+So first, what I would write,
+I would write in integer.
+
+1242
+01:12:23,080 --> 01:12:26,760
+First thing is going to the part.
+
+1243
+01:12:26,960 --> 01:12:30,120
+So take index Second thing is
+
+1244
+01:12:30,680 --> 01:12:33,840
+go into the column parts
+of 30 column or index.
+
+1245
+01:12:34,160 --> 01:12:39,200
+It means in which rule, which column
+you're going to one rule, one column
+
+1246
+01:12:39,200 --> 01:12:44,800
+it reads once it contains in that still
+we will assume that it will read the data.
+
+1247
+01:12:45,200 --> 01:12:48,680
+So let me read your return in this sheet
+straight
+
+1248
+01:12:49,040 --> 01:12:52,360
+post to get through on this little index.
+
+1249
+01:12:52,960 --> 01:12:53,600
+Don't get
+
+1250
+01:12:54,840 --> 01:12:56,680
+sent from here.
+
+1251
+01:12:56,680 --> 01:12:59,440
+And in this state based on the column
+index,
+
+1252
+01:12:59,960 --> 01:13:02,840
+don't do the last thing
+
+1253
+01:13:02,840 --> 01:13:06,760
+because now we got the rule,
+we got the steel in this.
+
+1254
+01:13:06,760 --> 01:13:11,600
+And what it the data
+I'm having convert it into a string.
+
+1255
+01:13:11,840 --> 01:13:16,880
+So to convert something into string
+that is a method in Java we use
+
+1256
+01:13:16,880 --> 01:13:21,240
+which is don't do is bring
+that can would simply table
+
+1257
+01:13:21,240 --> 01:13:22,320
+string for
+
+1258
+01:13:25,520 --> 01:13:27,280
+all the here on the Java
+
+1259
+01:13:27,280 --> 01:13:29,760
+the easier case which is
+
+1260
+01:13:31,280 --> 01:13:37,040
+getting whatever we want not.
+
+1261
+01:13:37,040 --> 01:13:40,320
+Is there anyone who has any question
+in this part what we are doing.
+
+1262
+01:13:40,920 --> 01:13:44,760
+I hope I'm I'm expanding it
+in your satisfaction level.
+
+1263
+01:13:45,240 --> 01:13:48,000
+It is that anything
+if I'm missing, do let me know
+
+1264
+01:13:51,800 --> 01:13:54,120
+what you do in 43 point.
+
+1265
+01:13:54,120 --> 01:13:56,520
+So I'll see you See what I need?
+
+1266
+01:13:57,040 --> 01:14:00,240
+Let me open myself.
+
+1267
+01:14:00,240 --> 01:14:01,760
+This is my exit point.
+
+1268
+01:14:01,760 --> 01:14:03,400
+I got this rule.
+
+1269
+01:14:03,400 --> 01:14:04,880
+I. I got this column.
+
+1270
+01:14:04,880 --> 01:14:06,840
+For example, second row, first quarter.
+
+1271
+01:14:06,840 --> 01:14:09,000
+I got this identified.
+
+1272
+01:14:09,000 --> 01:14:11,720
+But still it is of no use.
+
+1273
+01:14:11,720 --> 01:14:14,280
+If I don't read this data correct,
+
+1274
+01:14:15,320 --> 01:14:18,440
+I have to read the
+data which is available in every state.
+
+1275
+01:14:18,440 --> 01:14:21,680
+So this one, the highlighted one is in
+this one is also said.
+
+1276
+01:14:21,680 --> 01:14:22,800
+This one is also state.
+
+1277
+01:14:22,800 --> 01:14:26,480
+This one is also saying
+how we can identify the state,
+
+1278
+01:14:27,040 --> 01:14:30,000
+identify the state based on rule
+and quantum mechanics.
+
+1279
+01:14:30,360 --> 01:14:33,280
+So for this one, the rule is two,
+column is one,
+
+1280
+01:14:33,800 --> 01:14:38,600
+this one rule is two, column is two,
+this one, the rule is three columns one.
+
+1281
+01:14:38,880 --> 01:14:40,160
+This one rule is three.
+
+1282
+01:14:40,160 --> 01:14:42,600
+Column is to install, right?
+
+1283
+01:14:42,920 --> 01:14:47,120
+So here in my function
+I'm passing groupings in column index
+
+1284
+01:14:47,400 --> 01:14:51,680
+to identify a bristle
+when I'm taking in the single center
+
+1285
+01:14:51,680 --> 01:14:54,720
+data, which I'm heavy,
+I'm converting it into string.
+
+1286
+01:14:54,960 --> 01:14:59,320
+So this function is returning the data
+from every single cell
+
+1287
+01:14:59,480 --> 01:15:03,440
+and converting the people that spring upon
+which so in the to find the important
+
+1288
+01:15:03,440 --> 01:15:08,520
+thing
+is the string from every single set. Now
+
+1289
+01:15:14,280 --> 01:15:19,560
+nice so far right
+
+1290
+01:15:20,480 --> 01:15:24,800
+raw ingredients spaces are really good.
+
+1291
+01:15:24,800 --> 01:15:25,920
+Maybe not
+
+1292
+01:15:26,880 --> 01:15:29,400
+opening the excel by cinnamon,
+
+1293
+01:15:30,360 --> 01:15:34,200
+cumin, seeds, oil, everything being played
+
+1294
+01:15:35,040 --> 01:15:38,320
+good shit, row, count, column count.
+
+1295
+01:15:38,520 --> 01:15:42,240
+So data, everything we now know actually
+
+1296
+01:15:42,840 --> 01:15:45,920
+starts from year grade
+with Hollywood movie.
+
+1297
+01:15:45,920 --> 01:15:46,960
+Which one?
+
+1298
+01:15:46,960 --> 01:15:50,600
+Now we are going to make
+Every single rule is a map.
+
+1299
+01:15:51,400 --> 01:15:53,920
+We will create the function
+where we can see
+
+1300
+01:15:53,960 --> 01:15:56,640
+that every single row
+is returning me somewhere.
+
+1301
+01:15:57,280 --> 01:16:01,080
+After taking that the in the map,
+I will it in the list
+
+1302
+01:16:01,320 --> 01:16:04,320
+and then again I will do it in a digital
+and then the little
+
+1303
+01:16:04,400 --> 01:16:05,360
+and then another little thing.
+
+1304
+01:16:05,360 --> 01:16:08,080
+So this is what we want to do now.
+
+1305
+01:16:09,600 --> 01:16:13,560
+So just one function
+I have to write just one function.
+
+1306
+01:16:14,280 --> 01:16:16,320
+Should I write the break rather than
+
+1307
+01:16:18,840 --> 01:16:20,520
+I think we should continue.
+
+1308
+01:16:20,520 --> 01:16:22,560
+We should continue right now.
+
+1309
+01:16:22,760 --> 01:16:23,480
+Okay.
+
+1310
+01:16:23,800 --> 01:16:24,760
+Yes, yes, yes.
+
+1311
+01:16:24,760 --> 01:16:28,440
+That's what I'm thinking.
+
+1312
+01:16:28,440 --> 01:16:34,240
+Before, if the rate before rates
+that let's hook it.
+
+1313
+01:16:34,240 --> 01:16:36,400
+I'm going to write in
+
+1314
+01:16:36,480 --> 01:16:37,640
+public
+
+1315
+01:16:39,040 --> 01:16:40,480
+static
+
+1316
+01:16:42,360 --> 01:16:46,080
+all use all format
+
+1317
+01:16:46,480 --> 01:16:49,080
+and where every map is returning me
+
+1318
+01:16:49,520 --> 01:16:53,160
+string in terms of key
+the string in terms of value.
+
+1319
+01:16:54,600 --> 01:16:56,680
+So I am writing this function excel
+
+1320
+01:16:57,920 --> 01:16:59,120
+in two
+
+1321
+01:17:04,280 --> 01:17:06,760
+Excel and to list my
+
+1322
+01:17:06,760 --> 01:17:10,320
+client launch was important
+
+1323
+01:17:10,320 --> 01:17:17,120
+is very case exiting to list map rate.
+
+1324
+01:17:17,120 --> 01:17:20,200
+So from the Excel,
+we are taking the data in the form of MAP
+
+1325
+01:17:20,200 --> 01:17:22,800
+and we are putting
+all of these things in the list.
+
+1326
+01:17:22,800 --> 01:17:25,040
+That is the thing we are going to do
+that is not good.
+
+1327
+01:17:25,040 --> 01:17:27,520
+Things
+don't take this much attention rate days.
+
+1328
+01:17:27,560 --> 01:17:29,760
+I see a lot of people
+not commenting though
+
+1329
+01:17:29,760 --> 01:17:34,400
+because everyone is busy in typing
+till there is just a five lines of code.
+
+1330
+01:17:34,800 --> 01:17:37,080
+This code can not make you afraid of
+anything.
+
+1331
+01:17:37,200 --> 01:17:39,520
+Don't worry,
+we are doing it and we will do it.
+
+1332
+01:17:39,520 --> 01:17:42,080
+I will experiment with great stuff.
+
+1333
+01:17:42,080 --> 01:17:43,440
+I know, I know.
+
+1334
+01:17:43,440 --> 01:17:48,480
+I'm When I say that you're not yet
+you always ready And I have just seen.
+
+1335
+01:17:48,720 --> 01:17:51,120
+Don't pay any attention. All right.
+
+1336
+01:17:51,120 --> 01:17:52,960
+Good extras. It's very easy.
+
+1337
+01:17:52,960 --> 01:17:55,760
+We are going to do
+it now. See, first thing news
+
+1338
+01:17:57,440 --> 01:17:57,840
+is there.
+
+1339
+01:17:57,840 --> 01:18:00,800
+Discord will be reusable,
+
+1340
+01:18:00,800 --> 01:18:01,320
+y'all.
+
+1341
+01:18:01,320 --> 01:18:03,760
+Whatever things I'm writing,
+it is reusable.
+
+1342
+01:18:04,120 --> 01:18:06,000
+There is nothing which we can not reuse.
+
+1343
+01:18:06,000 --> 01:18:08,160
+That's why we call it framework.
+
+1344
+01:18:08,160 --> 01:18:11,320
+Those things is for getting the data
+from the Excel.
+
+1345
+01:18:11,320 --> 01:18:11,880
+Find.
+
+1346
+01:18:11,880 --> 01:18:15,880
+First, I need to identify the Excel points
+so to to get the Excel value
+
+1347
+01:18:15,880 --> 01:18:19,040
+we have any function.
+
+1348
+01:18:19,040 --> 01:18:21,080
+Do we have any function
+to get the accent by
+
+1349
+01:18:25,760 --> 01:18:27,000
+students?
+
+1350
+01:18:27,600 --> 01:18:30,480
+Yes, we do have Open Excel.
+
+1351
+01:18:30,480 --> 01:18:32,240
+We do have open Excel. Great.
+
+1352
+01:18:32,240 --> 01:18:34,320
+And it is asking for five months. So fine.
+
+1353
+01:18:34,800 --> 01:18:36,320
+I have to provide this.
+
+1354
+01:18:36,320 --> 01:18:40,960
+I have to provide this here
+argument is string file, but comma,
+
+1355
+01:18:41,400 --> 01:18:43,720
+the string next thing will be mine
+
+1356
+01:18:46,160 --> 01:18:47,280
+sheet
+
+1357
+01:18:50,520 --> 01:18:52,160
+shooting rate.
+
+1358
+01:18:52,160 --> 01:18:53,720
+So it would be my file.
+
+1359
+01:18:53,720 --> 01:18:57,080
+But in this Excel fight in this sense,
+
+1360
+01:18:57,080 --> 01:19:00,280
+by any token
+do we have any function to get this unit
+
+1361
+01:19:04,720 --> 01:19:06,720
+is do we
+have any function to get the sheet name.
+
+1362
+01:19:06,720 --> 01:19:07,440
+Come on
+
+1363
+01:19:11,640 --> 01:19:15,000
+you just we do have that function called
+
+1364
+01:19:16,160 --> 01:19:19,800
+get sheet and here we are operating me
+
+1365
+01:19:21,360 --> 01:19:23,160
+see how easy it is.
+
+1366
+01:19:23,160 --> 01:19:25,160
+This function is reading the sheet name.
+
+1367
+01:19:25,200 --> 01:19:29,280
+This function is going to return the file
+name read file pop.
+
+1368
+01:19:29,760 --> 01:19:32,280
+So now my file is opened,
+my sheet is open.
+
+1369
+01:19:32,520 --> 01:19:35,440
+In that sheet,
+I am going to get the data right.
+
+1370
+01:19:35,720 --> 01:19:40,440
+So first the first thing,
+let me define my function call list
+
+1371
+01:19:41,480 --> 01:19:44,160
+inside this list,
+because I'm going to prepare for
+
+1372
+01:19:45,320 --> 01:19:47,520
+this is the preparation
+
+1373
+01:19:47,600 --> 01:19:48,760
+screen as a user.
+
+1374
+01:19:48,760 --> 01:19:53,400
+Name the string also as a key
+and as a value right here.
+
+1375
+01:19:53,400 --> 01:19:55,440
+I'm going to give it C as my
+
+1376
+01:19:57,280 --> 01:20:00,280
+data is equals,
+but I'm going to make it in the edit list
+
+1377
+01:20:02,160 --> 01:20:02,560
+for which
+
+1378
+01:20:02,560 --> 01:20:06,520
+reason we are making it Grace
+because we are going to get the maps,
+
+1379
+01:20:06,520 --> 01:20:09,400
+we are going to get the maps
+from every single row.
+
+1380
+01:20:09,640 --> 01:20:13,320
+Those maps we have to add this list,
+so I am putting it in the list.
+
+1381
+01:20:13,560 --> 01:20:14,280
+Okay.
+
+1382
+01:20:15,240 --> 01:20:15,720
+Okay.
+
+1383
+01:20:15,720 --> 01:20:17,280
+That's why we made this a list.
+
+1384
+01:20:17,280 --> 01:20:19,320
+As of now, we just declared it.
+
+1385
+01:20:19,320 --> 01:20:22,760
+We are not using it as of now
+if someone has any question
+
+1386
+01:20:23,040 --> 01:20:27,160
+why we declared it,
+because we are going to receive the map
+
+1387
+01:20:27,160 --> 01:20:31,440
+from Excel by at every the map
+we have to add in the list.
+
+1388
+01:20:31,440 --> 01:20:34,160
+All the maps declare it as of now.
+
+1389
+01:20:34,720 --> 01:20:35,440
+Fine.
+
+1390
+01:20:35,480 --> 01:20:36,920
+Let's go ahead
+
+1391
+01:20:38,120 --> 01:20:41,520
+because I'm going
+to write the code for Outlook.
+
+1392
+01:20:41,520 --> 01:20:45,280
+So my outlook is going to define the over
+
+1393
+01:20:45,280 --> 01:20:48,440
+all complete rules
+that I would be having to read.
+
+1394
+01:20:48,440 --> 01:20:49,280
+The keys.
+
+1395
+01:20:49,280 --> 01:20:51,800
+My outer loop, which I'm going to write
+here,
+
+1396
+01:20:52,280 --> 01:20:54,720
+is going to define the keys that I have.
+
+1397
+01:20:55,160 --> 01:20:55,840
+Fine.
+
+1398
+01:20:55,840 --> 01:21:00,240
+So what I'm going to do here
+see, I'm going to write a for loop.
+
+1399
+01:21:00,880 --> 01:21:02,640
+I'm going to make a look.
+
+1400
+01:21:02,640 --> 01:21:05,480
+And this loops the integer.
+
+1401
+01:21:05,480 --> 01:21:07,920
+The rule is equal one
+
+1402
+01:21:09,040 --> 01:21:09,400
+line.
+
+1403
+01:21:09,760 --> 01:21:10,480
+There's always a concern.
+
+1404
+01:21:10,480 --> 01:21:11,320
+One this
+
+1405
+01:21:13,800 --> 01:21:15,120
+and then simple.
+
+1406
+01:21:15,120 --> 01:21:16,600
+This rule
+
+1407
+01:21:19,720 --> 01:21:20,320
+book.
+
+1408
+01:21:20,640 --> 01:21:22,800
+When the rule counties less than three,
+
+1409
+01:21:24,120 --> 01:21:28,360
+then I'm seeing here again Great rule
+
+1410
+01:21:29,280 --> 01:21:34,080
+plus last plus, plus, plus.
+
+1411
+01:21:35,280 --> 01:21:38,880
+Now see,
+because I'm going to read the data.
+
+1412
+01:21:39,240 --> 01:21:40,920
+I'm going to read the data.
+
+1413
+01:21:40,920 --> 01:21:44,440
+So my zero through my zero
+draw is already there.
+
+1414
+01:21:45,320 --> 01:21:49,720
+Is I one this excel
+find this excellent line if you see
+
+1415
+01:21:50,240 --> 01:21:53,120
+So my business is already booked
+it is already constrained.
+
+1416
+01:21:53,280 --> 01:21:55,160
+I don't need this right now.
+
+1417
+01:21:55,160 --> 01:21:59,160
+I need the data from the hospital
+and then swans one so on.
+
+1418
+01:21:59,440 --> 01:22:01,320
+Right to explain digitally.
+
+1419
+01:22:01,320 --> 01:22:04,880
+I buzzed equals to one.
+
+1420
+01:22:04,920 --> 01:22:05,680
+Those are indisputable.
+
+1421
+01:22:05,680 --> 01:22:10,040
+I am passing two is equal to one
+and then two and I would be getting right.
+
+1422
+01:22:10,280 --> 01:22:11,440
+So rule count minus one.
+
+1423
+01:22:11,440 --> 01:22:15,480
+It is the last rule in the last rule
+one by one because increment of greater
+
+1424
+01:22:15,480 --> 01:22:16,560
+I would it.
+
+1425
+01:22:16,560 --> 01:22:20,040
+So it will read the data for all the rules
+from here this particular function
+
+1426
+01:22:20,720 --> 01:22:25,320
+let's cross further
+while I am reading this.
+
+1427
+01:22:25,320 --> 01:22:29,600
+I'm reading this I'm going to write here
+Creating a map.
+
+1428
+01:22:29,880 --> 01:22:32,480
+Creating a map. Every rule.
+
+1429
+01:22:32,840 --> 01:22:36,520
+Now see this If I am in the force total,
+
+1430
+01:22:36,840 --> 01:22:41,120
+if I'm in this or actually rule one,
+it means second rule.
+
+1431
+01:22:41,120 --> 01:22:44,760
+If I in this rules
+principle one not as good
+
+1432
+01:22:45,840 --> 01:22:47,960
+index is always a spread from zero here.
+
+1433
+01:22:47,960 --> 01:22:51,400
+But rule one we're taking
+because my values start from little one.
+
+1434
+01:22:51,840 --> 01:22:55,400
+Okay, now here, see,
+when we are in the rule one,
+
+1435
+01:22:55,800 --> 01:22:58,320
+we are getting here,
+that's also an index of keys.
+
+1436
+01:22:58,440 --> 01:23:00,240
+We are getting values from the rule.
+
+1437
+01:23:00,240 --> 01:23:02,240
+So when we are ready and value both.
+
+1438
+01:23:02,520 --> 01:23:06,360
+We have to prepare and we have to create
+a map right for every rule.
+
+1439
+01:23:06,520 --> 01:23:09,000
+That's what we are going to do now.
+
+1440
+01:23:09,000 --> 01:23:10,360
+So first
+
+1441
+01:23:11,080 --> 01:23:13,880
+I'm going to write a map, root,
+
+1442
+01:23:13,920 --> 01:23:19,440
+key and value out of the string forward
+or not, based on case
+
+1443
+01:23:20,920 --> 01:23:24,160
+what key and value is available
+
+1444
+01:23:24,160 --> 01:23:25,520
+in my string one.
+
+1445
+01:23:25,520 --> 01:23:28,760
+And I'm going to link the hash map here,
+
+1446
+01:23:28,760 --> 01:23:32,000
+which is why we use
+
+1447
+01:23:34,560 --> 01:23:37,120
+Java clusters of link is,
+
+1448
+01:23:37,400 --> 01:23:40,240
+but it maintains the order.
+
+1449
+01:23:40,240 --> 01:23:42,720
+The order of insertion maintains.
+
+1450
+01:23:42,720 --> 01:23:48,560
+It means if I am going to read first row,
+it will maintain it the first place only
+
+1451
+01:23:48,720 --> 01:23:51,560
+and then second place, third place
+and so on.
+
+1452
+01:23:51,800 --> 01:23:54,680
+It's using the link map. Yes.
+
+1453
+01:23:56,000 --> 01:23:56,480
+Right.
+
+1454
+01:23:56,480 --> 01:23:57,960
+You see everyone understand?
+
+1455
+01:23:57,960 --> 01:23:59,280
+Everyone knows already.
+
+1456
+01:23:59,280 --> 01:24:02,200
+So I do need to teach you, but a mini code
+you can write on your own days.
+
+1457
+01:24:02,200 --> 01:24:04,800
+No issues.
+
+1458
+01:24:04,800 --> 01:24:09,640
+Then the next thing is I'm going to write
+the looping
+
+1459
+01:24:10,480 --> 01:24:13,000
+through the values.
+
+1460
+01:24:13,360 --> 01:24:14,920
+Looping through the values.
+
+1461
+01:24:14,920 --> 01:24:16,920
+Oh, on
+
+1462
+01:24:18,360 --> 01:24:19,720
+I. No, sir.
+
+1463
+01:24:19,880 --> 01:24:25,440
+But if you do everything,
+then what would I do with C?
+
+1464
+01:24:25,920 --> 01:24:28,120
+We are going to create a map.
+
+1465
+01:24:28,120 --> 01:24:31,480
+So not inside this map and I'm
+going to add the value for a string.
+
+1466
+01:24:31,560 --> 01:24:34,680
+Read string as a key
+and spring as a value.
+
+1467
+01:24:34,920 --> 01:24:36,920
+So first we are taking fine.
+
+1468
+01:24:36,920 --> 01:24:40,360
+I don't have any issue for that,
+but for getting the data
+
+1469
+01:24:40,360 --> 01:24:43,640
+from every single from every single set
+we have to write it.
+
+1470
+01:24:44,240 --> 01:24:46,800
+Let's write another for loop.
+
+1471
+01:24:46,800 --> 01:24:49,960
+This for loop
+is under my previous or loop.
+
+1472
+01:24:50,240 --> 01:24:51,000
+Make sure. Let's
+
+1473
+01:24:52,280 --> 01:24:53,280
+make sure
+
+1474
+01:24:53,280 --> 01:24:56,160
+this for loop is under my
+this particular follow
+
+1475
+01:24:58,120 --> 01:25:04,920
+character correct.
+
+1476
+01:25:04,920 --> 01:25:07,440
+So now I'm going to write
+for this particular one.
+
+1477
+01:25:07,560 --> 01:25:12,080
+I'm saying
+integer column is equal to zero.
+
+1478
+01:25:12,080 --> 01:25:15,120
+Then you to my appointed a column zero
+when I provided
+
+1479
+01:25:15,120 --> 01:25:16,080
+rule one
+
+1480
+01:25:19,120 --> 01:25:21,440
+you had nested for the print case.
+
+1481
+01:25:21,600 --> 01:25:24,240
+I have related column zero but draw one
+
+1482
+01:25:24,480 --> 01:25:26,960
+Earlier time I provided
+
+1483
+01:25:28,040 --> 01:25:31,880
+Yes because doesn't matter read
+which rule we are in.
+
+1484
+01:25:31,880 --> 01:25:35,680
+We will always read the values
+from the first column to columns.
+
+1485
+01:25:35,680 --> 01:25:38,000
+You know what it means?
+First column three.
+
+1486
+01:25:38,240 --> 01:25:41,880
+So my first name is all relevant
+in first column, middle
+
+1487
+01:25:41,880 --> 01:25:44,800
+name and second columns of next zero
+means first column.
+
+1488
+01:25:45,080 --> 01:25:46,840
+That's why I'm waiting here.
+
+1489
+01:25:46,840 --> 01:25:53,120
+And then my column is going to
+define is defined by total column counts,
+
+1490
+01:25:53,120 --> 01:25:57,680
+which is coming from my group
+in which you am right, guys.
+
+1491
+01:25:58,200 --> 01:26:00,520
+And then simply I'm putting it
+here, column,
+
+1492
+01:26:01,040 --> 01:26:04,120
+column plus plus again, increment operator
+
+1493
+01:26:12,600 --> 01:26:14,080
+again increment.
+
+1494
+01:26:14,880 --> 01:26:17,400
+Any issue in understanding
+this particular line
+
+1495
+01:26:18,040 --> 01:26:23,120
+index,
+my column count is depending on room rate.
+
+1496
+01:26:23,880 --> 01:26:28,160
+It is so how many rows
+I have based on these rules
+
+1497
+01:26:28,680 --> 01:26:31,200
+I will use
+
+1498
+01:26:32,160 --> 01:26:34,480
+before my code.
+
+1499
+01:26:34,480 --> 01:26:39,280
+Nice line.
+
+1500
+01:26:39,800 --> 01:26:44,720
+So now see here, read
+my column count is depending on my rules.
+
+1501
+01:26:45,360 --> 01:26:48,120
+Railways doesn't matter
+how many rows I have.
+
+1502
+01:26:48,240 --> 01:26:51,000
+My This particular part
+will read all those rules
+
+1503
+01:26:51,200 --> 01:26:55,000
+and based on these rules
+my this particular function works
+
+1504
+01:26:55,000 --> 01:26:58,120
+and will give me the data
+from every single column great
+
+1505
+01:26:59,240 --> 01:27:03,880
+progress.
+
+1506
+01:27:03,880 --> 01:27:06,000
+Now in the map.
+
+1507
+01:27:06,000 --> 01:27:08,880
+In the map, I'm going to put the data
+
+1508
+01:27:09,120 --> 01:27:13,240
+so when I use what method, it
+simply needs to be the use Mr.
+
+1509
+01:27:13,240 --> 01:27:15,720
+Dot egg to build something in the list.
+
+1510
+01:27:15,960 --> 01:27:19,120
+We use map
+to put to add something in the map.
+
+1511
+01:27:19,960 --> 01:27:21,280
+Please correct me if I'm wrong.
+
+1512
+01:27:21,280 --> 01:27:24,960
+My concepts of governance
+is very, very sympathetic.
+
+1513
+01:27:26,400 --> 01:27:27,720
+Is this correct?
+
+1514
+01:27:27,720 --> 01:27:28,400
+Thank you.
+
+1515
+01:27:28,760 --> 01:27:30,200
+Thank you so much.
+
+1516
+01:27:30,320 --> 01:27:32,400
+Next, I will ask if I have any problem.
+
+1517
+01:27:32,600 --> 01:27:34,800
+You got it right.
+
+1518
+01:27:35,080 --> 01:27:39,560
+So now here in this map,
+right in this map, I'm going to put what
+
+1519
+01:27:40,560 --> 01:27:44,120
+simply stated
+that there is the use of this case.
+
+1520
+01:27:44,120 --> 01:27:45,920
+I'm reading from one here already.
+
+1521
+01:27:45,920 --> 01:27:50,040
+I need only send to read to select
+from every single column.
+
+1522
+01:27:50,040 --> 01:27:52,760
+So let me call this particular my text.
+
+1523
+01:27:52,760 --> 01:27:56,600
+It is asking for two things row
+index and column index
+
+1524
+01:27:56,760 --> 01:28:01,080
+and I'm providing
+intentionally through index zero.
+
+1525
+01:28:01,520 --> 01:28:04,400
+What does it mean? The row index is zero?
+
+1526
+01:28:04,640 --> 01:28:09,640
+I wish I knew the meaning of this function
+and column index coming from my column.
+
+1527
+01:28:09,640 --> 01:28:12,360
+It coming from my column
+
+1528
+01:28:13,480 --> 01:28:16,400
+in case.
+
+1529
+01:28:16,400 --> 01:28:19,160
+So when I provide this data rule
+
+1530
+01:28:19,440 --> 01:28:22,520
+in data
+zero and column index, it means what
+
+1531
+01:28:23,600 --> 01:28:25,120
+it means, what it means.
+
+1532
+01:28:25,120 --> 01:28:27,520
+This is my key.
+
+1533
+01:28:27,880 --> 01:28:29,400
+Now I need a value.
+
+1534
+01:28:29,400 --> 01:28:33,560
+So for value, simple go here rule column
+
+1535
+01:28:34,960 --> 01:28:37,040
+will come on.
+
+1536
+01:28:37,120 --> 01:28:40,680
+Now let me explain you
+this particular function,
+
+1537
+01:28:40,680 --> 01:28:43,280
+how this function will work
+
+1538
+01:28:59,120 --> 01:29:03,440
+now sees my memory
+density and value correct
+
+1539
+01:29:05,520 --> 01:29:06,200
+categories.
+
+1540
+01:29:06,200 --> 01:29:09,240
+Display display is something important and
+
+1541
+01:29:10,680 --> 01:29:12,640
+when I write this line
+
+1542
+01:29:12,640 --> 01:29:15,440
+map don't put right this matter.
+
+1543
+01:29:15,600 --> 01:29:16,640
+Look straight here.
+
+1544
+01:29:16,640 --> 01:29:19,640
+See, this is my key and this is my value.
+
+1545
+01:29:20,240 --> 01:29:23,720
+When I see zero, it means my force.
+
+1546
+01:29:23,960 --> 01:29:25,120
+See, consider.
+
+1547
+01:29:25,120 --> 01:29:29,400
+This is my exactly.
+
+1548
+01:29:29,400 --> 01:29:31,680
+When I see rule zero, it means only this.
+
+1549
+01:29:31,920 --> 01:29:32,640
+We not
+
+1550
+01:29:33,400 --> 01:29:36,160
+only destroyed it and when I say column
+
+1551
+01:29:36,160 --> 01:29:39,720
+counter,
+if column is zero, so zero zero, this one
+
+1552
+01:29:40,280 --> 01:29:42,960
+zero comma one, this one zero, comma two,
+
+1553
+01:29:42,960 --> 01:29:45,400
+this one, zero three, this one.
+
+1554
+01:29:45,960 --> 01:29:48,840
+That's how it will read all the keys
+
+1555
+01:29:48,840 --> 01:29:53,160
+from this particular line or not.
+
+1556
+01:29:53,160 --> 01:29:55,680
+And that's good how we are getting
+the keys from this function.
+
+1557
+01:29:56,680 --> 01:30:00,240
+Now see this second after comma,
+we get values.
+
+1558
+01:30:00,480 --> 01:30:02,200
+So in values are requesting zero.
+
+1559
+01:30:02,200 --> 01:30:03,360
+I'm passing through.
+
+1560
+01:30:03,360 --> 01:30:05,640
+This row is coming from me
+and from the rule one.
+
+1561
+01:30:05,640 --> 01:30:08,600
+It means that it is starting from
+it is a starting.
+
+1562
+01:30:08,960 --> 01:30:11,880
+Come on, it is starting from here.
+
+1563
+01:30:11,880 --> 01:30:14,000
+Right? So it is giving me all the rule.
+
+1564
+01:30:14,040 --> 01:30:17,320
+Count one by one,
+one by one, one by one column control.
+
+1565
+01:30:17,320 --> 01:30:18,400
+So coming from here
+
+1566
+01:30:18,400 --> 01:30:22,840
+because it starts from zero,
+so one by one, one by one, One by one.
+
+1567
+01:30:23,040 --> 01:30:23,400
+Right.
+
+1568
+01:30:23,600 --> 01:30:27,840
+So next time I go from here, value
+over from here.
+
+1569
+01:30:29,000 --> 01:30:32,960
+The next time I go from in value,
+I go from here.
+
+1570
+01:30:33,560 --> 01:30:37,680
+Next time I go from here and value
+I got from the right place.
+
+1571
+01:30:38,240 --> 01:30:43,280
+When I got this value in value,
+it is making one simple grade again.
+
+1572
+01:30:43,280 --> 01:30:44,760
+It is also creating one map.
+
+1573
+01:30:44,760 --> 01:30:47,160
+It is also creating one map and so on.
+
+1574
+01:30:47,760 --> 01:30:50,920
+That's how my function will work.
+
+1575
+01:30:51,360 --> 01:30:52,120
+Any issues?
+
+1576
+01:30:52,120 --> 01:30:55,600
+One understanding this,
+
+1577
+01:30:55,600 --> 01:30:58,600
+what we are doing
+and the issue in this part, students
+
+1578
+01:31:01,920 --> 01:31:02,480
+noise.
+
+1579
+01:31:02,760 --> 01:31:03,240
+Good.
+
+1580
+01:31:03,440 --> 01:31:08,720
+So now, now, now see here so far
+what we are doing,
+
+1581
+01:31:08,960 --> 01:31:14,480
+we have created a map for every tool,
+but it forced migration.
+
+1582
+01:31:14,480 --> 01:31:18,840
+This particular part will return me
+forced to read
+
+1583
+01:31:19,560 --> 01:31:23,000
+this particular will return was to map
+not all the maps.
+
+1584
+01:31:23,280 --> 01:31:25,120
+One maybe one thing too.
+
+1585
+01:31:25,120 --> 01:31:28,160
+When I got this one map, remember
+I told you
+
+1586
+01:31:28,280 --> 01:31:30,560
+we have to speed this map at one place.
+
+1587
+01:31:31,200 --> 01:31:33,920
+If we don't save this map,
+then what would happen?
+
+1588
+01:31:34,200 --> 01:31:35,160
+My map.
+
+1589
+01:31:35,160 --> 01:31:40,520
+My next map, which is upcoming that will
+override this particular menu correct.
+
+1590
+01:31:40,680 --> 01:31:42,640
+And then I would be able to utilize it.
+
+1591
+01:31:42,640 --> 01:31:45,040
+So first, I have to keep this map.
+
+1592
+01:31:45,040 --> 01:31:47,200
+I have received this map somewhere.
+
+1593
+01:31:47,200 --> 01:31:48,120
+Let's do it.
+
+1594
+01:31:48,120 --> 01:31:49,320
+How would I do this?
+
+1595
+01:31:49,320 --> 01:31:53,760
+So the moment I complete,
+I dreamed of the first map.
+
+1596
+01:31:53,760 --> 01:31:56,880
+I'm going to put in the E mystery data
+
+1597
+01:31:57,160 --> 01:32:00,600
+and to add something in the list,
+there is a method called list mode.
+
+1598
+01:32:01,120 --> 01:32:02,920
+What I'm going to add simple.
+
+1599
+01:32:04,320 --> 01:32:06,800
+So now what map?
+
+1600
+01:32:06,800 --> 01:32:09,000
+One map collected from here.
+
+1601
+01:32:09,000 --> 01:32:10,360
+Added here.
+
+1602
+01:32:10,680 --> 01:32:12,720
+Sacred map collected from here.
+
+1603
+01:32:12,720 --> 01:32:15,360
+Added a third member collected from here.
+
+1604
+01:32:15,680 --> 01:32:16,840
+Added here.
+
+1605
+01:32:16,840 --> 01:32:17,560
+Great
+
+1606
+01:32:18,200 --> 01:32:20,240
+place.
+
+1607
+01:32:20,240 --> 01:32:27,320
+Is this correct?
+
+1608
+01:32:27,320 --> 01:32:28,320
+And then?
+
+1609
+01:32:28,320 --> 01:32:33,240
+Then once I'm done with all the maps,
+it means up out the outer.
+
+1610
+01:32:33,240 --> 01:32:34,640
+This to this.
+
+1611
+01:32:34,640 --> 01:32:38,080
+For once I'm done with all the keys,
+all the rules on the columns.
+
+1612
+01:32:38,080 --> 01:32:39,800
+I've read every single thing.
+
+1613
+01:32:39,800 --> 01:32:43,080
+And in the end I need this function
+
+1614
+01:32:43,200 --> 01:32:48,400
+to return me the list down the list, the
+
+1615
+01:32:51,880 --> 01:32:55,320
+rest so far.
+
+1616
+01:32:55,320 --> 01:32:56,560
+So far. Understood.
+
+1617
+01:32:56,560 --> 01:33:00,520
+Can you please repeat line
+number 68.3 display?
+
+1618
+01:33:00,760 --> 01:33:01,720
+That was good
+
+1619
+01:33:02,600 --> 01:33:04,680
+looking by non
+
+1620
+01:33:05,880 --> 01:33:09,400
+see my this particular key
+
+1621
+01:33:09,400 --> 01:33:11,680
+in this particular row with returning map
+
+1622
+01:33:13,320 --> 01:33:17,320
+if. I got a sacred map from here
+and I didn't see this map.
+
+1623
+01:33:17,320 --> 01:33:18,760
+Then what would happen?
+
+1624
+01:33:18,760 --> 01:33:21,560
+This map will override
+the value of this map
+
+1625
+01:33:22,560 --> 01:33:24,360
+that it.
+
+1626
+01:33:24,360 --> 01:33:28,280
+So I don't want this condition what I want
+when I got this map
+
+1627
+01:33:28,280 --> 01:33:32,800
+first I will save it somewhere
+and then I will see a second one.
+
+1628
+01:33:32,800 --> 01:33:35,240
+And then I will see the third one
+and so on.
+
+1629
+01:33:36,720 --> 01:33:44,200
+Great.
+
+1630
+01:33:44,200 --> 01:33:48,000
+I will tell you how split the split
+
+1631
+01:33:48,000 --> 01:33:52,960
+thinking everyday
+director equals of Whenever we do,
+
+1632
+01:33:53,240 --> 01:33:56,720
+we get this great type of opportunity
+right to work in the industry.
+
+1633
+01:33:57,040 --> 01:34:02,040
+So as a as an architect trade, what
+I generally follow is here in the company,
+
+1634
+01:34:03,120 --> 01:34:03,840
+it's not a leap.
+
+1635
+01:34:03,840 --> 01:34:05,960
+See, my job title is something else.
+
+1636
+01:34:05,960 --> 01:34:08,120
+When my responsibilities
+are something in trade.
+
+1637
+01:34:08,400 --> 01:34:10,920
+So they are also me also human being,
+and we could not
+
+1638
+01:34:12,640 --> 01:34:13,600
+equal it.
+
+1639
+01:34:13,960 --> 01:34:16,840
+Every single thing that we use it often
+
+1640
+01:34:17,720 --> 01:34:20,040
+see it is a one day in the case.
+
+1641
+01:34:20,040 --> 01:34:21,360
+This is one name.
+
+1642
+01:34:21,360 --> 01:34:22,680
+You don't have to do it every day.
+
+1643
+01:34:23,760 --> 01:34:24,120
+Once you
+
+1644
+01:34:24,120 --> 01:34:27,560
+created a new framework in every industry,
+all these methods.
+
+1645
+01:34:27,560 --> 01:34:31,360
+So most of what we generally do
+is basically we follow this particular
+
+1646
+01:34:31,600 --> 01:34:34,440
+big thinking speed, think,
+what does it mean
+
+1647
+01:34:34,960 --> 01:34:38,280
+if there is a big task
+or big role responsibility
+
+1648
+01:34:38,280 --> 01:34:42,600
+you have or so many technical aspects,
+just bring them in shorter pieces
+
+1649
+01:34:43,760 --> 01:34:48,320
+and when you spread them in shorter
+pieces, just identify
+
+1650
+01:34:48,320 --> 01:34:52,800
+which are very important, which is
+you will be using every now and moment.
+
+1651
+01:34:52,800 --> 01:34:55,440
+Memorize all of the things you see.
+
+1652
+01:34:55,440 --> 01:34:57,560
+Okay, I can go from here and there.
+
+1653
+01:34:57,560 --> 01:35:00,760
+Then don't memorize those points,
+memorize those.
+
+1654
+01:35:00,760 --> 01:35:01,240
+That happens
+
+1655
+01:35:01,240 --> 01:35:05,120
+Just so next time we just open
+those appearances, you will get the data.
+
+1656
+01:35:05,200 --> 01:35:06,000
+Put it here.
+
+1657
+01:35:06,000 --> 01:35:07,320
+Your work is done.
+
+1658
+01:35:07,320 --> 01:35:08,360
+Right. So there.
+
+1659
+01:35:08,360 --> 01:35:10,160
+So you need to perform this.
+
+1660
+01:35:10,160 --> 01:35:13,720
+You can save this building, implement.
+
+1661
+01:35:13,720 --> 01:35:14,600
+We can save this
+
+1662
+01:35:15,560 --> 01:35:15,840
+move.
+
+1663
+01:35:15,840 --> 01:35:17,240
+Just copy copying your front.
+
+1664
+01:35:17,240 --> 01:35:20,280
+There also is a best thing you can do
+listening,
+
+1665
+01:35:21,280 --> 01:35:21,760
+right?
+
+1666
+01:35:21,760 --> 01:35:25,320
+So it's not only about writing
+this particular function, it's
+
+1667
+01:35:25,320 --> 01:35:28,640
+a long term,
+great long term tip I'm giving you.
+
+1668
+01:35:29,520 --> 01:35:31,800
+If you want to really survive
+in the industry,
+
+1669
+01:35:31,960 --> 01:35:35,080
+remember the moment you speak up, right?
+
+1670
+01:35:35,080 --> 01:35:36,560
+The moment you speak of the moment
+
+1671
+01:35:36,560 --> 01:35:39,480
+you introduce yourself,
+it shows your thought process,
+
+1672
+01:35:40,560 --> 01:35:45,040
+it shows you thought process.
+
+1673
+01:35:45,040 --> 01:35:46,520
+Everyone is doing the same thing.
+
+1674
+01:35:46,520 --> 01:35:49,560
+I need to talk about the waste
+because the trade of the industry
+
+1675
+01:35:50,000 --> 01:35:54,080
+is also doing the best.
+
+1676
+01:35:54,080 --> 01:35:54,960
+No static. No.
+
+1677
+01:35:54,960 --> 01:35:58,640
+Sorry.
+
+1678
+01:35:58,640 --> 01:35:58,960
+Yeah.
+
+1679
+01:35:58,960 --> 01:36:01,600
+Many of them
+are going to be up in one hour anyway.
+
+1680
+01:36:01,600 --> 01:36:03,000
+We are going to complete the class
+
+1681
+01:36:03,000 --> 01:36:06,720
+or we're going to be okay
+if we take a call after the class.
+
+1682
+01:36:06,720 --> 01:36:11,800
+And I will tell you this,
+but the way we generally do,
+
+1683
+01:36:11,800 --> 01:36:13,840
+every class way
+they share the link with everyone
+
+1684
+01:36:13,840 --> 01:36:18,120
+sort of enjoying their rate
+and we can work this fine days.
+
+1685
+01:36:18,520 --> 01:36:22,200
+So far, we created this function
+to read the data from the X,
+
+1686
+01:36:22,200 --> 01:36:25,920
+and by now the next task is
+we are going to use
+
+1687
+01:36:26,040 --> 01:36:30,120
+this particular function
+in our scenario right?
+
+1688
+01:36:30,120 --> 01:36:31,440
+So let's take a break first.
+
+1689
+01:36:31,440 --> 01:36:34,640
+And after the break,
+we take the scenario into consideration.
+
+1690
+01:36:34,800 --> 01:36:39,360
+Okay?
+
+1691
+01:36:39,360 --> 01:36:41,960
+Okay. Let me do it
+first. Don't want to break anyone.
+
+1692
+01:36:43,440 --> 01:36:45,320
+I go from Marina.
+
+1693
+01:36:45,320 --> 01:36:47,400
+I have to do it first
+
+1694
+01:36:53,040 --> 01:36:55,920
+in line number four or in three lines.
+
+1695
+01:36:55,920 --> 01:37:10,520
+You better.
+
+1696
+01:37:10,520 --> 01:37:10,880
+Yeah.
+
+1697
+01:37:11,160 --> 01:37:14,880
+Review part is okay,
+but I hope everyone understood this point.
+
+1698
+01:37:14,880 --> 01:37:17,880
+Everyone understood this
+what day spent and there is nothing
+
+1699
+01:37:18,000 --> 01:37:22,760
+which you guys are not understanding.
+
+1700
+01:37:22,760 --> 01:37:25,160
+Is there anything if you guys think that
+
+1701
+01:37:25,160 --> 01:37:26,960
+you should explain Once again,
+I will explain.
+
+1702
+01:37:26,960 --> 01:37:29,040
+Once again, I don't have any right.
+
+1703
+01:37:29,080 --> 01:37:30,360
+But I need from you.
+
+1704
+01:37:30,360 --> 01:37:32,040
+I need to hear this from you.
+
+1705
+01:37:32,040 --> 01:37:34,560
+It's all good. It's
+
+1706
+01:37:34,560 --> 01:37:35,280
+all right, guys.
+
+1707
+01:37:35,280 --> 01:37:40,480
+Let's take a break for maybe 15 minutes.
+
+1708
+01:37:40,480 --> 01:38:40,160
+And after 15 minutes.
+
+1709
+01:38:40,160 --> 01:38:40,880
+All right,
+
+1710
+01:38:41,760 --> 01:38:45,160
+so now we have written this function
+great.
+
+1711
+01:38:45,160 --> 01:38:49,640
+We have written this function
+so that we can read all the data
+
+1712
+01:38:49,920 --> 01:38:53,400
+from our Excel like correct allotment.
+
+1713
+01:38:54,040 --> 01:38:56,440
+Yes. So I know you're here.
+
+1714
+01:38:56,440 --> 01:39:00,120
+You are also in the last two weeks
+for the president elections.
+
+1715
+01:39:00,120 --> 01:39:01,960
+I'm going to declare
+three names this time.
+
+1716
+01:39:03,360 --> 01:39:05,040
+By now,
+
+1717
+01:39:05,040 --> 01:39:08,960
+let's use this function
+in our feature way.
+
+1718
+01:39:09,080 --> 01:39:11,280
+Okay? How we can write this.
+
+1719
+01:39:11,280 --> 01:39:14,360
+So to add in the feature value
+in any employee,
+
+1720
+01:39:14,360 --> 01:39:17,320
+I will come here
+and I will write a scenario.
+
+1721
+01:39:18,040 --> 01:39:22,560
+So my segment you name would be any
+
+1722
+01:39:24,320 --> 01:39:27,720
+employer from X
+
+1723
+01:39:29,640 --> 01:39:32,520
+rating, employees from x someone.
+
+1724
+01:39:33,720 --> 01:39:36,960
+So now my frequently shown
+is already available in the books.
+
+1725
+01:39:37,240 --> 01:39:38,320
+We all know this.
+
+1726
+01:39:38,320 --> 01:39:43,080
+We don't need to write to use the speech
+elements, application or anything else.
+
+1727
+01:39:43,080 --> 01:39:47,080
+The time user clicks on, add employee,
+but then you build their time
+
+1728
+01:39:47,080 --> 01:39:49,440
+user place on an employee button. Right?
+
+1729
+01:39:49,840 --> 01:39:53,160
+We had this function available
+already in our recruitment
+
+1730
+01:39:54,240 --> 01:39:55,560
+days.
+
+1731
+01:39:55,560 --> 01:39:58,400
+We already have this functions
+in every growing part time.
+
+1732
+01:39:58,800 --> 01:40:01,200
+So now after that we have to write.
+
+1733
+01:40:01,200 --> 01:40:02,640
+So I'm going to write your rent
+
+1734
+01:40:04,200 --> 01:40:06,200
+user and
+
+1735
+01:40:07,840 --> 01:40:11,640
+keep my employees from.
+
+1736
+01:40:12,240 --> 01:40:14,760
+We have a good way to get it from
+
+1737
+01:40:16,160 --> 01:40:18,720
+simplifying using
+
+1738
+01:40:20,160 --> 01:40:22,880
+Excel by using sheet
+
+1739
+01:40:24,160 --> 01:40:27,880
+and redefine
+
+1740
+01:40:29,520 --> 01:40:30,600
+employee.
+
+1741
+01:40:32,000 --> 01:40:35,760
+So I am C user X multiple employees
+from Excel.
+
+1742
+01:40:35,760 --> 01:40:38,760
+My rate how we can provide the data
+
+1743
+01:40:38,760 --> 01:40:42,240
+for the x
+and by the but I that using the sheet.
+
+1744
+01:40:42,680 --> 01:40:44,960
+So now see it one time.
+
+1745
+01:40:45,000 --> 01:40:48,400
+How many should I'm going to use in once
+in any one day?
+
+1746
+01:40:48,400 --> 01:40:50,920
+How many should I can use
+
+1747
+01:40:53,480 --> 01:40:54,680
+only one sheet.
+
+1748
+01:40:54,680 --> 01:40:55,440
+Right.
+
+1749
+01:40:55,440 --> 01:40:58,760
+So isn't it a good idea to provide
+
+1750
+01:40:59,000 --> 01:41:01,760
+a sheet name here for the employee.
+
+1751
+01:41:01,800 --> 01:41:02,400
+Repeat,
+
+1752
+01:41:03,360 --> 01:41:07,920
+this is my sheet
+and if I'm going into how I got the sheet.
+
+1753
+01:41:07,920 --> 01:41:12,760
+BMC If you go here, right,
+this is your data that we provided,
+
+1754
+01:41:13,080 --> 01:41:16,320
+not this one.
+
+1755
+01:41:16,320 --> 01:41:21,520
+This is your data and you'll see the name
+of my sheet is employee data, correct?
+
+1756
+01:41:23,200 --> 01:41:27,360
+Is this correct?
+
+1757
+01:41:27,360 --> 01:41:30,000
+So here I am providing my sheet.
+
+1758
+01:41:30,440 --> 01:41:33,800
+Now everyone knows already
+if I provide something
+
+1759
+01:41:33,800 --> 01:41:37,440
+like this, it converts can do
+
+1760
+01:41:37,440 --> 01:41:39,160
+it converts it into even.
+
+1761
+01:41:39,160 --> 01:41:41,160
+I created this definition.
+
+1762
+01:41:41,160 --> 01:41:43,680
+It converted into what
+
+1763
+01:41:44,280 --> 01:41:45,240
+is print grade.
+
+1764
+01:41:45,240 --> 01:41:49,760
+So let me do it for exudate liquid,
+do it for exalting.
+
+1765
+01:41:50,040 --> 01:41:54,280
+I put this exalting way because I want to
+create the is to be finished.
+
+1766
+01:41:54,520 --> 01:41:57,120
+Fine going to smoke this time
+
+1767
+01:41:57,680 --> 01:41:59,800
+and change this dashboard data
+
+1768
+01:42:00,360 --> 01:42:03,240
+so to exceed day grade
+
+1769
+01:42:03,640 --> 01:42:06,680
+and then make but is equal to true.
+
+1770
+01:42:07,120 --> 01:42:09,200
+So when I write it is equal to true.
+
+1771
+01:42:09,480 --> 01:42:14,720
+It simply means this time
+I'm going to create a step from here right
+
+1772
+01:42:15,120 --> 01:42:19,760
+now, see what happens.
+
+1773
+01:42:19,760 --> 01:42:21,840
+It give me this step.
+
+1774
+01:42:21,840 --> 01:42:24,080
+It is using this particular string.
+
+1775
+01:42:24,480 --> 01:42:29,320
+So my sheet name, my sheet name,
+I will be passing through string.
+
+1776
+01:42:30,960 --> 01:42:34,280
+Let me pull into my post.
+
+1777
+01:42:34,280 --> 01:42:35,520
+Let's make it
+
+1778
+01:42:36,520 --> 01:42:38,800
+now. We're going to an employee steps.
+
+1779
+01:42:39,120 --> 01:42:42,360
+And here, here
+I am writing this particular function.
+
+1780
+01:42:43,800 --> 01:42:47,360
+Now see how I'm going to use this function
+posting
+
+1781
+01:42:48,720 --> 01:42:50,880
+In this particular function I need to.
+
+1782
+01:42:50,880 --> 01:42:54,440
+And the first one is my final name, right?
+
+1783
+01:42:54,440 --> 01:42:57,440
+And the second one is my sheet name
+should.
+
+1784
+01:42:57,440 --> 01:43:01,760
+Name is coming from my feature point,
+but still file name is a problem.
+
+1785
+01:43:03,160 --> 01:43:04,880
+Finding is a problem.
+
+1786
+01:43:04,880 --> 01:43:07,200
+So first let me handle this.
+
+1787
+01:43:07,200 --> 01:43:14,360
+The spring is sheet and putting the handle
+this is issued me now.
+
+1788
+01:43:14,360 --> 01:43:17,640
+See that is what I'm going to do here.
+
+1789
+01:43:17,640 --> 01:43:20,640
+Tell me which function we have,
+
+1790
+01:43:20,640 --> 01:43:23,320
+which function we have,
+which we use to read the data
+
+1791
+01:43:24,840 --> 01:43:25,680
+from the Excel.
+
+1792
+01:43:25,680 --> 01:43:29,640
+Reading this is my explaining
+which function we have to use
+
+1793
+01:43:29,760 --> 01:43:33,560
+to read the data Open Excel sheet
+go through the column.
+
+1794
+01:43:33,560 --> 01:43:37,520
+Government will consider data
+or excel in to list which function
+
+1795
+01:43:43,240 --> 01:43:45,280
+the open exit
+
+1796
+01:43:46,560 --> 01:43:46,880
+alone.
+
+1797
+01:43:46,880 --> 01:43:49,240
+I can see opening
+signal already used. Yes.
+
+1798
+01:43:51,160 --> 01:43:52,200
+Whatever. The font.
+
+1799
+01:43:52,200 --> 01:43:53,280
+Yes. Correct.
+
+1800
+01:43:53,280 --> 01:43:56,520
+Whatever the functions
+we defined the line number 49.
+
+1801
+01:43:56,760 --> 01:44:01,440
+We used all those functions here
+to make one global function,
+
+1802
+01:44:01,560 --> 01:44:05,040
+and that global function
+is excel in the list map.
+
+1803
+01:44:05,560 --> 01:44:08,040
+So this one, we need this one.
+
+1804
+01:44:08,040 --> 01:44:10,040
+We need didn't
+
+1805
+01:44:11,280 --> 01:44:12,920
+because we made it already static.
+
+1806
+01:44:12,920 --> 01:44:16,520
+So what I can do,
+let me go into my employees
+
+1807
+01:44:19,000 --> 01:44:20,160
+and here I'm reading
+
+1808
+01:44:20,160 --> 01:44:23,960
+from my accelerating point Dart
+
+1809
+01:44:25,080 --> 01:44:27,200
+excel into list.
+
+1810
+01:44:27,200 --> 01:44:27,960
+Correct.
+
+1811
+01:44:28,120 --> 01:44:30,240
+And here it is asking for duty.
+
+1812
+01:44:30,240 --> 01:44:32,040
+The most is file book.
+
+1813
+01:44:32,040 --> 01:44:34,640
+And the second one is should me. Right.
+
+1814
+01:44:35,160 --> 01:44:37,840
+So now let me put the sheet name forced.
+
+1815
+01:44:38,240 --> 01:44:41,120
+It's a sheet and it was coming from here.
+
+1816
+01:44:41,120 --> 01:44:43,560
+So you see sheet name is coming from here.
+
+1817
+01:44:44,040 --> 01:44:46,800
+But my file but I can take
+
+1818
+01:44:46,800 --> 01:44:50,600
+from it.
+
+1819
+01:44:50,600 --> 01:44:52,080
+This is the book.
+
+1820
+01:44:53,200 --> 01:44:55,320
+Now let me revise your concept.
+
+1821
+01:44:56,480 --> 01:45:00,520
+Remember we provided the file,
+but it is today's financing.
+
+1822
+01:45:00,840 --> 01:45:03,160
+But remember for configured properties.
+
+1823
+01:45:03,160 --> 01:45:04,320
+Then we were reading.
+
+1824
+01:45:04,320 --> 01:45:04,680
+Right?
+
+1825
+01:45:04,680 --> 01:45:07,080
+Let's see in config properties
+
+1826
+01:45:07,320 --> 01:45:11,480
+we provided the file, but from here
+you see this is the dynamic file.
+
+1827
+01:45:11,480 --> 01:45:17,360
+But so do we have any particular with root
+package?
+
+1828
+01:45:17,360 --> 01:45:18,000
+Yes. Correct.
+
+1829
+01:45:18,000 --> 01:45:20,760
+So do we have any particular place
+in our framework
+
+1830
+01:45:21,120 --> 01:45:24,480
+from where we can pass this book,
+the part of the file?
+
+1831
+01:45:25,320 --> 01:45:29,280
+Do we have anything in our dream
+because of no
+
+1832
+01:45:32,360 --> 01:45:33,560
+strings?
+
+1833
+01:45:33,840 --> 01:45:36,320
+Constants, Constants for hard.
+
+1834
+01:45:37,000 --> 01:45:40,360
+You see, in constraints,
+I provided the path of my file
+
+1835
+01:45:40,360 --> 01:45:42,680
+for configured properties.
+
+1836
+01:45:42,680 --> 01:45:47,480
+Remember system
+don't let property user build it for you
+
+1837
+01:45:47,600 --> 01:45:51,000
+and it gives us the path
+it returns the path of the project.
+
+1838
+01:45:51,200 --> 01:45:54,600
+And in that project,
+whatever the things we have read,
+
+1839
+01:45:54,600 --> 01:45:58,440
+whatever the file we want to call,
+we can call this finally here like this
+
+1840
+01:46:01,240 --> 01:46:03,600
+there is one.
+
+1841
+01:46:03,600 --> 01:46:08,280
+Remember this button or tell me.
+
+1842
+01:46:08,280 --> 01:46:10,560
+Yes, but we have to create a path for it.
+
+1843
+01:46:10,560 --> 01:46:12,040
+So that's what I'm saying.
+
+1844
+01:46:12,040 --> 01:46:15,400
+Do we have any place in our framework
+from where we can provide the path?
+
+1845
+01:46:15,720 --> 01:46:18,480
+So, yes,
+we do have this place straight, see
+
+1846
+01:46:18,720 --> 01:46:21,920
+under this resources grade,
+and that is resources.
+
+1847
+01:46:21,920 --> 01:46:23,720
+We have this data line.
+
+1848
+01:46:23,720 --> 01:46:30,360
+So let's go ahead and do this.
+
+1849
+01:46:30,360 --> 01:46:34,080
+I'm going to write this
+and I'm going to provide is as
+
+1850
+01:46:36,240 --> 01:46:39,360
+is due to the school
+
+1851
+01:46:39,360 --> 01:46:41,400
+my grade.
+
+1852
+01:46:41,400 --> 01:46:45,240
+So when I said instead of file
+but here I'm having a world record is
+
+1853
+01:46:45,240 --> 01:46:49,320
+did not slash here
+I'm having the venue called
+
+1854
+01:46:49,800 --> 01:46:52,080
+the test data
+
+1855
+01:46:53,800 --> 01:46:57,360
+and each part is not fixed.
+
+1856
+01:46:57,400 --> 01:46:58,680
+It is
+
+1857
+01:47:00,360 --> 01:47:03,520
+correct.
+
+1858
+01:47:03,520 --> 01:47:06,920
+Now school. Where did you find me? Fast
+
+1859
+01:47:13,080 --> 01:47:14,520
+in this part
+
+1860
+01:47:16,800 --> 01:47:18,960
+because we just started
+after the pre printing.
+
+1861
+01:47:18,960 --> 01:47:22,080
+Before the break, everything was pointing
+
+1862
+01:47:22,800 --> 01:47:32,080
+nicely, made really fast.
+
+1863
+01:47:32,080 --> 01:47:36,280
+Okay, let me repeat it again.
+
+1864
+01:47:36,280 --> 01:47:38,760
+Yes, yes, yes. So here, here.
+
+1865
+01:47:39,760 --> 01:47:41,880
+Remember this particular part, right?
+
+1866
+01:47:41,880 --> 01:47:45,600
+Remember this constant class
+that we have from here?
+
+1867
+01:47:45,760 --> 01:47:50,400
+We are passing all the file,
+but the things which are constants.
+
+1868
+01:47:50,520 --> 01:47:51,640
+So what are constants?
+
+1869
+01:47:51,640 --> 01:47:53,520
+All the file parts are constant.
+
+1870
+01:47:53,520 --> 01:47:55,360
+This part of, the files.
+
+1871
+01:47:55,360 --> 01:47:57,640
+I'm not going to change in the framework.
+
+1872
+01:47:58,000 --> 01:48:00,480
+And if there is something,
+we have enough beam
+
+1873
+01:48:00,480 --> 01:48:04,680
+which is constant to provide those things
+in our constants.
+
+1874
+01:48:04,680 --> 01:48:09,320
+The but super confident properties
+by the configuration file.
+
+1875
+01:48:09,320 --> 01:48:13,920
+But we provided using system
+the property grade.
+
+1876
+01:48:13,920 --> 01:48:18,000
+If you guys watch this video,
+then you must be having the knowledge
+
+1877
+01:48:18,000 --> 01:48:22,440
+of this part, this the stronger
+object property, any user dot bigger
+
+1878
+01:48:23,120 --> 01:48:25,560
+it returns the part of your project
+
+1879
+01:48:26,520 --> 01:48:28,800
+when it returns the part of your project.
+
+1880
+01:48:29,040 --> 01:48:31,760
+Inside this project, you get this data.
+
+1881
+01:48:32,600 --> 01:48:35,800
+When you get this,
+do not grade, it returns the complete.
+
+1882
+01:48:35,800 --> 01:48:40,240
+But similarly for this data
+also I'm doing what systemd
+
+1883
+01:48:40,400 --> 01:48:44,440
+did property user data which is returning
+the part of this project.
+
+1884
+01:48:45,000 --> 01:48:48,000
+Inside the project I am writing this RC
+
+1885
+01:48:48,440 --> 01:48:51,640
+based resources and the resources.
+
+1886
+01:48:51,640 --> 01:48:57,320
+I have this data under this I have this
+particular byte, this data batch element
+
+1887
+01:48:58,360 --> 01:49:01,440
+X in a sixth grade case.
+
+1888
+01:49:01,440 --> 01:49:06,760
+So now this part will return the file
+part of my excel sheet.
+
+1889
+01:49:07,640 --> 01:49:10,440
+Now clear for constants
+
+1890
+01:49:15,240 --> 01:49:18,120
+everyone knows good at any
+
+1891
+01:49:28,840 --> 01:49:32,280
+right now is what I'm waiting on some is
+
+1892
+01:49:37,560 --> 01:49:38,360
+great.
+
+1893
+01:49:39,000 --> 01:49:42,800
+Now let's come here
+it is asking for two things.
+
+1894
+01:49:42,800 --> 01:49:47,280
+See now I'm doing is it is asking
+for two things and it's accelerating.
+
+1895
+01:49:47,280 --> 01:49:51,400
+Bit C is the most display
+but so now I can take this file.
+
+1896
+01:49:51,400 --> 01:49:54,960
+But from here from my
+
+1897
+01:49:54,960 --> 01:49:58,560
+constants don't is data mind
+
+1898
+01:49:59,400 --> 01:50:02,360
+and the sheet name
+I am getting from my feature like
+
+1899
+01:50:03,520 --> 01:50:05,960
+this particular partly
+
+1900
+01:50:07,320 --> 01:50:08,000
+this particular.
+
+1901
+01:50:08,000 --> 01:50:09,560
+What I'm doing is
+
+1902
+01:50:10,960 --> 01:50:12,280
+now C
+
+1903
+01:50:12,720 --> 01:50:15,600
+here when I'm calling this particular
+part.
+
+1904
+01:50:15,800 --> 01:50:16,600
+Right.
+
+1905
+01:50:16,600 --> 01:50:18,960
+It is returning me what
+
+1906
+01:50:18,960 --> 01:50:21,240
+it is returning me the list of maps.
+
+1907
+01:50:21,600 --> 01:50:22,440
+Right.
+
+1908
+01:50:22,480 --> 01:50:27,240
+So let me back here
+to handle this list of maps,
+
+1909
+01:50:27,560 --> 01:50:31,280
+which is having my keys and values
+in the stream form.
+
+1910
+01:50:31,560 --> 01:50:34,400
+And I'm going to provide this is new
+
+1911
+01:50:37,240 --> 01:50:42,720
+drawings, mostly what I'm doing.
+
+1912
+01:50:43,200 --> 01:50:45,120
+I'm reading accelerating class.
+
+1913
+01:50:45,120 --> 01:50:47,600
+From there,
+I'm calling this particular function,
+
+1914
+01:50:48,000 --> 01:50:50,240
+which is calling
+this particular is data file,
+
+1915
+01:50:50,240 --> 01:50:53,160
+but it means my excellent file
+and in this sheet.
+
+1916
+01:50:53,400 --> 01:50:56,320
+So this particular part is returning me
+the list of maps.
+
+1917
+01:50:56,520 --> 01:51:00,800
+So to handle this list of maps, I call
+this particular object new employees.
+
+1918
+01:51:01,040 --> 01:51:06,040
+Now, my new employees will be having
+this particular object, new employees
+
+1919
+01:51:06,040 --> 01:51:09,960
+going to be having all their data,
+all their data from, the exam point,
+
+1920
+01:51:10,120 --> 01:51:15,000
+and now this data
+I can use via migrations In my script,
+
+1921
+01:51:16,200 --> 01:51:21,960
+I find our industrial
+
+1922
+01:51:25,080 --> 01:51:27,680
+grid.
+
+1923
+01:51:27,680 --> 01:51:33,480
+Now see what I'm going to do here.
+
+1924
+01:51:33,480 --> 01:51:38,040
+I'm going to write this function ten days
+if I'm having something right.
+
+1925
+01:51:38,040 --> 01:51:43,040
+The object, for example, new employees,
+which is having multiple values
+
+1926
+01:51:43,040 --> 01:51:45,720
+and I want to fetch
+every single value from there.
+
+1927
+01:51:46,080 --> 01:51:47,760
+What is the best approach in Java?
+
+1928
+01:51:47,760 --> 01:51:50,640
+We have to edit all the things,
+delete all the things.
+
+1929
+01:51:50,640 --> 01:51:51,800
+One by one, one moment
+
+1930
+01:51:54,080 --> 01:51:54,960
+I did a
+
+1931
+01:51:54,960 --> 01:51:58,680
+simple thing, so let me use it.
+
+1932
+01:51:58,680 --> 01:52:03,240
+We use I bring that
+I had written on this particular map
+
+1933
+01:52:03,840 --> 01:52:06,320
+where I am having this dream
+
+1934
+01:52:07,640 --> 01:52:12,160
+come the string which is returning
+every key and value for me.
+
+1935
+01:52:12,720 --> 01:52:17,160
+So let me rate
+idea is equal to which I written
+
+1936
+01:52:17,320 --> 01:52:21,960
+for which object
+then going to use it for my new employees.
+
+1937
+01:52:22,160 --> 01:52:25,680
+Part matrix.
+
+1938
+01:52:25,680 --> 01:52:26,960
+Any confusion in this code?
+
+1939
+01:52:26,960 --> 01:52:31,440
+I'm going to break the map rate
+based on keys and values using Trigger.
+
+1940
+01:52:31,720 --> 01:52:35,760
+And this is the list of maps
+I'm having new employees
+
+1941
+01:52:36,480 --> 01:52:39,240
+replace.
+
+1942
+01:52:39,240 --> 01:52:42,640
+Now the limit is what is the force
+to matter to be called When we use article
+
+1943
+01:52:42,640 --> 01:52:46,480
+which look
+we have to use here for a trigger.
+
+1944
+01:52:46,680 --> 01:52:48,360
+They look very good
+
+1945
+01:52:48,360 --> 01:52:51,200
+inside of a look
+which method has next or next
+
+1946
+01:52:53,960 --> 01:52:57,120
+idea behind has next method we use.
+
+1947
+01:52:57,400 --> 01:53:00,960
+What this method does gives
+my views as mixed method.
+
+1948
+01:53:01,640 --> 01:53:03,440
+What is the function of
+
+1949
+01:53:14,280 --> 01:53:15,040
+it? Returns
+
+1950
+01:53:15,040 --> 01:53:18,800
+true builder type elements
+one by one, one by one.
+
+1951
+01:53:18,800 --> 01:53:21,360
+It is checking right?
+
+1952
+01:53:21,360 --> 01:53:22,480
+It is taking one by one.
+
+1953
+01:53:22,480 --> 01:53:24,280
+Whether we have a new,
+whether we have a new way
+
+1954
+01:53:24,280 --> 01:53:27,040
+that we have a new builder time
+we have values.
+
+1955
+01:53:27,080 --> 01:53:30,600
+It keeps returning the operation moderate.
+
+1956
+01:53:30,600 --> 01:53:31,560
+That's it.
+
+1957
+01:53:31,640 --> 01:53:34,920
+His next
+method is the first part of my iterator.
+
+1958
+01:53:35,280 --> 01:53:36,200
+Fine.
+
+1959
+01:53:36,360 --> 01:53:38,600
+Now, when I came inside this
+
+1960
+01:53:39,240 --> 01:53:44,480
+because I know I'm going to get my keys
+and my spirit in the form of map.
+
+1961
+01:53:44,720 --> 01:53:50,840
+So I'm writing a new map to make this
+new map for work for every new employee.
+
+1962
+01:53:50,840 --> 01:53:53,280
+I'm getting one key in one way, right?
+
+1963
+01:53:53,520 --> 01:53:57,960
+So I'm reading here idea
+not next for every single one.
+
+1964
+01:53:58,880 --> 01:53:59,840
+Now, this map
+
+1965
+01:54:01,160 --> 01:54:04,080
+map new employee is having key and value
+
+1966
+01:54:04,080 --> 01:54:08,000
+for one employee again
+for one employment again for one employee.
+
+1967
+01:54:08,400 --> 01:54:11,920
+Read every single thing
+I'm getting one by one into
+
+1968
+01:54:11,960 --> 01:54:15,240
+my mind is beginning
+right at this point here First
+
+1969
+01:54:20,560 --> 01:54:24,240
+with the B and
+
+1970
+01:54:30,320 --> 01:54:32,000
+it returns
+
+1971
+01:54:33,000 --> 01:54:35,320
+when the key
+
+1972
+01:54:38,840 --> 01:54:41,080
+employee's right
+
+1973
+01:54:41,080 --> 01:54:44,240
+So now now what I'm going to do
+is see first,
+
+1974
+01:54:45,760 --> 01:54:48,480
+whatever the data I'm getting in this map
+
+1975
+01:54:48,480 --> 01:54:52,560
+and I know I'm having keys,
+I know I'm able to keys.
+
+1976
+01:54:52,800 --> 01:54:54,400
+Tell me what gives me here.
+
+1977
+01:54:54,400 --> 01:54:56,440
+We have force name in middle name.
+
+1978
+01:54:56,440 --> 01:54:57,360
+We last name.
+
+1979
+01:54:57,360 --> 01:54:59,760
+You have so many other use relays.
+
+1980
+01:55:00,760 --> 01:55:02,920
+We have so many other keys
+which we can use here
+
+1981
+01:55:03,800 --> 01:55:08,240
+right?
+
+1982
+01:55:08,240 --> 01:55:09,800
+Getting my point done.
+
+1983
+01:55:10,320 --> 01:55:13,080
+So now let's use all these keys.
+
+1984
+01:55:13,080 --> 01:55:15,280
+Let's use all this keys from here.
+
+1985
+01:55:15,280 --> 01:55:18,760
+So first what I'm going to do,
+I will take this both memory,
+
+1986
+01:55:18,760 --> 01:55:20,400
+the name and last name. Three locators.
+
+1987
+01:55:20,400 --> 01:55:24,000
+I already have like three locators
+I already have.
+
+1988
+01:55:24,320 --> 01:55:28,600
+So let me copy
+three locators and let me pasted here
+
+1989
+01:55:29,640 --> 01:55:30,560
+this three locators.
+
+1990
+01:55:30,560 --> 01:55:33,280
+After taking this data from here
+like this.
+
+1991
+01:55:34,040 --> 01:55:37,520
+Now, I wrote of this post number,
+so how can I get this new
+
+1992
+01:55:38,400 --> 01:55:41,040
+I can get this value from here.
+
+1993
+01:55:41,040 --> 01:55:43,080
+I'm writing here
+
+1994
+01:55:44,040 --> 01:55:46,960
+map new employee.
+
+1995
+01:55:46,960 --> 01:55:50,840
+Don't tell me guys which material to use
+to get the key from the map
+
+1996
+01:55:51,760 --> 01:55:54,560
+for this
+to add to get something from the key.
+
+1997
+01:55:54,560 --> 01:55:55,600
+Get to my right.
+
+1998
+01:55:55,600 --> 01:55:57,440
+Get What is the key.
+
+1999
+01:55:57,440 --> 01:56:00,920
+My first name
+
+2000
+01:56:00,920 --> 01:56:01,720
+is this correct?
+
+2001
+01:56:01,720 --> 01:56:03,800
+My keys Postman
+
+2002
+01:56:07,160 --> 01:56:09,240
+the my point to one
+
+2003
+01:56:11,880 --> 01:56:14,880
+point similarly similarly
+
+2004
+01:56:16,200 --> 01:56:18,640
+for the name
+
+2005
+01:56:18,640 --> 01:56:21,440
+also I will get the key
+course immediately.
+
+2006
+01:56:22,680 --> 01:56:25,760
+I will show you where are these keys
+available and last name.
+
+2007
+01:56:25,760 --> 01:56:29,680
+Also I have a key to go Go ask
+
+2008
+01:56:30,760 --> 01:56:33,320
+now see let me open.
+
+2009
+01:56:33,360 --> 01:56:34,040
+Right. Excellent.
+
+2010
+01:56:34,040 --> 01:56:37,160
+Right. As said, this is my first name.
+
+2011
+01:56:37,160 --> 01:56:38,080
+This is my middle name.
+
+2012
+01:56:38,080 --> 01:56:39,240
+This is my last name.
+
+2013
+01:56:39,240 --> 01:56:40,600
+Right? This.
+
+2014
+01:56:40,600 --> 01:56:43,160
+And you see, these
+are the keys available on my first title.
+
+2015
+01:56:43,560 --> 01:56:45,960
+So when I have all these keys
+in my first room,
+
+2016
+01:56:46,200 --> 01:56:49,480
+I'm calling this keys map new, right?
+
+2017
+01:56:49,520 --> 01:56:51,640
+This map is aiming all that is target.
+
+2018
+01:56:51,640 --> 01:56:53,040
+So what? It returns.
+
+2019
+01:56:53,040 --> 01:56:57,360
+It returns the value against these keys
+one by one.
+
+2020
+01:56:57,720 --> 01:56:58,440
+Correct.
+
+2021
+01:56:58,440 --> 01:57:01,200
+So in the first iteration,
+in the first iteration,
+
+2022
+01:57:01,200 --> 01:57:05,440
+false name, whatever the Muslim, whatever
+the last name, whatever the middle name,
+
+2023
+01:57:05,640 --> 01:57:08,520
+I'm going to get. Fine. Right after this.
+
+2024
+01:57:08,520 --> 01:57:11,640
+The next thing which I'm going to do
+is see what I'm going to do.
+
+2025
+01:57:13,440 --> 01:57:14,320
+I'm going to write
+
+2026
+01:57:14,320 --> 01:57:18,880
+here first,
+let me open the application that we have.
+
+2027
+01:57:19,320 --> 01:57:21,560
+We need to look of this particular
+path or not.
+
+2028
+01:57:21,720 --> 01:57:22,560
+Did me
+
+2029
+01:57:29,760 --> 01:57:30,920
+guys, do we need
+
+2030
+01:57:30,920 --> 01:57:39,480
+look again or not?
+
+2031
+01:57:39,480 --> 01:57:40,720
+Let me take this. Look at that.
+
+2032
+01:57:40,720 --> 01:57:48,320
+Yes. Do we need to without locator,
+how can we pass something?
+
+2033
+01:57:48,320 --> 01:57:51,760
+What I can see and I only
+
+2034
+01:57:51,840 --> 01:57:55,960
+can we see a negative value based?
+
+2035
+01:57:55,960 --> 01:57:58,200
+Let me take this idea.
+
+2036
+01:57:58,200 --> 01:58:00,520
+Let me go here
+and I'm going to rank there.
+
+2037
+01:58:01,520 --> 01:58:04,440
+And let's see
+
+2038
+01:58:04,440 --> 01:58:06,680
+for both equal to driver
+
+2039
+01:58:07,040 --> 01:58:12,360
+or find any element by dark by D
+This is the photo.
+
+2040
+01:58:12,360 --> 01:58:13,400
+Fine.
+
+2041
+01:58:13,440 --> 01:58:14,600
+And then I'm working here.
+
+2042
+01:58:14,600 --> 01:58:18,120
+Photo for CINETIS And here
+
+2043
+01:58:18,120 --> 01:58:20,600
+in this case, I'm going to pass more.
+
+2044
+01:58:21,600 --> 01:58:23,880
+I'm going to pass from my map
+
+2045
+01:58:24,600 --> 01:58:29,080
+door again Gate And what is the key?
+
+2046
+01:58:29,080 --> 01:58:31,640
+The key and the key
+which are provided here.
+
+2047
+01:58:31,640 --> 01:58:32,960
+So what is the key?
+
+2048
+01:58:32,960 --> 01:58:35,520
+The key is photograph you see
+
+2049
+01:58:36,720 --> 01:58:37,400
+right.
+
+2050
+01:58:37,400 --> 01:58:40,520
+Whatever this building drop baggage claim
+
+2051
+01:58:41,640 --> 01:58:42,840
+or to
+
+2052
+01:58:48,000 --> 01:58:48,840
+frame.
+
+2053
+01:58:49,960 --> 01:58:54,520
+Now see these three things for things
+the enforcement rate
+
+2054
+01:58:54,640 --> 01:58:58,880
+middle name last name,
+photograph should be first click.
+
+2055
+01:58:58,880 --> 01:58:59,520
+Yes. Yes.
+
+2056
+01:58:59,520 --> 01:59:00,960
+I'm coming to my notebook.
+
+2057
+01:59:00,960 --> 01:59:01,960
+I'm coming for that one.
+
+2058
+01:59:01,960 --> 01:59:09,520
+Good.
+
+2059
+01:59:09,520 --> 01:59:11,560
+Now you'll see here
+
+2060
+01:59:11,920 --> 01:59:14,200
+if I go in my application, read C
+
+2061
+01:59:15,240 --> 01:59:17,960
+first name with the name
+last in photograph I selected.
+
+2062
+01:59:18,200 --> 01:59:21,280
+But let's say I create log in details
+checkbox is not
+
+2063
+01:59:21,280 --> 01:59:23,200
+available, is not selected.
+
+2064
+01:59:23,200 --> 01:59:25,160
+Will I get the username?
+
+2065
+01:59:25,160 --> 01:59:26,600
+Yeah, but I will do that.
+
+2066
+01:59:26,600 --> 01:59:29,280
+Will I get the username password face? No.
+
+2067
+01:59:29,760 --> 01:59:31,760
+Right. I won't do this.
+
+2068
+01:59:31,760 --> 01:59:35,280
+So first what I have to do,
+I have to select this checkbox
+
+2069
+01:59:35,640 --> 01:59:40,320
+or I have to check whether this select
+the box is already selected or not.
+
+2070
+01:59:40,600 --> 01:59:44,280
+If it is not selected
+then only I will select the checkbox
+
+2071
+01:59:44,520 --> 01:59:51,000
+right.
+
+2072
+01:59:51,000 --> 01:59:51,600
+Fine.
+
+2073
+01:59:51,840 --> 01:59:55,080
+So now let me take
+the expert of this particular
+
+2074
+01:59:57,720 --> 01:59:59,160
+check log in
+
+2075
+02:00:00,160 --> 02:00:01,600
+again. I need to block.
+
+2076
+02:00:01,600 --> 02:00:02,800
+I will pick.
+
+2077
+02:00:02,800 --> 02:00:06,480
+So after after sending the photograph
+here, I'm writing one
+
+2078
+02:00:07,520 --> 02:00:09,840
+if I see whenever I think if
+
+2079
+02:00:11,160 --> 02:00:14,280
+my right
+
+2080
+02:00:14,280 --> 02:00:15,520
+influenced
+
+2081
+02:00:16,200 --> 02:00:16,680
+reality.
+
+2082
+02:00:16,680 --> 02:00:17,640
+He made
+
+2083
+02:00:20,040 --> 02:00:23,040
+chunks in sequence to
+
+2084
+02:00:23,040 --> 02:00:24,400
+try to find.
+
+2085
+02:00:24,400 --> 02:00:29,000
+That was my idea.
+
+2086
+02:00:29,000 --> 02:00:36,960
+So if my checkbox store is
+
+2087
+02:00:37,720 --> 02:00:40,440
+if not checkboxes,
+
+2088
+02:00:40,440 --> 02:00:41,880
+then I set this exclamation.
+
+2089
+02:00:41,880 --> 02:00:44,040
+It means the opposite grade.
+
+2090
+02:00:44,400 --> 02:00:47,160
+If I don't use this,
+it means checkboxes selected.
+
+2091
+02:00:47,160 --> 02:00:49,320
+It will check, it will be selected.
+
+2092
+02:00:49,320 --> 02:00:53,200
+If I put this exclamation,
+it means it means check and performs
+
+2093
+02:00:53,200 --> 02:00:56,160
+the operation when it is not selected.
+
+2094
+02:00:56,400 --> 02:00:57,600
+Just opposite.
+
+2095
+02:00:57,600 --> 02:01:01,560
+Have you guys remember if you guys
+understood this point, exclamation means
+
+2096
+02:01:01,560 --> 02:01:07,320
+opposite simple trade so not checkbox is
+selected simply checkbox is not selected.
+
+2097
+02:01:07,640 --> 02:01:11,400
+So if it is not selected
+then simply do one thing to.
+
+2098
+02:01:11,400 --> 02:01:12,800
+Go start, click
+
+2099
+02:01:14,400 --> 02:01:15,160
+next.
+
+2100
+02:01:15,360 --> 02:01:17,840
+And that's put the logic What I'm doing.
+
+2101
+02:01:17,840 --> 02:01:21,120
+If my checkbox is not selected,
+
+2102
+02:01:21,120 --> 02:01:23,840
+the checkbox simply
+
+2103
+02:01:25,680 --> 02:01:26,680
+reads.
+
+2104
+02:01:26,680 --> 02:01:29,160
+And now after, after clicking
+
+2105
+02:01:29,320 --> 02:01:32,600
+here, after clicking here,
+what is the next thing we have to do?
+
+2106
+02:01:32,960 --> 02:01:34,960
+We need all these points.
+
+2107
+02:01:34,960 --> 02:01:37,240
+We need your username, your password.
+
+2108
+02:01:37,240 --> 02:01:39,440
+You can confirm password
+and everything. Great.
+
+2109
+02:01:39,920 --> 02:01:43,800
+So let's go ahead and check
+if I select this particular one.
+
+2110
+02:01:43,840 --> 02:01:46,520
+It opens username password confirm
+plus what point.
+
+2111
+02:01:47,280 --> 02:01:50,040
+Take this locator one by one
+
+2112
+02:01:50,160 --> 02:01:50,640
+exists.
+
+2113
+02:01:50,640 --> 02:01:52,680
+User name
+
+2114
+02:01:52,880 --> 02:01:53,560
+Client
+
+2115
+02:01:54,360 --> 02:01:55,480
+element.
+
+2116
+02:01:56,320 --> 02:02:02,480
+User name as it is to.
+
+2117
+02:02:02,480 --> 02:02:05,160
+I'm typing it fast
+because we all have this code right?
+
+2118
+02:02:05,160 --> 02:02:07,640
+You just need to confirm this. This. Okay.
+
+2119
+02:02:07,640 --> 02:02:10,160
+The second thing is
+
+2120
+02:02:10,960 --> 02:02:13,080
+password user password
+
+2121
+02:02:18,600 --> 02:02:19,800
+element
+
+2122
+02:02:20,720 --> 02:02:22,480
+constant, which is impossible trying,
+
+2123
+02:02:22,480 --> 02:02:25,560
+but trying to find elements.
+
+2124
+02:02:25,560 --> 02:02:28,080
+I think this is the password.
+
+2125
+02:02:28,600 --> 02:02:33,120
+And the third one
+I'm going to get is confirm password. So
+
+2126
+02:02:34,760 --> 02:02:36,600
+this would be my origin password.
+
+2127
+02:02:36,600 --> 02:02:38,320
+I'm going to get my
+
+2128
+02:02:38,760 --> 02:02:41,760
+password, my
+
+2129
+02:02:41,760 --> 02:02:43,680
+verbatim link.
+
+2130
+02:02:44,520 --> 02:02:46,680
+I shall try the compound
+
+2131
+02:02:46,680 --> 02:02:49,120
+password is equals prior word or
+
+2132
+02:02:50,280 --> 02:02:55,480
+element by got a D
+it should be my password.
+
+2133
+02:02:56,160 --> 02:03:00,320
+Well forced constant encoding, correct?
+
+2134
+02:03:00,840 --> 02:03:01,720
+Correct.
+
+2135
+02:03:02,040 --> 02:03:07,000
+So now C first username don't send a keys.
+
+2136
+02:03:07,000 --> 02:03:09,840
+You take the incoming
+from my new employee.
+
+2137
+02:03:10,920 --> 02:03:13,200
+Don't get
+
+2138
+02:03:13,200 --> 02:03:16,920
+and then this would be mine username.
+
+2139
+02:03:16,920 --> 02:03:18,600
+Correct. I need to check the keys.
+
+2140
+02:03:18,600 --> 02:03:22,440
+By the way,
+this gives username and password to you.
+
+2141
+02:03:22,440 --> 02:03:23,840
+Capital B
+
+2142
+02:03:24,720 --> 02:03:26,160
+This would be my username.
+
+2143
+02:03:26,160 --> 02:03:29,040
+Similarly for password or
+
+2144
+02:03:30,160 --> 02:03:31,720
+same keys.
+
+2145
+02:03:31,720 --> 02:03:34,200
+Again, make it
+
+2146
+02:03:35,000 --> 02:03:38,120
+so it would be my password.
+
+2147
+02:03:38,120 --> 02:03:40,160
+And the third thing here is my
+
+2148
+02:03:41,560 --> 02:03:42,360
+password there.
+
+2149
+02:03:42,360 --> 02:03:47,160
+All I need to do to do this
+again, it take from here or
+
+2150
+02:03:48,240 --> 02:03:49,440
+not, I might.
+
+2151
+02:03:49,440 --> 02:03:53,320
+Again, I'm passing the same key
+password in control password Also
+
+2152
+02:03:55,080 --> 02:03:56,640
+put the places to redeem.
+
+2153
+02:03:56,640 --> 02:04:00,640
+Plus the way we can consider this,
+we can add
+
+2154
+02:04:00,640 --> 02:04:05,480
+one more in the exit fight with the name,
+confirm password or password.
+
+2155
+02:04:05,640 --> 02:04:08,200
+And then also we can pass the symbol
+there.
+
+2156
+02:04:08,280 --> 02:04:09,480
+Also, we can do it.
+
+2157
+02:04:09,480 --> 02:04:11,640
+It's completely up to you guys.
+
+2158
+02:04:11,920 --> 02:04:16,880
+It's completely understood.
+
+2159
+02:04:16,880 --> 02:04:18,880
+If you want to do it, just do it.
+
+2160
+02:04:18,880 --> 02:04:23,000
+I don't have any problem since it's just
+we need to save our time.
+
+2161
+02:04:23,120 --> 02:04:25,080
+I'm doing this here
+
+2162
+02:04:25,680 --> 02:04:27,200
+now. One more point.
+
+2163
+02:04:27,200 --> 02:04:28,080
+So far. So far.
+
+2164
+02:04:28,080 --> 02:04:31,360
+Tell me any question in this first memory,
+the name, last name,
+
+2165
+02:04:31,640 --> 02:04:34,600
+photograph part,
+which we are providing here.
+
+2166
+02:04:34,600 --> 02:04:36,760
+And then after this username, password
+
+2167
+02:04:36,760 --> 02:04:46,040
+control, password,
+everything is clear to everyone.
+
+2168
+02:04:46,040 --> 02:04:48,040
+Now just look at this part first.
+
+2169
+02:04:49,400 --> 02:04:49,800
+Look at
+
+2170
+02:04:49,800 --> 02:04:52,840
+this point it says invaded by the error.
+
+2171
+02:04:52,840 --> 02:04:54,280
+Namely,
+
+2172
+02:04:55,160 --> 02:04:59,880
+it is taking one more thing
+verified and an employee can you see this?
+
+2173
+02:04:59,880 --> 02:05:00,760
+Everyone
+
+2174
+02:05:14,640 --> 02:05:16,400
+assumptions be able to use mine.
+
+2175
+02:05:16,400 --> 02:05:18,800
+But how that is the main questions.
+
+2176
+02:05:19,080 --> 02:05:20,520
+There it is the main question.
+
+2177
+02:05:20,520 --> 02:05:22,800
+Think midway. I'm just committing.
+
+2178
+02:05:22,800 --> 02:05:25,640
+I'm just writing a new could
+
+2179
+02:05:26,240 --> 02:05:29,440
+see this after entering username password,
+click on Steve.
+
+2180
+02:05:29,440 --> 02:05:31,360
+But not everyone knows.
+
+2181
+02:05:31,360 --> 02:05:32,200
+Everyone knows.
+
+2182
+02:05:32,200 --> 02:05:35,360
+When we're clicking on Steve, we're Done
+apparently conceived
+
+2183
+02:05:35,360 --> 02:05:37,440
+but it will take me which please
+
+2184
+02:05:39,120 --> 02:05:41,400
+guys again remember it is also a part of
+
+2185
+02:05:41,400 --> 02:05:44,000
+it is kind of similar to my table
+
+2186
+02:05:44,520 --> 02:05:48,240
+and remember in their data table
+what was happening in Detective.
+
+2187
+02:05:48,680 --> 02:05:53,040
+It was just executing one
+simple step again and again.
+
+2188
+02:05:53,040 --> 02:05:53,720
+Right?
+
+2189
+02:05:54,080 --> 02:05:57,600
+So there we had to click on option
+and they were options.
+
+2190
+02:05:57,600 --> 02:06:01,520
+Remember this part we did this eight
+employment and again, we have to click
+
+2191
+02:06:06,120 --> 02:06:06,400
+guys.
+
+2192
+02:06:06,400 --> 02:06:09,000
+Remember this part we were doing
+
+2193
+02:06:14,960 --> 02:06:15,440
+right?
+
+2194
+02:06:15,440 --> 02:06:20,480
+So first let's take this particular part
+from here clicking on their button.
+
+2195
+02:06:20,480 --> 02:06:21,360
+Also, we have to do
+
+2196
+02:06:21,360 --> 02:06:25,080
+and then clicking on an employee
+would then let me show you how this works.
+
+2197
+02:06:25,920 --> 02:06:28,640
+Then we translated
+insert the look around the room.
+
+2198
+02:06:28,640 --> 02:06:29,600
+This part
+
+2199
+02:06:43,800 --> 02:06:46,080
+inside of confines.
+
+2200
+02:06:46,080 --> 02:06:47,960
+So let me do it
+
+2201
+02:06:48,240 --> 02:06:49,200
+first.
+
+2202
+02:06:49,560 --> 02:06:52,160
+Let me simply aim for the save button.
+
+2203
+02:06:52,160 --> 02:06:56,680
+Treat What is my save button?
+
+2204
+02:06:56,680 --> 02:07:01,640
+Let me to move this part.
+
+2205
+02:07:01,640 --> 02:07:03,400
+This person
+
+2206
+02:07:10,520 --> 02:07:11,080
+first.
+
+2207
+02:07:11,480 --> 02:07:14,320
+So far, so far, what I'm going to do is
+
+2208
+02:07:16,000 --> 02:07:18,880
+let me come here for some data.
+
+2209
+02:07:19,120 --> 02:07:20,440
+Make this
+
+2210
+02:07:21,520 --> 02:07:22,520
+device
+
+2211
+02:07:23,400 --> 02:07:28,000
+this is waiting for my
+
+2212
+02:07:28,880 --> 02:07:30,920
+password is to be worksheet
+
+2213
+02:07:33,440 --> 02:07:36,440
+one briefly for
+
+2214
+02:07:48,960 --> 02:07:51,120
+exclusion.
+
+2215
+02:07:51,120 --> 02:07:54,240
+See? Well,
+
+2216
+02:07:55,360 --> 02:08:00,640
+we we edit menu difference
+just to show you functionality.
+
+2217
+02:08:00,640 --> 02:08:02,760
+Wait, wait, wait.
+
+2218
+02:08:02,920 --> 02:08:04,440
+We will do it.
+
+2219
+02:08:04,440 --> 02:08:05,880
+I'm going to show you something as
+
+2220
+02:08:10,440 --> 02:08:12,160
+now see guys here.
+
+2221
+02:08:12,160 --> 02:08:35,960
+Let me add some data, see what I'm doing.
+
+2222
+02:08:36,600 --> 02:08:39,280
+Going to see this employee everyone.
+
+2223
+02:08:40,080 --> 02:08:44,560
+It is by default,
+it is by default available.
+
+2224
+02:08:44,560 --> 02:08:45,120
+Right?
+
+2225
+02:08:45,680 --> 02:08:49,120
+So now see this employee
+and just look at this employee
+
+2226
+02:08:49,440 --> 02:08:53,560
+in when I'm clicking on Steve Button,
+
+2227
+02:08:53,560 --> 02:08:57,280
+when I'm clicking on Steve, when it is
+coming to this particular report,
+
+2228
+02:08:57,600 --> 02:08:59,880
+it is coming to this particular part
+and you see
+
+2229
+02:09:13,040 --> 02:09:14,040
+here today's
+
+2230
+02:09:22,000 --> 02:09:24,320
+rate is coming to this part here.
+
+2231
+02:09:24,680 --> 02:09:26,960
+Here you see employer is available here.
+
+2232
+02:09:26,960 --> 02:09:28,160
+Also, we want
+
+2233
+02:09:32,760 --> 02:09:37,240
+right now now two ways of verification.
+
+2234
+02:09:37,960 --> 02:09:40,800
+First thing in homework,
+what you have to do
+
+2235
+02:09:41,320 --> 02:09:45,960
+when you come to this particular part,
+when you come to this particular bar,
+
+2236
+02:09:46,320 --> 02:09:51,000
+next thing
+do one thing going to employee list.
+
+2237
+02:09:52,920 --> 02:09:53,760
+Once you go into
+
+2238
+02:09:53,760 --> 02:09:56,680
+employee list, you'll see
+all the employee's available here.
+
+2239
+02:09:57,040 --> 02:09:58,560
+Can you see these?
+
+2240
+02:09:58,560 --> 02:09:59,840
+All the employee's available?
+
+2241
+02:09:59,840 --> 02:10:03,880
+How many of you is in this?
+
+2242
+02:10:03,880 --> 02:10:04,200
+Again?
+
+2243
+02:10:04,200 --> 02:10:08,120
+I'm giving you their task, this task C
+And then here
+
+2244
+02:10:08,400 --> 02:10:11,640
+you have to provide the employee ID
+value, right?
+
+2245
+02:10:11,960 --> 02:10:13,360
+You have to provide the employer
+
+2246
+02:10:13,360 --> 02:10:17,040
+ID which you got, which you will get
+while creating the employee.
+
+2247
+02:10:17,320 --> 02:10:22,120
+So enter this employee search from here.
+
+2248
+02:10:22,120 --> 02:10:24,320
+Then you actually search from here.
+
+2249
+02:10:24,320 --> 02:10:27,240
+You will get this data in this particular
+part, right?
+
+2250
+02:10:27,400 --> 02:10:29,480
+You will get this data in this law here.
+
+2251
+02:10:30,240 --> 02:10:34,240
+And when you are getting this data
+in this line from the table in directions,
+
+2252
+02:10:34,360 --> 02:10:38,280
+you have to verify that you're
+getting your first name, middle name
+
+2253
+02:10:38,280 --> 02:10:42,400
+and last name, same as the previous one,
+one you have added.
+
+2254
+02:10:42,600 --> 02:10:46,440
+You are having the same plus name
+with elements in each industry.
+
+2255
+02:10:46,480 --> 02:10:47,480
+What you really want
+
+2256
+02:10:52,080 --> 02:10:52,920
+Everyone in
+
+2257
+02:10:52,920 --> 02:10:56,760
+this room, this is their task
+you have to do.
+
+2258
+02:10:57,360 --> 02:11:00,520
+Now let me go back to my employee page
+
+2259
+02:11:01,280 --> 02:11:03,600
+after clicking on Steve
+and what it is doing
+
+2260
+02:11:06,080 --> 02:11:07,920
+after clicking on Save Button again,
+
+2261
+02:11:07,920 --> 02:11:11,640
+it is blending into one page
+where I can get this employee option.
+
+2262
+02:11:12,360 --> 02:11:14,640
+Oh, there are multiple steps, but yes, I'm
+
+2263
+02:11:16,440 --> 02:11:17,840
+going to do it.
+
+2264
+02:11:17,840 --> 02:11:20,120
+So now after clicking on See it were done.
+
+2265
+02:11:20,280 --> 02:11:21,880
+It is taking me again.
+
+2266
+02:11:21,880 --> 02:11:25,280
+It is taking me again to the employee
+beach database
+
+2267
+02:11:26,640 --> 02:11:36,440
+days.
+
+2268
+02:11:36,440 --> 02:11:38,400
+It is taking me to a template.
+
+2269
+02:11:38,400 --> 02:11:42,360
+So again I will click on it employment
+and then it will go on and on and on.
+
+2270
+02:11:42,640 --> 02:11:44,480
+Trade goes there.
+
+2271
+02:11:44,480 --> 02:11:47,800
+So we can correct
+
+2272
+02:11:47,800 --> 02:11:50,080
+so far in this particular portion.
+
+2273
+02:11:50,080 --> 02:11:53,640
+So far in this particular part,
+do you have any question this part?
+
+2274
+02:11:53,640 --> 02:11:56,280
+See, again, I'm repeating here we started
+
+2275
+02:11:56,960 --> 02:12:01,160
+we put a greater to the values
+from the Excel
+
+2276
+02:12:01,320 --> 02:12:05,240
+which we are getting in the form
+of list of maps trade.
+
+2277
+02:12:05,440 --> 02:12:09,680
+When we got this list of maps,
+I came here, I did the value.
+
+2278
+02:12:09,720 --> 02:12:14,040
+I provided one map because it returns
+the gain value for every employed.
+
+2279
+02:12:14,080 --> 02:12:17,960
+It means the data from every single rule
+which we are getting.
+
+2280
+02:12:18,120 --> 02:12:20,520
+I'm putting this data here in their name.
+
+2281
+02:12:20,520 --> 02:12:21,560
+It is checking.
+
+2282
+02:12:21,560 --> 02:12:26,400
+Once I have all the data of my supply
+available in this particular object.
+
+2283
+02:12:26,720 --> 02:12:29,760
+I am calling this particular object here
+based on the keys.
+
+2284
+02:12:30,600 --> 02:12:34,800
+Whatever the keys I have,
+I will provide this kizzire retrace
+
+2285
+02:12:35,160 --> 02:12:39,200
+when I provide this key here
+and I provide the data, it will send
+
+2286
+02:12:39,200 --> 02:12:45,200
+all the values against this keys
+available in the exit right in here.
+
+2287
+02:12:45,200 --> 02:12:49,440
+I'm doing this and after adding
+all of these details I simply click on
+
+2288
+02:12:49,440 --> 02:12:50,600
+say button.
+
+2289
+02:12:50,600 --> 02:12:53,760
+When I click on
+Save it returns B on would be to it.
+
+2290
+02:12:53,760 --> 02:12:55,240
+I will point this to an employee.
+
+2291
+02:12:55,240 --> 02:12:56,800
+But again, why?
+
+2292
+02:12:56,800 --> 02:12:58,240
+Because my background is work.
+
+2293
+02:12:58,240 --> 02:13:02,520
+One day it's going to work one time
+my hook is going to work one day.
+
+2294
+02:13:02,720 --> 02:13:05,320
+So I will be on this page from here.
+
+2295
+02:13:05,480 --> 02:13:07,800
+I have to see the workaround.
+A workaround is to
+
+2296
+02:13:08,760 --> 02:13:11,760
+click
+on an employee again, go to that screen
+
+2297
+02:13:11,920 --> 02:13:15,320
+and one more employee, one more employee,
+one more like this.
+
+2298
+02:13:15,680 --> 02:13:17,760
+And this tool
+
+2299
+02:13:19,120 --> 02:13:22,320
+is this and just what everyone,
+just a handful of ways.
+
+2300
+02:13:22,320 --> 02:13:27,000
+Just a hint for you, for associates,
+what you have to do right.
+
+2301
+02:13:27,000 --> 02:13:29,200
+An employee I.D.
+
+2302
+02:13:30,120 --> 02:13:32,960
+like by
+
+2303
+02:13:34,000 --> 02:13:36,280
+creating the employee while adding them.
+
+2304
+02:13:36,280 --> 02:13:39,680
+When you're adding the employee there,
+you will get the employee great.
+
+2305
+02:13:40,400 --> 02:13:42,920
+And you get the employee
+from there. Right.
+
+2306
+02:13:42,920 --> 02:13:45,240
+What you do after adding the employee
+
+2307
+02:13:46,400 --> 02:13:49,040
+third group in the employee list,
+
+2308
+02:13:50,160 --> 02:13:51,600
+search it in the employee list.
+
+2309
+02:13:51,600 --> 02:13:54,080
+Once You search it in the employee list.
+
+2310
+02:13:54,080 --> 02:13:57,160
+We need to give the employee nonmember
+with the code.
+
+2311
+02:13:57,920 --> 02:14:00,000
+With the code, you can do it.
+
+2312
+02:14:00,000 --> 02:14:01,720
+It is in even the code.
+
+2313
+02:14:01,720 --> 02:14:19,320
+Should I tell you how to get this
+via code?
+
+2314
+02:14:19,320 --> 02:14:21,880
+Now there is a method written
+so the name of the member
+
+2315
+02:14:22,320 --> 02:14:26,240
+did attribute so against the entry
+would just do it instead of work
+
+2316
+02:14:26,240 --> 02:14:27,440
+so there won't be a pending
+
+2317
+02:14:28,520 --> 02:14:29,120
+definitely
+
+2318
+02:14:29,120 --> 02:14:32,000
+loophole if the post and giving it
+this will work.
+
+2319
+02:14:32,160 --> 02:14:32,880
+Right.
+
+2320
+02:14:32,960 --> 02:14:34,840
+And then after that, great.
+
+2321
+02:14:34,840 --> 02:14:38,400
+What I will do tomorrow
+I will load this here in the note with it.
+
+2322
+02:14:38,400 --> 02:14:42,240
+List a link everyone try
+and if someone is panicking
+
+2323
+02:14:42,360 --> 02:14:45,760
+or if even if you guys are able to do it
+or not do it, I will do it.
+
+2324
+02:14:45,760 --> 02:14:47,760
+Get in the people okay.
+
+2325
+02:14:47,760 --> 02:14:49,480
+I will do it in the class.
+
+2326
+02:14:49,480 --> 02:14:51,520
+The verification part
+
+2327
+02:14:55,920 --> 02:14:57,040
+already
+
+2328
+02:15:01,440 --> 02:15:02,040
+in line
+
+2329
+02:15:02,040 --> 02:15:06,000
+101, we put shooting.
+
+2330
+02:15:06,240 --> 02:15:11,000
+So this is coming from your feature file
+you see in this feature file disconnecting
+
+2331
+02:15:12,000 --> 02:15:22,440
+and it's like
+
+2332
+02:15:23,920 --> 02:15:26,040
+shred on this code now goes post
+
+2333
+02:15:27,760 --> 02:15:29,720
+started in the employee list.
+
+2334
+02:15:29,720 --> 02:15:32,280
+You or do do
+
+2335
+02:15:34,120 --> 02:15:36,840
+all the links
+
+2336
+02:15:37,920 --> 02:15:55,600
+with text from the
+
+2337
+02:16:08,600 --> 02:16:12,360
+Oh no
+
+2338
+02:16:14,880 --> 02:16:16,560
+see you got the image.
+
+2339
+02:16:16,560 --> 02:16:17,200
+Can you see this
+
+2340
+02:16:18,800 --> 02:16:21,000
+and go to the image to our jpg.
+
+2341
+02:16:21,000 --> 02:16:23,760
+Right see the employee created images
+
+2342
+02:16:23,760 --> 02:16:30,560
+there.
+
+2343
+02:16:30,560 --> 02:16:37,160
+Know what is happening.
+
+2344
+02:16:37,160 --> 02:16:39,480
+Unable
+to look at the element statement. Fine.
+
+2345
+02:16:39,480 --> 02:16:45,200
+Because my execution was so fast,
+I didn't put the weight in between there,
+
+2346
+02:16:45,240 --> 02:16:50,520
+so I find no issues.
+
+2347
+02:16:50,520 --> 02:16:52,760
+Let's do it one more time.
+
+2348
+02:16:52,800 --> 02:16:56,040
+Let's do it if we go here
+
+2349
+02:16:56,640 --> 02:17:01,280
+and of the clicking on saved one,
+I would do provide the vertical trade
+
+2350
+02:17:01,280 --> 02:17:09,920
+or sleep minimum for this.
+
+2351
+02:17:09,920 --> 02:17:13,200
+And then after adding implement and again
+I'm going to provide
+
+2352
+02:17:15,160 --> 02:17:16,280
+its third JP
+
+2353
+02:17:16,280 --> 02:17:18,840
+the same one trader sleep for 56
+
+2354
+02:17:20,880 --> 02:17:22,840
+that is getting it.
+
+2355
+02:17:22,840 --> 02:17:25,680
+I provided the weight
+when putting the rating.
+
+2356
+02:17:26,920 --> 02:17:31,080
+Let me open this file somewhere.
+
+2357
+02:17:31,080 --> 02:17:31,720
+Right.
+
+2358
+02:17:32,840 --> 02:17:35,200
+And then I'm going to change this. Name
+
+2359
+02:17:37,040 --> 02:17:42,800
+one one. So
+
+2360
+02:17:43,840 --> 02:17:46,960
+you would probably close
+
+2361
+02:17:51,160 --> 02:17:52,120
+one. Now
+
+2362
+02:17:52,120 --> 02:18:16,320
+let's run it again. Now.
+
+2363
+02:18:18,160 --> 02:18:21,240
+See it got the data for the first one.
+
+2364
+02:18:21,240 --> 02:18:22,440
+Username exist.
+
+2365
+02:18:22,440 --> 02:18:24,480
+Fine, but that's okay.
+
+2366
+02:18:24,480 --> 02:18:26,480
+We are going to click on the second one.
+
+2367
+02:18:26,480 --> 02:18:30,440
+Second data came right.
+
+2368
+02:18:30,440 --> 02:18:31,200
+Great.
+
+2369
+02:18:31,320 --> 02:18:33,600
+Noisy third one click.
+
+2370
+02:18:34,360 --> 02:18:36,680
+When they're internet data
+
+2371
+02:18:36,680 --> 02:18:39,320
+for the third one, upload the images
+
+2372
+02:18:40,320 --> 02:18:42,160
+working plain username exist.
+
+2373
+02:18:42,160 --> 02:18:43,240
+That's why
+
+2374
+02:18:46,320 --> 02:18:47,760
+it's closed
+
+2375
+02:18:50,040 --> 02:18:50,920
+names
+
+2376
+02:18:53,800 --> 02:18:54,240
+data.
+
+2377
+02:18:54,240 --> 02:19:01,600
+It is taking from excel file or not
+can be.
+
+2378
+02:19:01,600 --> 02:19:04,200
+It is taking the data
+from your existing file only.
+
+2379
+02:19:04,960 --> 02:19:07,160
+We are putting all this data
+in the actual filing.
+
+2380
+02:19:07,280 --> 02:19:09,480
+We are using this data there. So now.
+
+2381
+02:19:09,840 --> 02:19:12,080
+Now see my this function right?
+
+2382
+02:19:12,120 --> 02:19:17,120
+Even if I have been fi it didn't lose
+ten rules in columns, 15 columns.
+
+2383
+02:19:17,120 --> 02:19:21,800
+I don't care about this
+single function will read all this data.
+
+2384
+02:19:21,800 --> 02:19:24,040
+Bear in mind steps.
+
+2385
+02:19:24,360 --> 02:19:28,760
+So if you go in my steps, you'll see here
+I'm calling this particular function,
+
+2386
+02:19:29,360 --> 02:19:32,200
+which my this object employs, is holding
+
+2387
+02:19:32,200 --> 02:19:35,360
+all these nice documents importing the AJ.
+
+2388
+02:19:35,400 --> 02:19:40,200
+Do you get all the maps one by one
+where one map is having all these vendors
+
+2389
+02:19:40,200 --> 02:19:43,280
+from every arrow
+and it is returning the values
+
+2390
+02:19:43,280 --> 02:19:45,600
+based on these keys
+which and providing here.
+
+2391
+02:19:45,840 --> 02:19:47,360
+And then I'm putting this data
+
+2392
+02:19:48,440 --> 02:19:49,400
+this to
+
+2393
+02:19:52,680 --> 02:19:53,240
+underscore that
+
+2394
+02:19:53,240 --> 02:19:59,560
+we want this part.
+
+2395
+02:19:59,560 --> 02:20:01,680
+Yeah, I got it, got it.
+
+2396
+02:20:01,880 --> 02:20:04,320
+But isn't it easy
+it is a one name activity
+
+2397
+02:20:04,520 --> 02:20:07,040
+and if we have the
+we have to close the Excel point in
+
+2398
+02:20:07,040 --> 02:20:10,160
+and of course we are already closing it
+in already.
+
+2399
+02:20:10,160 --> 02:20:11,000
+It's already closed.
+
+2400
+02:20:11,000 --> 02:20:15,120
+We are just reading was open closed
+and then we are reading in simple.
+
+2401
+02:20:15,120 --> 02:20:17,640
+So we don't need to do
+any additional store.
+
+2402
+02:20:17,640 --> 02:20:22,840
+We don't need to open it
+and close it again.
+
+2403
+02:20:22,840 --> 02:20:27,000
+If the exception is to be visited
+when people should get employed to do
+
+2404
+02:20:27,040 --> 02:20:30,760
+our code exception, to do the exception
+instead use it as well.
+
+2405
+02:20:30,760 --> 02:20:33,200
+People employed by converting mine runs
+
+2406
+02:20:35,280 --> 02:20:36,240
+meaning? Yes.
+
+2407
+02:20:36,240 --> 02:20:38,440
+Yes it is for better for the shooting
+naming rate.
+
+2408
+02:20:39,240 --> 02:20:42,600
+Just check whether you provided
+the shooting name like this or not.
+
+2409
+02:20:43,000 --> 02:20:45,280
+If you provided with this job
+
+2410
+02:20:45,600 --> 02:20:50,440
+greater than the smaller than symbol,
+then this would be the error you get
+
+2411
+02:20:53,160 --> 02:20:54,920
+right just provided like this
+
+2412
+02:20:54,920 --> 02:20:57,600
+because then it becomes the driver.
+
+2413
+02:20:58,600 --> 02:20:59,120
+Right.
+
+2414
+02:20:59,520 --> 02:21:01,320
+So this is the issue.
+
+2415
+02:21:01,320 --> 02:21:02,920
+Your code with related to.
+
+2416
+02:21:02,920 --> 02:21:05,960
+By the time
+we are not providing this by yesterday
+
+2417
+02:21:06,000 --> 02:21:09,800
+the must have been by the time
+this screen is loaded properly
+
+2418
+02:21:10,560 --> 02:21:14,120
+taking you further
+fluidly will resolve your queries.
+
+2419
+02:21:15,320 --> 02:21:17,600
+So far based on me,
+any question is for you.
+
+2420
+02:21:17,600 --> 02:21:18,880
+If you provide this
+
+2421
+02:21:18,880 --> 02:21:21,960
+a greater than it is, one or two things
+in one writing becomes key.
+
+2422
+02:21:21,960 --> 02:21:23,680
+We're not passing the key. We're passing.
+
+2423
+02:21:23,680 --> 02:21:25,920
+This is a better eight here.
+
+2424
+02:21:25,920 --> 02:21:28,320
+See, this is the key
+you passing like this.
+
+2425
+02:21:28,520 --> 02:21:31,520
+So it is expecting
+some from getting triggered.
+
+2426
+02:21:31,520 --> 02:21:35,400
+Not reading the data from itself,
+but we we need to store any
+
+2427
+02:21:35,680 --> 02:21:37,800
+data to excel in the future.
+
+2428
+02:21:39,440 --> 02:21:41,080
+We destroying their data in future.
+
+2429
+02:21:41,080 --> 02:21:43,440
+There's nobody using your grades
+or from simply
+
+2430
+02:21:46,080 --> 02:21:46,760
+in the future.
+
+2431
+02:21:46,760 --> 02:21:49,480
+Also in your company is right.
+When will you go?
+
+2432
+02:21:49,720 --> 02:21:52,560
+When you will go in your companies
+and you will be working on your name
+
+2433
+02:21:52,560 --> 02:21:55,600
+projects, Then you have to deal with Excel
+in your current
+
+2434
+02:21:57,600 --> 02:22:11,560
+operating on this is just to
+
+2435
+02:22:11,840 --> 02:22:16,000
+but is a must or reason for just this
+and what it is for practice.
+
+2436
+02:22:16,000 --> 02:22:18,160
+Just do it. Otherwise
+I will do it tomorrow for you.
+
+2437
+02:22:18,160 --> 02:22:20,280
+That's okay you are in jobs.
+
+2438
+02:22:20,280 --> 02:22:22,440
+So when you have to, you have to.
+
+2439
+02:22:22,440 --> 02:22:23,680
+That's why I'm calling it right.
+
+2440
+02:22:23,680 --> 02:22:25,440
+It is a one time ability.
+
+2441
+02:22:25,440 --> 02:22:27,040
+It's not something you do very often.
+
+2442
+02:22:27,040 --> 02:22:29,480
+And every now
+and then it is just a one time activity.
+
+2443
+02:22:29,800 --> 02:22:33,360
+Once you write this function,
+once your function is working right,
+
+2444
+02:22:33,480 --> 02:22:35,720
+then you are reading this data point.
+
+2445
+02:22:35,720 --> 02:22:36,880
+Everything is more than a
+
+2446
+02:22:39,000 --> 02:22:39,280
+more.
+
+2447
+02:22:39,480 --> 02:22:41,600
+Next time simply call this things it
+
+2448
+02:22:50,600 --> 02:22:51,920
+Can someone please copy this
+
+2449
+02:22:51,920 --> 02:22:55,080
+particular part in this life.
+
+2450
+02:22:55,080 --> 02:22:57,600
+Questions. This is to please.
+
+2451
+02:22:57,600 --> 02:22:58,120
+Yes, yes.
+
+2452
+02:22:58,120 --> 02:22:59,800
+Yes. I'm a
+
+2453
+02:23:02,280 --> 02:23:03,840
+of this method called detected.
+
+2454
+02:23:03,840 --> 02:23:05,840
+No, not detectable.
+
+2455
+02:23:05,840 --> 02:23:06,600
+Not detected.
+
+2456
+02:23:06,600 --> 02:23:07,640
+That's what I'm saying.
+
+2457
+02:23:07,640 --> 02:23:10,720
+It's a simple,
+you know, remember this particular one?
+
+2458
+02:23:11,400 --> 02:23:13,680
+This one, it was not a detectable trait.
+
+2459
+02:23:13,880 --> 02:23:17,080
+Nothing just provided
+one key, the parameter.
+
+2460
+02:23:17,080 --> 02:23:19,120
+And then we it
+
+2461
+02:23:21,080 --> 02:23:24,440
+then you have someone remember this one.
+
+2462
+02:23:24,720 --> 02:23:26,840
+Similarly,
+this method is we correlate this.
+
+2463
+02:23:26,840 --> 02:23:29,440
+See with one pattern.
+
+2464
+02:23:29,440 --> 02:23:32,320
+So now you see this method properly.
+
+2465
+02:23:32,320 --> 02:23:35,480
+In the end of the method,
+what you're getting just one shoot me.
+
+2466
+02:23:35,600 --> 02:23:36,640
+That's it.
+
+2467
+02:23:36,680 --> 02:23:39,400
+The barometer, the start of supply.
+
+2468
+02:23:39,560 --> 02:23:47,640
+If this is the start of dependency,
+you'll see it just as shooting him.
+
+2469
+02:23:47,640 --> 02:23:48,560
+There'd be a passing
+
+2470
+02:23:49,520 --> 02:23:49,760
+from.
+
+2471
+02:23:49,760 --> 02:23:52,920
+The feature
+of this is when we are handling you exit
+
+2472
+02:24:25,120 --> 02:24:26,160
+already committed
+
+2473
+02:24:26,160 --> 02:24:29,640
+a good straight in the time we did
+whatever the good we did.
+
+2474
+02:24:29,640 --> 02:24:32,280
+So far I have committed
+already in the repository.
+
+2475
+02:24:32,280 --> 02:24:34,520
+You guys can take this code from there.
+
+2476
+02:24:34,520 --> 02:24:37,680
+Every single thing is available so far.
+
+2477
+02:24:37,680 --> 02:24:40,360
+Guys, tell me any question. Yes.
+And please wait.
+
+2478
+02:24:40,560 --> 02:24:40,800
+Please.
+
+2479
+02:24:40,800 --> 02:25:10,840
+Good.
+
+2480
+02:25:10,840 --> 02:25:18,680
+I see you're asking the question.
+
+2481
+02:25:18,680 --> 02:25:20,840
+Is there any other one
+who has any other question?
+
+2482
+02:25:22,720 --> 02:25:23,320
+So one.
+
+2483
+02:25:23,320 --> 02:25:25,200
+And what then is?
+
+2484
+02:25:25,200 --> 02:25:25,480
+What?
+
+2485
+02:25:25,480 --> 02:25:36,960
+Boss, did you use?
+
+2486
+02:25:36,960 --> 02:25:39,680
+So which practice is better
+to use a web driver route?
+
+2487
+02:25:40,440 --> 02:25:46,120
+In our framework, we will use this.
+
+2488
+02:25:46,120 --> 02:25:48,240
+This one. Right.
+We've already passed from here.
+
+2489
+02:25:48,240 --> 02:25:51,160
+You'll see it in this state.
+I showed this on your own.
+
+2490
+02:25:51,160 --> 02:25:52,360
+So let me show you.
+
+2491
+02:25:52,360 --> 02:25:55,680
+Existing takes 1 to 3 exclamation mark.
+
+2492
+02:25:56,360 --> 02:25:56,880
+This one
+
+2493
+02:25:58,440 --> 02:26:00,120
+is the ideal one that you guys can use.
+
+2494
+02:26:00,120 --> 02:26:03,680
+Okay, everyone.
+
+2495
+02:26:03,680 --> 02:26:09,080
+Right.
+
+2496
+02:26:09,080 --> 02:26:12,880
+On rainy days.
+
+2497
+02:26:12,880 --> 02:26:17,080
+Nice holidays
+
+2498
+02:26:17,080 --> 02:26:21,720
+then I think time
+then from my side for today's class.

@@ -1,0 +1,10612 @@
+﻿1
+00:00:07,320 --> 00:00:09,680
+And hopefully
+things will start to make sense.
+
+2
+00:00:10,760 --> 00:00:13,040
+Hi, Miriam.
+
+3
+00:00:16,520 --> 00:00:17,280
+All right, guys.
+
+4
+00:00:17,280 --> 00:00:19,520
+So up till now.
+
+5
+00:00:20,280 --> 00:00:26,160
+So can you guys tell me how how do we
+solve real problems using using programing
+
+6
+00:00:26,160 --> 00:00:30,960
+so you guys are half and down
+so you know, the half of the concepts.
+
+7
+00:00:31,560 --> 00:00:33,560
+Now, the second part of
+
+8
+00:00:35,040 --> 00:00:36,760
+this Java series
+
+9
+00:00:36,760 --> 00:00:39,560
+will be to solve
+
+10
+00:00:39,600 --> 00:00:42,720
+the real life problems,
+but in a better way.
+
+11
+00:00:43,160 --> 00:00:45,000
+So the basics, they will be same.
+
+12
+00:00:45,000 --> 00:00:49,160
+We will be using the same things,
+but now we will learn some techniques
+
+13
+00:00:49,600 --> 00:00:52,840
+that will help you write better code
+
+14
+00:00:53,000 --> 00:00:56,240
+because that is understandable to others.
+
+15
+00:00:56,560 --> 00:00:59,720
+Because that is easy to manage. Easy.
+
+16
+00:00:59,760 --> 00:01:01,040
+But by manage.
+
+17
+00:01:01,040 --> 00:01:03,160
+By manage I mean easy to change.
+
+18
+00:01:03,160 --> 00:01:05,440
+If new requirements come in, comes in,
+
+19
+00:01:06,240 --> 00:01:09,760
+you can easily incorporate
+those new changes.
+
+20
+00:01:11,040 --> 00:01:12,480
+This part of Java series.
+
+21
+00:01:12,480 --> 00:01:15,840
+It will help you better model
+
+22
+00:01:16,040 --> 00:01:19,440
+real life problems inside your computers.
+
+23
+00:01:19,840 --> 00:01:22,640
+So take a problem from real life.
+
+24
+00:01:22,640 --> 00:01:28,240
+Define the rules, and then those rules
+they will keep on executing automatically.
+
+25
+00:01:28,240 --> 00:01:30,360
+We need a little help with to the arrays.
+
+26
+00:01:30,360 --> 00:01:31,200
+I do not worry.
+
+27
+00:01:31,200 --> 00:01:33,480
+I will be going to the to the editor.
+
+28
+00:01:33,480 --> 00:01:36,280
+But let me tell you this.
+
+29
+00:01:36,280 --> 00:01:38,520
+We really need to the arrays.
+
+30
+00:01:39,480 --> 00:01:42,160
+They are not used in the real life
+
+31
+00:01:43,440 --> 00:01:45,800
+as much. So
+
+32
+00:01:45,960 --> 00:01:48,840
+after these oops concepts,
+I will be teaching you
+
+33
+00:01:49,760 --> 00:01:53,920
+at least five classes on collections
+framework.
+
+34
+00:01:54,280 --> 00:01:58,560
+So those collection framework you guys
+will be learning new data structures.
+
+35
+00:01:59,280 --> 00:02:03,640
+So the in real life you guys will be using
+those data structures instead of the.
+
+36
+00:02:04,240 --> 00:02:07,560
+So at this point,
+if you guys have understood the concept
+
+37
+00:02:07,920 --> 00:02:12,560
+concept that high level,
+if you guys can access the element of a 2D
+
+38
+00:02:12,560 --> 00:02:16,080
+area and can store an element in the area,
+that's enough.
+
+39
+00:02:16,880 --> 00:02:19,240
+I mean, we are trained to using the loops
+
+40
+00:02:19,240 --> 00:02:22,440
+or something like that.
+
+41
+00:02:22,440 --> 00:02:25,440
+So when I will be teaching,
+I will be telling you how
+
+42
+00:02:25,440 --> 00:02:28,560
+much, how,
+
+43
+00:02:28,560 --> 00:02:31,800
+how useful
+those concepts will be in your realize
+
+44
+00:02:32,360 --> 00:02:34,400
+how important they are
+
+45
+00:02:34,920 --> 00:02:38,480
+with respect to your interviews
+and on your job.
+
+46
+00:02:38,480 --> 00:02:39,720
+And then you guys,
+
+47
+00:02:39,720 --> 00:02:43,960
+you guys can pay attention or can study
+those concepts accordingly.
+
+48
+00:02:43,960 --> 00:02:48,920
+You can spend your time accordingly.
+
+49
+00:02:48,920 --> 00:02:54,000
+You really also tell me of laudatory.
+
+50
+00:02:54,000 --> 00:02:57,240
+So can you guys tell
+me what do you guys think?
+
+51
+00:02:58,280 --> 00:02:59,960
+What does this programing do?
+
+52
+00:02:59,960 --> 00:03:02,720
+How how do we solve
+
+53
+00:03:02,720 --> 00:03:03,800
+that real life problem?
+
+54
+00:03:03,800 --> 00:03:10,040
+Using using programing.
+
+55
+00:03:10,040 --> 00:03:13,360
+No brain left to think,
+but just just the just
+
+56
+00:03:13,360 --> 00:03:17,560
+the start of the class.
+
+57
+00:03:17,560 --> 00:03:21,600
+At least keep a little bit brain
+for for my class but hard
+
+58
+00:03:23,080 --> 00:03:25,440
+by putting logical on the issues
+
+59
+00:03:28,320 --> 00:03:31,120
+for building the models
+
+60
+00:03:35,160 --> 00:03:38,760
+for transactions
+
+61
+00:03:38,760 --> 00:03:40,440
+so imagine imagine
+
+62
+00:03:40,440 --> 00:03:42,600
+how have you guys played the video games
+
+63
+00:03:43,360 --> 00:03:46,520
+Big B should provide for 3D games, right?
+
+64
+00:03:47,840 --> 00:03:50,040
+So in a game
+
+65
+00:03:50,040 --> 00:03:54,000
+you see almost everything from real life
+
+66
+00:03:55,080 --> 00:03:57,800
+is being billed
+
+67
+00:03:57,800 --> 00:04:01,640
+virtually inside your computer,
+right? Yes.
+
+68
+00:04:01,800 --> 00:04:06,720
+Call of Duty, my favorite.
+
+69
+00:04:06,720 --> 00:04:11,240
+So using programing idea you
+you must be very old format.
+
+70
+00:04:12,480 --> 00:04:13,920
+I played by
+
+71
+00:04:14,720 --> 00:04:18,720
+the using programing what we do
+
+72
+00:04:19,280 --> 00:04:21,800
+we build a virtual world
+
+73
+00:04:22,680 --> 00:04:25,160
+inside the computers.
+
+74
+00:04:25,160 --> 00:04:27,480
+Then we define the rules
+
+75
+00:04:28,160 --> 00:04:31,040
+that how that word will work. Right?
+
+76
+00:04:31,040 --> 00:04:36,160
+So you can fly cars, you can jump from one
+building to the other building, right?
+
+77
+00:04:36,360 --> 00:04:38,680
+And then the rules,
+they are defined like this.
+
+78
+00:04:38,680 --> 00:04:43,680
+So you build a word
+using these programs inside your computer.
+
+79
+00:04:44,320 --> 00:04:48,320
+I like a blind person here.
+
+80
+00:04:48,320 --> 00:04:49,320
+It's fine.
+
+81
+00:04:49,320 --> 00:04:50,040
+It's fun.
+
+82
+00:04:50,040 --> 00:04:53,200
+So you guys must have at least played
+some kind of games.
+
+83
+00:04:53,240 --> 00:04:55,440
+Not it's not super
+3D or something like that.
+
+84
+00:04:56,640 --> 00:04:58,560
+So we build
+
+85
+00:04:58,560 --> 00:05:01,440
+a virtual world inside the computer.
+
+86
+00:05:02,240 --> 00:05:04,240
+Then we define the rules,
+
+87
+00:05:04,800 --> 00:05:07,280
+how that world will work right?
+
+88
+00:05:07,280 --> 00:05:12,560
+How many fires you you fired at
+some person and then person will be dead.
+
+89
+00:05:13,560 --> 00:05:16,040
+How the rules of the physics will work
+
+90
+00:05:16,560 --> 00:05:19,200
+and then you let that word run, right?
+
+91
+00:05:19,560 --> 00:05:21,720
+So this is the case for games.
+
+92
+00:05:21,720 --> 00:05:26,920
+What you can do,
+you can define those rules for anything.
+
+93
+00:05:26,920 --> 00:05:30,040
+Like, for example,
+think of the banking applications. So
+
+94
+00:05:31,080 --> 00:05:33,600
+in big game in banking
+application will define
+
+95
+00:05:33,960 --> 00:05:37,200
+that there will be a person,
+
+96
+00:05:37,200 --> 00:05:40,200
+he will be having a bank account,
+
+97
+00:05:40,200 --> 00:05:45,720
+he can put some funds in the bank account,
+He can withdraw the funds, right?
+
+98
+00:05:45,720 --> 00:05:47,160
+He can transfer fast.
+
+99
+00:05:47,160 --> 00:05:52,320
+So all of these rules
+we define using programing, right?
+
+100
+00:05:52,440 --> 00:05:57,000
+And then we put that those rules
+inside the computer and that application,
+
+101
+00:05:57,000 --> 00:06:02,120
+it keeps on running,
+entertaining thousands of customers.
+
+102
+00:06:02,120 --> 00:06:03,480
+So we will be doing this in
+
+103
+00:06:04,920 --> 00:06:07,760
+this part of the of the Java series.
+
+104
+00:06:07,760 --> 00:06:12,760
+It will be focusing on how to mimic
+
+105
+00:06:13,080 --> 00:06:17,680
+the real life things inside the computers.
+
+106
+00:06:17,720 --> 00:06:18,360
+Okay.
+
+107
+00:06:18,680 --> 00:06:22,360
+So you guys can think of yourself as
+
+108
+00:06:23,160 --> 00:06:28,720
+as the creator of those objects
+on those things inside the computers.
+
+109
+00:06:28,720 --> 00:06:32,160
+So now you guys have to think if you guys
+
+110
+00:06:32,640 --> 00:06:37,800
+who are the creators of this word,
+how, how, how would you have defined
+
+111
+00:06:37,800 --> 00:06:41,280
+all those things
+that exist in the real life?
+
+112
+00:06:41,280 --> 00:06:43,800
+Are all those things
+
+113
+00:06:43,800 --> 00:06:47,720
+How did they work and interact and
+how they look like and things like that?
+
+114
+00:06:47,720 --> 00:06:49,680
+Okay, do that.
+
+115
+00:06:49,680 --> 00:06:55,200
+I know or you.
+
+116
+00:06:55,200 --> 00:06:59,520
+So in real life guys, tell me, how can I.
+
+117
+00:06:59,600 --> 00:07:03,720
+So how can I, I define something?
+
+118
+00:07:03,720 --> 00:07:10,000
+How can I define something like, say,
+for example, if I have to tell someone
+
+119
+00:07:10,200 --> 00:07:14,360
+that what is a human,
+how how can I tell this this information?
+
+120
+00:07:14,360 --> 00:07:17,400
+How how can I convey this information
+if I have to tell
+
+121
+00:07:17,400 --> 00:07:21,240
+someone how the cards look like,
+Well, what is a bike?
+
+122
+00:07:21,240 --> 00:07:24,120
+What is a cat? What is a dog?
+What do we what do we convey?
+
+123
+00:07:24,160 --> 00:07:27,640
+What is the piece of information
+that we tell the other person?
+
+124
+00:07:27,720 --> 00:07:29,640
+If we have to define that things
+
+125
+00:07:30,960 --> 00:07:34,880
+to explain
+the qualities, the perfect properties?
+
+126
+00:07:34,880 --> 00:07:38,480
+Yes, I show perfect answer step by step.
+
+127
+00:07:38,480 --> 00:07:40,040
+Explain.
+
+128
+00:07:40,560 --> 00:07:45,160
+Yes. So we can explain how that thing
+might work in real life.
+
+129
+00:07:45,160 --> 00:07:45,600
+Right?
+
+130
+00:07:45,600 --> 00:07:48,720
+So previously, step by step
+explaining how they're think.
+
+131
+00:07:49,080 --> 00:07:53,160
+So we define
+by describing by their actions
+
+132
+00:07:54,000 --> 00:07:58,240
+how those things look like, right
+by description, by their shapes.
+
+133
+00:07:59,240 --> 00:08:02,640
+So we will be doing exactly the same
+
+134
+00:08:03,360 --> 00:08:06,480
+using these glasses and objects.
+
+135
+00:08:07,160 --> 00:08:09,760
+And if I ask you guys
+
+136
+00:08:09,760 --> 00:08:12,600
+in real life,
+if I have to build something,
+
+137
+00:08:13,480 --> 00:08:15,960
+what will be my first step?
+
+138
+00:08:16,800 --> 00:08:17,760
+You have to build a car
+
+139
+00:08:17,760 --> 00:08:21,240
+or a bike or an airplane.
+
+140
+00:08:21,240 --> 00:08:23,400
+So I will first
+
+141
+00:08:24,240 --> 00:08:26,640
+I will be having that blueprint right
+
+142
+00:08:26,880 --> 00:08:30,440
+that to die, that concept inside my mind.
+
+143
+00:08:30,600 --> 00:08:34,800
+I will I will think about all those rules
+
+144
+00:08:34,800 --> 00:08:39,360
+and how did that thing will look like, how
+that thing will function and everything.
+
+145
+00:08:39,360 --> 00:08:39,520
+Right.
+
+146
+00:08:39,520 --> 00:08:44,120
+So the first step is,
+is that blueprint, right, that planning,
+
+147
+00:08:44,120 --> 00:08:54,480
+that idea.
+
+148
+00:08:54,480 --> 00:08:57,280
+So that idea, that blueprint
+
+149
+00:08:58,520 --> 00:09:00,600
+that could die
+
+150
+00:09:01,440 --> 00:09:05,000
+on that plan is called a class.
+
+151
+00:09:05,320 --> 00:09:07,440
+So you guys have been creating
+a glass, right?
+
+152
+00:09:07,600 --> 00:09:10,360
+But up till now
+you guys have been creating a
+
+153
+00:09:11,400 --> 00:09:15,840
+simple class in which you guys are having
+all your main method, right?
+
+154
+00:09:16,240 --> 00:09:21,240
+You, you didn't define
+any of the properties or how that class
+
+155
+00:09:21,240 --> 00:09:26,040
+would look like or what is the idea behind
+you creating that class?
+
+156
+00:09:26,040 --> 00:09:28,440
+Why you are creating that class? Right?
+
+157
+00:09:28,440 --> 00:09:31,200
+I grew up my dad making blueprints
+manually.
+
+158
+00:09:31,440 --> 00:09:33,720
+I said we will be doing the same idea.
+
+159
+00:09:33,720 --> 00:09:37,040
+So this class in Java is the concept
+
+160
+00:09:38,120 --> 00:09:41,240
+that we will use to define line,
+
+161
+00:09:42,040 --> 00:09:44,080
+how it will look like
+
+162
+00:09:44,880 --> 00:09:48,160
+and how that thing will.
+
+163
+00:09:48,200 --> 00:09:50,960
+What are the behaviors of that team?
+
+164
+00:09:50,960 --> 00:09:54,120
+What does that thing do
+inside the computer?
+
+165
+00:09:54,200 --> 00:09:57,080
+Okay,
+so defining how that thing looks like
+
+166
+00:09:57,520 --> 00:10:00,840
+and defining how that thing works
+
+167
+00:10:02,160 --> 00:10:04,320
+for these
+two things, we will be using a class.
+
+168
+00:10:04,320 --> 00:10:08,160
+This is a class in in
+Java programing that we use, okay?
+
+169
+00:10:08,440 --> 00:10:14,320
+We use a class to define how something
+will work, how something will look like.
+
+170
+00:10:14,320 --> 00:10:19,480
+So by definition,
+the class is a user defined.
+
+171
+00:10:19,560 --> 00:10:21,760
+And one more thing is
+
+172
+00:10:22,200 --> 00:10:23,880
+I will be
+
+173
+00:10:24,480 --> 00:10:26,280
+reading all the slides,
+
+174
+00:10:26,280 --> 00:10:29,360
+I will be explaining all the sentences,
+all the
+
+175
+00:10:30,520 --> 00:10:33,440
+definitions and everything
+that is written inside this slide.
+
+176
+00:10:33,960 --> 00:10:38,160
+Because after you guys are done
+learning Java,
+
+177
+00:10:38,600 --> 00:10:42,400
+you guys will be coming back to the slides
+to refresh your knowledge.
+
+178
+00:10:42,400 --> 00:10:46,400
+And I want you to have clarity
+on everything that is written
+
+179
+00:10:46,400 --> 00:10:47,600
+inside these slides.
+
+180
+00:10:47,600 --> 00:10:50,320
+So if something is not clear inside
+this file,
+
+181
+00:10:51,080 --> 00:10:54,880
+stop me and I will explain that thing
+with different examples.
+
+182
+00:10:54,880 --> 00:10:57,560
+Okay.
+
+183
+00:10:57,560 --> 00:11:00,280
+And I want you
+to do one more thing because
+
+184
+00:11:01,880 --> 00:11:04,480
+this is what
+I have observed from previous batches.
+
+185
+00:11:04,880 --> 00:11:09,560
+So you guys will be for the next
+three weeks, it will be all your Java
+
+186
+00:11:09,960 --> 00:11:13,640
+and after three weeks
+you guys will be learning selenium.
+
+187
+00:11:14,520 --> 00:11:17,760
+And as you move away from Java and start
+
+188
+00:11:17,760 --> 00:11:20,480
+learning other things,
+you guys will start to forget things.
+
+189
+00:11:20,840 --> 00:11:24,760
+So I want you to follow this routine
+that at least
+
+190
+00:11:24,960 --> 00:11:29,160
+you guys are reading
+at least 2 to 3 slides each day.
+
+191
+00:11:29,280 --> 00:11:31,480
+So you guys are halfway down.
+
+192
+00:11:31,480 --> 00:11:35,560
+So I want you to go and start
+from this slide number one,
+
+193
+00:11:35,720 --> 00:11:40,680
+and I want you to keep on reading
+one or two slides per day.
+
+194
+00:11:40,680 --> 00:11:44,240
+Or maybe if you have time,
+you guys can go back and check your repos
+
+195
+00:11:44,240 --> 00:11:49,040
+and you can maybe start or write
+at least a few lines of code each day.
+
+196
+00:11:49,560 --> 00:11:51,600
+So it will be very beneficial for you.
+
+197
+00:11:51,760 --> 00:11:55,800
+Otherwise what happens is that you
+guys will be sitting in the interviews,
+
+198
+00:11:56,360 --> 00:11:58,120
+you guys will be following
+the coding tests,
+
+199
+00:11:58,120 --> 00:12:01,520
+but you guys will not even remember
+how to declare an edit.
+
+200
+00:12:01,520 --> 00:12:04,680
+You guys will forget the syntax
+of how good it be at edit.
+
+201
+00:12:04,680 --> 00:12:10,640
+This has been this and this has happened
+and I don't want you to do the same.
+
+202
+00:12:12,240 --> 00:12:16,000
+So okay, so a class
+
+203
+00:12:16,720 --> 00:12:19,000
+is a user defined
+
+204
+00:12:20,560 --> 00:12:22,080
+blueprint
+
+205
+00:12:22,280 --> 00:12:25,200
+from which object are created, right?
+
+206
+00:12:25,200 --> 00:12:30,040
+So let's say, for example, if I have to
+be, if I have to create a get,
+
+207
+00:12:30,800 --> 00:12:34,160
+is this required any specific program
+or we can use the clips.
+
+208
+00:12:34,160 --> 00:12:36,920
+So now is it right now
+
+209
+00:12:37,600 --> 00:12:41,200
+we will be using Eclipse,
+but I guess from next week
+
+210
+00:12:41,200 --> 00:12:47,280
+we will be switching to a different idea
+that is called in telling you.
+
+211
+00:12:47,280 --> 00:12:51,560
+So right now
+in the industry, around 50 to 60%.
+
+212
+00:12:52,120 --> 00:12:55,600
+People use intelligent and 40%
+
+213
+00:12:55,600 --> 00:12:58,400
+of the time
+they use Eclipse or another ID.
+
+214
+00:12:59,040 --> 00:13:00,600
+So we don't know.
+
+215
+00:13:00,600 --> 00:13:02,600
+Depending upon your company,
+
+216
+00:13:02,600 --> 00:13:06,480
+you guys might be using Eclipse
+or might be using intelligence.
+
+217
+00:13:06,480 --> 00:13:08,640
+We we want to teach you both.
+
+218
+00:13:08,640 --> 00:13:11,520
+So that's like
+half of the Java will be part in Eclipse
+
+219
+00:13:11,520 --> 00:13:14,120
+and the remaining half
+will be taught in an intelligent
+
+220
+00:13:16,600 --> 00:13:19,080
+and you guys will like it.
+
+221
+00:13:19,080 --> 00:13:20,960
+You guys will like it.
+
+222
+00:13:21,400 --> 00:13:24,160
+It's like using
+
+223
+00:13:25,160 --> 00:13:28,800
+this, like using Windows XP and Windows 11
+
+224
+00:13:30,400 --> 00:13:34,680
+or an iPhone
+or maybe some third party giant
+
+225
+00:13:35,880 --> 00:13:37,040
+mobile phone.
+
+226
+00:13:37,040 --> 00:13:39,920
+So a class is a user defined so
+
+227
+00:13:41,360 --> 00:13:42,880
+the users define it.
+
+228
+00:13:42,880 --> 00:13:43,720
+Okay.
+
+229
+00:13:43,720 --> 00:13:46,360
+And it contains the blueprint, right?
+
+230
+00:13:46,400 --> 00:13:48,960
+The idea the sketch is the design
+
+231
+00:13:50,040 --> 00:13:52,800
+from which
+we will be creating the objects.
+
+232
+00:13:53,040 --> 00:13:53,480
+Okay.
+
+233
+00:13:53,520 --> 00:13:57,160
+So let's say, for example, are we going
+to be learning Python as well?
+
+234
+00:13:57,160 --> 00:13:58,840
+Northwestern
+
+235
+00:13:59,040 --> 00:14:02,480
+There are more than 10,000
+programing languages
+
+236
+00:14:03,200 --> 00:14:07,280
+and we will not be learning
+all those programing languages.
+
+237
+00:14:07,760 --> 00:14:10,160
+The basics, they are same
+
+238
+00:14:10,160 --> 00:14:12,360
+if you guys learn the rules
+
+239
+00:14:12,360 --> 00:14:16,360
+in one programing language,
+here's the syntax that changes.
+
+240
+00:14:16,520 --> 00:14:20,960
+So if you have understood the concepts
+in Python, you also have variables.
+
+241
+00:14:21,480 --> 00:14:25,200
+In Python, you also have loops in Python,
+you have for loop, you have y
+
+242
+00:14:25,200 --> 00:14:27,200
+loop, you have little white loop
+
+243
+00:14:27,200 --> 00:14:30,120
+you have at is
+you have everything that you have in Java.
+
+244
+00:14:30,120 --> 00:14:30,800
+Okay?
+
+245
+00:14:30,800 --> 00:14:32,720
+If the only the syntax
+
+246
+00:14:32,720 --> 00:14:36,360
+and some programing languages,
+they are optimized for certain things.
+
+247
+00:14:36,360 --> 00:14:39,720
+For example, if you have to do some
+machine learning task,
+
+248
+00:14:40,440 --> 00:14:43,040
+Python has a lot of libraries,
+
+249
+00:14:43,040 --> 00:14:46,600
+a lot of code that is already written
+to solve those problem.
+
+250
+00:14:46,600 --> 00:14:50,600
+So it depends
+what kind of problem you are solving.
+
+251
+00:14:50,600 --> 00:14:55,200
+For us, Java is good.
+
+252
+00:14:55,200 --> 00:14:56,280
+Yes, the student.
+
+253
+00:14:57,560 --> 00:15:00,320
+So class is a template
+
+254
+00:15:00,320 --> 00:15:02,600
+for creating different objects.
+
+255
+00:15:03,000 --> 00:15:05,520
+We which defines its features
+
+256
+00:15:06,440 --> 00:15:09,240
+are the properties and the behavior.
+
+257
+00:15:09,520 --> 00:15:13,120
+So how how certain
+
+258
+00:15:13,600 --> 00:15:16,280
+how a thing will look like features
+
+259
+00:15:17,040 --> 00:15:21,240
+and how that thing behaves in a real life.
+
+260
+00:15:21,240 --> 00:15:21,600
+Right?
+
+261
+00:15:21,600 --> 00:15:27,640
+What are the tasks
+that that thing can perform?
+
+262
+00:15:27,640 --> 00:15:30,000
+We will be defining these proteins
+in a class.
+
+263
+00:15:31,880 --> 00:15:34,840
+In order to create an object,
+you need a class.
+
+264
+00:15:34,920 --> 00:15:38,400
+Okay, So first we have this idea and
+
+265
+00:15:39,960 --> 00:15:42,000
+we put all the rules,
+
+266
+00:15:42,000 --> 00:15:44,680
+like how things
+how that thing will look like
+
+267
+00:15:45,720 --> 00:15:47,720
+and how that thing will behave
+
+268
+00:15:47,720 --> 00:15:50,520
+right then from those ideas,
+
+269
+00:15:50,520 --> 00:15:54,720
+those rules, that blueprint,
+that design will create the actual thing.
+
+270
+00:15:55,000 --> 00:15:57,320
+Okay,
+So we will follow this approach, right?
+
+271
+00:15:57,600 --> 00:16:02,080
+So in in a car factory,
+if you have to build a car,
+
+272
+00:16:02,840 --> 00:16:05,600
+you you kind of build
+that template, right?
+
+273
+00:16:06,360 --> 00:16:12,000
+And then you can build thousands of cars
+out of that same template, right?
+
+274
+00:16:12,400 --> 00:16:13,080
+So you have
+
+275
+00:16:14,040 --> 00:16:14,520
+a little
+
+276
+00:16:14,520 --> 00:16:17,000
+you got
+you can also have a little word variations
+
+277
+00:16:17,520 --> 00:16:22,160
+in different actual cars
+that you produce from the same design.
+
+278
+00:16:22,440 --> 00:16:23,160
+Right.
+
+279
+00:16:23,200 --> 00:16:27,120
+So we can use that design to build
+
+280
+00:16:28,280 --> 00:16:30,360
+many real life
+
+281
+00:16:30,560 --> 00:16:32,960
+actual objects and we can have
+
+282
+00:16:32,960 --> 00:16:35,960
+a little bit different
+different properties for those objects.
+
+283
+00:16:36,160 --> 00:16:36,720
+Okay.
+
+284
+00:16:36,720 --> 00:16:40,920
+So glass
+is something that contain contains
+
+285
+00:16:40,920 --> 00:16:43,720
+rules or design or a blueprint.
+
+286
+00:16:44,920 --> 00:16:46,720
+And using those rules,
+
+287
+00:16:46,720 --> 00:16:52,040
+we create the actual objects.
+
+288
+00:16:52,040 --> 00:16:54,320
+So you guys already know
+about the variables.
+
+289
+00:16:54,920 --> 00:16:57,600
+So a class can have variables
+
+290
+00:16:57,600 --> 00:17:01,560
+like the variables
+that you guys are defining, like things,
+
+291
+00:17:01,560 --> 00:17:06,280
+integers, booleans, all those variables
+that you guys have been using.
+
+292
+00:17:06,520 --> 00:17:11,400
+You can have those variables
+in a class, this method.
+
+293
+00:17:11,520 --> 00:17:15,800
+So you guys right now, you guys only know
+all about the mean method, right?
+
+294
+00:17:16,920 --> 00:17:17,280
+But we
+
+295
+00:17:17,280 --> 00:17:21,720
+can have many different main methods
+and it will become super clear the moment
+
+296
+00:17:21,720 --> 00:17:25,880
+I gave you the first example, it will
+super clear What are those matters?
+
+297
+00:17:25,920 --> 00:17:27,280
+What are those properties?
+
+298
+00:17:27,280 --> 00:17:28,080
+So don't worry right
+
+299
+00:17:28,080 --> 00:17:32,120
+now, this constructor thing
+you guys don't need to worry about.
+
+300
+00:17:32,160 --> 00:17:34,400
+There is a complete class
+on this constructor,
+
+301
+00:17:35,720 --> 00:17:36,320
+right?
+
+302
+00:17:36,320 --> 00:17:41,160
+So for now you guys can think of this
+constructor is something that help you
+
+303
+00:17:41,760 --> 00:17:47,000
+construct the actual objects
+from those classes.
+
+304
+00:17:47,160 --> 00:17:49,160
+Okay.
+
+305
+00:17:49,160 --> 00:17:54,360
+And the last bind, you can have
+multiple objects for the same class.
+
+306
+00:17:55,040 --> 00:17:59,680
+Now, before we move forward, this is
+
+307
+00:17:59,760 --> 00:18:04,880
+these are the main concepts
+of object oriented programing.
+
+308
+00:18:04,880 --> 00:18:07,320
+So you guys are learning.
+
+309
+00:18:07,680 --> 00:18:11,040
+You guys have you
+guys will now be learning.
+
+310
+00:18:11,040 --> 00:18:13,080
+The object oriented programing and
+
+311
+00:18:14,080 --> 00:18:17,560
+object
+oriented programing is built on these
+
+312
+00:18:18,720 --> 00:18:20,520
+5 to 6 concepts.
+
+313
+00:18:20,520 --> 00:18:21,120
+Okay?
+
+314
+00:18:21,520 --> 00:18:24,040
+You have the concept of object and class
+
+315
+00:18:24,080 --> 00:18:27,400
+that you guys will learn in today's class.
+
+316
+00:18:27,400 --> 00:18:31,360
+Then you will be learning
+about inheritance.
+
+317
+00:18:31,560 --> 00:18:35,480
+I think it's pretty much same
+as the inheritance in our real life.
+
+318
+00:18:36,840 --> 00:18:39,320
+Then we have polymorphism,
+
+319
+00:18:39,320 --> 00:18:43,240
+if the easiest topic
+being object oriented programing.
+
+320
+00:18:43,360 --> 00:18:46,880
+So I said this is where you guys
+have to hold down your peers
+
+321
+00:18:47,640 --> 00:18:52,720
+and then we have abstraction
+and encapsulation.
+
+322
+00:18:52,720 --> 00:18:56,160
+So we will be starting
+from class and objects. Look
+
+323
+00:18:59,240 --> 00:19:03,960
+and Java is an object oriented programing.
+
+324
+00:19:04,400 --> 00:19:08,160
+It's not 100% object oriented programing,
+and it will be clear
+
+325
+00:19:08,160 --> 00:19:10,560
+at the end of this course.
+
+326
+00:19:10,560 --> 00:19:13,920
+But we are other object
+oriented programing languages
+
+327
+00:19:15,120 --> 00:19:18,360
+like Seashore, Python, C++.
+
+328
+00:19:18,360 --> 00:19:21,600
+So object oriented is nothing,
+
+329
+00:19:21,600 --> 00:19:24,320
+but it's a set of rules.
+
+330
+00:19:24,920 --> 00:19:27,960
+It's a way of solving
+
+331
+00:19:28,720 --> 00:19:33,880
+a real life program, a real life problem,
+using any programing language.
+
+332
+00:19:33,880 --> 00:19:37,080
+So it's a set of techniques
+and like object
+
+333
+00:19:37,080 --> 00:19:40,320
+oriented, we have functional programing.
+
+334
+00:19:40,320 --> 00:19:46,680
+There's another set of rules
+that help us solve certain
+
+335
+00:19:46,880 --> 00:19:53,160
+real life problems in a better way,
+not where you guys will not be trying.
+
+336
+00:19:54,160 --> 00:19:57,600
+I will make sure that you guys don't try
+
+337
+00:19:57,600 --> 00:19:59,880
+so object oriented.
+
+338
+00:19:59,880 --> 00:20:01,960
+It is nothing,
+
+339
+00:20:03,560 --> 00:20:05,520
+but it's a methodology, okay?
+
+340
+00:20:05,520 --> 00:20:08,080
+It's a way of solving
+
+341
+00:20:09,600 --> 00:20:13,400
+error, a real life problem,
+a set of rules, the set of guidelines
+
+342
+00:20:13,400 --> 00:20:18,920
+that programmers
+have developed over the years.
+
+343
+00:20:18,920 --> 00:20:22,920
+So today we are starting with the object
+oriented programing.
+
+344
+00:20:22,920 --> 00:20:27,200
+And object oriented programing is nothing,
+but it's a methodology
+
+345
+00:20:27,320 --> 00:20:32,400
+code paradigm to design a program
+using classes and objects.
+
+346
+00:20:33,000 --> 00:20:37,840
+It simplifies the software development
+and a maintenance problem.
+
+347
+00:20:37,840 --> 00:20:39,280
+Remember guys
+
+348
+00:20:39,760 --> 00:20:42,240
+to solve real problems.
+
+349
+00:20:42,240 --> 00:20:44,440
+You guys will be writing thousands
+
+350
+00:20:44,440 --> 00:20:47,520
+and thousands of lines of code right?
+
+351
+00:20:47,520 --> 00:20:52,200
+And by now you must have noticed
+that if you write the program,
+
+352
+00:20:52,560 --> 00:20:55,200
+you're going to visit that program
+for two weeks.
+
+353
+00:20:56,040 --> 00:20:58,920
+And after two weeks,
+if you see that program,
+
+354
+00:20:59,400 --> 00:21:03,120
+half of the logic that you have written
+inside that program, you don't remember
+
+355
+00:21:03,120 --> 00:21:07,440
+why you wrote that logic, right?
+
+356
+00:21:07,440 --> 00:21:11,440
+The does this happens to you guys?
+
+357
+00:21:11,440 --> 00:21:16,240
+Or maybe after 5 minutes, Spike,
+you write something and after five meters
+
+358
+00:21:16,240 --> 00:21:20,640
+you don't know why you wrote a bad thing.
+
+359
+00:21:20,640 --> 00:21:25,480
+So this object or in programing
+will help us solve that problem as though
+
+360
+00:21:25,560 --> 00:21:26,680
+we need to worry about.
+
+361
+00:21:26,680 --> 00:21:30,080
+Lemma Did he make a bad comment about man?
+
+362
+00:21:30,160 --> 00:21:30,560
+Don't
+
+363
+00:21:31,720 --> 00:21:32,720
+fried
+
+364
+00:21:34,320 --> 00:21:37,360
+Canada, don't worry about Zima.
+
+365
+00:21:37,360 --> 00:21:39,080
+I don't remember. Next. Next.
+
+366
+00:21:39,080 --> 00:21:41,600
+There is a lot
+
+367
+00:21:41,640 --> 00:21:43,640
+the object oriented programing
+
+368
+00:21:43,640 --> 00:21:46,960
+will also help you in
+in these kind of scenarios.
+
+369
+00:21:47,160 --> 00:21:50,760
+And the second hardest part is that
+
+370
+00:21:52,080 --> 00:21:55,440
+you guys must have noticed
+you use your mobile phones,
+
+371
+00:21:56,400 --> 00:22:01,080
+you use different websites
+each day or each week.
+
+372
+00:22:01,440 --> 00:22:06,360
+There are new features
+in those mobile phones or the apps
+
+373
+00:22:06,360 --> 00:22:10,080
+that you use on mobile phones,
+all of the websites and everything, right?
+
+374
+00:22:10,680 --> 00:22:16,120
+So this software
+development is not a one time activity.
+
+375
+00:22:16,120 --> 00:22:17,200
+So it's not like that.
+
+376
+00:22:17,200 --> 00:22:20,640
+You have written a program
+and then that program
+
+377
+00:22:21,200 --> 00:22:26,080
+will continue to work
+fine if I am not talking about Microsoft.
+
+378
+00:22:26,240 --> 00:22:28,480
+So this rule applies other than Microsoft.
+
+379
+00:22:29,280 --> 00:22:36,120
+So you guys will be adding
+a lot of features day by day.
+
+380
+00:22:36,160 --> 00:22:37,560
+Okay. So
+
+381
+00:22:38,680 --> 00:22:40,000
+now now to
+
+382
+00:22:40,000 --> 00:22:45,240
+add those features,
+you guys will be writing NewCo, Plus
+
+383
+00:22:45,800 --> 00:22:48,320
+you guys will be modifying
+the existing code.
+
+384
+00:22:48,600 --> 00:22:50,560
+Yeah.
+
+385
+00:22:50,560 --> 00:22:54,960
+So that modification of the existing code
+requires you to understand
+
+386
+00:22:54,960 --> 00:22:56,480
+what is already written.
+
+387
+00:22:56,480 --> 00:23:00,000
+Then modify those things
+
+388
+00:23:00,000 --> 00:23:01,680
+and then
+
+389
+00:23:01,920 --> 00:23:03,480
+build those new features.
+
+390
+00:23:03,480 --> 00:23:04,800
+I am lost, Cosima.
+
+391
+00:23:04,800 --> 00:23:10,240
+I am also lost.
+
+392
+00:23:10,240 --> 00:23:12,440
+So this is what we luckily will be doing.
+
+393
+00:23:12,440 --> 00:23:15,640
+So today we are starting the object
+oriented programing
+
+394
+00:23:16,560 --> 00:23:20,160
+and to learn about the object
+oriented programing,
+
+395
+00:23:21,120 --> 00:23:23,640
+we need to understand
+
+396
+00:23:23,640 --> 00:23:26,280
+the class and the objects.
+
+397
+00:23:26,280 --> 00:23:28,760
+Okay.
+
+398
+00:23:28,760 --> 00:23:31,040
+The backpacks make much error.
+
+399
+00:23:31,040 --> 00:23:32,440
+Students they they.
+
+400
+00:23:32,440 --> 00:23:36,120
+When I used to teach them,
+they used to send me off.
+
+401
+00:23:36,160 --> 00:23:39,000
+There
+we are about to jump from the window. So.
+
+402
+00:23:39,960 --> 00:23:40,800
+Zimmer Don't worry.
+
+403
+00:23:40,800 --> 00:23:44,120
+Those those things,
+they will not apply on base.
+
+404
+00:23:44,400 --> 00:23:44,960
+I know
+
+405
+00:23:46,040 --> 00:23:46,920
+polymorphism.
+
+406
+00:23:46,920 --> 00:23:53,920
+Wait for me. Yes.
+
+407
+00:23:53,920 --> 00:23:54,720
+All right.
+
+408
+00:23:54,720 --> 00:23:57,240
+So up now it's around
+
+409
+00:23:57,600 --> 00:24:00,720
+27 minutes and be honest, is this hard?
+
+410
+00:24:00,720 --> 00:24:02,480
+Does it require too much brain?
+
+411
+00:24:02,480 --> 00:24:03,960
+So, Emily, you guys will
+
+412
+00:24:03,960 --> 00:24:07,040
+I will ask you this question
+after this class and you guys will tell
+
+413
+00:24:07,040 --> 00:24:10,800
+me, you guys, I want to hear from you
+if it is hard or not.
+
+414
+00:24:12,520 --> 00:24:17,600
+We are just sleeping about you, okay?
+
+415
+00:24:17,600 --> 00:24:23,160
+Just give me like 30 to 40 minutes and
+then all of your dogs, they will be here.
+
+416
+00:24:23,400 --> 00:24:24,600
+So I belong.
+
+417
+00:24:24,600 --> 00:24:25,480
+Do you guys understand?
+
+418
+00:24:25,480 --> 00:24:30,880
+Now what is object oriented programing?
+
+419
+00:24:30,880 --> 00:24:32,560
+I was going great, losing weight,
+
+420
+00:24:32,560 --> 00:24:36,000
+and I started this class
+that you are gaining the weight now.
+
+421
+00:24:36,640 --> 00:24:37,920
+I think you should
+
+422
+00:24:39,320 --> 00:24:43,960
+lose more weight.
+
+423
+00:24:43,960 --> 00:24:46,960
+I was crying
+because I don't want to lose my job.
+
+424
+00:24:47,880 --> 00:24:51,600
+Speaking about our exam.
+
+425
+00:24:51,600 --> 00:24:54,240
+When we see example, I hope we can.
+
+426
+00:24:54,280 --> 00:24:55,760
+Yes, you guys will be able to.
+
+427
+00:24:55,760 --> 00:24:57,960
+So guys.
+But what is object oriented programing
+
+428
+00:25:01,560 --> 00:25:04,720
+is something specific to Java or whatever.
+
+429
+00:25:04,720 --> 00:25:05,160
+What is it?
+
+430
+00:25:05,160 --> 00:25:06,240
+Can you guys tell me?
+
+431
+00:25:06,240 --> 00:25:10,440
+Can you guys define it?
+
+432
+00:25:10,440 --> 00:25:10,840
+Oh, yes.
+
+433
+00:25:10,840 --> 00:25:16,040
+By the way, I forgot to tell you
+that this part is easier than those nested
+
+434
+00:25:16,040 --> 00:25:22,080
+loops, Those body arrays
+and stuff like that.
+
+435
+00:25:22,200 --> 00:25:25,240
+No, it's not just for Java methodology.
+
+436
+00:25:25,640 --> 00:25:26,600
+I'm losing weird.
+
+437
+00:25:26,600 --> 00:25:30,120
+I'm just thinking about course,
+the whole time, not even hungry anymore.
+
+438
+00:25:30,360 --> 00:25:32,200
+So I was then I was learning programing.
+
+439
+00:25:32,200 --> 00:25:36,000
+I used to think about the programs
+when I was in bathrooms.
+
+440
+00:25:36,000 --> 00:25:38,480
+I was eating or sleeping.
+
+441
+00:25:38,480 --> 00:25:41,360
+So give me don't worry,
+it's the same for all
+
+442
+00:25:43,440 --> 00:25:44,920
+go to here.
+
+443
+00:25:45,120 --> 00:25:50,280
+I was happy with the nested loops.
+
+444
+00:25:50,280 --> 00:25:51,960
+Does this part include coding?
+
+445
+00:25:51,960 --> 00:25:52,720
+Definitely.
+
+446
+00:25:52,720 --> 00:26:01,600
+Nikolai A lot of coding. It's
+
+447
+00:26:02,680 --> 00:26:04,680
+a program
+
+448
+00:26:04,800 --> 00:26:07,520
+works easier only for you as the
+
+449
+00:26:09,320 --> 00:26:14,440
+instance with finger.
+
+450
+00:26:14,440 --> 00:26:21,840
+Yes, a lot of coding.
+
+451
+00:26:21,840 --> 00:26:23,520
+The nice
+
+452
+00:26:23,880 --> 00:26:27,280
+object oriented programing
+
+453
+00:26:27,280 --> 00:26:31,440
+is just a way to solve real life problems
+
+454
+00:26:31,800 --> 00:26:36,280
+using any programing language,
+a set of rules, a set of guidelines
+
+455
+00:26:37,440 --> 00:26:41,760
+that help us write it,
+and that then that help us
+
+456
+00:26:41,920 --> 00:26:50,160
+solve
+the real life problems in an easier way.
+
+457
+00:26:50,160 --> 00:26:52,520
+And can you guys
+tell me about the class one?
+
+458
+00:26:52,520 --> 00:26:54,520
+What is the class
+
+459
+00:26:58,120 --> 00:27:00,640
+what what were you thinking about
+in the bathroom?
+
+460
+00:27:00,840 --> 00:27:04,800
+So, Farhad, when you will be struck
+on a problem for us
+
+461
+00:27:05,640 --> 00:27:07,920
+then and that
+
+462
+00:27:07,920 --> 00:27:10,960
+that problem, it will, it will haunt you.
+
+463
+00:27:11,360 --> 00:27:14,680
+So you will be thinking
+about those problems in the bathroom.
+
+464
+00:27:14,680 --> 00:27:17,480
+So it was not just me who was losing Their
+
+465
+00:27:18,520 --> 00:27:20,480
+idea of an object
+
+466
+00:27:20,480 --> 00:27:23,880
+type of low class may contain objects
+
+467
+00:27:23,880 --> 00:27:28,680
+or word, a blueprint
+from which we can create an object.
+
+468
+00:27:28,760 --> 00:27:29,640
+Perfect answer.
+
+469
+00:27:29,640 --> 00:27:33,160
+Who know class will define
+features and behavior. Yes,
+
+470
+00:27:34,200 --> 00:27:38,480
+I. I was dreaming about my class.
+
+471
+00:27:38,480 --> 00:27:43,080
+Describe the contents of
+so how a certain thing will look like
+
+472
+00:27:43,360 --> 00:27:46,840
+This is what a class will be defining.
+
+473
+00:27:46,840 --> 00:27:49,280
+And can you guys tell me about the object?
+
+474
+00:27:49,280 --> 00:27:52,800
+Well, what are objects in our real life
+
+475
+00:27:53,040 --> 00:27:55,320
+template for creating projects?
+
+476
+00:27:55,320 --> 00:28:03,760
+Not projects, but objects.
+
+477
+00:28:03,760 --> 00:28:08,400
+Physical items like the mouse,
+the computer, the laptop,
+
+478
+00:28:08,400 --> 00:28:13,640
+the chair, the room, everything around you
+that you guys can see and touch.
+
+479
+00:28:14,280 --> 00:28:19,480
+That that physical thing
+is an object, right?
+
+480
+00:28:19,480 --> 00:28:23,560
+We will be creating those things
+inside programs,
+
+481
+00:28:23,560 --> 00:28:32,840
+inside computers.
+
+482
+00:28:32,840 --> 00:28:34,320
+So here is an example.
+
+483
+00:28:34,320 --> 00:28:37,920
+It is an example
+so we can have an animal class.
+
+484
+00:28:38,080 --> 00:28:38,680
+Okay.
+
+485
+00:28:38,680 --> 00:28:43,240
+For for now you guys can think of animal
+
+486
+00:28:44,560 --> 00:28:48,160
+as some kind of idea inside your mind.
+
+487
+00:28:48,360 --> 00:28:54,080
+So then I ask you to tell me
+about how animals look like.
+
+488
+00:28:54,240 --> 00:28:55,560
+How do they behave?
+
+489
+00:28:55,560 --> 00:28:58,600
+You guys can tell me
+some certain things about animals, right?
+
+490
+00:28:58,640 --> 00:29:00,560
+It's all inside your mind.
+
+491
+00:29:00,560 --> 00:29:02,080
+It's a logical thing.
+
+492
+00:29:02,080 --> 00:29:03,640
+It's a logical deviation, right?
+
+493
+00:29:03,640 --> 00:29:04,600
+It's an idea.
+
+494
+00:29:04,600 --> 00:29:07,280
+If something that is inside
+only inside of mind.
+
+495
+00:29:07,680 --> 00:29:12,360
+If I ask you, can you show me an animal
+you guys can.
+
+496
+00:29:12,600 --> 00:29:12,960
+You can.
+
+497
+00:29:12,960 --> 00:29:16,080
+Can show me a
+lot of different things. Like
+
+498
+00:29:17,160 --> 00:29:19,880
+lions, like cats and dogs.
+
+499
+00:29:19,880 --> 00:29:21,720
+Right.
+
+500
+00:29:21,720 --> 00:29:26,120
+But if I ask you about a specific actual
+
+501
+00:29:26,120 --> 00:29:33,040
+physical object,
+
+502
+00:29:33,040 --> 00:29:38,160
+you cannot tell about a specific,
+specific physical object.
+
+503
+00:29:38,280 --> 00:29:42,880
+If I ask you to define that thing
+using animal.
+
+504
+00:29:42,880 --> 00:29:43,320
+Right.
+
+505
+00:29:43,320 --> 00:29:49,240
+But are these objects,
+are they inside our minds?
+
+506
+00:29:49,240 --> 00:29:52,720
+We can have a physical
+
+507
+00:29:53,200 --> 00:29:56,280
+a sorry, we can have a kind of definition
+
+508
+00:29:57,320 --> 00:30:01,280
+about all of these things inside
+
+509
+00:30:02,360 --> 00:30:04,800
+this animal class, Right.
+
+510
+00:30:04,800 --> 00:30:10,960
+So if I ask you that,
+
+511
+00:30:10,960 --> 00:30:14,000
+what is the difference
+between animals and cars?
+
+512
+00:30:14,000 --> 00:30:16,400
+You guys can define it, right?
+
+513
+00:30:16,400 --> 00:30:18,680
+If I ask you the difference between
+
+514
+00:30:19,760 --> 00:30:22,800
+animals and humans, you guys,
+you guys can tell, right?
+
+515
+00:30:23,560 --> 00:30:26,280
+All those attributes
+
+516
+00:30:26,600 --> 00:30:32,760
+how humans look like and how animals
+look like all those behaviors
+
+517
+00:30:33,080 --> 00:30:36,720
+that humans do and that those animals do.
+
+518
+00:30:36,720 --> 00:30:38,840
+Right. You you kind help.
+
+519
+00:30:38,840 --> 00:30:40,960
+You kind of
+have that picture in your mind,
+
+520
+00:30:41,720 --> 00:30:44,760
+like snake is a tail,
+which quickly creeps around.
+
+521
+00:30:44,800 --> 00:30:47,520
+Yes, that's that's perfectly right.
+
+522
+00:30:48,400 --> 00:30:50,240
+So what we will do
+
+523
+00:30:51,800 --> 00:30:53,240
+inside
+
+524
+00:30:54,240 --> 00:30:57,600
+inside computers,
+we will be defining these classes
+
+525
+00:30:57,600 --> 00:31:00,080
+first, like,
+for example, the animal class.
+
+526
+00:31:01,240 --> 00:31:06,520
+And once we have defined the animal class
+inside the animal class, we will define
+
+527
+00:31:06,520 --> 00:31:10,840
+how how the animals look like,
+how they behave.
+
+528
+00:31:11,600 --> 00:31:14,360
+And once we have defined those rules,
+
+529
+00:31:14,520 --> 00:31:20,080
+then we will be able to create different,
+different animals using those rules.
+
+530
+00:31:20,240 --> 00:31:24,280
+Okay, so getting the furniture class
+
+531
+00:31:24,280 --> 00:31:28,800
+and here are all the objects
+that are under this furniture.
+
+532
+00:31:29,680 --> 00:31:34,840
+So let me first show you an example.
+
+533
+00:31:34,840 --> 00:31:39,240
+Today's class number 11 right? Yes.
+
+534
+00:31:39,600 --> 00:31:44,080
+When we create a scanner,
+we are creating an object.
+
+535
+00:31:44,720 --> 00:31:53,480
+So let me create a class.
+
+536
+00:31:53,480 --> 00:31:57,120
+So now I want you to follow me
+and I want you to stop me.
+
+537
+00:31:57,160 --> 00:32:00,120
+If you guys are unable to follow me
+and I am going fast.
+
+538
+00:32:00,840 --> 00:32:03,720
+So. Com or syntax.
+
+539
+00:32:04,080 --> 00:32:07,880
+No class, no.
+
+540
+00:32:07,880 --> 00:32:10,960
+And this time does not create
+that mean method.
+
+541
+00:32:11,280 --> 00:32:11,960
+Okay.
+
+542
+00:32:11,960 --> 00:32:29,800
+This time don't attack me method.
+
+543
+00:32:29,800 --> 00:32:32,400
+The name must not be
+
+544
+00:32:33,880 --> 00:32:35,800
+identified
+
+545
+00:32:37,800 --> 00:32:40,360
+in class
+
+546
+00:33:00,680 --> 00:33:01,840
+and so
+
+547
+00:33:01,840 --> 00:33:15,480
+let me create the package first.
+
+548
+00:33:15,480 --> 00:33:17,840
+Last 11.
+
+549
+00:33:17,840 --> 00:33:19,560
+Is this class 11?
+
+550
+00:33:19,560 --> 00:33:47,480
+Yes, this is class 11.
+
+551
+00:33:47,480 --> 00:33:56,760
+So let's create a doll between ten and 12.
+
+552
+00:33:56,760 --> 00:34:06,680
+Let's try to create a doll.
+
+553
+00:34:06,680 --> 00:34:07,320
+Okay.
+
+554
+00:34:08,000 --> 00:34:09,040
+Let me know what you guys see.
+
+555
+00:34:09,040 --> 00:34:10,640
+This this class in here.
+
+556
+00:34:10,640 --> 00:34:13,160
+Without that, to
+
+557
+00:34:26,920 --> 00:34:30,040
+go inside a class,
+What do we define, guys?
+
+558
+00:34:30,680 --> 00:34:31,680
+What define two things.
+
+559
+00:34:31,680 --> 00:34:37,360
+What are those two things
+that we define inside the class?
+
+560
+00:34:37,360 --> 00:34:38,760
+No, main class.
+
+561
+00:34:38,760 --> 00:34:41,760
+The method behavior
+
+562
+00:34:41,760 --> 00:34:44,280
+and the features are the properties.
+
+563
+00:34:44,520 --> 00:34:46,560
+So we will be going step by step.
+
+564
+00:34:46,720 --> 00:34:50,200
+Right now, we will only be focusing
+on features, on properties,
+
+565
+00:34:51,560 --> 00:34:54,480
+and later on
+we will be defining the behaviors as well.
+
+566
+00:34:54,480 --> 00:34:58,040
+Inside that class.
+
+567
+00:34:58,040 --> 00:35:00,280
+So tell me about the dolls guys.
+
+568
+00:35:00,960 --> 00:35:03,680
+What are they
+some what are some properties?
+
+569
+00:35:03,920 --> 00:35:07,640
+What are some features that dogs dogs have
+
+570
+00:35:17,400 --> 00:35:20,600
+four legs barking.
+
+571
+00:35:20,600 --> 00:35:24,000
+They'll one they'll size
+
+572
+00:35:26,880 --> 00:35:32,800
+breed.
+
+573
+00:35:32,800 --> 00:35:36,600
+So let's start from something very simple
+although
+
+574
+00:35:38,240 --> 00:35:40,360
+it's a little let's say
+
+575
+00:35:42,000 --> 00:35:44,160
+let's start from the name right.
+
+576
+00:35:44,160 --> 00:35:47,840
+So dogs they can have a name
+
+577
+00:35:49,280 --> 00:35:51,560
+physical then humans
+
+578
+00:35:53,720 --> 00:35:54,920
+against
+
+579
+00:35:55,680 --> 00:35:58,840
+dogs they can have a breed, right.
+
+580
+00:35:59,080 --> 00:36:01,320
+So string and breed
+
+581
+00:36:02,560 --> 00:36:12,800
+dogs, they can have color.
+
+582
+00:36:12,800 --> 00:36:13,320
+Okay.
+
+583
+00:36:13,320 --> 00:36:15,840
+They have some trade in humanity to
+
+584
+00:36:18,480 --> 00:36:19,080
+gain.
+
+585
+00:36:19,320 --> 00:36:24,600
+Well, what are the other things, guys,
+that dogs have
+
+586
+00:36:26,520 --> 00:36:29,760
+a name breed color type.
+
+587
+00:36:29,880 --> 00:36:35,240
+So Alexa, Alexa, we will be specifying
+the type and the size or the age.
+
+588
+00:36:35,400 --> 00:36:37,600
+So instead of size, let's have
+
+589
+00:36:40,120 --> 00:36:41,000
+height.
+
+590
+00:36:41,000 --> 00:36:43,200
+So for height, what should I do, guys?
+
+591
+00:36:43,800 --> 00:36:49,120
+Should I declare an integer variable
+or a double variable?
+
+592
+00:36:49,120 --> 00:36:55,640
+Then how do we end points?
+
+593
+00:36:55,640 --> 00:37:00,120
+And so we should be using a double, not a
+
+594
+00:37:03,600 --> 00:37:04,440
+major.
+
+595
+00:37:04,520 --> 00:37:14,080
+What about the age?
+
+596
+00:37:14,080 --> 00:37:17,240
+So age is usually defined in figures,
+so increase
+
+597
+00:37:17,240 --> 00:37:20,040
+the age
+
+598
+00:37:20,280 --> 00:37:23,600
+right?
+
+599
+00:37:23,600 --> 00:37:25,360
+Then we can have
+
+600
+00:37:26,080 --> 00:37:31,960
+the gender as estimate right.
+
+601
+00:37:31,960 --> 00:37:33,840
+So this is how
+
+602
+00:37:34,040 --> 00:37:34,760
+old I am.
+
+603
+00:37:34,760 --> 00:37:36,840
+33.5 years old.
+
+604
+00:37:36,840 --> 00:37:39,040
+So we will consider you 33 years old.
+
+605
+00:37:39,600 --> 00:37:42,120
+So this is how guys using these
+
+606
+00:37:42,120 --> 00:37:44,880
+simple variables
+that you guys have learned.
+
+607
+00:37:45,320 --> 00:37:48,000
+We define the features
+
+608
+00:37:48,120 --> 00:37:51,040
+or the properties for certain objects.
+
+609
+00:37:51,240 --> 00:37:51,680
+Okay.
+
+610
+00:37:52,080 --> 00:37:55,080
+So we have defined inside this class
+
+611
+00:37:55,080 --> 00:38:00,240
+that the object
+that we will be creating from this class,
+
+612
+00:38:00,800 --> 00:38:03,840
+it will be
+it can have a name, it can have a breed.
+
+613
+00:38:04,320 --> 00:38:06,600
+It will be having some color, right?
+
+614
+00:38:07,040 --> 00:38:09,960
+It will be having some height, age
+and integer.
+
+615
+00:38:09,960 --> 00:38:13,320
+Right now, if you look at the real life
+
+616
+00:38:14,520 --> 00:38:17,800
+dogs,
+there can be thousands of features right
+
+617
+00:38:18,840 --> 00:38:21,400
+there
+and there can be thousands of features.
+
+618
+00:38:21,680 --> 00:38:24,600
+But to explain the concept,
+we will only be
+
+619
+00:38:25,280 --> 00:38:28,800
+considering 5
+to 10 features of each object right?
+
+620
+00:38:28,800 --> 00:38:31,480
+So don't don't worry
+about those number of LEDs,
+
+621
+00:38:32,240 --> 00:38:35,760
+those those things
+and all those other attributes there
+
+622
+00:38:35,880 --> 00:38:38,360
+that you guys have specified
+in this channel
+
+623
+00:38:39,520 --> 00:38:41,640
+in here in the chat.
+
+624
+00:38:41,640 --> 00:38:44,040
+Yes, there are all features,
+
+625
+00:38:44,760 --> 00:38:48,680
+but we will be keeping the example simple
+and there can be other features
+
+626
+00:38:48,680 --> 00:38:52,360
+that we are
+not maybe considering right now. So
+
+627
+00:38:53,440 --> 00:38:56,520
+all those things,
+they are classified and procedures, right?
+
+628
+00:38:56,760 --> 00:38:59,360
+So we defined a class.
+
+629
+00:38:59,560 --> 00:39:03,560
+Okay, We have given the class
+a name, it's our dog.
+
+630
+00:39:04,120 --> 00:39:08,120
+And then using variables, we have
+
+631
+00:39:09,360 --> 00:39:13,440
+some properties
+or attributes of dogs, right
+
+632
+00:39:15,680 --> 00:39:18,600
+now we can have much more complex
+
+633
+00:39:19,320 --> 00:39:22,720
+structures to define the actual physical
+
+634
+00:39:23,880 --> 00:39:25,920
+appearance of a dog.
+
+635
+00:39:25,920 --> 00:39:32,560
+We can we can define to how how those legs
+and those neck and body
+
+636
+00:39:32,560 --> 00:39:36,480
+and all that stuff, how they're acting
+looks like in real life objects.
+
+637
+00:39:36,800 --> 00:39:39,240
+But we will be keeping things very,
+very simple.
+
+638
+00:39:39,240 --> 00:39:39,720
+Okay.
+
+639
+00:39:39,720 --> 00:39:44,160
+So we will only be
+considering these features.
+
+640
+00:39:44,160 --> 00:39:46,280
+So when we have now defined
+
+641
+00:39:48,040 --> 00:39:51,800
+the dog like service dog,
+which is need for 2508
+
+642
+00:39:51,840 --> 00:39:54,120
+could be the
+
+643
+00:39:55,720 --> 00:39:57,560
+to test each class
+
+644
+00:39:57,560 --> 00:40:02,840
+or to clear the objects out of a class.
+
+645
+00:40:02,840 --> 00:40:05,280
+We will be following this
+
+646
+00:40:05,280 --> 00:40:06,520
+in this
+
+647
+00:40:08,840 --> 00:40:09,480
+approach
+
+648
+00:40:09,480 --> 00:40:13,720
+that for each class
+we will be creating a test for class.
+
+649
+00:40:13,840 --> 00:40:17,000
+So we will create a dog
+
+650
+00:40:17,000 --> 00:40:20,480
+stuff in here.
+
+651
+00:40:20,480 --> 00:40:24,120
+And inside of this test,
+our classes in here
+
+652
+00:40:24,120 --> 00:40:27,480
+we will be having the main methods.
+
+653
+00:40:27,720 --> 00:40:30,320
+So let me open these classes
+
+654
+00:40:30,360 --> 00:40:46,800
+side by side.
+
+655
+00:40:46,800 --> 00:40:47,920
+Can you repeat please?
+
+656
+00:40:47,920 --> 00:40:50,320
+Can we define behavior for features?
+
+657
+00:40:50,400 --> 00:40:53,000
+No, just give me 15 to 20 minutes.
+
+658
+00:40:53,000 --> 00:40:58,720
+I will tell you how to define behaviors.
+
+659
+00:40:58,720 --> 00:41:02,040
+So right now
+I have defined some properties of a dog.
+
+660
+00:41:02,640 --> 00:41:04,160
+Okay. How a dog
+
+661
+00:41:05,400 --> 00:41:08,040
+looks like in real life.
+
+662
+00:41:08,600 --> 00:41:11,040
+For that I have created a class
+
+663
+00:41:11,040 --> 00:41:14,400
+and I have used some variables and
+
+664
+00:41:15,480 --> 00:41:16,720
+deficit. Okay.
+
+665
+00:41:16,720 --> 00:41:19,080
+And you created another class
+like normal? Yes.
+
+666
+00:41:19,200 --> 00:41:20,520
+This is second class.
+
+667
+00:41:20,520 --> 00:41:23,040
+This dog best, the class in here.
+
+668
+00:41:23,760 --> 00:41:28,320
+We will create actual objects
+out of these classes.
+
+669
+00:41:28,320 --> 00:41:29,600
+We can do.
+
+670
+00:41:29,840 --> 00:41:31,960
+We can create the objects
+inside this class.
+
+671
+00:41:32,360 --> 00:41:34,440
+But this is how it is done in real life.
+
+672
+00:41:34,440 --> 00:41:38,360
+So I will try to follow the same rules
+
+673
+00:41:38,360 --> 00:41:42,120
+that you guys will be using in your
+in your real life order, in your
+
+674
+00:41:43,640 --> 00:41:48,160
+on your jobs, in real life.
+
+675
+00:41:48,160 --> 00:41:55,080
+So are you guys done writing
+most of these classes?
+
+676
+00:41:55,080 --> 00:41:57,400
+Okay, now to create
+
+677
+00:41:58,760 --> 00:42:04,080
+an object out of a class,
+this is the syntax that we use.
+
+678
+00:42:04,200 --> 00:42:07,240
+So we write name of the class.
+
+679
+00:42:07,760 --> 00:42:09,080
+Okay, dog.
+
+680
+00:42:10,560 --> 00:42:14,360
+Then the object name.
+
+681
+00:42:14,760 --> 00:42:17,320
+Okay, It can be in there. Say
+
+682
+00:42:19,000 --> 00:42:21,000
+it can be
+
+683
+00:42:22,400 --> 00:42:24,400
+a Zima or not.
+
+684
+00:42:24,480 --> 00:42:27,120
+Okay.
+
+685
+00:42:27,120 --> 00:42:29,600
+And then we use that equal cosine.
+
+686
+00:42:31,280 --> 00:42:34,440
+Then we write new keyword
+
+687
+00:42:34,440 --> 00:42:37,080
+and then again that dog.
+
+688
+00:42:37,680 --> 00:42:40,840
+And of parentheses.
+
+689
+00:42:40,840 --> 00:42:42,480
+And this time we call it
+
+690
+00:42:42,600 --> 00:42:45,360
+the same as you guys have been doing
+for this kind of class.
+
+691
+00:42:46,240 --> 00:42:48,600
+The name of the class,
+
+692
+00:42:48,600 --> 00:42:50,680
+then name of the variable.
+
+693
+00:42:50,680 --> 00:42:53,160
+So the name of the class,
+
+694
+00:42:53,160 --> 00:42:55,520
+name of the variable
+
+695
+00:42:55,520 --> 00:42:58,680
+and equal cosine neo keyword.
+
+696
+00:42:59,400 --> 00:43:02,920
+And then again the name of the class.
+
+697
+00:43:03,560 --> 00:43:06,520
+And the benefit is the dog is an Adi
+
+698
+00:43:07,800 --> 00:43:10,800
+likes camel and it likes Natty.
+
+699
+00:43:11,400 --> 00:43:14,200
+So that area is also class.
+
+700
+00:43:14,200 --> 00:43:15,920
+The class name is Guess Sensitive.
+
+701
+00:43:15,920 --> 00:43:24,600
+Yes, the class name is a sensitive.
+
+702
+00:43:24,600 --> 00:43:31,200
+Okay, so this is how we create
+an object in here.
+
+703
+00:43:31,680 --> 00:43:33,960
+This is the object. Okay?
+
+704
+00:43:33,960 --> 00:43:36,320
+This is what we call an object.
+
+705
+00:43:36,320 --> 00:43:37,680
+This is the class.
+
+706
+00:43:37,680 --> 00:43:39,800
+This is what we call an object.
+
+707
+00:43:39,800 --> 00:43:41,800
+This is just an assignment.
+
+708
+00:43:41,800 --> 00:43:42,840
+This new keyword.
+
+709
+00:43:42,840 --> 00:43:46,480
+You guys will always be
+using a new keyword when you will be
+
+710
+00:43:46,480 --> 00:43:50,080
+creating objects of classes.
+
+711
+00:43:51,240 --> 00:43:53,520
+And then again, name of the class.
+
+712
+00:43:53,520 --> 00:43:56,400
+And by the way, this
+this is what we call the constructor.
+
+713
+00:43:57,000 --> 00:43:59,800
+So basically we are saying, Hey, Java
+
+714
+00:43:59,840 --> 00:44:04,040
+effort of the model to our class
+and to use features from there. Yes.
+
+715
+00:44:04,440 --> 00:44:07,600
+So this is what happens, guys,
+
+716
+00:44:08,720 --> 00:44:12,040
+when you write the name of the class
+
+717
+00:44:13,000 --> 00:44:16,840
+and you don't write any import statement,
+You remember this
+
+718
+00:44:17,000 --> 00:44:20,360
+for the scanner to work,
+you guys used to write that import
+
+719
+00:44:20,760 --> 00:44:23,800
+statement, write that import statement.
+
+720
+00:44:24,080 --> 00:44:28,880
+It actually tells you
+where that a scanner class is
+
+721
+00:44:30,440 --> 00:44:34,000
+inside
+the packages that Java guys have built
+
+722
+00:44:34,560 --> 00:44:36,720
+when you guys are developing something.
+
+723
+00:44:37,200 --> 00:44:42,360
+And if that thing exists
+in the same package,
+
+724
+00:44:42,960 --> 00:44:45,320
+you guys don't need that import statement.
+
+725
+00:44:45,440 --> 00:44:46,240
+I missed it.
+
+726
+00:44:46,240 --> 00:44:49,680
+Did you explain why the dog class
+does not have a main method?
+
+727
+00:44:50,160 --> 00:44:52,000
+Can it ever have main method?
+
+728
+00:44:52,000 --> 00:44:54,040
+Yes, it can have the main method as well.
+
+729
+00:44:54,600 --> 00:44:57,960
+It's just an optional thing. So.
+
+730
+00:44:57,960 --> 00:45:01,520
+So when you write the name of the class
+lines, this is important.
+
+731
+00:45:01,520 --> 00:45:05,440
+I want you to focus when you write
+the name of the class what Java will do.
+
+732
+00:45:05,880 --> 00:45:09,520
+Java will go in here and Java will check
+
+733
+00:45:10,080 --> 00:45:13,360
+if there are any import statements
+
+734
+00:45:14,800 --> 00:45:16,320
+for that class.
+
+735
+00:45:16,320 --> 00:45:20,040
+If there are no import statements in here,
+
+736
+00:45:20,720 --> 00:45:24,360
+then Java will double check this package.
+
+737
+00:45:25,080 --> 00:45:27,240
+Okay, Java will take this package.
+
+738
+00:45:27,280 --> 00:45:29,640
+So Java will say okay,
+
+739
+00:45:29,640 --> 00:45:32,880
+I am so this this dog best
+
+740
+00:45:32,880 --> 00:45:37,600
+our class is inside
+this class 11 package here
+
+741
+00:45:38,000 --> 00:45:40,880
+and I don't have any import statements
+that Java will do.
+
+742
+00:45:41,560 --> 00:45:44,840
+Java will go inside this package
+
+743
+00:45:47,520 --> 00:45:49,920
+and Java will search
+
+744
+00:45:49,920 --> 00:45:54,280
+for the four classes that have this dog
+
+745
+00:45:54,400 --> 00:45:58,320
+as the name.
+
+746
+00:45:58,320 --> 00:46:03,360
+Once Java has found this dog,
+not Java, then Java.
+
+747
+00:46:03,360 --> 00:46:06,280
+Go inside this class in here,
+
+748
+00:46:07,680 --> 00:46:08,400
+okay?
+
+749
+00:46:08,440 --> 00:46:13,040
+And now Java knows
+what are the properties of this class,
+
+750
+00:46:13,040 --> 00:46:16,680
+What are the methods
+and how to use that class.
+
+751
+00:46:16,680 --> 00:46:19,840
+Okay,
+if we have an import statement of that
+
+752
+00:46:19,840 --> 00:46:23,440
+import statement,
+it tells you where to find that class.
+
+753
+00:46:23,720 --> 00:46:26,600
+If we don't have import statement,
+the first priority
+
+754
+00:46:26,600 --> 00:46:30,600
+in Java looks inside this package
+
+755
+00:46:31,200 --> 00:46:34,160
+in which the class exists
+
+756
+00:46:34,680 --> 00:46:37,080
+in which you are
+trying to create the object.
+
+757
+00:46:37,280 --> 00:46:39,600
+Okay. So far dog class
+
+758
+00:46:40,720 --> 00:46:43,520
+because there are no import statements,
+
+759
+00:46:43,520 --> 00:46:45,840
+Java will go inside this
+
+760
+00:46:45,840 --> 00:46:48,800
+class level and package the same package
+
+761
+00:46:49,200 --> 00:46:51,400
+in which this class exists
+
+762
+00:46:51,880 --> 00:46:54,520
+and it will try to search
+
+763
+00:46:54,600 --> 00:46:56,640
+the dog class is
+
+764
+00:46:56,640 --> 00:47:00,000
+the class was to be on same package.
+
+765
+00:47:00,080 --> 00:47:02,920
+No, it can be in a different package,
+
+766
+00:47:02,920 --> 00:47:05,160
+but if it is in a different package
+
+767
+00:47:05,520 --> 00:47:09,760
+then you have to write
+that import statement.
+
+768
+00:47:09,760 --> 00:47:12,040
+Then it would be in a folder.
+Not you meet.
+
+769
+00:47:12,040 --> 00:47:15,120
+You should be inside the package
+
+770
+00:47:22,920 --> 00:47:24,720
+import card or turtle
+
+771
+00:47:24,720 --> 00:47:29,440
+and dog would not need to import Asia.
+
+772
+00:47:29,440 --> 00:47:32,600
+What is the syntax import valid or tuple?
+
+773
+00:47:32,600 --> 00:47:34,960
+And so we don't need that import
+statement.
+
+774
+00:47:34,960 --> 00:47:37,800
+We don't need any syntax.
+
+775
+00:47:37,800 --> 00:47:40,000
+Oh, then it is outside of the package.
+
+776
+00:47:40,000 --> 00:47:40,480
+I will.
+
+777
+00:47:40,480 --> 00:47:43,560
+I will teach you well what happens
+when it is outside of that package.
+
+778
+00:47:43,680 --> 00:47:47,560
+No, don't worry about that right now.
+
+779
+00:47:47,560 --> 00:47:50,360
+What about if
+there is nothing in the package,
+
+780
+00:47:50,360 --> 00:47:52,160
+then you will be getting an error.
+
+781
+00:47:52,160 --> 00:47:53,560
+Now you will be getting an
+
+782
+00:47:59,480 --> 00:48:00,360
+Dimas dog.
+
+783
+00:48:00,360 --> 00:48:01,360
+It's a variable.
+
+784
+00:48:01,360 --> 00:48:02,640
+And so it could be anything.
+
+785
+00:48:02,640 --> 00:48:04,920
+Yes, it can be anything.
+
+786
+00:48:04,920 --> 00:48:06,840
+It can be anything
+
+787
+00:48:07,720 --> 00:48:08,480
+you want.
+
+788
+00:48:08,480 --> 00:48:09,680
+You can say
+
+789
+00:48:11,480 --> 00:48:12,720
+the mark
+
+790
+00:48:12,720 --> 00:48:20,520
+looks are dog.
+
+791
+00:48:20,520 --> 00:48:22,160
+Yes, this is the object.
+
+792
+00:48:22,160 --> 00:48:26,000
+Okay.
+
+793
+00:48:26,000 --> 00:48:26,840
+Okay.
+
+794
+00:48:28,080 --> 00:48:30,080
+So let me put a comment for you
+
+795
+00:48:32,640 --> 00:48:35,160
+when here we are creating
+
+796
+00:48:38,880 --> 00:48:42,280
+an object of
+
+797
+00:48:43,720 --> 00:48:45,120
+dog class. Okay.
+
+798
+00:48:45,120 --> 00:48:50,040
+So when we write this line, we say
+we are creating an object of that class.
+
+799
+00:48:50,920 --> 00:48:53,200
+No, you have a dog, Rima.
+
+800
+00:48:54,000 --> 00:48:55,800
+Okay, Rima, tell me.
+
+801
+00:48:55,800 --> 00:48:57,040
+Tell us
+
+802
+00:49:00,280 --> 00:49:00,560
+more.
+
+803
+00:49:00,840 --> 00:49:01,880
+Tell us.
+
+804
+00:49:01,880 --> 00:49:04,280
+So I am writing this variable name.
+
+805
+00:49:05,360 --> 00:49:06,120
+That means.
+
+806
+00:49:06,120 --> 00:49:09,360
+But who has that dog in this class
+
+807
+00:49:15,320 --> 00:49:16,600
+alone now?
+
+808
+00:49:16,600 --> 00:49:20,040
+Okay, we will create the object
+for all of your dogs.
+
+809
+00:49:20,040 --> 00:49:27,240
+So let's start from.
+
+810
+00:49:27,240 --> 00:49:32,520
+All right,
+So tell us about the about the name
+
+811
+00:49:34,400 --> 00:49:36,640
+of your dog.
+
+812
+00:49:36,640 --> 00:49:38,120
+I have a bird.
+
+813
+00:49:38,120 --> 00:49:40,320
+Me or bin.
+
+814
+00:49:40,320 --> 00:49:41,360
+I need to.
+
+815
+00:49:41,360 --> 00:49:43,800
+Two birds. Lexi.
+
+816
+00:49:43,800 --> 00:49:46,440
+So the name of the dog
+
+817
+00:49:48,880 --> 00:49:51,240
+is mixed.
+
+818
+00:49:51,240 --> 00:49:55,920
+Okay, so now we are.
+
+819
+00:49:55,920 --> 00:49:57,160
+I have all got.
+
+820
+00:49:57,160 --> 00:50:02,600
+Maybe you can try to create objects
+out of your your kids.
+
+821
+00:50:03,280 --> 00:50:05,840
+So in here, guys.
+
+822
+00:50:05,840 --> 00:50:11,080
+So in here we are now actually specifying
+
+823
+00:50:12,120 --> 00:50:16,920
+how a certain thing looks like, right?
+
+824
+00:50:17,320 --> 00:50:20,720
+If you see this dog, all the dogs,
+
+825
+00:50:21,640 --> 00:50:24,920
+they have some kind of names,
+they have breed and they have colors.
+
+826
+00:50:24,920 --> 00:50:27,320
+They have height, age, gender. Right.
+
+827
+00:50:27,320 --> 00:50:33,040
+But when we create an object
+out of a class,
+
+828
+00:50:33,720 --> 00:50:37,440
+we tell the actual physical objects
+
+829
+00:50:38,080 --> 00:50:52,160
+how that thing looks like in real life.
+
+830
+00:50:52,160 --> 00:50:54,800
+All right, So let's define it
+and define more attributes.
+
+831
+00:50:54,800 --> 00:50:57,480
+So now we are assigning actual
+
+832
+00:50:58,680 --> 00:51:00,480
+attributes to
+
+833
+00:51:00,480 --> 00:51:03,960
+the object that we have created
+from that class.
+
+834
+00:51:04,440 --> 00:51:10,840
+Okay.
+
+835
+00:51:10,840 --> 00:51:13,960
+So tell us about the breed of your dog
+
+836
+00:51:20,160 --> 00:51:20,920
+mixed
+
+837
+00:51:25,440 --> 00:51:27,960
+in the standard American.
+
+838
+00:51:29,080 --> 00:51:38,160
+Okay.
+
+839
+00:51:38,160 --> 00:51:40,320
+And then, oops,
+
+840
+00:51:41,280 --> 00:51:46,680
+I should say last dogs dog.
+
+841
+00:51:46,680 --> 00:51:49,960
+Okay,
+so now we have defined the breed as well.
+
+842
+00:51:50,560 --> 00:51:54,240
+Okay.
+
+843
+00:51:54,240 --> 00:52:00,120
+And then let's define the color,
+
+844
+00:52:00,120 --> 00:52:03,520
+because there is the owner is female.
+
+845
+00:52:03,680 --> 00:52:06,880
+There have been color.
+
+846
+00:52:06,880 --> 00:52:07,920
+Well, what is the color?
+
+847
+00:52:07,920 --> 00:52:11,520
+I don't know.
+
+848
+00:52:11,520 --> 00:52:18,560
+Black.
+
+849
+00:52:18,560 --> 00:52:19,200
+Okay.
+
+850
+00:52:19,200 --> 00:52:21,880
+And then maybe define
+
+851
+00:52:23,400 --> 00:52:25,920
+the height
+
+852
+00:52:25,920 --> 00:52:28,880
+to be 2.5 or something.
+
+853
+00:52:28,880 --> 00:52:31,640
+I need another number.
+
+854
+00:52:31,640 --> 00:52:33,920
+And does it need to be in order? No.
+
+855
+00:52:34,280 --> 00:52:37,920
+The manner it does not need to be non
+
+856
+00:52:39,600 --> 00:52:42,200
+not. It may be ten years.
+
+857
+00:52:42,840 --> 00:52:47,920
+Okay.
+
+858
+00:52:47,920 --> 00:52:50,600
+So gender is equal to
+
+859
+00:52:55,560 --> 00:52:57,040
+and okay.
+
+860
+00:52:57,040 --> 00:53:01,480
+So have you guys defined all of your dogs
+how your dogs look like?
+
+861
+00:53:01,480 --> 00:53:04,320
+What are their names,
+What are their colors?
+
+862
+00:53:04,320 --> 00:53:16,960
+Height and everything.
+
+863
+00:53:16,960 --> 00:53:18,240
+I know it's my dog
+
+864
+00:53:21,040 --> 00:53:23,920
+these days you buy in is the thing here.
+
+865
+00:53:25,080 --> 00:53:28,040
+We went to position number seven,
+right with this number
+
+866
+00:53:28,040 --> 00:53:31,160
+seven or six, I guess in the last week.
+
+867
+00:53:32,400 --> 00:53:35,440
+I am following along
+as I don't have a dog.
+
+868
+00:53:35,760 --> 00:53:37,080
+It's fine.
+
+869
+00:53:37,080 --> 00:53:40,920
+It's impolite.
+
+870
+00:53:40,960 --> 00:53:44,320
+You are also an interpreter.
+
+871
+00:53:44,600 --> 00:53:46,320
+If we need one for our class,
+
+872
+00:53:46,320 --> 00:53:51,840
+I can buy two.
+
+873
+00:53:51,840 --> 00:53:58,440
+It did go up 4.5.
+
+874
+00:53:58,440 --> 00:54:09,120
+It even appeared with this.
+
+875
+00:54:09,120 --> 00:54:14,280
+We actually do buy a top.
+
+876
+00:54:14,280 --> 00:54:16,160
+Oh my God.
+
+877
+00:54:17,200 --> 00:54:20,640
+How many years you are into crypto
+
+878
+00:54:22,880 --> 00:54:24,160
+thinking of crypto?
+
+879
+00:54:24,160 --> 00:54:26,880
+24, seven, five months.
+
+880
+00:54:26,880 --> 00:54:33,840
+And that's why you did this.
+
+881
+00:54:33,840 --> 00:54:35,520
+I am like a stranger today.
+
+882
+00:54:35,520 --> 00:54:39,120
+I said we are talking talking
+about cryptocurrency again.
+
+883
+00:54:39,120 --> 00:54:41,440
+That cryptocurrency is built
+using programing
+
+884
+00:54:42,360 --> 00:54:44,960
+where you buy a few by Coinbase not allow.
+
+885
+00:54:45,240 --> 00:54:46,240
+I know nothing
+
+886
+00:54:47,520 --> 00:54:49,600
+of the everyday
+
+887
+00:55:01,640 --> 00:55:04,040
+for those who are new or those who are
+
+888
+00:55:05,080 --> 00:55:07,320
+in the crypto for one year.
+
+889
+00:55:08,320 --> 00:55:10,840
+I will suggest to you
+to only start with $100
+
+890
+00:55:12,200 --> 00:55:14,040
+and after one year don't price.
+
+891
+00:55:14,040 --> 00:55:16,480
+Nothing is going anywhere after one year.
+
+892
+00:55:16,480 --> 00:55:18,360
+Once you have learned
+
+893
+00:55:20,520 --> 00:55:22,080
+all of that, do
+
+894
+00:55:23,080 --> 00:55:23,720
+this.
+
+895
+00:55:23,720 --> 00:55:28,040
+It happens.
+
+896
+00:55:28,040 --> 00:55:29,320
+All right, guys.
+
+897
+00:55:29,320 --> 00:55:31,440
+So now we have assigned bad reviews
+
+898
+00:55:33,640 --> 00:55:37,560
+now where you can get the values
+of those attributes.
+
+899
+00:55:37,560 --> 00:55:39,960
+Why at a public class
+
+900
+00:55:49,560 --> 00:55:49,920
+model,
+
+901
+00:55:49,920 --> 00:55:52,560
+when you are defining
+a class inside a class.
+
+902
+00:55:53,640 --> 00:55:57,480
+So when you define a class, inside
+a class, yes, it is allowed,
+
+903
+00:55:57,480 --> 00:56:00,840
+but you cannot have two public classes
+in a single file.
+
+904
+00:56:01,560 --> 00:56:04,080
+That's why you are getting an error.
+
+905
+00:56:04,080 --> 00:56:07,800
+So only one class, only one public class,
+
+906
+00:56:07,800 --> 00:56:12,760
+but qualified.
+
+907
+00:56:12,760 --> 00:56:14,800
+So now you have assigned the attributes.
+
+908
+00:56:15,600 --> 00:56:22,040
+You can also print these out.
+
+909
+00:56:22,040 --> 00:56:25,000
+So let's say I can say
+
+910
+00:57:04,680 --> 00:57:06,800
+why? What am I
+
+911
+00:57:06,800 --> 00:57:11,880
+doing wrong?
+
+912
+00:57:11,880 --> 00:57:14,680
+So Maria
+
+913
+00:57:15,640 --> 00:57:19,600
+and here
+make sure that the spellings are correct.
+
+914
+00:57:19,600 --> 00:57:22,200
+Make sure you don't have color inside
+your class.
+
+915
+00:57:22,760 --> 00:57:25,560
+You have colors variable. So
+
+916
+00:57:26,680 --> 00:57:30,000
+and both these type of issues
+in this portion of
+
+917
+00:57:31,320 --> 00:57:35,280
+the classes there, he will help you out
+
+918
+00:57:36,240 --> 00:57:36,360
+there.
+
+919
+00:57:36,360 --> 00:57:46,520
+Show me my name,
+your show me your dog class.
+
+920
+00:57:46,520 --> 00:58:18,040
+Okay, then let me go to this board
+
+921
+00:58:18,840 --> 00:58:21,760
+and see
+
+922
+00:58:21,760 --> 00:58:24,720
+what quickly
+you guys can use the other active.
+
+923
+00:58:24,720 --> 00:58:34,640
+We are accessible.
+
+924
+00:58:34,640 --> 00:58:36,320
+Do you guys see the artwork?
+
+925
+00:58:36,320 --> 00:58:39,440
+Like I see.
+
+926
+00:58:39,440 --> 00:58:42,040
+So what we are doing
+
+927
+00:58:42,040 --> 00:58:44,760
+first we created a class,
+
+928
+00:58:44,760 --> 00:58:48,840
+then we created an object from that class
+
+929
+00:58:49,680 --> 00:58:53,960
+we assigned values to the properties
+
+930
+00:58:54,360 --> 00:58:59,760
+and now we are simply accessing
+those properties.
+
+931
+00:58:59,760 --> 00:59:03,520
+Okay, so let's create one more object
+
+932
+00:59:03,880 --> 00:59:07,320
+out of this same exact dog class.
+
+933
+00:59:07,320 --> 00:59:11,880
+Okay,
+So I will again say the name of the class
+
+934
+00:59:12,680 --> 00:59:16,960
+and this time
+who else Will said that they have a dog
+
+935
+00:59:26,160 --> 00:59:28,360
+are Well,
+
+936
+00:59:28,360 --> 00:59:31,480
+okay, let's create a
+
+937
+00:59:33,120 --> 00:59:36,480
+give me you are the next
+
+938
+00:59:37,160 --> 00:59:37,720
+question.
+
+939
+00:59:37,720 --> 00:59:38,960
+You are next.
+
+940
+00:59:38,960 --> 00:59:40,560
+Next. Go with that. Yes.
+
+941
+00:59:40,560 --> 00:59:47,120
+We will create the cat as a next to
+
+942
+00:59:50,200 --> 00:59:51,600
+give me this dog this time.
+
+943
+00:59:51,600 --> 00:59:54,680
+Okay so and equal to sign
+
+944
+00:59:55,920 --> 00:59:57,760
+new favor.
+
+945
+00:59:57,760 --> 01:00:00,000
+And then again
+
+946
+01:00:00,720 --> 01:00:03,200
+the name of the class, the parentheses.
+
+947
+01:00:04,280 --> 01:00:10,760
+And in here.
+
+948
+01:00:10,760 --> 01:00:14,440
+So give me more.
+
+949
+01:00:14,480 --> 01:00:17,040
+What is the name of your dog?
+
+950
+01:00:17,080 --> 01:00:19,960
+So give me this dog, not name
+
+951
+01:00:22,400 --> 01:00:27,320
+I want to get Who can help me do
+
+952
+01:00:32,040 --> 01:00:34,840
+and then we can see him is
+
+953
+01:00:35,320 --> 01:00:37,440
+not read
+
+954
+01:00:38,720 --> 01:00:41,120
+is equal to
+
+955
+01:00:42,000 --> 01:00:44,480
+or this degree to give me
+
+956
+01:00:49,280 --> 01:00:50,400
+my dogs
+
+957
+01:00:51,520 --> 01:00:53,480
+Labrador
+
+958
+01:01:01,040 --> 01:01:02,520
+and then
+
+959
+01:01:03,280 --> 01:01:06,640
+I'll okay,
+
+960
+01:01:08,080 --> 01:01:10,200
+actually let me look you guys
+
+961
+01:01:11,120 --> 01:01:15,440
+the older I am then this should be color
+inside instead of colors.
+
+962
+01:01:15,480 --> 01:01:17,760
+This should be colors. So
+
+963
+01:01:19,720 --> 01:01:21,480
+I will be so if I
+
+964
+01:01:21,480 --> 01:01:25,320
+can this color in here,
+you guys will notice
+
+965
+01:01:25,320 --> 01:01:28,080
+that I will get an ETA
+
+966
+01:01:28,560 --> 01:01:32,480
+on line 23 and on line 11.
+
+967
+01:01:32,600 --> 01:01:32,960
+Right.
+
+968
+01:01:32,960 --> 01:01:35,240
+Because I have changed the name
+
+969
+01:01:35,760 --> 01:01:39,040
+in in the class
+from which I am creating the objects.
+
+970
+01:01:39,040 --> 01:01:39,600
+Okay.
+
+971
+01:01:39,600 --> 01:01:44,160
+So if you guys don't
+want to get these errors,
+
+972
+01:01:44,160 --> 01:01:48,680
+okay, you can right
+
+973
+01:01:48,680 --> 01:01:56,800
+click on it.
+
+974
+01:01:56,800 --> 01:02:01,680
+And then there should be an option.
+
+975
+01:02:01,680 --> 01:02:04,000
+Read that and then rename.
+
+976
+01:02:05,640 --> 01:02:06,160
+Okay.
+
+977
+01:02:06,160 --> 01:02:07,840
+And now
+
+978
+01:02:17,640 --> 01:02:18,080
+I don't know
+
+979
+01:02:18,080 --> 01:02:20,880
+why that option is not working,
+but it will.
+
+980
+01:02:21,200 --> 01:02:23,040
+It should change
+
+981
+01:02:23,280 --> 01:02:24,760
+the names
+
+982
+01:02:25,080 --> 01:02:27,600
+in here automatically
+
+983
+01:02:28,320 --> 01:02:31,040
+when you change the variable name in here.
+
+984
+01:02:31,040 --> 01:02:34,240
+Okay, so color is golden,
+
+985
+01:02:34,240 --> 01:02:38,160
+so let me do it manually.
+
+986
+01:02:38,160 --> 01:02:40,640
+I have 2 seconds of same
+
+987
+01:02:43,560 --> 01:02:44,320
+clips like me.
+
+988
+01:02:44,320 --> 01:02:46,960
+No, the XP. I Can
+
+989
+01:02:47,960 --> 01:02:50,160
+you do it again?
+
+990
+01:02:50,160 --> 01:02:50,440
+Okay.
+
+991
+01:02:50,440 --> 01:02:54,720
+So I have changed because I miss
+I misspelled
+
+992
+01:02:54,720 --> 01:02:59,040
+the color two colors,
+so I have changed it back to color.
+
+993
+01:02:59,080 --> 01:03:03,960
+So I change it in here
+and then I change it in here and in here.
+
+994
+01:03:03,960 --> 01:03:05,400
+So every year we are.
+
+995
+01:03:05,400 --> 01:03:07,760
+I'm using this property in my code.
+
+996
+01:03:08,080 --> 01:03:10,600
+I have to change that name
+
+997
+01:03:10,920 --> 01:03:18,400
+on all those places.
+
+998
+01:03:18,400 --> 01:03:20,840
+Should we change it as well? Yes,
+you guys should change that.
+
+999
+01:03:21,120 --> 01:03:22,600
+It will be better.
+
+1000
+01:03:22,600 --> 01:03:38,680
+So instead of colors,
+make you guys everywhere, you have.
+
+1001
+01:03:38,680 --> 01:03:39,840
+Oh yes.
+
+1002
+01:03:40,440 --> 01:03:43,200
+I shouldn't change it in here.
+
+1003
+01:03:43,200 --> 01:03:45,600
+Okay, now
+
+1004
+01:03:47,960 --> 01:03:52,880
+it's just a just a change of variable.
+
+1005
+01:03:53,200 --> 01:03:54,160
+Nothing special.
+
+1006
+01:03:54,160 --> 01:04:10,640
+If you guys want,
+you can keep it as colors.
+
+1007
+01:04:10,640 --> 01:04:14,040
+All right, So let me assign more values
+
+1008
+01:04:14,040 --> 01:04:16,400
+to the attributes. So.
+
+1009
+01:04:17,040 --> 01:04:20,520
+All right, give me
+what is what is the height of your dog
+
+1010
+01:04:32,000 --> 01:04:33,480
+standing up?
+
+1011
+01:04:34,040 --> 01:04:35,520
+Yes, you can tell us.
+
+1012
+01:04:35,520 --> 01:04:37,400
+Standing of height
+
+1013
+01:04:52,520 --> 01:04:56,960
+five feet the last five.
+
+1014
+01:04:56,960 --> 01:04:59,840
+And then you can have
+
+1015
+01:05:01,800 --> 01:05:07,920
+it, what,
+
+1016
+01:05:07,920 --> 01:05:09,520
+five feet
+
+1017
+01:05:12,720 --> 01:05:16,000
+standing on two legs. I
+
+1018
+01:05:16,440 --> 01:05:20,200
+so and then gender five years old.
+
+1019
+01:05:21,480 --> 01:05:24,360
+Okay, so
+
+1020
+01:05:32,040 --> 01:05:35,080
+is not it if you guys are creating a class
+
+1021
+01:05:35,080 --> 01:05:38,280
+that grouping of objects of that class
+
+1022
+01:05:38,280 --> 01:05:40,760
+and assigning the values
+
+1023
+01:05:52,600 --> 01:05:55,280
+can we combine
+object and class in one file?
+
+1024
+01:05:55,280 --> 01:05:57,520
+Yes, we can do that as well.
+
+1025
+01:05:57,520 --> 01:06:00,000
+I would show you that at the
+
+1026
+01:06:06,720 --> 01:06:07,000
+idea.
+
+1027
+01:06:07,000 --> 01:06:10,120
+Guys done writing the score,
+Is it a dog or the
+
+1028
+01:06:15,320 --> 01:06:15,720
+other?
+
+1029
+01:06:15,720 --> 01:06:18,600
+Let let's try to access these properties
+as well.
+
+1030
+01:06:18,880 --> 01:06:21,120
+Okay.
+
+1031
+01:06:21,120 --> 01:06:23,160
+Let's start with this property.
+
+1032
+01:06:23,560 --> 01:06:27,360
+Actually, let me let me copy this called
+
+1033
+01:06:30,480 --> 01:06:33,360
+and instead of alone as dog,
+
+1034
+01:06:33,360 --> 01:06:36,640
+what I will do, I will replace this object
+
+1035
+01:06:38,280 --> 01:06:38,840
+feature
+
+1036
+01:06:38,840 --> 01:06:42,280
+mentioned in the class,
+but we need to specify all of them.
+
+1037
+01:06:42,280 --> 01:06:43,560
+No, we don't.
+
+1038
+01:06:43,560 --> 01:06:46,560
+So let's say, for example,
+we can and we can only at this age
+
+1039
+01:06:47,800 --> 01:06:53,760
+we can just age.
+
+1040
+01:06:53,760 --> 01:06:56,600
+So I am replacing
+
+1041
+01:06:56,600 --> 01:06:59,000
+the object in here. Okay.
+
+1042
+01:06:59,000 --> 01:07:03,960
+So once I replace this object,
+now I will see all the values
+
+1043
+01:07:04,520 --> 01:07:06,760
+that are assigned
+
+1044
+01:07:07,440 --> 01:07:11,080
+using this object.
+
+1045
+01:07:11,080 --> 01:07:22,960
+So if I a security score, So let me know
+
+1046
+01:07:23,040 --> 01:07:26,280
+if you guys see a different output
+or if you don't see the output
+
+1047
+01:07:26,280 --> 01:07:29,640
+that you have assigned in here
+ordered a change.
+
+1048
+01:07:29,880 --> 01:07:32,680
+So I copied this call from here
+
+1049
+01:07:33,480 --> 01:07:51,200
+and then I change the object in here.
+
+1050
+01:07:51,200 --> 01:07:54,440
+So this is a class we had.
+
+1051
+01:07:54,480 --> 01:07:57,280
+We define the properties.
+
+1052
+01:07:58,320 --> 01:08:02,560
+This is where
+and this is how we create an object
+
+1053
+01:08:03,120 --> 01:08:07,600
+and this is how we assign the values
+to the
+
+1054
+01:08:08,040 --> 01:08:11,560
+to those properties.
+
+1055
+01:08:11,560 --> 01:08:13,960
+Previously we were calling variable.
+
+1056
+01:08:13,960 --> 01:08:16,280
+Now we call object.
+
+1057
+01:08:16,280 --> 01:08:18,160
+So you get that
+
+1058
+01:08:19,680 --> 01:08:23,520
+if yes, we we use
+
+1059
+01:08:23,960 --> 01:08:26,400
+this terminology interchangeably, but
+
+1060
+01:08:26,880 --> 01:08:32,760
+when the data type is a primitive,
+
+1061
+01:08:33,840 --> 01:08:36,840
+we call it a variable.
+
+1062
+01:08:36,840 --> 01:08:40,080
+When the data type is a class
+
+1063
+01:08:40,880 --> 01:08:43,880
+we create, we call it
+
+1064
+01:08:43,920 --> 01:08:44,960
+an object.
+
+1065
+01:08:44,960 --> 01:08:49,920
+Okay, if you want to be more specific,
+but you can use it interchangeably,
+
+1066
+01:08:49,920 --> 01:08:53,760
+your also fine.
+
+1067
+01:08:53,760 --> 01:08:56,720
+It did not print the I and T
+
+1068
+01:08:56,760 --> 01:09:00,600
+because I removed that
+I didn't assign the value.
+
+1069
+01:09:00,640 --> 01:09:04,600
+And if you guys tried to print
+the value of edge,
+
+1070
+01:09:05,880 --> 01:09:07,880
+you will be getting the default value.
+
+1071
+01:09:07,960 --> 01:09:10,560
+So what is the default
+value of an integer variable?
+
+1072
+01:09:10,560 --> 01:09:11,160
+Right.
+
+1073
+01:09:11,160 --> 01:09:14,920
+If I don't assign a value to the integer
+if there's zero,
+
+1074
+01:09:14,920 --> 01:09:23,360
+so do you guys will be getting a zero.
+
+1075
+01:09:23,360 --> 01:09:25,640
+Okay, let's last it
+
+1076
+01:09:26,640 --> 01:09:28,400
+this last dogfighter
+
+1077
+01:09:28,400 --> 01:09:33,960
+out of a negotiation.
+
+1078
+01:09:33,960 --> 01:09:38,840
+So again,
+name of the class that I still forget.
+
+1079
+01:09:38,840 --> 01:09:41,920
+We have to create a separate class. Okay.
+
+1080
+01:09:41,920 --> 01:09:46,680
+Although a lot of the features
+they are similar in cats and dogs.
+
+1081
+01:09:46,800 --> 01:09:47,440
+Okay.
+
+1082
+01:09:47,440 --> 01:09:52,640
+But logically
+we should be creating a different forget.
+
+1083
+01:09:53,080 --> 01:09:53,960
+Okay. Yes.
+
+1084
+01:09:53,960 --> 01:09:57,120
+There are a lot of features
+which are common in cats and dogs,
+
+1085
+01:09:57,920 --> 01:09:59,640
+but there are differences as that.
+
+1086
+01:09:59,640 --> 01:10:07,080
+Okay, me?
+
+1087
+01:10:07,080 --> 01:10:12,720
+Yes, and all combined.
+
+1088
+01:10:12,720 --> 01:10:14,920
+So again, how do I create an object?
+
+1089
+01:10:15,520 --> 01:10:18,720
+I write the name of the class, right?
+
+1090
+01:10:18,720 --> 01:10:19,680
+And you name
+
+1091
+01:10:21,120 --> 01:10:22,960
+for that class.
+
+1092
+01:10:22,960 --> 01:10:27,880
+Okay.
+
+1093
+01:10:27,880 --> 01:10:31,680
+And then equal cosine, then new keyword
+
+1094
+01:10:33,720 --> 01:10:35,480
+and then
+
+1095
+01:10:38,160 --> 01:10:40,880
+these parenthesis and
+
+1096
+01:10:47,280 --> 01:10:49,880
+moreover,
+what is the name of their dog books?
+
+1097
+01:10:50,320 --> 01:10:52,960
+Not Name
+
+1098
+01:10:56,160 --> 01:10:57,360
+Melanie for gender.
+
+1099
+01:10:57,360 --> 01:10:58,800
+You missing
+
+1100
+01:11:00,560 --> 01:11:01,440
+in any of the classes?
+
+1101
+01:11:01,440 --> 01:11:04,440
+They had an escort and a post posting.
+
+1102
+01:11:04,440 --> 01:11:06,040
+This person
+
+1103
+01:11:15,760 --> 01:11:18,640
+or mandrill,
+
+1104
+01:11:18,640 --> 01:11:22,000
+If I am pronouncing it right,
+
+1105
+01:11:22,360 --> 01:11:25,000
+it and let's say
+
+1106
+01:11:25,000 --> 01:11:27,480
+we are now we want to define
+
+1107
+01:11:28,800 --> 01:11:31,080
+only only this name property.
+
+1108
+01:11:31,080 --> 01:11:33,360
+Okay, so we got we can also do this.
+
+1109
+01:11:33,360 --> 01:11:35,560
+Define one property.
+
+1110
+01:11:35,560 --> 01:11:38,400
+All of the property is
+
+1111
+01:11:38,560 --> 01:11:40,160
+50% of the properties.
+
+1112
+01:11:40,160 --> 01:11:42,240
+So it's all possible. Okay.
+
+1113
+01:11:42,240 --> 01:11:45,600
+And now we can print this out,
+
+1114
+01:11:47,640 --> 01:11:48,680
+not spell
+
+1115
+01:11:48,680 --> 01:11:55,880
+our first name, and
+
+1116
+01:11:56,880 --> 01:12:14,800
+we'll get
+
+1117
+01:12:25,040 --> 01:12:27,480
+you have to use this name as
+
+1118
+01:12:34,680 --> 01:12:35,520
+like this.
+
+1119
+01:12:35,520 --> 01:12:36,000
+Okay.
+
+1120
+01:12:36,440 --> 01:12:38,040
+No duplicates here, guys.
+
+1121
+01:12:38,040 --> 01:12:40,040
+Only love.
+
+1122
+01:12:40,040 --> 01:12:49,160
+Well, all.
+
+1123
+01:12:49,160 --> 01:12:49,480
+All right,
+
+1124
+01:12:50,440 --> 01:12:54,320
+So now let's try to
+
+1125
+01:12:56,080 --> 01:12:59,640
+let's try to create a class for cars,
+okay?
+
+1126
+01:13:00,240 --> 01:13:02,160
+Because dogs and cats,
+they are very similar.
+
+1127
+01:13:02,160 --> 01:13:04,400
+So I want to give you a different example.
+
+1128
+01:13:04,920 --> 01:13:08,840
+So this time next year,
+let's try to create a car class.
+
+1129
+01:13:08,880 --> 01:13:09,360
+Okay.
+
+1130
+01:13:10,080 --> 01:13:14,040
+So are you guys done writing this code?
+
+1131
+01:13:14,040 --> 01:13:15,200
+Can you print all of them?
+
+1132
+01:13:15,200 --> 01:13:17,800
+Yes, we can print all of them.
+
+1133
+01:13:17,800 --> 01:13:18,320
+If you want.
+
+1134
+01:13:18,320 --> 01:13:21,840
+You can just print out statements
+
+1135
+01:13:24,440 --> 01:13:27,360
+just adding plus
+
+1136
+01:13:33,440 --> 01:13:34,800
+then we debug the dog.
+
+1137
+01:13:34,800 --> 01:13:44,760
+Yes, we can debug the dog.
+
+1138
+01:13:44,760 --> 01:13:47,080
+Okay, so let me get
+
+1139
+01:13:50,040 --> 01:13:51,480
+a class
+
+1140
+01:13:52,280 --> 01:13:56,000
+and let's call it a car.
+
+1141
+01:13:56,400 --> 01:14:13,840
+Okay.
+
+1142
+01:14:13,840 --> 01:14:14,840
+Everything works.
+
+1143
+01:14:14,840 --> 01:14:15,600
+That's great.
+
+1144
+01:14:15,600 --> 01:14:18,080
+All our guys tell me about
+
+1145
+01:14:19,200 --> 01:14:21,240
+some properties of cars,
+
+1146
+01:14:21,240 --> 01:14:23,360
+some features of car cars
+
+1147
+01:14:25,240 --> 01:14:30,080
+make model right so we can have the make
+
+1148
+01:14:33,440 --> 01:14:35,880
+or we can have an auto
+
+1149
+01:14:37,320 --> 01:14:39,160
+part again.
+
+1150
+01:14:39,160 --> 01:14:42,680
+Woops.
+
+1151
+01:14:42,680 --> 01:14:46,720
+Or you can have a color.
+
+1152
+01:14:46,720 --> 01:14:51,160
+We can have an easier right and easier
+
+1153
+01:14:53,360 --> 01:14:56,040
+for fast and furious
+
+1154
+01:14:56,040 --> 01:15:09,520
+country mileage.
+
+1155
+01:15:09,520 --> 01:15:09,960
+Yeah.
+
+1156
+01:15:11,840 --> 01:15:14,160
+So So these are some of the properties
+
+1157
+01:15:14,160 --> 01:15:17,200
+so sorry for the.
+
+1158
+01:15:18,160 --> 01:15:18,920
+All right
+
+1159
+01:15:18,920 --> 01:15:23,320
+so these are some of the properties
+that that cars cars have.
+
+1160
+01:15:23,680 --> 01:15:27,160
+Yes. In our real life cars,
+they have a lot of properties,
+
+1161
+01:15:27,160 --> 01:15:30,000
+but we will not be going
+through all of those properties.
+
+1162
+01:15:30,000 --> 01:15:30,560
+Okay.
+
+1163
+01:15:30,600 --> 01:15:36,720
+We are
+we are keeping these examples very simple.
+
+1164
+01:15:36,720 --> 01:15:40,560
+So this time let's create
+
+1165
+01:15:41,880 --> 01:15:46,120
+the main method
+and the object inside the same class.
+
+1166
+01:15:46,120 --> 01:15:46,400
+Okay.
+
+1167
+01:15:46,400 --> 01:15:49,720
+So if you want to do that,
+you have to define the mean method.
+
+1168
+01:15:50,440 --> 01:15:52,720
+Okay, so you write main,
+
+1169
+01:15:53,160 --> 01:15:56,080
+then you hit control and space,
+
+1170
+01:15:56,080 --> 01:15:59,400
+and then you should write the main
+method for you.
+
+1171
+01:15:59,800 --> 01:16:02,600
+Are you guys able to write the main
+method using the shortcut
+
+1172
+01:16:18,160 --> 01:16:21,200
+and just write mean any and mean
+
+1173
+01:16:22,560 --> 01:16:25,360
+and then hit control plus space
+
+1174
+01:16:27,880 --> 01:16:29,040
+or typing manually.
+
+1175
+01:16:29,040 --> 01:16:32,160
+If it is not working for you, write
+it manually
+
+1176
+01:16:43,440 --> 01:16:45,120
+formatted command
+
+1177
+01:16:45,120 --> 01:17:01,120
+plus space.
+
+1178
+01:17:01,120 --> 01:17:01,960
+All right.
+
+1179
+01:17:02,040 --> 01:17:08,040
+So now you guys will tell me how can I
+create the object from this car class?
+
+1180
+01:17:08,160 --> 01:17:11,720
+So the main method now stays there
+or could go up?
+
+1181
+01:17:12,120 --> 01:17:13,800
+Yes, you guys can use that.
+
+1182
+01:17:13,800 --> 01:17:17,080
+You can write this
+main method in here as well if you like.
+
+1183
+01:17:17,320 --> 01:17:17,880
+Okay.
+
+1184
+01:17:17,920 --> 01:17:20,640
+But it is a common practice to foster
+
+1185
+01:17:20,640 --> 01:17:23,480
+define the attributes
+and then by the matters.
+
+1186
+01:17:23,640 --> 01:17:24,200
+Okay.
+
+1187
+01:17:24,240 --> 01:17:41,760
+So we will be following that convention.
+
+1188
+01:17:41,760 --> 01:17:42,680
+All right.
+
+1189
+01:17:42,720 --> 01:17:46,520
+So you said common plus space
+
+1190
+01:17:47,600 --> 01:17:50,680
+command plus space,
+
+1191
+01:17:50,680 --> 01:17:54,600
+but the attribute should not be inside
+the method.
+
+1192
+01:17:54,640 --> 01:17:58,040
+Yes. The attributes should
+not be inside the method
+
+1193
+01:18:02,080 --> 01:18:03,720
+bar not make.
+
+1194
+01:18:03,720 --> 01:18:05,760
+So no, it's not correct.
+
+1195
+01:18:06,400 --> 01:18:11,520
+I am asking you,
+how can create object of this class.
+
+1196
+01:18:11,720 --> 01:18:15,480
+So for the hard you are close
+
+1197
+01:18:16,800 --> 01:18:20,000
+but not correct here with Aleksey.
+
+1198
+01:18:20,000 --> 01:18:23,000
+So God I shall ask God
+
+1199
+01:18:23,440 --> 01:18:26,680
+then equal to sign nil keyword.
+
+1200
+01:18:27,440 --> 01:18:31,200
+And then again name of the class
+but with parentheses.
+
+1201
+01:18:31,200 --> 01:18:36,000
+Right.
+
+1202
+01:18:36,000 --> 01:18:36,720
+Okay.
+
+1203
+01:18:39,000 --> 01:18:39,960
+Please explain.
+
+1204
+01:18:39,960 --> 01:18:43,640
+What does main method is in this content?
+
+1205
+01:18:43,640 --> 01:18:46,760
+Nabeel This main method is in
+
+1206
+01:18:46,760 --> 01:18:49,280
+behavior in this class.
+
+1207
+01:18:49,440 --> 01:18:58,360
+Okay, so this is how we define behavior.
+
+1208
+01:18:58,880 --> 01:19:03,120
+The next after the break
+I will teach you how to write a behavior
+
+1209
+01:19:03,240 --> 01:19:04,880
+in a class as
+
+1210
+01:19:10,040 --> 01:19:11,040
+All right,
+
+1211
+01:19:11,040 --> 01:19:14,080
+So I write the name of the class.
+
+1212
+01:19:15,160 --> 01:19:16,800
+All right?
+
+1213
+01:19:16,800 --> 01:19:18,720
+And then
+
+1214
+01:19:19,440 --> 01:19:21,120
+I just start
+
+1215
+01:19:24,760 --> 01:19:27,080
+is equal to nil.
+
+1216
+01:19:28,000 --> 01:19:30,440
+And are we doing two in one file?
+
+1217
+01:19:30,440 --> 01:19:32,720
+Yes, All one.
+This is what you were asking of you.
+
+1218
+01:19:33,840 --> 01:19:36,040
+How to define
+
+1219
+01:19:36,800 --> 01:19:41,040
+a class and how to clear the objects
+inside the same class.
+
+1220
+01:19:41,120 --> 01:19:41,520
+Okay.
+
+1221
+01:19:41,520 --> 01:19:44,560
+So you guys can create objects
+inside the same class
+
+1222
+01:19:44,560 --> 01:19:48,040
+by having the main method
+in the same class.
+
+1223
+01:19:48,400 --> 01:19:52,040
+Or you can create a new class
+and then you can define the attributes,
+
+1224
+01:19:52,680 --> 01:19:54,240
+You can define the objects.
+
+1225
+01:19:54,240 --> 01:19:56,800
+But remember that this
+this approach is better approach.
+
+1226
+01:19:57,120 --> 01:19:59,120
+This is how you will be doing it
+in real life
+
+1227
+01:20:01,640 --> 01:20:01,920
+work.
+
+1228
+01:20:01,920 --> 01:20:07,320
+This is also possible.
+
+1229
+01:20:07,320 --> 01:20:09,720
+We just combined two classes.
+
+1230
+01:20:10,160 --> 01:20:13,320
+No, we didn't combine two classes and
+
+1231
+01:20:14,360 --> 01:20:17,720
+we are creating the objects of a class
+
+1232
+01:20:18,120 --> 01:20:22,360
+inside this same class.
+
+1233
+01:20:22,360 --> 01:20:25,680
+It looks like just a scanner.
+
+1234
+01:20:25,680 --> 01:20:27,680
+It's not like a scanner.
+
+1235
+01:20:27,760 --> 01:20:31,560
+A running scanner is a separate class.
+
+1236
+01:20:31,640 --> 01:20:34,200
+So this example looks like
+a scan of the dogs.
+
+1237
+01:20:34,200 --> 01:20:34,720
+Example
+
+1238
+01:20:37,520 --> 01:20:38,440
+Odd dream
+
+1239
+01:20:38,440 --> 01:20:43,000
+God, new pod.
+
+1240
+01:20:43,000 --> 01:20:45,840
+Here we have the main
+method at the bottom of our class.
+
+1241
+01:20:45,840 --> 01:20:49,080
+Yes, it's a good practice
+to have the main method at the bottom,
+
+1242
+01:20:49,080 --> 01:20:51,160
+but you guys can have many method at.
+
+1243
+01:20:51,160 --> 01:20:52,800
+The top as the
+
+1244
+01:20:58,160 --> 01:21:00,360
+our shots are
+
+1245
+01:21:02,640 --> 01:21:06,360
+not made.
+
+1246
+01:21:06,360 --> 01:21:09,120
+Is that slow, let's say.
+
+1247
+01:21:11,000 --> 01:21:11,880
+Okay.
+
+1248
+01:21:12,320 --> 01:21:19,640
+And the model is
+
+1249
+01:21:21,440 --> 01:21:30,000
+more or less.
+
+1250
+01:21:31,320 --> 01:21:34,920
+Can I borrow your.
+
+1251
+01:21:34,920 --> 01:21:38,880
+You guys now know how to create
+jobs, airplanes, anything.
+
+1252
+01:21:38,880 --> 01:21:40,120
+You guys can create anything.
+
+1253
+01:21:40,120 --> 01:21:42,520
+Not using programing
+
+1254
+01:21:45,400 --> 01:21:46,320
+color
+
+1255
+01:21:47,120 --> 01:21:49,440
+is the same
+
+1256
+01:21:49,800 --> 01:22:04,840
+as say
+
+1257
+01:22:06,560 --> 01:22:08,960
+I am only defining these properties
+in here
+
+1258
+01:22:12,120 --> 01:22:12,720
+on the edge.
+
+1259
+01:22:12,720 --> 01:22:18,720
+Are we for girls?
+
+1260
+01:22:18,720 --> 01:22:22,520
+And then I can
+I can define and print out is value.
+
+1261
+01:22:22,560 --> 01:22:37,960
+Okay. And
+
+1262
+01:22:39,320 --> 01:22:42,400
+and we can have
+
+1263
+01:22:42,400 --> 01:22:46,920
+any Tesla fighting dog what if.
+
+1264
+01:22:47,640 --> 01:22:50,400
+Well I don't do nothing
+getting a job inside Tesla
+
+1265
+01:22:50,400 --> 01:22:55,320
+and then buying a Tesla. The
+
+1266
+01:22:55,680 --> 01:23:01,200
+some of the students from previous batches
+they got their jobs in Amazon Tesla
+
+1267
+01:23:03,080 --> 01:23:04,480
+and ended up
+
+1268
+01:23:04,480 --> 01:23:07,200
+disqualified
+from the final interview in Microsoft
+
+1269
+01:23:07,920 --> 01:23:10,960
+and some of them
+they are supplied in Apple and everywhere.
+
+1270
+01:23:11,280 --> 01:23:13,960
+So if you guys are working hard,
+
+1271
+01:23:14,480 --> 01:23:16,680
+you guys can go
+for many of these companies.
+
+1272
+01:23:18,360 --> 01:23:20,920
+Oh, by the way, I forgot
+
+1273
+01:23:20,920 --> 01:23:23,320
+to invite the student from
+
+1274
+01:23:25,000 --> 01:23:27,720
+from previous badges
+
+1275
+01:23:27,720 --> 01:23:31,080
+so that they can share their experience
+
+1276
+01:23:31,840 --> 01:23:34,680
+about making this bootcamp and
+
+1277
+01:23:36,080 --> 01:23:40,040
+getting a job
+and how they are doing in on their job.
+
+1278
+01:23:40,040 --> 01:23:44,560
+So this Saturday I will
+I will to invest in my total
+
+1279
+01:23:44,600 --> 01:23:48,360
+three students from the previous batch.
+
+1280
+01:23:48,360 --> 01:23:56,880
+My cousin is working for Amazon,
+excavated, so this is what they tell me.
+
+1281
+01:23:57,160 --> 01:23:59,760
+So they tell me that
+
+1282
+01:24:00,600 --> 01:24:03,640
+when I used to tell them
+the previous restaurants
+
+1283
+01:24:03,640 --> 01:24:07,440
+that I used to tell them that you guys
+will be getting jobs in big companies
+
+1284
+01:24:07,440 --> 01:24:08,920
+and all that they did.
+
+1285
+01:24:08,920 --> 01:24:12,360
+They did. They didn't used to believe me.
+
+1286
+01:24:12,360 --> 01:24:17,200
+So I hope that most of you
+are from referrals, right?
+
+1287
+01:24:17,520 --> 01:24:22,120
+So you already know someone who took
+this bootcamp and who is who has a job.
+
+1288
+01:24:22,120 --> 01:24:26,880
+Now, why didn't I?
+
+1289
+01:24:26,880 --> 01:24:28,960
+So, Emily, you are not from a referral
+
+1290
+01:24:32,000 --> 01:24:33,200
+like this.
+
+1291
+01:24:34,600 --> 01:24:35,720
+I am not from that. So.
+
+1292
+01:24:35,720 --> 01:24:36,400
+So not very.
+
+1293
+01:24:36,400 --> 01:24:38,800
+I will invite a lot of students
+from previous batch.
+
+1294
+01:24:39,360 --> 01:24:41,400
+One batch is not very
+
+1295
+01:24:45,560 --> 01:24:48,960
+many people were writing a lot of people
+or not very.
+
+1296
+01:24:48,960 --> 01:24:50,360
+I will invite
+
+1297
+01:24:53,000 --> 01:24:55,920
+ex coworker and it's all being made.
+
+1298
+01:24:56,280 --> 01:24:59,080
+All right. So
+
+1299
+01:25:02,600 --> 01:25:08,480
+I only
+
+1300
+01:25:44,800 --> 01:25:48,480
+Sebastian is multitalented, but
+
+1301
+01:25:48,480 --> 01:25:50,760
+so now let's try to execute
+
+1302
+01:25:51,400 --> 01:25:56,120
+this new software and you guys
+should get something like this.
+
+1303
+01:25:56,560 --> 01:25:58,800
+You guys get this output this
+
+1304
+01:26:03,200 --> 01:26:04,600
+going to.
+
+1305
+01:26:04,600 --> 01:26:04,800
+Yeah.
+
+1306
+01:26:04,800 --> 01:26:09,280
+So this is how we the
+the objects inside this
+
+1307
+01:26:09,280 --> 01:26:13,480
+same class.
+
+1308
+01:26:13,480 --> 01:26:17,680
+Is it hard disk,
+Is it hard to create a class
+
+1309
+01:26:17,680 --> 01:26:21,360
+and then object?
+
+1310
+01:26:21,360 --> 01:26:23,040
+There is no sound coding.
+
+1311
+01:26:23,040 --> 01:26:27,120
+Please turn off.
+
+1312
+01:26:27,120 --> 01:26:27,600
+Okay.
+
+1313
+01:26:27,600 --> 01:26:30,800
+We will be going on a break Aisha.
+
+1314
+01:26:31,800 --> 01:26:35,480
+And after the break we will define
+
+1315
+01:26:38,840 --> 01:26:41,360
+how defined the
+
+1316
+01:26:41,360 --> 01:26:43,640
+behaviors as then
+
+1317
+01:26:44,160 --> 01:26:45,880
+we when
+
+1318
+01:26:46,320 --> 01:26:52,160
+someone is singing.
+
+1319
+01:26:52,160 --> 01:26:53,640
+Actually, he is not singing.
+
+1320
+01:26:53,640 --> 01:26:55,440
+There is a mosque.
+
+1321
+01:26:55,640 --> 01:26:59,760
+Yes. Next to my room.
+
+1322
+01:26:59,760 --> 01:27:03,880
+Yes. That's
+why you guys hear these sounds.
+
+1323
+01:27:03,960 --> 01:27:04,520
+All right, guys.
+
+1324
+01:27:04,520 --> 01:27:06,720
+So let's have a break
+
+1325
+01:27:10,080 --> 01:27:15,840
+of 15 meters.
+
+1326
+01:27:15,840 --> 01:27:19,520
+And after the break,
+we will learn how to define data
+
+1327
+01:27:20,760 --> 01:27:24,240
+on behaviors in a class as that.
+
+1328
+01:27:24,320 --> 01:27:25,960
+And remind me about it.
+
+1329
+01:27:25,960 --> 01:27:29,200
+You guys hear about why games
+
+1330
+01:27:29,520 --> 01:27:33,960
+and doping bump from 0.0 to 2.8
+
+1331
+01:27:33,960 --> 01:27:41,680
+and then was named as them. All
+
+1332
+01:27:43,520 --> 01:27:48,760
+our guys remind me about the recording.
+
+1333
+01:27:48,760 --> 01:27:52,200
+Last batch is invited for morning session.
+
+1334
+01:27:52,200 --> 01:28:05,080
+I will invite them on Saturday or Sunday's
+class.
+
+1335
+01:28:05,080 --> 01:28:05,600
+Okay.
+
+1336
+01:28:06,600 --> 01:28:12,240
+All right.
+
+1337
+01:28:12,240 --> 01:28:17,360
+Let me start the game.
+
+1338
+01:28:17,360 --> 01:28:17,800
+Okay.
+
+1339
+01:28:17,800 --> 01:28:23,920
+I have talked to four student
+from batch nine and two of them, they
+
+1340
+01:28:25,360 --> 01:28:26,080
+have responded.
+
+1341
+01:28:26,080 --> 01:28:37,960
+They will be joining us on Saturday.
+
+1342
+01:28:37,960 --> 01:28:41,840
+So seriously.
+
+1343
+01:28:42,560 --> 01:28:47,120
+Question
+If we have object in in the same class,
+
+1344
+01:28:47,640 --> 01:28:54,320
+can we call that class
+outside the package?
+
+1345
+01:28:54,320 --> 01:28:57,680
+If you mean by calling the class
+outside of the package,
+
+1346
+01:28:57,680 --> 01:29:01,680
+if you mean creating the objects, yes,
+we can do that.
+
+1347
+01:29:02,640 --> 01:29:08,160
+But there is no thing
+as calling a class outside the package.
+
+1348
+01:29:08,480 --> 01:29:12,840
+So we create objects of the from the class
+and then
+
+1349
+01:29:14,640 --> 01:29:16,120
+we assign the properties
+
+1350
+01:29:16,120 --> 01:29:19,800
+and we call matters on, on, on an object.
+
+1351
+01:29:19,880 --> 01:29:30,320
+So let me know if this is what you meant.
+
+1352
+01:29:30,320 --> 01:29:32,880
+So, for example, if your question is
+
+1353
+01:29:33,480 --> 01:29:36,160
+maybe, let's say in class four,
+
+1354
+01:29:36,920 --> 01:29:42,200
+can I create the object of this car
+
+1355
+01:29:42,200 --> 01:29:46,760
+inside this package
+four or package three or this class?
+
+1356
+01:29:46,760 --> 01:29:47,600
+So yes, we can.
+
+1357
+01:29:48,960 --> 01:29:50,640
+How about the attributes?
+
+1358
+01:29:50,640 --> 01:29:55,800
+Yes, we can do any everything that we are
+doing in here, in any of the packages,
+
+1359
+01:29:56,160 --> 01:30:03,040
+no issues,
+getting an object of accessing the fields.
+
+1360
+01:30:03,040 --> 01:30:04,120
+There are rules.
+
+1361
+01:30:04,120 --> 01:30:06,600
+Yeah. That we will learn later.
+
+1362
+01:30:07,520 --> 01:30:10,040
+There are things that
+
+1363
+01:30:10,040 --> 01:30:13,120
+differ from one package
+to another, package
+
+1364
+01:30:14,240 --> 01:30:16,440
+that we will learn later. But yes, we can.
+
+1365
+01:30:16,440 --> 01:30:21,120
+We can clear the objects
+and we can call the methods and properties
+
+1366
+01:30:21,120 --> 01:30:27,080
+for now.
+
+1367
+01:30:27,080 --> 01:30:28,520
+Sound LLC.
+
+1368
+01:30:28,520 --> 01:30:30,120
+You don't hear me
+
+1369
+01:30:38,760 --> 01:30:39,800
+already, guys.
+
+1370
+01:30:39,800 --> 01:30:45,720
+So let's try to define some behaviors.
+
+1371
+01:30:46,680 --> 01:30:51,400
+Or what are the things that the cops do.
+
+1372
+01:30:51,400 --> 01:30:57,320
+Then you add like this.
+
+1373
+01:30:57,320 --> 01:31:04,720
+Yes, we can add like this.
+
+1374
+01:31:04,720 --> 01:31:05,560
+Okay.
+
+1375
+01:31:06,200 --> 01:31:08,480
+Cars, they can move forward.
+
+1376
+01:31:08,480 --> 01:31:09,240
+Right?
+
+1377
+01:31:09,240 --> 01:31:11,400
+So to define guys,
+
+1378
+01:31:12,160 --> 01:31:14,640
+this is how we define and define behavior.
+
+1379
+01:31:15,000 --> 01:31:17,760
+So before defining any behavior,
+
+1380
+01:31:17,760 --> 01:31:20,880
+we would write this keyword wide.
+
+1381
+01:31:22,080 --> 01:31:24,240
+Okay, We define this keyword wide.
+
+1382
+01:31:25,720 --> 01:31:39,720
+Then the name of the behavior,
+then parentheses.
+
+1383
+01:31:40,360 --> 01:31:41,160
+Okay.
+
+1384
+01:31:41,280 --> 01:31:45,360
+And basically, okay,
+this is how we define a behavior
+
+1385
+01:31:52,640 --> 01:31:57,240
+and we can clean out for now,
+to keep things simple,
+
+1386
+01:31:57,440 --> 01:32:10,920
+I am simply printing out line.
+
+1387
+01:32:10,920 --> 01:32:12,840
+Wait, what did I miss?
+
+1388
+01:32:12,840 --> 01:32:15,080
+Can you please repeat that?
+
+1389
+01:32:15,080 --> 01:32:19,960
+Okay, so now we are learning
+
+1390
+01:32:20,920 --> 01:32:23,000
+how to define
+
+1391
+01:32:23,000 --> 01:32:26,200
+behaviors as well inside a class.
+
+1392
+01:32:26,200 --> 01:32:30,600
+Okay, so previously
+we learned how to define properties
+
+1393
+01:32:31,040 --> 01:32:36,840
+like attributes, how to define some,
+how something looks like.
+
+1394
+01:32:37,200 --> 01:32:42,200
+Now we are defining how that thing
+behaves in our real life.
+
+1395
+01:32:42,200 --> 01:32:47,520
+Okay, What what are the things that this
+this class can do?
+
+1396
+01:32:47,520 --> 01:32:52,520
+Okay, so to define a behavior or what
+that class can do,
+
+1397
+01:32:53,440 --> 01:32:55,840
+we write this void keyword.
+
+1398
+01:32:56,760 --> 01:32:59,400
+Okay, then name of the behavior.
+
+1399
+01:33:00,840 --> 01:33:02,640
+So parents is
+
+1400
+01:33:02,640 --> 01:33:08,200
+opening a bracket, closing bracket,
+and then we can write any logic in here.
+
+1401
+01:33:08,200 --> 01:33:12,240
+We can write loops or we can declare at
+is pretty much everything
+
+1402
+01:33:12,240 --> 01:33:15,160
+that you guys have learned
+you can do inside a method,
+
+1403
+01:33:15,440 --> 01:33:18,480
+but to keep things simple,
+I am simply printing out
+
+1404
+01:33:18,480 --> 01:33:23,360
+a line in here.
+
+1405
+01:33:23,360 --> 01:33:31,320
+Is it clear me now?
+
+1406
+01:33:31,320 --> 01:33:33,800
+So now we are defining the behavior so
+
+1407
+01:33:42,600 --> 01:33:45,960
+how we use void Move forward in
+
+1408
+01:33:47,040 --> 01:33:48,480
+logic. In our logic.
+
+1409
+01:33:48,480 --> 01:33:49,400
+Okay.
+
+1410
+01:33:50,240 --> 01:33:53,040
+What is to defining the behavior
+of the class?
+
+1411
+01:33:53,040 --> 01:33:57,640
+Yes, there are two types of behaviors.
+
+1412
+01:33:57,640 --> 01:33:58,800
+One one.
+
+1413
+01:33:58,800 --> 01:34:02,880
+One of them
+they once they are done behaving,
+
+1414
+01:34:02,880 --> 01:34:05,480
+they give us the response back.
+
+1415
+01:34:06,000 --> 01:34:06,720
+Okay?
+
+1416
+01:34:06,840 --> 01:34:11,280
+And the other behaviors,
+they don't give us the response back.
+
+1417
+01:34:11,480 --> 01:34:15,120
+So those who don't give us the response
+back,
+
+1418
+01:34:15,440 --> 01:34:17,960
+we use this wall keyword.
+
+1419
+01:34:18,120 --> 01:34:19,920
+The other ones we will learn later.
+
+1420
+01:34:19,920 --> 01:34:22,680
+Okay, For now,
+just focus on how to define it.
+
+1421
+01:34:22,680 --> 01:34:27,280
+Behavior, this word keyword,
+what it does, where you should use it.
+
+1422
+01:34:27,440 --> 01:34:31,560
+I will teach you all about that.
+
+1423
+01:34:31,560 --> 01:34:36,200
+Move forward is not a keyword.
+
+1424
+01:34:36,200 --> 01:34:37,560
+What do you mean by a keyword?
+
+1425
+01:34:37,560 --> 01:34:39,200
+It is just a name you can give.
+
+1426
+01:34:39,200 --> 01:34:45,640
+You can give this behavior any name. And
+
+1427
+01:34:46,840 --> 01:34:47,960
+have you guys define
+
+1428
+01:34:47,960 --> 01:34:53,600
+just behavior.
+
+1429
+01:34:53,600 --> 01:34:54,240
+Okay.
+
+1430
+01:34:54,240 --> 01:34:58,560
+So this is how we call this behavior.
+
+1431
+01:34:59,120 --> 01:35:01,880
+So we write the name of the object.
+
+1432
+01:35:02,080 --> 01:35:04,440
+So I just off dog.
+
+1433
+01:35:05,880 --> 01:35:06,680
+No it.
+
+1434
+01:35:06,680 --> 01:35:10,800
+Okay, so dog
+and then name and then parentheses.
+
+1435
+01:35:10,800 --> 01:35:20,880
+And now if I execute this code. Yes.
+
+1436
+01:35:21,120 --> 01:35:24,240
+So I can see God can move forward in here.
+
+1437
+01:35:24,480 --> 01:35:27,840
+Or maybe can see,
+
+1438
+01:35:27,840 --> 01:35:30,160
+maybe you can see
+
+1439
+01:35:33,480 --> 01:35:34,360
+moving forward.
+
+1440
+01:35:34,360 --> 01:35:36,520
+Okay. So God is now moving forward.
+
+1441
+01:35:36,960 --> 01:35:40,600
+So if I execute it again.
+
+1442
+01:35:40,600 --> 01:35:42,200
+Okay. Moving forward.
+
+1443
+01:35:42,200 --> 01:35:45,840
+So when when you call this behavior,
+so this is what
+
+1444
+01:35:47,000 --> 01:35:50,880
+we call as calling the methods or,
+calling the behavior.
+
+1445
+01:35:50,880 --> 01:35:53,800
+So we write the name of the object, a dog
+
+1446
+01:35:53,880 --> 01:35:56,720
+sign, then name of the behavior.
+
+1447
+01:35:56,840 --> 01:35:57,520
+Okay.
+
+1448
+01:35:57,840 --> 01:36:01,640
+We say that we are calling the move
+
+1449
+01:36:01,640 --> 01:36:05,040
+forward behavior on line 24.
+
+1450
+01:36:05,080 --> 01:36:07,920
+Okay. On the I God object.
+
+1451
+01:36:08,080 --> 01:36:10,200
+These
+these are just some of the terminology.
+
+1452
+01:36:10,200 --> 01:36:13,840
+So I am calling move forward the behavior
+
+1453
+01:36:14,480 --> 01:36:16,920
+on I shall God object.
+
+1454
+01:36:17,200 --> 01:36:20,120
+But yes, it's monthly monthly.
+
+1455
+01:36:20,120 --> 01:36:25,440
+Write these lines
+whatever logic we do so in Java executes
+
+1456
+01:36:27,600 --> 01:36:29,960
+Java executes from top to bottom, right.
+
+1457
+01:36:31,440 --> 01:36:35,480
+So it will declare this,
+it will declare this, this, this.
+
+1458
+01:36:35,480 --> 01:36:37,120
+Then it will print out this.
+
+1459
+01:36:37,120 --> 01:36:42,080
+And once we call the method
+Java goes inside this method,
+
+1460
+01:36:42,080 --> 01:36:47,560
+whatever we have written in here, Java
+first executes that and then it goes.
+
+1461
+01:36:47,680 --> 01:36:50,640
+It comes back in here
+and then keep on executing whatever
+
+1462
+01:36:50,640 --> 01:37:03,000
+quotable you have to do.
+
+1463
+01:37:03,280 --> 01:37:14,360
+Do you guys see this output?
+
+1464
+01:37:14,360 --> 01:37:17,880
+So why is line pull not printed
+
+1465
+01:37:18,480 --> 01:37:20,920
+non line printed?
+
+1466
+01:37:20,920 --> 01:37:23,160
+You know, this is line ten
+
+1467
+01:37:23,760 --> 01:37:26,560
+moving forward
+and I see this line moving forward.
+
+1468
+01:37:27,960 --> 01:37:30,440
+What do we mean by behavior?
+
+1469
+01:37:30,480 --> 01:37:36,440
+So by behavior mean
+what are the things that an object can do.
+
+1470
+01:37:36,840 --> 01:37:39,080
+Okay so what are
+
+1471
+01:37:40,200 --> 01:37:44,640
+what are the physical actions
+that that class, that object can do?
+
+1472
+01:37:46,080 --> 01:37:49,480
+We always
+have to call the behavior at the end.
+
+1473
+01:37:49,480 --> 01:37:52,280
+No, you can call the behavior
+at the start.
+
+1474
+01:37:52,280 --> 01:37:54,720
+Like you can call the behavior
+
+1475
+01:37:55,600 --> 01:37:57,680
+right after declaring the object.
+
+1476
+01:37:57,760 --> 01:38:00,120
+You can call the behavior multiple times
+
+1477
+01:38:00,680 --> 01:38:04,200
+because we meant was,
+is it an action? Yes.
+
+1478
+01:38:04,200 --> 01:38:06,840
+These are actions actually, that all that
+
+1479
+01:38:07,600 --> 01:38:09,920
+that those objects can perform.
+
+1480
+01:38:10,880 --> 01:38:12,240
+How many behaviors?
+
+1481
+01:38:12,240 --> 01:38:14,280
+We can write as many as we want.
+
+1482
+01:38:15,000 --> 01:38:17,160
+And there is a limit of around
+
+1483
+01:38:20,120 --> 01:38:24,000
+65,000 or something like that
+for 32 bit systems,
+
+1484
+01:38:24,400 --> 01:38:28,640
+and it's double for 64 bit systems.
+
+1485
+01:38:28,640 --> 01:38:32,160
+So you guys can have thousands
+of behaviors, no issues
+
+1486
+01:38:32,160 --> 01:38:38,680
+with that.
+
+1487
+01:38:38,680 --> 01:38:44,080
+Let's ask as many questions as you have.
+
+1488
+01:38:44,080 --> 01:38:47,920
+Is calling a method is like calling
+for a subroutine. Yes.
+
+1489
+01:38:47,920 --> 01:38:51,240
+Maybe in some programing languages,
+we call it a subroutine
+
+1490
+01:38:52,440 --> 01:38:54,440
+in assembly languages
+
+1491
+01:38:54,440 --> 01:38:57,480
+under the
+what if I want to add another B of it?
+
+1492
+01:38:57,520 --> 01:38:59,880
+Yes, you can add another behavior.
+
+1493
+01:38:59,880 --> 01:39:03,360
+So let's say, for example,
+I can have a behavior
+
+1494
+01:39:09,840 --> 01:39:11,640
+apply breaks
+
+1495
+01:39:21,720 --> 01:39:27,240
+if so, we can start it God again.
+
+1496
+01:39:27,320 --> 01:39:28,320
+We can stop it.
+
+1497
+01:39:28,320 --> 01:39:30,800
+God, we can move it or God forward.
+
+1498
+01:39:30,800 --> 01:39:33,360
+We can move where we are backward.
+
+1499
+01:39:33,360 --> 01:39:37,160
+We can apply the brakes,
+all of the actions that a car
+
+1500
+01:39:38,040 --> 01:39:41,480
+can do, we can define those behaviors.
+
+1501
+01:39:42,040 --> 01:39:45,160
+Do we have to use the word
+for every behavior?
+
+1502
+01:39:45,280 --> 01:39:49,000
+No, we don't have to use word
+for every behavior.
+
+1503
+01:39:49,040 --> 01:39:51,480
+You guys will learn different types
+of behavior
+
+1504
+01:39:52,520 --> 01:39:53,400
+later on.
+
+1505
+01:39:53,400 --> 01:39:56,120
+I ask a question like that.
+
+1506
+01:39:56,160 --> 01:40:00,040
+You and the behavior
+cannot be in many matter.
+
+1507
+01:40:00,040 --> 01:40:01,880
+Yes, it cannot be in main method.
+
+1508
+01:40:01,880 --> 01:40:06,520
+No, We have to be separated like that.
+
+1509
+01:40:06,520 --> 01:40:06,880
+Maryland.
+
+1510
+01:40:06,880 --> 01:40:08,920
+What do you mean by separated like that?
+
+1511
+01:40:08,920 --> 01:40:10,840
+You mean these these matters?
+
+1512
+01:40:10,840 --> 01:40:15,400
+They are outside of other methods.
+
+1513
+01:40:15,400 --> 01:40:17,760
+Can we combine two or more in one?
+
+1514
+01:40:17,760 --> 01:40:22,960
+Yes, we can combine two or more in one.
+
+1515
+01:40:22,960 --> 01:40:27,360
+So for example,
+you can call this move forward.
+
+1516
+01:40:27,760 --> 01:40:30,720
+I don't want to go into these details now
+
+1517
+01:40:30,920 --> 01:40:34,560
+and then can you part of this question
+for our two classes.
+
+1518
+01:40:35,120 --> 01:40:37,080
+But yes, we can do that.
+
+1519
+01:40:37,080 --> 01:40:40,760
+We can combine,
+but I don't want to confuse confusion.
+
+1520
+01:40:40,760 --> 01:40:49,440
+That's why let's not go into there.
+
+1521
+01:40:49,440 --> 01:40:56,320
+Any other questions, guys?
+
+1522
+01:40:56,320 --> 01:41:17,240
+So now I can
+I can call the other behavior.
+
+1523
+01:41:17,240 --> 01:41:17,480
+Okay.
+
+1524
+01:41:18,640 --> 01:41:21,040
+We can move it forward, backward.
+
+1525
+01:41:21,040 --> 01:41:21,920
+We can apply it.
+
+1526
+01:41:21,920 --> 01:41:25,800
+Every method has is on curly
+brackets. Yes.
+
+1527
+01:41:25,800 --> 01:41:27,960
+Every method has its own curly brackets
+
+1528
+01:41:35,760 --> 01:41:37,960
+and y to know
+
+1529
+01:41:37,960 --> 01:41:41,400
+some other methods,
+they will be having something different.
+
+1530
+01:41:41,400 --> 01:41:44,000
+So you're going to see this
+man also has this word.
+
+1531
+01:41:44,520 --> 01:41:45,240
+Okay.
+
+1532
+01:41:46,440 --> 01:41:48,840
+But there there are other types of methods
+
+1533
+01:41:48,840 --> 01:41:51,600
+who will be having something different
+than the word
+
+1534
+01:41:52,200 --> 01:41:54,840
+23 and 30 is same
+
+1535
+01:41:56,360 --> 01:41:59,920
+going to be and 30 same.
+
+1536
+01:42:01,600 --> 01:42:03,720
+Aleksey, can you elaborate a little bit?
+
+1537
+01:42:03,720 --> 01:42:07,800
+What do you mean by same?
+
+1538
+01:42:07,800 --> 01:42:10,880
+Oh, you mean
+I am calling the same behavior again?
+
+1539
+01:42:11,000 --> 01:42:12,720
+Yes, we can do that.
+
+1540
+01:42:12,720 --> 01:42:13,640
+Yes, we can do that.
+
+1541
+01:42:13,640 --> 01:42:18,080
+I can call in method
+109,000 and all restrictions on that.
+
+1542
+01:42:19,200 --> 01:42:21,360
+I can call a method inside the loop
+
+1543
+01:42:23,760 --> 01:42:24,960
+current one time.
+
+1544
+01:42:24,960 --> 01:42:26,760
+Oh no, it is not printing one time.
+
+1545
+01:42:26,760 --> 01:42:33,240
+Actually, I have not expanded this output.
+
+1546
+01:42:33,440 --> 01:42:37,400
+So you see moving forward in here
+and moving forward again in here,
+
+1547
+01:42:38,280 --> 01:42:43,440
+I want to see the two behavior of syntax
+to behavior.
+
+1548
+01:42:43,440 --> 01:42:44,640
+Syntax
+
+1549
+01:42:45,040 --> 01:42:47,280
+I What do we mean by two behavior?
+
+1550
+01:42:47,280 --> 01:42:48,680
+It will not print again and again.
+
+1551
+01:42:48,680 --> 01:42:51,600
+No, it will print again and again
+
+1552
+01:42:52,440 --> 01:42:53,160
+for you.
+
+1553
+01:42:53,160 --> 01:42:54,360
+You mean this?
+
+1554
+01:42:54,360 --> 01:42:58,000
+You can you can call this behavior
+
+1555
+01:42:58,680 --> 01:43:00,040
+inside another behavior.
+
+1556
+01:43:00,040 --> 01:43:01,520
+This is what I meant.
+
+1557
+01:43:01,520 --> 01:43:04,760
+So you guys can also do this.
+
+1558
+01:43:04,760 --> 01:43:05,600
+So can you guys.
+
+1559
+01:43:05,600 --> 01:43:08,880
+Now tell me if I execute this move forward
+behavior?
+
+1560
+01:43:09,000 --> 01:43:10,920
+Well, what are what I will see.
+
+1561
+01:43:10,920 --> 01:43:14,720
+So let me command this out.
+
+1562
+01:43:15,880 --> 01:43:18,400
+Let me go mark this out.
+
+1563
+01:43:18,400 --> 01:43:22,000
+So I will see moving forward
+
+1564
+01:43:22,720 --> 01:43:25,840
+and then I will see apply breaks.
+
+1565
+01:43:26,040 --> 01:43:30,000
+Okay.
+
+1566
+01:43:30,000 --> 01:43:32,400
+So moving forward and then apply brakes
+
+1567
+01:43:33,520 --> 01:43:36,480
+if I call this move forward method once.
+
+1568
+01:43:36,560 --> 01:43:40,920
+Okay, So I can change these matters
+one method inside another method
+
+1569
+01:43:40,920 --> 01:43:43,440
+and then start another method
+
+1570
+01:43:50,320 --> 01:44:05,280
+again.
+
+1571
+01:44:05,280 --> 01:44:05,680
+All right.
+
+1572
+01:44:05,680 --> 01:44:06,440
+That's not less.
+
+1573
+01:44:06,440 --> 01:44:07,600
+I don't understand.
+
+1574
+01:44:07,600 --> 01:44:09,160
+So I like the
+
+1575
+01:44:10,400 --> 01:44:12,880
+inside this move forward.
+
+1576
+01:44:12,880 --> 01:44:15,440
+The method we are calling
+
+1577
+01:44:16,200 --> 01:44:18,840
+this apply breaks method.
+
+1578
+01:44:18,840 --> 01:44:19,560
+Okay,
+
+1579
+01:44:20,880 --> 01:44:25,800
+so the behavior cannot be inside
+the main cannot be inside of this method.
+
+1580
+01:44:26,080 --> 01:44:31,520
+So now we are getting the output
+moving forward and applying brakes
+
+1581
+01:44:31,640 --> 01:44:37,000
+when we call this move forward method
+and index what we are discussing in here.
+
+1582
+01:44:37,160 --> 01:44:39,800
+So we are calling only mode forward,
+
+1583
+01:44:41,440 --> 01:44:43,560
+but we are getting both the outputs.
+
+1584
+01:44:43,560 --> 01:44:44,240
+Okay.
+
+1585
+01:44:44,240 --> 01:44:49,280
+Next, what happens if we call
+a method inside and it doesn't matter?
+
+1586
+01:44:49,520 --> 01:44:52,920
+Yes, we will be doing
+many different examples.
+
+1587
+01:44:52,960 --> 01:44:54,000
+Don't worry about it. Back
+
+1588
+01:44:55,560 --> 01:44:58,200
+then you make separate class for behavior.
+
+1589
+01:44:58,200 --> 01:45:09,840
+Yes, we can make a separate class
+or behavior.
+
+1590
+01:45:09,840 --> 01:45:12,120
+Behavior has its own W brackets.
+
+1591
+01:45:12,120 --> 01:45:15,560
+Can we put the two behavior in one note?
+
+1592
+01:45:15,560 --> 01:45:17,480
+We cannot go back
+
+1593
+01:45:17,800 --> 01:45:20,560
+defining method inside
+another method is not allowed.
+
+1594
+01:45:22,200 --> 01:45:24,960
+What do we can call a method inside
+another method?
+
+1595
+01:45:24,960 --> 01:45:28,440
+So for example, if I if I copy
+
+1596
+01:45:28,880 --> 01:45:32,840
+and if I paste it in here,
+I will get an error.
+
+1597
+01:45:33,000 --> 01:45:37,200
+So this is what we call
+defining a method inside another method.
+
+1598
+01:45:37,200 --> 01:45:40,680
+This is not allowed, but
+
+1599
+01:45:40,680 --> 01:45:43,080
+we can call a method inside.
+
+1600
+01:45:43,080 --> 01:45:45,760
+Another method
+we cannot define, but we can call.
+
+1601
+01:45:46,560 --> 01:45:49,760
+And you guys now know what happens
+then We call it method inside.
+
+1602
+01:45:49,760 --> 01:45:56,680
+Another method, all those lines of code
+that are written inside this apply text.
+
+1603
+01:45:56,680 --> 01:46:00,320
+They will be executed
+when you will be calling to move forward.
+
+1604
+01:46:01,680 --> 01:46:03,560
+So let's do another example
+
+1605
+01:46:03,560 --> 01:46:07,440
+and you guys can keep on
+asking the questions if you have any.
+
+1606
+01:46:08,160 --> 01:46:11,160
+So let's
+
+1607
+01:46:11,160 --> 01:46:13,080
+how did you play?
+
+1608
+01:46:13,080 --> 01:46:16,000
+Did you place apply brakes
+
+1609
+01:46:16,000 --> 01:46:18,120
+inside the first ward?
+
+1610
+01:46:19,000 --> 01:46:21,280
+So I just write, I just wrote
+
+1611
+01:46:21,280 --> 01:46:23,800
+apply Brakes Fantasy and Semicolons.
+
+1612
+01:46:25,280 --> 01:46:27,600
+Can we create behaviors in one line?
+
+1613
+01:46:28,720 --> 01:46:33,600
+Yes. Or one is possible
+using functional programing.
+
+1614
+01:46:33,600 --> 01:46:37,160
+I will show you a little bit
+about the functional programing as well.
+
+1615
+01:46:37,160 --> 01:46:42,080
+If we are left with something,
+mine is read I up.
+
+1616
+01:46:42,400 --> 01:46:49,520
+Can you share the screenshot?
+
+1617
+01:46:49,520 --> 01:46:51,760
+But let's create a class.
+
+1618
+01:46:52,680 --> 01:46:59,000
+Okay.
+
+1619
+01:46:59,000 --> 01:47:08,160
+Or let's create a human class.
+
+1620
+01:47:08,160 --> 01:47:10,440
+Let's stick to the class.
+
+1621
+01:47:10,440 --> 01:47:14,000
+Otherwise we will be confused.
+
+1622
+01:47:14,000 --> 01:47:14,600
+No, don't worry.
+
+1623
+01:47:14,600 --> 01:47:17,680
+Shit, I will not be from now on.
+
+1624
+01:47:17,680 --> 01:47:23,200
+I will not be showing the things
+that are not supposed
+
+1625
+01:47:23,200 --> 01:47:27,240
+to be taught in this class
+and are planned for the next classes.
+
+1626
+01:47:27,640 --> 01:47:30,920
+What is the difference
+in line 13 and 18? Then
+
+1627
+01:47:32,200 --> 01:47:35,200
+we go to line 13
+
+1628
+01:47:38,480 --> 01:47:40,440
+and line 18.
+
+1629
+01:47:40,440 --> 01:47:45,440
+So Nyah, in here we are defining a method.
+
+1630
+01:47:45,880 --> 01:47:47,160
+Okay.
+
+1631
+01:47:47,160 --> 01:47:50,280
+And in here we are calling it method.
+
+1632
+01:47:51,000 --> 01:47:54,880
+When we define a method,
+we evaluate a piece of logic
+
+1633
+01:47:55,640 --> 01:48:00,360
+and when call a method
+that logic is executed.
+
+1634
+01:48:00,600 --> 01:48:05,640
+So if you only define a method, nothing,
+you will see nothing on your consort.
+
+1635
+01:48:05,640 --> 01:48:09,320
+You will only see
+the code is only executed
+
+1636
+01:48:09,640 --> 01:48:13,880
+when you call a method
+and to call a method inside a class.
+
+1637
+01:48:14,400 --> 01:48:19,480
+We write the name of the method and
+these bénin pieces and these semicolon.
+
+1638
+01:48:20,400 --> 01:48:23,040
+So we don't need to call after main class
+
+1639
+01:48:23,280 --> 01:48:26,080
+or in main class.
+
+1640
+01:48:26,080 --> 01:48:29,280
+Yes, we can call in the methods
+that were nice if this is
+
+1641
+01:48:29,600 --> 01:48:31,720
+what is confusing you.
+
+1642
+01:48:31,720 --> 01:48:34,160
+So that's why I was not showing you this.
+
+1643
+01:48:35,200 --> 01:48:35,640
+That's why.
+
+1644
+01:48:35,640 --> 01:48:37,960
+I don't want to show you this.
+
+1645
+01:48:37,960 --> 01:48:51,120
+So let's forget about that.
+
+1646
+01:48:51,120 --> 01:48:55,440
+Why is it printing two times?
+
+1647
+01:48:55,440 --> 01:48:59,840
+Because you you are you are calling
+a method inside another method.
+
+1648
+01:49:00,120 --> 01:49:00,720
+Okay.
+
+1649
+01:49:00,960 --> 01:49:03,440
+And then remove that call from here
+
+1650
+01:49:03,720 --> 01:49:10,920
+and you will not see two outputs.
+
+1651
+01:49:10,920 --> 01:49:14,800
+But then there are a remote
+that call on line 13.
+
+1652
+01:49:14,800 --> 01:49:17,640
+We move applying braids
+and you will not see it again.
+
+1653
+01:49:18,720 --> 01:49:21,960
+Please explain line 11 and 15
+
+1654
+01:49:21,960 --> 01:49:27,960
+if you can line 11 this one in line
+15, this one.
+
+1655
+01:49:28,280 --> 01:49:30,520
+So in here it is.
+
+1656
+01:49:30,520 --> 01:49:33,840
+In here we are defining the behaviors
+
+1657
+01:49:34,080 --> 01:49:38,240
+to define a behavior
+we write this word keyword,
+
+1658
+01:49:39,040 --> 01:49:44,520
+name of the behavior, parentheses,
+and then curly brackets.
+
+1659
+01:49:44,600 --> 01:49:45,400
+And inside.
+
+1660
+01:49:45,400 --> 01:49:50,320
+And here we can write
+any piece of code, any logic, any loops.
+
+1661
+01:49:50,320 --> 01:49:55,480
+Add is variables, print after anything
+that you like to put in here.
+
+1662
+01:49:55,480 --> 01:49:58,720
+And once you call this behavior,
+all that code
+
+1663
+01:49:58,720 --> 01:50:02,000
+will be executed.
+
+1664
+01:50:02,000 --> 01:50:07,320
+And this is how we call it behavior.
+
+1665
+01:50:07,320 --> 01:50:08,520
+Is it clear Now, guys,
+
+1666
+01:50:09,640 --> 01:50:09,960
+if you
+
+1667
+01:50:09,960 --> 01:50:12,520
+guys still have questions, please ask.
+
+1668
+01:50:13,080 --> 01:50:13,760
+Don't worry.
+
+1669
+01:50:13,760 --> 01:50:16,320
+There are no dumb questions.
+
+1670
+01:50:16,320 --> 01:50:21,720
+If things don't make sense at one splice
+twice, it's also perfectly fine.
+
+1671
+01:50:21,720 --> 01:50:26,840
+You can ask me to repeat them again.
+
+1672
+01:50:26,840 --> 01:50:27,840
+So this is what happens.
+
+1673
+01:50:27,840 --> 01:50:29,200
+Guys and
+
+1674
+01:50:29,760 --> 01:50:31,120
+humans,
+
+1675
+01:50:32,240 --> 01:50:34,440
+they can not focus
+
+1676
+01:50:35,880 --> 01:50:37,800
+more than 45 minutes.
+
+1677
+01:50:37,800 --> 01:50:41,400
+Okay, So even if you try your best
+after four or 5 minutes,
+
+1678
+01:50:41,400 --> 01:50:42,960
+you will not be able to focus.
+
+1679
+01:50:42,960 --> 01:50:46,120
+So you will be missing
+a lot of information.
+
+1680
+01:50:46,120 --> 01:50:49,120
+So you guys can ask me again
+if you have missed
+
+1681
+01:50:49,120 --> 01:50:52,280
+some information,
+maybe a part comes in your mind,
+
+1682
+01:50:52,280 --> 01:50:57,760
+maybe something disrupts you,
+but make sure that you stop me right here.
+
+1683
+01:50:58,160 --> 01:50:58,920
+Don't do this.
+
+1684
+01:50:58,920 --> 01:51:04,200
+Let's say, for example, I am explaining
+something for the last 15 minutes,
+
+1685
+01:51:04,200 --> 01:51:10,040
+and after 15 minutes you ask me to repeat
+whatever I have been doing in 15 minutes.
+
+1686
+01:51:10,040 --> 01:51:12,360
+If something is not clear,
+stop me right there.
+
+1687
+01:51:12,840 --> 01:51:13,440
+Okay?
+
+1688
+01:51:13,440 --> 01:51:15,480
+Or Tell me the line
+number which is not behave
+
+1689
+01:51:16,840 --> 01:51:17,240
+that way.
+
+1690
+01:51:17,240 --> 01:51:20,880
+We will not be wasting the times of others
+who are paying attention.
+
+1691
+01:51:22,280 --> 01:51:23,600
+I think
+
+1692
+01:51:25,120 --> 01:51:27,520
+word can be if as if
+
+1693
+01:51:27,680 --> 01:51:34,080
+no ward can cannot be effective.
+
+1694
+01:51:34,080 --> 01:51:40,680
+But inside, while
+we can have intelligence, no questions.
+
+1695
+01:51:40,680 --> 01:51:44,280
+Now I will have million questions
+when I try to do it myself.
+
+1696
+01:51:45,240 --> 01:51:47,160
+So I know you are not following me.
+
+1697
+01:51:47,160 --> 01:51:58,600
+Well, you are only watching, watching me.
+
+1698
+01:51:58,600 --> 01:52:00,280
+All right. That's good. Yes.
+
+1699
+01:52:00,280 --> 01:52:03,880
+You guys can ask me questions later
+
+1700
+01:52:03,880 --> 01:52:04,400
+on today.
+
+1701
+01:52:04,400 --> 01:52:07,000
+So let's do one more example next.
+
+1702
+01:52:07,000 --> 01:52:09,160
+So I have created this human class.
+
+1703
+01:52:10,680 --> 01:52:13,080
+Okay?
+
+1704
+01:52:13,080 --> 01:52:15,920
+Now you guys will help me define the
+
+1705
+01:52:17,000 --> 01:52:21,640
+attributes of humans
+and the behaviors of humans.
+
+1706
+01:52:21,640 --> 01:52:25,200
+What is the difference
+between method and behavior?
+
+1707
+01:52:25,880 --> 01:52:29,880
+In some places you are method
+and in some places be they are same.
+
+1708
+01:52:30,280 --> 01:52:33,840
+Obviously are same.
+
+1709
+01:52:33,840 --> 01:52:35,920
+Let's make the perfect man then.
+
+1710
+01:52:35,920 --> 01:52:37,120
+That's not possible.
+
+1711
+01:52:38,880 --> 01:52:41,400
+Okay,
+let's let's start from simple things.
+
+1712
+01:52:41,400 --> 01:52:44,040
+Like humans, they have names
+
+1713
+01:52:53,040 --> 01:53:01,520
+and then we can have age.
+
+1714
+01:53:01,520 --> 01:53:04,080
+We can have
+
+1715
+01:53:05,480 --> 01:53:10,800
+I can wear
+
+1716
+01:53:14,600 --> 01:53:22,680
+you can have all gender.
+
+1717
+01:53:22,680 --> 01:53:25,280
+We can have race and color.
+
+1718
+01:53:25,400 --> 01:53:28,440
+Let's let's not go into these things.
+
+1719
+01:53:29,160 --> 01:53:34,200
+Blood type. Yes.
+
+1720
+01:53:34,240 --> 01:53:41,160
+The type is also an attribute. So
+
+1721
+01:53:46,960 --> 01:53:48,720
+but like
+
+1722
+01:53:48,880 --> 01:53:51,040
+many other attributes of humans
+
+1723
+01:54:00,840 --> 01:54:04,200
+LLC, for example,
+tell me about the behavior of guys.
+
+1724
+01:54:04,440 --> 01:54:10,000
+What do what do humans do?
+
+1725
+01:54:10,000 --> 01:54:12,440
+The simplest behaviors, simple behaviors
+
+1726
+01:54:12,840 --> 01:54:15,320
+I thing is coming to my mind,
+but I would not bet
+
+1727
+01:54:16,800 --> 01:54:19,760
+so humans they
+
+1728
+01:54:19,760 --> 01:54:23,200
+they eat right
+
+1729
+01:54:33,320 --> 01:54:36,680
+fight war, cry, study, blah blah, blah.
+
+1730
+01:54:36,680 --> 01:54:39,560
+Okay, so one more thing, guys.
+
+1731
+01:54:39,560 --> 01:54:41,640
+So this is something that is new.
+
+1732
+01:54:41,640 --> 01:54:44,760
+Okay, So I again, I can use
+
+1733
+01:54:46,760 --> 01:54:50,720
+an attribute inside
+in methods so I can say name
+
+1734
+01:54:57,880 --> 01:55:00,040
+use a lot of
+
+1735
+01:55:02,200 --> 01:55:04,440
+and then I can have
+
+1736
+01:55:06,400 --> 01:55:10,320
+my sleep
+
+1737
+01:55:17,880 --> 01:55:19,960
+investing wrong
+
+1738
+01:55:21,760 --> 01:55:27,720
+is the name
+
+1739
+01:55:35,080 --> 01:55:38,520
+is me being
+
+1740
+01:55:39,280 --> 01:55:42,480
+we don't need after a while. Yes.
+
+1741
+01:55:42,920 --> 01:55:45,960
+So this is semicolon Emily.
+
+1742
+01:55:45,960 --> 01:55:48,920
+We near the semicolon
+
+1743
+01:55:48,920 --> 01:55:51,120
+once we end a statement
+
+1744
+01:55:51,600 --> 01:55:54,520
+and by end a statement, I mean something
+
+1745
+01:55:54,840 --> 01:55:57,680
+that can produce
+
+1746
+01:55:58,080 --> 01:55:59,040
+an output.
+
+1747
+01:55:59,040 --> 01:56:01,160
+Something that can that
+
+1748
+01:56:02,600 --> 01:56:05,160
+in which we assign something
+
+1749
+01:56:05,160 --> 01:56:07,600
+like, for example,
+this assignment operator.
+
+1750
+01:56:07,600 --> 01:56:09,240
+So in here,
+
+1751
+01:56:09,720 --> 01:56:14,160
+when we would define a matter,
+we would not need to send out semicolons.
+
+1752
+01:56:14,160 --> 01:56:17,240
+Like, for example,
+we don't need to semicolon in here, okay?
+
+1753
+01:56:19,640 --> 01:56:26,120
+Because it's not a statement.
+
+1754
+01:56:26,120 --> 01:56:27,280
+All right, guys.
+
+1755
+01:56:27,280 --> 01:56:31,600
+So then we can have a or
+
+1756
+01:56:37,080 --> 01:56:42,080
+space before needs, right? Yes.
+
+1757
+01:56:42,280 --> 01:57:21,880
+We are talking in number.
+
+1758
+01:57:21,880 --> 01:57:22,360
+Okay.
+
+1759
+01:57:22,800 --> 01:57:28,680
+So we can use all of the attributes
+from our class inside the behavior.
+
+1760
+01:57:28,680 --> 01:57:33,120
+So like I am using name
+and here using blood type in here.
+
+1761
+01:57:33,440 --> 01:57:41,480
+Yes. Now let's create
+
+1762
+01:57:48,000 --> 01:57:51,960
+the human.
+
+1763
+01:57:51,960 --> 01:57:52,240
+Okay.
+
+1764
+01:57:52,240 --> 01:57:55,720
+And in here we will be creating the main
+method so I can be gone.
+
+1765
+01:57:56,360 --> 01:57:59,240
+I will take this checkmark
+
+1766
+01:58:00,480 --> 01:58:17,720
+and we open side by side.
+
+1767
+01:58:17,720 --> 01:58:20,440
+So you can you please?
+
+1768
+01:58:20,440 --> 01:58:21,480
+Yes, sure.
+
+1769
+01:58:21,920 --> 01:58:25,000
+How many of you will be done
+with your projects by tomorrow?
+
+1770
+01:58:25,200 --> 01:58:29,280
+Because I am planning
+to show you this solution in models
+
+1771
+01:58:29,760 --> 01:58:36,800
+class.
+
+1772
+01:58:36,800 --> 01:58:39,480
+Not here the first part yet.
+
+1773
+01:58:41,040 --> 01:58:43,400
+We also deadline is 6 p.m.
+
+1774
+01:58:43,400 --> 01:58:45,240
+doing all
+
+1775
+01:58:47,200 --> 01:58:48,360
+so make sure guys
+
+1776
+01:58:48,360 --> 01:58:52,360
+you complete the project by 6 p.m.
+
+1777
+01:58:52,360 --> 01:58:58,680
+tomorrow because I will be showing
+the distribution in the next class.
+
+1778
+01:58:58,680 --> 01:59:02,520
+Some work done, almost done will be done.
+
+1779
+01:59:02,960 --> 01:59:03,320
+All right.
+
+1780
+01:59:03,320 --> 01:59:20,920
+That's great.
+
+1781
+01:59:20,920 --> 01:59:23,680
+We had we had a do
+you guys can push it to the gate hub.
+
+1782
+01:59:25,360 --> 01:59:27,960
+Daniel, please go back for a second.
+
+1783
+01:59:27,960 --> 01:59:31,840
+Now, do you want me to go back to the
+
+1784
+01:59:32,800 --> 01:59:34,800
+car class or the class
+
+1785
+01:59:37,000 --> 01:59:37,800
+Human class?
+
+1786
+01:59:37,800 --> 01:59:40,320
+I have opened both of them side by side.
+
+1787
+01:59:40,320 --> 01:59:54,440
+It is the human class.
+
+1788
+01:59:54,440 --> 01:59:56,000
+The last line
+
+1789
+02:00:00,280 --> 02:00:01,600
+is it readable, default?
+
+1790
+02:00:01,600 --> 02:00:04,440
+Is it readable? Guys
+
+1791
+02:00:05,040 --> 02:00:06,960
+illustrative of the industry?
+
+1792
+02:00:06,960 --> 02:00:28,760
+It really was intending
+to send X student Yes.
+
+1793
+02:00:28,760 --> 02:00:29,160
+Or one.
+
+1794
+02:00:29,160 --> 02:00:31,560
+You guys have to send the links
+in the same text
+
+1795
+02:00:57,760 --> 02:00:58,640
+that we don't guys want.
+
+1796
+02:00:58,640 --> 02:01:00,840
+You have this for
+
+1797
+02:01:03,040 --> 02:01:03,920
+since we shared
+
+1798
+02:01:03,920 --> 02:01:08,040
+weird software
+field, one member posted it all in one.
+
+1799
+02:01:08,280 --> 02:01:10,160
+No, everyone should push it.
+
+1800
+02:01:10,160 --> 02:01:12,480
+I want you to have practice.
+
+1801
+02:01:13,000 --> 02:01:15,960
+All of you.
+
+1802
+02:01:15,960 --> 02:01:19,080
+I want you guys to have practice
+pushing people
+
+1803
+02:01:19,080 --> 02:01:23,160
+to the gear tab.
+
+1804
+02:01:23,160 --> 02:01:23,880
+All right, guys.
+
+1805
+02:01:23,880 --> 02:01:28,200
+So tell me,
+how can I clear the object of human?
+
+1806
+02:01:28,240 --> 02:01:30,480
+Let's say I want to build them on
+
+1807
+02:01:32,400 --> 02:01:34,080
+into using Java.
+
+1808
+02:01:34,080 --> 02:01:36,360
+I was. I need help pushing.
+
+1809
+02:01:36,680 --> 02:01:39,840
+If you guys need any help,
+you guys can posting this for General
+
+1810
+02:01:44,400 --> 02:01:47,040
+and I was I was wasn't
+
+1811
+02:01:49,160 --> 02:01:53,160
+human
+so I will be writing the name of the class
+
+1812
+02:01:53,520 --> 02:01:57,240
+right then the name of the object
+
+1813
+02:01:57,240 --> 02:02:01,160
+I cannot name anything
+
+1814
+02:02:01,440 --> 02:02:04,360
+than equal to sign then new.
+
+1815
+02:02:05,360 --> 02:02:06,200
+Right?
+
+1816
+02:02:06,280 --> 02:02:08,160
+And then
+
+1817
+02:02:08,240 --> 02:02:10,280
+again name of the class
+
+1818
+02:02:10,840 --> 02:02:14,360
+and that entity right
+
+1819
+02:02:14,360 --> 02:02:16,800
+then using the object.
+
+1820
+02:02:17,000 --> 02:02:18,880
+This, this, this.
+
+1821
+02:02:18,880 --> 02:02:21,120
+Then he throws
+
+1822
+02:02:21,120 --> 02:02:22,880
+someone, send YouTube videos on.
+
+1823
+02:02:22,880 --> 02:02:34,920
+So don't send a lot about.
+
+1824
+02:02:34,920 --> 02:02:35,640
+All right, guys.
+
+1825
+02:02:35,640 --> 02:02:39,920
+So I will say
+I use the name of the object.
+
+1826
+02:02:40,880 --> 02:02:43,560
+Then I can access the property
+
+1827
+02:02:43,560 --> 02:02:48,960
+by writing dog.
+
+1828
+02:02:48,960 --> 02:02:49,560
+Okay?
+
+1829
+02:02:50,840 --> 02:02:53,000
+And then I can see
+
+1830
+02:02:55,680 --> 02:02:57,960
+someone under
+
+1831
+02:02:58,280 --> 02:03:01,200
+age 16.
+
+1832
+02:03:01,760 --> 02:03:02,600
+All right.
+
+1833
+02:03:03,520 --> 02:03:06,880
+Good battles about always 16 and
+
+1834
+02:03:12,240 --> 02:03:15,040
+one on the right.
+
+1835
+02:03:15,040 --> 02:03:17,400
+Right is five four,
+
+1836
+02:03:17,400 --> 02:03:21,480
+I guess I it
+
+1837
+02:03:23,760 --> 02:03:26,640
+okay.
+
+1838
+02:03:26,640 --> 02:03:26,960
+Okay.
+
+1839
+02:03:28,120 --> 02:03:30,160
+So we are building building Miss Universe
+
+1840
+02:03:30,160 --> 02:03:33,600
+in here, right?
+
+1841
+02:03:33,600 --> 02:03:36,840
+And ideal. Ideal
+
+1842
+02:03:37,240 --> 02:03:39,880
+rate for girls.
+
+1843
+02:03:39,880 --> 02:03:42,520
+If 30 if I am not wrong
+
+1844
+02:03:47,520 --> 02:03:49,800
+and then
+
+1845
+02:03:50,160 --> 02:03:53,160
+I can say it online or
+
+1846
+02:03:54,320 --> 02:04:00,440
+then the 3030
+
+1847
+02:04:05,440 --> 02:04:07,200
+and then
+
+1848
+02:04:07,600 --> 02:04:10,560
+I'm on one dog
+
+1849
+02:04:11,480 --> 02:04:12,520
+blood type
+
+1850
+02:04:12,520 --> 02:04:18,240
+principle to a positive.
+
+1851
+02:04:18,240 --> 02:04:21,440
+So this is how we access the properties
+
+1852
+02:04:23,080 --> 02:04:27,840
+and if we want to call the behaviors,
+
+1853
+02:04:27,840 --> 02:04:32,200
+then we will save it and got it.
+
+1854
+02:04:33,480 --> 02:04:35,560
+Okay, We can see
+
+1855
+02:04:39,400 --> 02:04:42,280
+when to sleep
+
+1856
+02:04:42,720 --> 02:04:46,040
+and then, yeah, can you guys now,
+
+1857
+02:04:46,360 --> 02:04:49,920
+are you guys able to relate this
+how we are building
+
+1858
+02:04:51,560 --> 02:04:54,240
+things that exist in real life
+
+1859
+02:04:55,080 --> 02:04:57,520
+using inside our computers?
+
+1860
+02:04:57,960 --> 02:05:07,160
+Can you guys relate these
+to things that they make sense?
+
+1861
+02:05:07,160 --> 02:05:18,080
+And I am about to disappear.
+
+1862
+02:05:18,080 --> 02:05:22,040
+So other than the appearance,
+so we are not touching the appearance
+
+1863
+02:05:22,040 --> 02:05:25,840
+here, other than appearance,
+the attributes, the properties,
+
+1864
+02:05:25,840 --> 02:05:29,640
+the behaviors,
+we are defining all those things in here,
+
+1865
+02:05:30,080 --> 02:05:34,280
+the appearance is done
+with the help of graphic designers,
+
+1866
+02:05:34,440 --> 02:05:37,800
+so they build a character
+like, for example, in games,
+
+1867
+02:05:38,000 --> 02:05:41,480
+they build a character,
+then they combine this logic
+
+1868
+02:05:41,640 --> 02:05:45,640
+with that character,
+and that's how you see those characters
+
+1869
+02:05:45,640 --> 02:05:49,680
+moving
+and behaving and all of those in games
+
+1870
+02:05:52,080 --> 02:05:52,280
+that.
+
+1871
+02:05:52,360 --> 02:05:55,040
+So we will be writing logic
+most of the time.
+
+1872
+02:05:56,160 --> 02:05:59,240
+Can we use loop to connect to all void?
+
+1873
+02:06:00,000 --> 02:06:03,240
+You mean
+can we use a loop to call all the methods
+
+1874
+02:06:05,560 --> 02:06:13,040
+among?
+
+1875
+02:06:13,040 --> 02:06:15,720
+Yes, we can use a loop, but still
+
+1876
+02:06:16,040 --> 02:06:19,320
+we have to type the names of the methods.
+
+1877
+02:06:19,640 --> 02:06:20,000
+Okay.
+
+1878
+02:06:20,000 --> 02:06:22,880
+So the
+there is no point of using a loop. Yes.
+
+1879
+02:06:22,880 --> 02:06:25,920
+If you want to call these methods
+multiple times,
+
+1880
+02:06:26,360 --> 02:06:30,240
+then you should use the loop.
+
+1881
+02:06:30,240 --> 02:06:31,000
+But there isn't.
+
+1882
+02:06:31,000 --> 02:06:34,600
+There is no mechanism that
+
+1883
+02:06:35,280 --> 02:06:39,120
+you can call all the methods from a class.
+
+1884
+02:06:39,120 --> 02:06:39,840
+Okay.
+
+1885
+02:06:40,680 --> 02:06:44,960
+There is something called as a reflection,
+
+1886
+02:06:44,960 --> 02:06:48,560
+but that is something that we are lost
+and we will not be going
+
+1887
+02:06:49,880 --> 02:06:56,800
+to that we will not be learning that.
+
+1888
+02:06:56,800 --> 02:06:59,520
+All right. So do you guys see this output,
+Dom or not?
+
+1889
+02:06:59,520 --> 02:07:04,440
+It's a lot of nice sleeping in the blood
+type is walking.
+
+1890
+02:07:04,800 --> 02:07:10,080
+So this name that we have used
+inside these behaviors.
+
+1891
+02:07:10,880 --> 02:07:13,520
+So this is what is happening.
+
+1892
+02:07:13,520 --> 02:07:16,440
+So we create an object in here.
+
+1893
+02:07:17,320 --> 02:07:19,080
+We assign a name.
+
+1894
+02:07:19,080 --> 02:07:24,240
+So once we assign a name,
+this name is actually assigned
+
+1895
+02:07:25,320 --> 02:07:27,360
+to this variable.
+
+1896
+02:07:27,360 --> 02:07:28,080
+Okay?
+
+1897
+02:07:29,200 --> 02:07:32,280
+And wherever
+now you will be using this variable.
+
+1898
+02:07:32,280 --> 02:07:34,640
+So let's say, for example,
+I use this variable in here.
+
+1899
+02:07:34,920 --> 02:07:37,920
+You will see this name in here.
+That's why.
+
+1900
+02:07:37,960 --> 02:07:41,640
+That's why you see this this name
+
+1901
+02:07:41,960 --> 02:07:43,680
+with this output.
+
+1902
+02:07:43,680 --> 02:07:45,560
+Okay? And it depends on the object.
+
+1903
+02:07:45,560 --> 02:07:51,400
+If you create a different object,
+then a separate copy of this class
+
+1904
+02:07:51,440 --> 02:07:57,360
+will be created out of that object and
+separate values will be assigned to that.
+
+1905
+02:07:57,560 --> 02:08:02,280
+Okay, So let's say, for example, if we
+
+1906
+02:08:03,000 --> 02:08:11,240
+if we give ear loops, we do.
+
+1907
+02:08:11,240 --> 02:08:12,440
+Sebastian
+
+1908
+02:08:15,280 --> 02:08:23,960
+So if we create a Sebastian, we use new
+
+1909
+02:08:24,640 --> 02:08:25,960
+and then
+
+1910
+02:08:33,600 --> 02:08:35,960
+Sebastian you also want to be 16 years old
+
+1911
+02:08:39,800 --> 02:08:40,760
+saying
+
+1912
+02:08:43,440 --> 02:08:46,200
+it's out is always in class.
+
+1913
+02:08:47,160 --> 02:08:51,720
+Are you can put your guitar, you can put
+anything to keep things simple.
+
+1914
+02:08:51,720 --> 02:08:53,920
+I am using, I'm using printouts.
+
+1915
+02:08:53,920 --> 02:08:59,400
+You guys can write any logic in here.
+
+1916
+02:08:59,400 --> 02:09:02,560
+I can make word in class pasta.
+
+1917
+02:09:02,640 --> 02:09:03,840
+Yes, you can.
+
+1918
+02:09:03,840 --> 02:09:06,560
+You can make methods in here as well.
+
+1919
+02:09:06,600 --> 02:09:10,320
+This is also class.
+
+1920
+02:09:10,320 --> 02:09:12,840
+Now we have to create some new means.
+
+1921
+02:09:12,880 --> 02:09:15,440
+Yes. Let's create a standard in here.
+
+1922
+02:09:15,960 --> 02:09:18,840
+Okay.
+
+1923
+02:09:18,840 --> 02:09:25,000
+So. Or
+
+1924
+02:09:26,040 --> 02:09:28,320
+that means
+
+1925
+02:09:31,000 --> 02:09:31,560
+okay.
+
+1926
+02:09:32,360 --> 02:09:35,720
+And in here now we you need
+
+1927
+02:09:35,760 --> 02:09:40,400
+because Dom or not or the other person,
+they may not send any names.
+
+1928
+02:09:40,400 --> 02:09:40,760
+Right.
+
+1929
+02:09:40,760 --> 02:09:44,200
+So now we can use
+and if condition in here we can say if
+
+1930
+02:09:46,080 --> 02:09:49,320
+name la equals
+
+1931
+02:09:52,440 --> 02:09:57,360
+Sebastian,
+
+1932
+02:09:57,360 --> 02:09:59,760
+then only we send
+
+1933
+02:10:09,720 --> 02:10:14,120
+like this.
+
+1934
+02:10:14,120 --> 02:10:18,520
+So this is how you guys can put more
+and more logic in here
+
+1935
+02:10:18,520 --> 02:10:22,760
+to define certain specific
+behavior for, certain objects.
+
+1936
+02:10:22,760 --> 02:10:25,440
+Okay, so name
+
+1937
+02:10:31,800 --> 02:10:32,680
+and sure,
+
+1938
+02:10:32,680 --> 02:10:45,200
+we like this, right?
+
+1939
+02:10:45,200 --> 02:10:49,160
+It should be a
+
+1940
+02:10:53,880 --> 02:10:55,680
+all looks good now
+
+1941
+02:10:58,800 --> 02:11:02,600
+so human not name.
+
+1942
+02:11:03,240 --> 02:11:09,560
+If it is a question.
+
+1943
+02:11:09,560 --> 02:11:10,240
+Right. Why? Why?
+
+1944
+02:11:10,240 --> 02:11:11,880
+I'm getting an error
+
+1945
+02:11:26,280 --> 02:11:27,000
+spelling.
+
+1946
+02:11:27,000 --> 02:11:27,320
+Right.
+
+1947
+02:11:27,320 --> 02:11:31,680
+So a lot of you are making spelling
+mistakes in the sports channel.
+
+1948
+02:11:32,040 --> 02:11:35,280
+So this is the reason that you guys
+are getting those issues.
+
+1949
+02:11:36,960 --> 02:11:39,000
+And then I can see
+
+1950
+02:11:40,480 --> 02:11:42,880
+in or image
+
+1951
+02:11:44,280 --> 02:11:47,680
+Sebastian 16 years or 1818
+
+1952
+02:11:51,520 --> 02:11:52,560
+like million time
+
+1953
+02:11:52,560 --> 02:12:00,280
+in my last error.
+
+1954
+02:12:00,280 --> 02:12:08,600
+What about the height?
+
+1955
+02:12:08,600 --> 02:12:12,600
+So sometimes I simply say
+
+1956
+02:12:19,080 --> 02:12:20,120
+extra
+
+1957
+02:12:25,080 --> 02:12:27,400
+and got
+
+1958
+02:12:27,400 --> 02:12:28,600
+weird.
+
+1959
+02:12:28,800 --> 02:12:30,160
+Okay, let me guess.
+
+1960
+02:12:30,160 --> 02:12:33,960
+We're wrong from the picture that you have
+
+1961
+02:12:34,440 --> 02:12:37,320
+on your profile.
+
+1962
+02:12:37,320 --> 02:12:41,040
+So it's in kids
+
+1963
+02:12:42,640 --> 02:12:45,280
+eight is more than 80,
+
+1964
+02:12:46,400 --> 02:12:48,000
+maybe around 400.
+
+1965
+02:12:48,000 --> 02:12:49,080
+It is
+
+1966
+02:12:49,920 --> 02:12:52,080
+for 25
+
+1967
+02:12:56,080 --> 02:12:57,760
+and then
+
+1968
+02:12:58,560 --> 02:13:00,000
+not allowed to drink
+
+1969
+02:13:00,000 --> 02:13:16,400
+alcohol.
+
+1970
+02:13:16,400 --> 02:13:18,920
+Why 100? Could not be.
+
+1971
+02:13:18,920 --> 02:13:22,200
+You guys can use Elvis as well,
+
+1972
+02:13:22,200 --> 02:13:24,200
+because I am an engineer
+
+1973
+02:13:24,200 --> 02:13:27,680
+and engineers, they use different systems.
+
+1974
+02:13:28,160 --> 02:13:33,520
+So that's why my my units, they
+they will be different always.
+
+1975
+02:13:33,520 --> 02:13:35,680
+I will be using kilometers far distance.
+
+1976
+02:13:37,080 --> 02:13:40,440
+And then kids are weird normal systems.
+
+1977
+02:13:40,480 --> 02:13:41,680
+You mean
+
+1978
+02:13:44,480 --> 02:13:47,640
+there was this joke
+that it'll take 40 years
+
+1979
+02:13:47,840 --> 02:13:51,880
+for the person to be an engineer,
+and once he's an engineer, he can.
+
+1980
+02:13:52,160 --> 02:13:55,200
+He can never be a person again, human
+
+1981
+02:13:55,200 --> 02:13:58,440
+again, not age.
+
+1982
+02:13:58,960 --> 02:14:00,040
+It should be
+
+1983
+02:14:02,520 --> 02:14:04,200
+like I
+
+1984
+02:14:05,880 --> 02:14:11,720
+mean, and guys, if I.
+
+1985
+02:14:11,760 --> 02:14:14,400
+If I call this send means on someone. Now
+
+1986
+02:14:15,800 --> 02:14:18,040
+what will happen,
+What are what I will get days
+
+1987
+02:14:21,920 --> 02:14:23,160
+then work it to LP.
+
+1988
+02:14:23,160 --> 02:14:25,440
+Yes you guys can define different
+different things.
+
+1989
+02:14:25,440 --> 02:14:28,920
+You can have another property
+in which you will be defining the
+
+1990
+02:14:30,120 --> 02:14:31,200
+and the eunuchs.
+
+1991
+02:14:31,200 --> 02:14:33,080
+Okay. Nothing.
+
+1992
+02:14:33,080 --> 02:14:41,520
+And what if I call this
+method on Sebastian object?
+
+1993
+02:14:41,520 --> 02:14:47,120
+So if I execute this, it will say
+
+1994
+02:14:49,560 --> 02:14:50,720
+sending me.
+
+1995
+02:14:50,720 --> 02:14:53,640
+So let me let me looking
+
+1996
+02:14:55,000 --> 02:14:57,360
+out these methods with
+
+1997
+02:15:16,080 --> 02:15:17,640
+so we see on the left
+
+1998
+02:15:17,640 --> 02:15:31,360
+me putting out some training so
+that you can really differentiate in here.
+
+1999
+02:15:31,360 --> 02:15:35,680
+Okay so all the outputs for Sebastian,
+all the outputs.
+
+2000
+02:15:35,680 --> 02:15:36,320
+Okay.
+
+2001
+02:15:36,360 --> 02:15:41,600
+So this is how you define real life kings
+in computers using programing.
+
+2002
+02:15:41,600 --> 02:15:43,320
+Can you roll it down?
+
+2003
+02:15:43,320 --> 02:15:47,480
+I want take notes, please. In.
+
+2004
+02:15:47,680 --> 02:15:49,440
+You mean this class cities?
+
+2005
+02:15:51,000 --> 02:15:55,080
+This one.
+
+2006
+02:15:55,080 --> 02:15:57,080
+Is it better now
+
+2007
+02:16:02,280 --> 02:16:02,840
+let me know
+
+2008
+02:16:02,840 --> 02:16:06,560
+if you guys have any questions
+or something.
+
+2009
+02:16:06,560 --> 02:16:09,200
+Is not working out getting any errors.
+
+2010
+02:16:09,680 --> 02:16:13,800
+So whatever is before
+the sunbeams gets into
+
+2011
+02:16:15,120 --> 02:16:17,280
+whatever is did before? No, no, no.
+
+2012
+02:16:17,280 --> 02:16:19,400
+Because We are calling these matters.
+
+2013
+02:16:19,960 --> 02:16:22,280
+That's why it is being printed.
+
+2014
+02:16:22,280 --> 02:16:27,640
+Sebastian is sleeping years a lot older
+because we have all these methods.
+
+2015
+02:16:27,640 --> 02:16:30,120
+That's why we see them.
+
+2016
+02:16:30,120 --> 02:16:34,640
+I'll put into fast system dart out
+How fast?
+
+2017
+02:16:36,480 --> 02:16:37,200
+What do you mean?
+
+2018
+02:16:37,200 --> 02:16:41,200
+You to print at the speed of 247 means
+
+2019
+02:16:42,680 --> 02:16:43,000
+flock.
+
+2020
+02:16:43,000 --> 02:16:45,360
+Now can you elaborate a little bit?
+
+2021
+02:16:45,360 --> 02:16:48,360
+What what do you want to ask about
+send means
+
+2022
+02:16:54,600 --> 02:16:58,480
+six out control plus space or
+
+2023
+02:16:59,680 --> 02:17:02,120
+so Alexi You mean how to type it fast
+
+2024
+02:17:04,480 --> 02:17:05,640
+and really.
+
+2025
+02:17:05,640 --> 02:17:06,320
+Oh yeah.
+
+2026
+02:17:06,320 --> 02:17:11,680
+So you can type S out
+and then you can use control plus space.
+
+2027
+02:17:12,520 --> 02:17:18,000
+I may ask how do you use send means?
+
+2028
+02:17:18,000 --> 02:17:20,440
+I am calling this
+to send me in here partner
+
+2029
+02:17:21,800 --> 02:17:24,200
+on the Sebastian object and on this
+
+2030
+02:17:24,600 --> 02:17:28,320
+and inside this send means I written some
+
+2031
+02:17:29,480 --> 02:17:30,920
+extra logic.
+
+2032
+02:17:30,920 --> 02:17:38,040
+That logic is checking
+if the name of the object is Sebastian.
+
+2033
+02:17:38,040 --> 02:17:40,600
+Then only print out sending means
+
+2034
+02:17:41,040 --> 02:17:43,520
+why If does not play into Sebastian
+
+2035
+02:17:48,960 --> 02:17:52,360
+is because of the.
+
+2036
+02:17:52,360 --> 02:17:55,840
+Let me check if you have used the
+
+2037
+02:17:57,360 --> 02:17:58,520
+it is printing.
+
+2038
+02:17:58,520 --> 02:18:00,120
+Sending means
+
+2039
+02:18:00,800 --> 02:18:04,400
+it is printing to sending means
+
+2040
+02:18:04,440 --> 02:18:06,160
+on on on the console.
+
+2041
+02:18:06,160 --> 02:18:08,680
+The last line is saying sending means
+
+2042
+02:18:10,760 --> 02:18:11,760
+that he
+
+2043
+02:18:15,480 --> 02:18:16,200
+means
+
+2044
+02:18:17,480 --> 02:18:18,520
+Elena.
+
+2045
+02:18:18,520 --> 02:18:20,640
+But what I you always get at is
+
+2046
+02:18:22,680 --> 02:18:26,120
+com load plus 11 human log log
+
+2047
+02:18:26,960 --> 02:18:32,840
+not to any the complete error.
+
+2048
+02:18:32,840 --> 02:18:37,680
+I don't know it's one it's fine
+you will get used to it
+
+2049
+02:18:39,280 --> 02:18:40,720
+Lloyd
+
+2050
+02:18:44,400 --> 02:18:45,880
+all because you are missing
+
+2051
+02:18:45,880 --> 02:18:51,080
+that closing bracket
+Melanie online 20 after the semicolon
+
+2052
+02:18:51,080 --> 02:18:55,920
+you see in here after this log
+I have this closing calibrator.
+
+2053
+02:18:55,920 --> 02:18:58,360
+Then I am typing the next method.
+
+2054
+02:18:58,880 --> 02:19:04,400
+Okay, then that's why you are getting that
+that why the name it didn't print
+
+2055
+02:19:05,960 --> 02:19:08,480
+or the name it
+
+2056
+02:19:09,320 --> 02:19:14,600
+must have our because we are not
+using them in any print out statements.
+
+2057
+02:19:14,600 --> 02:19:18,280
+We are not using them in any method that
+that's why they are not being printed.
+
+2058
+02:19:18,560 --> 02:19:22,000
+If you want to print you can,
+you can write this out and then can look
+
+2059
+02:19:22,000 --> 02:19:26,880
+at those attributes in there
+and then they will be printed out
+
+2060
+02:19:27,880 --> 02:19:29,880
+maybe in another package.
+
+2061
+02:19:31,240 --> 02:19:32,160
+Yes, we will do that.
+
+2062
+02:19:32,160 --> 02:19:34,280
+Other permitting look, not now.
+
+2063
+02:19:35,520 --> 02:19:38,840
+Why sending names printed 11
+
+2064
+02:19:39,440 --> 02:19:42,440
+Sending this printed first.
+
+2065
+02:19:42,600 --> 02:19:45,120
+It is not printed first Silva.
+
+2066
+02:19:45,720 --> 02:19:48,840
+It is printed at the last same sequence
+
+2067
+02:19:48,920 --> 02:19:57,280
+as I am
+keeping as I am calling these methods.
+
+2068
+02:19:57,280 --> 02:20:00,920
+Oh, because you are calling it first,
+you see online,
+
+2069
+02:20:01,240 --> 02:20:05,280
+it's line 30, I guess you are calling this
+and the means first.
+
+2070
+02:20:05,280 --> 02:20:09,600
+Next slide is being printed net
+plus if you call this at the last
+
+2071
+02:20:09,600 --> 02:20:13,640
+like me after these three calls,
+then you will be seeing cannot last.
+
+2072
+02:20:14,880 --> 02:20:16,200
+My Sebastian,
+
+2073
+02:20:16,200 --> 02:20:24,080
+don't print.
+
+2074
+02:20:24,080 --> 02:20:26,320
+Oh because you are not calling the methods
+
+2075
+02:20:28,240 --> 02:20:30,840
+and see you are not calling the meters
+silver.
+
+2076
+02:20:30,840 --> 02:20:33,800
+Is it clear like Z and silver?
+
+2077
+02:20:34,200 --> 02:20:35,920
+Is it clear now
+
+2078
+02:20:42,720 --> 02:20:44,840
+that if there are other questions,
+
+2079
+02:20:44,920 --> 02:20:57,240
+please ask.
+
+2080
+02:20:57,240 --> 02:20:58,560
+These are
+
+2081
+02:20:59,000 --> 02:21:01,960
+some things
+that you guys will be using a lot.
+
+2082
+02:21:02,400 --> 02:21:05,960
+So I want
+I want every one of you to be super clear
+
+2083
+02:21:05,960 --> 02:21:09,600
+on these things. Why,
+
+2084
+02:21:10,800 --> 02:21:13,160
+yes, that's a
+
+2085
+02:21:13,680 --> 02:21:14,560
+good idea.
+
+2086
+02:21:14,560 --> 02:21:18,960
+To recap
+why it is not printing age weird and high.
+
+2087
+02:21:19,000 --> 02:21:22,920
+So Farhad, it's not printing it
+and high again, all that
+
+2088
+02:21:22,920 --> 02:21:28,920
+because neither we have use this age
+or height or anything inside this method,
+
+2089
+02:21:29,400 --> 02:21:33,680
+nor we are using any printouts in the
+in the main method.
+
+2090
+02:21:34,080 --> 02:21:37,400
+That's why I would not see them.
+
+2091
+02:21:37,400 --> 02:21:43,680
+So let's say if you want to printout the
+it right, So either you have to
+
+2092
+02:21:44,760 --> 02:21:46,920
+write a printout in here,
+
+2093
+02:21:46,920 --> 02:21:49,760
+then you have to write Sebastian
+
+2094
+02:21:52,200 --> 02:21:53,520
+not age,
+
+2095
+02:21:53,520 --> 02:21:58,880
+then you will see it,
+then you will see it.
+
+2096
+02:21:59,440 --> 02:22:05,480
+Or you have to put this image in here
+inside some of these methods.
+
+2097
+02:22:05,480 --> 02:22:07,480
+Then it be printed out.
+
+2098
+02:22:09,000 --> 02:22:11,080
+Why? It's like, and I need them
+
+2099
+02:22:11,080 --> 02:22:14,560
+in this plan, but hard, silly
+
+2100
+02:22:14,600 --> 02:22:17,040
+standing means is not printing
+
+2101
+02:22:17,040 --> 02:22:28,440
+in my console.
+
+2102
+02:22:28,440 --> 02:22:32,760
+If name is
+
+2103
+02:22:36,200 --> 02:22:38,280
+equals Sebastian.
+
+2104
+02:22:39,720 --> 02:22:44,480
+So your s he not your s is capital
+
+2105
+02:22:45,520 --> 02:22:48,920
+on line 21 inside the main method,
+but the s
+
+2106
+02:22:48,920 --> 02:22:52,880
+inside of your method online 25 is a law s
+
+2107
+02:22:53,880 --> 02:22:57,040
+so the Java is case sensitive.
+
+2108
+02:22:57,040 --> 02:22:59,520
+Make sure you guys are using
+
+2109
+02:22:59,920 --> 02:23:03,680
+same cases in your methods
+
+2110
+02:23:03,680 --> 02:23:07,400
+and in your
+when you are defining something
+
+2111
+02:23:07,400 --> 02:23:11,000
+and when you are assigning something,
+let me know if it.
+
+2112
+02:23:11,000 --> 02:23:12,640
+Let's make sure that
+
+2113
+02:23:13,960 --> 02:23:18,000
+the s in here and the s in here.
+
+2114
+02:23:18,240 --> 02:23:19,640
+They are same
+
+2115
+02:23:22,800 --> 02:23:24,560
+same here, same here.
+
+2116
+02:23:24,560 --> 02:23:25,920
+So I love you guys.
+
+2117
+02:23:25,920 --> 02:23:29,400
+Please make sure that the spellings
+and then the syllabus change.
+
+2118
+02:23:29,400 --> 02:23:33,080
+They have same
+and let me know if it's if it is also
+
+2119
+02:23:33,080 --> 02:23:36,280
+the issue.
+
+2120
+02:23:36,280 --> 02:23:39,000
+Yes, we can print
+
+2121
+02:23:39,000 --> 02:23:41,440
+it out in separate system of all together.
+
+2122
+02:23:41,440 --> 02:23:46,240
+Yes, we can print it out
+and all together on different
+
+2123
+02:23:46,840 --> 02:23:49,320
+I am confused output on
+
+2124
+02:23:49,320 --> 02:23:54,360
+console is printing to the object tab
+or class tab so you'll get to the output
+
+2125
+02:23:54,520 --> 02:23:58,360
+being printed from this main method.
+
+2126
+02:23:58,480 --> 02:23:59,040
+Okay. We are.
+
+2127
+02:23:59,040 --> 02:24:04,160
+We are calling these matters,
+but how that output will look like
+
+2128
+02:24:04,600 --> 02:24:07,240
+it is defined inside this class.
+
+2129
+02:24:07,520 --> 02:24:12,840
+Okay.
+
+2130
+02:24:12,840 --> 02:24:16,520
+You can start typing
+the name press control space
+
+2131
+02:24:16,520 --> 02:24:21,920
+and it looks all clear to create a class
+and then all that property will be here.
+
+2132
+02:24:21,920 --> 02:24:25,640
+We are just wondering
+how will we use these in our programs?
+
+2133
+02:24:26,600 --> 02:24:27,640
+So, Ammad,
+
+2134
+02:24:27,840 --> 02:24:33,000
+you guys will be combining all the logics,
+using these classes.
+
+2135
+02:24:33,000 --> 02:24:35,400
+So you remember back to scanner class
+
+2136
+02:24:35,400 --> 02:24:39,120
+that scanner class has specific
+behaviors, right?
+
+2137
+02:24:39,160 --> 02:24:41,760
+And you use that scanner class
+for taking pictures
+
+2138
+02:24:41,840 --> 02:24:44,200
+of the input booleans as the input.
+
+2139
+02:24:45,480 --> 02:24:48,000
+Other things you write the matters.
+
+2140
+02:24:48,000 --> 02:24:53,520
+So you develop these to these small units
+in the form of letters.
+
+2141
+02:24:53,680 --> 02:24:56,160
+You write logic in pieces.
+
+2142
+02:24:56,760 --> 02:24:59,160
+You combine those pieces
+
+2143
+02:24:59,160 --> 02:25:02,600
+in a logical entity
+that is called a class.
+
+2144
+02:25:03,480 --> 02:25:05,520
+You declare some variables
+
+2145
+02:25:06,200 --> 02:25:08,840
+called as properties, hold
+
+2146
+02:25:08,840 --> 02:25:11,280
+some values inside the class.
+
+2147
+02:25:11,840 --> 02:25:15,600
+Then you build this a unit of class,
+you build
+
+2148
+02:25:17,000 --> 02:25:20,160
+objects out of that class
+and you use in your code.
+
+2149
+02:25:20,520 --> 02:25:26,520
+I guess it's a way of grouping
+those smaller pieces first,
+
+2150
+02:25:26,560 --> 02:25:31,680
+dividing the task into smaller pieces,
+writing the code for smaller pieces,
+
+2151
+02:25:32,040 --> 02:25:36,040
+then logically combining them
+so that you guys can remember
+
+2152
+02:25:36,360 --> 02:25:39,440
+easily can organize your code easily
+
+2153
+02:25:39,440 --> 02:25:42,720
+inside big classes and use that.
+
+2154
+02:25:42,920 --> 02:25:46,760
+And those logics,
+those features, properties and matters
+
+2155
+02:25:46,960 --> 02:25:51,480
+by creating the objects and then calling
+those methods of properties.
+
+2156
+02:25:51,920 --> 02:25:57,840
+So if you guys,
+if you guys want to see a real life
+
+2157
+02:25:57,840 --> 02:26:02,160
+example of how you can use these classes.
+
+2158
+02:26:02,560 --> 02:26:06,480
+So I will suggest you to look at that
+standard class
+
+2159
+02:26:06,480 --> 02:26:09,240
+because you guys are already familiar
+with the scanner class.
+
+2160
+02:26:09,800 --> 02:26:15,040
+So if you, if
+
+2161
+02:26:15,040 --> 02:26:20,360
+you type this.
+
+2162
+02:26:20,360 --> 02:26:30,120
+Yeah.
+
+2163
+02:26:30,120 --> 02:26:31,440
+Okay. So
+
+2164
+02:26:32,400 --> 02:26:33,760
+it's systematic.
+
+2165
+02:26:33,760 --> 02:26:37,560
+Okay, registration purposes,
+
+2166
+02:26:39,480 --> 02:26:42,920
+if we have upper or lower class,
+is it going to give an error?
+
+2167
+02:26:42,960 --> 02:26:44,160
+Yes, it will.
+
+2168
+02:26:44,160 --> 02:26:46,920
+It not it will not give you an error,
+but it will not work.
+
+2169
+02:26:47,200 --> 02:26:51,680
+So we write on main method
+and we print on class, right?
+
+2170
+02:26:52,360 --> 02:26:56,840
+We call inside the method
+and we define inside the class.
+
+2171
+02:26:57,240 --> 02:26:59,840
+These are the proper terminologies.
+
+2172
+02:26:59,840 --> 02:27:02,800
+I think we will understand
+when we need to use that logic.
+
+2173
+02:27:02,840 --> 02:27:05,080
+You guys will understand
+next 3 to 4 classes.
+
+2174
+02:27:05,080 --> 02:27:06,200
+Don't worry about that.
+
+2175
+02:27:06,200 --> 02:27:09,120
+Is it possible to create class inside
+another class?
+
+2176
+02:27:09,120 --> 02:27:10,880
+Yes, So we can do that.
+
+2177
+02:27:10,880 --> 02:27:14,000
+But I will not be showing you that
+right now.
+
+2178
+02:27:14,000 --> 02:27:17,520
+So, guys, this scanner is also a class.
+
+2179
+02:27:18,240 --> 02:27:22,360
+So what you guys have been doing,
+you guys have been creating the objects
+
+2180
+02:27:22,920 --> 02:27:26,160
+of, this kind of class and then calling
+
+2181
+02:27:26,160 --> 02:27:29,480
+different behaviors on this kind of class.
+
+2182
+02:27:29,640 --> 02:27:34,160
+So if you want to check
+how those behaviors are defined,
+
+2183
+02:27:34,520 --> 02:27:37,080
+you can hold down your control button
+
+2184
+02:27:37,320 --> 02:27:41,600
+on your keyboard
+and you can click on this class.
+
+2185
+02:27:42,840 --> 02:27:44,720
+If You do. So
+
+2186
+02:27:45,560 --> 02:27:47,760
+Eclipse will Eclipse will take you
+
+2187
+02:27:49,400 --> 02:27:51,360
+inside this scanner class.
+
+2188
+02:27:51,360 --> 02:27:53,600
+Okay, we are that class is defined.
+
+2189
+02:27:55,120 --> 02:27:58,880
+So hold it on your control
+and then click on scanner
+
+2190
+02:27:59,560 --> 02:28:01,720
+the name of the class
+
+2191
+02:28:02,280 --> 02:28:03,760
+and me know if you guys
+
+2192
+02:28:03,760 --> 02:28:06,600
+see this class or not.
+
+2193
+02:28:06,720 --> 02:28:09,080
+Now I am showing you
+the real life examples
+
+2194
+02:28:11,800 --> 02:28:12,480
+ordered down
+
+2195
+02:28:12,480 --> 02:28:16,400
+your hold on your control
+or command button.
+
+2196
+02:28:16,800 --> 02:28:20,040
+If you are on the Mac and click on
+with your mouse
+
+2197
+02:28:20,200 --> 02:28:23,920
+right on it. No.
+
+2198
+02:28:23,960 --> 02:28:28,680
+Amid these classes they are written
+by Java guys and they are read only.
+
+2199
+02:28:28,680 --> 02:28:36,960
+You cannot change them.
+
+2200
+02:28:36,960 --> 02:28:55,200
+Let me know once you guys see this class.
+
+2201
+02:28:55,200 --> 02:28:58,800
+So yes.
+
+2202
+02:28:58,840 --> 02:29:01,080
+So you guys will see a lot of errors.
+
+2203
+02:29:01,400 --> 02:29:05,360
+You guys will learn
+almost about all of these killers.
+
+2204
+02:29:05,400 --> 02:29:08,640
+Okay, So don't worry about them.
+
+2205
+02:29:08,640 --> 02:29:12,040
+So just focus on
+this name of the class, okay?
+
+2206
+02:29:12,640 --> 02:29:16,360
+And then you guys will see
+we are declaring many,
+
+2207
+02:29:16,360 --> 02:29:19,000
+many variables in here match
+
+2208
+02:29:19,440 --> 02:29:22,720
+integers, backgrounds, settings.
+
+2209
+02:29:23,160 --> 02:29:25,480
+All of these are properties. Okay?
+
+2210
+02:29:25,680 --> 02:29:29,360
+All of these are properties right
+click and choose work.
+
+2211
+02:29:30,040 --> 02:29:32,240
+Just just clicked in displayed on it.
+
+2212
+02:29:32,360 --> 02:29:33,080
+Just click on it.
+
+2213
+02:29:34,200 --> 02:29:36,320
+Hold on your control and just click on it.
+
+2214
+02:29:36,720 --> 02:29:46,640
+Next. Yes.
+
+2215
+02:29:47,480 --> 02:29:49,800
+So it is the left control plus left with.
+
+2216
+02:29:50,400 --> 02:29:52,800
+It's not for looking for any
+
+2217
+02:29:53,080 --> 02:29:55,200
+go back and do from previous.
+
+2218
+02:29:55,920 --> 02:30:00,280
+Yes so So Eve, let me close this class.
+
+2219
+02:30:00,560 --> 02:30:03,800
+If I hold down my control, see it changes
+
+2220
+02:30:03,800 --> 02:30:06,000
+to this hand kind of icon.
+
+2221
+02:30:07,080 --> 02:30:07,280
+Okay.
+
+2222
+02:30:07,280 --> 02:30:10,640
+If I if I take my miles,
+if I take my pointer
+
+2223
+02:30:10,640 --> 02:30:13,440
+to the name of the class, it it to this
+
+2224
+02:30:14,640 --> 02:30:17,680
+blue color
+and it changes it to this hand like icon.
+
+2225
+02:30:18,640 --> 02:30:19,800
+Once you see this.
+
+2226
+02:30:19,800 --> 02:30:21,160
+Yes. Left click on it.
+
+2227
+02:30:21,160 --> 02:30:23,760
+That's it.
+
+2228
+02:30:23,760 --> 02:30:27,960
+Control Netflix.
+
+2229
+02:30:27,960 --> 02:30:36,000
+Does it work now? Yes.
+
+2230
+02:30:36,000 --> 02:30:38,080
+You can do the same with human class.
+
+2231
+02:30:38,080 --> 02:30:40,440
+Any other class.
+
+2232
+02:30:40,440 --> 02:30:42,600
+But they know it's still not working.
+
+2233
+02:30:42,600 --> 02:30:45,040
+So if it is still not working,
+
+2234
+02:30:46,440 --> 02:30:49,080
+I want you
+to right click on your name of the class.
+
+2235
+02:30:49,360 --> 02:30:50,840
+Looks like those
+
+2236
+02:30:51,240 --> 02:30:54,680
+If it is still not working
+right, click on the name of your class
+
+2237
+02:30:55,960 --> 02:31:01,240
+and then click on this open declaration.
+
+2238
+02:31:01,240 --> 02:31:04,760
+Okay, Right click on the name
+
+2239
+02:31:04,760 --> 02:31:07,800
+of your class
+and click on Open Declaration.
+
+2240
+02:31:07,800 --> 02:31:10,320
+And you guys also see
+the shortcut to S3 for me.
+
+2241
+02:31:11,160 --> 02:31:21,560
+So you can click on
+you can click F3 as the.
+
+2242
+02:31:21,560 --> 02:31:22,080
+All right.
+
+2243
+02:31:22,080 --> 02:31:24,800
+I hope everyone, everyone now see
+
+2244
+02:31:25,200 --> 02:31:27,840
+saw not not found.
+
+2245
+02:31:28,200 --> 02:31:30,760
+I said please post in this portion of what
+
+2246
+02:31:31,000 --> 02:31:38,280
+will help you out.
+
+2247
+02:31:38,280 --> 02:31:40,120
+Same here.
+
+2248
+02:31:40,120 --> 02:31:41,000
+It's fine. Okay.
+
+2249
+02:31:41,000 --> 02:31:46,000
+You guys just that's just like,
+okay, you guys can visit it later.
+
+2250
+02:31:46,440 --> 02:31:57,800
+Yeah.
+
+2251
+02:31:57,800 --> 02:32:00,400
+So you're going to have to attach
+the sources.
+
+2252
+02:32:00,760 --> 02:32:04,280
+You can click on attach sauces
+and then you have the, the diary,
+
+2253
+02:32:04,280 --> 02:32:06,360
+and then you guys will be able to see it.
+
+2254
+02:32:06,360 --> 02:32:08,840
+Okay. Georgiadis, this should be attached.
+
+2255
+02:32:09,000 --> 02:32:10,360
+You can post in the sport journal,
+
+2256
+02:32:10,360 --> 02:32:13,640
+the class will show you
+how to address that but did find nice.
+
+2257
+02:32:13,640 --> 02:32:16,080
+Just just watch or just walk in here.
+Okay.
+
+2258
+02:32:16,560 --> 02:32:19,600
+So this is this of class.
+
+2259
+02:32:20,160 --> 02:32:23,320
+Okay. And in here these are
+
+2260
+02:32:24,280 --> 02:32:27,640
+the properties, all the properties
+you guys see
+
+2261
+02:32:27,920 --> 02:32:31,200
+all the properties
+are defined in here by Javabayes.
+
+2262
+02:32:32,760 --> 02:32:36,560
+But this is how when you guys
+will be solving a real life problem,
+
+2263
+02:32:37,000 --> 02:32:39,320
+you will be logically first
+
+2264
+02:32:41,880 --> 02:32:44,440
+dividing that problem
+into different parts.
+
+2265
+02:32:45,160 --> 02:32:47,520
+Each block will be a class.
+
+2266
+02:32:47,520 --> 02:32:50,000
+Inside of that class,
+You guys will further
+
+2267
+02:32:50,120 --> 02:32:53,200
+divide
+that problem into different behaviors.
+
+2268
+02:32:54,360 --> 02:32:57,480
+These properties,
+they will hold values for you.
+
+2269
+02:32:57,480 --> 02:33:02,400
+So for example, you see in
+we are holding Ben closed is fas
+
+2270
+02:33:02,400 --> 02:33:06,560
+blah blah blah null.
+
+2271
+02:33:06,560 --> 02:33:08,560
+So don't click anything.
+
+2272
+02:33:08,560 --> 02:33:11,040
+Marla Just, just, just follow me.
+
+2273
+02:33:11,560 --> 02:33:13,080
+Just walk in here.
+
+2274
+02:33:13,080 --> 02:33:17,480
+So that's how you will be defining
+different properties.
+
+2275
+02:33:17,880 --> 02:33:22,000
+Then you guys will be defining
+the behavior.
+
+2276
+02:33:22,080 --> 02:33:26,480
+Okay, So still properties, properties,
+so many properties.
+
+2277
+02:33:26,800 --> 02:33:29,360
+Okay, Now don't be scared.
+
+2278
+02:33:30,440 --> 02:33:32,680
+You guys will understand all of this.
+
+2279
+02:33:32,680 --> 02:33:36,840
+So you see, this is how you guys are able
+
+2280
+02:33:37,200 --> 02:33:39,480
+to be to be input
+
+2281
+02:33:39,840 --> 02:33:43,960
+from your keyboard
+by just writing the two lines of code.
+
+2282
+02:33:44,040 --> 02:33:49,800
+Someone Else has written
+thousands of lines and very complex
+
+2283
+02:33:50,280 --> 02:33:52,800
+logics to make it happen.
+
+2284
+02:33:52,800 --> 02:33:53,520
+Okay.
+
+2285
+02:33:53,880 --> 02:33:59,640
+To be able to get the input
+from the keyword and all that logic.
+
+2286
+02:33:59,640 --> 02:34:04,440
+All that code is first group
+in the form of a class.
+
+2287
+02:34:04,440 --> 02:34:06,880
+They have given a name scanner
+to that class.
+
+2288
+02:34:07,440 --> 02:34:10,000
+Then they grouped all those logics
+
+2289
+02:34:10,240 --> 02:34:14,880
+inside different methods,
+betters, behavior, like for example,
+
+2290
+02:34:14,880 --> 02:34:19,680
+if you have to take an integer output
+an integer input from the keyword, right?
+
+2291
+02:34:19,880 --> 02:34:23,000
+So you guys will find you see
+
+2292
+02:34:24,120 --> 02:34:26,280
+all of this logic, all of this logic.
+
+2293
+02:34:27,520 --> 02:34:28,800
+And inside
+
+2294
+02:34:28,800 --> 02:34:30,960
+a class, inside this class there are
+
+2295
+02:34:32,240 --> 02:34:35,520
+2000 hundred and 18 lines of code.
+
+2296
+02:34:35,520 --> 02:34:36,160
+Okay?
+
+2297
+02:34:37,120 --> 02:34:41,280
+And you guys can see
+you can take next decimal in here
+
+2298
+02:34:42,120 --> 02:34:44,280
+and let me find out
+
+2299
+02:34:44,280 --> 02:35:01,560
+the next integer for you.
+
+2300
+02:35:01,560 --> 02:35:04,320
+So here is your method.
+
+2301
+02:35:04,680 --> 02:35:07,000
+So you get this next input.
+
+2302
+02:35:07,080 --> 02:35:09,720
+You have only 138
+lines of code first, then
+
+2303
+02:35:10,840 --> 02:35:12,480
+let's make sure
+
+2304
+02:35:13,200 --> 02:35:15,880
+you are inside the scanner class
+
+2305
+02:35:15,880 --> 02:35:18,360
+that is defined inside the JDK.
+
+2306
+02:35:18,920 --> 02:35:22,920
+Please do not scare us.
+
+2307
+02:35:22,920 --> 02:35:27,000
+Who asked this question that that's
+how we will be building the classes.
+
+2308
+02:35:27,480 --> 02:35:29,640
+You guys please blame that That student.
+
+2309
+02:35:29,760 --> 02:35:30,120
+Okay.
+
+2310
+02:35:30,120 --> 02:35:34,240
+Don't blame me.
+
+2311
+02:35:34,240 --> 02:35:38,520
+So this is the logic
+
+2312
+02:35:38,920 --> 02:35:42,720
+to take
+the integer inputs from the keyboard.
+
+2313
+02:35:42,720 --> 02:35:43,320
+Okay.
+
+2314
+02:35:43,520 --> 02:35:46,280
+And you call this method next integer.
+
+2315
+02:35:46,560 --> 02:35:51,480
+You create the scanner object,
+you call this scanner dot next and.
+
+2316
+02:35:51,480 --> 02:35:55,680
+And that's
+how with the help of this logic,
+
+2317
+02:35:55,680 --> 02:35:58,680
+you guys are able to take the input
+from the keyboard.
+
+2318
+02:35:58,680 --> 02:36:03,200
+Now, all of the logic has been inside
+this next integer method.
+
+2319
+02:36:03,600 --> 02:36:08,160
+If you have to take a boolean, you have a
+you have a separate method.
+
+2320
+02:36:08,160 --> 02:36:14,040
+Okay, So let's say, for example,
+and someone has written a lot before to
+
+2321
+02:36:15,240 --> 02:36:17,680
+let me find it next
+
+2322
+02:36:22,080 --> 02:36:23,520
+boolean.
+
+2323
+02:36:24,280 --> 02:36:27,040
+Okay, here is the next boolean.
+
+2324
+02:36:27,040 --> 02:36:32,440
+So again, someone has written some for me
+inside different
+
+2325
+02:36:32,440 --> 02:36:37,040
+different methods dividing the problem
+further and divide and conquer.
+
+2326
+02:36:37,040 --> 02:36:37,640
+Okay.
+
+2327
+02:36:38,040 --> 02:36:40,320
+And then they have written different
+different logics.
+
+2328
+02:36:40,680 --> 02:36:43,200
+So right now we have learned a very simple
+
+2329
+02:36:44,600 --> 02:36:46,680
+way of creating a class
+
+2330
+02:36:46,680 --> 02:36:50,400
+and then defining a logic and,
+then having a properties.
+
+2331
+02:36:50,400 --> 02:36:54,880
+But I explicitly went
+I intentionally ran to.
+
+2332
+02:36:54,920 --> 02:36:59,840
+So you used those examples,
+those simple examples.
+
+2333
+02:36:59,840 --> 02:37:01,240
+But this is the goal.
+
+2334
+02:37:01,240 --> 02:37:03,960
+This is what we will be doing
+with the help of classes.
+
+2335
+02:37:04,960 --> 02:37:07,480
+This is how you guys
+will be building your frameworks.
+
+2336
+02:37:08,040 --> 02:37:08,640
+Okay?
+
+2337
+02:37:08,640 --> 02:37:14,120
+If You have to open a browser,
+you will define a class, you will say open
+
+2338
+02:37:14,120 --> 02:37:17,400
+browser class,
+you will define a method, open Chrome,
+
+2339
+02:37:17,400 --> 02:37:20,480
+open Firefox, open it, i.e.
+
+2340
+02:37:21,600 --> 02:37:22,320
+Inside these
+
+2341
+02:37:22,320 --> 02:37:24,800
+methods you will write logic
+to open and Google Chrome.
+
+2342
+02:37:25,360 --> 02:37:29,400
+Then you will write a method
+to move to a specific website.
+
+2343
+02:37:29,400 --> 02:37:32,160
+You will write a method
+to click on different different buttons,
+
+2344
+02:37:32,160 --> 02:37:34,920
+getting the output interacting
+with that side.
+
+2345
+02:37:35,280 --> 02:37:39,560
+That's how you guys will be building
+your name books.
+
+2346
+02:37:39,560 --> 02:37:42,920
+Yeah. So it's just a stock.
+
+2347
+02:37:42,920 --> 02:37:45,880
+Is it clear
+how you guys will be using these classes,
+
+2348
+02:37:45,880 --> 02:37:48,840
+methods, properties
+
+2349
+02:37:51,600 --> 02:37:53,960
+and so, so
+
+2350
+02:37:57,480 --> 02:37:58,360
+don't worry,
+
+2351
+02:37:58,360 --> 02:38:01,560
+you guys will start building
+your framework after selenium.
+
+2352
+02:38:01,560 --> 02:38:06,480
+So if just one month, then you please
+show us again how to go in again
+
+2353
+02:38:07,600 --> 02:38:09,560
+order to undo defined
+
+2354
+02:38:09,560 --> 02:38:12,600
+command is control S or X control S?
+
+2355
+02:38:13,160 --> 02:38:14,160
+Yes, I think so.
+
+2356
+02:38:14,160 --> 02:38:16,240
+But my opinion going to blow up.
+
+2357
+02:38:16,240 --> 02:38:18,120
+Don't worry, it will not blow up.
+
+2358
+02:38:19,120 --> 02:38:21,200
+These are just dramas.
+
+2359
+02:38:21,200 --> 02:38:25,080
+I know.
+
+2360
+02:38:25,080 --> 02:38:26,840
+I did not go there.
+
+2361
+02:38:26,840 --> 02:38:29,840
+One they do work in the
+
+2362
+02:38:30,280 --> 02:38:32,400
+So you hold down your control
+
+2363
+02:38:32,400 --> 02:38:34,240
+and then press f
+
+2364
+02:38:36,880 --> 02:38:39,360
+I feel more relaxed today.
+
+2365
+02:38:39,360 --> 02:38:42,320
+Thank you for going slow
+and reading our questions.
+
+2366
+02:38:42,400 --> 02:38:45,160
+No, don't worry
+if you guys have any other suggestions
+
+2367
+02:38:45,800 --> 02:38:48,360
+that you want me to do.
+
+2368
+02:38:48,360 --> 02:38:50,480
+You guys can also tell me those ideas
+
+2369
+02:38:50,480 --> 02:38:54,960
+and then I will try to learn concrete
+from the next class.
+
+2370
+02:38:54,960 --> 02:38:59,400
+Do other values complain to
+or just us and these dramas?
+
+2371
+02:38:59,520 --> 02:39:03,320
+Yes, everyone does knows
+the industrial dramas.
+
+2372
+02:39:03,720 --> 02:39:04,880
+Don't worry
+
+2373
+02:39:05,640 --> 02:39:07,080
+all Bachi advice.
+
+2374
+02:39:07,080 --> 02:39:08,520
+They used to tell me who was there.
+
+2375
+02:39:08,520 --> 02:39:10,320
+We are about to jump from the window.
+
+2376
+02:39:10,320 --> 02:39:14,640
+What you have shown us how we will
+be able to do that blah, blah, blah.
+
+2377
+02:39:14,640 --> 02:39:16,560
+All of them. They are doing their job now.
+
+2378
+02:39:17,720 --> 02:39:20,000
+So after you press control F,
+
+2379
+02:39:20,360 --> 02:39:26,200
+then you can type anything
+that you want to search for on this file.
+
+2380
+02:39:26,200 --> 02:39:26,640
+Okay.
+
+2381
+02:39:26,680 --> 02:39:29,280
+And those
+who are still unable to get in here,
+
+2382
+02:39:30,320 --> 02:39:32,000
+let me close this.
+
+2383
+02:39:32,000 --> 02:39:36,560
+So there are multiple ways you can right
+click on the name of the class.
+
+2384
+02:39:36,560 --> 02:39:38,720
+You can click on Open Declaration,
+
+2385
+02:39:39,680 --> 02:39:41,880
+and then you guys should see
+
+2386
+02:39:41,880 --> 02:39:44,240
+that class in here
+
+2387
+02:39:47,000 --> 02:39:49,200
+is not
+
+2388
+02:39:52,400 --> 02:39:57,840
+complex. Yes,
+
+2389
+02:39:59,000 --> 02:40:01,120
+I need to place the part.
+
+2390
+02:40:01,160 --> 02:40:04,040
+Yes, you guys need to place
+the part of your JRD.
+
+2391
+02:40:04,040 --> 02:40:08,880
+So you remember you guys installed
+that in JDK in the start of Java classes.
+
+2392
+02:40:09,600 --> 02:40:14,760
+So so for example, in our in Windows
+
+2393
+02:40:19,040 --> 02:40:20,480
+and those so
+
+2394
+02:40:20,480 --> 02:40:27,160
+most of you will be having your Java
+
+2395
+02:40:32,560 --> 02:40:36,960
+inside C inside program files, then Java
+
+2396
+02:40:37,800 --> 02:40:45,280
+and there you have basically
+you have to give this part to the page.
+
+2397
+02:40:45,280 --> 02:40:49,640
+So here you import scanner just to show us
+then that have nothing to do
+
+2398
+02:40:49,640 --> 02:40:51,200
+with the task of the amount.
+
+2399
+02:40:51,200 --> 02:40:53,520
+Yes. And I, I'm just
+
+2400
+02:40:55,240 --> 02:40:56,560
+use their standard
+
+2401
+02:40:56,560 --> 02:40:59,120
+class to show you a real life example.
+
+2402
+02:40:59,600 --> 02:41:01,920
+When I watched that YouTube video today
+
+2403
+02:41:02,160 --> 02:41:07,080
+and the comments out there
+that everyone was so happy with the video,
+
+2404
+02:41:07,080 --> 02:41:12,480
+I thought I was the only one
+who didn't look at it.
+
+2405
+02:41:12,480 --> 02:41:15,040
+Yes, that's true.
+Do you understand it now?
+
+2406
+02:41:15,240 --> 02:41:18,640
+So now I want you to go back
+and watch that video again.
+
+2407
+02:41:18,960 --> 02:41:21,360
+And now everything will make sense.
+
+2408
+02:41:21,400 --> 02:41:23,160
+Should make sense.
+
+2409
+02:41:23,280 --> 02:41:25,360
+You saw that part. It's not that.
+
+2410
+02:41:25,360 --> 02:41:32,960
+It's all about explaining.
+
+2411
+02:41:32,960 --> 02:41:37,040
+So we have only the element of blooming.
+
+2412
+02:41:37,080 --> 02:41:37,640
+That's
+
+2413
+02:41:41,360 --> 02:41:42,320
+what I will be sharing.
+
+2414
+02:41:42,320 --> 02:41:45,080
+B This slide
+
+2415
+02:41:46,040 --> 02:41:48,960
+and the next ones for the next class.
+
+2416
+02:41:48,960 --> 02:41:52,080
+And I want you to read those slides
+before the class
+
+2417
+02:41:52,840 --> 02:41:54,400
+and I will try to find it easier.
+
+2418
+02:41:54,400 --> 02:41:56,520
+The videos from next time.
+
+2419
+02:41:56,520 --> 02:41:58,800
+Okay, I will try to find easier videos
+
+2420
+02:42:00,360 --> 02:42:02,000
+and we will recap this
+
+2421
+02:42:02,000 --> 02:42:06,120
+class in all those lives in the
+in the next class.
+
+2422
+02:42:06,120 --> 02:42:08,360
+Okay. So don't worry
+
+2423
+02:42:09,120 --> 02:42:12,000
+now. He was moving
+
+2424
+02:42:13,600 --> 02:42:15,080
+for 10 p.m.
+
+2425
+02:42:15,080 --> 02:42:17,280
+is the British
+
+2426
+02:42:20,320 --> 02:42:21,040
+holidays.
+
+2427
+02:42:21,040 --> 02:42:25,440
+If you have any questions
+and post in the sports
+
+2428
+02:42:25,560 --> 02:42:28,640
+channel and
+
+2429
+02:42:28,640 --> 02:42:31,440
+I will be, make sure you complete
+
+2430
+02:42:31,440 --> 02:42:34,160
+your project before tomorrow's class.
+
+2431
+02:42:34,840 --> 02:42:37,440
+And from now on I will be sharing
+
+2432
+02:42:37,920 --> 02:42:40,680
+videos and slides
+
+2433
+02:42:40,680 --> 02:42:41,880
+at least
+
+2434
+02:42:42,800 --> 02:42:46,080
+3 to 5 hours before the class,
+although I will try to share them
+
+2435
+02:42:46,600 --> 02:42:49,320
+one day before the class and
+
+2436
+02:42:50,800 --> 02:42:53,760
+try to have a look
+at those slides and videos.
+
+2437
+02:42:54,040 --> 02:42:56,280
+We wish course to get out from this class.
+
+2438
+02:42:56,280 --> 02:43:01,360
+Yes, from now on, all of you should push
+all of the code to the GitHub.
+
+2439
+02:43:02,400 --> 02:43:04,360
+Anyone knows how to look at program
+
+2440
+02:43:04,360 --> 02:43:09,440
+files on Mac.
+
+2441
+02:43:09,440 --> 02:43:11,840
+So I posted this for dinner.
+
+2442
+02:43:11,840 --> 02:43:12,960
+Maybe a class knows
+
+2443
+02:43:14,280 --> 02:43:15,640
+how to find out that
+
+2444
+02:43:15,640 --> 02:43:20,560
+rule of five.
+
+2445
+02:43:20,560 --> 02:43:24,440
+All our guys
+take some of us and exploit it today.
+
+2446
+02:43:25,480 --> 02:43:28,640
+I see you tomorrow.
+
+2447
+02:43:28,640 --> 02:43:29,920
+Oh yes.
+
+2448
+02:43:29,920 --> 02:43:31,840
+There are hundreds
+
+2449
+02:43:34,360 --> 02:43:37,160
+of yes here are be homeless
+
+2450
+02:43:47,600 --> 02:43:50,200
+let me poster of course announce
+
+2451
+02:43:52,400 --> 02:43:54,280
+I have posted people out
+
+2452
+02:43:54,280 --> 02:43:57,960
+homeworks and equals task one does
+
+2453
+02:44:04,040 --> 02:44:05,040
+on our guys. Bye.
+
+2454
+02:44:05,040 --> 02:44:07,200
+I take some of this
+
+2455
+02:44:09,720 --> 02:44:13,160
+and board and push for will do today
+
+2456
+02:44:13,480 --> 02:44:16,960
+I will be pushing all of the code
+
+2457
+02:44:16,960 --> 02:44:19,560
+now when we start using intelligence
+
+2458
+02:44:19,840 --> 02:44:22,800
+okay I will combine all the code
+from all the classes.
+
+2459
+02:44:22,800 --> 02:44:27,760
+I will push it on the Google on GitHub,
+and then you guys will be able
+
+2460
+02:44:27,760 --> 02:44:37,200
+to see all the codes on the data.
+
+2461
+02:44:37,200 --> 02:44:39,600
+What is the due date for the task?
+
+2462
+02:44:39,600 --> 02:44:41,360
+The due date is Saturday
+
+2463
+02:44:42,360 --> 02:44:42,920
+this coming
+
+2464
+02:44:42,920 --> 02:44:51,120
+Saturday.

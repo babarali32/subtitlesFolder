@@ -1,0 +1,9845 @@
+﻿1
+00:00:15,160 --> 00:00:17,360
+All right, guys, let's get started.
+
+2
+00:00:17,400 --> 00:00:21,120
+I think we have enough people already.
+
+3
+00:00:21,320 --> 00:00:21,920
+All right.
+
+4
+00:00:23,040 --> 00:00:24,480
+Good morning, everybody.
+
+5
+00:00:24,480 --> 00:00:27,400
+Always everybody doing, guys
+
+6
+00:00:27,400 --> 00:00:30,640
+as everybody feeling what's going on.
+
+7
+00:00:31,600 --> 00:00:33,200
+Everyone is good.
+
+8
+00:00:33,200 --> 00:00:36,720
+I hope everyone completed the homework.
+
+9
+00:00:42,000 --> 00:00:42,560
+I'm good.
+
+10
+00:00:42,560 --> 00:00:45,120
+Thank you.
+
+11
+00:00:48,480 --> 00:00:48,960
+Okay.
+
+12
+00:00:48,960 --> 00:00:51,080
+Any issues with the homework, guys
+
+13
+00:00:52,920 --> 00:00:55,920
+that we went through?
+
+14
+00:00:55,920 --> 00:00:58,440
+Any. Any issues
+
+15
+00:00:58,440 --> 00:01:00,840
+with the topics that we've covered before?
+
+16
+00:01:01,760 --> 00:01:02,480
+All good.
+
+17
+00:01:02,480 --> 00:01:06,040
+Hopefully.
+
+18
+00:01:09,480 --> 00:01:10,560
+Okay, good.
+
+19
+00:01:10,560 --> 00:01:13,040
+So let's do a recap
+
+20
+00:01:13,040 --> 00:01:15,040
+of what we've done
+
+21
+00:01:17,000 --> 00:01:19,440
+in the last class.
+
+22
+00:01:19,440 --> 00:01:20,640
+Okay.
+
+23
+00:01:20,640 --> 00:01:21,480
+What did we cover?
+
+24
+00:01:21,480 --> 00:01:24,440
+Last class, guys?
+
+25
+00:01:28,160 --> 00:01:28,400
+Okay.
+
+26
+00:01:28,400 --> 00:01:31,680
+Well covered alerts and frames. Right.
+
+27
+00:01:31,680 --> 00:01:34,080
+Okay,
+So what do we know about alerts, guys?
+
+28
+00:01:34,400 --> 00:01:37,320
+What is an alert?
+
+29
+00:01:41,080 --> 00:01:43,680
+It's a pop up notification, right?
+
+30
+00:01:43,800 --> 00:01:46,480
+Okay.
+
+31
+00:01:49,040 --> 00:01:49,680
+What does it do?
+
+32
+00:01:49,680 --> 00:01:53,160
+So it's a notification or a pop up
+right on the web?
+
+33
+00:01:53,520 --> 00:01:55,560
+On the Web page. What does it do, guys?
+
+34
+00:01:57,600 --> 00:01:58,400
+It takes our
+
+35
+00:01:58,400 --> 00:02:01,960
+focus away from the main page, right?
+
+36
+00:02:02,560 --> 00:02:05,560
+It informs it about something
+or asks for an input.
+
+37
+00:02:06,560 --> 00:02:10,200
+It takes the focus from our main page.
+
+38
+00:02:10,240 --> 00:02:11,680
+Okay, good.
+
+39
+00:02:11,920 --> 00:02:14,720
+What kind of.
+
+40
+00:02:14,720 --> 00:02:17,280
+And we can't do anything
+until we close it, right?
+
+41
+00:02:17,280 --> 00:02:19,560
+Or until we handle it.
+
+42
+00:02:20,480 --> 00:02:23,520
+Okay,
+so how many types of alerts do we know?
+
+43
+00:02:23,520 --> 00:02:25,800
+Guys?
+
+44
+00:02:30,280 --> 00:02:32,840
+Three types of.
+
+45
+00:02:33,840 --> 00:02:36,640
+Okay, so we've got
+
+46
+00:02:37,400 --> 00:02:38,840
+Web based alerts.
+
+47
+00:02:38,840 --> 00:02:39,440
+Right.
+
+48
+00:02:39,440 --> 00:02:44,360
+JavaScript alerts and Windows
+based alerts.
+
+49
+00:02:44,680 --> 00:02:45,400
+Right.
+
+50
+00:02:45,720 --> 00:02:46,080
+Okay.
+
+51
+00:02:46,080 --> 00:02:48,520
+So how do we handle the Web based
+alerts, guys?
+
+52
+00:03:03,600 --> 00:03:05,600
+We can simply inspected.
+
+53
+00:03:05,600 --> 00:03:06,080
+Right.
+
+54
+00:03:06,080 --> 00:03:09,800
+Because it takes the focus
+from the main page,
+
+55
+00:03:09,800 --> 00:03:14,840
+but we don't have to switch to it or
+we don't have to use any different tools.
+
+56
+00:03:14,840 --> 00:03:15,160
+Right.
+
+57
+00:03:15,160 --> 00:03:18,720
+So we're simply inspected
+because it's a part of our main page
+
+58
+00:03:19,320 --> 00:03:21,960
+and we don't need to switch to it.
+
+59
+00:03:22,000 --> 00:03:23,520
+Right. Okay, good.
+
+60
+00:03:25,120 --> 00:03:28,000
+What about the Windows based alerts, guys?
+
+61
+00:03:28,320 --> 00:03:31,640
+How do we handle those?
+
+62
+00:03:36,320 --> 00:03:38,480
+We cannot write by using Sylvania.
+
+63
+00:03:38,480 --> 00:03:43,840
+We won't be able to handle the Windows
+based alerts.
+
+64
+00:03:44,040 --> 00:03:46,400
+Okay. All right, good.
+
+65
+00:03:46,400 --> 00:03:49,720
+So now let's get into the JavaScript
+alerts, guys.
+
+66
+00:03:49,960 --> 00:03:52,440
+How do we handle those
+
+67
+00:03:56,040 --> 00:03:57,120
+using the methods?
+
+68
+00:03:57,120 --> 00:03:58,040
+Okay.
+
+69
+00:03:58,520 --> 00:04:00,960
+How do we handle
+
+70
+00:04:02,520 --> 00:04:05,840
+JavaScript alerts in selenium?
+
+71
+00:04:05,880 --> 00:04:06,720
+Switch to it.
+
+72
+00:04:06,720 --> 00:04:10,240
+Except dismiss this for that.
+
+73
+00:04:10,280 --> 00:04:12,840
+What do we use guys
+
+74
+00:04:18,320 --> 00:04:19,680
+using switch method?
+
+75
+00:04:19,680 --> 00:04:22,560
+Okay. What else, guys?
+
+76
+00:04:22,560 --> 00:04:27,120
+I think I put it in the notes
+as an interview question last time.
+
+77
+00:04:27,120 --> 00:04:33,200
+If I'm not mistaken,
+we use an alert interface right?
+
+78
+00:04:33,200 --> 00:04:34,880
+To handle the JavaScript alert.
+
+79
+00:04:34,880 --> 00:04:37,600
+In selenium, we use alert interface.
+
+80
+00:04:38,160 --> 00:04:38,480
+Right.
+
+81
+00:04:38,480 --> 00:04:44,120
+So using alert interface,
+then switching to that alert, accepting,
+
+82
+00:04:44,120 --> 00:04:47,160
+dismissing, right, getting the text or
+
+83
+00:04:47,640 --> 00:04:51,200
+depending on what kind of alert
+it is with handle that alert.
+
+84
+00:04:51,240 --> 00:04:51,840
+Right.
+
+85
+00:04:51,840 --> 00:04:57,440
+So how many types of JavaScript
+alerts do we know about guys?
+
+86
+00:04:58,680 --> 00:05:00,240
+Three types.
+
+87
+00:05:00,600 --> 00:05:01,200
+Okay.
+
+88
+00:05:01,200 --> 00:05:04,760
+What are those three types?
+
+89
+00:05:07,200 --> 00:05:08,480
+Simple Alert.
+
+90
+00:05:08,480 --> 00:05:11,520
+Confirmation alert and prompt.
+
+91
+00:05:11,520 --> 00:05:12,720
+Alert. Right.
+
+92
+00:05:12,720 --> 00:05:13,200
+Okay.
+
+93
+00:05:13,200 --> 00:05:17,240
+What can we do in the simple alert, guys?
+
+94
+00:05:21,000 --> 00:05:21,880
+We can just click.
+
+95
+00:05:21,880 --> 00:05:23,040
+Okay. What else?
+
+96
+00:05:23,040 --> 00:05:26,160
+Anything else
+we can do in the Simple alert? Guys
+
+97
+00:05:32,400 --> 00:05:33,680
+now or. Yes.
+
+98
+00:05:33,680 --> 00:05:35,760
+So some people say get attacks.
+
+99
+00:05:36,360 --> 00:05:37,560
+Is it.
+
+100
+00:05:38,160 --> 00:05:40,920
+Can we do.
+
+101
+00:05:42,840 --> 00:05:45,520
+Can we get the text from the simple alert
+
+102
+00:05:45,520 --> 00:05:54,120
+guys or no.
+
+103
+00:05:54,520 --> 00:05:57,120
+Why not? Guys?
+
+104
+00:05:57,760 --> 00:06:01,640
+Why can we get the text
+from the simple alert?
+
+105
+00:06:05,680 --> 00:06:08,760
+So if I click in here,
+
+106
+00:06:08,760 --> 00:06:11,360
+why can't I get this one?
+
+107
+00:06:11,360 --> 00:06:12,360
+It's a simple alert.
+
+108
+00:06:12,360 --> 00:06:12,880
+Right.
+
+109
+00:06:13,960 --> 00:06:15,920
+So that means we can get
+
+110
+00:06:15,920 --> 00:06:18,760
+the text from the simple alert as well.
+
+111
+00:06:19,200 --> 00:06:19,920
+Okay.
+
+112
+00:06:19,920 --> 00:06:20,760
+If we don't
+
+113
+00:06:20,760 --> 00:06:24,640
+if we didn't do it in the last class,
+guys, that doesn't mean we can not do it.
+
+114
+00:06:24,640 --> 00:06:25,320
+Okay.
+
+115
+00:06:25,320 --> 00:06:29,160
+So you need to pay attention
+on what we've got on the message.
+
+116
+00:06:29,880 --> 00:06:34,200
+If you have a message,
+you can have, you can get the text.
+
+117
+00:06:34,480 --> 00:06:36,120
+Okay.
+
+118
+00:06:37,800 --> 00:06:38,320
+All right.
+
+119
+00:06:38,320 --> 00:06:40,400
+What about the confirmation alert, guys?
+
+120
+00:06:40,680 --> 00:06:43,640
+What can we do in there?
+
+121
+00:06:44,560 --> 00:06:46,200
+Cancel or click. Okay.
+
+122
+00:06:46,200 --> 00:06:51,120
+Can we get the text, guys?
+
+123
+00:06:51,120 --> 00:06:53,320
+We can get the text from there
+as well. Right.
+
+124
+00:06:53,320 --> 00:06:55,240
+Okay, good.
+
+125
+00:06:55,240 --> 00:06:55,760
+All right.
+
+126
+00:06:55,760 --> 00:06:57,960
+What about the prompt alert
+
+127
+00:07:00,960 --> 00:07:02,040
+and the prompt alert?
+
+128
+00:07:02,040 --> 00:07:05,280
+We can enter the text,
+
+129
+00:07:05,440 --> 00:07:08,440
+send keys, accept or dismiss.
+
+130
+00:07:09,520 --> 00:07:09,880
+Right.
+
+131
+00:07:09,880 --> 00:07:12,120
+And can we get the text?
+
+132
+00:07:12,120 --> 00:07:14,240
+Guys?
+
+133
+00:07:18,600 --> 00:07:20,760
+So if I click on the prompt alert
+
+134
+00:07:20,760 --> 00:07:24,120
+and if I get the text here,
+which text is it
+
+135
+00:07:24,120 --> 00:07:26,840
+going to return me?
+
+136
+00:07:29,520 --> 00:07:30,760
+Enter your name.
+
+137
+00:07:30,760 --> 00:07:32,760
+Right. Okay, good.
+
+138
+00:07:32,760 --> 00:07:33,720
+All right.
+
+139
+00:07:34,920 --> 00:07:35,760
+Okay.
+
+140
+00:07:36,120 --> 00:07:40,520
+So let's jump to the let's jump
+to the frame scores.
+
+141
+00:07:41,120 --> 00:07:43,200
+Okay. What do we know about frames, guys?
+
+142
+00:07:43,200 --> 00:07:52,040
+What is the frame?
+
+143
+00:07:54,840 --> 00:07:55,320
+Frame?
+
+144
+00:07:55,320 --> 00:07:58,880
+It's like separate pages. Okay.
+
+145
+00:07:58,880 --> 00:08:00,120
+Nested web page.
+
+146
+00:08:00,120 --> 00:08:01,560
+Okay.
+
+147
+00:08:02,880 --> 00:08:05,960
+An independent window in our web page.
+
+148
+00:08:06,120 --> 00:08:09,120
+Good frames. A separate window. Okay.
+
+149
+00:08:09,600 --> 00:08:13,960
+So frame is is an email inside?
+
+150
+00:08:14,160 --> 00:08:16,520
+Another email, right?
+Okay. That's very good.
+
+151
+00:08:16,920 --> 00:08:21,360
+Okay, So it's a separate
+and an independent window in a web page.
+
+152
+00:08:21,840 --> 00:08:22,560
+Right.
+
+153
+00:08:22,880 --> 00:08:26,960
+So it allows developers
+to present different, different
+
+154
+00:08:27,280 --> 00:08:31,160
+or multiple views in the same page.
+
+155
+00:08:32,520 --> 00:08:34,640
+Right. Okay.
+
+156
+00:08:34,640 --> 00:08:37,280
+So how how can we interact
+
+157
+00:08:37,280 --> 00:08:40,840
+or how can we handle the frames?
+
+158
+00:08:41,960 --> 00:08:45,480
+How many ways can we actually interact
+with frames, guys?
+
+159
+00:08:47,400 --> 00:08:51,040
+Three ways.
+
+160
+00:08:51,040 --> 00:08:52,320
+Which are
+
+161
+00:08:53,760 --> 00:08:56,280
+set by index, by name
+
+162
+00:08:56,280 --> 00:08:59,800
+or ID and by web element.
+
+163
+00:09:00,080 --> 00:09:02,040
+Right. Okay. That's very good.
+
+164
+00:09:02,040 --> 00:09:07,600
+Okay, So in order to handle those
+or to interact with the frames
+
+165
+00:09:08,120 --> 00:09:11,880
+by index name
+or ID or web element, what else
+
+166
+00:09:11,880 --> 00:09:19,320
+do we need to do?
+
+167
+00:09:22,560 --> 00:09:24,240
+We need to switch, right?
+
+168
+00:09:24,240 --> 00:09:25,880
+We need to switch to the frames
+
+169
+00:09:25,880 --> 00:09:29,440
+so that we can interact with the elements
+inside that.
+
+170
+00:09:29,760 --> 00:09:30,760
+Okay.
+
+171
+00:09:30,800 --> 00:09:33,600
+So what if
+
+172
+00:09:33,680 --> 00:09:35,280
+I switch into the frame
+
+173
+00:09:35,280 --> 00:09:38,720
+and then I want to interact
+with these elements?
+
+174
+00:09:38,720 --> 00:09:39,960
+Guys on the very top?
+
+175
+00:09:39,960 --> 00:09:45,360
+What I need to do,
+
+176
+00:09:45,360 --> 00:09:49,080
+we need to switch
+back to the default content.
+
+177
+00:09:49,120 --> 00:09:49,440
+Right?
+
+178
+00:09:49,440 --> 00:09:53,840
+So you have to manually switch
+inside the frame
+
+179
+00:09:54,000 --> 00:09:56,440
+and get outside of the frame.
+
+180
+00:09:56,840 --> 00:09:57,800
+Okay.
+
+181
+00:09:58,480 --> 00:10:00,760
+All right. Any questions, guys?
+
+182
+00:10:00,760 --> 00:10:03,600
+Any questions on how to handle alerts or
+
+183
+00:10:03,600 --> 00:10:06,720
+how to handle frames?
+
+184
+00:10:09,640 --> 00:10:13,200
+Okay, All clear.
+
+185
+00:10:13,480 --> 00:10:16,400
+It's good. Okay.
+
+186
+00:10:16,400 --> 00:10:19,800
+So today, guys, what we going to be doing
+today
+
+187
+00:10:20,160 --> 00:10:22,600
+is we will be going over
+
+188
+00:10:23,840 --> 00:10:25,040
+the windows.
+
+189
+00:10:25,040 --> 00:10:25,400
+Okay.
+
+190
+00:10:25,400 --> 00:10:29,360
+We will be going how to handle
+multiple windows
+
+191
+00:10:29,400 --> 00:10:33,600
+or multiple tabs in the inside the crawl.
+
+192
+00:10:34,000 --> 00:10:34,840
+Okay.
+
+193
+00:10:34,880 --> 00:10:37,560
+So what I want you to do today,
+
+194
+00:10:37,560 --> 00:10:40,600
+guys, is try not to type, okay?
+
+195
+00:10:40,680 --> 00:10:41,520
+Try to listen.
+
+196
+00:10:41,520 --> 00:10:44,960
+What I'm going to explain
+because it's going to get a little bit
+
+197
+00:10:45,680 --> 00:10:48,000
+a little bit confused in the middle.
+
+198
+00:10:48,160 --> 00:10:48,920
+Okay.
+
+199
+00:10:48,960 --> 00:10:49,640
+So that's why
+
+200
+00:10:49,640 --> 00:10:53,760
+I want you guys to listen first
+and then you can type your code any time.
+
+201
+00:10:53,760 --> 00:10:55,880
+I'll give you time. Okay.
+
+202
+00:10:55,880 --> 00:10:58,440
+Is that good, guys? I hope that's good.
+
+203
+00:10:59,960 --> 00:11:01,920
+And let's get started.
+
+204
+00:11:01,920 --> 00:11:02,640
+Right.
+
+205
+00:11:02,720 --> 00:11:07,120
+Okay,
+so let me go back to the intelligence.
+
+206
+00:11:07,160 --> 00:11:09,840
+I'm going to create a new
+
+207
+00:11:10,040 --> 00:11:17,240
+note file.
+
+208
+00:11:18,000 --> 00:11:18,680
+Are we?
+
+209
+00:11:18,680 --> 00:11:21,480
+We're almost there, guys.
+
+210
+00:11:21,480 --> 00:11:23,120
+It's seventh class.
+
+211
+00:11:23,120 --> 00:11:25,200
+We've got, like,
+four more or something. And then.
+
+212
+00:11:25,480 --> 00:11:27,520
+Then we're going to be done
+
+213
+00:11:39,720 --> 00:11:40,560
+total.
+
+214
+00:11:40,560 --> 00:11:41,040
+I'm not sure.
+
+215
+00:11:41,040 --> 00:11:45,720
+I think total is 11 or 12.
+
+216
+00:11:48,840 --> 00:11:51,280
+Yes, I'll try to push the code
+as much as possible.
+
+217
+00:11:51,280 --> 00:11:55,680
+Okay, guys, today, because you guys
+are going to be listening to
+
+218
+00:11:56,760 --> 00:11:59,520
+this and not typing.
+
+219
+00:11:59,840 --> 00:12:00,560
+All right, guys.
+
+220
+00:12:00,560 --> 00:12:03,000
+So handling
+
+221
+00:12:03,920 --> 00:12:07,080
+multiple windows.
+
+222
+00:12:07,080 --> 00:12:07,880
+Okay.
+
+223
+00:12:08,160 --> 00:12:13,560
+So did anyone first of all, didn't
+want to do a research on how to handle
+
+224
+00:12:13,680 --> 00:12:17,240
+multiple Windows and selenium guys?
+
+225
+00:12:19,200 --> 00:12:20,040
+Okay.
+
+226
+00:12:20,040 --> 00:12:21,360
+What do you know
+
+227
+00:12:23,560 --> 00:12:25,680
+about how do we handle
+
+228
+00:12:25,680 --> 00:12:29,520
+multiple windows in selenium?
+
+229
+00:12:31,080 --> 00:12:32,200
+Okay, a little bit.
+
+230
+00:12:32,200 --> 00:12:34,440
+Okay. Let's see, guys.
+
+231
+00:12:34,440 --> 00:12:35,040
+See what?
+
+232
+00:12:35,040 --> 00:12:35,440
+You guys.
+
+233
+00:12:35,440 --> 00:12:37,920
+Fine.
+
+234
+00:12:37,920 --> 00:12:41,240
+Window handles really good.
+
+235
+00:12:41,400 --> 00:12:43,640
+What else? Get window handles
+
+236
+00:12:46,720 --> 00:12:47,680
+three commands.
+
+237
+00:12:47,680 --> 00:12:50,000
+Get handle handles.
+
+238
+00:12:50,000 --> 00:12:52,720
+Okay, that's fine. Good.
+
+239
+00:12:52,720 --> 00:12:53,920
+Using the iterator.
+
+240
+00:12:53,920 --> 00:12:56,320
+Okay. Sounds good, guys.
+
+241
+00:12:56,320 --> 00:12:59,360
+So in order for us to
+
+242
+00:13:00,600 --> 00:13:04,600
+to handle multiple windows,
+we will be using two different methods.
+
+243
+00:13:05,000 --> 00:13:05,640
+Okay.
+
+244
+00:13:05,640 --> 00:13:10,840
+One of them is get window handle,
+and the other one is get window handles.
+
+245
+00:13:11,240 --> 00:13:11,840
+Okay.
+
+246
+00:13:11,840 --> 00:13:14,160
+And I'll explain to you
+
+247
+00:13:14,400 --> 00:13:15,880
+when to use which one.
+
+248
+00:13:15,880 --> 00:13:18,480
+And I'll explain to you
+what the window handler is.
+
+249
+00:13:18,920 --> 00:13:19,760
+Okay.
+
+250
+00:13:20,880 --> 00:13:23,760
+In order to handle
+
+251
+00:13:26,120 --> 00:13:28,920
+multiple windows,
+
+252
+00:13:28,920 --> 00:13:31,440
+we will be using
+
+253
+00:13:33,760 --> 00:13:36,600
+get a window handle
+
+254
+00:13:36,640 --> 00:13:40,040
+method and get window
+
+255
+00:13:42,000 --> 00:13:43,120
+handles.
+
+256
+00:13:43,360 --> 00:13:43,800
+Okay.
+
+257
+00:13:43,800 --> 00:13:48,160
+So obviously, get window handler
+was going to get you a single handle
+
+258
+00:13:48,360 --> 00:13:52,400
+and get window handles is going to get you
+multiple handles.
+
+259
+00:13:52,560 --> 00:13:53,200
+Okay.
+
+260
+00:13:53,200 --> 00:13:56,120
+So what is a window handle?
+
+261
+00:13:57,200 --> 00:14:00,080
+Window handle is a unique ID
+
+262
+00:14:00,720 --> 00:14:03,360
+that holds that address of the window.
+
+263
+00:14:03,840 --> 00:14:06,040
+Okay. Or a tab.
+
+264
+00:14:06,040 --> 00:14:11,720
+So it is approximately
+or consists of 40 alphanumeric characters.
+
+265
+00:14:12,000 --> 00:14:12,720
+Okay.
+
+266
+00:14:12,720 --> 00:14:17,640
+So basically,
+when I go in here, so let's say
+
+267
+00:14:17,760 --> 00:14:21,400
+I have a chrome in here
+and we navigate it to this web page.
+
+268
+00:14:21,720 --> 00:14:26,600
+So this tab will have its own unique I.D.,
+
+269
+00:14:27,000 --> 00:14:30,120
+which is called a window handle. Okay.
+
+270
+00:14:30,280 --> 00:14:31,640
+We don't see it here.
+
+271
+00:14:31,640 --> 00:14:33,200
+It's behind the scenes.
+
+272
+00:14:33,200 --> 00:14:36,960
+But we will be printing those window
+handles inside our console
+
+273
+00:14:37,160 --> 00:14:40,040
+so that you can
+so that you can see how it looks like.
+
+274
+00:14:40,560 --> 00:14:42,800
+Okay. But here.
+
+275
+00:14:42,800 --> 00:14:45,920
+No, that. Guys, any tab you open
+
+276
+00:14:46,960 --> 00:14:47,680
+in the Chrome
+
+277
+00:14:47,680 --> 00:14:51,360
+browser or whatever browser
+you're using any tab you open.
+
+278
+00:14:51,480 --> 00:14:54,720
+It will have its own unique address,
+
+279
+00:14:55,880 --> 00:14:58,840
+which is called window handle.
+
+280
+00:14:58,840 --> 00:15:01,840
+Any questions on that, guys?
+
+281
+00:15:06,200 --> 00:15:08,040
+So window handle
+
+282
+00:15:08,040 --> 00:15:10,680
+right is a
+
+283
+00:15:14,640 --> 00:15:18,920
+unique I.D.
+
+284
+00:15:18,920 --> 00:15:21,480
+that shows the
+
+285
+00:15:22,840 --> 00:15:27,600
+address of the window or a tab.
+
+286
+00:15:29,000 --> 00:15:30,080
+Okay.
+
+287
+00:15:30,120 --> 00:15:34,160
+And it is approximately
+
+288
+00:15:36,000 --> 00:15:38,640
+is approximately 40
+
+289
+00:15:41,400 --> 00:15:43,520
+of the numeric
+
+290
+00:15:44,560 --> 00:15:45,960
+or their I.D..
+
+291
+00:15:45,960 --> 00:15:46,680
+Okay.
+
+292
+00:15:46,680 --> 00:15:48,800
+So it holds a pretty long I.D..
+
+293
+00:15:49,440 --> 00:15:51,760
+Okay. So we'll take a look at that.
+
+294
+00:15:52,320 --> 00:15:53,000
+All right.
+
+295
+00:15:53,000 --> 00:15:58,440
+So now this is enough from the theory
+that we need to know right now.
+
+296
+00:15:58,800 --> 00:16:02,360
+So now we need to dive
+into the actual implementation.
+
+297
+00:16:02,960 --> 00:16:03,720
+Okay.
+
+298
+00:16:04,040 --> 00:16:06,480
+So what I'm going to do
+
+299
+00:16:06,800 --> 00:16:15,600
+is create another package,
+
+300
+00:16:15,600 --> 00:16:18,600
+and I'm going to create another
+
+301
+00:16:19,840 --> 00:16:20,800
+class.
+
+302
+00:16:21,640 --> 00:16:27,880
+Okay.
+
+303
+00:16:27,880 --> 00:16:29,960
+Name it as simple window handling.
+
+304
+00:16:30,920 --> 00:16:31,640
+Okay.
+
+305
+00:16:32,160 --> 00:16:34,520
+And what I'm going to do with the main
+
+306
+00:16:34,520 --> 00:16:37,120
+method in here. So.
+
+307
+00:16:38,520 --> 00:16:41,680
+So what we going to be doing now, guys,
+
+308
+00:16:42,480 --> 00:16:45,760
+let me open up
+that page that we will be interacting
+
+309
+00:16:45,760 --> 00:16:47,840
+with all.
+
+310
+00:16:49,680 --> 00:16:50,400
+Okay.
+
+311
+00:16:50,880 --> 00:16:52,800
+So what we're going to do now, guys,
+
+312
+00:16:52,800 --> 00:16:56,120
+we will be navigating to this Web
+page in here.
+
+313
+00:16:56,520 --> 00:17:00,720
+And what I'm going to do
+is click on this help in here.
+
+314
+00:17:00,960 --> 00:17:01,760
+Okay.
+
+315
+00:17:01,760 --> 00:17:05,640
+So if I click help in here,
+you can see that once I click that,
+
+316
+00:17:05,880 --> 00:17:09,080
+we're going to have a new tab
+open up for us.
+
+317
+00:17:09,520 --> 00:17:10,320
+Okay.
+
+318
+00:17:10,360 --> 00:17:13,200
+So and then what
+we need, what we're going to be doing,
+
+319
+00:17:13,200 --> 00:17:16,000
+we will be switching
+between two different tabs
+
+320
+00:17:16,400 --> 00:17:18,960
+and we will be performing different,
+different actions.
+
+321
+00:17:19,200 --> 00:17:21,680
+Okay. Any questions, guys?
+
+322
+00:17:21,680 --> 00:17:24,440
+Before we get started?
+
+323
+00:17:27,680 --> 00:17:28,520
+Okay.
+
+324
+00:17:29,600 --> 00:17:29,880
+All right.
+
+325
+00:17:29,880 --> 00:17:32,520
+Let's do this right.
+
+326
+00:17:33,240 --> 00:17:37,960
+Let me like this one.
+
+327
+00:17:38,200 --> 00:17:40,320
+That's it.
+
+328
+00:17:40,320 --> 00:17:43,080
+Let's get this copied
+
+329
+00:17:47,200 --> 00:17:48,720
+in here.
+
+330
+00:17:48,720 --> 00:17:53,400
+And I need the.
+
+331
+00:17:53,400 --> 00:17:59,080
+This one of
+
+332
+00:18:00,160 --> 00:18:01,440
+zero.
+
+333
+00:18:02,240 --> 00:18:04,200
+Okay. So this is our URL.
+
+334
+00:18:04,200 --> 00:18:06,920
+We set up the properties when we launched.
+
+335
+00:18:07,120 --> 00:18:09,560
+The browser would navigate to that URL.
+Right.
+
+336
+00:18:09,600 --> 00:18:11,160
+What do I need to do in here, guys?
+
+337
+00:18:11,160 --> 00:18:24,440
+What is my next step?
+
+338
+00:18:27,800 --> 00:18:29,640
+So find the web element.
+
+339
+00:18:29,640 --> 00:18:30,160
+Right?
+
+340
+00:18:30,160 --> 00:18:34,200
+Find the web element
+that I will be interacting with.
+
+341
+00:18:34,680 --> 00:18:36,400
+All right. Let's go here.
+
+342
+00:18:36,400 --> 00:18:38,440
+So we navigate it here.
+
+343
+00:18:38,440 --> 00:18:42,440
+So now let me inspect this page.
+
+344
+00:18:44,240 --> 00:18:45,560
+And what
+
+345
+00:18:45,560 --> 00:18:48,760
+I want to do, I want to click on this.
+
+346
+00:18:49,040 --> 00:18:49,360
+Right.
+
+347
+00:18:49,360 --> 00:18:51,960
+What what is the locator that I can use
+in here?
+
+348
+00:18:52,000 --> 00:18:54,120
+Guys, the easiest one
+
+349
+00:18:58,160 --> 00:18:59,600
+text for Xbox.
+
+350
+00:18:59,600 --> 00:19:02,920
+But if I if I don't want to use Xbox in
+
+351
+00:19:02,920 --> 00:19:11,720
+here, I get.
+
+352
+00:19:11,720 --> 00:19:12,480
+Okay, what else
+
+353
+00:19:16,920 --> 00:19:19,640
+Address.
+
+354
+00:19:19,720 --> 00:19:21,240
+What is the locator, guys?
+
+355
+00:19:21,240 --> 00:19:23,680
+What is the locator
+that I can use in here?
+
+356
+00:19:23,720 --> 00:19:27,160
+Which is the easiest one.
+
+357
+00:19:29,640 --> 00:19:31,320
+This is a trap.
+
+358
+00:19:31,320 --> 00:19:32,680
+What about link text? Guys?
+
+359
+00:19:32,680 --> 00:19:34,000
+Did we forget about the link?
+
+360
+00:19:34,000 --> 00:19:36,440
+Text?
+
+361
+00:19:39,080 --> 00:19:40,640
+Can we use the link text in here?
+
+362
+00:19:40,640 --> 00:19:48,720
+Guys?
+
+363
+00:19:50,280 --> 00:19:50,960
+Easy. Right.
+
+364
+00:19:50,960 --> 00:19:52,920
+So you can use the link text.
+
+365
+00:19:52,920 --> 00:19:56,120
+And you just need this text, right?
+
+366
+00:19:57,560 --> 00:19:59,560
+Yep. You guys did forget about this.
+
+367
+00:19:59,600 --> 00:20:01,360
+Let's not do that. Okay.
+
+368
+00:20:01,360 --> 00:20:02,920
+So I know there's a lot of stuff.
+
+369
+00:20:02,920 --> 00:20:05,200
+I know there's a lot of
+
+370
+00:20:05,520 --> 00:20:07,280
+there's a lot of locators in there.
+
+371
+00:20:07,280 --> 00:20:13,680
+But try to see the optimized way
+to solve the problem.
+
+372
+00:20:13,880 --> 00:20:14,520
+Okay.
+
+373
+00:20:14,520 --> 00:20:16,680
+So we're going to be using a link
+text in here.
+
+374
+00:20:17,400 --> 00:20:19,920
+So obviously, you can do it with X path,
+
+375
+00:20:20,920 --> 00:20:23,320
+probably since we were doing everything
+
+376
+00:20:23,320 --> 00:20:26,120
+by Express
+so that we have a lot of practice.
+
+377
+00:20:26,400 --> 00:20:28,760
+You guys forgot
+about the rest of the locators.
+
+378
+00:20:28,800 --> 00:20:31,080
+Okay, so.
+
+379
+00:20:31,080 --> 00:20:32,400
+But it's okay.
+
+380
+00:20:32,400 --> 00:20:34,280
+All right. So what I will do
+
+381
+00:20:37,120 --> 00:20:39,040
+web element
+
+382
+00:20:39,120 --> 00:20:41,200
+help link is equal to driver
+
+383
+00:20:42,040 --> 00:20:44,120
+sign element by
+
+384
+00:20:45,320 --> 00:20:47,520
+where is that link text?
+
+385
+00:20:47,720 --> 00:20:50,440
+Right.
+And of course the link text in here.
+
+386
+00:20:50,840 --> 00:20:52,640
+Okay, so I have this.
+
+387
+00:20:52,640 --> 00:20:54,400
+Okay.
+
+388
+00:20:54,400 --> 00:20:56,920
+But before I perform any action.
+
+389
+00:20:56,920 --> 00:20:59,560
+So let's perform
+an action as well in here.
+
+390
+00:20:59,560 --> 00:21:00,360
+It doesn't really matter.
+
+391
+00:21:00,360 --> 00:21:03,560
+So help link
+
+392
+00:21:03,600 --> 00:21:04,360
+right
+
+393
+00:21:05,280 --> 00:21:05,840
+click.
+
+394
+00:21:06,160 --> 00:21:06,640
+Okay.
+
+395
+00:21:06,640 --> 00:21:12,080
+So we're clicking on that
+and then our new tab is open
+
+396
+00:21:12,600 --> 00:21:17,080
+right before I go ahead,
+find that element and click on that right.
+
+397
+00:21:17,400 --> 00:21:23,040
+What I want to do, Guy,
+I want to have the handle
+
+398
+00:21:23,160 --> 00:21:26,320
+of the main page that I just navigated to.
+
+399
+00:21:26,880 --> 00:21:27,640
+Okay.
+
+400
+00:21:27,720 --> 00:21:32,040
+So what I'm going to do
+before I find that element and before
+
+401
+00:21:32,040 --> 00:21:34,800
+I click on that element, what I will do,
+
+402
+00:21:35,160 --> 00:21:37,720
+I'll simply go ahead and do driver
+
+403
+00:21:38,240 --> 00:21:41,040
+the get window handle.
+
+404
+00:21:41,760 --> 00:21:42,600
+Okay.
+
+405
+00:21:42,600 --> 00:21:46,640
+So when I do this,
+it will automatically go ahead
+
+406
+00:21:46,640 --> 00:21:49,920
+and capture the address
+
+407
+00:21:50,160 --> 00:21:54,040
+for that exact tab that I just navigate.
+
+408
+00:21:54,840 --> 00:21:55,400
+Okay.
+
+409
+00:21:55,400 --> 00:21:56,040
+Is that clear?
+
+410
+00:21:56,040 --> 00:22:00,960
+Guys?
+
+411
+00:22:00,960 --> 00:22:06,040
+And since I set that,
+it is an alphanumeric value, Right?
+
+412
+00:22:06,440 --> 00:22:09,560
+So where do we store this, guys? Exactly.
+
+413
+00:22:09,600 --> 00:22:10,920
+That's the question for you guys.
+
+414
+00:22:10,920 --> 00:22:14,240
+What am I getting in return?
+
+415
+00:22:15,320 --> 00:22:17,640
+I'm getting a simple string.
+
+416
+00:22:18,000 --> 00:22:20,880
+Right? So let's do this.
+
+417
+00:22:20,880 --> 00:22:23,480
+We can do main page
+
+418
+00:22:23,480 --> 00:22:28,200
+handle is equal to driver dot get window
+handler.
+
+419
+00:22:28,440 --> 00:22:28,760
+Right.
+
+420
+00:22:28,760 --> 00:22:32,560
+So what I'm going to do in here, I'm
+going to go ahead and print it out for you
+
+421
+00:22:32,560 --> 00:22:38,520
+so that you guys can see how actually
+this window handle looks like.
+
+422
+00:22:38,520 --> 00:22:41,440
+Okay, so main page in here.
+
+423
+00:22:42,640 --> 00:22:42,960
+Okay.
+
+424
+00:22:42,960 --> 00:22:44,040
+So let me run this.
+
+425
+00:22:44,040 --> 00:22:47,720
+Actually, let's not click on the Help yet.
+
+426
+00:22:48,360 --> 00:22:51,400
+Let's just see how our window handle
+
+427
+00:22:51,680 --> 00:23:00,680
+looks like.
+
+428
+00:23:00,680 --> 00:23:10,640
+Okay, I'm on.
+
+429
+00:23:12,960 --> 00:23:13,360
+All right.
+
+430
+00:23:13,360 --> 00:23:15,240
+So we're navigating it to this page.
+
+431
+00:23:15,240 --> 00:23:18,520
+So let's go ahead
+and take a look at our console right now.
+
+432
+00:23:18,520 --> 00:23:22,080
+So you can see here, guys, it's very long
+
+433
+00:23:22,440 --> 00:23:25,560
+alphanumeric value in here.
+
+434
+00:23:25,880 --> 00:23:26,400
+Okay.
+
+435
+00:23:26,400 --> 00:23:29,520
+So we don't see this on the on
+the browser.
+
+436
+00:23:29,520 --> 00:23:32,520
+Whenever we're doing something manually,
+we can only see it
+
+437
+00:23:32,520 --> 00:23:35,880
+whenever we are doing some scripting.
+
+438
+00:23:36,240 --> 00:23:38,400
+And whenever you get that window handle
+
+439
+00:23:38,400 --> 00:23:41,320
+and print it out,
+only then you will see it.
+
+440
+00:23:41,320 --> 00:23:46,320
+But most of the time, guys, you won't be
+you won't need to print this out.
+
+441
+00:23:46,520 --> 00:23:50,040
+You just need to get the window
+handle and perform different actions
+
+442
+00:23:50,040 --> 00:23:53,360
+because you will be moving
+through the different different
+
+443
+00:23:53,360 --> 00:23:55,640
+tabs.
+
+444
+00:23:56,560 --> 00:23:58,440
+Yes. It's used for tracking.
+
+445
+00:23:58,440 --> 00:24:02,200
+Yes. Okay.
+
+446
+00:24:02,640 --> 00:24:07,200
+Yes. It's good for you guys
+to see visually how everything looks
+
+447
+00:24:07,200 --> 00:24:10,880
+because you won't really understand
+if you don't see it.
+
+448
+00:24:10,880 --> 00:24:11,520
+Right.
+
+449
+00:24:11,520 --> 00:24:14,640
+So if you just write the code and run it
+and it runs fine,
+
+450
+00:24:14,880 --> 00:24:18,600
+that's not the good thing. But
+
+451
+00:24:20,080 --> 00:24:22,720
+I tried to visually
+show you so that you guys can see,
+
+452
+00:24:22,720 --> 00:24:28,640
+okay, okay, 32 is fine.
+
+453
+00:24:28,640 --> 00:24:32,200
+I said approximately 40, right, guys,
+It doesn't have to be 40.
+
+454
+00:24:32,520 --> 00:24:35,320
+It's almost 40. So.
+
+455
+00:24:37,000 --> 00:24:41,120
+All right,
+so we have the main page window handle.
+
+456
+00:24:41,240 --> 00:24:43,320
+We captured it. We started in the
+
+457
+00:24:44,520 --> 00:24:47,400
+what's called
+in the string variable in here.
+
+458
+00:24:47,400 --> 00:24:49,240
+So let me
+
+459
+00:24:51,680 --> 00:24:53,880
+uncomment this one.
+
+460
+00:24:53,880 --> 00:24:56,160
+Okay.
+
+461
+00:24:56,160 --> 00:24:59,240
+So now what I will do in here.
+
+462
+00:24:59,520 --> 00:25:01,680
+So let's run this.
+
+463
+00:25:01,680 --> 00:25:03,960
+Okay, So let me run this
+
+464
+00:25:03,960 --> 00:25:06,840
+and this is going to open up a different
+
+465
+00:25:08,400 --> 00:25:10,440
+it should open up a different tab, right?
+
+466
+00:25:11,880 --> 00:25:21,840
+Well, this is slow today.
+
+467
+00:25:21,840 --> 00:25:25,040
+Okay. Running
+
+468
+00:25:25,200 --> 00:25:26,560
+here. There we go.
+
+469
+00:25:26,560 --> 00:25:30,560
+So it open up the second tab in here.
+
+470
+00:25:30,560 --> 00:25:33,960
+So what I need to do in here,
+
+471
+00:25:34,800 --> 00:25:38,600
+I need to have all the tabs
+
+472
+00:25:40,600 --> 00:25:42,280
+inside my script
+
+473
+00:25:42,280 --> 00:25:45,360
+so that I can keep switching between them.
+
+474
+00:25:45,960 --> 00:25:49,760
+Okay, so this window handle
+that we just captured,
+
+475
+00:25:49,760 --> 00:25:53,880
+it's only one window
+handle from the main page, Right?
+
+476
+00:25:54,120 --> 00:25:57,200
+So I'm going to need all the window
+handles
+
+477
+00:25:57,600 --> 00:25:59,960
+so that I can keep count
+
+478
+00:26:00,320 --> 00:26:04,800
+or I can keep manipulating them,
+or I can keep switching,
+
+479
+00:26:04,800 --> 00:26:08,400
+or I can close them
+whatever action I want to do.
+
+480
+00:26:08,640 --> 00:26:12,720
+Okay, So the main purpose
+of having the window handles
+
+481
+00:26:13,040 --> 00:26:15,440
+is to keep track of the tabs
+
+482
+00:26:15,920 --> 00:26:19,560
+and to switch through those tabs.
+
+483
+00:26:19,800 --> 00:26:20,520
+Is that clear?
+
+484
+00:26:20,520 --> 00:26:23,840
+Guys, any questions?
+
+485
+00:26:28,920 --> 00:26:31,960
+Okay, so right now in here, guys,
+
+486
+00:26:32,360 --> 00:26:35,640
+what we have, we have two different tabs.
+
+487
+00:26:36,320 --> 00:26:36,920
+Right.
+
+488
+00:26:36,960 --> 00:26:39,200
+So what I want to do in here,
+
+489
+00:26:40,440 --> 00:26:42,720
+I want to capture all the tabs
+
+490
+00:26:42,720 --> 00:26:45,960
+that I have right now on my session.
+
+491
+00:26:46,200 --> 00:26:49,360
+Okay,
+So I open up when I open up a new browser.
+
+492
+00:26:49,640 --> 00:26:50,240
+What?
+
+493
+00:26:50,240 --> 00:26:51,560
+What is this, guys?
+
+494
+00:26:51,560 --> 00:26:53,480
+This is my new session.
+
+495
+00:26:53,480 --> 00:26:59,040
+Okay, so if I closed this the previous
+one, it's a completely different session.
+
+496
+00:26:59,400 --> 00:27:05,080
+Okay, so whatever.
+
+497
+00:27:05,080 --> 00:27:10,680
+Whatever amount of window handles
+I have in the session,
+
+498
+00:27:11,040 --> 00:27:14,720
+I want to store them inside the container.
+
+499
+00:27:15,440 --> 00:27:20,160
+Okay, so the window handle, it changes
+each time.
+
+500
+00:27:20,160 --> 00:27:22,440
+It's not going to change, guys. So
+
+501
+00:27:23,920 --> 00:27:27,120
+this let's say I open this is to
+
+502
+00:27:28,240 --> 00:27:29,960
+tabs that open. Right.
+
+503
+00:27:29,960 --> 00:27:35,720
+So the one that just printed out, it's
+going to be the same
+
+504
+00:27:35,920 --> 00:27:40,680
+through out the same session
+throughout the same execution.
+
+505
+00:27:41,120 --> 00:27:41,880
+Okay.
+
+506
+00:27:42,200 --> 00:27:45,360
+But when you complete your execution
+
+507
+00:27:45,720 --> 00:27:50,400
+and then you open up another Chrome
+browser, it's going to start a new session
+
+508
+00:27:50,400 --> 00:27:52,600
+and it's going to be completely new tab
+
+509
+00:27:52,800 --> 00:27:55,560
+and it's going to be completely new window
+handle.
+
+510
+00:27:56,080 --> 00:27:56,920
+Okay.
+
+511
+00:27:57,720 --> 00:28:01,280
+So this tab has its own window handle
+
+512
+00:28:01,320 --> 00:28:04,600
+and this tab has its own window handle.
+
+513
+00:28:05,040 --> 00:28:05,640
+Okay.
+
+514
+00:28:05,640 --> 00:28:07,720
+Is that clear? Guys
+
+515
+00:28:16,560 --> 00:28:17,920
+know that
+
+516
+00:28:17,920 --> 00:28:21,120
+the window handles,
+they change with the session as well.
+
+517
+00:28:21,960 --> 00:28:24,360
+Okay, so you open up a new session
+
+518
+00:28:25,080 --> 00:28:27,680
+and you tab is going to change your the.
+
+519
+00:28:27,960 --> 00:28:30,040
+It's going to change the window handle.
+
+520
+00:28:30,040 --> 00:28:34,560
+Okay, So if you open up another session
+for the same exact website,
+
+521
+00:28:34,560 --> 00:28:36,720
+it will change the window handle as well.
+
+522
+00:28:37,600 --> 00:28:39,840
+Okay. So it is always dynamic.
+
+523
+00:28:39,840 --> 00:28:44,160
+You don't really know
+what kind of window handle you have.
+
+524
+00:28:46,000 --> 00:28:48,240
+So right now.
+
+525
+00:28:48,240 --> 00:28:51,760
+Okay, guys, since I want to grab all the
+
+526
+00:28:53,400 --> 00:28:56,640
+all the tabs
+and store them inside the container,
+
+527
+00:28:56,640 --> 00:29:01,600
+what I am going to do, I'm going to use
+get window handles method.
+
+528
+00:29:02,000 --> 00:29:02,760
+Okay.
+
+529
+00:29:03,240 --> 00:29:07,320
+So driver, the get window handles
+
+530
+00:29:07,840 --> 00:29:14,520
+which returns us What goes in here?
+
+531
+00:29:14,520 --> 00:29:17,800
+Is it returning to stream? Guys
+
+532
+00:29:18,160 --> 00:29:20,800
+get window handles.
+
+533
+00:29:20,920 --> 00:29:23,080
+It's returning a set of strings.
+
+534
+00:29:23,640 --> 00:29:24,480
+Right.
+
+535
+00:29:24,480 --> 00:29:26,920
+Okay, so what?
+
+536
+00:29:26,920 --> 00:29:31,840
+Why is it not returning me a
+a list of strings?
+
+537
+00:29:31,840 --> 00:29:32,640
+Guys,
+
+538
+00:29:34,080 --> 00:29:36,560
+any guesses on this?
+
+539
+00:29:36,600 --> 00:29:38,800
+Why am I getting a set of strings?
+
+540
+00:29:38,800 --> 00:29:41,360
+Isn't it easier to have
+
+541
+00:29:41,360 --> 00:29:42,920
+less stuff?
+
+542
+00:29:43,880 --> 00:29:45,200
+It should be unique.
+
+543
+00:29:45,200 --> 00:29:46,840
+Absolutely. Right.
+
+544
+00:29:46,840 --> 00:29:51,440
+Because set will not allow duplications.
+
+545
+00:29:51,720 --> 00:29:52,360
+Good.
+
+546
+00:29:52,880 --> 00:29:54,960
+Okay, so what I will do in here,
+
+547
+00:29:55,320 --> 00:29:58,800
+since I'm using get window
+handles, what I'm going to do,
+
+548
+00:29:59,800 --> 00:30:02,160
+going to have a
+
+549
+00:30:02,920 --> 00:30:05,440
+set of strings and say all
+
+550
+00:30:06,720 --> 00:30:08,280
+window handles.
+
+551
+00:30:08,280 --> 00:30:08,880
+Okay.
+
+552
+00:30:08,880 --> 00:30:12,200
+Is equal to driver that get window
+handles.
+
+553
+00:30:12,760 --> 00:30:15,560
+Okay, So there we go.
+
+554
+00:30:16,960 --> 00:30:18,880
+So now what I did,
+
+555
+00:30:18,880 --> 00:30:23,320
+I got all the all the window
+handles right.
+
+556
+00:30:23,320 --> 00:30:26,640
+And I stored them inside the set.
+
+557
+00:30:27,640 --> 00:30:30,640
+Okay. So
+
+558
+00:30:30,640 --> 00:30:33,680
+whenever I click
+
+559
+00:30:33,680 --> 00:30:36,000
+on the help link in here
+
+560
+00:30:36,000 --> 00:30:40,080
+and it opens up a new tab,
+what I am doing here,
+
+561
+00:30:40,400 --> 00:30:45,560
+I am grabbing those two tabs
+and storing them in the set of strings.
+
+562
+00:30:46,120 --> 00:30:49,440
+Okay, so this is going to do it
+automatically because it's
+
+563
+00:30:49,440 --> 00:30:52,880
+looking for those handle
+on the active session.
+
+564
+00:30:53,480 --> 00:30:56,040
+Okay. Is that clear, guys?
+
+565
+00:30:56,160 --> 00:30:58,920
+Any questions?
+
+566
+00:31:03,480 --> 00:31:05,200
+Okay, good.
+
+567
+00:31:05,280 --> 00:31:05,560
+All right.
+
+568
+00:31:05,560 --> 00:31:09,360
+So right now, what I want to do,
+I want to print out
+
+569
+00:31:09,720 --> 00:31:12,640
+how many tabs I have inside my console.
+
+570
+00:31:12,760 --> 00:31:14,760
+Okay. So what? I will do
+
+571
+00:31:16,480 --> 00:31:18,880
+the print line right?
+
+572
+00:31:18,880 --> 00:31:22,000
+So all window handles.
+
+573
+00:31:22,280 --> 00:31:25,680
+How how can I see how many of those tabs
+
+574
+00:31:25,680 --> 00:31:29,040
+I have guys that side. Right.
+
+575
+00:31:29,040 --> 00:31:40,160
+Easy to record.
+
+576
+00:31:40,160 --> 00:31:43,320
+Or if you if you open up a new one
+
+577
+00:31:44,960 --> 00:31:46,680
+demo, then. Is that your question? Okay.
+
+578
+00:31:46,680 --> 00:31:47,520
+After this.
+
+579
+00:31:47,520 --> 00:31:49,360
+Okay, So.
+
+580
+00:31:49,360 --> 00:31:54,080
+So in this case, it will not record it
+because what you did,
+
+581
+00:31:54,080 --> 00:31:58,280
+you only captured the once available
+for you.
+
+582
+00:32:00,080 --> 00:32:00,680
+Exactly.
+
+583
+00:32:00,680 --> 00:32:03,560
+You would have to capture
+
+584
+00:32:03,560 --> 00:32:05,800
+all the window handles again.
+
+585
+00:32:06,000 --> 00:32:06,560
+Okay.
+
+586
+00:32:06,560 --> 00:32:08,920
+You don't have to create
+a new set of strings.
+
+587
+00:32:08,920 --> 00:32:12,720
+You can use the same exact variable
+that you have in here.
+
+588
+00:32:13,560 --> 00:32:20,520
+Okay.
+
+589
+00:32:20,680 --> 00:32:21,000
+Okay.
+
+590
+00:32:21,000 --> 00:32:23,880
+Any other questions, guys
+
+591
+00:32:34,360 --> 00:32:35,200
+will handle
+
+592
+00:32:35,200 --> 00:32:38,280
+for the first window
+and then use it from demo.
+
+593
+00:32:38,440 --> 00:32:39,360
+Yes, you can do that.
+
+594
+00:32:39,360 --> 00:32:40,560
+Yeah.
+
+595
+00:32:40,560 --> 00:32:43,920
+Declared in the beginning.
+
+596
+00:32:48,360 --> 00:32:49,760
+Oh, so are you.
+
+597
+00:32:49,760 --> 00:32:52,160
+Are you
+guys talking about the main page handle
+
+598
+00:32:56,320 --> 00:33:13,840
+or you are talking about line 23.
+
+599
+00:33:13,840 --> 00:33:15,840
+Oh Oscar each tab. Yes.
+
+600
+00:33:15,840 --> 00:33:20,400
+So you have to do
+you have to do this exact same. Yes.
+
+601
+00:33:20,400 --> 00:33:23,920
+So to capture all the handles. Yes.
+
+602
+00:33:23,960 --> 00:33:25,960
+You need to do that. Okay.
+
+603
+00:33:25,960 --> 00:33:30,400
+So now, guys, let me tell you how
+this is works in real world.
+
+604
+00:33:31,320 --> 00:33:35,640
+So whenever you join a company or in it in
+
+605
+00:33:35,640 --> 00:33:38,400
+and you working on the application, Right.
+
+606
+00:33:38,640 --> 00:33:43,720
+So you won't be working on too many tabs
+
+607
+00:33:44,960 --> 00:33:47,040
+because it doesn't really make sense.
+
+608
+00:33:47,920 --> 00:33:51,520
+So to open one tab
+and then to open another one
+
+609
+00:33:51,520 --> 00:33:54,360
+and then after that another one
+and then test another one.
+
+610
+00:33:54,640 --> 00:33:54,960
+Right.
+
+611
+00:33:54,960 --> 00:33:59,280
+So that doesn't really make sense for you
+in terms of testing.
+
+612
+00:34:00,200 --> 00:34:03,840
+So what happens what happens in real,
+
+613
+00:34:04,240 --> 00:34:07,680
+real applications
+that you navigate to one page,
+
+614
+00:34:07,960 --> 00:34:11,320
+you click on something
+and it opens up a new page
+
+615
+00:34:11,440 --> 00:34:14,720
+and then you continue your work
+on the second tab.
+
+616
+00:34:15,360 --> 00:34:16,240
+Okay.
+
+617
+00:34:16,320 --> 00:34:21,480
+So you don't have to open
+multiple, multiple or what's called
+
+618
+00:34:22,880 --> 00:34:24,280
+multiple tabs
+
+619
+00:34:24,280 --> 00:34:26,840
+in order to work on some functionality.
+
+620
+00:34:27,080 --> 00:34:29,200
+Okay.
+So this is not how it's going to work.
+
+621
+00:34:29,240 --> 00:34:34,160
+So most the most tabs or windows
+you're going to be working on,
+
+622
+00:34:34,400 --> 00:34:38,040
+on a real application
+is going to be two different tabs.
+
+623
+00:34:38,520 --> 00:34:39,000
+Okay.
+
+624
+00:34:39,000 --> 00:34:39,800
+And one of them,
+
+625
+00:34:39,800 --> 00:34:43,360
+whenever you switch to one of them,
+you will be closing the first one.
+
+626
+00:34:43,920 --> 00:34:46,800
+Okay. So this is how it usually works.
+
+627
+00:34:47,040 --> 00:34:49,360
+So don't really
+
+628
+00:34:49,360 --> 00:34:52,320
+get scared if if I have five tabs.
+
+629
+00:34:52,560 --> 00:34:55,080
+If I have seven tabs, you won't have that.
+
+630
+00:34:55,640 --> 00:34:57,600
+Okay.
+
+631
+00:34:57,600 --> 00:35:00,800
+So the maximum amount of windows
+
+632
+00:35:00,800 --> 00:35:02,800
+or tabs you're going to have in
+
+633
+00:35:04,080 --> 00:35:06,480
+in your real
+application is going to be two.
+
+634
+00:35:06,960 --> 00:35:07,800
+Okay.
+
+635
+00:35:09,600 --> 00:35:13,920
+Having our active session, if we open new
+tabs, then we need to capture it again.
+
+636
+00:35:13,920 --> 00:35:20,320
+Exactly. Yes.
+
+637
+00:35:20,320 --> 00:35:24,000
+Yes. No need to save the second tab
+because you're going to be closing it.
+
+638
+00:35:24,400 --> 00:35:28,800
+Okay, so I got this size right now
+of my set of string.
+
+639
+00:35:28,800 --> 00:35:32,600
+So let me run this and let's see,
+what are we going to
+
+640
+00:35:32,600 --> 00:35:41,240
+get in return?
+
+641
+00:35:46,840 --> 00:35:49,920
+Okay.
+
+642
+00:35:49,920 --> 00:35:53,360
+When here, opening up a new tab,
+clicking on help.
+
+643
+00:35:53,720 --> 00:35:54,440
+Right.
+
+644
+00:35:54,440 --> 00:35:57,480
+And here you can see that it's number two.
+
+645
+00:35:57,480 --> 00:36:00,560
+So I have two window handles right now
+
+646
+00:36:00,680 --> 00:36:04,320
+stored inside the set of strings.
+
+647
+00:36:05,160 --> 00:36:07,080
+Okay.
+
+648
+00:36:08,040 --> 00:36:10,120
+Any questions, guys,
+
+649
+00:36:10,120 --> 00:36:13,320
+before I move forward?
+
+650
+00:36:14,440 --> 00:36:15,960
+Okay, good.
+
+651
+00:36:15,960 --> 00:36:18,000
+All right, So now, guys, what
+
+652
+00:36:20,280 --> 00:36:21,840
+How is it opening a new tap?
+
+653
+00:36:21,840 --> 00:36:24,880
+We're clicking on helpfully line 2021.
+
+654
+00:36:26,520 --> 00:36:29,960
+So if you click on the Help link, it's
+going to open a new tab.
+
+655
+00:36:30,400 --> 00:36:32,120
+Okay, Right here.
+
+656
+00:36:32,120 --> 00:36:33,560
+So click on this.
+
+657
+00:36:33,560 --> 00:36:36,120
+It's going to open a new tab.
+
+658
+00:36:36,480 --> 00:36:41,120
+Okay, So now we know
+we captured all the window handles.
+
+659
+00:36:41,520 --> 00:36:46,320
+Now we have
+we know how many window handles
+
+660
+00:36:46,320 --> 00:36:49,320
+we have inside our set of strings.
+
+661
+00:36:49,600 --> 00:36:50,280
+Okay.
+
+662
+00:36:50,280 --> 00:36:53,080
+So what I need to do right now
+
+663
+00:36:53,080 --> 00:36:57,720
+in order for me to switch around
+and manipulate those tabs,
+
+664
+00:36:57,720 --> 00:37:02,000
+what I need to do,
+I need to iterate those tabs.
+
+665
+00:37:02,400 --> 00:37:03,040
+Okay.
+
+666
+00:37:03,040 --> 00:37:07,160
+So in this case, what I'm going to do,
+I'm going to create an item later.
+
+667
+00:37:07,600 --> 00:37:09,120
+Okay, So what?
+
+668
+00:37:09,120 --> 00:37:11,840
+I'll do all window handles the
+
+669
+00:37:13,000 --> 00:37:14,440
+iterator
+
+670
+00:37:14,760 --> 00:37:16,560
+here. Okay.
+
+671
+00:37:16,560 --> 00:37:19,720
+So I need to the variable
+
+672
+00:37:20,280 --> 00:37:22,240
+click to greater
+
+673
+00:37:22,320 --> 00:37:24,960
+strings. Right.
+
+674
+00:37:24,960 --> 00:37:28,680
+To just to this and let's import this guy.
+
+675
+00:37:30,000 --> 00:37:30,640
+Okay.
+
+676
+00:37:30,720 --> 00:37:33,760
+So now what I'm trying to do,
+
+677
+00:37:34,080 --> 00:37:36,920
+I'm trying to iterate through each
+
+678
+00:37:36,920 --> 00:37:40,560
+and every tab that I have inside my set.
+
+679
+00:37:41,360 --> 00:37:43,760
+Okay, so now,
+
+680
+00:37:43,760 --> 00:37:47,640
+guys, I'm not going to be creating a
+for a while loop in here,
+
+681
+00:37:47,920 --> 00:37:51,480
+but I'll show you how to do it one by one.
+
+682
+00:37:52,080 --> 00:37:52,680
+Okay.
+
+683
+00:37:52,680 --> 00:37:57,280
+So if you if you create a Y loop, it's
+going to see if there is something next.
+
+684
+00:37:57,280 --> 00:38:00,000
+And then will be performing
+some actions. Right.
+
+685
+00:38:00,040 --> 00:38:02,640
+So I want to show you the easy way
+right now.
+
+686
+00:38:02,760 --> 00:38:05,720
+And then we will go to Advanced
+Window Hand.
+
+687
+00:38:05,960 --> 00:38:06,720
+Okay.
+
+688
+00:38:06,720 --> 00:38:11,440
+So first of all, guys,
+when I step forward inside my iterator,
+
+689
+00:38:12,600 --> 00:38:15,440
+so what am I going to have, guys?
+
+690
+00:38:15,840 --> 00:38:18,800
+So let's say
+I have a set of strings, right?
+
+691
+00:38:18,800 --> 00:38:21,040
+I have a set of window handles.
+
+692
+00:38:21,040 --> 00:38:24,560
+So if I step forward,
+what am I going to have?
+
+693
+00:38:24,560 --> 00:38:32,840
+Guys?
+
+694
+00:38:36,240 --> 00:38:37,720
+Any thoughts?
+
+695
+00:38:38,360 --> 00:38:39,520
+The first handle.
+
+696
+00:38:39,520 --> 00:38:41,680
+Right. Okay, So that's very good.
+
+697
+00:38:41,720 --> 00:38:45,640
+So if I step forward, I'm
+going to have the first handle right.
+
+698
+00:38:45,880 --> 00:38:49,560
+So what I'm going to do my next
+
+699
+00:38:49,560 --> 00:38:54,200
+step is my first handle.
+
+700
+00:38:54,200 --> 00:38:54,680
+Right?
+
+701
+00:38:54,680 --> 00:38:56,800
+Where is my first handle right now, guys?
+
+702
+00:38:58,160 --> 00:39:02,760
+My first handle is the main page handle.
+
+703
+00:39:02,960 --> 00:39:03,760
+Okay.
+
+704
+00:39:04,240 --> 00:39:07,360
+So what I will do
+
+705
+00:39:07,360 --> 00:39:11,560
+my next step, I will say the main page
+
+706
+00:39:11,560 --> 00:39:14,880
+handle is my next step.
+
+707
+00:39:16,320 --> 00:39:16,960
+Okay.
+
+708
+00:39:17,960 --> 00:39:19,720
+And since we know that
+
+709
+00:39:19,720 --> 00:39:22,200
+there's two different tabs in here,
+
+710
+00:39:23,000 --> 00:39:26,440
+I need to create another handle.
+
+711
+00:39:26,440 --> 00:39:32,440
+Because whenever I am moving forward
+the second time, I need a new handle.
+
+712
+00:39:33,720 --> 00:39:35,760
+Is that clear, guys?
+
+713
+00:39:37,520 --> 00:39:38,640
+I'm pretty sure this is.
+
+714
+00:39:38,640 --> 00:39:42,240
+This is the time that it's going to be
+confusing a little bit, but that's fine.
+
+715
+00:39:42,560 --> 00:39:42,960
+Okay.
+
+716
+00:39:42,960 --> 00:39:45,680
+So I'm going to create a new string
+and say
+
+717
+00:39:46,200 --> 00:39:49,000
+child handle, okay?
+
+718
+00:39:49,560 --> 00:39:55,240
+And I'm going to assign it
+to my next step.
+
+719
+00:39:55,720 --> 00:39:56,640
+Okay.
+
+720
+00:39:57,920 --> 00:39:59,400
+So and then let me
+
+721
+00:39:59,400 --> 00:40:02,840
+just to print line the child handle.
+
+722
+00:40:03,360 --> 00:40:04,360
+Okay. All right, guys.
+
+723
+00:40:04,360 --> 00:40:06,640
+So let me explain it to you one more time.
+
+724
+00:40:06,840 --> 00:40:07,440
+Okay.
+
+725
+00:40:07,440 --> 00:40:11,760
+So line 27, what we're doing,
+what we trying to do?
+
+726
+00:40:11,760 --> 00:40:15,600
+We're trying to iterate
+through the tabs, right?
+
+727
+00:40:16,960 --> 00:40:21,160
+So the first step
+
+728
+00:40:21,400 --> 00:40:25,440
+that I'm going inside that set, guys,
+what am I seeing?
+
+729
+00:40:25,440 --> 00:40:27,280
+The first thing
+
+730
+00:40:30,480 --> 00:40:31,760
+which handle
+
+731
+00:40:31,760 --> 00:40:34,080
+I am seeing guys
+
+732
+00:40:35,440 --> 00:40:36,480
+the main.
+
+733
+00:40:36,480 --> 00:40:36,960
+Right.
+
+734
+00:40:36,960 --> 00:40:42,240
+So that's why I am assigning
+my first step to the main page handle.
+
+735
+00:40:42,960 --> 00:40:43,920
+Okay.
+
+736
+00:40:45,160 --> 00:40:48,120
+And then
+since we know there's two different tabs,
+
+737
+00:40:48,360 --> 00:40:51,600
+I need to have another handle
+
+738
+00:40:51,760 --> 00:40:54,000
+so that I can step forward.
+
+739
+00:40:55,560 --> 00:40:56,160
+Okay.
+
+740
+00:40:56,160 --> 00:40:57,760
+Is that clear? Guys?
+
+741
+00:40:57,760 --> 00:40:59,760
+Any questions?
+
+742
+00:40:59,800 --> 00:41:01,080
+There should be Exactly.
+
+743
+00:41:01,080 --> 00:41:04,280
+There should be two different handles
+for me
+
+744
+00:41:04,480 --> 00:41:08,520
+to step forward twice.
+
+745
+00:41:08,800 --> 00:41:12,440
+Any confusion in here, guys?
+
+746
+00:41:16,320 --> 00:41:18,440
+Okay.
+
+747
+00:41:21,680 --> 00:41:22,800
+Okay, good.
+
+748
+00:41:22,800 --> 00:41:27,120
+So now what I will do in here.
+
+749
+00:41:27,280 --> 00:41:29,600
+So I'm going to print the child handle.
+
+750
+00:41:29,640 --> 00:41:30,680
+That is fine.
+
+751
+00:41:30,680 --> 00:41:33,000
+So now what I need to do
+
+752
+00:41:33,440 --> 00:41:35,840
+since I opened up a new tab.
+
+753
+00:41:36,120 --> 00:41:41,040
+What I want to do,
+I want to go back to my main page handle
+
+754
+00:41:47,200 --> 00:41:51,360
+so we could store.
+
+755
+00:41:51,360 --> 00:41:52,640
+Oh, that's the tricky part.
+
+756
+00:41:52,640 --> 00:41:55,240
+Okay, Blake,
+I'm coming to your question right now.
+
+757
+00:41:56,040 --> 00:41:58,040
+Okay, I'm coming to your question.
+
+758
+00:41:58,400 --> 00:41:59,960
+We're already in main page
+
+759
+00:42:01,560 --> 00:42:03,680
+when we're not on the main page, Right?
+
+760
+00:42:04,680 --> 00:42:14,760
+So if I click on this, where am I going?
+
+761
+00:42:14,760 --> 00:42:17,600
+If I click on this, guys, I'm going to
+
+762
+00:42:18,960 --> 00:42:20,280
+the child page, right?
+
+763
+00:42:20,280 --> 00:42:24,040
+So what I need to do,
+I need to switch back in here.
+
+764
+00:42:24,800 --> 00:42:25,640
+Okay.
+
+765
+00:42:25,640 --> 00:42:30,000
+So that's why I'm switching to the main.
+
+766
+00:42:30,000 --> 00:42:33,560
+So if there's a third handle,
+we would like to do another child.
+
+767
+00:42:33,560 --> 00:42:34,320
+Exactly.
+
+768
+00:42:34,320 --> 00:42:36,960
+But right now, let's just keep it
+simple, guys.
+
+769
+00:42:36,960 --> 00:42:38,640
+We two tabs.
+
+770
+00:42:38,640 --> 00:42:42,160
+We will be handling
+four or five tabs after this.
+
+771
+00:42:42,440 --> 00:42:46,560
+So it's going to be it's
+going to be a little bit different.
+
+772
+00:42:46,560 --> 00:42:49,320
+But let's keep it in two tabs right now
+in here.
+
+773
+00:42:49,600 --> 00:42:54,240
+Okay.
+
+774
+00:42:54,240 --> 00:42:54,840
+All right.
+
+775
+00:42:54,840 --> 00:42:58,760
+So what I did step two times forward.
+
+776
+00:42:59,400 --> 00:43:01,680
+One of them is main page.
+
+777
+00:43:01,680 --> 00:43:03,400
+One of them is child hand.
+
+778
+00:43:03,400 --> 00:43:07,080
+Okay, so what I am doing here,
+I am assigning
+
+779
+00:43:07,440 --> 00:43:10,560
+my next steps manually.
+
+780
+00:43:10,800 --> 00:43:14,840
+Okay, so my first step,
+I'm saying it's main page,
+
+781
+00:43:15,000 --> 00:43:18,600
+and my second step is going to be my child
+handle.
+
+782
+00:43:19,080 --> 00:43:24,360
+Okay, so now what I need to do
+since we switched and we're seeing right.
+
+783
+00:43:24,480 --> 00:43:27,880
+Well, looking at the child page right now,
+what I need to
+
+784
+00:43:27,880 --> 00:43:31,520
+do, I need to switch to the main. Okay.
+
+785
+00:43:32,840 --> 00:43:34,440
+So what I'm
+
+786
+00:43:34,440 --> 00:43:37,560
+going to do in here, I'm going to driver
+
+787
+00:43:38,240 --> 00:43:42,280
+that switch to that window.
+
+788
+00:43:42,640 --> 00:43:43,200
+Okay.
+
+789
+00:43:43,200 --> 00:43:47,600
+So inside the parentheses,
+I am going to put I'm going to paste
+
+790
+00:43:48,000 --> 00:43:52,200
+a window handle of the page
+that I want to switch to.
+
+791
+00:43:52,640 --> 00:43:53,280
+Okay.
+
+792
+00:43:53,280 --> 00:43:58,280
+So right now, the page that I want
+to switch to is the main page handle.
+
+793
+00:43:58,920 --> 00:43:59,720
+Okay.
+
+794
+00:44:01,800 --> 00:44:06,240
+And this is how I'm going to switch
+back to the main page.
+
+795
+00:44:06,480 --> 00:44:07,080
+Okay.
+
+796
+00:44:07,080 --> 00:44:12,360
+So let me actually here,
+give it a little bit of a pause
+
+797
+00:44:12,360 --> 00:44:16,080
+for 2 seconds so that we can see
+what is going on on the Web page.
+
+798
+00:44:16,120 --> 00:44:16,800
+Okay.
+
+799
+00:44:16,800 --> 00:44:20,280
+So now what I will do
+will go ahead and run
+
+800
+00:44:20,280 --> 00:44:22,320
+this.
+
+801
+00:44:27,240 --> 00:44:28,440
+No, you don't have to store it.
+
+802
+00:44:28,440 --> 00:44:31,920
+No, no, no.
+You don't have to sort this one.
+
+803
+00:44:32,120 --> 00:44:36,680
+So what you are doing, you are simply
+performing an action for your tab.
+
+804
+00:44:37,040 --> 00:44:38,520
+Okay.
+
+805
+00:44:41,520 --> 00:44:41,760
+Okay.
+
+806
+00:44:41,760 --> 00:44:44,840
+So we open up a new one.
+
+807
+00:44:44,840 --> 00:44:45,720
+2 seconds.
+
+808
+00:44:45,720 --> 00:44:51,600
+Now, what we did,
+we switch back to the main page, Right?
+
+809
+00:44:52,120 --> 00:44:54,120
+So that's pretty cool, right, guys?
+
+810
+00:44:54,120 --> 00:44:56,360
+Okay, Nice.
+
+811
+00:44:56,360 --> 00:45:02,240
+Okay, So now, guys,
+any confusions in here?
+
+812
+00:45:02,240 --> 00:45:05,120
+If you want, I can go over this again.
+
+813
+00:45:05,120 --> 00:45:09,440
+Guys, How and why we're going.
+
+814
+00:45:11,920 --> 00:45:15,600
+Okay, let's quickly.
+
+815
+00:45:15,600 --> 00:45:18,960
+Seems like there are some people
+who are confused right now.
+
+816
+00:45:18,960 --> 00:45:21,240
+Let's quickly go over it again. Okay.
+
+817
+00:45:21,720 --> 00:45:25,120
+So when I when I click on the help
+
+818
+00:45:25,120 --> 00:45:27,880
+link in here, what I did is
+
+819
+00:45:29,680 --> 00:45:32,040
+it opened up a new one,
+
+820
+00:45:32,040 --> 00:45:33,720
+a new tab, Right.
+
+821
+00:45:33,720 --> 00:45:36,080
+24, line 24.
+
+822
+00:45:36,080 --> 00:45:38,480
+What I did, I captured all
+
+823
+00:45:41,000 --> 00:45:42,200
+set of strengths.
+
+824
+00:45:42,200 --> 00:45:42,760
+Right.
+
+825
+00:45:42,760 --> 00:45:44,880
+And then on line 27,
+
+826
+00:45:45,560 --> 00:45:49,320
+what I did, I said, hey, okay,
+I have a set of strengths.
+
+827
+00:45:49,320 --> 00:45:51,960
+So I want to iterate through them. Okay.
+
+828
+00:45:52,440 --> 00:45:56,720
+So I want to iterate through them,
+but I don't want to do it with Luc.
+
+829
+00:45:56,720 --> 00:45:58,720
+I want to do it manually. Okay.
+
+830
+00:45:58,960 --> 00:46:02,000
+And then I said, Hey,
+whenever I want to step first,
+
+831
+00:46:03,080 --> 00:46:05,280
+whenever I want to make my first move,
+
+832
+00:46:05,560 --> 00:46:09,600
+I want my first move to be my main page
+handle.
+
+833
+00:46:10,360 --> 00:46:11,120
+Okay?
+
+834
+00:46:11,120 --> 00:46:14,000
+And whenever I make my second move,
+
+835
+00:46:14,360 --> 00:46:18,960
+I want this second move to be my child
+handle.
+
+836
+00:46:19,640 --> 00:46:20,440
+Okay.
+
+837
+00:46:20,440 --> 00:46:23,520
+And then, since we opened up the new tab
+
+838
+00:46:23,520 --> 00:46:28,120
+and we're looking into my second tab right
+now, what I did,
+
+839
+00:46:28,480 --> 00:46:31,720
+I switched back to the main page handle.
+
+840
+00:46:32,160 --> 00:46:32,720
+Okay.
+
+841
+00:46:32,720 --> 00:46:36,840
+And if you look at the console guys,
+we have the child window handle as well.
+
+842
+00:46:37,480 --> 00:46:39,720
+Okay.
+
+843
+00:46:40,640 --> 00:46:45,720
+Switch method, which to any window.
+
+844
+00:46:46,320 --> 00:46:48,280
+Yes. Correct.
+
+845
+00:46:48,320 --> 00:46:51,000
+Yes. With a switch method,
+you can switch to any window.
+
+846
+00:46:51,000 --> 00:46:53,840
+You can right.
+
+847
+00:46:55,680 --> 00:47:06,600
+I mean, any window you have,
+you won't be able to do it with indexes.
+
+848
+00:47:07,120 --> 00:47:09,480
+Okay. So.
+
+849
+00:47:09,480 --> 00:47:11,280
+So let's say you talking.
+
+850
+00:47:11,280 --> 00:47:15,000
+I think what you mean is let's say
+you have five tabs from the first.
+
+851
+00:47:15,000 --> 00:47:16,360
+You want to jump on the fifth one,
+
+852
+00:47:17,360 --> 00:47:17,760
+right.
+
+853
+00:47:17,760 --> 00:47:21,720
+And not go through the one,
+two, three, four.
+
+854
+00:47:27,720 --> 00:47:29,320
+Is that is that your question.
+
+855
+00:47:29,320 --> 00:47:33,160
+Andre.
+
+856
+00:47:33,360 --> 00:47:33,760
+Okay.
+
+857
+00:47:33,760 --> 00:47:35,760
+So in that case. Okay.
+
+858
+00:47:35,760 --> 00:47:40,640
+So if you have if you have a four loop,
+I mean, one loop.
+
+859
+00:47:40,680 --> 00:47:42,840
+Okay.
+
+860
+00:47:42,840 --> 00:47:45,400
+If you have a wild loop in this case.
+
+861
+00:47:45,440 --> 00:47:47,200
+So I'll show you how this works.
+
+862
+00:47:47,200 --> 00:47:51,840
+So let's not if I explain it to you right
+now, won't understand it.
+
+863
+00:47:51,840 --> 00:47:56,840
+So let's go over the second exercise
+and then I'll explain that to you.
+
+864
+00:47:57,240 --> 00:48:04,640
+Okay.
+
+865
+00:48:05,720 --> 00:48:07,080
+No, they're not indexed.
+
+866
+00:48:07,080 --> 00:48:10,320
+So basically, what we're doing here,
+
+867
+00:48:10,680 --> 00:48:14,160
+we're going through each and every string.
+
+868
+00:48:14,720 --> 00:48:20,000
+Okay, guys,
+
+869
+00:48:20,000 --> 00:48:22,520
+we won't be going over the indexes.
+
+870
+00:48:23,280 --> 00:48:25,160
+We will go.
+
+871
+00:48:25,160 --> 00:48:28,560
+We're going through each and every window
+handle.
+
+872
+00:48:29,320 --> 00:48:36,440
+Okay.
+
+873
+00:48:37,720 --> 00:48:39,760
+Yes. If in real,
+
+874
+00:48:39,960 --> 00:48:43,240
+real work,
+you are going over to different tabs.
+
+875
+00:48:43,520 --> 00:48:44,800
+Yeah, I is fine.
+
+876
+00:48:44,800 --> 00:48:47,280
+I mean, we will be using iterator anyways.
+
+877
+00:48:47,560 --> 00:48:51,840
+Okay, so you're going to be using iterator
+in the next example as well.
+
+878
+00:48:51,840 --> 00:48:54,480
+But we're going to be using it
+with a loop. Okay.
+
+879
+00:48:54,480 --> 00:48:56,400
+So that's going to
+be more advanced than that.
+
+880
+00:48:58,080 --> 00:48:58,760
+Okay.
+
+881
+00:48:58,840 --> 00:49:03,120
+So right now, what I want you to do, guys,
+I want you to capture this logic,
+
+882
+00:49:03,840 --> 00:49:05,760
+because this is the easy logic.
+
+883
+00:49:05,760 --> 00:49:07,800
+Your assigning everything manually.
+
+884
+00:49:08,040 --> 00:49:11,760
+But now in the next example,
+we will be dealing with different
+
+885
+00:49:13,680 --> 00:49:14,480
+windows.
+
+886
+00:49:14,480 --> 00:49:18,480
+And then there we will have
+a little bit of confusion in there.
+
+887
+00:49:18,480 --> 00:49:22,440
+Okay.
+
+888
+00:49:22,440 --> 00:49:24,720
+Iterator control.
+No, no, no, guys. Iterator.
+
+889
+00:49:25,000 --> 00:49:30,760
+If it can't handle only two tabs, whatever
+tabs you have, it can handle it in here.
+
+890
+00:49:30,760 --> 00:49:32,560
+We have two tabs.
+
+891
+00:49:32,560 --> 00:49:34,920
+Okay.
+
+892
+00:49:38,560 --> 00:49:39,120
+Okay, guys.
+
+893
+00:49:39,120 --> 00:49:41,880
+So there is one more thing
+that I want to show you guys.
+
+894
+00:49:42,320 --> 00:49:45,120
+Remember, guys, we talked about close
+
+895
+00:49:45,120 --> 00:49:48,080
+and quit
+the difference between clothes and quit.
+
+896
+00:49:48,320 --> 00:49:52,400
+And I told you guys whenever we were
+were going over the window handles.
+
+897
+00:49:52,560 --> 00:49:55,280
+You will see the better difference
+in there.
+
+898
+00:49:55,680 --> 00:49:56,280
+Okay.
+
+899
+00:49:56,280 --> 00:49:58,320
+So what I'm going to do right now, guys,
+
+900
+00:49:58,680 --> 00:50:02,280
+I'm going to go ahead
+and do driver that close
+
+901
+00:50:04,080 --> 00:50:06,840
+after I switch to the main page handle.
+
+902
+00:50:07,200 --> 00:50:08,000
+Okay.
+
+903
+00:50:08,040 --> 00:50:11,160
+So let me run this
+
+904
+00:50:14,320 --> 00:50:17,920
+and see what we're going to have
+
+905
+00:50:25,920 --> 00:50:27,720
+to go
+
+906
+00:50:27,720 --> 00:50:30,120
+open it up.
+
+907
+00:50:31,080 --> 00:50:32,080
+Go back.
+
+908
+00:50:32,080 --> 00:50:34,240
+But what happened, guys?
+
+909
+00:50:34,520 --> 00:50:38,520
+So it only closed the main page.
+
+910
+00:50:39,520 --> 00:50:40,920
+Okay. Why?
+
+911
+00:50:40,920 --> 00:50:45,640
+Because the focus of our selenium
+is only on the main page.
+
+912
+00:50:45,960 --> 00:50:47,000
+And it.
+
+913
+00:50:47,000 --> 00:50:50,720
+And we used close instead of quit
+
+914
+00:50:51,840 --> 00:50:54,120
+and close only closes
+
+915
+00:50:54,120 --> 00:50:57,200
+the current tab that we are active on.
+
+916
+00:50:57,480 --> 00:50:57,840
+Right.
+
+917
+00:50:57,840 --> 00:51:01,680
+And quit is going to terminate
+that whole session.
+
+918
+00:51:03,080 --> 00:51:03,800
+Okay.
+
+919
+00:51:05,160 --> 00:51:08,080
+No, you don't have to specify the window
+handling here
+
+920
+00:51:09,080 --> 00:51:11,280
+because it close
+
+921
+00:51:11,520 --> 00:51:16,200
+doesn't accept any any arguments and close
+
+922
+00:51:16,200 --> 00:51:19,200
+will just close the tab that you are
+
+923
+00:51:19,200 --> 00:51:22,320
+currently working.
+
+924
+00:51:25,560 --> 00:51:26,120
+All right.
+
+925
+00:51:26,120 --> 00:51:29,240
+Any questions, guys?
+
+926
+00:51:34,640 --> 00:51:35,400
+Correct.
+
+927
+00:51:35,400 --> 00:51:38,080
+So you have to switch
+
+928
+00:51:38,520 --> 00:51:42,160
+to the window
+that you want to close or perform
+
+929
+00:51:42,160 --> 00:51:46,600
+any actions,
+because whenever you switch, you take your
+
+930
+00:51:48,440 --> 00:51:51,520
+you take your focus of selenium with you.
+
+931
+00:51:51,840 --> 00:51:52,400
+Okay.
+
+932
+00:51:52,400 --> 00:51:55,440
+So if you don't switch,
+you won't be able to close that window.
+
+933
+00:51:56,040 --> 00:51:57,040
+Okay, guys.
+
+934
+00:51:57,040 --> 00:52:00,040
+So first, before you close any tabs,
+
+935
+00:52:00,280 --> 00:52:04,400
+you need to make sure that your your
+
+936
+00:52:05,160 --> 00:52:09,280
+your focus of selenium
+is on that exact tab.
+
+937
+00:52:09,800 --> 00:52:18,160
+Okay. Yes.
+
+938
+00:52:18,160 --> 00:52:20,240
+If you use quit in here.
+
+939
+00:52:20,920 --> 00:52:24,320
+So driver
+
+940
+00:52:26,040 --> 00:52:27,480
+that quit
+
+941
+00:52:32,240 --> 00:52:32,760
+Now quit.
+
+942
+00:52:32,760 --> 00:52:35,160
+And let's run
+this and see what's going to happen.
+
+943
+00:52:36,360 --> 00:52:37,840
+This is going to happen really fast.
+
+944
+00:52:37,840 --> 00:52:38,560
+I think.
+
+945
+00:52:38,920 --> 00:52:41,680
+So it's going to switch to the main page
+and it's going to terminate
+
+946
+00:52:41,680 --> 00:52:56,240
+the whole session.
+
+947
+00:52:57,000 --> 00:52:57,960
+There we go.
+
+948
+00:52:57,960 --> 00:53:00,200
+So it terminated the whole session.
+
+949
+00:53:00,200 --> 00:53:07,320
+Okay.
+
+950
+00:53:08,680 --> 00:53:29,840
+Any questions, guys, please?
+
+951
+00:53:30,240 --> 00:53:31,680
+Okay, cool.
+
+952
+00:53:31,680 --> 00:53:35,600
+So let me
+
+953
+00:53:36,960 --> 00:53:39,080
+open up a new Java class.
+
+954
+00:53:39,080 --> 00:53:59,520
+And here and.
+
+955
+00:53:59,520 --> 00:54:20,240
+All right.
+
+956
+00:54:20,560 --> 00:54:21,360
+All right, guys.
+
+957
+00:54:21,360 --> 00:54:25,000
+So the next example,
+what I'm going to be doing is we're going
+
+958
+00:54:25,000 --> 00:54:31,000
+to be navigating to this Web page
+and we will be clicking on each
+
+959
+00:54:32,520 --> 00:54:33,640
+on each button in here.
+
+960
+00:54:33,640 --> 00:54:38,040
+So if I click on this, see, okay,
+so it opens up
+
+961
+00:54:39,320 --> 00:54:40,760
+this guy
+
+962
+00:54:41,200 --> 00:54:43,960
+opens up this guy
+
+963
+00:54:44,320 --> 00:54:47,240
+and it opens up this guy.
+
+964
+00:54:47,240 --> 00:54:49,840
+So there's three different pages
+
+965
+00:54:50,640 --> 00:54:54,480
+on the ground Facebook pages for syntax.
+
+966
+00:54:55,800 --> 00:54:56,120
+All right.
+
+967
+00:54:56,120 --> 00:55:00,360
+So we will be clicking on all of those
+and then we will be switch it around
+
+968
+00:55:00,360 --> 00:55:05,120
+and we will be playing around
+with those different windows.
+
+969
+00:55:05,400 --> 00:55:06,200
+Okay.
+
+970
+00:55:06,800 --> 00:55:07,520
+Is that clear?
+
+971
+00:55:07,520 --> 00:55:11,360
+Guys, any questions before we get started?
+
+972
+00:55:15,360 --> 00:55:16,800
+Okay, cool.
+
+973
+00:55:16,920 --> 00:55:20,560
+All right, so let's get this one
+
+974
+00:55:29,320 --> 00:55:34,080
+that the URL.
+
+975
+00:55:38,280 --> 00:55:41,840
+Okay.
+
+976
+00:55:42,840 --> 00:55:44,240
+So everything
+
+977
+00:55:46,480 --> 00:55:47,040
+okay?
+
+978
+00:55:47,040 --> 00:55:51,240
+So what I want to do first, guys,
+I want to go ahead
+
+979
+00:55:51,240 --> 00:55:57,000
+and navigate to that page
+and what I want to do right now.
+
+980
+00:55:57,200 --> 00:56:00,800
+I want to get the main page window
+handle, guys.
+
+981
+00:56:01,120 --> 00:56:01,600
+Okay.
+
+982
+00:56:01,600 --> 00:56:10,320
+How would I do that?
+
+983
+00:56:14,760 --> 00:56:17,040
+Finding the element.
+
+984
+00:56:17,080 --> 00:56:19,400
+Now I need to get the main page
+
+985
+00:56:19,400 --> 00:56:22,080
+window handle dice.
+
+986
+00:56:22,520 --> 00:56:25,640
+Simple right driver
+
+987
+00:56:25,800 --> 00:56:28,240
+that get window handle
+
+988
+00:56:30,280 --> 00:56:30,560
+right.
+
+989
+00:56:30,560 --> 00:56:34,640
+And we can store it inside the string.
+
+990
+00:56:37,560 --> 00:56:38,680
+Do this right.
+
+991
+00:56:38,680 --> 00:56:40,960
+Okay. So now what I want to do?
+
+992
+00:56:41,280 --> 00:56:45,480
+I want to find all the elements first
+
+993
+00:56:47,640 --> 00:56:49,800
+and then click on those.
+
+994
+00:56:49,800 --> 00:56:52,360
+Okay, So now let's
+
+995
+00:56:52,360 --> 00:56:55,320
+go back in here for let's inspect this.
+
+996
+00:56:55,920 --> 00:56:56,520
+All right.
+
+997
+00:56:57,120 --> 00:57:02,560
+So what I want to do,
+I want to find this element first.
+
+998
+00:57:03,240 --> 00:57:05,480
+Okay.
+
+999
+00:57:06,280 --> 00:57:07,800
+Let's see here.
+
+1000
+00:57:07,800 --> 00:57:14,400
+What do we want to use in here, guys?
+
+1001
+00:57:14,400 --> 00:57:16,240
+Like text, Right? Easy.
+
+1002
+00:57:16,240 --> 00:57:19,040
+So let's go use the link Text.
+
+1003
+00:57:19,120 --> 00:57:21,120
+Okay. So
+
+1004
+00:57:27,320 --> 00:57:30,440
+I think it was the Instagram, Right?
+
+1005
+00:57:30,440 --> 00:57:33,000
+Okay, second
+
+1006
+00:57:34,320 --> 00:57:36,320
+button for the
+
+1007
+00:57:37,320 --> 00:57:39,840
+element link text
+
+1008
+00:57:41,360 --> 00:57:44,240
+pasted in here.
+
+1009
+00:57:45,600 --> 00:57:46,040
+Okay.
+
+1010
+00:57:47,800 --> 00:57:48,600
+And then
+
+1011
+00:57:49,800 --> 00:57:53,640
+the second one is here.
+
+1012
+00:57:54,560 --> 00:57:57,840
+Can use the same way
+
+1013
+00:58:01,200 --> 00:58:03,280
+for elements.
+
+1014
+00:58:04,520 --> 00:58:07,280
+It's Facebook
+
+1015
+00:58:10,680 --> 00:58:11,600
+button
+
+1016
+00:58:16,680 --> 00:58:20,240
+element by link text.
+
+1017
+00:58:22,760 --> 00:58:23,040
+Right.
+
+1018
+00:58:23,040 --> 00:58:26,760
+And then the third button we have here
+
+1019
+00:58:27,840 --> 00:58:30,920
+is follow Instagram and Facebook.
+
+1020
+00:58:31,040 --> 00:58:33,120
+This is a neat tag.
+
+1021
+00:58:33,120 --> 00:58:38,160
+So that
+
+1022
+00:59:01,440 --> 00:59:02,560
+everyone is clear.
+
+1023
+00:59:02,560 --> 00:59:05,920
+What I have done from line 17 to 19.
+
+1024
+00:59:06,360 --> 00:59:16,320
+All right, guys, any questions in here?
+
+1025
+00:59:17,520 --> 00:59:18,880
+Okay, good.
+
+1026
+00:59:18,880 --> 00:59:19,240
+All right.
+
+1027
+00:59:19,240 --> 00:59:24,960
+So we identified all the elements
+were located, all those elements, Right.
+
+1028
+00:59:25,400 --> 00:59:28,000
+So what what do we need to do here?
+
+1029
+00:59:28,040 --> 00:59:30,560
+We just need to perform a simple click.
+
+1030
+00:59:31,440 --> 00:59:32,080
+All right.
+
+1031
+00:59:32,360 --> 00:59:34,680
+So let's go ahead and do this
+
+1032
+00:59:46,000 --> 00:59:46,720
+quick.
+
+1033
+00:59:47,720 --> 00:59:48,960
+And then
+
+1034
+00:59:53,240 --> 00:59:53,960
+click.
+
+1035
+00:59:54,560 --> 00:59:55,200
+Okay.
+
+1036
+00:59:55,320 --> 00:59:57,840
+So we have this.
+
+1037
+00:59:58,080 --> 01:00:00,400
+So what I am going to do right now,
+
+1038
+01:00:00,640 --> 01:00:04,520
+let me run this and see what
+what we have on our page.
+
+1039
+01:00:04,520 --> 01:00:05,040
+Right.
+
+1040
+01:00:05,440 --> 01:00:22,440
+So running this.
+
+1041
+01:00:22,440 --> 01:00:24,400
+All right, let's see.
+
+1042
+01:00:25,720 --> 01:00:28,480
+This seems like no such element
+exception, guys.
+
+1043
+01:00:28,840 --> 01:00:32,000
+Unable
+to look at the element with the link text.
+
+1044
+01:00:32,000 --> 01:00:32,600
+Right.
+
+1045
+01:00:33,120 --> 01:00:34,320
+What's wrong, guys?
+
+1046
+01:00:34,320 --> 01:00:37,320
+So my link, that is fine.
+
+1047
+01:00:38,640 --> 01:00:40,440
+Any idea what is going on in here,
+
+1048
+01:00:40,440 --> 01:00:48,720
+guys?
+
+1049
+01:00:49,960 --> 01:00:52,560
+So my link text follow on Instagram.
+
+1050
+01:00:52,560 --> 01:00:55,560
+So that means this is not my selenium
+
+1051
+01:00:55,560 --> 01:01:05,040
+is not finding this.
+
+1052
+01:01:05,040 --> 01:01:06,680
+I didn't open a tab. Right.
+
+1053
+01:01:06,680 --> 01:01:08,400
+This is the first element, guys.
+
+1054
+01:01:08,400 --> 01:01:11,160
+I what I did, I navigated there.
+
+1055
+01:01:12,080 --> 01:01:14,040
+I tried to find that element.
+
+1056
+01:01:14,040 --> 01:01:16,440
+I didn't even click that
+
+1057
+01:01:19,080 --> 01:01:19,920
+Exactly.
+
+1058
+01:01:19,920 --> 01:01:22,840
+I have spaces in here, right?
+
+1059
+01:01:22,840 --> 01:01:26,040
+So I need to remove these spaces
+
+1060
+01:01:29,280 --> 01:01:32,480
+because I'm not looking for a text, guys.
+
+1061
+01:01:32,480 --> 01:01:34,240
+I'm looking for a link text.
+
+1062
+01:01:34,240 --> 01:01:37,480
+Okay, So if you're using
+
+1063
+01:01:37,480 --> 01:01:39,360
+if you're using a next pack guys,
+
+1064
+01:01:39,360 --> 01:01:43,880
+you see there are some spaces before
+and after this text.
+
+1065
+01:01:44,400 --> 01:01:47,480
+If you're using a next path
+and you're using a text,
+
+1066
+01:01:47,920 --> 01:01:50,760
+you have to include the spaces. Okay.
+
+1067
+01:01:50,920 --> 01:01:55,520
+But if you're using a link text guys,
+you don't have to include any spaces
+
+1068
+01:01:55,720 --> 01:01:58,560
+which are before and after that text.
+
+1069
+01:01:59,400 --> 01:02:00,080
+Okay.
+
+1070
+01:02:00,080 --> 01:02:08,840
+Is that clear?
+
+1071
+01:02:13,400 --> 01:02:15,000
+Is it possible to force the links
+
+1072
+01:02:15,000 --> 01:02:18,800
+to open in a new tap or the new window?
+
+1073
+01:02:18,800 --> 01:02:20,520
+You can't do that.
+
+1074
+01:02:20,520 --> 01:02:22,320
+You cannot do that. Why?
+
+1075
+01:02:22,320 --> 01:02:24,480
+Because it is.
+
+1076
+01:02:24,480 --> 01:02:26,280
+It is built by developers.
+
+1077
+01:02:26,280 --> 01:02:29,480
+So if they want if they want it to
+
+1078
+01:02:30,360 --> 01:02:32,800
+what's called, if they want it to open up
+
+1079
+01:02:33,000 --> 01:02:36,600
+in a new page, in a new window,
+they would do it.
+
+1080
+01:02:36,600 --> 01:02:38,480
+They would configure it themselves.
+
+1081
+01:02:38,480 --> 01:02:43,320
+Or if they wanted to open it in a new tab,
+then they would configure it that way.
+
+1082
+01:02:44,280 --> 01:02:45,960
+Okay.
+
+1083
+01:02:47,280 --> 01:02:47,640
+All right.
+
+1084
+01:02:47,640 --> 01:03:01,520
+So let's run
+this and see if this is going to work.
+
+1085
+01:03:01,520 --> 01:03:02,840
+Okay. Running here.
+
+1086
+01:03:02,840 --> 01:03:03,680
+All right.
+
+1087
+01:03:03,680 --> 01:03:06,600
+So we clicked on everything.
+
+1088
+01:03:06,600 --> 01:03:09,960
+And here we have three more windows, guys.
+
+1089
+01:03:10,920 --> 01:03:14,000
+Or it can be the tabs as well.
+
+1090
+01:03:14,200 --> 01:03:17,960
+So I think whenever you have it maximize
+and you do it manually,
+
+1091
+01:03:18,160 --> 01:03:21,240
+it it it's opening a new tab.
+
+1092
+01:03:21,440 --> 01:03:24,280
+But whenever you have a selenium running,
+
+1093
+01:03:24,480 --> 01:03:27,280
+it's opening a new window in here.
+
+1094
+01:03:27,480 --> 01:03:28,680
+So that's not a big deal.
+
+1095
+01:03:28,680 --> 01:03:29,520
+Okay, guys.
+
+1096
+01:03:29,520 --> 01:03:32,400
+So the tab and the window are the same.
+
+1097
+01:03:32,600 --> 01:03:35,520
+So you can
+we can use the same methods as we've done
+
+1098
+01:03:35,520 --> 01:03:39,280
+in the previous example
+to switch to the main page window handle.
+
+1099
+01:03:39,600 --> 01:03:40,080
+Okay.
+
+1100
+01:03:41,280 --> 01:03:45,960
+So, so this windows opens
+
+1101
+01:03:46,240 --> 01:03:48,920
+on the same session
+so we don't have to worry about it.
+
+1102
+01:03:48,960 --> 01:03:57,200
+Okay.
+
+1103
+01:03:59,560 --> 01:04:00,240
+Okay, then.
+
+1104
+01:04:00,240 --> 01:04:01,680
+Then it's fine, guys.
+
+1105
+01:04:01,680 --> 01:04:05,320
+If it if it if it's not about
+the maximize, then it's fine.
+
+1106
+01:04:05,360 --> 01:04:06,400
+That's okay.
+
+1107
+01:04:06,400 --> 01:04:08,880
+So now I have a question to you guys.
+
+1108
+01:04:09,520 --> 01:04:13,320
+So I clicked on three different
+
+1109
+01:04:14,680 --> 01:04:16,760
+buttons in here right away.
+
+1110
+01:04:17,800 --> 01:04:20,640
+I didn't even switch to that
+to the other windows.
+
+1111
+01:04:21,040 --> 01:04:23,480
+So when I click on first one,
+
+1112
+01:04:24,120 --> 01:04:28,320
+it opens up a new window.
+
+1113
+01:04:28,320 --> 01:04:30,440
+How can I click on the second one? Does
+
+1114
+01:04:36,560 --> 01:04:37,440
+three times.
+
+1115
+01:04:37,440 --> 01:04:39,160
+That's the.
+
+1116
+01:04:39,160 --> 01:04:40,560
+Oh, I didn't said okay.
+
+1117
+01:04:40,560 --> 01:04:41,840
+Okay. That's a good question.
+
+1118
+01:04:41,840 --> 01:04:46,320
+So guess, guys,
+
+1119
+01:04:46,320 --> 01:04:49,680
+guess what could be the
+
+1120
+01:04:51,960 --> 01:04:53,040
+the issue in here
+
+1121
+01:04:53,040 --> 01:04:57,760
+that we can click
+three times on the same window but it each
+
+1122
+01:04:58,440 --> 01:05:00,800
+each button opens up a new window.
+
+1123
+01:05:00,800 --> 01:05:09,120
+Guys Any any thoughts on this?
+
+1124
+01:05:09,120 --> 01:05:11,000
+Because we're still in men swimming
+
+1125
+01:05:12,280 --> 01:05:15,000
+or tap
+
+1126
+01:05:17,560 --> 01:05:19,120
+classes and
+
+1127
+01:05:24,400 --> 01:05:26,160
+tap is
+
+1128
+01:05:26,160 --> 01:05:27,600
+not really
+
+1129
+01:05:30,240 --> 01:05:30,800
+no good.
+
+1130
+01:05:30,800 --> 01:05:33,680
+So here's the thing.
+
+1131
+01:05:33,680 --> 01:05:34,880
+Okay, guys.
+
+1132
+01:05:34,920 --> 01:05:37,480
+So whenever you try to open
+
+1133
+01:05:37,720 --> 01:05:40,800
+and tap or a new window,
+
+1134
+01:05:40,840 --> 01:05:44,400
+you click on something,
+it opens a new tab or a new window.
+
+1135
+01:05:44,760 --> 01:05:50,000
+You don't lose focus, guys,
+even though see the new page guys,
+
+1136
+01:05:50,200 --> 01:05:53,200
+your focus is still on the previous page.
+
+1137
+01:05:54,240 --> 01:05:56,960
+Okay, so selenium, how it works
+
+1138
+01:05:57,280 --> 01:05:59,560
+is what we click on something.
+
+1139
+01:06:00,160 --> 01:06:03,120
+Okay,
+so we clicked on this follow on Instagram.
+
+1140
+01:06:03,240 --> 01:06:05,240
+We clicked on like us on Facebook.
+
+1141
+01:06:05,240 --> 01:06:06,840
+Why it happened?
+
+1142
+01:06:06,840 --> 01:06:11,640
+Because we are still on the same
+main page.
+
+1143
+01:06:11,640 --> 01:06:14,520
+We don't see it, but our focus is there.
+
+1144
+01:06:16,160 --> 01:06:18,280
+We didn't switch anything yet.
+
+1145
+01:06:18,800 --> 01:06:20,000
+Okay guys.
+
+1146
+01:06:20,000 --> 01:06:25,920
+So whenever you have this kind of issue,
+don't worry.
+
+1147
+01:06:26,000 --> 01:06:30,760
+Just think that guys,
+whenever you perform actions on one page
+
+1148
+01:06:30,760 --> 01:06:34,600
+and it opens up a new tab,
+even though you see
+
+1149
+01:06:34,680 --> 01:06:38,760
+visually you had selenium
+didn't switch that focus yet.
+
+1150
+01:06:39,280 --> 01:06:39,880
+Okay.
+
+1151
+01:06:39,880 --> 01:06:42,720
+Is that clear?
+
+1152
+01:06:45,120 --> 01:06:46,400
+So that's why we
+
+1153
+01:06:46,400 --> 01:06:50,160
+clicked on three different buttons in here
+and it worked.
+
+1154
+01:06:50,160 --> 01:06:54,480
+And we still have three different,
+three different windows opening up.
+
+1155
+01:06:54,840 --> 01:06:58,360
+But the thing in here
+that behind the scenes
+
+1156
+01:06:58,560 --> 01:07:02,920
+we then switch selenium focus
+to different pages.
+
+1157
+01:07:03,360 --> 01:07:09,960
+Okay, yes, you can print it.
+
+1158
+01:07:09,960 --> 01:07:12,040
+You can print out the main page handle.
+Yeah.
+
+1159
+01:07:12,720 --> 01:07:15,960
+After you click after after you click.
+
+1160
+01:07:15,960 --> 01:07:19,240
+And here you can do that.
+
+1161
+01:07:19,440 --> 01:07:24,840
+But as long as you don't have to print
+the main, main page
+
+1162
+01:07:24,840 --> 01:07:28,920
+handle in here because you're already
+clicking on the second and third button.
+
+1163
+01:07:29,200 --> 01:07:33,600
+So that's the proof
+that you are still on that main page
+
+1164
+01:07:33,600 --> 01:07:35,760
+that you just navigate
+
+1165
+01:07:38,880 --> 01:07:41,080
+on the which page.
+
+1166
+01:07:41,080 --> 01:07:43,440
+Oh, could they may the window
+
+1167
+01:07:43,440 --> 01:07:45,760
+handles be a verify point?
+
+1168
+01:07:46,520 --> 01:07:47,880
+No, not really guys.
+
+1169
+01:07:47,880 --> 01:07:53,880
+I haven't seen any way anyone
+verifying the window handles.
+
+1170
+01:07:53,880 --> 01:07:59,640
+You can verify the title and see if you're
+on the same page, but you won't be.
+
+1171
+01:07:59,640 --> 01:08:02,480
+I mean, I haven't
+seen anyone verifying the
+
+1172
+01:08:04,920 --> 01:08:07,080
+the window handles
+
+1173
+01:08:07,080 --> 01:08:09,680
+because you don't have anything expected.
+
+1174
+01:08:09,840 --> 01:08:12,920
+You don't have any expected value
+because whenever
+
+1175
+01:08:12,920 --> 01:08:16,280
+you open up a new session, guys,
+it will it will change.
+
+1176
+01:08:16,280 --> 01:08:16,800
+Right?
+
+1177
+01:08:16,800 --> 01:08:18,480
+So you get the window handle.
+
+1178
+01:08:18,480 --> 01:08:20,880
+What are you going to compare it with?
+
+1179
+01:08:21,160 --> 01:08:22,480
+You don't know, Right?
+
+1180
+01:08:22,480 --> 01:08:39,120
+So it's it's not a good thing to do.
+
+1181
+01:08:39,320 --> 01:08:40,080
+Yeah, it's fine.
+
+1182
+01:08:40,080 --> 01:08:45,040
+It's fine if they don't if
+if one window is on top of the other one.
+
+1183
+01:08:45,160 --> 01:08:52,000
+It's okay guys.
+
+1184
+01:08:52,000 --> 01:08:55,920
+We are just getting the first one
+to captured the first window handle,
+
+1185
+01:08:56,120 --> 01:08:58,360
+and I'll show you in the.
+
+1186
+01:08:58,360 --> 01:09:00,200
+Well, we continue this example.
+
+1187
+01:09:00,200 --> 01:09:01,640
+You'll see the difference, guys.
+
+1188
+01:09:01,640 --> 01:09:03,480
+Okay.
+
+1189
+01:09:03,480 --> 01:09:05,600
+Nothing happens for right now. If.
+
+1190
+01:09:05,720 --> 01:09:08,560
+If we don't get this window
+handle in here,
+
+1191
+01:09:09,440 --> 01:09:12,000
+we're just going to have to get it later.
+
+1192
+01:09:12,000 --> 01:09:19,080
+Okay, guys guys,
+
+1193
+01:09:19,080 --> 01:09:23,040
+any other questions?
+
+1194
+01:09:23,040 --> 01:09:25,560
+Yeah,
+if you comment this out, it still works.
+
+1195
+01:09:25,560 --> 01:09:27,880
+Guys,
+I didn't do anything with this. Right?
+
+1196
+01:09:29,000 --> 01:09:30,880
+So. And you can see that
+
+1197
+01:09:30,880 --> 01:09:34,400
+main page handle a little bit
+disabled in here and it's gray.
+
+1198
+01:09:34,400 --> 01:09:42,480
+So that means
+we need to use this throughout our code.
+
+1199
+01:09:42,480 --> 01:09:49,760
+So now get we get window
+handles will give us all the for exactly.
+
+1200
+01:09:49,760 --> 01:09:51,120
+Okay guys.
+
+1201
+01:09:51,480 --> 01:09:53,360
+So it's 815.
+
+1202
+01:09:53,360 --> 01:09:56,920
+Okay So let's take a break guys,
+
+1203
+01:09:56,920 --> 01:09:59,360
+and then we'll start going over
+
+1204
+01:09:59,360 --> 01:10:03,120
+the advanced part.
+
+1205
+01:10:07,040 --> 01:10:07,360
+All right.
+
+1206
+01:10:07,360 --> 01:10:08,040
+There you go.
+
+1207
+01:10:08,040 --> 01:10:11,160
+All this and the code and
+
+1208
+01:10:24,240 --> 01:10:26,120
+time slides on selenium.
+
+1209
+01:10:26,120 --> 01:10:26,960
+Okay? Yeah.
+
+1210
+01:10:26,960 --> 01:10:30,040
+I mean, selenium is more interactive
+than Java, guys.
+
+1211
+01:10:30,040 --> 01:10:31,840
+That's probably
+
+1212
+01:10:33,440 --> 01:10:35,840
+or it's me.
+
+1213
+01:10:38,320 --> 01:10:40,240
+So you choose guys,
+
+1214
+01:10:40,240 --> 01:10:43,640
+whichever it is.
+
+1215
+01:10:43,640 --> 01:10:45,680
+The aim is like watching the gladiator.
+
+1216
+01:10:46,520 --> 01:10:50,200
+You okay?
+
+1217
+01:10:50,520 --> 01:10:53,400
+All right, guys,
+let's have a break for 16 minutes.
+
+1218
+01:10:53,400 --> 01:10:57,840
+So let's come back at 830, okay?
+
+1219
+01:10:57,840 --> 01:10:59,880
+Or if anyone wants to
+
+1220
+01:11:01,960 --> 01:11:06,920
+type ten, bless me.
+
+1221
+01:11:06,920 --> 01:11:07,920
+Okay. Thank you.
+
+1222
+01:11:07,920 --> 01:11:22,320
+Thank you guys.
+
+1223
+01:11:23,360 --> 01:11:23,920
+All right, guys.
+
+1224
+01:11:23,920 --> 01:26:27,600
+I'll see you guys in 15.
+
+1225
+01:26:27,600 --> 01:26:39,680
+All right, guys, let's get back.
+
+1226
+01:26:39,680 --> 01:26:43,880
+Let's get back and continue
+with these handles.
+
+1227
+01:26:43,880 --> 01:26:44,640
+Right.
+
+1228
+01:26:44,880 --> 01:26:50,520
+Let's handle some of them.
+
+1229
+01:26:50,520 --> 01:26:53,880
+I hope everyone is back, guys,
+so that we can continue in here.
+
+1230
+01:26:54,680 --> 01:26:58,760
+Okay, So we clicked on all the
+
+1231
+01:26:59,880 --> 01:27:03,760
+all on all the buttons,
+which we have on our main page, Right.
+
+1232
+01:27:04,560 --> 01:27:09,480
+And as we said,
+we were able to click on all of them
+
+1233
+01:27:09,840 --> 01:27:13,680
+because our focus never changed, right?
+
+1234
+01:27:13,680 --> 01:27:15,600
+We didn't switch to anywhere.
+
+1235
+01:27:15,600 --> 01:27:19,160
+We still on that same page and that's why
+
+1236
+01:27:19,320 --> 01:27:23,640
+we're able to click on all the buttons
+that we identified, Right?
+
+1237
+01:27:24,120 --> 01:27:26,400
+Okay. All right.
+
+1238
+01:27:26,400 --> 01:27:27,720
+So now, guys,
+
+1239
+01:27:27,720 --> 01:27:32,080
+now, since I have how many windows
+I have right now, how many times do I have
+
+1240
+01:27:33,240 --> 01:27:34,280
+after I click
+
+1241
+01:27:34,280 --> 01:27:39,160
+three buttons.
+
+1242
+01:27:39,160 --> 01:27:40,600
+Four. Right.
+
+1243
+01:27:40,920 --> 01:27:44,640
+Okay, So let's
+get them stored inside the container.
+
+1244
+01:27:45,160 --> 01:27:45,400
+All right.
+
+1245
+01:27:45,400 --> 01:27:48,200
+So what I'm going to do is create a set,
+
+1246
+01:27:49,800 --> 01:27:52,000
+create a set of strings in here.
+
+1247
+01:27:52,000 --> 01:27:55,440
+And again, all window
+
+1248
+01:27:55,440 --> 01:27:58,280
+handles, right, is equal to
+
+1249
+01:27:59,920 --> 01:28:00,960
+driver.
+
+1250
+01:28:00,960 --> 01:28:05,520
+The get window handles right
+and then import
+
+1251
+01:28:05,640 --> 01:28:10,080
+set in here.
+
+1252
+01:28:10,080 --> 01:28:14,680
+So now let's print out how many
+
+1253
+01:28:15,360 --> 01:28:19,240
+how many windows we have in here.
+
+1254
+01:28:19,240 --> 01:28:22,160
+Going to be all window handles, dot size.
+
+1255
+01:28:23,520 --> 01:28:25,560
+All right. Okay.
+
+1256
+01:28:25,560 --> 01:28:28,920
+So now what we want to do,
+
+1257
+01:28:28,920 --> 01:28:31,880
+what I want to do, guys, I want to iterate
+
+1258
+01:28:32,600 --> 01:28:35,520
+through through all the handles.
+
+1259
+01:28:36,000 --> 01:28:40,440
+Okay, Set
+
+1260
+01:28:40,440 --> 01:28:46,720
+how many windows we opened.
+
+1261
+01:28:46,720 --> 01:28:51,840
+Now we're open for windows.
+
+1262
+01:28:51,840 --> 01:28:55,760
+All right, So now what
+I want to do, I want to go over
+
+1263
+01:28:57,280 --> 01:28:58,480
+each window.
+
+1264
+01:28:58,480 --> 01:29:01,240
+Okay?
+
+1265
+01:29:01,240 --> 01:29:03,520
+Oh, by clicking. Okay,
+
+1266
+01:29:03,520 --> 01:29:06,080
+So I want to go through each window,
+
+1267
+01:29:07,440 --> 01:29:10,360
+get the title and, print it out.
+
+1268
+01:29:11,360 --> 01:29:14,840
+Okay, guys, is that clear?
+
+1269
+01:29:17,880 --> 01:29:19,320
+Okay, good.
+
+1270
+01:29:19,320 --> 01:29:25,760
+So now what I want to do,
+I want to start iterating right that case.
+
+1271
+01:29:25,760 --> 01:29:28,800
+What we want to do,
+we want to create a Knights of Raider
+
+1272
+01:29:31,040 --> 01:29:32,400
+iterator of strings.
+
+1273
+01:29:32,400 --> 01:29:36,840
+And here is equal to all window handles
+
+1274
+01:29:37,280 --> 01:29:39,360
+that are doing right.
+
+1275
+01:29:39,880 --> 01:29:41,200
+So we have this.
+
+1276
+01:29:41,200 --> 01:29:43,080
+So now what I want to do,
+
+1277
+01:29:43,080 --> 01:29:47,880
+since I have more windows than we had
+in the previous example, right?
+
+1278
+01:29:47,880 --> 01:29:50,400
+So before we had to, now we have for.
+
+1279
+01:29:50,400 --> 01:29:54,120
+So instead of doing everything manually,
+what I want to do,
+
+1280
+01:29:54,240 --> 01:29:57,040
+I want to do it through the help of loop.
+
+1281
+01:29:57,480 --> 01:30:00,560
+Okay, so here what I will do
+
+1282
+01:30:00,560 --> 01:30:03,760
+exactly I will do y loop.
+
+1283
+01:30:04,160 --> 01:30:04,800
+Okay.
+
+1284
+01:30:04,800 --> 01:30:07,680
+And I'll say the wild loop. If
+
+1285
+01:30:08,760 --> 01:30:11,760
+I have something, my, my next step.
+
+1286
+01:30:12,160 --> 01:30:12,840
+Right.
+
+1287
+01:30:13,400 --> 01:30:17,280
+What is going to happen is I need to
+
+1288
+01:30:17,560 --> 01:30:22,080
+I need to get the title
+and I need to print it out.
+
+1289
+01:30:22,680 --> 01:30:24,280
+Okay.
+
+1290
+01:30:24,280 --> 01:30:26,720
+So what is my next step in here, guys?
+
+1291
+01:30:26,720 --> 01:30:28,640
+So I have my iterator.
+
+1292
+01:30:28,640 --> 01:30:31,960
+I have everything inside
+my set container, right?
+
+1293
+01:30:32,280 --> 01:30:35,880
+And I'm to go through each
+
+1294
+01:30:35,880 --> 01:30:40,040
+and every window handle
+by using this violence.
+
+1295
+01:30:40,480 --> 01:30:42,240
+So what is my next step in here?
+
+1296
+01:30:42,240 --> 01:30:53,240
+This.
+
+1297
+01:30:53,240 --> 01:30:54,000
+Okay,
+
+1298
+01:30:55,000 --> 01:30:57,000
+so I to write that next.
+
+1299
+01:30:57,000 --> 01:30:57,480
+Right?
+
+1300
+01:30:57,480 --> 01:30:59,640
+What if I do isolated next?
+
+1301
+01:30:59,640 --> 01:31:09,680
+What am I getting in return?
+
+1302
+01:31:09,680 --> 01:31:10,040
+Okay.
+
+1303
+01:31:10,040 --> 01:31:11,280
+Is it the main page?
+
+1304
+01:31:11,280 --> 01:31:13,360
+Guys, I'm inside my loop.
+
+1305
+01:31:13,560 --> 01:31:17,200
+Okay, so in the first iteration, yes, I'm
+
+1306
+01:31:17,200 --> 01:31:21,120
+going to get my main page right,
+
+1307
+01:31:21,120 --> 01:31:23,560
+but on the second iteration,
+
+1308
+01:31:23,560 --> 01:31:28,240
+I'm getting a different one.
+
+1309
+01:31:28,240 --> 01:31:31,160
+Right? So what we can do in here, since
+
+1310
+01:31:32,600 --> 01:31:33,640
+we're iterating
+
+1311
+01:31:33,640 --> 01:31:36,880
+multiple times and we don't know
+
+1312
+01:31:37,560 --> 01:31:41,400
+either it's main page or either
+child's page, right?
+
+1313
+01:31:41,560 --> 01:31:45,200
+So what we can do, we can simply store
+
+1314
+01:31:45,240 --> 01:31:49,360
+it inside the string,
+which is just the handle.
+
+1315
+01:31:49,600 --> 01:31:49,920
+Okay?
+
+1316
+01:31:49,920 --> 01:31:51,960
+We don't have to we don't have to
+
+1317
+01:31:53,880 --> 01:31:55,320
+say that it's main
+
+1318
+01:31:55,320 --> 01:31:57,920
+page or child page or whatever page it is,
+
+1319
+01:31:58,640 --> 01:32:02,760
+because whenever we iterating,
+we go through all of them, right?
+
+1320
+01:32:03,000 --> 01:32:06,840
+So every step I'm getting a handle, right?
+
+1321
+01:32:07,160 --> 01:32:10,800
+So if there is something I step over,
+I get another handle.
+
+1322
+01:32:11,040 --> 01:32:11,880
+Okay?
+
+1323
+01:32:11,880 --> 01:32:15,600
+Next iteration, I step over,
+I get another handle right.
+
+1324
+01:32:15,600 --> 01:32:17,840
+Okay, so we have the handle.
+
+1325
+01:32:18,200 --> 01:32:24,240
+So what do I have to do right now
+in order to print out the titles
+
+1326
+01:32:24,240 --> 01:32:31,240
+of all those four pages?
+
+1327
+01:32:31,240 --> 01:32:33,280
+Is it handle that get title? Does
+
+1328
+01:32:35,920 --> 01:32:37,680
+handle is a string, guys.
+
+1329
+01:32:37,680 --> 01:32:40,640
+Right. Handle is a string.
+
+1330
+01:32:40,640 --> 01:32:43,400
+So what I need to do,
+
+1331
+01:32:43,400 --> 01:32:47,040
+I need to do.
+
+1332
+01:32:47,040 --> 01:32:47,360
+Okay.
+
+1333
+01:32:47,360 --> 01:32:51,440
+So do I have to switch first
+or I have to get the title search?
+
+1334
+01:32:51,480 --> 01:32:53,560
+Guess which one
+
+1335
+01:33:03,960 --> 01:33:05,040
+switch or title.
+
+1336
+01:33:05,040 --> 01:33:06,640
+Okay, so I see title.
+
+1337
+01:33:06,640 --> 01:33:08,520
+I see switch first.
+
+1338
+01:33:08,520 --> 01:33:11,600
+Okay,
+so we need to get the title first, right?
+
+1339
+01:33:11,920 --> 01:33:13,680
+Because we get the handle.
+
+1340
+01:33:13,680 --> 01:33:16,440
+We already have the focus, right?
+
+1341
+01:33:16,800 --> 01:33:22,920
+So on the main page we get the main page
+title and then switch to the next one.
+
+1342
+01:33:23,080 --> 01:33:25,400
+Right? Okay, so let's try this.
+
+1343
+01:33:26,080 --> 01:33:29,760
+So driver that
+
+1344
+01:33:30,960 --> 01:33:38,360
+title in here,
+
+1345
+01:33:38,360 --> 01:33:41,720
+let's do string
+
+1346
+01:33:42,600 --> 01:33:43,800
+title.
+
+1347
+01:33:44,160 --> 01:33:44,800
+Okay?
+
+1348
+01:33:44,800 --> 01:33:47,240
+And then what we need to do,
+
+1349
+01:33:47,600 --> 01:33:52,880
+we need to switch to the next window
+
+1350
+01:33:54,000 --> 01:33:56,480
+with this handle.
+
+1351
+01:33:56,480 --> 01:33:56,920
+Right.
+
+1352
+01:33:56,920 --> 01:33:58,040
+Is this clear, Guys?
+
+1353
+01:33:58,040 --> 01:34:06,560
+Any questions before I run this?
+
+1354
+01:34:06,560 --> 01:34:10,080
+Okay, so let's run
+this and see what we're going
+
+1355
+01:34:10,080 --> 01:34:22,600
+to have.
+
+1356
+01:34:22,600 --> 01:34:24,880
+Okay. Getting for
+
+1357
+01:34:27,240 --> 01:34:28,040
+four different
+
+1358
+01:34:28,040 --> 01:34:38,280
+windows in here.
+
+1359
+01:34:38,280 --> 01:34:40,560
+Okay. What happened, guys?
+What did we miss in here?
+
+1360
+01:34:40,560 --> 01:34:53,480
+Guys, What did we missing here?
+
+1361
+01:34:53,480 --> 01:34:56,600
+Where do I see my title exactly?
+
+1362
+01:34:56,600 --> 01:34:59,200
+We didn't print right? So
+
+1363
+01:35:00,760 --> 01:35:02,920
+what I need to do,
+
+1364
+01:35:03,400 --> 01:35:05,040
+I need to print it.
+
+1365
+01:35:05,040 --> 01:35:07,360
+Okay, so I got the title, guys.
+
+1366
+01:35:07,360 --> 01:35:09,720
+I. What do I need to do then?
+
+1367
+01:35:09,760 --> 01:35:13,160
+Do I need to switch
+and then print or I have to print it
+
+1368
+01:35:13,160 --> 01:35:14,840
+and then switch
+
+1369
+01:35:18,920 --> 01:35:19,800
+print first.
+
+1370
+01:35:19,800 --> 01:35:20,360
+Right.
+
+1371
+01:35:20,360 --> 01:35:24,760
+Okay, so it's printed first
+and then switch
+
+1372
+01:35:25,800 --> 01:35:27,520
+the windows.
+
+1373
+01:35:28,080 --> 01:35:43,200
+Okay, so let's run this again.
+
+1374
+01:35:43,200 --> 01:35:45,920
+If morning.
+
+1375
+01:35:46,360 --> 01:35:51,920
+Here we go.
+
+1376
+01:35:51,920 --> 01:35:56,160
+Everything in here.
+
+1377
+01:35:56,160 --> 01:35:57,360
+There we go.
+
+1378
+01:35:57,400 --> 01:35:59,640
+But now what we have in here,
+
+1379
+01:36:00,120 --> 01:36:03,960
+where for which is we printed on line 29,
+
+1380
+01:36:03,960 --> 01:36:07,720
+which we have for different
+windows and then for
+
+1381
+01:36:09,600 --> 01:36:12,560
+titles that we have on our pages.
+
+1382
+01:36:13,000 --> 01:36:13,480
+Okay.
+
+1383
+01:36:13,480 --> 01:36:23,200
+Is that clear, guys,
+Any questions in here?
+
+1384
+01:36:23,200 --> 01:36:24,040
+Okay,
+
+1385
+01:36:24,840 --> 01:36:29,200
+so now what I want to do, guys, I want to
+
+1386
+01:36:29,640 --> 01:36:33,800
+since I opened up three more windows,
+now I have four in total, right?
+
+1387
+01:36:33,800 --> 01:36:37,640
+We got
+the title was switched to those windows.
+
+1388
+01:36:37,640 --> 01:36:37,960
+Right.
+
+1389
+01:36:37,960 --> 01:36:44,160
+So now what I want to do,
+I want to close all the other
+
+1390
+01:36:44,840 --> 01:36:48,760
+all the windows that I just opened
+and I have two
+
+1391
+01:36:48,840 --> 01:36:53,680
+and I want to keep the main page
+that I navigated first open.
+
+1392
+01:36:54,360 --> 01:36:56,280
+Okay, Is that clear, guys?
+
+1393
+01:36:56,280 --> 01:36:58,640
+So Let's go ahead and open this.
+
+1394
+01:36:58,920 --> 01:37:00,840
+So I open these child windows.
+
+1395
+01:37:00,840 --> 01:37:03,760
+What I want to do,
+I want to close all of these, okay?
+
+1396
+01:37:03,840 --> 01:37:07,440
+I want this to be open. Okay.
+
+1397
+01:37:09,280 --> 01:37:10,120
+All right.
+
+1398
+01:37:10,200 --> 01:37:13,200
+So how are we going to do this in here?
+
+1399
+01:37:13,560 --> 01:37:17,320
+So we going through the next one,
+we're getting title
+
+1400
+01:37:18,120 --> 01:37:20,240
+and we're switching to the handle.
+
+1401
+01:37:20,520 --> 01:37:24,160
+So how can we have that?
+
+1402
+01:37:24,160 --> 01:37:27,640
+I, I keep the main page
+
+1403
+01:37:27,640 --> 01:37:30,040
+open and close the other ones,
+
+1404
+01:37:30,640 --> 01:37:35,080
+the other child windows.
+
+1405
+01:37:35,080 --> 01:37:36,720
+Okay. If condition.
+
+1406
+01:37:36,720 --> 01:37:38,840
+Okay, That's very good.
+
+1407
+01:37:38,840 --> 01:37:39,160
+Okay.
+
+1408
+01:37:39,160 --> 01:37:41,320
+What am I having in my condition guys,
+
+1409
+01:37:42,840 --> 01:37:45,160
+if it's not main.
+
+1410
+01:37:45,160 --> 01:37:46,480
+Okay, that's very good.
+
+1411
+01:37:46,480 --> 01:37:48,720
+So what am I comparing it with?
+
+1412
+01:37:49,680 --> 01:37:53,120
+What am I comparing inside the
+if condition
+
+1413
+01:37:53,120 --> 01:37:58,760
+guys, Is it the title?
+
+1414
+01:37:58,760 --> 01:38:04,480
+Because I see two same titles in here
+guys.
+
+1415
+01:38:04,480 --> 01:38:12,520
+The titles are the same.
+
+1416
+01:38:12,520 --> 01:38:13,480
+Exactly.
+
+1417
+01:38:13,480 --> 01:38:19,680
+We need to compare the main page
+handle with a handle that is coming.
+
+1418
+01:38:20,040 --> 01:38:24,840
+Okay, so the main page handle,
+we got it in here.
+
+1419
+01:38:25,600 --> 01:38:28,400
+Okay, so right now
+
+1420
+01:38:28,440 --> 01:38:31,200
+I have this stored already, right?
+
+1421
+01:38:31,440 --> 01:38:34,280
+So what I am going to do,
+
+1422
+01:38:34,280 --> 01:38:38,040
+I need to compare this page handle
+
+1423
+01:38:40,840 --> 01:38:42,240
+equals
+
+1424
+01:38:42,880 --> 01:38:45,720
+to the handle I get right.
+
+1425
+01:38:46,440 --> 01:38:52,880
+And then what I need to do, let's say,
+okay, let's get the title,
+
+1426
+01:38:53,160 --> 01:38:59,000
+let's print it out and let's switch right.
+
+1427
+01:38:59,000 --> 01:39:18,400
+And what do I want to do
+at the very end, guys?
+
+1428
+01:39:18,400 --> 01:39:19,880
+What am I doing in here?
+
+1429
+01:39:19,880 --> 01:39:21,080
+I need to close it. Right.
+
+1430
+01:39:21,080 --> 01:39:21,880
+Simple.
+
+1431
+01:39:21,880 --> 01:39:25,040
+The driver dot close.
+
+1432
+01:39:25,040 --> 01:39:27,120
+Okay, But here, guys,
+
+1433
+01:39:28,960 --> 01:39:33,400
+my condition has to be the reverse, right?
+
+1434
+01:39:33,440 --> 01:39:36,400
+Because I'm. I am inside my wild.
+
+1435
+01:39:36,400 --> 01:39:39,120
+Look what I do. I get the handle.
+
+1436
+01:39:39,400 --> 01:39:44,520
+So if I want to keep the main page open,
+
+1437
+01:39:44,520 --> 01:39:49,080
+I need to skip
+whenever they're both equal.
+
+1438
+01:39:49,680 --> 01:39:50,080
+Right.
+
+1439
+01:39:50,080 --> 01:39:53,280
+So here what I am going to do, I'm
+
+1440
+01:39:53,280 --> 01:39:58,280
+saying that only
+if my main page is not equal to the handle
+
+1441
+01:39:58,280 --> 01:40:02,840
+that I just landed,
+then perform these actions.
+
+1442
+01:40:03,360 --> 01:40:05,600
+Okay, so let's run this and see
+
+1443
+01:40:05,880 --> 01:40:20,760
+if this is going to work.
+
+1444
+01:40:20,760 --> 01:40:23,360
+Okay. Opening these three
+
+1445
+01:40:29,000 --> 01:40:30,120
+things it sale.
+
+1446
+01:40:30,120 --> 01:40:30,800
+Right.
+
+1447
+01:40:30,800 --> 01:40:38,960
+Okay, so let's see what happened.
+
+1448
+01:40:38,960 --> 01:40:41,200
+No such window exception.
+
+1449
+01:40:41,200 --> 01:40:41,600
+Okay.
+
+1450
+01:40:41,600 --> 01:40:51,440
+What does it mean, guys?
+
+1451
+01:40:51,440 --> 01:40:56,160
+So here, guys,
+
+1452
+01:40:56,160 --> 01:40:59,600
+whenever we're switched, right,
+
+1453
+01:41:00,520 --> 01:41:04,800
+whenever we switched, we closed it right.
+
+1454
+01:41:04,800 --> 01:41:07,440
+So where is my focus right now?
+
+1455
+01:41:07,720 --> 01:41:10,800
+If I am inside this,
+
+1456
+01:41:12,120 --> 01:41:15,000
+If I am inside that,
+if statement right now.
+
+1457
+01:41:16,320 --> 01:41:18,080
+So the first one, it's okay.
+
+1458
+01:41:18,080 --> 01:41:19,720
+So it's open.
+
+1459
+01:41:19,720 --> 01:41:24,560
+I am taking I'm getting the title,
+I'm switching, I'm closing.
+
+1460
+01:41:24,560 --> 01:41:25,280
+Right.
+
+1461
+01:41:25,320 --> 01:41:28,160
+But then my next iteration,
+
+1462
+01:41:29,520 --> 01:41:32,000
+what happens is
+
+1463
+01:41:32,240 --> 01:41:37,200
+what if I don't have that right?
+
+1464
+01:41:37,200 --> 01:41:40,240
+So we need to get the title when guys
+
+1465
+01:41:46,760 --> 01:41:48,440
+after switching,
+
+1466
+01:41:48,440 --> 01:41:52,080
+we need to make sure we switched our focus
+
+1467
+01:41:52,480 --> 01:41:56,280
+and only then we get the title right.
+
+1468
+01:41:57,080 --> 01:41:59,760
+So let's run this
+
+1469
+01:41:59,760 --> 01:42:00,040
+thing.
+
+1470
+01:42:00,040 --> 01:42:02,880
+So this way and
+
+1471
+01:42:04,000 --> 01:42:04,360
+let me
+
+1472
+01:42:04,360 --> 01:42:10,680
+run this.
+
+1473
+01:42:10,680 --> 01:42:13,360
+Let's see if this is going to work
+
+1474
+01:42:29,160 --> 01:42:29,640
+open.
+
+1475
+01:42:29,640 --> 01:42:31,920
+S There we go.
+
+1476
+01:42:31,920 --> 01:42:33,960
+What happened, guys?
+
+1477
+01:42:34,240 --> 01:42:35,960
+So it's closed.
+
+1478
+01:42:35,960 --> 01:42:40,560
+That's three of the child windows
+and we still have
+
+1479
+01:42:40,920 --> 01:42:43,800
+our main page open, right?
+
+1480
+01:42:45,120 --> 01:42:46,680
+So pretty simple.
+
+1481
+01:42:46,680 --> 01:43:07,800
+Any questions on this, guys?
+
+1482
+01:43:07,800 --> 01:43:08,680
+A little bit tricky.
+
+1483
+01:43:08,680 --> 01:43:15,600
+Yes, it's a little bit tricky, but
+with with practice, it's it's all good.
+
+1484
+01:43:15,600 --> 01:43:18,120
+I mean, it's not that complicated.
+
+1485
+01:43:18,120 --> 01:43:22,080
+And as I said, guys, in a real project,
+in a real application,
+
+1486
+01:43:22,080 --> 01:43:26,200
+you won't be handling like three, four
+or five different tabs
+
+1487
+01:43:26,200 --> 01:43:29,800
+or windows. Okay.
+
+1488
+01:43:29,880 --> 01:43:35,000
+So the most the most you will be handling
+two different tabs.
+
+1489
+01:43:35,000 --> 01:43:35,720
+Okay.
+
+1490
+01:43:35,880 --> 01:43:36,960
+All right, guys.
+
+1491
+01:43:36,960 --> 01:43:47,360
+So. Oh,
+
+1492
+01:43:47,600 --> 01:43:50,840
+here the title.
+
+1493
+01:43:50,840 --> 01:43:52,000
+Okay, Why? Why?
+
+1494
+01:43:52,000 --> 01:43:53,520
+We're missing that.
+
+1495
+01:43:53,520 --> 01:44:03,400
+The main page title in here.
+
+1496
+01:44:03,400 --> 01:44:06,720
+Because we're excluding the main page
+from the loop.
+
+1497
+01:44:06,720 --> 01:44:07,240
+Exactly.
+
+1498
+01:44:07,240 --> 01:44:12,080
+So in the if condition, if our main page
+handle equals this handle,
+
+1499
+01:44:12,240 --> 01:44:15,480
+we're not inside this and we're
+
+1500
+01:44:15,480 --> 01:44:19,040
+not getting any titles. Okay.
+
+1501
+01:44:20,280 --> 01:44:20,840
+Exactly.
+
+1502
+01:44:20,840 --> 01:44:21,560
+Okay.
+
+1503
+01:44:21,560 --> 01:44:24,160
+So one more time the wild loop, right?
+
+1504
+01:44:24,680 --> 01:44:27,120
+So we're going inside the wild loop.
+
+1505
+01:44:27,120 --> 01:44:33,320
+We have a set of window handles,
+which is for different tabs or windows.
+
+1506
+01:44:33,600 --> 01:44:34,120
+Right?
+
+1507
+01:44:34,120 --> 01:44:39,360
+So the first time I go in there,
+my next step is just the handle.
+
+1508
+01:44:39,360 --> 01:44:42,720
+It doesn't really matter
+which handle I am getting right?
+
+1509
+01:44:42,720 --> 01:44:46,880
+And then in here I have a check, right?
+
+1510
+01:44:46,880 --> 01:44:48,160
+I have a f condition.
+
+1511
+01:44:48,160 --> 01:44:51,160
+And here if the main page handle that
+
+1512
+01:44:51,160 --> 01:44:54,360
+I got on line 90
+
+1513
+01:44:54,400 --> 01:44:57,800
+equals that the handle I am on right now,
+
+1514
+01:44:59,240 --> 01:45:02,040
+then I'm not going to be performing
+anything.
+
+1515
+01:45:02,440 --> 01:45:06,360
+Okay I will be switching to that window
+
+1516
+01:45:06,360 --> 01:45:10,080
+handle right to the handle
+that I just stepped in.
+
+1517
+01:45:10,440 --> 01:45:13,160
+Only when my main page handle
+
+1518
+01:45:13,160 --> 01:45:17,080
+is not equal to this handle
+that I just Septem.
+
+1519
+01:45:17,520 --> 01:45:24,040
+Okay.
+
+1520
+01:45:24,040 --> 01:45:24,720
+Yeah, that's fine.
+
+1521
+01:45:24,720 --> 01:45:29,280
+I mean, you can you can exclude this
+get titles outside of the F condition,
+
+1522
+01:45:29,480 --> 01:45:34,000
+but the main point is to manipulate
+with the with the windows themselves.
+
+1523
+01:45:34,000 --> 01:45:35,600
+Right to switching.
+
+1524
+01:45:35,600 --> 01:45:37,800
+Okay.
+You can exclude this. That's fine. This
+
+1525
+01:45:40,560 --> 01:45:45,000
+f any questions.
+
+1526
+01:45:46,040 --> 01:45:58,280
+See? Okay.
+
+1527
+01:45:58,440 --> 01:46:02,120
+There's a matter of no such window
+exception.
+
+1528
+01:46:02,120 --> 01:46:03,760
+So please send us the code.
+
+1529
+01:46:03,760 --> 01:46:06,120
+Okay, so I want to see the code
+that you type in.
+
+1530
+01:46:06,120 --> 01:46:06,960
+I think
+
+1531
+01:46:08,280 --> 01:46:11,240
+you need to change something in there.
+
+1532
+01:46:11,280 --> 01:46:13,120
+All right, guys, if there is no questions.
+
+1533
+01:46:13,120 --> 01:46:17,160
+So what I want to do now,
+since I closed all the
+
+1534
+01:46:17,520 --> 01:46:20,160
+all the other child
+
+1535
+01:46:20,760 --> 01:46:22,560
+tabs, what I want to do,
+
+1536
+01:46:22,560 --> 01:46:25,640
+I want to click on this button again
+
+1537
+01:46:26,720 --> 01:46:30,600
+and open up a new tab or window.
+
+1538
+01:46:30,600 --> 01:46:31,400
+Okay.
+
+1539
+01:46:33,320 --> 01:46:37,000
+So it's going to put it in here.
+
+1540
+01:46:37,000 --> 01:46:37,320
+Okay.
+
+1541
+01:46:37,320 --> 01:46:53,080
+If I run this right now,
+is this going to work or no?
+
+1542
+01:46:53,080 --> 01:46:54,000
+Okay, cool.
+
+1543
+01:46:54,000 --> 01:46:58,240
+Let's run
+this and see if this is going to work.
+
+1544
+01:46:58,240 --> 01:46:58,680
+Okay.
+
+1545
+01:46:58,680 --> 01:47:01,200
+So I see there's a lot of yes's.
+Okay, cool.
+
+1546
+01:47:01,720 --> 01:47:12,080
+So let me run this.
+
+1547
+01:47:12,080 --> 01:47:13,800
+A opening.
+
+1548
+01:47:13,800 --> 01:47:20,640
+Three different windows.
+
+1549
+01:47:20,640 --> 01:47:22,960
+Okay, Closing this.
+
+1550
+01:47:22,960 --> 01:47:27,840
+So now let's
+go ahead and take a look in here.
+
+1551
+01:47:27,840 --> 01:47:28,840
+What happened, guys?
+
+1552
+01:47:30,240 --> 01:47:33,120
+No such window exception.
+
+1553
+01:47:33,120 --> 01:47:35,840
+Target window or be closed.
+
+1554
+01:47:36,000 --> 01:47:42,720
+What happened in here, guys?
+
+1555
+01:47:42,720 --> 01:47:55,200
+Why you didn't click on this button?
+
+1556
+01:47:55,200 --> 01:47:56,440
+Yeah, it's not closed. Right?
+
+1557
+01:47:56,440 --> 01:48:00,360
+So I kept my main page open
+and what I need it to do,
+
+1558
+01:48:00,480 --> 01:48:04,600
+I want it to click on Instagram button.
+
+1559
+01:48:04,600 --> 01:48:06,160
+We handle it.
+
+1560
+01:48:06,480 --> 01:48:08,440
+Sure, if that's a good question.
+
+1561
+01:48:08,440 --> 01:48:12,920
+So why do we need to switch first,
+
+1562
+01:48:13,280 --> 01:48:27,840
+then click?
+
+1563
+01:48:27,840 --> 01:48:31,440
+Because the focus is not on our main page.
+
+1564
+01:48:31,800 --> 01:48:34,680
+Absolutely right, guys.
+
+1565
+01:48:34,680 --> 01:48:37,440
+So if you go in here so,
+
+1566
+01:48:37,440 --> 01:48:40,160
+I closed three different windows, right?
+
+1567
+01:48:40,560 --> 01:48:44,040
+So when I closed the last one where it was
+
+1568
+01:48:44,040 --> 01:48:52,800
+my focus guys before,
+
+1569
+01:48:52,800 --> 01:48:57,960
+when I closed my last tab,
+my focus was on the last window.
+
+1570
+01:48:58,280 --> 01:49:00,480
+So I closed it right?
+
+1571
+01:49:00,680 --> 01:49:01,560
+I closed it.
+
+1572
+01:49:01,560 --> 01:49:05,160
+So now my selenium
+is looking for where to go, right?
+
+1573
+01:49:05,440 --> 01:49:08,320
+So I need to tell the selenium.
+
+1574
+01:49:08,320 --> 01:49:10,280
+Okay, so with closed doors.
+
+1575
+01:49:10,280 --> 01:49:11,640
+Good. That's very good.
+
+1576
+01:49:11,640 --> 01:49:15,440
+So now what you need to do,
+you need to switch back
+
+1577
+01:49:15,440 --> 01:49:19,600
+your focus to the
+main page that is still open.
+
+1578
+01:49:20,720 --> 01:49:21,360
+Okay.
+
+1579
+01:49:21,360 --> 01:49:26,400
+Is that clear, guys, As we said before,
+guys, how we opened these three
+
+1580
+01:49:26,400 --> 01:49:29,480
+without switching
+Because even though we see
+
+1581
+01:49:29,480 --> 01:49:31,680
+those three trial
+
+1582
+01:49:33,080 --> 01:49:34,840
+tabs on Windows,
+
+1583
+01:49:34,840 --> 01:49:38,560
+we are still able to click on this
+because our focus
+
+1584
+01:49:38,760 --> 01:49:42,120
+is still on the main page. Okay
+
+1585
+01:49:45,200 --> 01:49:47,640
+You know, there's no to make a default,
+
+1586
+01:49:47,840 --> 01:49:51,960
+but you have to switch back to the main
+right.
+
+1587
+01:49:51,960 --> 01:49:55,560
+So switch to the window.
+
+1588
+01:49:55,800 --> 01:49:58,600
+Where do we have our main page
+window, guys?
+
+1589
+01:49:59,480 --> 01:50:02,800
+We have our main page window right on line
+
+1590
+01:50:02,800 --> 01:50:05,720
+19, so grab that
+
+1591
+01:50:07,080 --> 01:50:08,160
+pasted in here.
+
+1592
+01:50:08,160 --> 01:50:11,120
+So we switch back to the main page
+and only
+
+1593
+01:50:11,120 --> 01:50:14,200
+then we click on Instagram button again.
+
+1594
+01:50:14,880 --> 01:50:19,800
+Okay, Is that clear, guys?
+
+1595
+01:50:19,800 --> 01:50:23,160
+Any questions?
+
+1596
+01:50:23,160 --> 01:50:26,400
+So let's run
+this and see visually what is going on.
+
+1597
+01:50:28,400 --> 01:50:32,280
+The opening three, right?
+
+1598
+01:50:32,280 --> 01:50:36,600
+So we need to close all of them now.
+
+1599
+01:50:36,600 --> 01:50:37,680
+Okay, closed.
+
+1600
+01:50:37,680 --> 01:50:42,960
+And now switch back to the main
+and clicked on Instagram
+
+1601
+01:50:43,200 --> 01:50:47,920
+button.
+
+1602
+01:50:47,920 --> 01:50:49,560
+Click all three buttons.
+
+1603
+01:50:49,560 --> 01:50:51,800
+Yes. So okay guys.
+
+1604
+01:50:51,800 --> 01:50:54,840
+So the focus stays on the main page
+
+1605
+01:50:54,840 --> 01:50:58,200
+when, when I just opened it, right,
+
+1606
+01:50:58,320 --> 01:51:02,240
+I open my main page,
+I click on three different buttons.
+
+1607
+01:51:02,480 --> 01:51:06,600
+So while I'm clicking on these
+three buttons, am I switching anywhere?
+
+1608
+01:51:07,480 --> 01:51:08,400
+No. Right.
+
+1609
+01:51:08,400 --> 01:51:11,760
+So that's why
+my focus stays on the main page.
+
+1610
+01:51:12,280 --> 01:51:15,040
+But whenever I am inside the
+
+1611
+01:51:15,040 --> 01:51:17,880
+why loop, right I am.
+
+1612
+01:51:18,200 --> 01:51:21,440
+I keep switching the windows
+and closing them.
+
+1613
+01:51:21,720 --> 01:51:25,280
+So the last window when I closed
+
+1614
+01:51:25,320 --> 01:51:28,200
+before I closed, I change my
+
+1615
+01:51:29,640 --> 01:51:32,760
+I changed my focus to the last window.
+
+1616
+01:51:33,360 --> 01:51:35,280
+Right. And then close it.
+
+1617
+01:51:35,280 --> 01:51:40,000
+So when I close that window
+now we don't have anything to focus on.
+
+1618
+01:51:40,960 --> 01:51:42,280
+And then
+
+1619
+01:51:42,280 --> 01:51:47,600
+we need to switch to the main manually
+and to click that button again.
+
+1620
+01:51:48,000 --> 01:51:53,680
+Okay, I hope this is clear, guys.
+
+1621
+01:51:53,680 --> 01:51:56,480
+Let me actually
+
+1622
+01:51:56,480 --> 01:51:58,120
+put you some notes in here.
+
+1623
+01:51:58,120 --> 01:52:00,040
+So that's going to be
+
+1624
+01:52:00,720 --> 01:52:03,640
+easier to start
+
+1625
+01:52:05,480 --> 01:52:07,320
+iterating
+
+1626
+01:52:07,560 --> 01:52:12,120
+through handles.
+
+1627
+01:52:12,120 --> 01:52:15,680
+They get the next
+
+1628
+01:52:15,960 --> 01:52:17,320
+handle
+
+1629
+01:52:18,080 --> 01:52:20,040
+on there and we need to set
+
+1630
+01:52:20,040 --> 01:52:26,800
+a condition, set
+
+1631
+01:52:27,480 --> 01:52:30,080
+condition in here.
+
+1632
+01:52:30,280 --> 01:52:33,840
+Then the next one,
+
+1633
+01:52:33,840 --> 01:52:40,440
+switch,
+
+1634
+01:52:40,440 --> 01:52:43,440
+switch to a window
+
+1635
+01:52:47,720 --> 01:52:48,480
+that's
+
+1636
+01:52:49,600 --> 01:52:53,040
+equal to
+
+1637
+01:52:53,280 --> 01:52:54,000
+main page.
+
+1638
+01:52:54,000 --> 01:52:58,560
+Then, Okay.
+
+1639
+01:52:58,840 --> 01:53:00,400
+And then
+
+1640
+01:53:07,920 --> 01:53:10,160
+two and
+
+1641
+01:53:10,400 --> 01:53:12,360
+then.
+
+1642
+01:53:12,360 --> 01:53:13,520
+All right.
+
+1643
+01:53:14,160 --> 01:53:21,400
+Any questions, guys?
+
+1644
+01:53:21,400 --> 01:53:22,800
+Oh, clear.
+
+1645
+01:53:22,800 --> 01:53:25,200
+A little bit confusing at first, guys,
+
+1646
+01:53:25,200 --> 01:53:29,040
+but by the time and practice,
+we should be able to
+
+1647
+01:53:30,320 --> 01:53:31,480
+get comfortable in that.
+
+1648
+01:53:31,480 --> 01:53:36,200
+Okay.
+
+1649
+01:53:36,200 --> 01:53:39,960
+And I'll give you a homework, guys,
+so that you guys can play around with
+
+1650
+01:53:40,160 --> 01:53:49,200
+with different windows.
+
+1651
+01:53:49,200 --> 01:53:52,080
+All right.
+
+1652
+01:53:52,080 --> 01:53:53,440
+The windows are closed
+
+1653
+01:53:56,160 --> 01:53:57,120
+nowhere.
+
+1654
+01:53:57,120 --> 01:54:00,280
+There's no there's no focus at that time.
+
+1655
+01:54:00,920 --> 01:54:05,400
+If all the windows are if the windows
+are closed and there's one remaining.
+
+1656
+01:54:05,400 --> 01:54:11,040
+So when you had your focus on the last one
+and you close that window
+
+1657
+01:54:11,240 --> 01:54:15,280
+so you don't have a focus at all, okay.
+
+1658
+01:54:15,800 --> 01:54:19,360
+So you have to switch to the
+
+1659
+01:54:19,360 --> 01:54:21,080
+to the main page or to the page
+
+1660
+01:54:21,080 --> 01:54:27,960
+that is open right now.
+
+1661
+01:54:27,960 --> 01:54:29,960
+Can I give you some more homework?
+
+1662
+01:54:29,960 --> 01:54:33,520
+I'll see you guys. Okay.
+
+1663
+01:54:33,520 --> 01:54:37,800
+I have two tasks for you for the homework,
+but I'll see if I can come up
+
+1664
+01:54:37,800 --> 01:54:46,200
+with anything else.
+
+1665
+01:54:46,200 --> 01:54:47,520
+All right?
+
+1666
+01:54:47,520 --> 01:54:48,360
+Okay, guys.
+
+1667
+01:54:48,360 --> 01:54:52,320
+So clear with the
+
+1668
+01:54:54,160 --> 01:54:55,960
+what's called clear with a window.
+
+1669
+01:54:55,960 --> 01:55:01,200
+So now what's going to happen is
+we will be going over the weights.
+
+1670
+01:55:01,800 --> 01:55:04,200
+Okay,
+So we'll start going over the weights
+
+1671
+01:55:04,200 --> 01:55:07,080
+in selenium right now,
+and then we'll continue tomorrow.
+
+1672
+01:55:07,360 --> 01:55:11,760
+Okay.
+
+1673
+01:55:11,760 --> 01:55:15,400
+Now, with closing the last window,
+
+1674
+01:55:15,680 --> 01:55:18,520
+the focus will not be anywhere.
+
+1675
+01:55:18,520 --> 01:55:19,360
+Okay.
+
+1676
+01:55:19,800 --> 01:55:23,400
+So you don't have focus on any page
+because your page is closed
+
+1677
+01:55:24,600 --> 01:55:25,560
+and you need
+
+1678
+01:55:25,560 --> 01:55:28,680
+to get back to the page
+that is open right now.
+
+1679
+01:55:29,560 --> 01:55:34,760
+Okay.
+
+1680
+01:55:34,760 --> 01:55:36,080
+All right.
+
+1681
+01:55:36,400 --> 01:55:39,760
+So let me
+
+1682
+01:55:46,120 --> 01:55:47,320
+get back to the notes.
+
+1683
+01:55:47,320 --> 01:55:49,440
+Okay, guys. So now
+
+1684
+01:55:50,400 --> 01:55:52,880
+so before guys,
+
+1685
+01:55:52,920 --> 01:55:55,520
+before, if we had to pause something,
+
+1686
+01:55:55,520 --> 01:55:57,520
+if we had to add some time to
+
+1687
+01:56:01,080 --> 01:56:02,640
+to wait for a little bit.
+
+1688
+01:56:02,640 --> 01:56:06,560
+Guys, what did we have to use you guys
+
+1689
+01:56:09,840 --> 01:56:10,080
+that.
+
+1690
+01:56:10,080 --> 01:56:12,840
+That's right. Okay.
+
+1691
+01:56:12,840 --> 01:56:16,920
+So in Selenium, we have different
+different kinds weights in here.
+
+1692
+01:56:16,920 --> 01:56:17,720
+Okay?
+
+1693
+01:56:17,800 --> 01:56:21,080
+So thread that sleep is going to do
+what is going to pause
+
+1694
+01:56:21,360 --> 01:56:24,360
+your execution for a couple of seconds.
+
+1695
+01:56:24,360 --> 01:56:26,400
+However, you mentioned the seconds, right?
+
+1696
+01:56:26,400 --> 01:56:29,160
+So 2 seconds, five, ten,
+whatever you want to do.
+
+1697
+01:56:29,560 --> 01:56:32,400
+Okay. Now
+
+1698
+01:56:32,400 --> 01:56:36,040
+what are we actually guys
+stopping in here?
+
+1699
+01:56:36,040 --> 01:56:38,320
+So what are we trying to do?
+
+1700
+01:56:38,320 --> 01:56:40,080
+So we tried to exit.
+
+1701
+01:56:40,080 --> 01:56:43,600
+I mean, we're trying
+to pause our execution, but for what?
+
+1702
+01:56:43,680 --> 01:56:48,400
+What are we trying to do in here, guys?
+
+1703
+01:56:48,400 --> 01:56:50,520
+So if we don't do it,
+what's going to happen?
+
+1704
+01:56:50,520 --> 01:56:52,480
+So our code is going to fail.
+
+1705
+01:56:52,480 --> 01:57:00,560
+So what is actually happening in here,
+guys?
+
+1706
+01:57:00,560 --> 01:57:02,760
+So windows take some time to load.
+
+1707
+01:57:02,760 --> 01:57:06,720
+Okay, So our is really fast
+
+1708
+01:57:07,080 --> 01:57:10,920
+and the page might not
+be loading too fast.
+
+1709
+01:57:11,280 --> 01:57:11,640
+Right?
+
+1710
+01:57:12,680 --> 01:57:15,760
+So what are we trying to do in here, guys?
+
+1711
+01:57:16,040 --> 01:57:18,320
+We're trying to bring
+
+1712
+01:57:19,400 --> 01:57:21,640
+the our page or the code
+
+1713
+01:57:22,080 --> 01:57:25,320
+to the same level of speed.
+
+1714
+01:57:25,320 --> 01:57:26,120
+Right.
+
+1715
+01:57:26,320 --> 01:57:29,040
+So basically what we're doing in here,
+
+1716
+01:57:29,160 --> 01:57:33,280
+we're
+synchronizing our code, our execution
+
+1717
+01:57:33,640 --> 01:57:37,880
+and whatever we have on the Web page,
+okay?
+
+1718
+01:57:38,080 --> 01:57:43,200
+Because usually if we run our code
+without any weights, it's really fast.
+
+1719
+01:57:43,200 --> 01:57:45,240
+It's not going to wait for anything.
+
+1720
+01:57:45,240 --> 01:57:46,600
+It will just run.
+
+1721
+01:57:46,600 --> 01:57:47,880
+And if it
+
+1722
+01:57:47,880 --> 01:57:51,080
+if it doesn't find any elements,
+what it's going to do, it's going to fail.
+
+1723
+01:57:51,480 --> 01:57:52,000
+Right.
+
+1724
+01:57:52,000 --> 01:57:57,320
+So in this case, what we need to do,
+we need to synchronize, right.
+
+1725
+01:57:57,480 --> 01:58:01,120
+Synchronize our code, our execution
+
+1726
+01:58:01,440 --> 01:58:06,600
+and the load page, page loading or element
+loading, whatever it is.
+
+1727
+01:58:06,840 --> 01:58:10,040
+So. All right. Any questions? Got
+
+1728
+01:58:12,640 --> 01:58:19,120
+it right.
+
+1729
+01:58:19,120 --> 01:58:21,040
+Synchronization right.
+
+1730
+01:58:21,040 --> 01:58:23,440
+So it is
+
+1731
+01:58:27,000 --> 01:58:27,960
+here.
+
+1732
+01:58:29,040 --> 01:58:33,160
+The synchronization right is the process
+
+1733
+01:58:34,680 --> 01:58:37,800
+of bringing
+
+1734
+01:58:39,400 --> 01:58:43,320
+this feed of two or more
+
+1735
+01:58:45,520 --> 01:58:50,160
+components right to the same level.
+
+1736
+01:58:51,040 --> 01:58:52,440
+Okay.
+
+1737
+01:58:52,440 --> 01:58:55,640
+In this case, we're bringing
+
+1738
+01:58:55,640 --> 01:58:57,680
+we'll bring in our script
+
+1739
+01:58:58,040 --> 01:59:02,520
+and page load to the same speed.
+
+1740
+01:59:02,520 --> 01:59:03,200
+Right.
+
+1741
+01:59:03,200 --> 01:59:08,320
+So in this case,
+
+1742
+01:59:08,320 --> 01:59:09,640
+we are
+
+1743
+01:59:14,840 --> 01:59:15,120
+we're
+
+1744
+01:59:16,240 --> 01:59:17,680
+bringing
+
+1745
+01:59:18,120 --> 01:59:21,560
+scripts and
+
+1746
+01:59:21,560 --> 01:59:24,680
+page load to the same
+
+1747
+01:59:24,680 --> 01:59:26,520
+speed level.
+
+1748
+01:59:26,520 --> 01:59:29,040
+Okay. All right.
+
+1749
+01:59:29,040 --> 01:59:32,560
+So basically what we're doing,
+we're synchronizing, right?
+
+1750
+01:59:32,920 --> 01:59:35,480
+So thread that's sleep, right?
+
+1751
+01:59:35,480 --> 01:59:37,080
+And we talked about this.
+
+1752
+01:59:37,080 --> 01:59:38,520
+What is
+
+1753
+01:59:39,120 --> 01:59:41,880
+what kind of weight is this, guys?
+
+1754
+01:59:41,880 --> 01:59:43,520
+Anybody know?
+
+1755
+01:59:43,640 --> 01:59:46,960
+Does anyone have any idea
+what kind of weight is this
+
+1756
+01:59:47,800 --> 01:59:49,760
+So we set manually.
+
+1757
+01:59:49,760 --> 01:59:52,520
+Okay.
+
+1758
+01:59:52,520 --> 01:59:54,440
+Anything else, guys
+
+1759
+01:59:59,160 --> 02:00:00,240
+with a computer speed?
+
+1760
+02:00:00,240 --> 02:00:01,400
+No, I don't think so.
+
+1761
+02:00:01,400 --> 02:00:03,280
+I mean, if it's computer speed, then
+
+1762
+02:00:04,520 --> 02:00:05,880
+we when you
+
+1763
+02:00:05,880 --> 02:00:08,960
+start your execution,
+when you executing starts,
+
+1764
+02:00:09,120 --> 02:00:11,160
+it has nothing to do with the computer
+speed
+
+1765
+02:00:14,560 --> 02:00:15,440
+or time.
+
+1766
+02:00:15,440 --> 02:00:17,440
+Wait, time, temporary. Okay.
+
+1767
+02:00:17,840 --> 02:00:18,920
+So almost.
+
+1768
+02:00:18,920 --> 02:00:21,280
+It's a static weight, right?
+
+1769
+02:00:21,720 --> 02:00:24,640
+So whenever you
+anything, it's a static weight.
+
+1770
+02:00:24,760 --> 02:00:25,920
+You don't change it.
+
+1771
+02:00:25,920 --> 02:00:29,200
+It's it will wait for the amount of
+
+1772
+02:00:29,640 --> 02:00:32,800
+for the amount of seconds
+that you specify.
+
+1773
+02:00:32,800 --> 02:00:33,280
+Right.
+
+1774
+02:00:33,280 --> 02:00:36,880
+So it's not going to change
+according to the to the web elements
+
+1775
+02:00:36,880 --> 02:00:40,240
+or according to the web page load. Right.
+
+1776
+02:00:40,480 --> 02:00:43,000
+So what it is, is it's a static way
+
+1777
+02:00:43,200 --> 02:00:46,680
+that you give the amount
+of the weight in there.
+
+1778
+02:00:46,920 --> 02:00:50,440
+Okay, So static weight
+
+1779
+02:00:51,120 --> 02:00:55,800
+or we also say
+it is unconditional weight, right?
+
+1780
+02:00:57,520 --> 02:01:00,280
+Because here we don't have any conditions.
+
+1781
+02:01:00,280 --> 02:01:03,600
+You are just causing your execution
+for the
+
+1782
+02:01:04,040 --> 02:01:06,160
+for some amount of time and that's it.
+
+1783
+02:01:06,640 --> 02:01:06,960
+Right.
+
+1784
+02:01:08,600 --> 02:01:09,720
+As the easiest job.
+
+1785
+02:01:09,720 --> 02:01:10,440
+Yeah.
+
+1786
+02:01:10,960 --> 02:01:12,880
+Yeah. I mean, sleeps all the time.
+
+1787
+02:01:12,880 --> 02:01:14,040
+There you go.
+
+1788
+02:01:14,400 --> 02:01:15,240
+Okay.
+
+1789
+02:01:15,240 --> 02:01:16,440
+So now
+
+1790
+02:01:18,200 --> 02:01:20,760
+any other types of selenium weights?
+
+1791
+02:01:20,760 --> 02:01:26,480
+We know guys.
+
+1792
+02:01:26,480 --> 02:01:29,520
+So there's two types of
+
+1793
+02:01:30,360 --> 02:01:35,400
+so in here.
+
+1794
+02:01:35,400 --> 02:01:36,760
+Explicit weight.
+
+1795
+02:01:36,760 --> 02:01:37,760
+Okay, What else?
+
+1796
+02:01:37,760 --> 02:01:44,080
+Implicit weight and what else, guys?
+
+1797
+02:01:44,080 --> 02:01:47,840
+Implicit, explicit and slow and weights.
+
+1798
+02:01:48,120 --> 02:01:51,400
+Okay, So three different types of weights.
+
+1799
+02:01:51,400 --> 02:01:53,400
+We have in selenium.
+
+1800
+02:01:53,400 --> 02:01:55,280
+Okay.
+
+1801
+02:01:55,280 --> 02:02:00,760
+Implicit weight, explicit weight and
+
+1802
+02:02:01,800 --> 02:02:04,480
+slight weight.
+
+1803
+02:02:04,480 --> 02:02:05,160
+Okay.
+
+1804
+02:02:05,240 --> 02:02:08,000
+So today we will only be going over
+
+1805
+02:02:08,120 --> 02:02:11,000
+implicit weights and tomorrow
+we'll finish it up.
+
+1806
+02:02:11,000 --> 02:02:16,080
+Well, explicit and slow int weights.
+
+1807
+02:02:16,600 --> 02:02:19,280
+Okay.
+
+1808
+02:02:19,280 --> 02:02:20,120
+All right.
+
+1809
+02:02:20,280 --> 02:02:22,360
+So what is implicit weight? Does
+
+1810
+02:02:24,040 --> 02:02:38,400
+anyone did research on this?
+
+1811
+02:02:38,400 --> 02:02:39,360
+We don't define.
+
+1812
+02:02:39,360 --> 02:02:41,800
+Okay, what else, guys?
+
+1813
+02:02:41,800 --> 02:02:44,040
+Oh, we will be defining
+the implicit weight.
+
+1814
+02:02:44,520 --> 02:02:47,520
+We will be defining it.
+
+1815
+02:02:47,520 --> 02:02:49,080
+What is the implicit weight
+
+1816
+02:02:58,480 --> 02:02:59,480
+by default?
+
+1817
+02:02:59,480 --> 02:03:00,480
+Okay.
+
+1818
+02:03:00,480 --> 02:03:02,440
+A way for a certain amount of time.
+
+1819
+02:03:02,440 --> 02:03:05,160
+Okay.
+
+1820
+02:03:05,160 --> 02:03:08,360
+So implicit weight, guys,
+
+1821
+02:03:08,800 --> 02:03:11,720
+is a global weight insulin.
+
+1822
+02:03:12,520 --> 02:03:15,880
+So what it does it tells the web driver
+
+1823
+02:03:16,200 --> 02:03:18,360
+to wait for a certain amount of time
+
+1824
+02:03:19,520 --> 02:03:21,840
+before throwing an exception.
+
+1825
+02:03:22,760 --> 02:03:23,480
+Okay.
+
+1826
+02:03:23,480 --> 02:03:28,760
+So we're going to be inviting the implicit
+weight only once in our script
+
+1827
+02:03:28,920 --> 02:03:31,680
+and it will be applied
+for the whole session
+
+1828
+02:03:31,840 --> 02:03:34,840
+of the execution.
+
+1829
+02:03:34,840 --> 02:03:36,320
+Is that clear, guys?
+
+1830
+02:03:36,320 --> 02:03:38,200
+And I'll show you how to implement that.
+
+1831
+02:03:38,200 --> 02:03:41,040
+But let's go through the theoretical part
+first,
+
+1832
+02:03:41,520 --> 02:03:46,200
+okay?
+
+1833
+02:03:46,200 --> 02:03:48,680
+Isn't it based on the page size loading?
+
+1834
+02:03:48,680 --> 02:03:50,400
+Not not this one.
+
+1835
+02:03:50,400 --> 02:03:57,240
+No default for defined.
+
+1836
+02:03:58,760 --> 02:04:00,600
+So it is a define.
+
+1837
+02:04:00,600 --> 02:04:05,360
+So there's no
+I mean there is no default weight.
+
+1838
+02:04:05,360 --> 02:04:09,320
+So it's not going to there's no weight
+that it's going to be applied
+
+1839
+02:04:09,320 --> 02:04:13,880
+to automatically
+you have to define all the weights okay.
+
+1840
+02:04:14,640 --> 02:04:19,080
+If you want any weight to be implemented
+
+1841
+02:04:19,080 --> 02:04:22,640
+in your execution,
+then you have to define it in your script.
+
+1842
+02:04:23,200 --> 02:04:23,720
+Okay.
+
+1843
+02:04:23,720 --> 02:04:29,160
+Is that clear, guys?
+
+1844
+02:04:29,160 --> 02:04:33,240
+Okay.
+
+1845
+02:04:33,240 --> 02:04:36,680
+Oh, the time, the time, the default type.
+
+1846
+02:04:36,680 --> 02:04:39,080
+We'll be setting it ourselves.
+
+1847
+02:04:39,080 --> 02:04:41,400
+The default time is zero, guys.
+
+1848
+02:04:41,400 --> 02:04:46,080
+Okay.
+
+1849
+02:04:46,080 --> 02:04:48,840
+Okay, so let's put in here.
+
+1850
+02:04:49,320 --> 02:04:51,640
+It tells me
+
+1851
+02:04:53,000 --> 02:04:54,600
+Web driver
+
+1852
+02:04:54,600 --> 02:04:57,360
+to wait for a
+
+1853
+02:04:59,000 --> 02:05:01,760
+certain amount of time
+
+1854
+02:05:02,680 --> 02:05:03,960
+before
+
+1855
+02:05:05,200 --> 02:05:09,720
+following an exception.
+
+1856
+02:05:09,720 --> 02:05:12,120
+And then
+
+1857
+02:05:12,160 --> 02:05:14,400
+it will only be
+
+1858
+02:05:17,440 --> 02:05:19,520
+written once and
+
+1859
+02:05:20,880 --> 02:05:24,240
+will be applied to the or
+
+1860
+02:05:25,840 --> 02:05:28,680
+session end of the
+
+1861
+02:05:28,680 --> 02:05:30,280
+execution.
+
+1862
+02:05:31,080 --> 02:05:31,720
+Okay.
+
+1863
+02:05:31,720 --> 02:05:34,280
+And we set that within,
+
+1864
+02:05:35,640 --> 02:05:40,560
+say said the implicit weight
+
+1865
+02:05:41,760 --> 02:05:51,800
+is a global weight.
+
+1866
+02:05:51,800 --> 02:05:54,040
+What's the definition of the exception?
+
+1867
+02:05:54,280 --> 02:05:56,040
+It's an error, right?
+
+1868
+02:05:56,040 --> 02:05:59,960
+So no such element exceptions, right?
+
+1869
+02:06:00,240 --> 02:06:02,880
+No such window exceptions
+that we just got.
+
+1870
+02:06:03,240 --> 02:06:08,320
+So that's that's the error right.
+
+1871
+02:06:08,320 --> 02:06:09,160
+Okay.
+
+1872
+02:06:09,480 --> 02:06:10,200
+All right guys.
+
+1873
+02:06:10,200 --> 02:06:14,800
+So whenever we implement
+the implicit weight, okay,
+
+1874
+02:06:15,840 --> 02:06:18,000
+whenever we implement implicit weight,
+
+1875
+02:06:19,080 --> 02:06:24,560
+what happens is so implicit weight is
+
+1876
+02:06:26,360 --> 02:06:29,040
+usually set to 20 seconds.
+
+1877
+02:06:29,520 --> 02:06:30,960
+Okay?
+
+1878
+02:06:30,960 --> 02:06:34,320
+So implicit weight is it
+
+1879
+02:06:34,320 --> 02:06:36,640
+works with the fine element.
+
+1880
+02:06:37,680 --> 02:06:39,720
+Find element method. Okay.
+
+1881
+02:06:39,720 --> 02:06:41,000
+And find element method.
+
+1882
+02:06:41,000 --> 02:06:44,480
+We already know that it will go ahead
+and identify that element.
+
+1883
+02:06:44,760 --> 02:06:45,560
+Okay.
+
+1884
+02:06:45,640 --> 02:06:49,080
+So what happens in there if your element,
+
+1885
+02:06:49,080 --> 02:06:53,520
+if you're trying to find an element
+and if your element is found
+
+1886
+02:06:54,600 --> 02:06:57,720
+in 20
+
+1887
+02:06:57,720 --> 02:07:00,240
+and 20 seconds that you have mention,
+
+1888
+02:07:00,240 --> 02:07:04,480
+but the rest of the time will be ignored
+
+1889
+02:07:04,480 --> 02:07:07,320
+and your script will be continued.
+
+1890
+02:07:08,040 --> 02:07:10,360
+Okay, so let's
+
+1891
+02:07:10,360 --> 02:07:13,880
+say you set your implicit
+weight for 20 seconds
+
+1892
+02:07:14,120 --> 02:07:17,280
+and you try to locate the element, okay?
+
+1893
+02:07:17,680 --> 02:07:23,640
+And use selenium found the element
+in 5 seconds, so the rest 15 seconds
+
+1894
+02:07:23,880 --> 02:07:29,400
+will be ignored and your code will
+go ahead to the next line.
+
+1895
+02:07:29,760 --> 02:07:30,240
+Okay.
+
+1896
+02:07:30,240 --> 02:07:38,000
+Is that clear, guys?
+
+1897
+02:07:38,000 --> 02:07:43,480
+But if your element
+is not found in the given time,
+
+1898
+02:07:43,480 --> 02:07:46,240
+we we gave it, let's say,
+20 seconds, right?
+
+1899
+02:07:46,800 --> 02:07:49,600
+Only then you will get an exception.
+
+1900
+02:07:50,280 --> 02:07:52,000
+Okay. Is that fair?
+
+1901
+02:07:52,000 --> 02:07:57,480
+So basically,
+whenever you try to find any a what's
+
+1902
+02:07:57,480 --> 02:08:01,320
+called an element, you set your implicit
+weight for 20 seconds.
+
+1903
+02:08:01,640 --> 02:08:04,120
+If you find if you finds that
+
+1904
+02:08:05,440 --> 02:08:06,440
+that element
+
+1905
+02:08:06,440 --> 02:08:09,320
+in 5 seconds, the rest 15 will be ignored.
+
+1906
+02:08:09,600 --> 02:08:12,720
+Or if it if the selenium doesn't find
+
+1907
+02:08:12,920 --> 02:08:16,840
+that element in 20 seconds
+then you will get an exception.
+
+1908
+02:08:17,880 --> 02:08:22,840
+Okay, that's a good question.
+
+1909
+02:08:22,840 --> 02:08:25,720
+It will not work with find elements.
+
+1910
+02:08:25,920 --> 02:08:29,160
+It will not work
+with the list of elements.
+
+1911
+02:08:29,400 --> 02:08:29,880
+Okay.
+
+1912
+02:08:29,880 --> 02:08:32,760
+It will only work with single element.
+
+1913
+02:08:33,280 --> 02:08:40,160
+Okay, sure.
+
+1914
+02:08:40,400 --> 02:08:41,560
+Okay, cool.
+
+1915
+02:08:41,560 --> 02:08:45,600
+So let's put it here.
+
+1916
+02:08:46,120 --> 02:08:51,720
+So implicit weight is usually set
+
+1917
+02:08:53,280 --> 02:08:55,440
+to seconds.
+
+1918
+02:08:55,440 --> 02:08:56,800
+Okay.
+
+1919
+02:08:56,800 --> 02:09:01,800
+And if four elements
+
+1920
+02:09:04,280 --> 02:09:07,240
+is found in
+
+1921
+02:09:10,560 --> 02:09:12,840
+any time
+
+1922
+02:09:13,080 --> 02:09:15,240
+between the
+
+1923
+02:09:15,280 --> 02:09:17,360
+between the rest of the time.
+
+1924
+02:09:17,360 --> 02:09:21,440
+All right.
+
+1925
+02:09:21,440 --> 02:09:24,720
+Or let's put it between the remaining
+
+1926
+02:09:27,600 --> 02:09:28,360
+time.
+
+1927
+02:09:28,360 --> 02:09:33,240
+All right.
+
+1928
+02:09:33,240 --> 02:09:38,480
+It said time will be
+
+1929
+02:09:39,880 --> 02:09:42,960
+ignored and you're
+
+1930
+02:09:44,960 --> 02:09:46,400
+script
+
+1931
+02:09:46,960 --> 02:09:49,480
+will move on
+
+1932
+02:09:49,480 --> 02:09:53,320
+to the next line for action.
+
+1933
+02:09:54,120 --> 02:09:56,440
+Okay.
+
+1934
+02:09:56,440 --> 02:09:59,160
+And if the element
+
+1935
+02:10:00,840 --> 02:10:02,920
+is not found
+
+1936
+02:10:03,960 --> 02:10:05,280
+in a given
+
+1937
+02:10:05,280 --> 02:10:13,200
+time, only then
+
+1938
+02:10:14,760 --> 02:10:17,520
+you'll get an exception
+
+1939
+02:10:21,840 --> 02:10:24,480
+can you adjust the implicit weight.
+
+1940
+02:10:24,480 --> 02:10:26,560
+You can adjust the waiting time
+
+1941
+02:10:27,200 --> 02:10:40,720
+on the implicit weight.
+
+1942
+02:10:40,720 --> 02:10:42,760
+Yes, you can put more.
+
+1943
+02:10:42,760 --> 02:10:45,240
+If you want to wait for 30 seconds,
+you can
+
+1944
+02:10:45,480 --> 02:10:47,680
+if you want to wait for 10 seconds,
+that's fine.
+
+1945
+02:10:47,880 --> 02:10:51,800
+But usually, guys, usually
+the implicit weight
+
+1946
+02:10:51,960 --> 02:10:54,760
+is always set to 20 seconds.
+
+1947
+02:10:55,200 --> 02:10:59,520
+Okay.
+
+1948
+02:10:59,520 --> 02:11:00,360
+All right.
+
+1949
+02:11:00,360 --> 02:11:05,480
+Any other questions before we go ahead
+and start the implementation,
+
+1950
+02:11:05,480 --> 02:11:21,320
+guys,
+
+1951
+02:11:21,320 --> 02:11:22,440
+Question
+
+1952
+02:11:28,320 --> 02:11:28,680
+Okay.
+
+1953
+02:11:28,680 --> 02:11:30,400
+What I do want to adjusted.
+
+1954
+02:11:30,400 --> 02:11:33,920
+Okay, So let's say it's
+set for 20 seconds, right?
+
+1955
+02:11:34,400 --> 02:11:37,440
+But you saying that
+
+1956
+02:11:37,440 --> 02:11:40,920
+so let's say your element is not found
+for 20 seconds, right?
+
+1957
+02:11:41,080 --> 02:11:44,200
+So what's going to happen
+is going to throw you an exception.
+
+1958
+02:11:44,200 --> 02:11:47,600
+So that means that
+you waited for 20 seconds.
+
+1959
+02:11:48,560 --> 02:11:48,840
+Right.
+
+1960
+02:11:48,840 --> 02:11:52,520
+But sometimes you say that, okay,
+I want this execution to be
+
+1961
+02:11:53,880 --> 02:11:57,000
+to end really fast.
+
+1962
+02:11:57,000 --> 02:12:01,080
+So now what I want to do, if it doesn't
+if it's not found,
+
+1963
+02:12:01,320 --> 02:12:05,520
+if the element is not found, I just want
+to wait for 10 seconds and sets enough.
+
+1964
+02:12:06,200 --> 02:12:07,320
+Okay Okay.
+
+1965
+02:12:07,320 --> 02:12:11,760
+So if you set this to 10 seconds
+
+1966
+02:12:12,000 --> 02:12:16,720
+and your element is not found,
+your execution will fail faster.
+
+1967
+02:12:16,720 --> 02:12:17,440
+Okay.
+
+1968
+02:12:18,160 --> 02:12:21,120
+But if it's not found in ten elements
+
+1969
+02:12:22,320 --> 02:12:25,720
+in 10 seconds,
+then you will get an exception.
+
+1970
+02:12:25,720 --> 02:12:31,040
+But if it's found inside that 10 seconds,
+then your script will move on.
+
+1971
+02:12:31,440 --> 02:12:32,280
+Okay.
+
+1972
+02:12:32,280 --> 02:12:36,080
+So this, as I said, the implicit weight
+
+1973
+02:12:37,320 --> 02:12:41,000
+that the time is not really adjusted
+frequency.
+
+1974
+02:12:41,440 --> 02:12:42,200
+Okay.
+
+1975
+02:12:42,240 --> 02:12:45,640
+So as I set, it sets usually to 20 seconds
+
+1976
+02:12:45,640 --> 02:12:48,680
+and it applies for the whole session.
+
+1977
+02:12:49,200 --> 02:12:49,800
+Okay.
+
+1978
+02:12:49,800 --> 02:12:52,480
+So it's not really
+you will be playing around
+
+1979
+02:12:52,480 --> 02:12:56,240
+with the implicit weights timing
+and all that stuff.
+
+1980
+02:12:56,240 --> 02:12:57,320
+It's not like that.
+
+1981
+02:12:57,320 --> 02:13:01,640
+You will set the implicit way
+once before the execution.
+
+1982
+02:13:02,760 --> 02:13:03,280
+Okay.
+
+1983
+02:13:03,280 --> 02:13:06,320
+And all the and after that your
+
+1984
+02:13:06,920 --> 02:13:09,840
+implicit way will be set to the amount
+that you gave it to.
+
+1985
+02:13:10,120 --> 02:13:14,320
+And it will be waiting for those elements
+whenever you try to find them
+
+1986
+02:13:14,560 --> 02:13:16,480
+for the given time that you set.
+
+1987
+02:13:16,480 --> 02:13:21,480
+Okay.
+
+1988
+02:13:21,480 --> 02:13:26,640
+All right.
+
+1989
+02:13:26,640 --> 02:13:29,120
+Let me create a class in here
+
+1990
+02:13:34,120 --> 02:13:36,720
+and simply demo
+
+1991
+02:13:41,280 --> 02:13:41,840
+for now.
+
+1992
+02:13:41,840 --> 02:13:43,240
+It is optional.
+
+1993
+02:13:43,240 --> 02:13:45,400
+For now it is optional,
+but when you land them
+
+1994
+02:13:46,520 --> 02:13:51,400
+on a job and you work on the projects,
+it is mandatory.
+
+1995
+02:13:51,680 --> 02:13:52,280
+Okay?
+
+1996
+02:13:52,280 --> 02:13:54,480
+Because this is going to be applied
+only once
+
+1997
+02:13:54,480 --> 02:13:57,600
+and it's going to be only written
+once in framework.
+
+1998
+02:13:57,960 --> 02:14:01,880
+Okay, So here since we having different
+different execution points
+
+1999
+02:14:02,280 --> 02:14:05,200
+that we have to write it all over again.
+
+2000
+02:14:05,280 --> 02:14:05,640
+Right.
+
+2001
+02:14:05,640 --> 02:14:09,320
+But when you try to work on the framework,
+you'll only have to write it once.
+
+2002
+02:14:09,720 --> 02:14:15,000
+Okay.
+
+2003
+02:14:15,000 --> 02:14:16,880
+Just once. Yes, just one in the framework
+
+2004
+02:14:23,520 --> 02:14:24,360
+you can type as well.
+
+2005
+02:14:24,360 --> 02:14:27,240
+Guys, this one is not
+that is not that difficult.
+
+2006
+02:14:27,960 --> 02:14:30,080
+Okay.
+
+2007
+02:14:30,080 --> 02:14:38,280
+So let's see.
+
+2008
+02:14:38,280 --> 02:14:40,320
+See where
+
+2009
+02:14:45,320 --> 02:14:47,520
+this goes? This
+
+2010
+02:15:09,680 --> 02:15:10,040
+All right.
+
+2011
+02:15:10,040 --> 02:15:10,800
+I guess so.
+
+2012
+02:15:10,800 --> 02:15:14,760
+What I want to do, I want to make sure
+
+2013
+02:15:17,880 --> 02:15:18,760
+I know.
+
+2014
+02:15:18,960 --> 02:15:22,040
+Okay, So what I want to do, guys,
+I just want to navigate
+
+2015
+02:15:22,040 --> 02:15:25,520
+to this Web page and here.
+
+2016
+02:15:25,520 --> 02:15:26,200
+Okay.
+
+2017
+02:15:26,200 --> 02:15:30,600
+And this might load some
+
+2018
+02:15:32,160 --> 02:15:34,920
+some elements
+a little bit later than expected.
+
+2019
+02:15:34,920 --> 02:15:35,280
+Okay.
+
+2020
+02:15:35,280 --> 02:15:37,840
+So what we're going to do,
+we're going to set an implicit weight
+
+2021
+02:15:38,080 --> 02:15:40,920
+and we will try to click on
+
+2022
+02:15:40,920 --> 02:15:44,160
+this, start the same element.
+
+2023
+02:15:44,280 --> 02:15:49,880
+Okay So so once you navigate to the URA,
+
+2024
+02:15:50,080 --> 02:15:53,800
+okay, guys, once you opened up a page and
+
+2025
+02:15:54,960 --> 02:15:59,560
+you try to perform some actions, okay,
+so before you perform any actions,
+
+2026
+02:15:59,840 --> 02:16:03,280
+what you want to do,
+you want to set your implicit width.
+
+2027
+02:16:03,600 --> 02:16:06,720
+Okay, So how you want to do it,
+it's pretty easy.
+
+2028
+02:16:07,120 --> 02:16:10,920
+So driver dot manage.
+
+2029
+02:16:11,240 --> 02:16:16,560
+Okay, so you need to manage
+so if, if you run out of time,
+
+2030
+02:16:16,680 --> 02:16:20,560
+what's going to happen guys?
+
+2031
+02:16:20,560 --> 02:16:24,840
+If you let's say if your element
+is not found in 20 seconds,
+
+2032
+02:16:25,000 --> 02:16:32,920
+what's going to happen.
+
+2033
+02:16:32,920 --> 02:16:33,920
+Exception. Right.
+
+2034
+02:16:33,920 --> 02:16:38,160
+In other words,
+it will be a timeout, right?
+
+2035
+02:16:38,400 --> 02:16:41,280
+So what we what we're doing here, we're
+
+2036
+02:16:41,280 --> 02:16:45,120
+managing timeouts.
+
+2037
+02:16:45,120 --> 02:16:45,320
+Okay.
+
+2038
+02:16:46,760 --> 02:16:48,760
+So with managing timeouts
+
+2039
+02:16:48,760 --> 02:16:51,160
+by implicitly wait
+
+2040
+02:16:51,920 --> 02:16:56,040
+by implicitly
+waiting for some time in here.
+
+2041
+02:16:56,200 --> 02:16:56,960
+Okay.
+
+2042
+02:16:57,120 --> 02:16:59,280
+So for managing the timeout
+
+2043
+02:16:59,600 --> 02:17:04,560
+by the implicitly wait in here
+and what we need to do inside
+
+2044
+02:17:04,680 --> 02:17:07,600
+parentheses, we need to,
+
+2045
+02:17:07,680 --> 02:17:09,680
+we need to set the time
+
+2046
+02:17:09,680 --> 02:17:11,800
+which we will be waiting for.
+
+2047
+02:17:12,640 --> 02:17:16,280
+And as I said in here,
+we waiting for 20 seconds, right?
+
+2048
+02:17:16,280 --> 02:17:17,800
+This is the usual time.
+
+2049
+02:17:17,800 --> 02:17:20,600
+So if we put in here 20, that means.
+
+2050
+02:17:20,800 --> 02:17:25,760
+And the second argument
+that we need to pass is the time unit.
+
+2051
+02:17:26,640 --> 02:17:29,040
+Okay, so
+
+2052
+02:17:29,280 --> 02:17:33,000
+our time units in here
+is going to be seconds,
+
+2053
+02:17:33,040 --> 02:17:36,600
+or if you want to wait four days,
+you can do this in here.
+
+2054
+02:17:36,760 --> 02:17:39,680
+If you want to wait 4 hours,
+you can do this as well.
+
+2055
+02:17:40,040 --> 02:17:43,000
+Okay, So timeout seconds in here.
+
+2056
+02:17:43,840 --> 02:17:46,480
+I'm in time units. Sorry.
+
+2057
+02:17:46,480 --> 02:17:49,360
+So this is the
+
+2058
+02:17:49,960 --> 02:17:53,960
+the script
+how you set your implicit weight.
+
+2059
+02:17:54,600 --> 02:17:55,080
+Okay.
+
+2060
+02:17:55,080 --> 02:17:57,840
+So pretty easy using web driver.
+
+2061
+02:17:57,840 --> 02:17:59,520
+You're managing the timeouts, you're
+
+2062
+02:17:59,520 --> 02:18:01,800
+managing the timeouts of the implicit
+weights.
+
+2063
+02:18:02,000 --> 02:18:02,640
+Right.
+
+2064
+02:18:02,640 --> 02:18:06,000
+And you just set here 20 seconds.
+
+2065
+02:18:06,200 --> 02:18:08,920
+That's it.
+
+2066
+02:18:08,920 --> 02:18:09,600
+All right.
+
+2067
+02:18:09,840 --> 02:18:17,440
+Any questions, guys?
+
+2068
+02:18:17,440 --> 02:18:18,640
+Yes, it will.
+
+2069
+02:18:18,640 --> 02:18:20,760
+It will wait until it's found.
+
+2070
+02:18:20,760 --> 02:18:24,840
+Yes, if it's found,
+if it's found in 5 seconds,
+
+2071
+02:18:25,040 --> 02:18:27,120
+the rest of the time will be ignored.
+
+2072
+02:18:27,120 --> 02:18:28,720
+Guys, remember that
+
+2073
+02:18:41,040 --> 02:18:43,440
+you want
+to wait four days and you get paid hourly.
+
+2074
+02:18:43,760 --> 02:18:44,440
+Good.
+
+2075
+02:18:45,400 --> 02:18:47,760
+But then you're
+not going to get the job done.
+
+2076
+02:18:47,760 --> 02:18:54,560
+So that means you're not going to get paid
+after that.
+
+2077
+02:18:54,560 --> 02:18:56,760
+We're better than 30 sleep. Yes.
+
+2078
+02:18:56,760 --> 02:18:59,760
+So from now on, guys try to use
+
+2079
+02:19:00,760 --> 02:19:02,280
+weights
+
+2080
+02:19:02,560 --> 02:19:10,840
+instead of thread that sleep.
+
+2081
+02:19:10,840 --> 02:19:15,240
+Isn't it better to put more time
+if the computer system is not fast enough?
+
+2082
+02:19:15,440 --> 02:19:20,040
+As I said before, your computer system
+system has nothing to do with this.
+
+2083
+02:19:20,480 --> 02:19:21,080
+Right?
+
+2084
+02:19:21,080 --> 02:19:24,440
+Because when when your execution starts
+
+2085
+02:19:25,320 --> 02:19:27,800
+right, it will not wait for anything.
+
+2086
+02:19:27,800 --> 02:19:31,960
+It's just going to run and open up a page.
+
+2087
+02:19:31,960 --> 02:19:32,600
+Right.
+
+2088
+02:19:32,600 --> 02:19:36,800
+So you might want to check the Internet
+speed guys.
+
+2089
+02:19:36,800 --> 02:19:41,880
+If it's too slow, then you might want
+to increase the time in here.
+
+2090
+02:19:42,360 --> 02:19:43,040
+Okay.
+
+2091
+02:19:43,480 --> 02:19:47,080
+Or if the server is down
+or the server is too
+
+2092
+02:19:47,120 --> 02:19:51,280
+slow guys, only
+then you may need to increase this time.
+
+2093
+02:19:51,560 --> 02:19:56,560
+But if if the element is not sound in 20
+seconds guys,
+
+2094
+02:19:56,720 --> 02:19:59,840
+there is a problem with the performance
+of your server or writing.
+
+2095
+02:20:00,480 --> 02:20:06,320
+Okay. Yes.
+
+2096
+02:20:06,320 --> 02:20:11,240
+I can explain why that that sleep
+is not the best way.
+
+2097
+02:20:11,240 --> 02:20:12,720
+So in thread dot sleep guys.
+
+2098
+02:20:12,720 --> 02:20:16,200
+So let's say
+we try to wait for an element, right?
+
+2099
+02:20:16,200 --> 02:20:18,480
+We're trying to wait
+for an element for 2 seconds.
+
+2100
+02:20:18,760 --> 02:20:20,200
+What if that element of
+
+2101
+02:20:21,240 --> 02:20:22,760
+pops up in 5 seconds?
+
+2102
+02:20:22,760 --> 02:20:31,560
+Guess what's going to happen?
+
+2103
+02:20:31,560 --> 02:20:34,720
+It won't ignore.
+It's going to fail, right?
+
+2104
+02:20:34,840 --> 02:20:39,160
+So you have to talk to 2 seconds of wait
+time, okay?
+
+2105
+02:20:40,080 --> 02:20:41,480
+2 seconds of wait time.
+
+2106
+02:20:41,480 --> 02:20:45,480
+So if it appears in 3 seconds,
+that means you already failed.
+
+2107
+02:20:45,480 --> 02:20:46,800
+It won't work. Right.
+
+2108
+02:20:46,800 --> 02:20:49,520
+What's here in the implicit wait, guys?
+
+2109
+02:20:49,720 --> 02:20:54,520
+What happens is, even though you mentioned
+20 seconds, okay,
+
+2110
+02:20:54,840 --> 02:20:59,720
+if it finds the element in 5 seconds,
+it will ignore the rest.
+
+2111
+02:20:59,720 --> 02:21:00,880
+15 seconds.
+
+2112
+02:21:00,880 --> 02:21:05,160
+Okay,
+so your code is moving on after 5 seconds
+
+2113
+02:21:05,400 --> 02:21:13,680
+after it found that element.
+
+2114
+02:21:13,680 --> 02:21:19,440
+And you might ask what happens
+if the element takes more than 20 seconds
+
+2115
+02:21:19,440 --> 02:21:20,840
+to appear?
+
+2116
+02:21:20,840 --> 02:21:23,840
+That means that your server has some
+
+2117
+02:21:23,840 --> 02:21:24,680
+some issues.
+
+2118
+02:21:24,680 --> 02:21:26,880
+It's a performance issue off the server.
+
+2119
+02:21:26,880 --> 02:21:35,600
+Okay, great.
+
+2120
+02:21:35,600 --> 02:21:36,360
+Every time.
+
+2121
+02:21:37,680 --> 02:21:38,760
+No. So
+
+2122
+02:21:38,760 --> 02:21:42,280
+there's
+no downsides of using the implicit weight
+
+2123
+02:21:42,280 --> 02:21:45,360
+because you will only be mentioning it
+once.
+
+2124
+02:21:45,360 --> 02:21:47,280
+Okay, so you just mentioned it once.
+
+2125
+02:21:47,280 --> 02:21:48,120
+That's it.
+
+2126
+02:21:48,840 --> 02:21:52,760
+The only the only downside
+I would think of is
+
+2127
+02:21:52,760 --> 02:21:55,960
+when it's it only applies to find element.
+
+2128
+02:21:56,880 --> 02:21:57,920
+Okay.
+
+2129
+02:21:57,920 --> 02:22:00,160
+Even though your element is found.
+
+2130
+02:22:00,160 --> 02:22:04,400
+But it's not if it's if it's disabled
+and you want to click on it,
+
+2131
+02:22:04,400 --> 02:22:07,680
+it will not throw that error
+because your element is found
+
+2132
+02:22:07,920 --> 02:22:10,520
+and you want to click on it
+and it's disabled.
+
+2133
+02:22:10,560 --> 02:22:13,160
+It's not going to look for the disabled
+elements.
+
+2134
+02:22:13,440 --> 02:22:24,840
+Okay, wait.
+
+2135
+02:22:24,840 --> 02:22:26,960
+Time will apply,
+
+2136
+02:22:27,600 --> 02:22:28,840
+correct? Yes.
+
+2137
+02:22:28,840 --> 02:22:34,000
+All the actions, all the find element
+dies, all the find element actions.
+
+2138
+02:22:34,000 --> 02:22:34,680
+Okay.
+
+2139
+02:22:34,680 --> 02:22:37,520
+So if I do, let me go back.
+
+2140
+02:22:37,520 --> 02:22:39,000
+Where was that?
+
+2141
+02:22:39,200 --> 02:22:39,840
+Okay.
+
+2142
+02:22:39,840 --> 02:22:42,560
+If I find these three elements.
+
+2143
+02:22:42,600 --> 02:22:43,920
+Okay, let me copy this.
+
+2144
+02:22:43,920 --> 02:22:45,960
+Let's say these are the elements.
+
+2145
+02:22:46,120 --> 02:22:47,880
+Okay, So
+
+2146
+02:22:49,480 --> 02:22:52,200
+if it's trying to find the first element.
+
+2147
+02:22:52,760 --> 02:22:55,440
+It will start checking to 20 seconds.
+
+2148
+02:22:55,680 --> 02:22:56,280
+Okay.
+
+2149
+02:22:56,280 --> 02:23:00,400
+Once it's found that element in 2 seconds,
+the rest will be ignored.
+
+2150
+02:23:00,600 --> 02:23:04,360
+Now, it will try to look into this
+element.
+
+2151
+02:23:05,040 --> 02:23:07,760
+Okay, 20 seconds start ticking in there.
+
+2152
+02:23:07,960 --> 02:23:10,680
+And then after that, if if it
+
+2153
+02:23:11,000 --> 02:23:15,240
+if it this is found in 5 seconds,
+the rest 16 will be ignored
+
+2154
+02:23:15,400 --> 02:23:19,680
+and the selenium
+will try to find this element.
+
+2155
+02:23:19,680 --> 02:23:22,560
+And if it doesn't find that element
+in 20 seconds
+
+2156
+02:23:22,760 --> 02:23:25,680
+only, then it will throw an exception.
+
+2157
+02:23:26,400 --> 02:23:27,320
+Okay.
+
+2158
+02:23:27,320 --> 02:23:32,480
+Is that clear, guys?
+
+2159
+02:23:32,480 --> 02:23:41,840
+Any other questions?
+
+2160
+02:23:41,840 --> 02:23:43,200
+Okay, good.
+
+2161
+02:23:44,040 --> 02:23:47,320
+All right, so
+
+2162
+02:23:47,320 --> 02:23:49,200
+let me get this.
+
+2163
+02:23:49,200 --> 02:23:51,920
+So let's go back in here.
+So we navigate here.
+
+2164
+02:23:51,920 --> 02:23:56,040
+So what I want to do,
+I want to click on this, start practicing.
+
+2165
+02:23:56,600 --> 02:23:59,000
+Okay, So let's
+
+2166
+02:24:00,160 --> 02:24:00,920
+see what
+
+2167
+02:24:00,920 --> 02:24:05,400
+this one.
+
+2168
+02:24:05,400 --> 02:24:07,840
+Okay, It has an ID here. Okay.
+
+2169
+02:24:08,520 --> 02:24:11,040
+So I'm going to use the ID, I'm going to
+
+2170
+02:24:11,040 --> 02:24:14,400
+find this element by its ID
+and then I'll try to click it.
+
+2171
+02:24:14,520 --> 02:24:15,200
+Okay.
+
+2172
+02:24:15,840 --> 02:24:18,480
+So web element
+
+2173
+02:24:21,160 --> 02:24:23,160
+practicing
+
+2174
+02:24:23,960 --> 02:24:25,280
+is the driver.
+
+2175
+02:24:25,280 --> 02:24:30,360
+That element ID
+
+2176
+02:24:31,680 --> 02:24:33,920
+and is this ID?
+
+2177
+02:24:34,080 --> 02:24:40,840
+And here.
+
+2178
+02:24:40,840 --> 02:24:42,880
+So practicing button that
+
+2179
+02:24:43,960 --> 02:24:46,440
+click.
+
+2180
+02:24:46,440 --> 02:24:49,320
+Okay. All right.
+
+2181
+02:24:49,320 --> 02:24:51,360
+Yes I'll push I'll click the code state.
+
+2182
+02:24:51,360 --> 02:24:52,040
+Okay.
+
+2183
+02:24:52,480 --> 02:24:53,360
+So give me some time.
+
+2184
+02:24:53,360 --> 02:25:02,600
+Let me explain this one and I'll go,
+Oh, yeah, they spelled it wrong.
+
+2185
+02:25:02,600 --> 02:25:05,760
+Okay, good. Catch the catch. There you go.
+
+2186
+02:25:05,760 --> 02:25:11,520
+You have a defect.
+
+2187
+02:25:11,520 --> 02:25:12,000
+Okay.
+
+2188
+02:25:12,000 --> 02:25:16,520
+Can you write this anywhere
+or it should be in the top class.
+
+2189
+02:25:16,680 --> 02:25:18,960
+Okay, so if you write it.
+
+2190
+02:25:18,960 --> 02:25:20,640
+So let me cut this.
+
+2191
+02:25:20,640 --> 02:25:23,040
+And if you write it in here,
+what's going to happen, guys?
+
+2192
+02:25:23,400 --> 02:25:26,800
+Will this be applied to this web
+
+2193
+02:25:26,800 --> 02:25:30,600
+element?
+
+2194
+02:25:30,600 --> 02:25:31,200
+No. Right.
+
+2195
+02:25:31,200 --> 02:25:34,720
+Because our code is going from
+top to the bottom left to the right.
+
+2196
+02:25:35,880 --> 02:25:36,240
+Right.
+
+2197
+02:25:36,240 --> 02:25:41,240
+So you have to mention this
+at the very top after you
+
+2198
+02:25:41,240 --> 02:25:45,960
+navigate to the edge
+so that this implicit weight
+
+2199
+02:25:46,200 --> 02:25:49,040
+gets applied to whole session.
+
+2200
+02:25:49,200 --> 02:25:55,760
+Okay.
+
+2201
+02:25:55,760 --> 02:25:56,360
+All right.
+
+2202
+02:25:56,360 --> 02:25:58,200
+So now
+
+2203
+02:26:00,040 --> 02:26:01,520
+let's go ahead and run this
+
+2204
+02:26:01,520 --> 02:26:18,400
+and see what's going to happen.
+
+2205
+02:26:18,400 --> 02:26:19,120
+Okay?
+
+2206
+02:26:19,520 --> 02:26:20,520
+I think it already did.
+
+2207
+02:26:20,520 --> 02:26:22,080
+Yeah, it clicked. Right?
+
+2208
+02:26:22,080 --> 02:26:23,480
+So seems like it.
+
+2209
+02:26:23,480 --> 02:26:24,520
+It just popped up.
+
+2210
+02:26:24,520 --> 02:26:27,160
+So see you
+guys. It's not waiting anything.
+
+2211
+02:26:27,160 --> 02:26:30,920
+It's just clicking right away
+whenever it finds that element.
+
+2212
+02:26:31,360 --> 02:26:36,000
+So now what
+I am going to do, I'm going to put a
+
+2213
+02:26:36,560 --> 02:26:39,240
+it wrong ID even here,
+so I'm going to do this.
+
+2214
+02:26:40,280 --> 02:26:42,240
+Okay, so this is a wrong ID,
+
+2215
+02:26:42,240 --> 02:26:44,720
+This doesn't even exist
+in the HTML, right?
+
+2216
+02:26:45,240 --> 02:26:48,840
+So what I can do here, I'm
+going to run this.
+
+2217
+02:26:49,440 --> 02:26:52,680
+So now let's see
+when we're going to get that
+
+2218
+02:26:52,680 --> 02:26:58,920
+exception.
+
+2219
+02:26:58,920 --> 02:27:01,360
+Okay.
+
+2220
+02:27:01,360 --> 02:27:04,240
+Landed on the page.
+Okay, We're still here.
+
+2221
+02:27:04,880 --> 02:27:08,880
+So you guys,
+we don't have an exception yet.
+
+2222
+02:27:09,480 --> 02:27:11,800
+Okay, So we still here.
+
+2223
+02:27:12,000 --> 02:27:14,760
+It's still looking for that element.
+
+2224
+02:27:14,760 --> 02:27:15,160
+Okay?
+
+2225
+02:27:15,200 --> 02:27:19,640
+It's still giving it a chance.
+
+2226
+02:27:19,640 --> 02:27:20,360
+There we go.
+
+2227
+02:27:21,480 --> 02:27:22,160
+Okay, so
+
+2228
+02:27:22,160 --> 02:27:25,760
+now, guys, only after the 20 seconds,
+
+2229
+02:27:25,920 --> 02:27:29,880
+you can see that there's no such element
+exception.
+
+2230
+02:27:30,520 --> 02:27:33,200
+Okay, So we set it to 20 seconds.
+
+2231
+02:27:33,320 --> 02:27:37,680
+So it's waiting for that element
+to find right to appear
+
+2232
+02:27:37,680 --> 02:27:43,360
+or to be to be present in that web page,
+but it's not present.
+
+2233
+02:27:43,680 --> 02:27:46,440
+So then it will wait for 20 seconds
+
+2234
+02:27:46,440 --> 02:27:48,920
+and we will throw our exception.
+
+2235
+02:27:50,520 --> 02:27:51,400
+Okay.
+
+2236
+02:27:51,400 --> 02:28:01,920
+Any questions, guys?
+
+2237
+02:28:01,920 --> 02:28:03,840
+Any questions on Windows?
+
+2238
+02:28:03,840 --> 02:28:22,680
+Any questions on Waits guys?
+
+2239
+02:28:22,680 --> 02:28:23,920
+Yeah, this one is easy.
+
+2240
+02:28:23,920 --> 02:28:26,320
+Implicit word is easy.
+
+2241
+02:28:26,320 --> 02:28:30,640
+Well, the weights in selenium are easy
+because they're all straightforward.
+
+2242
+02:28:30,920 --> 02:28:31,560
+Okay?
+
+2243
+02:28:31,560 --> 02:28:36,240
+I mean, selenium is easy anyways,
+because there is a lot of stuff
+
+2244
+02:28:36,240 --> 02:28:44,760
+that is just simple English.
+
+2245
+02:28:44,760 --> 02:28:46,320
+Yeah. Yeah.
+
+2246
+02:28:46,320 --> 02:28:55,440
+There's a lot of information
+that is correct.
+
+2247
+02:28:55,440 --> 02:28:57,120
+Yes, we know. Handles.
+
+2248
+02:28:57,120 --> 02:28:58,280
+You need to practice.
+
+2249
+02:28:58,280 --> 02:29:03,480
+Okay.
+
+2250
+02:29:03,480 --> 02:29:05,040
+Okay. So
+
+2251
+02:29:06,440 --> 02:29:09,240
+let's let's push the code, guys,
+
+2252
+02:29:09,240 --> 02:29:11,920
+before we that before we do that,
+
+2253
+02:29:11,920 --> 02:29:21,440
+let's go through the homework guys.
+
+2254
+02:29:21,440 --> 02:29:25,320
+This here.
+
+2255
+02:29:25,320 --> 02:29:26,160
+Okay.
+
+2256
+02:29:26,400 --> 02:29:27,680
+All right, Guess so.
+
+2257
+02:29:27,680 --> 02:29:31,520
+Let me explain. You
+
+2258
+02:29:31,960 --> 02:29:33,000
+this one.
+
+2259
+02:29:33,000 --> 02:29:40,080
+So let's go back.
+
+2260
+02:29:40,080 --> 02:29:41,000
+Okay.
+
+2261
+02:29:41,480 --> 02:29:44,600
+So here's what I need you to do.
+
+2262
+02:29:44,600 --> 02:29:44,960
+Guys.
+
+2263
+02:29:44,960 --> 02:29:47,960
+I need you to click on these
+
+2264
+02:29:48,600 --> 02:29:57,000
+on these buttons, okay?
+
+2265
+02:29:57,000 --> 02:29:57,640
+Okay.
+
+2266
+02:29:57,640 --> 02:30:03,360
+So let's see, we on new tab and then print
+the text from the tab in the console.
+
+2267
+02:30:03,360 --> 02:30:06,000
+Okay. So let's click on this.
+
+2268
+02:30:06,960 --> 02:30:07,640
+There you go.
+
+2269
+02:30:07,640 --> 02:30:10,400
+So you have this text,
+you need to print that out.
+
+2270
+02:30:10,800 --> 02:30:15,640
+You click on this one, you need to
+print that out and you click on this one.
+
+2271
+02:30:15,920 --> 02:30:18,480
+You print that out as well.
+
+2272
+02:30:18,480 --> 02:30:19,320
+Okay?
+
+2273
+02:30:20,200 --> 02:30:23,600
+So where verify the
+
+2274
+02:30:24,800 --> 02:30:28,200
+title is displayed.
+
+2275
+02:30:28,240 --> 02:30:28,760
+Okay?
+
+2276
+02:30:28,760 --> 02:30:31,840
+And then print out the titles
+
+2277
+02:30:31,840 --> 02:30:37,920
+of all the pages.
+
+2278
+02:30:37,920 --> 02:30:38,680
+Okay.
+
+2279
+02:30:38,680 --> 02:30:42,120
+Is that clear, guys,
+
+2280
+02:30:42,120 --> 02:30:48,760
+for this task?
+
+2281
+02:30:48,760 --> 02:30:50,800
+Okay. And then the second one
+
+2282
+02:30:54,000 --> 02:30:55,120
+here.
+
+2283
+02:30:55,560 --> 02:30:59,760
+Okay, what I want you to do guys in here,
+I want you to click on this link.
+
+2284
+02:31:00,400 --> 02:31:01,240
+Okay?
+
+2285
+02:31:01,240 --> 02:31:03,880
+When you click on this Link,
+
+2286
+02:31:04,120 --> 02:31:06,520
+it's going to wait for a little bit
+and then
+
+2287
+02:31:08,160 --> 02:31:10,360
+it's going to display this text.
+
+2288
+02:31:10,360 --> 02:31:11,320
+Okay.
+
+2289
+02:31:11,320 --> 02:31:15,880
+So get this text
+and then print it out in the console.
+
+2290
+02:31:16,520 --> 02:31:23,160
+Okay? Yes.
+
+2291
+02:31:23,160 --> 02:31:25,200
+This is the homework. Yes. Okay.
+
+2292
+02:31:25,920 --> 02:31:55,320
+Any questions on this, guys?
+
+2293
+02:31:55,320 --> 02:31:58,520
+Okay, one second.
+
+2294
+02:31:58,520 --> 02:32:12,240
+Let me check your.
+
+2295
+02:32:12,240 --> 02:32:13,440
+Okay, guys.
+
+2296
+02:32:13,440 --> 02:32:17,520
+Seems like I don't have anything else,
+so I'm giving you 20 minutes
+
+2297
+02:32:18,520 --> 02:32:19,800
+back of your time.
+
+2298
+02:32:19,800 --> 02:32:24,040
+But I want to say one thing, that tomorrow
+is going to be intense, guys.
+
+2299
+02:32:24,040 --> 02:32:24,880
+Okay?
+
+2300
+02:32:24,920 --> 02:32:29,760
+Tomorrow
+we will going over the explicit weights.
+
+2301
+02:32:30,000 --> 02:32:32,360
+Tomorrow we will be going over the
+
+2302
+02:32:34,760 --> 02:32:35,880
+flow and weights
+
+2303
+02:32:35,880 --> 02:32:38,760
+and we will be working with tables.
+
+2304
+02:32:39,280 --> 02:32:43,560
+Okay, guys, Tomorrow
+is going to be a lot of information.
+
+2305
+02:32:43,560 --> 02:32:44,040
+Okay?
+
+2306
+02:32:45,600 --> 02:32:46,600
+Yep. Go hard.
+
+2307
+02:32:46,600 --> 02:32:48,720
+Go home. That is right.
+
+2308
+02:32:48,720 --> 02:32:49,080
+Okay.
+
+2309
+02:32:49,080 --> 02:32:52,520
+So tomorrow
+we will have a little bit of intense class
+
+2310
+02:32:53,120 --> 02:32:55,560
+because going to be a lot of different
+information.
+
+2311
+02:32:56,560 --> 02:32:57,280
+Okay.
+
+2312
+02:32:57,640 --> 02:32:58,880
+Rough day tomorrow, guys.
+
+2313
+02:32:58,880 --> 02:33:00,280
+Okay, so get ready.
+
+2314
+02:33:00,280 --> 02:33:04,960
+I'm giving you 20 minutes of time
+back today, but I'll take that tomorrow.
+
+2315
+02:33:06,040 --> 02:33:11,040
+Okay?
+
+2316
+02:33:11,040 --> 02:33:12,120
+All right, guys.
+
+2317
+02:33:12,120 --> 02:33:14,400
+So please complete the homework.
+Okay, guys.
+
+2318
+02:33:15,160 --> 02:33:18,760
+And please
+practice and I will see you tomorrow.
+
+2319
+02:33:19,360 --> 02:33:20,160
+Okay.
+
+2320
+02:33:20,320 --> 02:33:21,440
+Thanks, Everybody.
+
+2321
+02:33:21,440 --> 02:33:34,920
+Stay safe and have a great night. Bye.

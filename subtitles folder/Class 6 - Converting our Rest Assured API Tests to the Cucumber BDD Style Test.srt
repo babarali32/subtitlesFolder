@@ -1,0 +1,8353 @@
+﻿1
+00:00:03,960 --> 00:00:05,960
+All relates
+
+2
+00:00:14,400 --> 00:00:17,560
+Java and
+
+3
+00:00:20,760 --> 00:00:23,160
+the rest assured
+
+4
+00:00:26,320 --> 00:00:31,080
+API days
+
+5
+00:00:32,280 --> 00:00:33,880
+by the use Java.
+
+6
+00:00:33,880 --> 00:00:36,320
+Rest assured API.
+
+7
+00:00:36,320 --> 00:00:37,800
+What is the reason behind this?
+
+8
+00:00:37,800 --> 00:00:39,120
+Why we using
+
+9
+00:00:54,160 --> 00:00:55,920
+it is an automation duty.
+
+10
+00:00:55,920 --> 00:00:56,520
+It isn't.
+
+11
+00:00:56,520 --> 00:01:01,040
+It is a library basic
+java based library date.
+
+12
+00:01:02,200 --> 00:01:02,960
+Yes, it is.
+
+13
+00:01:02,960 --> 00:01:17,280
+A job is to enable
+it to be used to automate.
+
+14
+00:01:17,280 --> 00:01:21,000
+What kind of MBA is gates to automate
+lest it be a
+
+15
+00:01:22,560 --> 00:01:23,040
+java.
+
+16
+00:01:23,040 --> 00:01:26,160
+Rest assured,
+API is the library to automate.
+
+17
+00:01:26,160 --> 00:01:28,400
+The list could be at
+
+18
+00:01:31,240 --> 00:01:32,320
+this point
+
+19
+00:01:33,080 --> 00:01:38,160
+just a short API.
+
+20
+00:01:38,160 --> 00:01:42,120
+But now here, tell me one thing
+
+21
+00:01:43,080 --> 00:01:46,000
+when you talk about the rest
+
+22
+00:01:47,640 --> 00:01:55,960
+list of service, it transfers their data.
+
+23
+00:01:56,760 --> 00:02:00,080
+It transports their data in each one.
+
+24
+00:02:01,560 --> 00:02:03,200
+This could be a transfer of data.
+
+25
+00:02:03,200 --> 00:02:05,280
+In particular, automate. What is it one to
+
+26
+00:02:06,720 --> 00:02:08,080
+choose an object or to
+
+27
+00:02:08,080 --> 00:02:11,200
+them for my create?
+
+28
+00:02:12,560 --> 00:02:15,720
+It allows data to be sent across
+
+29
+00:02:15,960 --> 00:02:19,400
+in JSON forward on JSON object.
+
+30
+00:02:19,960 --> 00:02:23,720
+So when we talk about using
+form it or JSON object,
+
+31
+00:02:23,720 --> 00:02:25,560
+what it consist
+
+32
+00:02:33,160 --> 00:02:35,440
+based object consist of
+
+33
+00:02:37,840 --> 00:02:41,320
+key and value both. It
+
+34
+00:02:41,400 --> 00:02:43,560
+just an object consists of the key
+
+35
+00:02:43,560 --> 00:02:46,680
+and when you file
+
+36
+00:02:46,680 --> 00:02:48,680
+now not here
+
+37
+00:02:49,520 --> 00:02:53,120
+when you talk about Java,
+rest assured library because for menu
+
+38
+00:02:53,160 --> 00:02:56,160
+this type of API has to be
+
+39
+00:02:56,160 --> 00:02:58,240
+is going to be a lot of liquids
+
+40
+00:02:58,240 --> 00:03:02,960
+to be a lot of responses
+and it to do can be verified.
+
+41
+00:03:02,960 --> 00:03:05,120
+The tool can be verified
+already of the response.
+
+42
+00:03:05,120 --> 00:03:07,000
+So many things predict.
+
+43
+00:03:07,000 --> 00:03:10,200
+But whatever that these were,
+it was strictly on manual part.
+
+44
+00:03:11,040 --> 00:03:14,920
+Now we are going to work on the API part
+for automation.
+
+45
+00:03:15,400 --> 00:03:17,520
+So that's
+why we're using illustration library.
+
+46
+00:03:17,800 --> 00:03:21,320
+So when we talk about Java, this library,
+it follows one
+
+47
+00:03:21,320 --> 00:03:24,760
+particular approach
+to test in the API via automation.
+
+48
+00:03:24,760 --> 00:03:28,080
+What is the approach?
+
+49
+00:03:28,080 --> 00:03:31,600
+What is a book based?
+
+50
+00:03:31,600 --> 00:03:33,360
+It's BDD approach.
+
+51
+00:03:33,360 --> 00:03:37,040
+So by default by
+the board, just rest assured
+
+52
+00:03:43,920 --> 00:03:47,320
+it follows BDD approach, very driven
+development approach,
+
+53
+00:03:47,360 --> 00:03:49,200
+fine imagery approach.
+
+54
+00:03:49,200 --> 00:03:51,360
+Greystone
+which gives we should really focus on
+
+55
+00:03:56,960 --> 00:03:59,800
+when the argument is even more
+
+56
+00:04:01,800 --> 00:04:04,280
+we focus on given
+
+57
+00:04:05,160 --> 00:04:07,680
+then that
+
+58
+00:04:09,600 --> 00:04:11,160
+we focus on these three key
+
+59
+00:04:11,160 --> 00:04:13,560
+keywords, correct, these three is fine.
+
+60
+00:04:14,280 --> 00:04:16,000
+So now the end is here.
+
+61
+00:04:16,000 --> 00:04:18,000
+When we talk about given,
+what does it mean
+
+62
+00:04:19,000 --> 00:04:22,000
+in API industry,
+
+63
+00:04:22,120 --> 00:04:26,680
+what is the meaning of Google?
+
+64
+00:04:26,680 --> 00:04:27,040
+Right?
+
+65
+00:04:27,040 --> 00:04:38,320
+Depending the request, the list
+
+66
+00:04:38,640 --> 00:04:40,800
+when it comes to when by we use this
+
+67
+00:04:47,880 --> 00:04:51,000
+in making the request
+
+68
+00:04:53,600 --> 00:04:55,080
+or simple
+
+69
+00:05:02,120 --> 00:05:03,920
+thing, the end point.
+
+70
+00:05:03,920 --> 00:05:04,560
+Right.
+
+71
+00:05:05,320 --> 00:05:09,960
+And the third one is then.
+
+72
+00:05:09,960 --> 00:05:12,040
+Then we use for verification or
+
+73
+00:05:14,880 --> 00:05:17,440
+or response
+
+74
+00:05:17,520 --> 00:05:20,640
+or rate response.
+
+75
+00:05:20,640 --> 00:05:24,720
+So this given this demand return something
+
+76
+00:05:24,960 --> 00:05:29,040
+which we generally stored in one
+particular bar, what is that back
+
+77
+00:05:37,000 --> 00:05:41,440
+base?
+
+78
+00:05:41,440 --> 00:05:44,520
+When we talk about given
+by preparing the request
+
+79
+00:05:44,680 --> 00:05:48,680
+after making the request,
+this given gives us one part.
+
+80
+00:05:48,680 --> 00:05:51,000
+What is that? Yes, this is
+
+81
+00:05:52,080 --> 00:05:54,400
+the request is specification.
+
+82
+00:05:54,400 --> 00:05:58,080
+It means whatever the specifications
+we need to make a request
+
+83
+00:05:58,560 --> 00:06:00,920
+and it'll give you compute one.
+So we provide one.
+
+84
+00:06:00,920 --> 00:06:06,240
+Be able to enable,
+be prepared, request late
+
+85
+00:06:07,560 --> 00:06:10,040
+request.
+
+86
+00:06:10,040 --> 00:06:14,520
+And then when we heard
+that you are the end point
+
+87
+00:06:14,840 --> 00:06:18,520
+using this prepared request,
+so it returns something.
+
+88
+00:06:18,520 --> 00:06:20,080
+What is that
+
+89
+00:06:21,360 --> 00:06:23,080
+the response
+
+90
+00:06:23,800 --> 00:06:25,320
+response
+
+91
+00:06:25,920 --> 00:06:27,000
+something.
+
+92
+00:06:27,040 --> 00:06:31,240
+And when we get the response by,
+we use this particular response.
+
+93
+00:06:31,240 --> 00:06:33,360
+Actually the variable response by the user
+
+94
+00:06:34,720 --> 00:06:36,000
+is variable
+
+95
+00:06:39,480 --> 00:06:41,880
+to hold the complete information
+
+96
+00:06:41,880 --> 00:06:44,920
+that we are getting in the moderate body.
+
+97
+00:06:45,000 --> 00:06:49,440
+The response now from here either
+if you want to print something,
+
+98
+00:06:49,440 --> 00:06:50,600
+we can print something.
+
+99
+00:06:50,600 --> 00:06:54,320
+If you want to print every single thing,
+we can print every single thing
+
+100
+00:06:54,600 --> 00:06:55,560
+if we want to.
+
+101
+00:06:55,560 --> 00:06:59,520
+A very particular information
+from the body that also we can do from the
+
+102
+00:07:01,600 --> 00:07:02,200
+right,
+
+103
+00:07:02,280 --> 00:07:06,360
+we can perform all of this verification
+and validation type of operations
+
+104
+00:07:06,400 --> 00:07:09,360
+using this response keyword,
+which is every more
+
+105
+00:07:10,400 --> 00:07:21,080
+correct.
+
+106
+00:07:21,080 --> 00:07:37,560
+Well, no, no.
+
+107
+00:07:37,560 --> 00:07:41,160
+After this,
+we added two things in the dependency on
+
+108
+00:07:41,200 --> 00:07:50,280
+what are those two things?
+
+109
+00:07:50,280 --> 00:07:52,440
+The first one is
+
+110
+00:07:53,840 --> 00:07:55,320
+an additional
+
+111
+00:07:55,320 --> 00:07:58,400
+because this is a library,
+and the second one is
+
+112
+00:07:59,280 --> 00:08:03,880
+just because data would be transferred
+in there in JSON object, right?
+
+113
+00:08:04,200 --> 00:08:09,800
+So we would need to send this to short
+and just in the added right pool.
+
+114
+00:08:09,800 --> 00:08:11,080
+Think of it.
+
+115
+00:08:11,080 --> 00:08:14,080
+We added this to short notice
+
+116
+00:08:14,080 --> 00:08:18,000
+right now
+
+117
+00:08:25,080 --> 00:08:37,320
+it looks to supplied,
+
+118
+00:08:37,680 --> 00:08:40,800
+so it should be +68
+
+119
+00:08:43,200 --> 00:08:46,880
+and we are going
+to get all of these things
+
+120
+00:08:47,920 --> 00:08:49,080
+locally.
+
+121
+00:08:49,080 --> 00:08:52,560
+So the first thing we did was we did
+
+122
+00:08:53,960 --> 00:08:55,640
+a simple test
+
+123
+00:08:55,640 --> 00:09:00,000
+rate, simple first, a simple request first
+
+124
+00:09:00,360 --> 00:09:04,520
+to send it back to
+with an all of my database related
+
+125
+00:09:04,520 --> 00:09:08,280
+methods and everything is available
+or not simple that we created.
+
+126
+00:09:08,280 --> 00:09:08,640
+Simple.
+
+127
+00:09:08,640 --> 00:09:13,160
+Just what was the simple test
+is all about.
+
+128
+00:09:13,160 --> 00:09:14,200
+That is maybe a simple
+
+129
+00:09:24,520 --> 00:09:26,360
+that it benefits from to get the response.
+
+130
+00:09:26,360 --> 00:09:28,840
+Not fine, but the request was all about
+
+131
+00:09:29,480 --> 00:09:31,600
+getting in
+
+132
+00:09:32,800 --> 00:09:36,040
+and oh, he is
+
+133
+00:09:37,400 --> 00:09:39,000
+using API.
+
+134
+00:09:39,000 --> 00:09:39,640
+Right?
+
+135
+00:09:40,560 --> 00:09:42,520
+One is specific information
+
+136
+00:09:42,520 --> 00:09:47,520
+from the database we need for that one
+so that either we would be able
+
+137
+00:09:47,520 --> 00:09:51,720
+to find the data from the data base
+for one particular employee.
+
+138
+00:09:52,560 --> 00:09:53,640
+For this reason.
+
+139
+00:09:53,640 --> 00:09:56,600
+For this reason
+we have used this particular seven
+
+140
+00:09:56,600 --> 00:09:57,680
+quickest
+
+141
+00:10:00,840 --> 00:10:01,400
+file.
+
+142
+00:10:01,920 --> 00:10:05,120
+So what are the things we need to do
+is to make a request.
+
+143
+00:10:05,120 --> 00:10:13,320
+What are the things we need?
+
+144
+00:10:13,320 --> 00:10:18,840
+Okay, so the first thing is basically
+what I now take relates the base.
+
+145
+00:10:18,840 --> 00:10:20,840
+You are right in Java.
+
+146
+00:10:20,840 --> 00:10:24,240
+Rest assured, reliability is what
+
+147
+00:10:25,840 --> 00:10:26,880
+it means.
+
+148
+00:10:26,880 --> 00:10:30,160
+Simple. Basically you want to write java
+
+149
+00:10:30,280 --> 00:10:33,880
+just a short API a distance
+because you are right.
+
+150
+00:10:33,880 --> 00:10:35,720
+Is busy. You want and
+
+151
+00:10:37,120 --> 00:10:40,600
+is busy you want and perfect fine.
+
+152
+00:10:41,120 --> 00:10:44,560
+After this big need is
+
+153
+00:10:44,560 --> 00:10:45,960
+we need for this.
+
+154
+00:10:45,960 --> 00:10:48,720
+In headers we provide two things together.
+
+155
+00:10:48,720 --> 00:10:50,840
+And what are those two things
+
+156
+00:10:53,520 --> 00:10:56,200
+was on data
+
+157
+00:10:56,360 --> 00:10:58,400
+and this is
+
+158
+00:10:59,560 --> 00:11:00,520
+authorization.
+
+159
+00:11:00,520 --> 00:11:04,120
+Go ahead.
+
+160
+00:11:04,120 --> 00:11:05,200
+Or is this.
+
+161
+00:11:05,560 --> 00:11:08,600
+You'll get the gist of what to put
+
+162
+00:11:10,000 --> 00:11:11,080
+in this
+
+163
+00:11:11,560 --> 00:11:13,680
+authorization. But
+
+164
+00:11:14,840 --> 00:11:16,680
+after this, anything else?
+
+165
+00:11:16,680 --> 00:11:19,120
+Do we need to prepare the request face?
+
+166
+00:11:19,120 --> 00:11:23,400
+Yes, we need credit. Mm.
+
+167
+00:11:23,400 --> 00:11:28,120
+So from the bunch of information,
+from the bunch of information
+
+168
+00:11:28,360 --> 00:11:31,360
+we would need,
+what is specific information
+
+169
+00:11:31,600 --> 00:11:34,520
+that are not public
+employees available at a point.
+
+170
+00:11:34,760 --> 00:11:37,200
+So from those lot of employees,
+we need one
+
+171
+00:11:37,480 --> 00:11:40,440
+specific employee,
+one particular employee.
+
+172
+00:11:40,960 --> 00:11:45,280
+So for that we need quality management
+and we need what is better than debate
+
+173
+00:11:45,640 --> 00:11:50,040
+whether it is an employee
+or it is a unique number associated with
+
+174
+00:11:51,000 --> 00:11:55,560
+or whatever it is, what do we need
+that unique part right now?
+
+175
+00:11:55,840 --> 00:12:00,480
+Now, after this, after this,
+when we are getting the request, we got
+
+176
+00:12:00,800 --> 00:12:04,040
+one request is specific request, right?
+
+177
+00:12:04,320 --> 00:12:06,280
+We got one prepared request.
+
+178
+00:12:06,280 --> 00:12:11,760
+That request
+we will send using keyword using keyword.
+
+179
+00:12:11,760 --> 00:12:16,080
+So what is that keyword? When
+
+180
+00:12:17,480 --> 00:12:18,280
+do we need
+
+181
+00:12:18,280 --> 00:12:30,600
+do we need something else within?
+
+182
+00:12:30,600 --> 00:12:34,120
+We need to provide
+what kind of command we are going to make
+
+183
+00:12:34,200 --> 00:12:35,760
+if we are going to make get called
+
+184
+00:12:35,760 --> 00:12:39,880
+most call along, it will be able
+to provide this information.
+
+185
+00:12:40,360 --> 00:12:40,920
+Right?
+
+186
+00:12:40,920 --> 00:12:45,960
+So when don't you don't post
+don't put whatever
+
+187
+00:12:46,800 --> 00:12:49,560
+and what we are going to make,
+we have to specify that
+
+188
+00:12:49,840 --> 00:13:01,720
+and then we will provide the value
+of the particular point.
+
+189
+00:13:01,720 --> 00:13:06,000
+Now, no, after this, after this,
+when we talk trend keeper,
+
+190
+00:13:06,520 --> 00:13:08,640
+then you would be using for
+
+191
+00:13:12,000 --> 00:13:15,400
+verification,
+
+192
+00:13:15,400 --> 00:13:20,600
+verification and validation purpose
+like for verification
+
+193
+00:13:20,600 --> 00:13:24,920
+and validation
+purpose, a certain thing, correct.
+
+194
+00:13:24,920 --> 00:13:28,000
+Now this one will return
+every single thing ready to be provided,
+
+195
+00:13:28,000 --> 00:13:34,240
+even keyword be provided here
+it was given you would be provided when?
+
+196
+00:13:34,240 --> 00:13:35,480
+Before then.
+
+197
+00:13:35,480 --> 00:13:41,400
+But are we actually executing anything
+till this point?
+
+198
+00:13:41,400 --> 00:13:42,840
+We are not actually executing.
+
+199
+00:13:42,840 --> 00:13:44,920
+Ready to execute something.
+
+200
+00:13:44,920 --> 00:13:47,960
+To execute something, we need some test.
+
+201
+00:13:48,320 --> 00:13:51,360
+What is that as to which one
+we are using the execution point
+
+202
+00:13:51,640 --> 00:13:55,000
+because we are not dealing with Java min
+method, right?
+
+203
+00:13:55,200 --> 00:13:58,200
+So when we are not dealing with min
+method, what is the other part?
+
+204
+00:13:58,200 --> 00:13:59,520
+What is the alternative part?
+
+205
+00:13:59,520 --> 00:14:04,360
+We have to, in
+
+206
+00:14:05,800 --> 00:14:08,200
+the test, find
+
+207
+00:14:08,200 --> 00:14:11,600
+the best values for this
+and the request videos
+
+208
+00:14:11,600 --> 00:14:12,480
+it from
+
+209
+00:14:16,000 --> 00:14:18,720
+yes, this is coming from your
+
+210
+00:14:18,840 --> 00:14:20,920
+do you need not trump entity
+
+211
+00:14:38,200 --> 00:14:41,320
+now here is
+
+212
+00:14:41,400 --> 00:14:44,760
+what I'm going to do is see
+
+213
+00:14:45,160 --> 00:14:49,160
+first thing was think
+we need to understand great first thing
+
+214
+00:14:49,160 --> 00:14:52,920
+we need to understand what is that thing
+we need to understand here?
+
+215
+00:14:53,400 --> 00:14:55,840
+Ghost Major's work.
+
+216
+00:14:55,840 --> 00:14:57,880
+We need to understand this
+
+217
+00:14:59,200 --> 00:15:01,040
+and rest
+
+218
+00:15:02,000 --> 00:15:04,440
+lectures.
+
+219
+00:15:04,440 --> 00:15:06,760
+Now what is this estimate? Yes.
+
+220
+00:15:08,480 --> 00:15:10,440
+Is there anyone ever heard
+
+221
+00:15:10,440 --> 00:15:14,240
+this term we should get
+the response is response as a string? Yes.
+
+222
+00:15:14,240 --> 00:15:15,000
+Correct.
+
+223
+00:15:15,000 --> 00:15:18,960
+That I will complete contribute because
+I'm going to use one very good keyword.
+
+224
+00:15:18,960 --> 00:15:19,440
+Right.
+
+225
+00:15:19,440 --> 00:15:25,440
+The period when there is a keyword,
+we are going to use three.
+
+226
+00:15:26,720 --> 00:15:32,440
+But so now remember here
+
+227
+00:15:32,440 --> 00:15:36,440
+in hand just matters
+when we talk about this right by
+
+228
+00:15:36,440 --> 00:15:40,560
+we generally use this class list
+mentor's class.
+
+229
+00:15:40,840 --> 00:15:45,760
+Remember this class contains methods
+
+230
+00:15:46,840 --> 00:15:55,960
+for associations.
+
+231
+00:15:55,960 --> 00:15:57,840
+Hem may just be selected.
+
+232
+00:15:57,840 --> 00:15:59,680
+This is that last grade.
+
+233
+00:15:59,680 --> 00:16:02,160
+It contains all the methods
+to perform letters.
+
+234
+00:16:02,160 --> 00:16:05,240
+And so whatever the associations
+verification,
+
+235
+00:16:05,520 --> 00:16:08,360
+validation check points we are doing,
+we are taking.
+
+236
+00:16:08,360 --> 00:16:11,040
+Everything comes from increased lectures
+
+237
+00:16:12,600 --> 00:16:14,160
+and this work, everything
+
+238
+00:16:14,160 --> 00:16:17,440
+comes from implicit matrix.
+
+239
+00:16:17,440 --> 00:16:18,520
+Is it like snippet?
+
+240
+00:16:18,520 --> 00:16:20,480
+No, it does not like snippet.
+
+241
+00:16:20,480 --> 00:16:22,760
+These are simply providing the methods.
+
+242
+00:16:22,760 --> 00:16:25,800
+Read one example dot clear from Selenium.
+
+243
+00:16:26,320 --> 00:16:29,800
+Dark gate from selenium
+don't seem to give promising
+
+244
+00:16:30,160 --> 00:16:31,360
+like this
+
+245
+00:16:36,240 --> 00:16:45,560
+line gets.
+
+246
+00:16:45,560 --> 00:16:49,160
+Now when we talk about Java,
+rest assured, I'm telling you
+
+247
+00:16:49,560 --> 00:16:53,200
+again and again multiple times
+I said Right there it is, Java.
+
+248
+00:16:53,600 --> 00:16:56,400
+Rest assured API allows data to be saved
+
+249
+00:16:56,440 --> 00:17:00,120
+in this environment or in just an object.
+
+250
+00:17:00,360 --> 00:17:02,960
+So here we have to take it all
+
+251
+00:17:04,120 --> 00:17:05,640
+just but
+
+252
+00:17:05,640 --> 00:17:11,280
+now it is what is the difference
+in between JSON and if you like this
+
+253
+00:17:11,280 --> 00:17:12,720
+just fine,
+
+254
+00:17:13,360 --> 00:17:16,920
+what is the difference
+in between these two
+
+255
+00:17:20,480 --> 00:17:20,800
+days?
+
+256
+00:17:20,800 --> 00:17:23,040
+What is the difference
+between this distant part?
+
+257
+00:17:23,760 --> 00:17:25,120
+And this is
+
+258
+00:17:28,840 --> 00:17:30,040
+what is a method.
+
+259
+00:17:30,040 --> 00:17:32,200
+One is object need look
+
+260
+00:17:33,520 --> 00:17:36,360
+amazing.
+
+261
+00:17:36,360 --> 00:17:38,880
+Which one is object need
+
+262
+00:17:41,160 --> 00:17:43,320
+for this method for sure.
+
+263
+00:17:43,320 --> 00:17:47,480
+Remember the first of month is the class
+
+264
+00:17:50,520 --> 00:17:51,440
+this JSON but
+
+265
+00:17:51,440 --> 00:17:57,160
+this class that it emit.
+
+266
+00:17:57,160 --> 00:18:03,560
+And what are you in stumbling?
+
+267
+00:18:03,560 --> 00:18:09,040
+I'm coming to stumble next month.
+
+268
+00:18:09,040 --> 00:18:11,600
+Oh need don't come up.
+
+269
+00:18:11,600 --> 00:18:13,760
+Baklava, baklava interactivity.
+
+270
+00:18:14,560 --> 00:18:16,800
+Three things I would need to
+
+271
+00:18:17,040 --> 00:18:18,960
+be ready with that
+
+272
+00:18:19,360 --> 00:18:22,840
+next month.
+
+273
+00:18:22,840 --> 00:18:25,160
+Decent but is class
+
+274
+00:18:28,040 --> 00:18:28,800
+right.
+
+275
+00:18:28,960 --> 00:18:30,280
+And then.
+
+276
+00:18:30,440 --> 00:18:32,360
+And then. Here
+
+277
+00:18:32,720 --> 00:18:33,800
+is some
+
+278
+00:18:35,240 --> 00:18:36,480
+bit better.
+
+279
+00:18:36,480 --> 00:18:39,160
+This this is the met.
+
+280
+00:18:39,160 --> 00:18:40,920
+There is a method
+
+281
+00:18:42,160 --> 00:18:45,080
+will longs to
+
+282
+00:18:45,080 --> 00:18:48,040
+disembark the class.
+
+283
+00:18:48,040 --> 00:18:51,080
+One is a class
+and another is a matter that belongs
+
+284
+00:18:51,080 --> 00:18:55,240
+to that particular class.
+
+285
+00:18:55,240 --> 00:18:58,080
+In one of the three here.
+
+286
+00:18:58,080 --> 00:19:01,680
+I mean then I'm coming next year,
+hopefully to this summer.
+
+287
+00:19:01,720 --> 00:19:02,720
+Already it is delayed.
+
+288
+00:19:02,720 --> 00:19:05,760
+We never have been the same, but
+
+289
+00:19:08,080 --> 00:19:10,120
+above and below as four.
+
+290
+00:19:10,120 --> 00:19:16,720
+So in our and above.
+
+291
+00:19:16,720 --> 00:19:19,080
+But like invited
+any point of time forward.
+
+292
+00:19:19,120 --> 00:19:22,960
+And what if you just want to work policy
+based on that?
+
+293
+00:19:22,960 --> 00:19:24,520
+Then what would a
+
+294
+00:19:30,480 --> 00:19:31,120
+white
+
+295
+00:19:45,520 --> 00:19:47,520
+now no basis.
+
+296
+00:19:47,520 --> 00:19:48,880
+One more thing
+
+297
+00:19:56,320 --> 00:19:57,760
+you should get on
+
+298
+00:20:03,520 --> 00:20:07,320
+got a designation.
+
+299
+00:20:07,320 --> 00:20:10,440
+Maybe it may not do this if or order late.
+
+300
+00:20:11,040 --> 00:20:14,280
+It will help us definition
+
+301
+00:20:18,360 --> 00:20:21,920
+spy on a certain vibe be use this term
+
+302
+00:20:30,520 --> 00:20:32,400
+as when it ends up to get a job.
+
+303
+00:20:32,400 --> 00:20:36,320
+We should all to connect them
+and get it right.
+
+304
+00:20:36,320 --> 00:20:41,160
+If you say this, they already exceeded
+what is my big it same me.
+
+305
+00:20:41,640 --> 00:20:46,160
+I know them.
+
+306
+00:20:46,160 --> 00:20:50,200
+Whatever the response,
+whatever the response rate we are getting,
+
+307
+00:20:50,520 --> 00:20:53,640
+just to bring the next particular response
+in between.
+
+308
+00:20:53,640 --> 00:20:57,840
+So we need this particular method points
+system standard output printing
+
+309
+00:20:59,200 --> 00:21:02,880
+to bring something in the console
+
+310
+00:21:06,080 --> 00:21:08,720
+because blind is use
+
+311
+00:21:15,600 --> 00:21:18,600
+question is why we use a standard order.
+
+312
+00:21:18,600 --> 00:21:19,840
+People in
+
+313
+00:21:25,200 --> 00:21:27,520
+exactly makes sense.
+
+314
+00:21:28,440 --> 00:21:30,480
+Okay, so guys remember
+
+315
+00:21:30,760 --> 00:21:34,440
+remember when we talk about system
+not older
+
+316
+00:21:35,160 --> 00:21:38,520
+non windows right we use this
+we can bring everything
+
+317
+00:21:38,520 --> 00:21:41,400
+onto the console what we engage
+in using this particular dump
+
+318
+00:21:41,880 --> 00:21:45,600
+the speed kind of response
+speed of operation
+
+319
+00:21:45,880 --> 00:21:50,080
+we can perform
+using one particular matter in space.
+
+320
+00:21:50,080 --> 00:21:53,120
+What is that method.
+
+321
+00:21:53,120 --> 00:21:54,360
+What is that better.
+
+322
+00:21:54,360 --> 00:21:59,120
+So you can write it.
+
+323
+00:21:59,160 --> 00:22:00,640
+Very good. You
+
+324
+00:22:04,200 --> 00:22:06,760
+open this here, Here.
+
+325
+00:22:06,920 --> 00:22:11,640
+Instead of writing this down,
+it can very simple response
+
+326
+00:22:12,120 --> 00:22:14,600
+dart pretty print
+
+327
+00:22:16,400 --> 00:22:18,800
+response, not pretty print.
+
+328
+00:22:18,960 --> 00:22:19,680
+Right.
+
+329
+00:22:20,040 --> 00:22:22,440
+So when you write response,
+not pretty print.
+
+330
+00:22:22,800 --> 00:22:26,400
+It also does the same thing.
+
+331
+00:22:26,400 --> 00:22:28,560
+This monster printed print, basically.
+
+332
+00:22:28,560 --> 00:22:30,600
+Right? So let me write it
+
+333
+00:22:32,880 --> 00:22:37,000
+this print
+
+334
+00:22:45,120 --> 00:22:47,240
+does the same as
+
+335
+00:22:48,680 --> 00:22:52,720
+system or all dog friendly
+
+336
+00:22:54,080 --> 00:22:56,000
+print and you
+
+337
+00:22:56,080 --> 00:22:56,600
+might
+
+338
+00:22:58,400 --> 00:23:00,960
+let me first guys create a new token
+
+339
+00:23:02,040 --> 00:23:03,960
+because I know why this token is inspired.
+
+340
+00:23:03,960 --> 00:23:07,200
+Already a new book, The Case.
+
+341
+00:23:07,200 --> 00:23:11,080
+How would I know the point Open is expired
+
+342
+00:23:18,000 --> 00:23:21,760
+or didn't do it outside because it
+
+343
+00:23:22,480 --> 00:23:23,760
+got a hundred.
+
+344
+00:23:23,760 --> 00:23:28,840
+But this user is not for this checker
+to generate them.
+
+345
+00:23:28,840 --> 00:23:31,640
+They get already.
+
+346
+00:23:31,640 --> 00:23:33,080
+I read this
+
+347
+00:23:50,240 --> 00:23:55,160
+with the face of his team.
+
+348
+00:23:56,640 --> 00:23:58,560
+You are absolutely correct.
+
+349
+00:23:58,560 --> 00:24:01,440
+It happened to tamper the expert
+in this game Blackwood
+
+350
+00:24:01,520 --> 00:24:04,440
+in the class.
+
+351
+00:24:04,440 --> 00:24:06,480
+Now let's try to run.
+
+352
+00:24:06,480 --> 00:24:09,720
+After updating the token object,
+it might open
+
+353
+00:24:20,760 --> 00:24:21,040
+base.
+
+354
+00:24:21,040 --> 00:24:24,680
+Can you see the same kind of response
+I got?
+
+355
+00:24:25,000 --> 00:24:27,960
+But without using the standard ogre
+printed?
+
+356
+00:24:29,880 --> 00:24:31,280
+Now I'm not using system, but
+
+357
+00:24:32,320 --> 00:24:34,760
+still I got the same response.
+
+358
+00:24:34,760 --> 00:24:36,880
+Response, not predicament.
+
+359
+00:24:36,880 --> 00:24:43,960
+Correct.
+
+360
+00:24:43,960 --> 00:24:45,360
+Is this correct
+
+361
+00:24:55,200 --> 00:24:59,920
+file?
+
+362
+00:24:59,920 --> 00:25:02,800
+Fine. Now,
+
+363
+00:25:02,800 --> 00:25:06,240
+now the next thing, the magic of correct.
+
+364
+00:25:06,520 --> 00:25:10,000
+So remember days we used this pretty print
+
+365
+00:25:10,000 --> 00:25:15,720
+command instead of system dot dot print,
+and then it will also perform
+
+366
+00:25:15,720 --> 00:25:20,000
+the same operation which we generally
+perform using the standard of printed.
+
+367
+00:25:20,280 --> 00:25:25,640
+It means printing, the result
+of printing the things under the pencil.
+
+368
+00:25:26,160 --> 00:25:27,200
+Understood
+
+369
+00:25:28,440 --> 00:25:32,160
+printing the output under the pencil
+using pretty print command
+
+370
+00:25:32,560 --> 00:25:45,600
+understood this.
+
+371
+00:25:45,600 --> 00:25:50,600
+But now let's see for the mixing
+
+372
+00:25:51,480 --> 00:25:53,760
+we are going to
+
+373
+00:25:54,640 --> 00:26:03,480
+we are intimately
+I think we're pretty clear
+
+374
+00:26:03,840 --> 00:26:06,480
+night is the image
+or the notion you used with 3D
+
+375
+00:26:06,480 --> 00:26:10,560
+print amazing.
+
+376
+00:26:10,560 --> 00:26:14,840
+So here guys, remember we have to perform
+all the operations, right?
+
+377
+00:26:15,160 --> 00:26:18,200
+But as all the operation simply means,
+what are those operations?
+
+378
+00:26:18,240 --> 00:26:23,160
+Digitally performing behaviors,
+Great operations, right.
+
+379
+00:26:23,480 --> 00:26:25,720
+So retrieval done.
+
+380
+00:26:25,720 --> 00:26:28,280
+I knew other doing operations also.
+
+381
+00:26:28,440 --> 00:26:31,240
+But right now we did a retrieval
+operation.
+
+382
+00:26:31,680 --> 00:26:36,520
+Let's add something in there
+database straight via automation, right?
+
+383
+00:26:36,560 --> 00:26:37,080
+Manually.
+
+384
+00:26:37,080 --> 00:26:41,480
+We have created lot of things, but now in
+are going to focus on manual creation.
+
+385
+00:26:41,720 --> 00:26:43,800
+We are going to focus on automation.
+
+386
+00:26:43,800 --> 00:26:47,080
+Part. It's getting
+
+387
+00:26:58,080 --> 00:27:15,480
+of. Now let me ask you one thing.
+
+388
+00:27:15,480 --> 00:27:17,480
+Give everyone
+
+389
+00:27:18,240 --> 00:27:23,120
+this token which I generated, this token
+which I used here right?
+
+390
+00:27:23,120 --> 00:27:28,040
+Can I use this token for creating
+an appliance or for that I have to use?
+
+391
+00:27:28,040 --> 00:27:30,760
+I have to generate a new book,
+
+392
+00:27:30,760 --> 00:27:42,080
+How things work for that.
+
+393
+00:27:42,080 --> 00:27:44,800
+Can I use the same token? Yes, but.
+
+394
+00:27:45,080 --> 00:27:47,120
+But to create the employee.
+
+395
+00:27:47,120 --> 00:27:50,040
+See, I have to write a new post.
+
+396
+00:27:51,960 --> 00:27:53,520
+I have to write the new post.
+
+397
+00:27:53,520 --> 00:27:56,520
+So I'm going to write the request
+
+398
+00:27:56,520 --> 00:27:58,320
+I'm seeing here.
+
+399
+00:27:58,320 --> 00:28:01,920
+Public void Be
+
+400
+00:28:04,440 --> 00:28:07,800
+So now tell me
+
+401
+00:28:08,280 --> 00:28:10,800
+this particular part, which is the base.
+
+402
+00:28:10,800 --> 00:28:14,760
+You are right in this particular
+token is under this method.
+
+403
+00:28:15,080 --> 00:28:25,040
+How can I use that under this method?
+
+404
+00:28:25,040 --> 00:28:26,800
+How can I use that?
+
+405
+00:28:26,800 --> 00:28:28,960
+Because it is already in one method.
+
+406
+00:28:28,960 --> 00:28:32,240
+We have to make it as instance
+standard variable, right?
+
+407
+00:28:32,600 --> 00:28:35,120
+So to make it instance
+variable, what we have to do
+
+408
+00:28:36,600 --> 00:28:38,920
+is I really don't know what I have to do.
+
+409
+00:28:39,920 --> 00:28:43,440
+How can I make it instance with even
+
+410
+00:28:45,240 --> 00:28:47,440
+be able to make it static?
+
+411
+00:28:47,440 --> 00:28:51,160
+Okay,
+
+412
+00:28:51,160 --> 00:28:53,840
+what if I simply write it here like this
+
+413
+00:28:55,760 --> 00:28:58,240
+instead of writing it under the method?
+
+414
+00:28:58,240 --> 00:29:00,760
+What if here
+
+415
+00:29:02,480 --> 00:29:03,720
+we did work
+
+416
+00:29:06,080 --> 00:29:08,600
+but I didn't defined as it as a static,
+
+417
+00:29:08,720 --> 00:29:19,240
+then identified it as static.
+
+418
+00:29:19,240 --> 00:29:22,840
+Is it necessary
+to make any variable instance?
+
+419
+00:29:22,840 --> 00:29:27,560
+I have to buy a static.
+
+420
+00:29:27,560 --> 00:29:33,800
+No, but.
+
+421
+00:29:33,800 --> 00:29:37,960
+And then me.
+
+422
+00:29:37,960 --> 00:29:40,080
+One more thing. This. Can I call?
+
+423
+00:29:40,720 --> 00:29:43,440
+Can I call any non static
+
+424
+00:29:43,440 --> 00:29:47,360
+variable in the static method
+
+425
+00:29:52,680 --> 00:29:54,680
+denied call any static
+
+426
+00:29:54,680 --> 00:30:02,440
+variable in non static method.
+
+427
+00:30:02,440 --> 00:30:04,680
+My method is not a static unknown static
+
+428
+00:30:08,040 --> 00:30:09,320
+nonstandard.
+
+429
+00:30:09,320 --> 00:30:12,680
+If I made my variables static,
+
+430
+00:30:12,680 --> 00:30:19,400
+will I be able to call them?
+
+431
+00:30:19,400 --> 00:30:21,600
+Will I be able to call
+all of my variables?
+
+432
+00:30:22,320 --> 00:30:24,320
+No. Then why were you saying that?
+
+433
+00:30:24,320 --> 00:30:25,200
+Make it static
+
+434
+00:30:41,320 --> 00:30:43,680
+then why already you saying make it static
+
+435
+00:30:43,800 --> 00:30:45,000
+and we guys
+
+436
+00:30:49,800 --> 00:30:52,800
+here just instance good enough.
+
+437
+00:30:53,120 --> 00:30:56,400
+Now here I'm going to provide this value.
+
+438
+00:30:56,400 --> 00:30:57,120
+Right?
+
+439
+00:30:57,280 --> 00:30:59,720
+So now see this value
+
+440
+00:31:00,160 --> 00:31:02,280
+instead of using this particular part,
+
+441
+00:31:03,600 --> 00:31:08,640
+instead of using this particular part,
+I will simply use the key.
+
+442
+00:31:08,960 --> 00:31:09,720
+Right?
+
+443
+00:31:09,960 --> 00:31:15,960
+I'm not going to use all of this things.
+
+444
+00:31:15,960 --> 00:31:19,200
+So instead of using this part,
+I would simply call this broken
+
+445
+00:31:20,040 --> 00:31:22,960
+shortcut blade
+
+446
+00:31:25,920 --> 00:31:26,640
+replace.
+
+447
+00:31:26,960 --> 00:31:29,160
+We need to work or not.
+
+448
+00:31:29,400 --> 00:31:42,960
+And what would it work?
+
+449
+00:31:43,800 --> 00:31:46,360
+Perfect.
+
+450
+00:31:46,360 --> 00:31:50,200
+So now, now see here
+what I'm going to create the employee.
+
+451
+00:31:50,680 --> 00:31:53,080
+What is the first thing we have to do
+is to create the
+
+452
+00:31:59,560 --> 00:32:01,600
+request specification.
+
+453
+00:32:01,600 --> 00:32:05,840
+I would see prepared.
+
+454
+00:32:05,840 --> 00:32:09,000
+The bag of request is equals
+
+455
+00:32:09,000 --> 00:32:11,720
+to what I do based
+
+456
+00:32:15,840 --> 00:32:19,040
+with no cost.
+
+457
+00:32:19,800 --> 00:32:24,520
+If we are making the request
+we have to use given given dart
+
+458
+00:32:25,520 --> 00:32:26,160
+now this
+
+459
+00:32:26,160 --> 00:32:29,200
+time, this time we have to use headers
+constraints, the water.
+
+460
+00:32:29,440 --> 00:32:38,760
+What are the hurdles to be able to use
+case?
+
+461
+00:32:38,760 --> 00:32:40,960
+The force that I would use is
+
+462
+00:32:45,040 --> 00:32:49,040
+or think that was true.
+
+463
+00:32:49,080 --> 00:32:55,360
+That is going to take value.
+
+464
+00:32:55,360 --> 00:32:56,400
+So what would be the value?
+
+465
+00:32:56,400 --> 00:32:59,040
+This allegation
+
+466
+00:33:01,040 --> 00:33:04,560
+application slash to
+
+467
+00:33:06,000 --> 00:33:07,000
+dart?
+
+468
+00:33:07,800 --> 00:33:09,600
+I would need another header.
+
+469
+00:33:09,600 --> 00:33:10,400
+Right.
+
+470
+00:33:11,040 --> 00:33:15,280
+So what is the end of the database here?
+
+471
+00:33:15,280 --> 00:33:18,160
+Would be my one
+
+472
+00:33:19,280 --> 00:33:20,280
+or two.
+
+473
+00:33:20,280 --> 00:33:22,720
+Right?
+
+474
+00:33:22,720 --> 00:33:24,480
+My authorization.
+
+475
+00:33:24,480 --> 00:33:28,000
+So here I would need a simple token
+which I generated
+
+476
+00:33:29,160 --> 00:33:31,280
+which I generated dart
+
+477
+00:33:32,640 --> 00:33:35,120
+Now to create an employee,
+
+478
+00:33:35,120 --> 00:33:42,880
+what is the next thing we need?
+
+479
+00:33:42,880 --> 00:33:46,240
+We need body just to
+
+480
+00:34:01,920 --> 00:34:05,880
+so we need now another thing that is body.
+
+481
+00:34:06,800 --> 00:34:10,320
+So let me call this here
+
+482
+00:34:10,640 --> 00:34:14,800
+already.
+
+483
+00:34:14,800 --> 00:34:20,680
+Tell me how we can rid the body,
+
+484
+00:34:20,680 --> 00:34:26,600
+how we can rate the body.
+
+485
+00:34:26,600 --> 00:34:27,280
+Any idea
+
+486
+00:34:32,760 --> 00:34:35,760
+from swagger we can pick from here.
+
+487
+00:34:35,760 --> 00:34:39,080
+Also, we can take we have a body already
+
+488
+00:34:39,080 --> 00:34:42,080
+available right?
+
+489
+00:34:42,080 --> 00:34:47,640
+And these are
+the things we need in the body.
+
+490
+00:34:47,640 --> 00:34:53,840
+And so now if I go to my this part
+
+491
+00:34:54,360 --> 00:34:56,720
+and if I keep this
+
+492
+00:34:57,840 --> 00:34:59,920
+so this is the body.
+
+493
+00:35:00,880 --> 00:35:03,680
+This is the body, I would be
+
+494
+00:35:03,680 --> 00:35:07,000
+perfect.
+
+495
+00:35:07,000 --> 00:35:09,040
+Let's change the data.
+
+496
+00:35:09,040 --> 00:35:11,320
+Let's change the data.
+
+497
+00:35:11,320 --> 00:35:13,720
+So here I need
+
+498
+00:35:14,000 --> 00:35:14,720
+first
+
+499
+00:35:17,200 --> 00:35:20,040
+was named should be normal
+
+500
+00:35:20,040 --> 00:35:22,480
+and a
+
+501
+00:35:22,920 --> 00:35:25,880
+you a although it's I in your name
+
+502
+00:35:26,400 --> 00:35:28,720
+I or you everything will look
+
+503
+00:35:29,760 --> 00:35:30,800
+nice.
+
+504
+00:35:31,320 --> 00:35:34,760
+The entire concept of global asset
+consultants available
+
+505
+00:35:36,080 --> 00:35:39,480
+go last name
+
+506
+00:35:42,200 --> 00:35:43,080
+and then
+
+507
+00:35:44,240 --> 00:35:49,800
+last name
+and obviously middle name is one only.
+
+508
+00:35:49,800 --> 00:35:57,840
+No one can do this to me.
+
+509
+00:35:57,840 --> 00:36:00,000
+Even if it is no any.
+
+510
+00:36:00,000 --> 00:36:02,200
+That would be M because there is this
+
+511
+00:36:03,280 --> 00:36:04,720
+little word.
+
+512
+00:36:04,880 --> 00:36:07,080
+Because in the end will
+
+513
+00:36:07,080 --> 00:36:11,280
+you call people body that form
+just copy dead body pasted here
+
+514
+00:36:11,280 --> 00:36:16,400
+simple business, just copy
+the body and pasted it by default.
+
+515
+00:36:16,400 --> 00:36:18,440
+It takes like this
+
+516
+00:36:18,680 --> 00:36:21,320
+simply it goes to new line.
+
+517
+00:36:21,320 --> 00:36:22,560
+It goes to new Line.
+
+518
+00:36:22,560 --> 00:36:26,400
+So it put slash and by default it is
+it is a word by default.
+
+519
+00:36:26,640 --> 00:36:28,920
+If you want to read,
+what do we do with this?
+
+520
+00:36:28,920 --> 00:36:32,760
+Let's use with slashes,
+not renewable anything
+
+521
+00:36:33,000 --> 00:36:36,360
+because yeah, it could
+and leave it as it is.
+
+522
+00:36:36,360 --> 00:36:38,120
+No, use it on just leave it.
+
+523
+00:36:38,120 --> 00:36:39,760
+It is just a former
+
+524
+00:36:39,760 --> 00:36:43,400
+that we are getting that this way again
+if you copy by default copied like this,
+
+525
+00:36:44,720 --> 00:36:47,360
+you don't really get
+
+526
+00:36:50,880 --> 00:36:54,000
+no now here I'm going to use
+
+527
+00:36:56,040 --> 00:36:57,520
+it being named be it
+
+528
+00:36:57,520 --> 00:37:01,440
+because no one in any boat
+are getting that security name being
+
+529
+00:37:06,480 --> 00:37:08,640
+my job
+
+530
+00:37:08,640 --> 00:37:11,040
+title should be Q
+
+531
+00:37:12,400 --> 00:37:15,840
+employs to this
+well one name default moment.
+
+532
+00:37:16,000 --> 00:37:19,040
+No it happened
+just three years ago when the name
+
+533
+00:37:19,600 --> 00:37:22,200
+I'm giving you actually 18 named
+
+534
+00:37:23,840 --> 00:37:25,800
+Fine Guys.
+
+535
+00:37:25,800 --> 00:37:28,320
+We are making that in so we would need
+
+536
+00:37:28,840 --> 00:37:31,520
+this new water
+which is equivalent to base.
+
+537
+00:37:31,520 --> 00:37:32,360
+You want it.
+
+538
+00:37:32,360 --> 00:37:35,040
+So we provided it as an instance.
+
+539
+00:37:35,040 --> 00:37:38,960
+So second thing so can be
+provided is a bit
+
+540
+00:37:38,960 --> 00:37:42,920
+and so that all data my API except data
+
+541
+00:37:42,920 --> 00:37:49,800
+from any easy.
+
+542
+00:37:49,800 --> 00:37:53,200
+Okay so now I have learned my API
+in Greek page.
+
+543
+00:37:54,280 --> 00:37:57,880
+So now here here we have grade based.
+
+544
+00:37:57,880 --> 00:38:00,160
+You are right we have broken.
+
+545
+00:38:00,960 --> 00:38:01,520
+Okay.
+
+546
+00:38:02,600 --> 00:38:05,200
+Is it earlier or given that me
+
+547
+00:38:05,240 --> 00:38:08,280
+honestly that you want me to change
+the let me change it.
+
+548
+00:38:09,000 --> 00:38:14,080
+But so basically token body headers.
+
+549
+00:38:14,080 --> 00:38:16,680
+We have all these things right now.
+
+550
+00:38:16,680 --> 00:38:21,400
+Understand one thing, guys,
+when we are going to hit the end point,
+
+551
+00:38:22,000 --> 00:38:25,760
+right when we are going to get the end
+point with this, prepare request
+
+552
+00:38:25,800 --> 00:38:28,920
+or what would happen,
+but hitting the end point,
+
+553
+00:38:28,920 --> 00:38:34,000
+it wouldn't generate the employee.
+
+554
+00:38:34,000 --> 00:38:36,200
+It will generate the employee not based
+
+555
+00:38:42,720 --> 00:38:45,400
+right now, not what I need.
+
+556
+00:38:45,400 --> 00:38:48,640
+Basically, it will give me whole lot
+
+557
+00:38:48,920 --> 00:38:53,400
+the whole lot of information
+that employee created is reasonably dense,
+
+558
+00:38:53,400 --> 00:38:57,120
+all the information in that one
+particular string with the key.
+
+559
+00:38:57,120 --> 00:39:01,520
+And when JSON object one key
+and when do evaluate what does that employ
+
+560
+00:39:01,520 --> 00:39:03,880
+and is equals to some APIs.
+
+561
+00:39:05,160 --> 00:39:05,960
+Correct.
+
+562
+00:39:06,600 --> 00:39:08,720
+It would talk about the whole body
+
+563
+00:39:08,720 --> 00:39:12,040
+you will get the message
+employed created is being employed
+
+564
+00:39:12,040 --> 00:39:15,840
+is equal to something positive is equal to
+this is equal to this class.
+
+565
+00:39:15,840 --> 00:39:24,600
+There was equal to this storm, correct.
+
+566
+00:39:24,600 --> 00:39:29,160
+So now now here when we talk about request
+a specification bar,
+
+567
+00:39:29,400 --> 00:39:33,240
+they preparing the request,
+we have to take care of this thing.
+
+568
+00:39:33,600 --> 00:39:36,480
+Now we ready post
+
+569
+00:39:36,480 --> 00:39:38,520
+when we are going to
+
+570
+00:39:39,960 --> 00:39:41,560
+the end point.
+
+571
+00:39:41,560 --> 00:39:44,280
+So this end point work with response.
+
+572
+00:39:44,880 --> 00:39:48,320
+So once I get the response
+I will be prepared request
+
+573
+00:39:48,760 --> 00:39:51,240
+not proven or proposed.
+
+574
+00:39:52,040 --> 00:39:52,360
+Great
+
+575
+00:39:55,240 --> 00:39:58,280
+request.
+
+576
+00:39:58,280 --> 00:40:03,440
+What kind of request is this?
+
+577
+00:40:03,440 --> 00:40:05,600
+Is what kind of request is this
+post request?
+
+578
+00:40:05,600 --> 00:40:10,040
+How we get this information
+that this is boss request simple go here.
+
+579
+00:40:10,440 --> 00:40:15,040
+It will give you this is mostly based on
+see this is post request.
+
+580
+00:40:15,360 --> 00:40:18,720
+Now this simple part
+
+581
+00:40:18,840 --> 00:40:21,120
+the simple end point compute
+
+582
+00:40:24,720 --> 00:40:27,320
+copy and be strategically employing
+
+583
+00:40:28,720 --> 00:40:30,960
+this create employee
+
+584
+00:40:32,080 --> 00:40:32,600
+database.
+
+585
+00:40:32,600 --> 00:40:37,120
+First we will bring simple post
+will bring simple to get
+
+586
+00:40:37,120 --> 00:40:41,400
+what is next and building on the response
+we would print today.
+
+587
+00:40:41,640 --> 00:40:43,120
+We are not going to use now this.
+
+588
+00:40:43,120 --> 00:40:47,720
+But your system got out
+and we use something else.
+
+589
+00:40:47,720 --> 00:40:48,800
+What is that
+
+590
+00:40:53,880 --> 00:40:55,240
+to bring something to reduce
+
+591
+00:40:55,240 --> 00:40:57,760
+response time pretty
+
+592
+00:40:59,240 --> 00:41:01,680
+response not repeating
+
+593
+00:41:01,680 --> 00:41:03,200
+trend this
+
+594
+00:41:09,640 --> 00:41:12,480
+First, let's see
+whether we are getting the response on
+
+595
+00:41:20,560 --> 00:41:23,920
+employee created
+
+596
+00:41:24,280 --> 00:41:28,120
+employee created getting
+
+597
+00:41:29,680 --> 00:41:32,480
+there is an API working.
+
+598
+00:41:32,480 --> 00:41:32,680
+Yeah.
+
+599
+00:41:32,680 --> 00:41:37,600
+And we will perform a a and so first I'm
+just trying to show you something so.
+
+600
+00:41:37,600 --> 00:41:39,640
+It says my API is working fine.
+
+601
+00:41:39,760 --> 00:41:43,320
+Correct.
+
+602
+00:41:43,320 --> 00:41:45,200
+Now see
+
+603
+00:41:47,240 --> 00:41:51,000
+when I got the complete response in
+just before we start predicting
+
+604
+00:41:51,560 --> 00:41:54,360
+right
+here, I'm not going to focus on this part
+
+605
+00:41:54,360 --> 00:41:56,840
+that response
+or as this being or something.
+
+606
+00:41:57,160 --> 00:42:00,600
+Remember we were using in a stronger order
+
+607
+00:42:01,480 --> 00:42:03,640
+response start as is shrink.
+
+608
+00:42:04,920 --> 00:42:07,320
+That's what we are like. Correct.
+
+609
+00:42:07,320 --> 00:42:10,720
+Now here, here we are not creating dark
+as is being or something,
+
+610
+00:42:10,720 --> 00:42:13,120
+but still
+I'm reading the same response. What
+
+611
+00:42:21,440 --> 00:42:25,400
+what I'm getting at is same response. This
+
+612
+00:42:26,800 --> 00:42:30,760
+what is the reason behind this?
+
+613
+00:42:30,760 --> 00:42:36,280
+Because by default, your pretty printing
+method is giving the particular response
+
+614
+00:42:36,280 --> 00:42:39,560
+and the string format that we can see
+or to the console.
+
+615
+00:42:39,560 --> 00:42:45,400
+So we don't have to specify the way we were specifying in the standard of printing
+
+616
+00:42:47,080 --> 00:42:55,120
+logic.
+
+617
+00:42:55,120 --> 00:42:56,280
+Months
+
+618
+00:42:57,120 --> 00:42:59,640
+now, after this act, this here
+
+619
+00:43:00,000 --> 00:43:02,600
+we have to use one particular video.
+
+620
+00:43:03,360 --> 00:43:04,840
+What is this variable?
+
+621
+00:43:04,840 --> 00:43:07,800
+We need one variable to store the employ.
+
+622
+00:43:07,800 --> 00:43:11,280
+And so how we can use
+
+623
+00:43:11,400 --> 00:43:12,360
+first.
+
+624
+00:43:12,480 --> 00:43:16,400
+First,
+we have to feature all the information
+
+625
+00:43:16,400 --> 00:43:20,240
+and we have to take one
+particular information from the body
+
+626
+00:43:20,240 --> 00:43:24,400
+of the consolidated,
+one particular information we need,
+
+627
+00:43:24,400 --> 00:43:27,480
+and we would leave
+all the information the story.
+
+628
+00:43:28,920 --> 00:43:31,040
+So now how we can rate.
+
+629
+00:43:31,040 --> 00:43:32,000
+Remember,
+
+630
+00:43:32,600 --> 00:43:36,640
+I was telling you one thing
+just so font is a class in
+
+631
+00:43:36,640 --> 00:43:41,040
+which JSON part is an object is
+it is a method of the particular class.
+
+632
+00:43:41,040 --> 00:43:43,200
+Right. It holds the information.
+
+633
+00:43:43,560 --> 00:43:46,640
+My job is to short API announce data
+
+634
+00:43:46,640 --> 00:43:51,280
+that will be sent in to some forward.
+
+635
+00:43:51,280 --> 00:43:53,880
+It seems to that
+in just a moment, remember
+
+636
+00:43:59,160 --> 00:44:00,720
+amongst roommates
+
+637
+00:44:00,720 --> 00:44:09,080
+remember this are not fine.
+
+638
+00:44:09,480 --> 00:44:12,600
+So now here
+I'm going to use that particular part
+
+639
+00:44:12,960 --> 00:44:15,160
+just on the method.
+
+640
+00:44:15,960 --> 00:44:19,400
+I'm going to use JSON, but not really.
+
+641
+00:44:19,560 --> 00:44:22,320
+We discussed the state. JSON is a class
+
+642
+00:44:22,520 --> 00:44:27,160
+in which just did this JSON,
+but with this parentheses is a method.
+
+643
+00:44:27,640 --> 00:44:31,520
+So this method we are going to use
+and I'm seeing here
+
+644
+00:44:31,880 --> 00:44:34,760
+I am seeing here one thing
+what is this one thing?
+
+645
+00:44:34,920 --> 00:44:37,200
+So now let me show you.
+
+646
+00:44:37,360 --> 00:44:41,680
+If you go here
+and if you observe it closely, this multi,
+
+647
+00:44:42,280 --> 00:44:46,080
+if you go in, if you observe it closely,
+what is the gist
+
+648
+00:44:46,080 --> 00:44:49,600
+and what it is using or what is a distant
+object is using.
+
+649
+00:44:50,040 --> 00:44:53,040
+So here can you see this as employ?
+
+650
+00:44:53,040 --> 00:44:56,280
+You would get capability.
+
+651
+00:44:56,280 --> 00:44:58,720
+This employee object usage is some object
+
+652
+00:44:59,440 --> 00:45:02,600
+and in this object
+these keys are relevant.
+
+653
+00:45:03,560 --> 00:45:04,320
+All these keys
+
+654
+00:45:04,320 --> 00:45:06,360
+are available under this, particularly
+
+655
+00:45:07,400 --> 00:45:09,160
+when you actually send the data.
+
+656
+00:45:09,160 --> 00:45:13,160
+It is not employee budget,
+but when you actually getting the data,
+
+657
+00:45:13,440 --> 00:45:18,240
+actually getting the response, you
+are going to see this particular employee.
+
+658
+00:45:18,480 --> 00:45:20,520
+It is nothing, but you're just an object
+
+659
+00:45:22,920 --> 00:45:25,920
+that is your all the values,
+post them the name, last name,
+
+660
+00:45:26,480 --> 00:45:30,360
+nationality, great job, title,
+employment status, employee.
+
+661
+00:45:30,720 --> 00:45:34,200
+All these things are associated
+to one particular distant object
+
+662
+00:45:34,400 --> 00:45:37,560
+and that object is employee here
+in the body.
+
+663
+00:45:38,040 --> 00:45:38,680
+Right?
+
+664
+00:45:38,680 --> 00:45:44,160
+So with the reference to this employee
+object, we have to specify the data
+
+665
+00:45:44,400 --> 00:45:47,640
+rate, for example, employee dot first
+
+666
+00:45:47,640 --> 00:45:50,760
+name or employee DOD employee 80
+
+667
+00:45:50,840 --> 00:45:55,680
+something like this,
+something like this to filter other data.
+
+668
+00:45:56,200 --> 00:45:58,840
+So so I'm seeing here
+
+669
+00:45:58,840 --> 00:46:03,120
+I am seeing here
+this in this just fine, but Google,
+
+670
+00:46:05,040 --> 00:46:06,440
+it's doing
+
+671
+00:46:06,440 --> 00:46:10,440
+okay from the decent part,
+which was the complete information under
+
+672
+00:46:10,440 --> 00:46:15,800
+response, converted to the string form
+and then give me the string for work.
+
+673
+00:46:16,000 --> 00:46:20,040
+So I'm seeing from this employee,
+remember this, this get sensitive place
+
+674
+00:46:20,360 --> 00:46:23,440
+if you use small e here,
+it will not work. Why?
+
+675
+00:46:23,520 --> 00:46:26,480
+I would believe this employee, Don
+
+676
+00:46:28,080 --> 00:46:32,040
+Roy, or maybe this venue should be seen.
+
+677
+00:46:32,040 --> 00:46:35,480
+This venue should be seen
+as available in the body.
+
+678
+00:46:35,640 --> 00:46:38,880
+So this employee is
+the object is employed.
+
+679
+00:46:38,880 --> 00:46:41,040
+80 is the key, right?
+
+680
+00:46:41,040 --> 00:46:45,680
+So whatever the venue is available
+under this particular flag, under
+
+681
+00:46:45,720 --> 00:46:49,920
+this particular keyword and mentioning
+here, it is stored there 20.
+
+682
+00:46:50,360 --> 00:46:52,080
+So do store this venue.
+
+683
+00:46:52,080 --> 00:46:55,800
+I have to define but variable or not
+
+684
+00:46:58,560 --> 00:46:59,240
+nice.
+
+685
+00:46:59,240 --> 00:47:03,160
+This particular part
+will return me the employee I.D.
+
+686
+00:47:03,320 --> 00:47:08,480
+so I have to define one variable or not.
+
+687
+00:47:08,480 --> 00:47:10,440
+Yes. And variable is of what nature
+
+688
+00:47:20,960 --> 00:47:22,120
+to hold the information.
+
+689
+00:47:22,120 --> 00:47:24,000
+Right. So let me right here.
+
+690
+00:47:24,000 --> 00:47:26,600
+The third thing is I'm going to load
+
+691
+00:47:27,760 --> 00:47:29,000
+stream
+
+692
+00:47:30,440 --> 00:47:35,280
+and control I d equals to simple is free
+
+693
+00:47:36,600 --> 00:47:37,240
+employee.
+
+694
+00:47:37,240 --> 00:47:46,400
+I includes this employee entity
+
+695
+00:47:47,480 --> 00:47:51,160
+and it is
+
+696
+00:47:52,640 --> 00:47:54,800
+willing it work like this
+
+697
+00:47:57,000 --> 00:47:58,320
+is going to work
+
+698
+00:47:58,320 --> 00:48:04,800
+like this.
+
+699
+00:48:04,800 --> 00:48:07,320
+First, let's check simple.
+
+700
+00:48:07,320 --> 00:48:11,680
+I'm going to put employee right
+because I'm putting specific value.
+
+701
+00:48:11,920 --> 00:48:15,840
+So for a specific value
+I'm using this term don't go prepayments.
+
+702
+00:48:16,480 --> 00:48:20,120
+So this time let me change
+this name to see
+
+703
+00:48:21,920 --> 00:48:25,640
+and it need to be fine.
+
+704
+00:48:26,240 --> 00:48:29,400
+And now
+when I try to generate this employee,
+
+705
+00:48:29,400 --> 00:48:40,240
+when I try to create the employee,
+see what would happen.
+
+706
+00:48:40,240 --> 00:48:43,440
+Guys, can you see
+I got one specific venue here
+
+707
+00:48:45,080 --> 00:48:51,000
+coming my employer correct or not, I'm
+
+708
+00:48:51,000 --> 00:48:53,560
+not getting any additional information,
+any other thing.
+
+709
+00:48:53,560 --> 00:48:57,560
+I'm just getting my employer ID,
+which I generated that employee
+
+710
+00:48:57,560 --> 00:49:00,560
+which I generated
+and retrieving this data from there.
+
+711
+00:49:00,600 --> 00:49:03,400
+I mean, you can cross-check this data
+from you
+
+712
+00:49:03,840 --> 00:49:06,240
+see, this is the value generated.
+
+713
+00:49:06,520 --> 00:49:10,560
+This is the value
+Both values are seen with the readings.
+
+714
+00:49:10,560 --> 00:49:11,800
+Which employee could it
+
+715
+00:49:14,520 --> 00:49:15,320
+get it
+
+716
+00:49:17,520 --> 00:49:20,120
+right but still is still here.
+
+717
+00:49:20,120 --> 00:49:21,440
+One but is it remaining?
+
+718
+00:49:21,440 --> 00:49:22,760
+What is that
+
+719
+00:49:25,320 --> 00:49:26,160
+liquid ideal?
+
+720
+00:49:26,160 --> 00:49:31,520
+Plus we use
+
+721
+00:49:32,880 --> 00:49:36,360
+this month method
+
+722
+00:49:36,840 --> 00:49:40,040
+to get
+
+723
+00:49:40,320 --> 00:49:41,640
+the object
+
+724
+00:49:42,880 --> 00:49:45,760
+specific information
+
+725
+00:49:49,240 --> 00:49:50,920
+from the
+
+726
+00:49:52,040 --> 00:49:52,560
+case.
+
+727
+00:49:52,560 --> 00:49:56,320
+An object trait
+we get specific information
+
+728
+00:49:56,320 --> 00:49:59,920
+from The JSON object
+we need is just an automatic
+
+729
+00:50:01,440 --> 00:50:02,200
+rate.
+
+730
+00:50:02,200 --> 00:50:06,400
+Now guys,
+this is the time to perform a session.
+
+731
+00:50:06,720 --> 00:50:12,000
+This is the time to perform a session
+right?
+
+732
+00:50:12,000 --> 00:50:12,720
+Right.
+
+733
+00:50:12,880 --> 00:50:16,120
+So now see how we can perform
+different type of positions.
+
+734
+00:50:16,160 --> 00:50:18,440
+Remember we were writing their test.
+
+735
+00:50:19,240 --> 00:50:22,640
+Do what were writing
+that does to remember this
+
+736
+00:50:32,440 --> 00:50:33,080
+object.
+
+737
+00:50:33,080 --> 00:50:35,840
+So then you are writing them best. There
+we use the library.
+
+738
+00:50:35,840 --> 00:50:37,040
+What is that
+
+739
+00:50:44,000 --> 00:50:46,200
+for? Writing the test in Postman.
+
+740
+00:50:46,440 --> 00:50:49,400
+Yeah, see? And remember. Great.
+
+741
+00:50:49,680 --> 00:50:54,440
+We used to write a session named
+We deserve to work on line number 58.
+
+742
+00:50:55,320 --> 00:50:58,920
+We are using what is specific database
+you see pretty print
+
+743
+00:50:58,960 --> 00:51:00,000
+we're using blueprint.
+
+744
+00:51:00,000 --> 00:51:02,640
+The response become good response.
+
+745
+00:51:02,640 --> 00:51:04,680
+So to date one
+specific thing I use this term
+
+746
+00:51:05,680 --> 00:51:07,560
+even though we are not going to use it,
+
+747
+00:51:07,560 --> 00:51:11,560
+it is just to show you with beam
+object it here.
+
+748
+00:51:11,560 --> 00:51:15,120
+I told you they had to be used,
+as they put it, for assertions.
+
+749
+00:51:15,440 --> 00:51:17,680
+Here we are going to use one
+for assertions.
+
+750
+00:51:19,320 --> 00:51:21,280
+What has all the methods
+
+751
+00:51:21,280 --> 00:51:25,720
+for assertions based?
+
+752
+00:51:25,720 --> 00:51:27,040
+One particular class?
+
+753
+00:51:27,040 --> 00:51:29,920
+Which class?
+
+754
+00:51:29,920 --> 00:51:31,680
+I just told you.
+
+755
+00:51:31,760 --> 00:51:36,840
+Implicit matchups
+we will use and list images here like so.
+
+756
+00:51:36,840 --> 00:51:41,560
+Now see how we can use any posting
+if we are going to create the employee.
+
+757
+00:51:41,800 --> 00:51:44,040
+What is what is the status?
+
+758
+00:51:44,040 --> 00:51:46,240
+What I should expect
+
+759
+00:51:56,560 --> 00:51:58,760
+if I change it
+
+760
+00:51:58,760 --> 00:52:03,920
+because we already created
+one employee here with your me one.
+
+761
+00:52:04,440 --> 00:52:07,400
+So this time
+then I want you to create a new employee.
+
+762
+00:52:07,400 --> 00:52:10,200
+I would need new data
+just to show you this.
+
+763
+00:52:10,240 --> 00:52:11,080
+Why I changed the
+
+764
+00:52:18,200 --> 00:52:21,080
+object.
+
+765
+00:52:21,080 --> 00:52:22,200
+It is just.
+
+766
+00:52:22,200 --> 00:52:24,440
+Yeah, I changed to a you Dag.
+
+767
+00:52:24,440 --> 00:52:26,280
+You guys don't get confused.
+
+768
+00:52:26,280 --> 00:52:29,640
+Or do you get confused by now?
+
+769
+00:52:29,640 --> 00:52:31,720
+See this assertion part?
+
+770
+00:52:31,720 --> 00:52:35,000
+So here in a solution
+we can read it by its certain limits.
+
+771
+00:52:35,000 --> 00:52:39,320
+Begin with certain stages
+and validate data in different levels.
+
+772
+00:52:39,640 --> 00:52:41,520
+How loosely?
+
+773
+00:52:41,520 --> 00:52:45,560
+First,
+we have one particular variable here in a
+
+774
+00:52:46,240 --> 00:52:49,000
+in a request grade that holds
+
+775
+00:52:49,360 --> 00:52:51,600
+all the information up as creating
+
+776
+00:52:52,240 --> 00:52:57,720
+what consent,
+which one boards on the information.
+
+777
+00:52:57,720 --> 00:52:59,760
+After reading into
+
+778
+00:53:00,240 --> 00:53:01,720
+response rate.
+
+779
+00:53:01,720 --> 00:53:06,480
+So we will use this response
+as the reference point to perform all sort
+
+780
+00:53:06,480 --> 00:53:12,080
+of verification in validation, to perform
+all sort of verification and validation.
+
+781
+00:53:12,080 --> 00:53:14,040
+We use this just once for.
+
+782
+00:53:14,040 --> 00:53:15,720
+So let me write
+
+783
+00:53:15,920 --> 00:53:19,040
+a response dot then
+
+784
+00:53:20,160 --> 00:53:24,200
+don't assert that dot.
+
+785
+00:53:25,080 --> 00:53:29,240
+Let's first specify
+and verify status report case.
+
+786
+00:53:29,720 --> 00:53:32,040
+So tell me what is the status
+quote? We should expect it
+
+787
+00:53:35,200 --> 00:53:36,400
+to zero one
+
+788
+00:53:37,640 --> 00:53:38,440
+because you
+
+789
+00:53:39,800 --> 00:53:42,000
+know, now let's see,
+
+790
+00:53:42,000 --> 00:53:45,320
+I'm going to work with my first name.
+
+791
+00:53:45,760 --> 00:53:48,800
+So this time I'm going to change my middle
+name.
+
+792
+00:53:48,800 --> 00:53:49,040
+Great.
+
+793
+00:53:49,040 --> 00:53:54,360
+Somewhere we my image,
+I want to verify, because if you remember,
+
+794
+00:53:54,760 --> 00:53:57,840
+we were sending the data
+to creating an employee.
+
+795
+00:53:58,120 --> 00:54:00,640
+And after creating an employee,
+we were getting the
+
+796
+00:54:01,200 --> 00:54:04,440
+status quote,
+but we were not getting the correct body.
+
+797
+00:54:04,440 --> 00:54:06,840
+If you guys remember that
+
+798
+00:54:07,520 --> 00:54:12,480
+there was a glitch in the API eight.
+
+799
+00:54:12,480 --> 00:54:16,200
+So it was not showing the current data,
+it was not showing the correct data
+
+800
+00:54:16,640 --> 00:54:17,680
+point of time.
+
+801
+00:54:17,680 --> 00:54:19,800
+So here, here, let's see.
+
+802
+00:54:20,200 --> 00:54:22,720
+That was the glitch in the API
+bug. Got it.
+
+803
+00:54:23,000 --> 00:54:27,440
+So here, let's see
+whether I am sending the data in.
+
+804
+00:54:27,440 --> 00:54:31,280
+The same data is
+it is returning in the response or not.
+
+805
+00:54:31,280 --> 00:54:34,200
+Whether that is changing
+or the same two days coming.
+
+806
+00:54:34,320 --> 00:54:34,920
+Right.
+
+807
+00:54:34,920 --> 00:54:39,680
+This is something we need to do,
+but it is something we need to take.
+
+808
+00:54:39,680 --> 00:54:40,000
+Get on
+
+809
+00:54:43,000 --> 00:54:45,400
+to this.
+
+810
+00:54:45,960 --> 00:54:48,800
+So now,
+now let's work on this particular part.
+
+811
+00:54:49,480 --> 00:54:51,400
+I'm going to use it
+
+812
+00:54:54,520 --> 00:54:56,640
+right here.
+
+813
+00:54:56,640 --> 00:54:59,040
+I'm going to write response.
+
+814
+00:54:59,200 --> 00:55:02,880
+No, Then don't assert that.
+
+815
+00:55:02,880 --> 00:55:03,880
+Don't.
+
+816
+00:55:03,960 --> 00:55:06,680
+I'm seeing length of the body
+
+817
+00:55:08,160 --> 00:55:10,560
+in the body check for
+
+818
+00:55:14,760 --> 00:55:18,120
+Roy Dot
+
+819
+00:55:22,160 --> 00:55:23,400
+employee
+
+820
+00:55:25,560 --> 00:55:26,520
+Karma
+
+821
+00:55:33,120 --> 00:55:34,920
+equal to
+
+822
+00:55:50,280 --> 00:56:48,560
+or to just to import.
+
+823
+00:56:48,560 --> 00:56:50,800
+But it's not working or you don't.
+
+824
+00:56:52,240 --> 00:56:59,520
+It's not see
+
+825
+00:57:01,200 --> 00:57:04,080
+it was not taking there
+do not equal straight I'm
+
+826
+00:57:04,200 --> 00:57:07,320
+putting this here
+I'm going to provide the value
+
+827
+00:57:07,800 --> 00:57:10,960
+so now see earlier
+it was giving me the error rate.
+
+828
+00:57:10,960 --> 00:57:16,240
+I don't know why it's not taking
+what it is from or not increased matters.
+
+829
+00:57:16,240 --> 00:57:19,360
+Right. So we have to write it manually.
+
+830
+00:57:19,640 --> 00:57:22,080
+This matters important for
+
+831
+00:57:23,400 --> 00:57:23,760
+everyone.
+
+832
+00:57:23,760 --> 00:57:28,920
+This important study
+out of g m Grist mentors
+
+833
+00:57:30,120 --> 00:57:32,200
+these holmquist majors class
+
+834
+00:57:32,200 --> 00:57:36,960
+we use here to perform
+verification and validation.
+
+835
+00:57:36,960 --> 00:57:39,360
+This generated this
+
+836
+00:57:46,160 --> 00:57:46,960
+in someone
+
+837
+00:57:46,960 --> 00:57:51,600
+based in the to the champion good
+
+838
+00:57:54,000 --> 00:57:55,600
+now C Foster,
+
+839
+00:57:55,600 --> 00:58:00,800
+let me delete this part from you
+and then if I call this one
+
+840
+00:58:00,800 --> 00:58:06,240
+C it is giving me equal to any C from
+majors and list matches.
+
+841
+00:58:06,280 --> 00:58:08,640
+It is giving me equal
+
+842
+00:58:11,000 --> 00:58:14,760
+days.
+
+843
+00:58:14,760 --> 00:58:16,880
+It is giving me equal to right.
+
+844
+00:58:16,880 --> 00:58:19,200
+So now this majors part is working.
+
+845
+00:58:19,720 --> 00:58:22,240
+When this is equal to I'm going to provide
+
+846
+00:58:22,240 --> 00:58:25,480
+simply the of the value would be complete.
+
+847
+00:58:26,240 --> 00:58:29,280
+It will perform all the verification
+sort of stuff.
+
+848
+00:58:29,880 --> 00:58:33,400
+Then next thing let's see,
+I want to really find it.
+
+849
+00:58:33,400 --> 00:58:37,680
+If I'm sending a body right,
+if I'm trying to create an employee.
+
+850
+00:58:38,080 --> 00:58:41,880
+So after creating employment
+message should be in the body.
+
+851
+00:58:41,880 --> 00:58:51,040
+What is that message?
+
+852
+00:58:51,040 --> 00:58:53,400
+What message
+appears in the body? What is that message
+
+853
+00:59:02,200 --> 00:59:03,360
+employee created?
+
+854
+00:59:03,360 --> 00:59:03,840
+Right.
+
+855
+00:59:03,840 --> 00:59:05,760
+This message always appears in the body.
+
+856
+00:59:05,760 --> 00:59:08,120
+Employee Fine.
+
+857
+00:59:08,120 --> 00:59:10,440
+So we need this employee deleted part.
+
+858
+00:59:10,800 --> 00:59:12,520
+So now tell me one thing.
+
+859
+00:59:12,520 --> 00:59:16,480
+If I write here like this responds Don
+then Don
+
+860
+00:59:16,920 --> 00:59:20,040
+a certain don the body
+
+861
+00:59:21,280 --> 00:59:24,280
+should that it embroidered message or not
+
+862
+00:59:24,320 --> 00:59:26,360
+should I simply message or should it
+
+863
+00:59:32,600 --> 00:59:33,720
+just message.
+
+864
+00:59:33,720 --> 00:59:49,600
+But why not employ that message?
+
+865
+00:59:49,600 --> 00:59:54,400
+Because because here you see this employee
+object does it contains
+
+866
+00:59:54,560 --> 00:59:59,400
+your content,
+your message message is something else
+
+867
+00:59:59,800 --> 01:00:07,720
+and the body of employee
+something else that it.
+
+868
+01:00:07,720 --> 01:00:10,600
+So again, I will call this method equal to
+
+869
+01:00:12,400 --> 01:00:13,400
+equal to market.
+
+870
+01:00:13,400 --> 01:00:17,400
+In here I'm going to use
+message to message should be mine
+
+871
+01:00:19,320 --> 01:00:20,520
+employee
+
+872
+01:00:23,560 --> 01:00:24,240
+right.
+
+873
+01:00:26,040 --> 01:00:31,440
+Which would be the correct one.
+
+874
+01:00:31,440 --> 01:00:33,360
+Is this correct one
+
+875
+01:00:37,800 --> 01:00:39,760
+And now now let's see.
+
+876
+01:00:39,760 --> 01:00:42,160
+I want clean if I want more things.
+
+877
+01:00:42,160 --> 01:00:43,040
+What is that thing?
+
+878
+01:00:43,040 --> 01:00:47,640
+For example, I want to verify here
+from groups do this couple.
+
+879
+01:00:49,400 --> 01:00:50,880
+Remember I told you we can
+
+880
+01:00:50,880 --> 01:00:54,560
+verify of things in the contained body,
+in the responsibility.
+
+881
+01:00:54,960 --> 01:00:59,720
+We can verify this again
+by the time we can verify a lot of things.
+
+882
+01:00:59,720 --> 01:01:00,320
+Right.
+
+883
+01:01:00,560 --> 01:01:04,880
+So let's see if I want to verify
+which server did this coming from.
+
+884
+01:01:05,280 --> 01:01:05,840
+Right.
+
+885
+01:01:05,840 --> 01:01:08,400
+So how we can get that sort of
+
+886
+01:01:16,160 --> 01:01:17,520
+maybe rest of this.
+
+887
+01:01:17,520 --> 01:01:20,160
+You are not said
+about an English server name.
+
+888
+01:01:20,400 --> 01:01:23,120
+This is the anchors of the server base.
+
+889
+01:01:23,120 --> 01:01:25,160
+You are right.
+Is the end result of the server.
+
+890
+01:01:25,480 --> 01:01:26,800
+It's simply like I'm talking
+
+891
+01:01:26,800 --> 01:01:30,120
+about having your name
+and your giving the address of your house.
+
+892
+01:01:30,680 --> 01:01:33,200
+These are two different things
+
+893
+01:01:35,960 --> 01:01:36,600
+that is telling me
+
+894
+01:01:36,600 --> 01:01:39,760
+I already showed you this point
+
+895
+01:01:41,080 --> 01:01:41,760
+server name.
+
+896
+01:01:41,760 --> 01:01:43,840
+I already showed. We can get this from
+
+897
+01:01:48,560 --> 01:02:01,800
+Zima. Yes.
+
+898
+01:02:02,240 --> 01:02:04,320
+Any do you need to?
+
+899
+01:02:04,720 --> 01:02:06,120
+Elena Angelica.
+
+900
+01:02:06,120 --> 01:02:09,840
+I'm not Aisha Silva. Emma
+
+901
+01:02:11,080 --> 01:02:15,960
+No, I'm talking amongst me.
+
+902
+01:02:15,960 --> 01:02:19,680
+Look, server names.
+
+903
+01:02:20,240 --> 01:02:22,960
+Come on, Rio.
+
+904
+01:02:22,960 --> 01:02:29,120
+Already seen this is closed and it's.
+
+905
+01:02:30,880 --> 01:02:32,520
+Come on, guys. In our boards.
+
+906
+01:02:32,520 --> 01:02:33,800
+Too many of you go.
+
+907
+01:02:33,800 --> 01:02:39,360
+And whenever you create the data, I showed
+this console to you inside the console.
+
+908
+01:02:39,360 --> 01:02:43,840
+If you go right for creating,
+the employee is going to say this
+
+909
+01:02:44,160 --> 01:02:46,000
+and this is the response.
+
+910
+01:02:46,000 --> 01:02:49,480
+This is the response here to the can you
+see in just one say that you get server
+
+911
+01:02:50,240 --> 01:02:53,400
+you get AIDS powered by
+you gets access control,
+
+912
+01:02:53,560 --> 01:02:57,840
+you get content land
+you keep alive connection alternate
+
+913
+01:02:57,840 --> 01:03:04,040
+every single thing you basically remember
+
+914
+01:03:04,040 --> 01:03:07,920
+I told you how boutique console
+and what are the things we can like.
+
+915
+01:03:08,160 --> 01:03:10,600
+So it's
+not only about one particular stuff.
+
+916
+01:03:10,600 --> 01:03:12,960
+We can verify whatever we want to verify,
+
+917
+01:03:14,160 --> 01:03:15,320
+we can verify all of these
+
+918
+01:03:15,320 --> 01:03:21,120
+things on not and me.
+
+919
+01:03:21,120 --> 01:03:24,080
+So simply, let's copy
+the value of this server,
+
+920
+01:03:25,800 --> 01:03:30,240
+copy the value of this, Go to our script.
+
+921
+01:03:30,960 --> 01:03:34,480
+This is my script
+and I'm going to read response.
+
+922
+01:03:35,400 --> 01:03:41,080
+Then don't assert the guard body in here.
+
+923
+01:03:41,080 --> 01:03:43,280
+I'm going to write server.
+
+924
+01:03:43,280 --> 01:03:47,120
+Come with
+
+925
+01:04:02,080 --> 01:04:02,720
+long days.
+
+926
+01:04:02,720 --> 01:04:03,440
+You are not
+
+927
+01:04:04,440 --> 01:04:06,760
+new ways or writing them on.
+
+928
+01:04:07,920 --> 01:04:12,960
+I wasn't expecting this response from you.
+
+929
+01:04:12,960 --> 01:04:13,600
+Fine.
+
+930
+01:04:14,360 --> 01:04:21,560
+So far so good.
+
+931
+01:04:21,560 --> 01:04:26,840
+Students, Let's verify another thing here.
+
+932
+01:04:28,080 --> 01:04:28,720
+Another thing.
+
+933
+01:04:28,720 --> 01:04:30,160
+What is that?
+
+934
+01:04:30,600 --> 01:04:31,600
+Let's take anything.
+
+935
+01:04:31,600 --> 01:04:33,280
+For example.
+
+936
+01:04:33,280 --> 01:04:35,560
+Don't do so response.
+
+937
+01:04:36,120 --> 01:04:40,560
+Don't then not assert their own body
+
+938
+01:04:41,640 --> 01:04:43,760
+inside body employ
+
+939
+01:04:45,040 --> 01:04:47,920
+dog I need
+
+940
+01:04:48,440 --> 01:04:52,280
+I eat and be chocolate
+
+941
+01:04:54,720 --> 01:05:00,240
+equally to the value should be to be.
+
+942
+01:05:00,240 --> 01:05:03,480
+Is that clear now see I have five
+
+943
+01:05:03,640 --> 01:05:07,520
+five installations
+but in addition verification check state.
+
+944
+01:05:08,120 --> 01:05:11,400
+I'm very plain from on
+we purposes from all prosperous.
+
+945
+01:05:11,400 --> 01:05:16,320
+I'm governing the status called the server
+the main body
+
+946
+01:05:16,720 --> 01:05:21,720
+the message right in memory to entities
+and be defined individually could
+
+947
+01:05:23,360 --> 01:05:25,080
+in sequence
+
+948
+01:05:36,120 --> 01:05:38,760
+of shall we run this not.
+
+949
+01:05:38,760 --> 01:05:41,480
+This is the request to create an employee.
+
+950
+01:05:41,480 --> 01:05:44,520
+See, this is the request
+to create an employee.
+
+951
+01:05:44,680 --> 01:05:47,920
+Any question in this part
+based on anything
+
+952
+01:05:48,040 --> 01:05:56,560
+anything that to this training, this could
+
+953
+01:05:56,600 --> 01:05:57,560
+so far
+
+954
+01:05:59,560 --> 01:06:02,000
+it's not clear.
+
+955
+01:06:02,000 --> 01:06:11,920
+No clear right.
+
+956
+01:06:11,920 --> 01:06:16,080
+See, we got we got a solution
+
+957
+01:06:16,080 --> 01:06:18,160
+feed by
+
+958
+01:06:23,680 --> 01:06:27,000
+JSON box so the word doesn't match. See,
+
+959
+01:06:28,200 --> 01:06:32,240
+this was the expected,
+but actually it got nothing.
+
+960
+01:06:32,640 --> 01:06:33,800
+Can you see
+
+961
+01:06:35,480 --> 01:06:36,880
+And you see that
+
+962
+01:06:37,360 --> 01:06:38,560
+it was expected.
+
+963
+01:06:38,560 --> 01:06:44,760
+What we got nothing.
+
+964
+01:06:44,760 --> 01:06:45,320
+Fine,
+
+965
+01:06:46,080 --> 01:06:46,640
+fine.
+
+966
+01:06:46,720 --> 01:06:48,920
+Let's remove this part for now.
+
+967
+01:06:48,920 --> 01:06:51,560
+Come in this part
+and let's modify this time
+
+968
+01:06:51,760 --> 01:06:53,880
+see again if I alone.
+
+969
+01:06:55,560 --> 01:06:57,320
+Yes, yes, yes. I'm coming to.
+
+970
+01:06:57,320 --> 01:06:58,160
+He will cover.
+
+971
+01:06:58,160 --> 01:07:04,880
+I will not leave anything.
+
+972
+01:07:04,880 --> 01:07:06,160
+Not working. Fine. Everything,
+
+973
+01:07:07,560 --> 01:07:08,680
+guys, is
+
+974
+01:07:25,240 --> 01:07:25,880
+working fine.
+
+975
+01:07:25,880 --> 01:07:26,280
+Everything.
+
+976
+01:07:26,280 --> 01:07:30,040
+I will tell you why
+this part is not coming.
+
+977
+01:07:30,040 --> 01:07:31,680
+I will tell you that
+
+978
+01:08:12,600 --> 01:08:14,960
+they send me one thing,
+
+979
+01:08:15,600 --> 01:08:17,240
+then me one thing here.
+
+980
+01:08:17,240 --> 01:08:18,560
+Right.
+
+981
+01:08:18,560 --> 01:08:20,600
+The value any one thing here.
+
+982
+01:08:21,280 --> 01:08:24,080
+When we talk about settlement,
+
+983
+01:08:24,320 --> 01:08:25,280
+I was just taking this.
+
+984
+01:08:25,280 --> 01:08:36,000
+Then we talk about of
+what is this a part of your body?
+
+985
+01:08:36,000 --> 01:08:37,720
+Then what is this?
+
+986
+01:08:38,120 --> 01:08:42,120
+If it is not body, then what is this?
+
+987
+01:08:42,120 --> 01:08:44,200
+It's Haider, right?
+
+988
+01:08:44,200 --> 01:08:51,080
+So for Haider,
+if you provide body, will it work?
+
+989
+01:08:51,080 --> 01:08:55,400
+We're seeing in this statement
+they'd go and do the body
+
+990
+01:08:55,560 --> 01:08:58,960
+and check
+if there is any sort of available or so.
+
+991
+01:08:59,040 --> 01:09:03,000
+It says that it wants to know sort
+of what it means available in the body.
+
+992
+01:09:03,840 --> 01:09:04,520
+Right?
+
+993
+01:09:04,520 --> 01:09:06,760
+No server name available in the body.
+
+994
+01:09:07,000 --> 01:09:09,360
+So instead of body, what I have to write.
+
+995
+01:09:09,360 --> 01:09:19,680
+So here I have played guard, doctor, raid
+
+996
+01:09:20,400 --> 01:09:22,720
+doctor, and this time if I
+
+997
+01:09:23,960 --> 01:09:33,000
+see not
+
+998
+01:09:33,000 --> 01:09:33,920
+working
+
+999
+01:09:36,440 --> 01:09:38,560
+now, working or not then
+
+1000
+01:09:41,760 --> 01:09:44,840
+don't just blindly write the code
+
+1001
+01:09:45,360 --> 01:09:48,320
+or keep your eyes open all the times.
+
+1002
+01:09:49,160 --> 01:09:51,320
+You never know when I'm going to ask what
+
+1003
+01:10:07,160 --> 01:10:08,400
+is getting my point?
+
+1004
+01:10:08,400 --> 01:10:18,600
+How we have created this part?
+
+1005
+01:10:18,600 --> 01:10:20,680
+How did we know? So is infected?
+
+1006
+01:10:21,560 --> 01:10:25,400
+Oh, you go here,
+
+1007
+01:10:25,400 --> 01:10:28,440
+you go here Raid.
+
+1008
+01:10:28,440 --> 01:10:30,480
+You click your header,
+
+1009
+01:10:30,760 --> 01:10:31,280
+click on here.
+
+1010
+01:10:31,280 --> 01:10:32,360
+Then they tell
+
+1011
+01:10:33,720 --> 01:10:35,800
+you see all the information
+available here,
+
+1012
+01:10:36,640 --> 01:10:39,480
+all the information available.
+
+1013
+01:10:39,480 --> 01:10:42,600
+Similarly, this is for your request.
+
+1014
+01:10:43,240 --> 01:10:47,800
+If you go here,
+if you go here, you will find in the body
+
+1015
+01:10:48,040 --> 01:10:53,080
+there is a server available
+in the headers.
+
+1016
+01:10:53,080 --> 01:10:54,040
+That's good.
+
+1017
+01:10:55,120 --> 01:10:58,200
+And you see you get the
+
+1018
+01:11:02,520 --> 01:11:06,440
+I hope you guys got 1.4 times the
+
+1019
+01:11:11,880 --> 01:11:12,840
+do we have always
+
+1020
+01:11:12,840 --> 01:11:16,040
+to manual on post
+or we can get all the info from spoken
+
+1021
+01:11:16,080 --> 01:11:21,520
+directly all related information in spider
+it's not possible reinforced.
+
+1022
+01:11:21,720 --> 01:11:22,800
+We will test anything.
+
+1023
+01:11:22,800 --> 01:11:26,360
+Remember this
+when we perform be a distinct raid,
+
+1024
+01:11:26,360 --> 01:11:27,840
+we perform any kind of testing.
+
+1025
+01:11:27,840 --> 01:11:29,960
+We have to go it menu or straight.
+
+1026
+01:11:30,240 --> 01:11:32,120
+And when you go to menu part
+
+1027
+01:11:32,120 --> 01:11:35,520
+you get the responses
+and this is something related to response.
+
+1028
+01:11:35,760 --> 01:11:38,440
+So response
+you always get in the Postman post
+
+1029
+01:11:38,640 --> 01:11:42,520
+right From there you verify, you
+notice this and then you ready.
+
+1030
+01:11:42,520 --> 01:11:44,080
+But in your automation portals
+
+1031
+01:11:47,120 --> 01:11:48,440
+to when you find
+
+1032
+01:11:48,440 --> 01:11:52,200
+that you did something in the automation,
+you must know what you're going to review
+
+1033
+01:11:53,520 --> 01:11:56,280
+right?
+
+1034
+01:11:56,280 --> 01:12:03,280
+Right.
+
+1035
+01:12:03,280 --> 01:12:03,760
+Fine.
+
+1036
+01:12:04,480 --> 01:12:22,720
+So for any question, this is not yet
+
+1037
+01:12:23,640 --> 01:12:25,920
+so far we have reviewed their data.
+
+1038
+01:12:26,880 --> 01:12:30,200
+We have created that record
+in their database.
+
+1039
+01:12:30,200 --> 01:12:30,840
+Right?
+
+1040
+01:12:30,840 --> 01:12:33,920
+So from great operation creator
+that retrieved
+
+1041
+01:12:34,440 --> 01:12:39,200
+the next one is one of take great delete
+obviously will not do because we did it
+
+1042
+01:12:39,240 --> 01:12:43,840
+again, have completed it or something
+but they knew how to do it also.
+
+1043
+01:12:43,840 --> 01:12:45,800
+But right now we don't.
+
+1044
+01:12:45,800 --> 01:12:48,320
+We simply created this with the data here.
+
+1045
+01:12:49,080 --> 01:12:52,880
+The device, if we give the rating,
+you know how many Einsteins beat him,
+
+1046
+01:12:53,320 --> 01:12:56,640
+they always delete,
+they always run that video in their data.
+
+1047
+01:12:56,640 --> 01:13:02,040
+And then we will make trouble here.
+
+1048
+01:13:02,040 --> 01:13:02,480
+Alright.
+
+1049
+01:13:04,360 --> 01:13:05,680
+In the console also shows the
+
+1050
+01:13:05,680 --> 01:13:09,960
+sponsor doesn't respond very separately.
+
+1051
+01:13:09,960 --> 01:13:10,840
+Oh yeah.
+
+1052
+01:13:10,840 --> 01:13:14,160
+And you see they're trained, know
+different bodies,
+
+1053
+01:13:14,160 --> 01:13:15,080
+different
+
+1054
+01:13:17,640 --> 01:13:18,160
+this year
+
+1055
+01:13:18,160 --> 01:13:20,600
+and last month and it's just depending
+
+1056
+01:13:21,880 --> 01:13:25,120
+on how soon if you see it is
+
+1057
+01:13:25,320 --> 01:13:27,920
+you and I bought for this method
+
+1058
+01:13:29,360 --> 01:13:31,080
+and for this method
+
+1059
+01:13:31,080 --> 01:13:34,200
+we define it already as an instance
+video would be you.
+
+1060
+01:13:34,800 --> 01:13:36,240
+So it is applicable both.
+
+1061
+01:13:36,240 --> 01:13:39,000
+Now this token is applicable to both now,
+
+1062
+01:13:39,320 --> 01:13:39,960
+right
+
+1063
+01:13:43,600 --> 01:13:47,760
+return as a nice the rate
+
+1064
+01:13:48,960 --> 01:13:49,240
+guys.
+
+1065
+01:13:49,240 --> 01:13:54,080
+Can you see we are defined
+then that as an instance variable.
+
+1066
+01:13:54,080 --> 01:13:57,480
+So we can use both these things.
+
+1067
+01:13:57,480 --> 01:13:59,800
+Fine.
+
+1068
+01:13:59,800 --> 01:14:03,560
+People are hungry now
+they need break and it's genuine.
+
+1069
+01:14:03,600 --> 01:14:05,520
+Let's take a break for 15 minutes.
+
+1070
+01:14:05,520 --> 01:14:07,000
+We'll connect again.
+
+1071
+01:14:07,000 --> 01:14:15,640
+In this case, go to the break.
+
+1072
+01:14:15,840 --> 01:14:20,760
+We created the employ and we go
+to the data of the This is what we did.
+
+1073
+01:14:20,760 --> 01:14:22,160
+Correct in one request.
+
+1074
+01:14:23,760 --> 01:14:26,280
+Now now, here
+
+1075
+01:14:34,680 --> 01:14:37,080
+from this operation, distant,
+distant rate.
+
+1076
+01:14:37,560 --> 01:14:39,480
+Let's talk about
+
+1077
+01:14:40,640 --> 01:14:44,280
+of getting the guys to me first thing
+
+1078
+01:14:44,920 --> 01:14:56,800
+in updating the employed of anybody.
+
+1079
+01:14:56,800 --> 01:14:59,560
+Is this the same body
+we need the way we would be.
+
+1080
+01:14:59,600 --> 01:15:07,480
+We wouldn't need a body, need.
+
+1081
+01:15:07,480 --> 01:15:12,880
+Is this the same body that we need in
+a create or that is something that's that.
+
+1082
+01:15:12,920 --> 01:15:15,480
+Also, we have to begin
+
+1083
+01:15:17,920 --> 01:15:18,720
+scene.
+
+1084
+01:15:18,720 --> 01:15:20,480
+We can use it
+
+1085
+01:15:21,080 --> 01:15:22,520
+simply.
+
+1086
+01:15:22,840 --> 01:15:26,400
+Don't you think that we have to use one
+initiative barometer here
+
+1087
+01:15:27,520 --> 01:15:29,280
+along with the word
+
+1088
+01:15:35,320 --> 01:15:38,120
+we have guys,
+
+1089
+01:15:38,120 --> 01:15:39,680
+we have to use it right.
+
+1090
+01:15:39,680 --> 01:15:41,040
+What is the reason?
+
+1091
+01:15:41,040 --> 01:15:41,920
+What is the reason?
+
+1092
+01:15:41,920 --> 01:15:54,440
+Why do we need to use this employee?
+
+1093
+01:15:54,440 --> 01:15:57,760
+Because there are a lot of employees,
+hundreds of employees
+
+1094
+01:15:57,760 --> 01:16:02,680
+available and cannot it
+every single message which I have to build
+
+1095
+01:16:03,360 --> 01:16:06,640
+by my request and in this database,
+
+1096
+01:16:06,720 --> 01:16:11,040
+if we have this image of users,
+I am going to update their data.
+
+1097
+01:16:11,040 --> 01:16:16,560
+This particular employee and the identity
+of this employee needs this employee 83.
+
+1098
+01:16:16,800 --> 01:16:21,320
+So I need to specify
+which I want to play with current.
+
+1099
+01:16:22,040 --> 01:16:25,760
+So that's why
+we need employ 80 in the book
+
+1100
+01:16:26,160 --> 01:16:33,720
+for data, right?
+
+1101
+01:16:33,720 --> 01:16:35,560
+Which matter we need to use case.
+
+1102
+01:16:37,240 --> 01:16:38,400
+What is the
+
+1103
+01:16:38,400 --> 01:16:40,400
+method we should give
+
+1104
+01:16:41,760 --> 01:16:43,200
+or the method
+
+1105
+01:16:44,880 --> 01:16:45,680
+correct.
+
+1106
+01:16:46,080 --> 01:16:47,760
+Now what is that status?
+
+1107
+01:16:47,760 --> 01:16:48,000
+Good.
+
+1108
+01:16:48,000 --> 01:16:49,800
+I should expect
+
+1109
+01:16:56,400 --> 01:16:58,000
+to wondered why Katrina?
+
+1110
+01:16:58,000 --> 01:17:00,880
+Why 207?
+
+1111
+01:17:01,240 --> 01:17:03,400
+Why not 201
+
+1112
+01:17:05,760 --> 01:17:10,880
+Alex And in Indonesia
+we are creating. Yes.
+
+1113
+01:17:10,880 --> 01:17:13,080
+So if we are creating then
+
+1114
+01:17:14,400 --> 01:17:22,000
+it's 201201 is for creating
+request is correct.
+
+1115
+01:17:22,080 --> 01:17:26,160
+See, we are simply replacing something
+with some data
+
+1116
+01:17:27,760 --> 01:17:30,520
+like we have just replacing something.
+
+1117
+01:17:30,520 --> 01:17:34,920
+So when we have to do something, it means
+we are not going to add anything new.
+
+1118
+01:17:34,920 --> 01:17:38,840
+We are just going to take something
+and put something in their database
+
+1119
+01:17:39,120 --> 01:17:41,120
+so existing place is already dead.
+
+1120
+01:17:41,360 --> 01:17:43,120
+We are simply updating that.
+
+1121
+01:17:43,120 --> 01:17:48,040
+But there's the only thing
+we're doing here right?
+
+1122
+01:17:48,040 --> 01:17:49,480
+You're going to
+
+1123
+01:17:49,800 --> 01:17:51,880
+see now you see the more
+
+1124
+01:17:52,080 --> 01:17:55,000
+administrator Israel,
+the presence of it into this class.
+
+1125
+01:17:55,000 --> 01:17:55,560
+Amazing
+
+1126
+01:17:56,920 --> 01:17:59,720
+change in 24 hours from last class.
+
+1127
+01:17:59,720 --> 01:18:01,440
+Good race class.
+
+1128
+01:18:01,560 --> 01:18:03,480
+Glad to see this great man.
+
+1129
+01:18:03,480 --> 01:18:04,360
+Good enrollment.
+
+1130
+01:18:04,360 --> 01:18:05,640
+Welcome.
+
+1131
+01:18:05,640 --> 01:18:08,200
+Welcome back to bed 11 embakasi.
+
+1132
+01:18:09,000 --> 01:18:12,360
+Oh, vegetables, fruits you don't want
+your bedroom document battery
+
+1133
+01:18:12,960 --> 01:18:15,000
+bank is just for giving you
+the information
+
+1134
+01:18:15,400 --> 01:18:18,720
+like just additional material,
+the AC on the gate late.
+
+1135
+01:18:19,040 --> 01:18:24,160
+This is the way you want
+to update operation
+
+1136
+01:18:24,160 --> 01:18:26,160
+within project of great operation.
+
+1137
+01:18:26,160 --> 01:18:36,240
+We need to check.
+
+1138
+01:18:36,240 --> 01:18:37,480
+But it never happened.
+
+1139
+01:18:37,480 --> 01:18:40,800
+I was in a bad mood in the class late,
+
+1140
+01:18:40,800 --> 01:18:42,800
+but it happened based
+
+1141
+01:18:48,040 --> 01:18:51,000
+by like.
+
+1142
+01:18:51,480 --> 01:18:54,960
+So we need
+we need all of these things, need
+
+1143
+01:18:55,080 --> 01:18:58,200
+to update the employee in the database via
+
+1144
+01:18:58,200 --> 01:19:00,960
+a call right
+
+1145
+01:19:17,880 --> 01:19:25,000
+now by work since
+
+1146
+01:19:27,120 --> 01:19:29,200
+she was nice and had
+
+1147
+01:19:29,360 --> 01:19:29,720
+right
+
+1148
+01:19:33,600 --> 01:19:34,880
+being nice and had
+
+1149
+01:19:34,880 --> 01:19:38,800
+pre doesn't get paid,
+you have to become a wide
+
+1150
+01:19:40,240 --> 01:19:42,160
+to get the job
+
+1151
+01:19:47,480 --> 01:19:47,760
+even.
+
+1152
+01:19:47,760 --> 01:19:49,280
+I don't know that
+
+1153
+01:19:50,960 --> 01:19:53,000
+right with some distance
+
+1154
+01:19:53,000 --> 01:19:56,160
+the normal stuff getting a job.
+
+1155
+01:19:56,320 --> 01:19:59,440
+No still that is paid
+
+1156
+01:20:00,600 --> 01:20:01,400
+not that
+
+1157
+01:20:02,920 --> 01:20:05,040
+you have to play ball no
+
+1158
+01:20:07,640 --> 01:20:10,680
+you have to understand
+that this is the need of the market.
+
+1159
+01:20:11,280 --> 01:20:12,600
+You have to be aggressive.
+
+1160
+01:20:12,600 --> 01:20:14,840
+And I said that as you don't
+just shoot your exam.
+
+1161
+01:20:15,040 --> 01:20:19,520
+INTERVIEWER When I say aggressive,
+maybe she is investible.
+
+1162
+01:20:21,120 --> 01:20:21,840
+All right.
+
+1163
+01:20:21,840 --> 01:20:25,920
+I mean that maybe you are.
+
+1164
+01:20:25,920 --> 01:20:28,000
+Yeah, that's what I'm saying.
+
+1165
+01:20:28,000 --> 01:20:30,240
+That's what kind of the market is.
+
+1166
+01:20:30,240 --> 01:20:31,440
+Very good.
+
+1167
+01:20:31,560 --> 01:20:34,480
+Lot of opportunities, a lot of candidates
+
+1168
+01:20:34,480 --> 01:20:37,600
+and also ditch right
+
+1169
+01:20:43,200 --> 01:20:43,560
+Connect.
+
+1170
+01:20:43,560 --> 01:20:45,920
+Silver Connect is his decision
+
+1171
+01:20:49,320 --> 01:20:52,760
+are not only hard work.
+
+1172
+01:20:52,760 --> 01:20:55,360
+Hard work is one thing.
+
+1173
+01:20:55,360 --> 01:20:59,160
+With hard work
+you should have a clear plan, strategy,
+
+1174
+01:20:59,320 --> 01:21:05,080
+vision, goal, focus, all these things
+and then hard work alone.
+
+1175
+01:21:05,080 --> 01:21:07,160
+Hard work will do anything right.
+
+1176
+01:21:07,400 --> 01:21:11,280
+If I ask you to hit the nail
+in the morning with your Hey,
+
+1177
+01:21:12,000 --> 01:21:13,240
+you're doing very hard.
+
+1178
+01:21:13,240 --> 01:21:17,000
+What you have been doing it
+from last three years trying to the nail
+
+1179
+01:21:17,000 --> 01:21:20,440
+in the wall with your head fake in
+make your hands bleeding.
+
+1180
+01:21:21,360 --> 01:21:21,720
+Right.
+
+1181
+01:21:21,720 --> 01:21:23,920
+But still,
+you want to be able to do that. Why?
+
+1182
+01:21:24,240 --> 01:21:26,160
+Because you're doing hard work.
+
+1183
+01:21:26,160 --> 01:21:27,720
+But You don't have a right approach.
+
+1184
+01:21:28,960 --> 01:21:31,760
+Instead, if you haven't hammered, then
+
+1185
+01:21:33,080 --> 01:21:35,160
+it won't take years.
+You don't have to make.
+
+1186
+01:21:35,160 --> 01:21:36,840
+Your head is bleeding late.
+
+1187
+01:21:36,840 --> 01:21:39,680
+The simply do it in 5 minutes
+and your task is done.
+
+1188
+01:21:39,960 --> 01:21:43,480
+This is what we call
+smart work hard work with approaches.
+
+1189
+01:21:43,480 --> 01:21:46,400
+A smart work.
+
+1190
+01:21:46,400 --> 01:21:47,920
+That's what I'm saying.
+
+1191
+01:21:47,920 --> 01:21:48,440
+And expert.
+
+1192
+01:21:48,440 --> 01:21:52,680
+I'm saying that's why we are teaching
+how to hold the embassy in a meeting
+
+1193
+01:21:53,520 --> 01:21:54,400
+by engaged.
+
+1194
+01:21:54,400 --> 01:21:57,000
+So now we going to update
+
+1195
+01:21:57,160 --> 01:21:59,680
+the existing employee information.
+
+1196
+01:22:00,360 --> 01:22:02,360
+So let's dig another method here.
+
+1197
+01:22:03,400 --> 01:22:06,240
+So this method here, I'm
+going to provide as
+
+1198
+01:22:10,520 --> 01:22:13,200
+of late morning
+
+1199
+01:22:13,200 --> 01:22:13,920
+eight
+
+1200
+01:22:15,520 --> 01:22:16,920
+employees.
+
+1201
+01:22:17,240 --> 01:22:18,480
+So it's hundred.
+
+1202
+01:22:18,480 --> 01:22:23,120
+It's 200 because the information
+is already existing in the database.
+
+1203
+01:22:23,120 --> 01:22:25,520
+We are just going to change that
+information.
+
+1204
+01:22:25,720 --> 01:22:27,960
+So we are not going to add any new record.
+
+1205
+01:22:28,320 --> 01:22:29,880
+We are going to update the record.
+
+1206
+01:22:29,880 --> 01:22:31,560
+So for updating the record
+
+1207
+01:22:31,560 --> 01:22:35,560
+simply means you perform some operation
+in the existing values of the database.
+
+1208
+01:22:35,800 --> 01:22:38,080
+You got some response there that is 200.
+
+1209
+01:22:38,640 --> 01:22:41,280
+Then you're going to add a new record
+in the database.
+
+1210
+01:22:41,280 --> 01:22:42,960
+Then you will get to zero 100.
+
+1211
+01:22:42,960 --> 01:22:45,280
+So these are two different things. And to
+
+1212
+01:22:48,240 --> 01:22:48,800
+find.
+
+1213
+01:22:49,760 --> 01:22:51,880
+All right,
+so here I'm going to the right of
+
+1214
+01:22:51,920 --> 01:22:54,360
+to the existing
+
+1215
+01:22:55,480 --> 01:22:56,760
+employee
+
+1216
+01:22:57,680 --> 01:22:59,320
+upgrading the existing in person.
+
+1217
+01:22:59,320 --> 01:23:02,280
+Let's see their data
+we have but operating existing and
+
+1218
+01:23:02,520 --> 01:23:10,280
+this is the days
+we have already got one database.
+
+1219
+01:23:10,320 --> 01:23:13,000
+So I'm going to make a request
+
+1220
+01:23:13,000 --> 01:23:14,640
+request to specification.
+
+1221
+01:23:14,640 --> 01:23:17,640
+I'm seeing people
+
+1222
+01:23:18,440 --> 01:23:21,880
+request is it was to given don't
+
+1223
+01:23:23,400 --> 01:23:27,360
+first we need to raid
+
+1224
+01:23:34,800 --> 01:23:37,160
+broken dot
+
+1225
+01:23:37,600 --> 01:23:40,120
+again one more header
+
+1226
+01:23:43,040 --> 01:23:46,480
+content I
+
+1227
+01:23:59,880 --> 01:24:03,080
+applications no adjacent door
+
+1228
+01:24:05,880 --> 01:24:08,200
+we need body
+
+1229
+01:24:15,240 --> 01:24:22,800
+for improvement
+
+1230
+01:24:23,040 --> 01:24:25,400
+every day without fail everyday
+
+1231
+01:24:26,680 --> 01:24:32,560
+from last two years consistently.
+
+1232
+01:24:32,560 --> 01:24:33,960
+So now
+
+1233
+01:24:34,920 --> 01:24:37,000
+I'm going to upgrade the employee.
+
+1234
+01:24:37,160 --> 01:24:41,040
+So for upgrading the employee details
+you'll see one freedom.
+
+1235
+01:24:41,040 --> 01:24:42,360
+You have to add
+
+1236
+01:24:43,480 --> 01:24:47,040
+correct?
+
+1237
+01:24:47,040 --> 01:24:47,800
+Correct.
+
+1238
+01:24:47,920 --> 01:24:48,360
+Okay.
+
+1239
+01:24:48,800 --> 01:24:51,600
+This is this is something we need to add.
+
+1240
+01:24:51,880 --> 01:24:53,880
+Now, tell me, guys,
+what kind of goal is this?
+
+1241
+01:24:53,880 --> 01:24:58,080
+We are going to update on the details of
+the employee or just some of the details.
+
+1242
+01:24:59,680 --> 01:25:01,720
+If I'm using this part,
+
+1243
+01:25:01,720 --> 01:25:07,400
+some details.
+
+1244
+01:25:07,400 --> 01:25:10,200
+Come on, guys, get using put
+go an input call.
+
+1245
+01:25:10,200 --> 01:25:11,280
+We'll some details.
+
+1246
+01:25:11,280 --> 01:25:13,000
+All the details
+
+1247
+01:25:16,640 --> 01:25:20,400
+absence need you need it pretty great.
+
+1248
+01:25:21,040 --> 01:25:23,640
+And if I want to obtain some information
+then which
+
+1249
+01:25:23,640 --> 01:25:25,520
+which call should only
+
+1250
+01:25:27,600 --> 01:25:28,680
+batch code
+
+1251
+01:25:28,680 --> 01:25:31,680
+for back
+badge is for updating some information.
+
+1252
+01:25:31,680 --> 01:25:35,960
+Remember I give you the definition
+of batch code and protocol is updating
+
+1253
+01:25:35,960 --> 01:25:49,760
+the information right.
+
+1254
+01:25:49,760 --> 01:25:51,600
+So let me take this book.
+
+1255
+01:25:51,600 --> 01:25:54,560
+It will take this one from here
+
+1256
+01:25:54,720 --> 01:26:01,320
+based here,
+
+1257
+01:26:01,320 --> 01:27:10,520
+let me go with this from here. Find
+
+1258
+01:27:12,920 --> 01:27:13,760
+not the domains.
+
+1259
+01:27:13,760 --> 01:27:14,360
+Okay?
+
+1260
+01:27:15,400 --> 01:27:23,240
+Okay, fine.
+
+1261
+01:27:24,160 --> 01:27:26,640
+So now this is the employer
+
+1262
+01:27:26,640 --> 01:27:29,480
+and this is the employee
+we have to update.
+
+1263
+01:27:29,840 --> 01:27:32,040
+So this time needs change their data.
+
+1264
+01:27:32,760 --> 01:27:34,920
+So data, I'm going to write this again,
+
+1265
+01:27:36,760 --> 01:27:40,160
+and this one should be cool.
+
+1266
+01:27:40,160 --> 01:27:43,080
+Really should be less changes to embassy
+
+1267
+01:27:46,160 --> 01:27:46,840
+this today's
+
+1268
+01:27:46,840 --> 01:27:49,320
+find this today's point employee
+
+1269
+01:27:50,040 --> 01:27:52,600
+this time gets to the employee
+
+1270
+01:27:52,600 --> 01:27:56,000
+and here you can somebody find this
+
+1271
+01:27:57,200 --> 01:27:58,800
+guy is going to see
+
+1272
+01:27:59,240 --> 01:28:04,840
+I have to add one request to the employee
+right now.
+
+1273
+01:28:04,840 --> 01:28:08,560
+Now to save this request,
+I will get one response also.
+
+1274
+01:28:08,760 --> 01:28:12,040
+So first
+I have to use this particular object.
+
+1275
+01:28:12,040 --> 01:28:16,080
+So I'm see prepared request dart Bitcoin
+
+1276
+01:28:19,200 --> 01:28:22,760
+guys which calls work on what
+
+1277
+01:28:25,160 --> 01:28:26,720
+would cooperate.
+
+1278
+01:28:26,960 --> 01:28:29,040
+So here I have to add
+
+1279
+01:28:29,440 --> 01:28:31,560
+I have to add this particular part
+
+1280
+01:28:33,080 --> 01:28:35,680
+would update employee would require.
+
+1281
+01:28:36,120 --> 01:28:37,440
+So let me
+
+1282
+01:28:43,920 --> 01:28:46,080
+copy right
+
+1283
+01:28:46,080 --> 01:28:49,680
+when I got this response
+when I got this response list first,
+
+1284
+01:28:50,080 --> 01:29:01,200
+simply print simply print this response.
+
+1285
+01:29:01,200 --> 01:29:03,840
+Simply print the response. All right,
+
+1286
+01:29:05,160 --> 01:29:05,440
+let's
+
+1287
+01:29:05,440 --> 01:29:23,160
+do it.
+
+1288
+01:29:23,160 --> 01:29:25,760
+Working fine. Now
+
+1289
+01:29:31,920 --> 01:29:32,800
+it can be verified.
+
+1290
+01:29:32,800 --> 01:29:34,200
+This police
+
+1291
+01:29:36,400 --> 01:29:37,280
+can we verify this?
+
+1292
+01:29:37,280 --> 01:29:45,120
+But let's take this
+
+1293
+01:29:45,120 --> 01:29:47,800
+how we can verify the response.
+
+1294
+01:29:48,480 --> 01:29:52,000
+Then Dart assert that Dart
+
+1295
+01:29:52,320 --> 01:29:54,480
+did this video not
+
+1296
+01:29:55,920 --> 01:29:58,360
+that is this is body, not body.
+
+1297
+01:29:59,160 --> 01:30:02,640
+Right
+so here I'm going to take message pre
+
+1298
+01:30:03,240 --> 01:30:05,640
+message should be equal to see
+
+1299
+01:30:07,040 --> 01:30:09,600
+this equal
+to which I'm using is coming from here
+
+1300
+01:30:11,520 --> 01:30:13,680
+is equal to my third is coming from here
+
+1301
+01:30:19,960 --> 01:30:23,720
+image him dressed major straight from him
+close to me
+
+1302
+01:30:23,720 --> 01:30:26,520
+just close in terms for harmony
+
+1303
+01:30:27,400 --> 01:30:30,360
+I can be verify
+
+1304
+01:30:31,600 --> 01:30:35,280
+can be verified the status quo alternate
+
+1305
+01:30:39,360 --> 01:30:41,680
+response start then
+
+1306
+01:30:41,680 --> 01:30:46,040
+assert their status code to the position.
+
+1307
+01:30:46,600 --> 01:30:49,400
+Is this correct?
+
+1308
+01:30:49,400 --> 01:30:51,200
+Is this is
+
+1309
+01:30:52,560 --> 01:30:54,320
+verification
+
+1310
+01:30:55,440 --> 01:30:56,240
+validation?
+
+1311
+01:30:56,240 --> 01:30:57,840
+So let's tweet
+
+1312
+01:31:02,480 --> 01:31:03,760
+medium deployed now
+
+1313
+01:31:03,760 --> 01:31:12,960
+after two and a half hours.
+
+1314
+01:31:12,960 --> 01:31:15,520
+So it's working best fast
+
+1315
+01:31:18,840 --> 01:31:22,160
+test first already working
+
+1316
+01:31:27,880 --> 01:31:34,960
+these now.
+
+1317
+01:31:35,240 --> 01:31:37,320
+Now see one thing here. Regards.
+
+1318
+01:31:37,320 --> 01:31:40,480
+See one thing you what I'm going to do is
+
+1319
+01:31:40,480 --> 01:31:43,320
+I have been executing
+read this particular test.
+
+1320
+01:31:43,440 --> 01:31:47,160
+I've been executing this particular test,
+then this particular test.
+
+1321
+01:31:47,640 --> 01:31:52,920
+What would happen
+if I execute on a glass limit?
+
+1322
+01:31:52,920 --> 01:31:55,880
+What might execute all test together?
+
+1323
+01:31:56,160 --> 01:31:58,920
+See what would happen in this case,
+
+1324
+01:31:59,360 --> 01:32:01,200
+everything from
+
+1325
+01:32:06,400 --> 01:32:09,000
+see it since first simple test.
+
+1326
+01:32:09,400 --> 01:32:11,000
+What a game plan
+
+1327
+01:32:11,440 --> 01:32:12,720
+updating
+
+1328
+01:32:13,240 --> 01:32:15,240
+update employee working fine
+
+1329
+01:32:16,880 --> 01:32:19,600
+create employed working player.
+
+1330
+01:32:19,600 --> 01:32:22,520
+But if you observe
+
+1331
+01:32:22,520 --> 01:32:25,080
+how come your tests never happen,
+it will fade.
+
+1332
+01:32:25,280 --> 01:32:29,040
+I'm telling you
+because the approach is something wrong.
+
+1333
+01:32:29,040 --> 01:32:34,160
+See in this template
+I'm using some other employee.
+
+1334
+01:32:34,440 --> 01:32:35,600
+Can you see
+
+1335
+01:32:37,120 --> 01:32:38,440
+and you see this
+
+1336
+01:32:40,880 --> 01:32:44,120
+in creating the employee
+I'm using, but an employee
+
+1337
+01:32:49,200 --> 01:32:51,040
+for updating the employee.
+
+1338
+01:32:51,040 --> 01:32:54,360
+I'm using that the employee. Do you see
+
+1339
+01:32:54,360 --> 01:32:56,600
+this is something else.
+
+1340
+01:32:57,000 --> 01:33:00,840
+It means I'm
+getting the data of X employee
+
+1341
+01:33:01,680 --> 01:33:04,000
+I'm creating by employee.
+
+1342
+01:33:04,000 --> 01:33:10,080
+I'm updating their employee,
+getting my point.
+
+1343
+01:33:10,080 --> 01:33:11,080
+What I'm saying
+
+1344
+01:33:12,960 --> 01:33:14,920
+is this correct approach.
+
+1345
+01:33:14,920 --> 01:33:18,400
+We're getting X employee objecting,
+my employee deleting their level,
+
+1346
+01:33:18,560 --> 01:33:21,240
+doing whatever we want to do
+
+1347
+01:33:21,800 --> 01:33:23,280
+is this correct?
+
+1348
+01:33:23,880 --> 01:33:26,480
+No. What I should do,
+
+1349
+01:33:26,840 --> 01:33:30,360
+what I should do, basically is
+
+1350
+01:33:31,320 --> 01:33:35,040
+first I should create the employee
+
+1351
+01:33:35,400 --> 01:33:36,120
+right
+
+1352
+01:33:36,760 --> 01:33:38,760
+after creating the employee,
+
+1353
+01:33:38,760 --> 01:33:43,200
+I should go to the employee ID.
+
+1354
+01:33:43,200 --> 01:33:47,880
+Then I should get this one
+employee correct using this employee
+
+1355
+01:33:48,920 --> 01:33:51,480
+database.
+
+1356
+01:33:51,480 --> 01:33:54,320
+Then I will really find their data.
+
+1357
+01:33:54,320 --> 01:33:56,280
+I have to verify the data
+
+1358
+01:33:56,280 --> 01:34:00,000
+and then using this same employee
+already have to update their details.
+
+1359
+01:34:02,000 --> 01:34:02,280
+I have
+
+1360
+01:34:02,280 --> 01:34:04,440
+to obtain their details
+and then verify that
+
+1361
+01:34:06,160 --> 01:34:08,040
+this should be
+the correct approach or not.
+
+1362
+01:34:08,040 --> 01:34:17,440
+And this should be
+the correct approach or not.
+
+1363
+01:34:18,680 --> 01:34:20,200
+This is the correct approach.
+
+1364
+01:34:20,200 --> 01:34:22,320
+We have to follow this command.
+
+1365
+01:34:22,600 --> 01:34:28,360
+But if I go here, if I go here,
+you'll see it just posted executes.
+
+1366
+01:34:28,360 --> 01:34:29,200
+Which one
+
+1367
+01:34:33,240 --> 01:34:35,600
+is simple?
+
+1368
+01:34:36,160 --> 01:34:42,360
+It execute simple test post,
+
+1369
+01:34:42,360 --> 01:34:45,360
+then it executes update,
+then it executes create.
+
+1370
+01:34:45,720 --> 01:34:47,840
+Right now you'll see here
+
+1371
+01:34:48,960 --> 01:34:51,880
+update I wrote in the end
+
+1372
+01:34:55,080 --> 01:34:55,560
+create
+
+1373
+01:34:55,560 --> 01:34:58,680
+executes in middle and some nested first.
+
+1374
+01:34:59,160 --> 01:35:03,320
+The general is one, two, three
+but a difference in 132.
+
+1375
+01:35:03,320 --> 01:35:05,840
+Can you see the random sequence
+
+1376
+01:35:10,760 --> 01:35:11,520
+and you see this?
+
+1377
+01:35:11,520 --> 01:35:15,920
+This is the random sequence
+and if I keep executing,
+
+1378
+01:35:15,920 --> 01:35:18,840
+my order
+does exist in the random sequence,
+
+1379
+01:35:18,840 --> 01:35:24,960
+I will not be able to execute the V
+I want to execute because first
+
+1380
+01:35:24,960 --> 01:35:27,720
+I want to clear the employee, right
+
+1381
+01:35:28,040 --> 01:35:30,840
+Then I want to fetch the details
+of that employee.
+
+1382
+01:35:31,440 --> 01:35:34,800
+Then I have to verify
+the data and then only I
+
+1383
+01:35:36,040 --> 01:35:39,320
+can. Is
+
+1384
+01:35:39,320 --> 01:35:59,400
+this correct?
+
+1385
+01:35:59,400 --> 01:36:01,720
+So now, now let's do this.
+
+1386
+01:36:02,040 --> 01:36:03,000
+Now let's do this.
+
+1387
+01:36:03,000 --> 01:36:05,240
+What I'm going to do is
+
+1388
+01:36:12,440 --> 01:36:13,200
+here.
+
+1389
+01:36:13,640 --> 01:36:15,840
+Here I'm going to write.
+
+1390
+01:36:15,840 --> 01:36:19,080
+So for our job, most likely
+we need to look for one record
+
+1391
+01:36:19,080 --> 01:36:23,040
+considered everything books, your list,
+the very simple to understand.
+
+1392
+01:36:23,040 --> 01:36:23,640
+Right?
+
+1393
+01:36:23,640 --> 01:36:26,840
+First, we need to add something
+in the database to play their data.
+
+1394
+01:36:27,160 --> 01:36:30,280
+Once we add the data,
+we will retrieve the object.
+
+1395
+01:36:30,720 --> 01:36:35,840
+Then we will update it to check the newly
+elected or duplicate object.
+
+1396
+01:36:35,880 --> 01:36:36,720
+Right. So there.
+
+1397
+01:36:36,720 --> 01:36:39,840
+So we believe that once
+you have multiple entries,
+
+1398
+01:36:40,040 --> 01:36:43,320
+then you can perform random operations
+are okay from the existing data.
+
+1399
+01:36:43,320 --> 01:36:45,600
+We need to delete this
+in the existing data.
+
+1400
+01:36:45,600 --> 01:36:48,240
+We need to update
+this in the existing data
+
+1401
+01:36:49,920 --> 01:36:52,080
+or in the existing BW to upgrade the new
+
+1402
+01:36:52,400 --> 01:36:56,800
+something like this when first,
+this is the standard of brute force.
+
+1403
+01:36:56,800 --> 01:36:59,880
+We have to create it,
+then we have to retrieve it, then
+
+1404
+01:36:59,880 --> 01:37:03,280
+we have to object, then we have to
+
+1405
+01:37:06,800 --> 01:37:08,400
+find this
+
+1406
+01:37:13,000 --> 01:37:15,360
+initial method, the user,
+
+1407
+01:37:16,640 --> 01:37:18,640
+this is the object and
+
+1408
+01:37:53,520 --> 01:37:54,920
+is everyone on the same page
+
+1409
+01:37:54,920 --> 01:38:08,280
+with me?
+
+1410
+01:38:08,280 --> 01:38:12,040
+Any question you need, any question,
+any kind of confusion,
+
+1411
+01:38:12,040 --> 01:38:13,080
+anything
+
+1412
+01:38:20,520 --> 01:38:24,200
+I've seen, you've done
+
+1413
+01:38:31,840 --> 01:38:33,240
+a similar done
+
+1414
+01:38:33,240 --> 01:38:36,920
+with the good update implement
+
+1415
+01:38:42,320 --> 01:38:44,720
+guys, can you give me
+
+1416
+01:38:47,560 --> 01:38:50,520
+both?
+
+1417
+01:38:50,520 --> 01:38:55,640
+So now now I have to come up with that
+with the strategy there.
+
+1418
+01:38:55,640 --> 01:38:57,720
+First I can create the employee,
+
+1419
+01:38:58,920 --> 01:39:03,400
+then I will use the same employee A
+in getting the data
+
+1420
+01:39:04,240 --> 01:39:07,120
+and then I have to use same employee only
+
+1421
+01:39:07,200 --> 01:39:10,280
+interpreting the returns.
+
+1422
+01:39:10,280 --> 01:39:13,520
+Got it.
+
+1423
+01:39:13,520 --> 01:39:15,480
+We ordered the order. Right.
+
+1424
+01:39:15,480 --> 01:39:18,320
+So let's go ahead and do it.
+
+1425
+01:39:18,320 --> 01:39:21,200
+So what I'm going to do
+is before the class here,
+
+1426
+01:39:21,960 --> 01:39:26,160
+before class here,
+I have to write one particular part.
+
+1427
+01:39:26,160 --> 01:39:29,320
+What is that I'm going to write? Entering
+
+1428
+01:39:30,480 --> 01:39:31,240
+in, you see
+
+1429
+01:39:31,240 --> 01:39:33,920
+in G unit, I have one thing called this
+
+1430
+01:39:34,120 --> 01:39:37,800
+method Order.
+
+1431
+01:39:37,800 --> 01:39:41,800
+There is everyone can see it.
+
+1432
+01:39:41,800 --> 01:39:43,720
+It's method order
+
+1433
+01:39:43,960 --> 01:39:49,640
+from G unit.
+
+1434
+01:39:49,640 --> 01:39:52,960
+In this fixed method orders simply pass
+
+1435
+01:39:54,400 --> 01:39:58,320
+method sorters and we don't need it.
+
+1436
+01:39:59,040 --> 01:40:01,360
+Method orders in default.
+
+1437
+01:40:01,440 --> 01:40:04,600
+It is already working as a default method.
+
+1438
+01:40:04,600 --> 01:40:05,920
+Sorters name.
+
+1439
+01:40:05,920 --> 01:40:08,960
+Assuming this is something we need
+
+1440
+01:40:10,200 --> 01:40:16,200
+what we need method sorters name sending.
+
+1441
+01:40:16,200 --> 01:40:21,680
+Getting.
+
+1442
+01:40:21,680 --> 01:40:26,480
+Now the moment I provide this name,
+assuming what it does,
+
+1443
+01:40:26,760 --> 01:40:29,040
+it executes your test.
+
+1444
+01:40:29,040 --> 01:40:31,040
+Guesses this in alphabetical order,
+
+1445
+01:40:32,280 --> 01:40:33,480
+but it does
+
+1446
+01:40:37,360 --> 01:40:39,640
+guys what it does.
+
+1447
+01:40:39,640 --> 01:40:47,400
+It executes your best guesses
+in which order?
+
+1448
+01:40:47,400 --> 01:40:48,880
+In alphabetical order.
+
+1449
+01:40:48,880 --> 01:40:54,360
+Okay, so in alphabetical order, what
+should be the first thing I have to do?
+
+1450
+01:40:54,360 --> 01:40:56,040
+It is
+what should be the first thing First?
+
+1451
+01:40:56,040 --> 01:40:58,080
+I have to clear the employee. Right?
+
+1452
+01:40:58,520 --> 01:41:00,360
+So let me write this method.
+
+1453
+01:41:01,320 --> 01:41:03,960
+E deploy
+
+1454
+01:41:05,400 --> 01:41:06,600
+E create.
+
+1455
+01:41:06,600 --> 01:41:07,840
+Can you see
+
+1456
+01:41:09,480 --> 01:41:10,320
+guys?
+
+1457
+01:41:11,840 --> 01:41:13,920
+I'm seeing E create employee.
+
+1458
+01:41:14,640 --> 01:41:17,360
+And then after this, what I have to do
+
+1459
+01:41:23,480 --> 01:41:26,480
+is by default
+it executes in alphabetical order.
+
+1460
+01:41:26,760 --> 01:41:28,840
+Then why it was executing simple.
+
+1461
+01:41:28,840 --> 01:41:32,080
+It was to create in the last
+
+1462
+01:41:33,200 --> 01:41:34,200
+and it's
+
+1463
+01:41:35,160 --> 01:41:37,480
+you see the last execution I did
+
+1464
+01:41:37,480 --> 01:41:41,920
+it executes is first and C last by
+
+1465
+01:41:54,000 --> 01:41:57,480
+file after creating the employee.
+
+1466
+01:41:57,760 --> 01:41:59,680
+The second thing
+
+1467
+01:42:00,840 --> 01:42:04,560
+we should take with the only menu
+item is the export we're going to do.
+
+1468
+01:42:04,960 --> 01:42:09,000
+We're going to do a better word,
+traceability, right?
+
+1469
+01:42:09,480 --> 01:42:11,000
+Animal traceability.
+
+1470
+01:42:11,000 --> 01:42:15,600
+Then we have to do B part is be as simple
+
+1471
+01:42:15,720 --> 01:42:18,320
+as we're doing this. B
+
+1472
+01:42:19,840 --> 01:42:25,760
+get created employee
+Now it doesn't matter now.
+
+1473
+01:42:25,760 --> 01:42:27,120
+It doesn't matter, right?
+
+1474
+01:42:27,120 --> 01:42:30,960
+When I'm writing this method, it's
+going to execute alphabetically.
+
+1475
+01:42:30,960 --> 01:42:36,200
+So I'm putting this as B can you see
+we get created employee just for you.
+
+1476
+01:42:36,720 --> 01:42:39,120
+Just four years from now, delegates
+
+1477
+01:42:39,520 --> 01:42:43,280
+here This employee advocacy can be better.
+
+1478
+01:42:43,280 --> 01:42:44,640
+We trace it like this
+
+1479
+01:42:46,080 --> 01:42:47,600
+employee
+
+1480
+01:42:48,160 --> 01:42:50,640
+because now is execute
+
+1481
+01:42:50,640 --> 01:42:54,240
+according to the priority
+according to the priority.
+
+1482
+01:42:54,240 --> 01:42:57,360
+So remember
+first it will execute this part
+
+1483
+01:42:58,000 --> 01:43:02,960
+the moment it will execute receives
+one employee, Adi, and that employee
+
+1484
+01:43:03,160 --> 01:43:06,840
+I can use here to get the details
+of the employee followed.
+
+1485
+01:43:07,680 --> 01:43:11,520
+Can we do this?
+
+1486
+01:43:11,520 --> 01:43:15,120
+No, no, no, we can't.
+
+1487
+01:43:15,320 --> 01:43:16,360
+That's why it is not.
+
+1488
+01:43:16,360 --> 01:43:22,040
+And there is this clear
+
+1489
+01:43:22,080 --> 01:43:23,680
+what I'm doing. It
+
+1490
+01:43:26,280 --> 01:43:29,960
+now. Not in this part, in this board.
+
+1491
+01:43:29,960 --> 01:43:34,680
+What I have to do is I have to verify
+also this employee
+
+1492
+01:43:34,920 --> 01:43:37,080
+because the employee, which I'm getting,
+
+1493
+01:43:37,800 --> 01:43:40,360
+the employer getting it also
+
+1494
+01:43:41,080 --> 01:43:44,680
+it maybe it is coming one,
+two, three, four, four, five, six.
+
+1495
+01:43:45,000 --> 01:43:50,840
+Possible or not, that is possible.
+
+1496
+01:43:51,040 --> 01:43:56,680
+And so I am seeing here,
+
+1497
+01:43:57,120 --> 01:44:01,040
+I am seeing here
+see get one employee right.
+
+1498
+01:44:01,280 --> 01:44:05,840
+You go here, you go here,
+forget one employee in this part.
+
+1499
+01:44:06,640 --> 01:44:09,440
+And when you run this particular
+one, get one employee
+
+1500
+01:44:12,040 --> 01:44:12,880
+that you
+
+1501
+01:44:13,200 --> 01:44:18,200
+can you see here, this employee comes,
+this employee comes with someone.
+
+1502
+01:44:18,200 --> 01:44:25,400
+E if you create employee,
+if you create employee, right.
+
+1503
+01:44:25,680 --> 01:44:30,600
+This create employee comes with completely
+the object difference.
+
+1504
+01:44:30,640 --> 01:44:35,360
+See this completely
+and this one comes with small giving.
+
+1505
+01:44:35,400 --> 01:44:42,480
+See that illustrates
+
+1506
+01:44:46,720 --> 01:44:47,320
+right.
+
+1507
+01:44:47,360 --> 01:44:51,240
+So now now you see
+when I'm creating the employee,
+
+1508
+01:44:51,240 --> 01:44:53,880
+it is also turning even body.
+
+1509
+01:44:53,880 --> 01:44:56,880
+And in this body I'm getting capital
+E employee
+
+1510
+01:44:56,880 --> 01:45:00,320
+object, JSON
+object, great employer employee I.D..
+
+1511
+01:45:00,360 --> 01:45:03,560
+But this employee objects with capital.
+
+1512
+01:45:03,560 --> 01:45:07,520
+And here I'm getting employee
+third employee
+
+1513
+01:45:08,120 --> 01:45:11,520
+here, embroidered employee 80 with small
+
+1514
+01:45:11,520 --> 01:45:15,160
+E employee object with small E, Right.
+
+1515
+01:45:15,440 --> 01:45:20,000
+So when I'm actually when I'm actually
+getting the employee details
+
+1516
+01:45:20,000 --> 01:45:24,280
+based on one particular employee I.D.,
+I be getting this body.
+
+1517
+01:45:24,480 --> 01:45:28,520
+So from this body, if I were to verify
+their data, what I would do.
+
+1518
+01:45:28,800 --> 01:45:33,240
+One idea I got after
+creating the employee, another I.D.
+
+1519
+01:45:33,240 --> 01:45:35,320
+I got after retrieving their data.
+
+1520
+01:45:35,560 --> 01:45:37,720
+So do I. Is I got right.
+
+1521
+01:45:37,720 --> 01:45:42,320
+This one is my expectation one the one
+which I'm getting is my actual one.
+
+1522
+01:45:42,520 --> 01:45:46,000
+I can verify
+what the lady actually did it.
+
+1523
+01:45:46,000 --> 01:45:49,640
+What I do that equal it means today's
+based on from the same source
+
+1524
+01:45:51,440 --> 01:45:54,720
+I did my first order expectancy,
+
+1525
+01:45:56,520 --> 01:45:58,760
+but data is coming from my retrieval.
+
+1526
+01:45:58,760 --> 01:46:01,800
+Part one data is coming from my creation,
+
+1527
+01:46:01,800 --> 01:46:05,040
+but I can compare both these ideas
+just to make sure.
+
+1528
+01:46:05,360 --> 01:46:06,680
+Remember, what I did
+
+1529
+01:46:07,880 --> 01:46:09,000
+is to
+
+1530
+01:46:11,520 --> 01:46:14,160
+this is I hope you understood
+
+1531
+01:46:14,160 --> 01:46:20,960
+what I'm trying to explain.
+
+1532
+01:46:20,960 --> 01:46:21,840
+Assert equal.
+
+1533
+01:46:21,840 --> 01:46:23,920
+We have used this. We are using this.
+
+1534
+01:46:23,920 --> 01:46:25,600
+Just just an object.
+
+1535
+01:46:25,600 --> 01:46:28,680
+Remember, and measures
+
+1536
+01:46:30,240 --> 01:46:32,800
+to perform equal condition. And
+
+1537
+01:46:32,800 --> 01:46:36,200
+so now see here,
+after getting this employee
+
+1538
+01:46:36,200 --> 01:46:39,160
+after printing the data on Sprint right
+
+1539
+01:46:39,720 --> 01:46:41,880
+here I can get
+
+1540
+01:46:42,320 --> 01:46:46,320
+is the concept and yeah
+kind of got in concept discipline.
+
+1541
+01:46:46,320 --> 01:46:50,160
+So here here I'm going to read
+see from the response
+
+1542
+01:46:51,120 --> 01:46:53,520
+using JSON, but
+
+1543
+01:46:53,520 --> 01:46:55,560
+I can get women's pre
+
+1544
+01:46:55,560 --> 01:46:57,600
+and net pre would be my
+
+1545
+01:46:59,480 --> 01:47:01,040
+employee non
+
+1546
+01:47:02,120 --> 01:47:04,840
+employee.
+
+1547
+01:47:04,840 --> 01:47:06,880
+Read this
+
+1548
+01:47:07,440 --> 01:47:07,800
+correct.
+
+1549
+01:47:07,800 --> 01:47:11,480
+It reads me employee
+from getting the date from get gone
+
+1550
+01:47:12,720 --> 01:47:15,600
+because if it was completely
+that came from
+
+1551
+01:47:16,160 --> 01:47:19,720
+create call post call
+this one is from Google.
+
+1552
+01:47:20,000 --> 01:47:22,720
+So this embroidery
+what I'm getting what I'm seeing
+
+1553
+01:47:22,720 --> 01:47:26,040
+is displaying I'm seeing
+
+1554
+01:47:26,400 --> 01:47:29,440
+I'm going to see which some of it
+because it is coming from my
+
+1555
+01:47:30,560 --> 01:47:33,840
+coming from everything
+so now see this employee
+
+1556
+01:47:33,960 --> 01:47:35,360
+come from this
+
+1557
+01:47:38,640 --> 01:47:39,840
+is this employee
+
+1558
+01:47:39,840 --> 01:47:46,280
+comes from this, not this one.
+
+1559
+01:47:46,280 --> 01:47:49,120
+The one which I highlighted
+this employee comes from this
+
+1560
+01:47:52,760 --> 01:47:54,240
+that created one.
+
+1561
+01:47:54,240 --> 01:47:55,080
+Correct.
+
+1562
+01:47:55,080 --> 01:47:57,400
+And this employee, it is coming from this
+
+1563
+01:48:02,800 --> 01:48:03,880
+after retrieving
+
+1564
+01:48:03,880 --> 01:48:06,880
+the information
+from data grade from Google.
+
+1565
+01:48:07,280 --> 01:48:08,960
+So now see what I'm writing.
+
+1566
+01:48:08,960 --> 01:48:13,440
+I am seeing
+I am seeing one Boolean conditions.
+
+1567
+01:48:13,800 --> 01:48:15,120
+What is the Boolean condition?
+
+1568
+01:48:15,120 --> 01:48:20,520
+EMC Company employee is equal to.
+
+1569
+01:48:20,520 --> 01:48:23,160
+I see when my this employee
+
+1570
+01:48:24,120 --> 01:48:27,440
+there is a matter to go and content equals
+
+1571
+01:48:28,080 --> 01:48:32,520
+with content equals to mine this employee.
+
+1572
+01:48:33,520 --> 01:48:36,920
+If the content of my this employee
+
+1573
+01:48:37,080 --> 01:48:39,840
+and their employer is equals,
+
+1574
+01:48:40,080 --> 01:48:42,600
+then this particular matter
+
+1575
+01:48:42,840 --> 01:48:46,880
+returns true.
+
+1576
+01:48:46,880 --> 01:48:49,480
+So I'm going to write a side
+
+1577
+01:48:49,480 --> 01:48:52,880
+to start a third group
+
+1578
+01:48:53,760 --> 01:48:57,120
+and here I'm going to provide
+competing narratives,
+
+1579
+01:48:58,280 --> 01:49:02,160
+competing narratives right here.
+
+1580
+01:49:02,160 --> 01:49:04,240
+Any assertion
+
+1581
+01:49:07,600 --> 01:49:10,160
+through return from
+
+1582
+01:49:11,760 --> 01:49:14,560
+is that clear?
+
+1583
+01:49:14,560 --> 01:49:21,920
+Is that clear false level of verification?
+
+1584
+01:49:21,920 --> 01:49:38,160
+Is this part false level
+of verification, clear or not illegal?
+
+1585
+01:49:38,160 --> 01:49:44,480
+Now, after this, what I'm going to do
+is I'm to verify the last name.
+
+1586
+01:49:44,480 --> 01:49:47,240
+Also. The first name was the first name.
+
+1587
+01:49:47,240 --> 01:49:49,880
+Last name could be anything we can verify
+today.
+
+1588
+01:49:49,920 --> 01:49:53,400
+Omega is the name
+which I'm sending from the body.
+
+1589
+01:49:53,400 --> 01:49:55,160
+Where is my body that you go?
+
+1590
+01:49:55,160 --> 01:49:56,400
+This is my body, right?
+
+1591
+01:49:56,400 --> 01:49:57,040
+I know.
+
+1592
+01:49:57,040 --> 01:49:59,080
+The middle name
+which I would be sending is a miss.
+
+1593
+01:49:59,080 --> 01:49:59,960
+Let's see.
+
+1594
+01:49:59,960 --> 01:50:02,760
+So I'm seeing what they what their data
+you are getting.
+
+1595
+01:50:02,760 --> 01:50:05,440
+I get I want to verify their data.
+
+1596
+01:50:05,720 --> 01:50:09,800
+So simply simply do
+just one thing from the response.
+
+1597
+01:50:10,240 --> 01:50:14,840
+From the response using this just last
+get this dream.
+
+1598
+01:50:15,360 --> 01:50:16,680
+What is this dream?
+
+1599
+01:50:16,680 --> 01:50:20,440
+So here again employ don't
+
+1600
+01:50:26,680 --> 01:50:29,600
+eat and be nice to be
+
+1601
+01:50:29,600 --> 01:50:33,080
+employed, not empty nasty them.
+
+1602
+01:50:33,840 --> 01:50:36,200
+And this data I have stored
+
+1603
+01:50:36,200 --> 01:50:38,760
+in the supreme as
+
+1604
+01:50:41,600 --> 01:50:42,080
+the moment
+
+1605
+01:50:42,080 --> 01:50:44,560
+I away last name here I'm going to write
+
+1606
+01:50:46,040 --> 01:50:48,200
+assert assert
+
+1607
+01:50:50,160 --> 01:50:52,520
+proof So here I'm going to write
+
+1608
+01:50:53,120 --> 01:50:56,080
+last name again content equals to
+
+1609
+01:50:57,120 --> 01:50:59,760
+this should be this.
+
+1610
+01:50:59,760 --> 01:51:01,560
+If it is true, it returns.
+
+1611
+01:51:01,560 --> 01:51:04,440
+If it is equals,
+it returns to otherwise it return sports.
+
+1612
+01:51:06,200 --> 01:51:07,040
+This part
+
+1613
+01:51:08,840 --> 01:51:10,920
+is these two layers of positions.
+
+1614
+01:51:11,200 --> 01:51:13,640
+This comparison of it is equal or not
+
+1615
+01:51:15,000 --> 01:51:16,400
+clear or not
+
+1616
+01:51:22,800 --> 01:51:23,040
+very.
+
+1617
+01:51:23,040 --> 01:51:28,200
+So for this part, creating the employee
+and then it an employee.
+
+1618
+01:51:28,920 --> 01:51:31,200
+So a partner to be partner.
+
+1619
+01:51:31,200 --> 01:51:31,920
+Correct.
+
+1620
+01:51:32,280 --> 01:51:34,520
+Now let's talk about C part.
+
+1621
+01:51:35,280 --> 01:51:37,600
+Let's talk about C part, C
+
+1622
+01:51:37,600 --> 01:51:41,640
+part is simply updating the employee,
+updating the employee.
+
+1623
+01:51:41,640 --> 01:51:50,240
+So very different.
+
+1624
+01:51:50,240 --> 01:51:53,800
+Instead of passing their data,
+instead of passing the data.
+
+1625
+01:51:53,840 --> 01:51:55,920
+And what I should basically is C,
+
+1626
+01:51:57,360 --> 01:51:59,760
+I'm going to pass it like this
+
+1627
+01:52:00,760 --> 01:52:01,680
+first,
+
+1628
+01:52:02,560 --> 01:52:04,440
+delete this part,
+
+1629
+01:52:05,520 --> 01:52:06,440
+delete this part.
+
+1630
+01:52:06,440 --> 01:52:07,760
+And here
+
+1631
+01:52:09,160 --> 01:52:10,120
+I have to provide
+
+1632
+01:52:10,120 --> 01:52:30,440
+more.
+
+1633
+01:52:30,440 --> 01:52:31,000
+Let's
+
+1634
+01:52:32,560 --> 01:52:34,800
+get this part C,
+
+1635
+01:52:35,520 --> 01:52:38,280
+I'm passing the parameter
+instead of passing the heart
+
+1636
+01:52:38,640 --> 01:52:41,720
+to is.
+
+1637
+01:52:41,720 --> 01:52:42,080
+Then this.
+
+1638
+01:52:42,080 --> 01:52:44,520
+Can you see? I'm going to update the data.
+
+1639
+01:52:44,800 --> 01:52:47,520
+So this time, instead of passing
+
+1640
+01:52:47,520 --> 01:52:51,640
+my value added value, I'm
+passing the parameters, right?
+
+1641
+01:52:51,880 --> 01:52:53,400
+And then I'm going to provide.
+
+1642
+01:52:53,400 --> 01:52:56,240
+This name is C
+
+1643
+01:52:56,240 --> 01:52:58,840
+c simply update employee
+
+1644
+01:53:02,600 --> 01:53:20,640
+based.
+
+1645
+01:53:20,640 --> 01:53:30,800
+What happened this month.
+
+1646
+01:53:30,800 --> 01:53:32,960
+Then an object. Share that name please.
+
+1647
+01:53:33,040 --> 01:53:38,160
+Which then this displayed.
+
+1648
+01:53:38,160 --> 01:53:39,760
+Can you show please last name?
+
+1649
+01:53:39,760 --> 01:53:42,720
+Yes, sure they will.
+
+1650
+01:53:42,720 --> 01:53:45,720
+This is the last.
+
+1651
+01:53:45,720 --> 01:53:49,640
+Don't get confused with this object case
+because these are the object.
+
+1652
+01:53:50,240 --> 01:53:52,080
+Yeah. No, no, no.
+
+1653
+01:53:52,240 --> 01:53:54,840
+I'm just c don't get confused with this.
+
+1654
+01:53:54,840 --> 01:53:57,560
+Objects
+because you're creating an employee,
+
+1655
+01:53:57,840 --> 01:54:01,840
+so you returning capital E object
+JSON object.
+
+1656
+01:54:02,280 --> 01:54:07,640
+But when we're getting the employee,
+it returning and private small is
+
+1657
+01:54:13,200 --> 01:54:15,880
+just getting
+
+1658
+01:54:17,880 --> 01:54:20,520
+the last name is assignment
+
+1659
+01:54:22,000 --> 01:54:29,640
+put just one thing
+
+1660
+01:54:29,880 --> 01:54:33,360
+didn't like this from here
+
+1661
+01:54:33,360 --> 01:54:36,160
+so this should be mine
+
+1662
+01:54:36,960 --> 01:54:39,240
+middle name and I'm putting it as
+
+1663
+01:54:39,240 --> 01:54:42,840
+and as here
+
+1664
+01:54:43,080 --> 01:54:45,000
+they should be on
+
+1665
+01:54:49,400 --> 01:54:50,240
+offensive
+
+1666
+01:54:53,680 --> 01:54:56,400
+one but not good observation by the
+
+1667
+01:54:58,400 --> 01:54:59,400
+sweet
+
+1668
+01:54:59,400 --> 01:55:05,080
+who six
+
+1669
+01:55:17,360 --> 01:55:18,240
+who let me know once
+
+1670
+01:55:18,240 --> 01:55:25,440
+everyone is done.
+
+1671
+01:55:25,440 --> 01:55:34,960
+I like the others.
+
+1672
+01:55:35,960 --> 01:55:48,600
+This work done
+
+1673
+01:55:50,640 --> 01:55:54,360
+already by
+
+1674
+01:55:56,920 --> 01:55:57,600
+this point
+
+1675
+01:55:57,600 --> 01:56:00,480
+and this particular one
+after creating the employee
+
+1676
+01:56:01,040 --> 01:56:02,600
+this but also
+
+1677
+01:56:03,840 --> 01:56:05,640
+creating the employee.
+
+1678
+01:56:05,640 --> 01:56:06,320
+Right.
+
+1679
+01:56:06,360 --> 01:56:10,280
+Get data from here
+now let's go to update employee.
+
+1680
+01:56:10,600 --> 01:56:12,680
+So updating the employee parties
+also certain
+
+1681
+01:56:13,320 --> 01:56:14,280
+everyone
+
+1682
+01:56:30,200 --> 01:56:32,040
+I share the line please.
+
+1683
+01:56:32,040 --> 01:56:35,080
+Sure.
+
+1684
+01:56:35,080 --> 01:56:37,920
+Let me use my slack from here on
+
+1685
+01:56:39,520 --> 01:56:42,160
+because my my leg is in the system
+
+1686
+01:56:42,160 --> 01:56:46,200
+and I'm using the different system
+in someone patient this length Global
+
+1687
+01:56:52,800 --> 01:56:54,240
+just this length
+
+1688
+01:56:55,320 --> 01:56:57,120
+Asia global.
+
+1689
+01:56:57,120 --> 01:56:58,080
+Let's
+
+1690
+01:57:07,920 --> 01:57:09,360
+let me know guys one zero.
+
+1691
+01:57:09,360 --> 01:57:11,720
+The way to do this
+
+1692
+01:58:03,280 --> 01:58:06,120
+is very clear employer
+
+1693
+01:58:06,120 --> 01:58:10,760
+your line number is even bigger
+This is the employee.
+
+1694
+01:58:10,760 --> 01:58:15,040
+See this is the goal we were going to make
+on code number eight C method.
+
+1695
+01:58:15,320 --> 01:58:17,520
+So E creating the employee,
+
+1696
+01:58:18,720 --> 01:58:21,680
+B getting the employee
+from created employee.
+
+1697
+01:58:22,800 --> 01:58:26,600
+And then the third one is
+getting their data from the employee only.
+
+1698
+01:58:26,760 --> 01:58:29,680
+So the same employee is repeating again
+and again.
+
+1699
+01:58:29,680 --> 01:58:30,640
+Now, eight
+
+1700
+01:58:33,520 --> 01:58:34,240
+rate,
+
+1701
+01:58:34,920 --> 01:58:37,600
+we already set order
+and we're using the same order
+
+1702
+01:58:37,600 --> 01:58:45,440
+here, but those are initialized
+within their methods.
+
+1703
+01:58:45,720 --> 01:58:50,200
+So if you observe this already put
+it is instance,
+
+1704
+01:58:50,640 --> 01:58:51,840
+can you see
+
+1705
+01:58:56,520 --> 01:58:58,800
+we have been using them also already.
+
+1706
+01:58:58,800 --> 01:59:00,920
+We're using all of these things
+all the same. The methods.
+
+1707
+01:59:00,920 --> 01:59:02,760
+There is nothing from the method.
+
+1708
+01:59:02,760 --> 01:59:07,040
+We're providing values.
+
+1709
+01:59:07,040 --> 01:59:07,280
+Fine.
+
+1710
+01:59:08,560 --> 01:59:10,280
+So for these three calls clear,
+
+1711
+01:59:10,280 --> 01:59:20,120
+everyone can
+
+1712
+01:59:28,440 --> 01:59:29,840
+now see
+
+1713
+01:59:31,760 --> 01:59:34,520
+I'm going to copy this particular one
+
+1714
+01:59:34,520 --> 01:59:38,800
+because after updating the employee
+also I should need
+
+1715
+01:59:39,240 --> 01:59:41,640
+I should need be caught.
+
+1716
+01:59:42,920 --> 01:59:43,400
+Right.
+
+1717
+01:59:43,400 --> 01:59:47,040
+I should be difficult to create due
+to the created employee again.
+
+1718
+01:59:47,760 --> 01:59:48,880
+Right.
+
+1719
+01:59:48,880 --> 01:59:52,200
+So now here I'm going to Right get
+
+1720
+01:59:52,200 --> 01:59:54,360
+updated employee's correct
+
+1721
+01:59:55,400 --> 01:59:57,440
+in this getting the updated employee.
+
+1722
+01:59:57,440 --> 02:00:01,240
+I'm going to pass data
+comparing the employee
+
+1723
+02:00:01,960 --> 02:00:05,400
+find on is simply
+we can do one thing this time
+
+1724
+02:00:05,920 --> 02:00:08,040
+we can simply perform just one option
+
+1725
+02:00:08,560 --> 02:00:11,720
+right called middle name should be M.
+
+1726
+02:00:12,120 --> 02:00:16,760
+S E and then a solution code is 202 things
+
+1727
+02:00:16,760 --> 02:00:20,080
+and we do it in the get updated employee.
+
+1728
+02:00:20,640 --> 02:00:21,960
+Now see,
+
+1729
+02:00:22,320 --> 02:00:25,800
+this will be my first call
+after updating my data.
+
+1730
+02:00:26,160 --> 02:00:28,640
+So here you see I'm updating my data
+
+1731
+02:00:28,920 --> 02:00:32,280
+in this part using MSE.
+
+1732
+02:00:32,760 --> 02:00:34,400
+This should remember the name.
+
+1733
+02:00:34,400 --> 02:00:36,240
+So this is what I'm providing here.
+
+1734
+02:00:36,240 --> 02:00:38,520
+The limits is in this. Right
+
+1735
+02:00:39,560 --> 02:00:40,720
+after updating
+
+1736
+02:00:40,720 --> 02:00:45,120
+again, I'm going using the same employee
+and I'm trying to access the data.
+
+1737
+02:00:46,120 --> 02:00:46,680
+Right?
+
+1738
+02:00:46,760 --> 02:00:49,760
+So I'm waiting for calls here A, B, C, D
+
+1739
+02:00:50,760 --> 02:00:51,400
+case.
+
+1740
+02:00:52,880 --> 02:00:55,440
+I made a full policy
+
+1741
+02:00:55,520 --> 02:00:59,040
+and everyone see this part days
+protocols could be all in on
+
+1742
+02:01:00,720 --> 02:01:03,880
+any question in this work. Once
+
+1743
+02:01:12,640 --> 02:01:14,640
+students, any question, any confusion
+
+1744
+02:01:26,200 --> 02:01:29,640
+so quickly and our standards.
+
+1745
+02:01:29,640 --> 02:01:30,800
+Yeah obviously
+
+1746
+02:01:30,800 --> 02:01:34,080
+obviously that's why I'm going to commit
+this right in the repository.
+
+1747
+02:01:34,400 --> 02:01:37,040
+So this method of ordering is simple.
+
+1748
+02:01:37,040 --> 02:01:37,760
+We're just curious.
+
+1749
+02:01:37,760 --> 02:01:39,840
+Is there any other method
+of sequencing their test?
+
+1750
+02:01:40,200 --> 02:01:43,040
+Generally there is other method
+we would use framework.
+
+1751
+02:01:43,080 --> 02:01:43,920
+Right now.
+
+1752
+02:01:43,920 --> 02:01:46,800
+I made this class as hardcoded examples,
+
+1753
+02:01:47,640 --> 02:01:50,040
+so these are the hardcoded data
+that we're working with.
+
+1754
+02:01:50,040 --> 02:01:53,160
+Right after these hardcoded examples,
+
+1755
+02:01:53,400 --> 02:01:57,200
+we will work on a template,
+but from there we create everything.
+
+1756
+02:01:57,200 --> 02:02:00,280
+So we will not be relying on this unique
+based, you know,
+
+1757
+02:02:00,600 --> 02:02:04,080
+fix method or something
+we will execute according to our choice.
+
+1758
+02:02:04,640 --> 02:02:05,000
+They're done.
+
+1759
+02:02:05,000 --> 02:02:08,400
+So they do it because just to
+show you how things work, we
+
+1760
+02:02:17,080 --> 02:02:17,800
+okay, good.
+
+1761
+02:02:17,800 --> 02:02:18,480
+Thank you so much.
+
+1762
+02:02:18,480 --> 02:02:18,920
+We're
+
+1763
+02:02:23,880 --> 02:02:26,040
+should we included
+
+1764
+02:02:30,760 --> 02:02:33,120
+let's execute all this for everyone to
+
+1765
+02:02:34,200 --> 02:02:36,960
+with good and everything
+
+1766
+02:02:38,040 --> 02:02:39,920
+goes quickly and ready to this.
+
+1767
+02:02:39,920 --> 02:02:43,160
+Yes that's what
+we started on site for the full range.
+
+1768
+02:02:43,160 --> 02:02:47,560
+Now you'll be able to work.
+
+1769
+02:02:47,560 --> 02:02:54,600
+So let's execute this now. See?
+
+1770
+02:02:54,600 --> 02:02:58,440
+And you see it took eight, B, C,
+and D, Now
+
+1771
+02:03:04,320 --> 02:03:06,760
+we buy
+
+1772
+02:03:09,000 --> 02:03:10,800
+employ only is none.
+
+1773
+02:03:10,800 --> 02:03:14,000
+Please provide employee.
+
+1774
+02:03:14,000 --> 02:03:15,320
+Let's check
+
+1775
+02:03:38,160 --> 02:03:41,120
+where they take employee
+
+1776
+02:04:08,080 --> 02:04:08,920
+Yes, correct.
+
+1777
+02:04:08,920 --> 02:04:10,200
+That's what I'm saying.
+
+1778
+02:04:10,200 --> 02:04:11,760
+What is happening
+
+1779
+02:04:45,360 --> 02:04:48,720
+is that there should be some silly words
+
+1780
+02:04:48,720 --> 02:04:50,600
+after reading this
+
+1781
+02:05:11,080 --> 02:05:13,240
+at this point
+
+1782
+02:05:13,240 --> 02:05:16,840
+and the boolean condition notices
+
+1783
+02:05:21,320 --> 02:05:22,800
+we try to do it by heart.
+
+1784
+02:05:22,800 --> 02:05:24,960
+Could it just give me a moment
+
+1785
+02:05:27,880 --> 02:05:32,160
+after there to do the working or not?
+
+1786
+02:05:32,160 --> 02:05:33,960
+Because
+
+1787
+02:06:16,480 --> 02:06:18,120
+we had this one employee.
+
+1788
+02:06:18,120 --> 02:06:20,080
+So this one is not affecting the data.
+
+1789
+02:06:20,080 --> 02:06:22,120
+Basically.
+
+1790
+02:06:22,120 --> 02:06:23,800
+Why this one is not affecting the data.
+
+1791
+02:06:23,800 --> 02:06:29,880
+There's the question, maybe the background
+during the API, because
+
+1792
+02:06:30,920 --> 02:06:34,960
+we are able to generate the data.
+
+1793
+02:06:34,960 --> 02:06:40,560
+So first it is creating the employee fine.
+
+1794
+02:06:40,560 --> 02:06:44,760
+Let's let's do just one thing.
+
+1795
+02:06:44,760 --> 02:06:47,120
+It's execute these three. Now see
+
+1796
+02:06:48,200 --> 02:06:50,600
+what would happen
+is they're getting their data
+
+1797
+02:07:01,440 --> 02:07:01,960
+decent.
+
+1798
+02:07:01,960 --> 02:07:05,520
+What messages
+if this employee record of data
+
+1799
+02:07:05,800 --> 02:07:07,920
+and actually employee not found
+
+1800
+02:07:10,160 --> 02:07:14,080
+okay where it is not finding the employee
+
+1801
+02:08:02,880 --> 02:08:04,000
+so in clear
+
+1802
+02:08:04,000 --> 02:08:07,040
+the employee record their data
+from everybody fine
+
+1803
+02:08:07,120 --> 02:08:10,000
+so this returns a story
+and it is bringing this part.
+
+1804
+02:08:10,280 --> 02:08:13,400
+It's not the same data I'm forcing you
+
+1805
+02:08:14,560 --> 02:08:20,840
+to upgrade the employee.
+
+1806
+02:08:20,840 --> 02:08:21,440
+Fine.
+
+1807
+02:08:22,080 --> 02:08:23,960
+And the same thing here.
+
+1808
+02:08:23,960 --> 02:08:38,200
+Also,
+
+1809
+02:08:38,200 --> 02:08:41,200
+let's do this first clear to see
+whether it is printing this employee.
+
+1810
+02:08:41,200 --> 02:08:43,480
+Be here or not.
+
+1811
+02:08:43,480 --> 02:08:59,920
+When preparing the request.
+
+1812
+02:08:59,920 --> 02:09:03,040
+See, it gets null here
+
+1813
+02:09:04,280 --> 02:09:05,920
+if the idea is not coming.
+
+1814
+02:09:07,000 --> 02:09:10,040
+New employee idea,
+it's not taking some issue with the API
+
+1815
+02:09:10,440 --> 02:09:13,040
+because the data is generated,
+which is not picking
+
+1816
+02:09:13,200 --> 02:09:16,560
+employee.
+
+1817
+02:09:16,560 --> 02:09:19,120
+And the idea this
+
+1818
+02:09:21,120 --> 02:09:24,480
+is starting to check
+
+1819
+02:09:27,000 --> 02:09:28,680
+just just a fluke.
+
+1820
+02:09:28,680 --> 02:09:30,720
+I'm crying because
+
+1821
+02:09:39,480 --> 02:09:42,200
+well, see
+
+1822
+02:09:46,000 --> 02:09:47,280
+working by now
+
+1823
+02:09:47,280 --> 02:09:50,840
+these are
+
+1824
+02:09:53,280 --> 02:09:56,240
+exceptionally based
+
+1825
+02:09:57,640 --> 02:09:59,280
+exceptionally at the moment
+
+1826
+02:09:59,280 --> 02:10:01,320
+they made extending it works
+
+1827
+02:10:06,600 --> 02:10:07,920
+well I assert is static.
+
+1828
+02:10:07,920 --> 02:10:10,720
+No I was talking about this
+basically your own token.
+
+1829
+02:10:10,720 --> 02:10:15,240
+I was not talking about this employee 80.
+
+1830
+02:10:15,240 --> 02:10:15,840
+Right.
+
+1831
+02:10:15,840 --> 02:10:18,280
+I was talking about this too.
+Not this one. Right.
+
+1832
+02:10:18,320 --> 02:10:22,120
+So this is something else.
+
+1833
+02:10:22,120 --> 02:10:23,560
+This is something else.
+
+1834
+02:10:23,560 --> 02:10:28,800
+So you guys, their data, their data,
+which is coming from one call, right?
+
+1835
+02:10:29,040 --> 02:10:31,840
+That data is stored in one static field.
+
+1836
+02:10:32,200 --> 02:10:34,320
+Then it is populating the data everywhere.
+
+1837
+02:10:35,480 --> 02:10:36,240
+Ideally.
+
+1838
+02:10:36,240 --> 02:10:39,000
+Ideally when I was running two methods
+
+1839
+02:10:39,240 --> 02:10:42,120
+remaining, but I remember
+when I don't know when I was running
+
+1840
+02:10:42,120 --> 02:10:46,440
+two methods for creating the employee
+and for getting the employee.
+
+1841
+02:10:46,520 --> 02:10:48,760
+So even non static was working
+
+1842
+02:10:53,840 --> 02:10:56,480
+is when we were creating the employee
+
+1843
+02:10:56,480 --> 02:11:01,320
+and getting the employee.
+
+1844
+02:11:01,320 --> 02:11:05,200
+Yes, getting instances
+changing instances changing.
+
+1845
+02:11:05,400 --> 02:11:08,520
+So this time the moment I made it static,
+
+1846
+02:11:08,680 --> 02:11:11,080
+the same instances working everywhere.
+
+1847
+02:11:11,640 --> 02:11:16,200
+Now see what it does
+basically doesn't matter
+
+1848
+02:11:16,200 --> 02:11:21,280
+whether you provide create employee
+at the last part right at the last part
+
+1849
+02:11:21,680 --> 02:11:26,560
+or you employ or you provide get employee
+in the first part or update employer.
+
+1850
+02:11:26,600 --> 02:11:32,760
+The first part doesn't make by because you
+maintain the order of execution, right?
+
+1851
+02:11:33,040 --> 02:11:34,800
+You made the order of execution
+
+1852
+02:11:34,800 --> 02:11:39,000
+and then you, when you fixed
+this order of execution using G unit,
+
+1853
+02:11:39,160 --> 02:11:43,000
+it will execute in your provided
+order later.
+
+1854
+02:11:43,320 --> 02:11:47,040
+There's not going to execute anything
+according to its default order.
+
+1855
+02:11:47,360 --> 02:11:50,080
+So here, according to all defined order,
+
+1856
+02:11:50,280 --> 02:11:52,600
+it will create the employee first,
+
+1857
+02:11:53,280 --> 02:11:57,120
+it will retrieve the data from
+the employee, but from some associates.
+
+1858
+02:11:57,560 --> 02:11:59,520
+Then it will update the employee.
+
+1859
+02:11:59,520 --> 02:12:04,000
+And after updating the employee again,
+it will retrieve the employee
+
+1860
+02:12:04,000 --> 02:12:07,760
+and see whether the data is correctly
+updated or not.
+
+1861
+02:12:08,200 --> 02:12:11,000
+For where they played the same.
+
+1862
+02:12:11,000 --> 02:12:12,400
+And we don't.
+
+1863
+02:12:12,400 --> 02:12:17,520
+But because of changing the instance
+of of instance variable,
+
+1864
+02:12:17,520 --> 02:12:20,600
+which is non static
+the moment we made it static,
+
+1865
+02:12:20,640 --> 02:12:24,000
+the steam instance is working
+across all the methods.
+
+1866
+02:12:25,680 --> 02:12:26,440
+So the
+
+1867
+02:12:26,440 --> 02:12:30,240
+point, my deep point is
+my only point is the
+
+1868
+02:12:31,760 --> 02:12:35,120
+this is my work and you see someone
+
+1869
+02:12:50,480 --> 02:12:54,080
+in right now.
+
+1870
+02:12:54,320 --> 02:12:57,200
+Now the next important thing,
+what we have do
+
+1871
+02:12:57,200 --> 02:12:59,600
+is basically what we will do is
+
+1872
+02:13:00,840 --> 02:13:03,160
+we will simply execute
+
+1873
+02:13:03,440 --> 02:13:07,160
+every single thing
+raised by via parameterization
+
+1874
+02:13:07,160 --> 02:13:10,720
+and in our framework,
+that's what we have to do.
+
+1875
+02:13:11,360 --> 02:13:16,920
+We will use the complete parameterization,
+but right the way we were calling steps
+
+1876
+02:13:17,120 --> 02:13:19,680
+when this beta pilot would place
+
+1877
+02:13:19,960 --> 02:13:23,280
+beachhead grid one place
+constant at one place.
+
+1878
+02:13:23,440 --> 02:13:24,000
+Right.
+
+1879
+02:13:24,000 --> 02:13:27,280
+Similarly, we will implement every thing
+
+1880
+02:13:27,280 --> 02:13:31,320
+in our framework
+and from that framework we will later
+
+1881
+02:13:31,320 --> 02:13:34,480
+be just by whatever
+the scenario we want to perform.
+
+1882
+02:13:34,480 --> 02:13:37,960
+Because now we know, given
+we can use for preparing the request
+
+1883
+02:13:38,520 --> 02:13:40,840
+when we can use for sending the request
+on everything
+
+1884
+02:13:40,840 --> 02:13:45,240
+that you wanted,
+the shipping that you ordered,
+
+1885
+02:13:45,600 --> 02:13:49,480
+then we'll then for assertions
+we are using implicit measures
+
+1886
+02:13:50,280 --> 02:13:54,400
+for estimated Class one associates,
+a very issue with invasion force.
+
+1887
+02:13:54,800 --> 02:13:56,520
+All these things would be known.
+
+1888
+02:13:56,520 --> 02:13:59,360
+It's all about arranging the data.
+
+1889
+02:13:59,360 --> 02:14:03,680
+It's all about attending the code
+according to the framework, what we have.
+
+1890
+02:14:04,400 --> 02:14:07,720
+So when you go to the market
+and if someone asked you
+
+1891
+02:14:07,720 --> 02:14:12,520
+to explain the things,
+you can explain your database, you wait.
+
+1892
+02:14:12,560 --> 02:14:15,560
+But your PPA,
+but it means we need to build all three
+
+1893
+02:14:15,560 --> 02:14:23,400
+layers
+with the same of framework explanation.
+
+1894
+02:14:23,400 --> 02:14:32,480
+And this go this.
+
+1895
+02:14:32,480 --> 02:14:33,720
+What does it mean? You get the
+
+1896
+02:14:38,800 --> 02:14:41,240
+let me
+first commit this code in the repository.
+
+1897
+02:14:41,400 --> 02:14:42,480
+All of you
+
+1898
+02:15:08,640 --> 02:15:14,680
+in Asia.
+
+1899
+02:15:14,680 --> 02:15:16,080
+If you want,
+
+1900
+02:15:16,840 --> 02:15:18,880
+we can run it again no issues or problem
+
+1901
+02:15:21,440 --> 02:15:30,880
+need find
+
+1902
+02:15:33,440 --> 02:15:34,520
+binaries
+
+1903
+02:15:45,480 --> 02:15:48,080
+in the last two CMB.
+
+1904
+02:15:48,080 --> 02:15:50,520
+So these are building the employee
+this part.
+
+1905
+02:15:50,880 --> 02:15:52,560
+Right. And these nothing.
+
+1906
+02:15:52,560 --> 02:15:55,200
+These is the same when we we are using be
+
+1907
+02:15:56,240 --> 02:16:00,280
+maybe you're providing a wrong
+because after updating the employment
+
+1908
+02:16:00,280 --> 02:16:03,160
+data will change a mistake for officer
+should be it
+
+1909
+02:16:09,480 --> 02:16:12,960
+already based.
+
+1910
+02:16:12,960 --> 02:16:15,760
+Any questions in this
+
+1911
+02:16:22,680 --> 02:16:23,280
+students
+
+1912
+02:16:23,280 --> 02:16:28,680
+any questions?
+
+1913
+02:16:28,680 --> 02:16:32,520
+All clear both at
+
+1914
+02:16:35,680 --> 02:16:38,600
+point ten indicates how was the session
+
+1915
+02:16:39,400 --> 02:16:41,400
+was it wasn't one
+
+1916
+02:16:42,360 --> 02:16:48,240
+or a lot of confusion. Yes.
+
+1917
+02:16:48,240 --> 02:16:51,520
+So one Yes, yes we'll do it shorter.
+
+1918
+02:16:52,760 --> 02:16:54,560
+We would really short very precise.
+
+1919
+02:16:54,560 --> 02:16:55,880
+Very clear.
+
+1920
+02:16:56,600 --> 02:17:00,160
+Right.
+
+1921
+02:17:00,160 --> 02:17:00,560
+Fine.
+
+1922
+02:17:00,800 --> 02:17:01,480
+Next time
+
+1923
+02:17:01,480 --> 02:17:06,440
+when we are meeting on secretary rate
+there has been an aspect influence of
+
+1924
+02:17:08,920 --> 02:17:10,920
+just polymorphism
+
+1925
+02:17:10,920 --> 02:17:13,040
+better localization
+every single thing we will get
+
+1926
+02:17:13,680 --> 02:17:15,880
+and after that will complete
+
+1927
+02:17:16,400 --> 02:17:19,480
+on API part implementation in sector.
+
+1928
+02:17:19,480 --> 02:17:22,920
+Then starting next week
+you'll be having your Jenkins part
+
+1929
+02:17:23,320 --> 02:17:27,760
+and after Jenkins part, maybe on weekends
+I'm roadshow on weekends break.
+
+1930
+02:17:28,080 --> 02:17:31,160
+No, you guys in class,
+I don't know what we do.
+
+1931
+02:17:32,280 --> 02:17:36,760
+So on Saturday will the meeting next week
+most probably will be starting
+
+1932
+02:17:36,760 --> 02:17:40,080
+with your group operations group
+so I will be there
+
+1933
+02:17:40,080 --> 02:17:42,240
+with you on weekdays
+
+1934
+02:17:43,760 --> 02:17:45,400
+as well And I we both
+
+1935
+02:17:45,400 --> 02:17:47,600
+we take interpretation sections
+
+1936
+02:17:51,760 --> 02:17:53,160
+perfect affect guys.
+
+1937
+02:17:53,160 --> 02:17:56,720
+All right I think I'm
+then from my side for today's class
+
+1938
+02:17:56,720 --> 02:18:01,160
+if you guys have any question
+please ask and we can from the class
+
+1939
+02:18:02,560 --> 02:18:03,840
+is it just for weekends.
+
+1940
+02:18:03,840 --> 02:18:07,000
+A normal stuff is also following meeting
+
+1941
+02:18:09,800 --> 02:18:12,840
+authorities.
+
+1942
+02:18:12,840 --> 02:18:16,120
+Thank you so much for being cooperative
+in the class that is really busy
+
+1943
+02:18:16,440 --> 02:18:19,920
+signing on
+and dealing with it and get everyone make.

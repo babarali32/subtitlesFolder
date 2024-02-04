@@ -1,0 +1,5248 @@
+﻿1
+00:00:41,360 --> 00:00:44,200
+And then we won.
+
+2
+00:00:44,320 --> 00:01:04,480
+How are you guys doing?
+
+3
+00:01:05,480 --> 00:01:09,840
+Elina So you were not okay with this?
+
+4
+00:01:11,200 --> 00:01:11,760
+I'm good.
+
+5
+00:01:11,760 --> 00:01:31,320
+I'm good.
+
+6
+00:01:34,520 --> 00:01:36,200
+All of us know that today
+
+7
+00:01:36,200 --> 00:01:40,840
+we have a class
+because only 15 students are there yet.
+
+8
+00:01:41,280 --> 00:01:44,280
+Or maybe, like they were planning on
+
+9
+00:01:45,360 --> 00:01:48,320
+attending the sessions after the class
+
+10
+00:01:56,400 --> 00:01:57,840
+association.
+
+11
+00:01:57,840 --> 00:02:01,000
+What kind of facility?
+
+12
+00:02:01,000 --> 00:02:03,440
+al-Asiri.
+
+13
+00:02:08,960 --> 00:02:10,680
+Okay, so you also have
+
+14
+00:02:10,680 --> 00:02:12,960
+these kind of associations abroad.
+
+15
+00:02:15,000 --> 00:02:17,520
+Okay.
+
+16
+00:02:18,280 --> 00:02:20,480
+Might be like having
+
+17
+00:02:21,520 --> 00:02:23,560
+another kind of family, you know,
+
+18
+00:02:23,560 --> 00:02:26,800
+from the same country.
+
+19
+00:02:36,040 --> 00:02:39,360
+And so today's session
+
+20
+00:02:40,080 --> 00:02:42,560
+is not going to be long.
+
+21
+00:02:42,560 --> 00:02:46,560
+We'll be covering some more concepts
+regarding this.
+
+22
+00:02:46,800 --> 00:02:49,240
+And then most probably
+
+23
+00:02:50,080 --> 00:02:52,320
+we will be done in about,
+
+24
+00:02:52,320 --> 00:02:54,760
+I believe, 1.5 to 2 hours.
+
+25
+00:02:55,680 --> 00:02:59,320
+After that, on Tuesday, we are going to be
+having different classes.
+
+26
+00:02:59,800 --> 00:03:03,840
+Usually what we did
+in the previous batches, we combined
+
+27
+00:03:04,080 --> 00:03:05,760
+doctor with eight of us.
+
+28
+00:03:05,760 --> 00:03:07,920
+But from this batch
+
+29
+00:03:07,920 --> 00:03:12,960
+you have decided to make doctor individual
+and spend some more time on it.
+
+30
+00:03:14,160 --> 00:03:17,360
+So this is going to be a session for like
+
+31
+00:03:18,360 --> 00:03:20,240
+maximum 2 hours.
+
+32
+00:03:20,240 --> 00:03:24,960
+And on Tuesday
+we will be again teaching doctors.
+
+33
+00:03:25,880 --> 00:03:28,440
+So I believe that the concepts
+
+34
+00:03:28,440 --> 00:03:31,720
+that we discussed in
+the last US are clear to all of you.
+
+35
+00:03:31,720 --> 00:03:36,280
+And today we can easily proceed
+with the next things that we have.
+
+36
+00:03:37,520 --> 00:03:41,480
+So let's open up our
+
+37
+00:03:43,000 --> 00:03:44,760
+interviews
+
+38
+00:03:45,120 --> 00:03:49,320
+and let's do one thing less
+than we connected to the instance of EC2
+
+39
+00:03:49,320 --> 00:03:52,680
+that we created
+using natively as consoles.
+
+40
+00:03:53,240 --> 00:03:58,560
+So today let's learn how we can do it
+using the terminal
+
+41
+00:03:58,680 --> 00:04:01,360
+or the putty for
+
+42
+00:04:01,720 --> 00:04:04,320
+Windows user.
+
+43
+00:04:05,920 --> 00:04:07,600
+Let's dive in our search bar.
+
+44
+00:04:07,600 --> 00:04:16,040
+Easy to.
+
+45
+00:04:21,240 --> 00:04:24,600
+Okay, let's go to launch instances
+
+46
+00:04:24,600 --> 00:04:27,120
+and over here
+
+47
+00:04:27,760 --> 00:04:29,880
+let's launch
+
+48
+00:04:29,880 --> 00:04:33,520
+this first instance Amazon Linux 2 a.m..
+
+49
+00:04:33,720 --> 00:04:37,120
+And no,
+instead of that let's launch an instance
+
+50
+00:04:37,120 --> 00:04:41,440
+which has already
+some softwares installed.
+
+51
+00:04:42,120 --> 00:04:47,640
+So one of the instance
+that I think we can use in that terms
+
+52
+00:04:47,640 --> 00:04:51,600
+is the one that already
+has Docker installed on it.
+
+53
+00:04:52,840 --> 00:04:53,200
+Okay.
+
+54
+00:04:53,200 --> 00:04:55,320
+So in
+order to search for such an instance,
+
+55
+00:04:55,320 --> 00:04:57,920
+what we are going to do
+is go to the search bar
+
+56
+00:04:57,920 --> 00:05:01,880
+and we will write down or there
+Docker, compose
+
+57
+00:05:02,720 --> 00:05:05,600
+and hit enter.
+
+58
+00:05:06,400 --> 00:05:08,840
+Hi Mario.
+
+59
+00:05:14,400 --> 00:05:14,840
+Okay, so
+
+60
+00:05:14,840 --> 00:05:35,520
+are you guys following?
+
+61
+00:05:37,600 --> 00:05:39,240
+Okay, that's great.
+
+62
+00:05:39,240 --> 00:05:43,040
+So Docker compose, we search for it.
+
+63
+00:05:47,520 --> 00:05:48,880
+Okay, that that's fine.
+
+64
+00:05:48,880 --> 00:05:55,080
+So now we see that
+we do not have any of the instance
+
+65
+00:05:55,920 --> 00:05:58,240
+which has Docker installed,
+
+66
+00:05:59,520 --> 00:06:02,040
+but it's only in the my arm
+
+67
+00:06:02,400 --> 00:06:04,920
+if we go to the market place
+
+68
+00:06:05,800 --> 00:06:08,040
+or the community and I
+
+69
+00:06:08,040 --> 00:06:10,800
+will be able to see a lot of instances.
+
+70
+00:06:10,800 --> 00:06:12,840
+So you can also use them
+from the community.
+
+71
+00:06:14,320 --> 00:06:17,240
+Okay, so what is an Amazon machine image?
+
+72
+00:06:17,240 --> 00:06:21,760
+I believe that we discussed this last time
+right?
+
+73
+00:06:22,200 --> 00:06:31,040
+You guys remember it.
+
+74
+00:06:32,800 --> 00:06:35,680
+And what is the
+
+75
+00:06:37,320 --> 00:06:39,720
+what is an Amazon machine image
+
+76
+00:06:58,040 --> 00:07:01,120
+with the Amazon machine image
+
+77
+00:07:01,160 --> 00:07:03,440
+file that contains
+
+78
+00:07:03,440 --> 00:07:08,080
+all the necessary information and software
+
+79
+00:07:08,720 --> 00:07:12,480
+that you need to have install
+on the instance
+
+80
+00:07:12,480 --> 00:07:15,760
+or the machine
+that you are trying to deploy.
+
+81
+00:07:16,440 --> 00:07:20,040
+So as we are trying to deploy
+a new computer on Amazon Cloud,
+
+82
+00:07:20,040 --> 00:07:23,880
+so what we have is different
+machine images available to us
+
+83
+00:07:24,320 --> 00:07:27,400
+in which we have different
+kind of software pre-installed.
+
+84
+00:07:28,120 --> 00:07:30,480
+So right now
+I'm looking for a machine image
+
+85
+00:07:30,480 --> 00:07:33,360
+which has Docker compose,
+so I search for it.
+
+86
+00:07:33,960 --> 00:07:37,960
+Now I can look upon
+any image that has Doppler.
+
+87
+00:07:38,000 --> 00:07:41,720
+So this one,
+if I look upon this, it has Docker,
+
+88
+00:07:41,720 --> 00:07:43,920
+Docker compose configured to deploy.
+
+89
+00:07:44,920 --> 00:07:45,640
+Okay.
+
+90
+00:07:46,400 --> 00:07:49,120
+So I can also use this one.
+
+91
+00:07:49,120 --> 00:07:52,280
+I believe Amazon Linux agent, Docker
+
+92
+00:07:52,560 --> 00:07:55,040
+compose, it's also there.
+
+93
+00:07:55,560 --> 00:07:57,240
+So let's go ahead with the
+
+94
+00:08:02,360 --> 00:08:03,760
+with the first one.
+
+95
+00:08:03,760 --> 00:08:07,320
+Let's go ahead and choose the first one.
+
+96
+00:08:08,520 --> 00:08:12,360
+So at this point, we select
+the kind of deal that will be using
+
+97
+00:08:12,360 --> 00:08:15,120
+so to migrate it
+because this one is a free one.
+
+98
+00:08:16,840 --> 00:08:19,960
+Next number of instances is one network.
+
+99
+00:08:19,960 --> 00:08:22,080
+By default, you select the VPC
+
+100
+00:08:23,280 --> 00:08:27,680
+and we will select
+any of the default subnet.
+
+101
+00:08:29,640 --> 00:08:34,480
+Any other thing
+we do not want to set that.
+
+102
+00:08:34,480 --> 00:08:43,640
+Should I move to the next page?
+
+103
+00:08:48,000 --> 00:08:48,560
+Okay.
+
+104
+00:08:48,720 --> 00:08:52,200
+So next step is to add storage by default.
+
+105
+00:08:52,200 --> 00:08:55,280
+It's eight. I'm good with that.
+
+106
+00:08:55,320 --> 00:08:59,000
+So next this version we skip.
+
+107
+00:09:00,360 --> 00:09:04,240
+Okay, Security group
+is there now for this,
+
+108
+00:09:04,760 --> 00:09:08,360
+we will have a discussion in today's
+lecture that what's a security group
+
+109
+00:09:08,360 --> 00:09:12,400
+but for now let it be by default,
+whatever it is.
+
+110
+00:09:12,560 --> 00:09:18,200
+So GCP to do custom and all plots
+
+111
+00:09:19,080 --> 00:09:26,280
+review and launch.
+
+112
+00:09:29,640 --> 00:09:32,480
+Okay now again, the time where we need to
+
+113
+00:09:33,720 --> 00:09:34,920
+have a key.
+
+114
+00:09:34,920 --> 00:09:37,200
+So I'll say
+
+115
+00:09:37,200 --> 00:09:42,120
+this time create a new keeper,
+not limit eight of us.
+
+116
+00:09:42,200 --> 00:09:45,120
+One, two, three.
+
+117
+00:09:46,520 --> 00:09:50,200
+After creating a new keeper,
+I need to download it
+
+118
+00:09:50,200 --> 00:09:52,440
+so that I have it on my system.
+
+119
+00:09:53,240 --> 00:09:58,320
+And then I can simply say launch instance.
+
+120
+00:10:00,720 --> 00:10:03,000
+So my instance is in.
+
+121
+00:10:03,280 --> 00:10:06,000
+Instead of launching right now it's
+
+122
+00:10:07,200 --> 00:10:09,560
+loading up.
+
+123
+00:10:10,200 --> 00:10:19,040
+Have you guys launched it?
+
+124
+00:10:22,440 --> 00:10:23,440
+Okay, great.
+
+125
+00:10:23,440 --> 00:10:34,320
+Now what I want you to do,
+how many of you are on windows?
+
+126
+00:10:35,800 --> 00:10:39,040
+Okay, The people who are on Windows,
+
+127
+00:10:39,040 --> 00:10:44,600
+what you need to do is go to Google.
+
+128
+00:10:44,600 --> 00:10:46,800
+And this is only for people
+who are on Windows.
+
+129
+00:10:46,800 --> 00:10:47,440
+Okay?
+
+130
+00:10:48,480 --> 00:10:50,560
+Typing would be and
+
+131
+00:10:51,680 --> 00:10:56,880
+download this software from this link.
+
+132
+00:10:57,480 --> 00:10:59,040
+Let me send you the link to
+
+133
+00:11:01,440 --> 00:11:01,680
+you. Just
+
+134
+00:11:01,680 --> 00:11:04,560
+need to download this software
+and install it quickly.
+
+135
+00:11:05,480 --> 00:11:07,160
+For the MAC users.
+
+136
+00:11:07,160 --> 00:11:08,720
+You do not need to for.
+
+137
+00:11:08,720 --> 00:11:12,000
+Okay Mac already has one installed
+
+138
+00:11:12,000 --> 00:11:26,000
+in it.
+
+139
+00:11:26,000 --> 00:11:29,600
+Install the software and let me know
+so that I'll be able
+
+140
+00:11:30,160 --> 00:11:39,400
+proceed together.
+
+141
+00:11:39,400 --> 00:11:39,920
+Okay.
+
+142
+00:11:39,920 --> 00:11:42,760
+So how awesome or what
+system are you want?
+
+143
+00:11:43,560 --> 00:11:58,920
+Is it MSA that you have?
+
+144
+00:11:59,080 --> 00:12:01,960
+Well, because I've been a Windows user so
+
+145
+00:12:04,240 --> 00:12:06,720
+I just love Windows more than Mac,
+
+146
+00:12:07,040 --> 00:12:09,920
+especially with you
+as I just don't like Matt.
+
+147
+00:12:09,920 --> 00:12:13,920
+It really gets complicated
+when I need to support
+
+148
+00:12:14,080 --> 00:12:17,040
+someone with having a mac configuration
+issue.
+
+149
+00:12:17,400 --> 00:12:21,520
+Other issues are fine, but
+when it comes to configuration, it's hard.
+
+150
+00:12:22,520 --> 00:12:25,120
+Okay, so MSA Windows installer
+
+151
+00:12:26,720 --> 00:12:28,320
+go ahead with
+
+152
+00:12:29,400 --> 00:12:32,240
+I believe 64 bit.
+
+153
+00:12:32,240 --> 00:12:37,240
+First one, it should work for you. Just
+
+154
+00:12:41,360 --> 00:12:42,360
+go ahead and install
+
+155
+00:12:42,360 --> 00:12:53,760
+the first one.
+
+156
+00:12:53,760 --> 00:12:54,160
+Okay.
+
+157
+00:12:54,160 --> 00:12:59,080
+So people who are on Mac,
+let me guide you now.
+
+158
+00:12:59,680 --> 00:13:04,320
+What do you guys need to do
+is click on your instance that you launch
+
+159
+00:13:04,920 --> 00:13:13,520
+and do you see this
+connect button appearing?
+
+160
+00:13:13,520 --> 00:13:15,360
+Any version
+
+161
+00:13:15,920 --> 00:13:17,600
+that doesn't matter.
+
+162
+00:13:18,160 --> 00:13:20,480
+Okay, so Mac users,
+I'm talking to you guys.
+
+163
+00:13:20,480 --> 00:13:23,040
+You need to connect on this.
+
+164
+00:13:23,040 --> 00:13:23,920
+Click on this button.
+
+165
+00:13:23,920 --> 00:13:27,000
+And then what you'll see is some window
+
+166
+00:13:27,000 --> 00:13:30,680
+like this.
+
+167
+00:13:30,680 --> 00:13:36,520
+Okay, after that,
+
+168
+00:13:36,520 --> 00:13:41,760
+you need to click on the search client
+Mac users, click on the search line.
+
+169
+00:13:41,800 --> 00:13:44,960
+Let me know once
+you have once you see this particular
+
+170
+00:13:46,280 --> 00:13:52,400
+set of instructions in front of you,
+
+171
+00:13:52,400 --> 00:13:58,320
+do you see this?
+
+172
+00:13:58,320 --> 00:13:59,320
+Okay.
+
+173
+00:13:59,320 --> 00:14:03,600
+Now, again, it's for only Mac users.
+
+174
+00:14:03,960 --> 00:14:05,760
+No one else.
+
+175
+00:14:06,280 --> 00:14:09,360
+Now what you need to
+do is follow these commands,
+
+176
+00:14:10,800 --> 00:14:11,880
+open an SS.
+
+177
+00:14:11,880 --> 00:14:12,520
+Excellent.
+
+178
+00:14:12,520 --> 00:14:15,040
+It means that opening up your terminal.
+
+179
+00:14:15,040 --> 00:14:16,520
+Okay, open.
+
+180
+00:14:16,520 --> 00:14:19,160
+And such client means open up
+the terminal.
+
+181
+00:14:19,680 --> 00:14:23,640
+Locate your private key, file.
+
+182
+00:14:23,640 --> 00:14:25,680
+Okay, So now
+
+183
+00:14:25,680 --> 00:14:29,520
+I believe that you can navigate
+to the location
+
+184
+00:14:30,440 --> 00:14:33,480
+where you downloaded
+the file that key file.
+
+185
+00:14:33,880 --> 00:14:36,840
+And you can, like, look at it, right?
+
+186
+00:14:36,840 --> 00:14:42,160
+Just like we learned and get CD
+and navigate to the directories we do.
+
+187
+00:14:42,200 --> 00:14:43,760
+You have the keys.
+
+188
+00:14:43,760 --> 00:14:49,040
+And after that, once you are in
+to that location, run this command C.
+
+189
+00:14:49,040 --> 00:14:53,440
+S mode 400 and your key name.
+
+190
+00:14:53,440 --> 00:14:57,480
+After that, connect to your instance
+using public DNS.
+
+191
+00:14:57,480 --> 00:15:01,760
+Like you can use this particular command,
+
+192
+00:15:01,760 --> 00:15:04,920
+whatever is appearing on your screen.
+
+193
+00:15:05,000 --> 00:15:07,960
+Okay, so
+
+194
+00:15:07,960 --> 00:15:10,240
+the example is
+
+195
+00:15:12,360 --> 00:15:14,640
+over here mentioned
+
+196
+00:15:15,360 --> 00:15:17,280
+run these commands,
+
+197
+00:15:17,280 --> 00:15:19,800
+see how it works for you.
+
+198
+00:15:19,800 --> 00:15:22,080
+It should be able to connect you to your
+
+199
+00:15:22,080 --> 00:15:25,880
+instance on the NWS.
+
+200
+00:15:27,400 --> 00:15:28,120
+Okay.
+
+201
+00:15:28,400 --> 00:15:35,000
+Our instructions here for Mac users,
+you just need to follow them.
+
+202
+00:15:35,520 --> 00:15:36,240
+You follow them.
+
+203
+00:15:36,240 --> 00:15:38,360
+Let me know if you are able to connect
+or not.
+
+204
+00:15:38,360 --> 00:15:39,440
+If not, then
+
+205
+00:15:39,440 --> 00:15:44,200
+I'll just share a video with you because
+unfortunately I do not have a terminal,
+
+206
+00:15:44,200 --> 00:15:47,840
+so I cannot run this with you guys
+and Windows users.
+
+207
+00:15:47,840 --> 00:15:51,120
+Do you have your buddy installed?
+
+208
+00:15:57,240 --> 00:15:59,760
+Okay, perfect.
+
+209
+00:15:59,760 --> 00:16:01,560
+So now first, let's understand that
+
+210
+00:16:01,560 --> 00:16:04,760
+why are we doing this
+and what are we doing, actually?
+
+211
+00:16:05,840 --> 00:16:09,760
+So sometimes the scenario may be
+that instead of using an address
+
+212
+00:16:09,800 --> 00:16:12,800
+console,
+you need to connect to the instance
+
+213
+00:16:14,640 --> 00:16:15,880
+directly to our computer.
+
+214
+00:16:15,880 --> 00:16:18,640
+And we do not have a log in.
+
+215
+00:16:18,640 --> 00:16:22,440
+Or maybe we are not comfortable with using
+
+216
+00:16:22,440 --> 00:16:24,800
+that console, just one.
+
+217
+00:16:25,720 --> 00:16:29,400
+So for that purpose, what we can do
+
+218
+00:16:33,880 --> 00:16:35,480
+when we launch the instance,
+
+219
+00:16:35,480 --> 00:16:44,040
+it's inside a building right?
+
+220
+00:16:44,040 --> 00:16:44,640
+Okay.
+
+221
+00:16:44,640 --> 00:16:48,360
+So let me draw that instance like this
+
+222
+00:16:48,360 --> 00:16:51,800
+and this building is our data center.
+
+223
+00:16:52,480 --> 00:16:55,320
+So my instance has some
+
+224
+00:16:56,200 --> 00:16:58,880
+IP address, right?
+
+225
+00:16:58,880 --> 00:17:08,000
+It has some IP address assigned to it.
+
+226
+00:17:08,000 --> 00:17:10,200
+Okay. After that,
+
+227
+00:17:11,480 --> 00:17:15,240
+when we were launching the instance,
+do you guys remember that
+
+228
+00:17:15,640 --> 00:17:21,040
+there was something like security
+that we configured?
+
+229
+00:17:21,040 --> 00:17:25,200
+In fact, we said that we will learn them
+later on, but we had
+
+230
+00:17:25,200 --> 00:17:29,520
+we saw something
+like security group over there.
+
+231
+00:17:29,520 --> 00:17:31,560
+We saw that the protocol was
+
+232
+00:17:33,960 --> 00:17:35,760
+what was the protocol mentioned
+
+233
+00:17:35,760 --> 00:17:43,160
+in that security group?
+
+234
+00:17:43,160 --> 00:17:45,640
+It was SSX.
+
+235
+00:17:45,640 --> 00:18:03,560
+Let me show you.
+
+236
+00:18:03,560 --> 00:18:06,160
+Okay.
+
+237
+00:18:06,160 --> 00:18:06,800
+Okay.
+
+238
+00:18:08,880 --> 00:18:12,480
+So protocol is SSL,
+
+239
+00:18:12,880 --> 00:18:20,640
+right?
+
+240
+00:18:20,640 --> 00:18:22,920
+And the port is 22
+
+241
+00:18:31,560 --> 00:18:32,920
+and the IP
+
+242
+00:18:32,920 --> 00:18:36,320
+address is 0.0.0.2.
+
+243
+00:18:37,240 --> 00:18:41,400
+Okay, So what are we actually
+configuring over here?
+
+244
+00:18:42,320 --> 00:18:44,640
+We are considering that
+
+245
+00:18:44,640 --> 00:18:49,360
+if you want to access
+this particular instance
+
+246
+00:18:50,320 --> 00:18:52,520
+on the network,
+
+247
+00:18:52,520 --> 00:18:57,280
+you can access it using the protocol set
+
+248
+00:18:57,760 --> 00:19:00,920
+and this SS protocol is basically based
+
+249
+00:19:00,920 --> 00:19:05,040
+upon DHCP.
+
+250
+00:19:05,040 --> 00:19:09,720
+So what other communication protocols
+have you learned in the course?
+
+251
+00:19:10,080 --> 00:19:11,720
+I'm not learned right.
+
+252
+00:19:11,720 --> 00:19:14,800
+I'll just say that
+you have an introduction
+
+253
+00:19:14,800 --> 00:19:19,200
+to that.
+
+254
+00:19:19,200 --> 00:19:20,480
+Exactly. Very good.
+
+255
+00:19:20,480 --> 00:19:25,800
+You did a
+you have learned a HTP and itbs so essence
+
+256
+00:19:25,800 --> 00:19:29,640
+which is also one of these communication
+protocol that allows you
+
+257
+00:19:29,640 --> 00:19:33,200
+to communicate over the Internet.
+
+258
+00:19:33,840 --> 00:19:35,040
+There are other protocols.
+
+259
+00:19:35,040 --> 00:19:37,840
+Also there are SMP and
+
+260
+00:19:40,680 --> 00:19:42,360
+what we call that
+
+261
+00:19:43,240 --> 00:19:43,680
+script.
+
+262
+00:19:43,680 --> 00:19:49,240
+My brain was very popular.
+
+263
+00:19:49,240 --> 00:19:52,840
+Well, I'll just skip it for now.
+
+264
+00:19:52,840 --> 00:19:54,400
+I forgot the name.
+
+265
+00:19:54,400 --> 00:19:58,600
+It says it's GC or TB or HTTPS or TB.
+
+266
+00:19:59,160 --> 00:20:03,200
+The port is 22
+and we are saying that it can be accessed
+
+267
+00:20:03,200 --> 00:20:06,840
+using any computer, any IP address.
+
+268
+00:20:07,080 --> 00:20:10,320
+Okay. Now the only problem is that
+
+269
+00:20:11,280 --> 00:20:15,360
+in Windows we do not have an SS line,
+
+270
+00:20:16,960 --> 00:20:20,680
+so what is and such a line
+
+271
+00:20:30,240 --> 00:20:33,240
+and such a such is basically putty
+
+272
+00:20:34,080 --> 00:20:36,560
+which allows you to connect
+
+273
+00:20:36,600 --> 00:20:40,600
+to this particular instance over
+
+274
+00:20:40,600 --> 00:20:44,040
+the define SS protocol
+to install the putty.
+
+275
+00:20:44,400 --> 00:20:49,440
+And this putty has the capability
+of establishing such connection.
+
+276
+00:20:49,960 --> 00:20:51,360
+So what are we going to do right now?
+
+277
+00:20:51,360 --> 00:20:54,720
+We are going to mention the IP address
+
+278
+00:20:55,840 --> 00:20:58,680
+of the instance,
+
+279
+00:20:58,680 --> 00:21:02,160
+we are going to mention
+the port of the instance,
+
+280
+00:21:03,360 --> 00:21:05,160
+and then we are going
+
+281
+00:21:05,160 --> 00:21:07,880
+to define the protocol to be set
+
+282
+00:21:08,280 --> 00:21:11,960
+and we are going to see connect
+to this particular instance.
+
+283
+00:21:13,280 --> 00:21:14,720
+Is it clear
+
+284
+00:21:17,440 --> 00:21:23,320
+any questions that you may have?
+
+285
+00:21:23,320 --> 00:21:24,120
+Okay, great.
+
+286
+00:21:24,120 --> 00:21:27,480
+So what I want you to do
+
+287
+00:21:27,480 --> 00:21:31,840
+is open up what the general in your
+
+288
+00:21:32,880 --> 00:21:35,880
+search bar right down to the region
+and press.
+
+289
+00:21:35,880 --> 00:21:43,760
+Enter.
+
+290
+00:21:43,760 --> 00:21:46,440
+This is only for Windows users. Mac users.
+
+291
+00:21:46,440 --> 00:21:49,080
+I gave you the commands. Try them out.
+
+292
+00:21:49,640 --> 00:21:59,680
+Are you able to connect?
+
+293
+00:21:59,680 --> 00:22:00,120
+Okay.
+
+294
+00:22:00,120 --> 00:22:03,440
+Do you have all
+do you have this particular item
+
+295
+00:22:03,720 --> 00:22:07,600
+opened up in front of you?
+
+296
+00:22:07,600 --> 00:22:10,080
+Okay, now click on load
+
+297
+00:22:12,520 --> 00:22:14,520
+and find the key
+
+298
+00:22:15,320 --> 00:22:18,200
+in your downloads
+or wherever you downloaded it.
+
+299
+00:22:18,920 --> 00:22:20,720
+Find that key.
+
+300
+00:22:21,360 --> 00:22:36,840
+Let me see your I downloaded it.
+
+301
+00:22:36,840 --> 00:22:37,120
+Okay.
+
+302
+00:22:37,120 --> 00:22:39,440
+So make sure that you select all files.
+
+303
+00:22:40,840 --> 00:22:42,360
+They share the video.
+
+304
+00:22:42,360 --> 00:22:47,360
+Okay,
+I'll share that with you with you guys.
+
+305
+00:22:47,360 --> 00:22:50,880
+Connect to E to instance,
+
+306
+00:22:51,720 --> 00:23:19,760
+using Mac.
+
+307
+00:23:19,760 --> 00:23:28,680
+I know how much you guys
+need to find your own key.
+
+308
+00:23:28,680 --> 00:23:30,600
+I named it. It s one, two, three.
+
+309
+00:23:30,600 --> 00:23:33,680
+So if you have named this one, two, three,
+that would work.
+
+310
+00:23:33,680 --> 00:23:37,800
+If you have named it differently,
+you will have to find your criticality.
+
+311
+00:23:38,280 --> 00:23:40,880
+So my key. Let's see.
+
+312
+00:23:40,880 --> 00:23:42,360
+Where is my key? It's
+
+313
+00:23:43,360 --> 00:23:51,600
+8.122. VM.
+
+314
+00:23:51,600 --> 00:23:59,520
+Where did that go?
+
+315
+00:23:59,520 --> 00:24:00,560
+Here it is.
+
+316
+00:24:00,560 --> 00:24:03,120
+So I'll just open up this file
+
+317
+00:24:07,000 --> 00:24:08,880
+and once it's there
+
+318
+00:24:08,880 --> 00:24:11,520
+after that I'll click Save
+
+319
+00:24:11,680 --> 00:24:18,920
+Public Key.
+
+320
+00:24:18,920 --> 00:24:21,960
+Eight of us want to B
+
+321
+00:24:22,560 --> 00:24:41,440
+and C, Okay,
+
+322
+00:24:42,440 --> 00:24:48,320
+So are you guys with me up to this step?
+
+323
+00:24:48,320 --> 00:24:50,960
+Anyone who is left behind
+
+324
+00:25:05,640 --> 00:25:06,280
+know your guitar.
+
+325
+00:25:06,280 --> 00:25:07,360
+Do not overwrite it.
+
+326
+00:25:07,360 --> 00:25:15,360
+Save it in a different location
+or with a different name.
+
+327
+00:25:15,360 --> 00:25:18,560
+Okay, so what else Now
+
+328
+00:25:18,560 --> 00:25:22,040
+click on Save Private Key
+
+329
+00:25:22,880 --> 00:25:23,880
+and again
+
+330
+00:25:23,880 --> 00:25:28,440
+I'm going to save the private key on deps
+desktop of the name eight of us.
+
+331
+00:25:28,560 --> 00:25:34,920
+456 and save it.
+
+332
+00:25:34,920 --> 00:25:35,720
+Okay.
+
+333
+00:25:35,760 --> 00:25:39,240
+This time I'll see this
+particular computer with the hat
+
+334
+00:25:39,720 --> 00:25:41,880
+and this particular key
+is going to be there.
+
+335
+00:25:43,200 --> 00:25:48,000
+Let you know if you guys have successfully
+generated this computer key
+
+336
+00:25:50,080 --> 00:25:52,080
+using footage. Jack
+
+337
+00:26:00,520 --> 00:26:01,560
+Okay, what are we doing?
+
+338
+00:26:01,560 --> 00:26:02,520
+Actually?
+
+339
+00:26:02,600 --> 00:26:05,760
+So when we created this instance,
+we got a key.
+
+340
+00:26:07,480 --> 00:26:11,760
+A key basically allows you to connect
+to your instead.
+
+341
+00:26:11,760 --> 00:26:16,360
+It's like one added layer of security
+for your instance.
+
+342
+00:26:16,800 --> 00:26:19,720
+So we downloaded that key
+and what was the extension
+
+343
+00:26:21,040 --> 00:26:22,800
+for that particular key?
+
+344
+00:26:22,800 --> 00:26:24,600
+It was dot
+
+345
+00:26:24,920 --> 00:26:29,400
+pam file, right?
+
+346
+00:26:29,400 --> 00:26:34,040
+Whenever we want to use putty
+to connect to the instance,
+
+347
+00:26:34,640 --> 00:26:37,920
+we cannot use DOT then file rather
+
+348
+00:26:37,920 --> 00:26:41,000
+we have to use dot PPK file.
+
+349
+00:26:42,240 --> 00:26:46,040
+That's just one requirement of the party.
+
+350
+00:26:46,600 --> 00:26:50,720
+So what we will do,
+we will convert our documents file to dot
+
+351
+00:26:50,760 --> 00:26:52,520
+PPK file using putty.
+
+352
+00:26:52,520 --> 00:26:59,040
+Jack.
+
+353
+00:26:59,040 --> 00:27:00,360
+And we just did that.
+
+354
+00:27:00,360 --> 00:27:05,760
+We simply loaded the file, the key, and
+we saved the private E and the public key.
+
+355
+00:27:06,240 --> 00:27:08,720
+So more freely
+you'll be using the private key.
+
+356
+00:27:09,240 --> 00:27:10,920
+Okay. Are we done to this step
+
+357
+00:27:18,800 --> 00:27:19,160
+today?
+
+358
+00:27:19,160 --> 00:27:21,880
+You guys are very, very sleepy.
+
+359
+00:27:21,880 --> 00:27:23,680
+I believe you are tired.
+
+360
+00:27:23,680 --> 00:27:24,440
+Maybe
+
+361
+00:27:27,760 --> 00:27:28,720
+just a small session.
+
+362
+00:27:28,720 --> 00:27:30,720
+Guys. This like
+
+363
+00:27:31,440 --> 00:27:35,080
+only 1.5 hours left.
+
+364
+00:27:35,080 --> 00:27:40,320
+So be interactive, be active.
+
+365
+00:27:40,320 --> 00:27:42,600
+Okay. Okay.
+
+366
+00:27:42,640 --> 00:27:47,560
+Now we have that video in front of us
+and we have an option of
+
+367
+00:27:47,640 --> 00:27:49,680
+giving the hostname our IP address.
+
+368
+00:27:49,680 --> 00:27:53,480
+So again, someone telling me that
+what will go in here, the private
+
+369
+00:27:55,240 --> 00:28:00,840
+IP address are the public one.
+
+370
+00:28:00,840 --> 00:28:01,720
+Yes, exactly.
+
+371
+00:28:01,720 --> 00:28:08,280
+So we'll go and copy our public address.
+
+372
+00:28:08,280 --> 00:28:09,240
+Where is that.
+
+373
+00:28:09,240 --> 00:28:26,040
+Let me see instance running
+and I'll go to my instance.
+
+374
+00:28:26,040 --> 00:28:27,120
+Is this the correct one?
+
+375
+00:28:27,120 --> 00:28:35,920
+Let me make sure.
+
+376
+00:28:35,920 --> 00:28:39,360
+No, this is the first one, so I'll copy
+
+377
+00:28:39,360 --> 00:28:42,120
+my public key IP address.
+
+378
+00:28:42,640 --> 00:28:45,040
+I'll pass it in here.
+
+379
+00:28:45,040 --> 00:28:46,920
+Okay. The port is 22.
+
+380
+00:28:46,920 --> 00:28:48,920
+Connection type is SSL.
+
+381
+00:28:50,400 --> 00:28:52,960
+After this, we only need to have
+
+382
+00:28:52,960 --> 00:28:56,840
+our key added into this body.
+
+383
+00:28:56,840 --> 00:29:00,320
+So how are we going to add
+the double click on the search?
+
+384
+00:29:01,000 --> 00:29:08,320
+And then what?
+
+385
+00:29:08,320 --> 00:29:11,440
+So after clicking on assets and ports,
+
+386
+00:29:11,480 --> 00:29:14,680
+we see that there's a private E file
+for authentication.
+
+387
+00:29:15,920 --> 00:29:18,080
+We'll add the file simply over here.
+
+388
+00:29:18,080 --> 00:29:19,800
+So I'll go to my desktop.
+
+389
+00:29:19,800 --> 00:29:23,760
+I have this file, double click on it
+and the file will be added.
+
+390
+00:29:24,920 --> 00:29:27,000
+Now get go again to my session.
+
+391
+00:29:28,400 --> 00:29:30,960
+So at this point, are you guys with me
+
+392
+00:29:30,960 --> 00:29:34,160
+or do you want me to repeat any step
+
+393
+00:29:39,440 --> 00:29:42,240
+with step with step guys?
+
+394
+00:29:42,240 --> 00:29:45,840
+If you are able to follow,
+you can always ask me to repeat.
+
+395
+00:29:45,840 --> 00:29:46,560
+Okay,
+
+396
+00:29:47,560 --> 00:29:51,080
+so which step do you want me
+to do you want me to repeat
+
+397
+00:29:53,080 --> 00:30:00,040
+all of it?
+
+398
+00:30:00,040 --> 00:30:00,800
+Okay.
+
+399
+00:30:00,800 --> 00:30:06,800
+Even the
+convergence of the key that we did,
+
+400
+00:30:06,840 --> 00:30:09,800
+we want to repeat that to
+
+401
+00:30:27,720 --> 00:30:28,280
+let me know
+
+402
+00:30:28,280 --> 00:30:30,600
+so that I can quickly start on that point.
+
+403
+00:30:31,440 --> 00:30:43,680
+Do you want me to repeat this
+generation also?
+
+404
+00:30:43,680 --> 00:30:47,240
+Okay, so
+
+405
+00:30:48,160 --> 00:30:51,880
+since we are up our putty
+and we are going to place
+
+406
+00:30:51,880 --> 00:30:55,920
+in the configuration
+the hostname or IP address, so
+
+407
+00:30:56,640 --> 00:31:00,680
+the IP address, we can get it
+from the instance that it launched
+
+408
+00:31:00,680 --> 00:31:05,440
+and we can simply copy
+the public IP address that we have.
+
+409
+00:31:05,440 --> 00:31:08,400
+So I'm copying it
+and I'm pasting it over here.
+
+410
+00:31:10,040 --> 00:31:10,600
+Let me know.
+
+411
+00:31:10,600 --> 00:31:13,920
+And once you guys have done this
+
+412
+00:31:15,640 --> 00:31:23,920
+before,
+
+413
+00:31:23,920 --> 00:31:26,480
+okay, now go to set
+
+414
+00:31:27,680 --> 00:31:38,240
+and click on authentication.
+
+415
+00:31:38,240 --> 00:31:45,320
+Now you need to add your key,
+which you converted the private one
+
+416
+00:31:46,360 --> 00:31:46,920
+over here.
+
+417
+00:31:46,920 --> 00:31:50,400
+So simply click on Browse
+
+418
+00:31:50,400 --> 00:31:52,440
+and go to the location where you have
+
+419
+00:31:52,440 --> 00:31:55,560
+this converted key
+with this computer assigned,
+
+420
+00:31:56,720 --> 00:32:05,800
+double click on it
+and go back to sessions.
+
+421
+00:32:05,800 --> 00:32:19,800
+Okay, Till this point,
+are you guys with me?
+
+422
+00:32:19,800 --> 00:32:20,600
+Okay, great.
+
+423
+00:32:20,600 --> 00:32:29,720
+So now let's just click on open.
+
+424
+00:32:29,720 --> 00:32:30,640
+Okay, I'll click.
+
+425
+00:32:30,640 --> 00:32:33,520
+I'm going to accept this.
+
+426
+00:32:33,520 --> 00:32:36,600
+Now it's saying log in as
+
+427
+00:32:36,600 --> 00:32:39,360
+I need to see my username.
+
+428
+00:32:40,800 --> 00:32:42,280
+So where can I get it?
+
+429
+00:32:42,280 --> 00:32:44,960
+I'll simply click on Connect
+
+430
+00:32:47,960 --> 00:32:51,720
+and I'll click on
+
+431
+00:32:53,840 --> 00:32:55,480
+Do instance Connect.
+
+432
+00:32:55,480 --> 00:32:58,080
+So for me, my username is root.
+
+433
+00:32:58,080 --> 00:33:02,120
+You may you may have different it,
+maybe root it, maybe if you do user.
+
+434
+00:33:02,840 --> 00:33:05,840
+So whatever your username is,
+
+435
+00:33:05,880 --> 00:33:18,520
+you need to type that into your property.
+
+436
+00:33:18,520 --> 00:33:18,800
+Okay.
+
+437
+00:33:19,000 --> 00:33:24,000
+Not saying please log in as to user
+and then okay.
+
+438
+00:33:24,680 --> 00:33:26,640
+So you see to that user
+
+439
+00:33:29,160 --> 00:33:35,960
+what happened.
+
+440
+00:33:35,960 --> 00:33:40,680
+Okay, my equity got closed
+and you went off, you was able to connect
+
+441
+00:33:51,000 --> 00:33:51,480
+it. Let's
+
+442
+00:33:51,480 --> 00:34:07,520
+try it again.
+
+443
+00:34:07,520 --> 00:34:11,280
+Okay, so try this again and this time
+
+444
+00:34:11,280 --> 00:34:16,520
+log in as a user.
+
+445
+00:34:16,520 --> 00:34:27,080
+So same steps.
+
+446
+00:34:27,080 --> 00:34:30,440
+So I'll open up the putty
+
+447
+00:34:30,840 --> 00:34:32,560
+outpaced in the IP address.
+
+448
+00:34:32,560 --> 00:34:34,040
+The public one.
+
+449
+00:34:34,040 --> 00:34:37,720
+I'll go to asset and authentication.
+
+450
+00:34:38,320 --> 00:34:38,880
+Oh, here.
+
+451
+00:34:38,880 --> 00:34:43,600
+I'll add the key.
+
+452
+00:34:43,600 --> 00:34:46,120
+Once I have added the key, I'll click on
+
+453
+00:34:47,240 --> 00:34:50,040
+session again and I'll click on open
+
+454
+00:34:52,680 --> 00:34:57,200
+and then I'll see you to that user.
+
+455
+00:34:57,200 --> 00:35:00,200
+Same steps that we did before.
+We need to do again.
+
+456
+00:35:00,200 --> 00:35:04,280
+The only difference is that
+it will take on log in as easy to user
+
+457
+00:35:04,320 --> 00:35:08,760
+instead of this time.
+
+458
+00:35:08,760 --> 00:35:11,880
+Okay, now hassle mohamud Mariam,
+you'll get that.
+
+459
+00:35:11,880 --> 00:35:18,480
+Are you able to connect to it?
+
+460
+00:35:18,480 --> 00:35:18,960
+You'll get that.
+
+461
+00:35:18,960 --> 00:35:22,600
+Is yours connected?
+
+462
+00:35:22,600 --> 00:35:24,040
+Okay Maryam
+
+463
+00:35:26,400 --> 00:35:27,040
+Okay.
+
+464
+00:35:27,040 --> 00:35:36,280
+William You are not falling right?
+
+465
+00:35:36,280 --> 00:35:38,120
+And mammoth and soon.
+
+466
+00:35:38,120 --> 00:35:44,040
+What about you guys?
+
+467
+00:35:44,040 --> 00:35:46,920
+Yeah, I can get that from the way you type
+
+468
+00:35:54,440 --> 00:35:56,520
+because everything is good
+when you are just
+
+469
+00:35:58,040 --> 00:36:02,920
+looking at the stuff, the actual problem.
+
+470
+00:36:02,920 --> 00:36:05,880
+The problem is when you are actually
+trying to implement it.
+
+471
+00:36:06,160 --> 00:36:07,600
+So that's fine.
+
+472
+00:36:07,680 --> 00:36:12,120
+Okay, So now you see that
+we see the same page
+
+473
+00:36:12,120 --> 00:36:14,840
+that we saw when we logged in using
+
+474
+00:36:15,960 --> 00:36:17,280
+Amazon console.
+
+475
+00:36:17,280 --> 00:36:20,640
+But this time you have connected to that
+remote machine that we
+
+476
+00:36:21,720 --> 00:36:25,280
+created using our exercise plan,
+which is pretty.
+
+477
+00:36:25,560 --> 00:36:27,400
+And what about the Mac users?
+
+478
+00:36:27,400 --> 00:36:29,960
+Do you have a
+
+479
+00:36:30,440 --> 00:36:33,120
+you have this kind of connection
+established using the video.
+
+480
+00:36:33,120 --> 00:36:58,600
+That video that I showed.
+
+481
+00:36:58,600 --> 00:36:58,920
+Okay.
+
+482
+00:36:58,920 --> 00:37:02,960
+So if you run the common
+Java Dash version, it's going to show you
+
+483
+00:37:02,960 --> 00:37:08,680
+that this particular system has Joe
+version 1.7.0 underscore
+
+484
+00:37:08,880 --> 00:37:13,960
+six one installed in the machine.
+
+485
+00:37:13,960 --> 00:37:19,120
+And if you want to look at the Docker
+version so you can do Docker dash version,
+
+486
+00:37:20,480 --> 00:37:21,600
+sorry, Docker
+
+487
+00:37:21,600 --> 00:37:24,840
+dash dashboards,
+
+488
+00:37:24,840 --> 00:37:28,560
+it will show you
+that you have a version of it or two
+
+489
+00:37:28,560 --> 00:37:38,640
+or 3.1 installed on this machine.
+
+490
+00:37:38,640 --> 00:37:39,720
+Okay.
+
+491
+00:37:39,720 --> 00:37:43,840
+Unfortunately,
+I don't think I can zoom in for you guys,
+
+492
+00:37:44,400 --> 00:37:48,600
+but what I can do is
+I can pace the command for,
+
+493
+00:37:48,600 --> 00:37:53,320
+okay.
+
+494
+00:37:53,320 --> 00:37:57,760
+And Docker, these are the two commands
+that you are supposed to run.
+
+495
+00:37:59,200 --> 00:38:01,880
+They will just give you the versions
+of the softwares
+
+496
+00:38:01,880 --> 00:38:05,840
+that are installed.
+
+497
+00:38:05,840 --> 00:38:36,480
+Eleanor,
+were you able to connect to the instance?
+
+498
+00:38:36,480 --> 00:38:37,120
+Oh, okay.
+
+499
+00:38:37,120 --> 00:38:38,960
+Go to go to that video.
+
+500
+00:38:38,960 --> 00:38:43,840
+It's going to walk you to. It's
+
+501
+00:38:45,120 --> 00:38:52,640
+not far.
+
+502
+00:38:52,640 --> 00:38:54,360
+You can actually do the same instance.
+
+503
+00:38:54,360 --> 00:39:08,600
+It should be found.
+
+504
+00:39:08,600 --> 00:39:09,800
+Okay, try it again.
+
+505
+00:39:09,800 --> 00:39:11,280
+Some maybe
+
+506
+00:39:11,920 --> 00:39:14,200
+try it again. The same command.
+
+507
+00:39:14,200 --> 00:39:17,240
+If the error resist, then
+
+508
+00:39:17,240 --> 00:39:22,080
+most probably do not have our
+tried dockers.
+
+509
+00:39:22,080 --> 00:39:22,880
+If you have
+
+510
+00:39:23,960 --> 00:39:26,640
+launched the same exact
+
+511
+00:39:26,640 --> 00:39:32,280
+am I then it should be there.
+
+512
+00:39:32,280 --> 00:39:33,840
+Yeah. You'll be taught that.
+
+513
+00:39:33,840 --> 00:39:42,840
+That's correct. Okay
+
+514
+00:39:44,080 --> 00:39:50,440
+So the next thing that I want to guide
+you guys is about
+
+515
+00:39:51,560 --> 00:39:52,480
+security group.
+
+516
+00:39:52,480 --> 00:39:54,360
+So we have already discussed about it.
+
+517
+00:39:54,360 --> 00:39:57,240
+So I'll just briefly go over to it
+once again.
+
+518
+00:39:58,000 --> 00:40:04,480
+Let me see if I have some slides for you.
+
+519
+00:40:04,480 --> 00:40:07,680
+We can discuss them on slides.
+
+520
+00:40:07,680 --> 00:40:18,280
+It would be better.
+
+521
+00:40:18,280 --> 00:40:18,520
+Okay.
+
+522
+00:40:18,520 --> 00:40:24,280
+Can you see the slide?
+
+523
+00:40:24,280 --> 00:40:26,880
+Okay. Now
+
+524
+00:40:26,920 --> 00:40:28,600
+in security,
+
+525
+00:40:28,600 --> 00:40:35,800
+we have two kinds of firewalls.
+
+526
+00:40:35,800 --> 00:40:36,640
+Okay, awesome.
+
+527
+00:40:36,640 --> 00:40:41,160
+So maybe the possibility is that
+you have not connected to the connect.
+
+528
+00:40:42,160 --> 00:40:44,240
+Am I okay?
+
+529
+00:40:44,760 --> 00:40:50,240
+You did not connect to the correct AM on.
+
+530
+00:40:50,240 --> 00:40:52,200
+That's the only possibility.
+
+531
+00:40:52,200 --> 00:40:53,240
+But don't worry about it.
+
+532
+00:40:53,240 --> 00:40:56,480
+Even if this command is not running,
+you know how to connect the
+
+533
+00:40:56,640 --> 00:40:58,200
+to the instance.
+
+534
+00:40:58,200 --> 00:41:00,440
+So you just have connected the wrong one.
+
+535
+00:41:01,000 --> 00:41:02,160
+So it's not a problem.
+
+536
+00:41:02,160 --> 00:41:06,560
+It was just there
+so that you can check the versions.
+
+537
+00:41:06,560 --> 00:41:09,120
+Okay. Talking about security,
+we have two kinds of firewall.
+
+538
+00:41:09,120 --> 00:41:15,480
+One is security group
+and the other is network ACL.
+
+539
+00:41:15,480 --> 00:41:17,240
+Okay? Now
+
+540
+00:41:18,200 --> 00:41:21,320
+in the end of whenever we create
+an instance, we configure
+
+541
+00:41:21,320 --> 00:41:26,400
+our security groups in which
+we have two kinds rules that we mentioned.
+
+542
+00:41:26,400 --> 00:41:28,920
+Number one, inbound rules.
+
+543
+00:41:29,320 --> 00:41:31,840
+Number two, outbound.
+
+544
+00:41:31,840 --> 00:41:34,880
+So what are inbound use?
+
+545
+00:41:34,880 --> 00:41:39,680
+It's very simple,
+just as the name suggests, inbound routes.
+
+546
+00:41:40,080 --> 00:41:44,760
+So whatever traffic,
+whatever data is going to be
+
+547
+00:41:45,120 --> 00:41:47,840
+coming to that particular instance,
+
+548
+00:41:48,960 --> 00:41:53,360
+whatever routes it should follow
+are going to be under the inbound rules.
+
+549
+00:41:53,400 --> 00:41:57,320
+So for example,
+in this particular instance that we have,
+
+550
+00:41:58,240 --> 00:42:01,960
+if I go to the security
+and show you the inbound rules
+
+551
+00:42:02,480 --> 00:42:04,400
+I have that
+
+552
+00:42:06,360 --> 00:42:09,200
+the protocol should be TCP IP and such,
+
+553
+00:42:09,520 --> 00:42:12,240
+let me just make it a little bit big
+
+554
+00:42:15,080 --> 00:42:16,920
+with this, not this instance.
+
+555
+00:42:16,920 --> 00:42:23,840
+I want to go with this.
+
+556
+00:42:23,840 --> 00:42:24,560
+Okay.
+
+557
+00:42:25,040 --> 00:42:28,320
+So in the end I have that the
+
+558
+00:42:30,160 --> 00:42:32,640
+type is SSL protocol, TCP
+
+559
+00:42:33,200 --> 00:42:36,600
+for number trade
+two and the source can be any source.
+
+560
+00:42:37,800 --> 00:42:39,640
+So these are the inbound rules.
+
+561
+00:42:39,640 --> 00:42:43,560
+It means that any traffic
+that needs to be coming to this
+
+562
+00:42:43,560 --> 00:42:48,720
+particular instance
+should be following the SSX protocol.
+
+563
+00:42:48,720 --> 00:42:53,040
+TCB on the poor trade to
+and from this IP address,
+
+564
+00:42:53,360 --> 00:42:57,320
+If I tried to connect using Port 21,
+I would not be able to connect.
+
+565
+00:42:57,400 --> 00:42:59,880
+If I tried to connect
+using any of the protocols
+
+566
+00:42:59,880 --> 00:43:02,760
+rather than said
+I will not be able to connect
+
+567
+00:43:03,080 --> 00:43:06,960
+if I tried to connect from level
+any source, I can't.
+
+568
+00:43:07,720 --> 00:43:12,920
+Okay, let's try to edit them.
+
+569
+00:43:12,920 --> 00:43:17,680
+Let's say I want to give access
+to someone else or another protocol.
+
+570
+00:43:17,680 --> 00:43:22,800
+So what I can simply do is select the kind
+of port of all that I want to allow.
+
+571
+00:43:22,800 --> 00:43:27,000
+So let's say I want to allow HTP
+just for for example.
+
+572
+00:43:27,840 --> 00:43:31,320
+So HTP protocol is also a TCP transport.
+
+573
+00:43:31,320 --> 00:43:33,000
+HTP is going to be Eddie
+
+574
+00:43:34,320 --> 00:43:36,640
+and which
+
+575
+00:43:36,880 --> 00:43:38,880
+IP address do I want to allow?
+
+576
+00:43:38,880 --> 00:43:43,080
+Let's say 192.168.1.1 So this means that
+
+577
+00:43:43,920 --> 00:43:48,480
+only this 192.168.1.1 can connect
+
+578
+00:43:48,600 --> 00:43:52,680
+to this particular instance or HTP.
+
+579
+00:43:52,680 --> 00:44:00,840
+Now that this makes sense,
+the inbound route is is it
+
+580
+00:44:00,880 --> 00:44:08,560
+clear to everyone that what are inbound
+routes?
+
+581
+00:44:08,560 --> 00:44:09,360
+Okay.
+
+582
+00:44:09,360 --> 00:44:12,600
+Similar to inbound routes,
+we have outbound
+
+583
+00:44:12,600 --> 00:44:18,120
+routes.
+
+584
+00:44:18,120 --> 00:44:22,520
+Outbound rules refer to the traffic
+that is going out of the network.
+
+585
+00:44:23,840 --> 00:44:27,040
+So any traffic
+that will be going out of the networks,
+
+586
+00:44:27,040 --> 00:44:30,120
+we are going to see that
+they come under the outbound rules.
+
+587
+00:44:30,640 --> 00:44:32,920
+So for this particular instance,
+
+588
+00:44:33,880 --> 00:44:36,120
+all kind of traffic can go
+
+589
+00:44:36,120 --> 00:44:39,480
+out of the network.
+
+590
+00:44:39,480 --> 00:44:41,600
+They can be on any protocol,
+
+591
+00:44:42,480 --> 00:44:44,880
+they can be on any port,
+
+592
+00:44:45,280 --> 00:44:49,680
+and they can be to any kind of computer
+or IP address.
+
+593
+00:44:49,680 --> 00:44:55,320
+So we have basically no security
+for outbound traffic
+
+594
+00:44:55,320 --> 00:45:00,000
+in this particular instance.
+
+595
+00:45:00,000 --> 00:45:01,640
+No, we will not be adding them.
+
+596
+00:45:01,640 --> 00:45:05,040
+Actually, I'm just giving you the concept
+that what is a security group.
+
+597
+00:45:06,280 --> 00:45:09,720
+So security groups have inbound rules
+and outbound rules.
+
+598
+00:45:09,720 --> 00:45:12,840
+Inbound rules are on the traffic
+that is coming into the system
+
+599
+00:45:12,840 --> 00:45:16,160
+and outbound routes are on the traffic
+that is going out of the system.
+
+600
+00:45:16,520 --> 00:45:18,000
+It totally depends on you.
+
+601
+00:45:18,000 --> 00:45:22,240
+If you want to restrict someone
+or if you do not want to restrict anyone,
+
+602
+00:45:22,240 --> 00:45:26,440
+you want to allow everyone
+to connect to your system.
+
+603
+00:45:26,440 --> 00:45:28,800
+Okay, Is that clear now?
+
+604
+00:45:28,800 --> 00:45:37,200
+Can you move forward
+or do you guys have any question?
+
+605
+00:45:37,200 --> 00:45:38,760
+You'll get our customer.
+
+606
+00:45:38,760 --> 00:45:41,600
+Are we good, Marieme?
+
+607
+00:45:41,600 --> 00:45:46,800
+Are we good? Yes.
+
+608
+00:45:46,800 --> 00:45:49,680
+Okay.
+
+609
+00:45:49,680 --> 00:45:54,120
+Now let me open up the diagram again
+and let me make this kind of
+
+610
+00:45:56,280 --> 00:45:58,920
+so let's say this is our security
+
+611
+00:46:00,840 --> 00:46:03,640
+group. A
+
+612
+00:46:03,720 --> 00:46:07,360
+so in our security group,
+what rules do we have?
+
+613
+00:46:07,440 --> 00:46:09,120
+Quickly Answer Yes.
+
+614
+00:46:09,120 --> 00:46:11,080
+What rules do we
+have in our security group?
+
+615
+00:46:12,600 --> 00:46:15,040
+Inbound and outbound.
+
+616
+00:46:15,040 --> 00:46:16,600
+Right? Perfect.
+
+617
+00:46:16,600 --> 00:46:20,280
+Now let's see.
+
+618
+00:46:20,280 --> 00:46:28,560
+We have two instances.
+
+619
+00:46:28,560 --> 00:46:30,640
+These are the two different instances.
+
+620
+00:46:30,640 --> 00:46:33,760
+What what do what do you guys understand
+when, say,
+
+621
+00:46:33,760 --> 00:46:45,080
+the term instance?
+
+622
+00:46:45,080 --> 00:46:46,400
+Okay,
+
+623
+00:46:47,800 --> 00:46:50,840
+When I say instance, it means,
+
+624
+00:46:52,560 --> 00:46:54,000
+you know, it's not Java, right?
+
+625
+00:46:54,000 --> 00:46:56,280
+We are dealing with cloud.
+
+626
+00:46:56,280 --> 00:46:59,640
+And let me tell you
+that why I was using this term,
+
+627
+00:47:01,360 --> 00:47:04,080
+because if you have read this, etc.,
+
+628
+00:47:04,080 --> 00:47:09,800
+what does it say?
+
+629
+00:47:09,800 --> 00:47:14,360
+It say instance, running right?
+
+630
+00:47:14,360 --> 00:47:17,400
+So what is it referring to?
+
+631
+00:47:17,400 --> 00:47:21,040
+This instance term.
+
+632
+00:47:21,040 --> 00:47:24,080
+It's referring to the computer
+Oracle machine.
+
+633
+00:47:24,520 --> 00:47:25,080
+Oh my God.
+
+634
+00:47:25,080 --> 00:47:28,240
+All this time were you like
+
+635
+00:47:28,240 --> 00:47:32,520
+thinking about the instance
+regarding Java?
+
+636
+00:47:32,520 --> 00:47:34,320
+Why would I mention that?
+
+637
+00:47:34,320 --> 00:47:38,280
+Okay, Mariam, you are smart.
+
+638
+00:47:38,280 --> 00:47:39,720
+Thank you for
+
+639
+00:47:40,520 --> 00:47:42,000
+thank you for understanding.
+
+640
+00:47:42,000 --> 00:47:47,160
+Okay, so if I have a security group
+A can I do this
+
+641
+00:47:47,160 --> 00:47:50,760
+that I add the instance one and instance
+
+642
+00:47:50,760 --> 00:48:02,040
+to board in it? Yes.
+
+643
+00:48:02,080 --> 00:48:06,400
+Now same security rules apply on board the
+
+644
+00:48:07,760 --> 00:48:11,280
+instance.
+
+645
+00:48:11,280 --> 00:48:13,960
+Okay?
+
+646
+00:48:13,960 --> 00:48:16,560
+Now, if they are in the same group,
+
+647
+00:48:17,880 --> 00:48:20,840
+they will be abiding the same rules
+
+648
+00:48:20,840 --> 00:48:26,040
+for inbound and outbound traffic.
+
+649
+00:48:26,040 --> 00:48:28,200
+Now, let me open up the slides again.
+
+650
+00:48:28,480 --> 00:48:48,360
+Okay.
+
+651
+00:48:48,360 --> 00:48:52,800
+I share these documents with you guys
+so you don't need to worry about this.
+
+652
+00:48:52,800 --> 00:49:20,240
+Okay.
+
+653
+00:49:20,240 --> 00:49:23,320
+Apart from security group,
+we have one other thing
+
+654
+00:49:23,320 --> 00:49:26,960
+in our firewall, which is network escort.
+
+655
+00:49:26,960 --> 00:49:29,000
+So I'll briefly go to it.
+
+656
+00:49:29,960 --> 00:49:33,800
+Network ACL is
+
+657
+00:49:34,280 --> 00:49:35,880
+monitoring the traffic
+
+658
+00:49:35,880 --> 00:49:39,080
+that is going out of that subnet.
+
+659
+00:49:39,600 --> 00:49:42,160
+It's basically you can say that
+
+660
+00:49:43,440 --> 00:49:46,320
+it's on the router side from where
+
+661
+00:49:46,320 --> 00:49:50,920
+the traffic is entering
+that particular building, our subnet.
+
+662
+00:49:51,440 --> 00:49:56,520
+It also has some rules and it monitors
+that whether it's following those rules
+
+663
+00:49:56,520 --> 00:50:00,520
+or not in depth of them
+because we do not actually need
+
+664
+00:50:00,520 --> 00:50:04,920
+to configure network ACL,
+we can simply have them by default.
+
+665
+00:50:04,920 --> 00:50:08,680
+The only thing that we are interested in
+is configuring the security.
+
+666
+00:50:08,680 --> 00:50:09,120
+GROSS
+
+667
+00:50:11,840 --> 00:50:12,240
+okay.
+
+668
+00:50:12,240 --> 00:50:21,600
+So after that, what else do we have?
+
+669
+00:50:21,600 --> 00:50:24,840
+I think we have discussed about
+
+670
+00:50:25,960 --> 00:50:27,000
+everything else.
+
+671
+00:50:27,000 --> 00:50:30,240
+And now the last thing
+that I want to discuss with you guys
+
+672
+00:50:30,240 --> 00:50:32,280
+is going to be
+
+673
+00:50:33,320 --> 00:50:34,680
+regarding issue two.
+
+674
+00:50:34,680 --> 00:50:39,520
+Some more details.
+
+675
+00:50:39,520 --> 00:50:41,120
+So how about we do this?
+
+676
+00:50:41,120 --> 00:50:43,880
+We go for a break for
+
+677
+00:50:44,640 --> 00:50:48,320
+10 minutes
+and then we come back and continue
+
+678
+00:50:48,320 --> 00:50:57,000
+with issue two instance.
+
+679
+00:50:57,000 --> 00:51:03,160
+Okay, So 1130 I'll see you guys on 1123.
+
+680
+00:51:03,680 --> 01:01:01,880
+Okay.
+
+681
+01:01:01,880 --> 01:01:06,160
+Okay.
+
+682
+01:01:06,160 --> 01:01:08,000
+He is good.
+
+683
+01:01:08,440 --> 01:01:10,240
+Just taking on a
+
+684
+01:01:17,880 --> 01:01:19,760
+okay, so
+
+685
+01:01:19,760 --> 01:01:21,920
+let's quickly
+
+686
+01:01:22,720 --> 01:01:25,720
+go to the next
+
+687
+01:01:26,040 --> 01:01:28,440
+discussion in the instance
+
+688
+01:01:29,040 --> 01:01:31,640
+and then we will be ending our today
+session.
+
+689
+01:01:31,640 --> 01:01:32,240
+Okay.
+
+690
+01:01:32,640 --> 01:01:37,840
+So just some more time again.
+
+691
+01:01:37,840 --> 01:01:42,320
+And the purpose
+of having this launch, in this instance,
+
+692
+01:01:42,320 --> 01:01:46,080
+I hope that it's clear to all of
+you that if you want to have
+
+693
+01:01:47,040 --> 01:01:48,400
+some infrastructure
+
+694
+01:01:48,400 --> 01:01:51,680
+already installed,
+some applications are already installed,
+
+695
+01:01:51,680 --> 01:01:54,800
+we can easily, you know, in no time
+
+696
+01:01:55,240 --> 01:01:58,120
+use these particular instances to
+
+697
+01:01:59,400 --> 01:02:01,080
+deploy our application over there.
+
+698
+01:02:01,080 --> 01:02:06,280
+So, for example, if a certain application
+needs some kind of resources,
+
+699
+01:02:06,280 --> 01:02:08,920
+we just select BMI and we just simply
+
+700
+01:02:10,120 --> 01:02:11,920
+go over there and deploy our application.
+
+701
+01:02:11,920 --> 01:02:14,560
+One of the example is that
+
+702
+01:02:14,600 --> 01:02:16,480
+when you guys will be learning Docker,
+
+703
+01:02:16,480 --> 01:02:21,880
+you'll see that
+when I tell you to install Docker
+
+704
+01:02:21,880 --> 01:02:26,000
+on the computers, it's
+going to be a very hectic desk.
+
+705
+01:02:26,000 --> 01:02:29,360
+Configuration of dockers on a computer
+takes around
+
+706
+01:02:29,360 --> 01:02:31,640
+one hour to 1.5 hour
+
+707
+01:02:32,400 --> 01:02:34,840
+because there are a lot of settings
+that you need to make.
+
+708
+01:02:34,840 --> 01:02:38,280
+There are a lot of configuration issues
+that you need to resolve.
+
+709
+01:02:39,160 --> 01:02:42,760
+So let's say a person
+who wants to quickly test
+
+710
+01:02:42,760 --> 01:02:45,760
+something on Docker
+deploying application or Docker
+
+711
+01:02:46,520 --> 01:02:49,400
+instead of using his own computer,
+
+712
+01:02:49,440 --> 01:02:53,760
+if he simply use us and use
+
+713
+01:02:54,320 --> 01:02:57,280
+the image that we just launched
+
+714
+01:02:57,280 --> 01:03:01,000
+which had Docker pre-installed,
+he will be able to
+
+715
+01:03:03,080 --> 01:03:03,440
+he will
+
+716
+01:03:03,440 --> 01:03:06,840
+be able to launch his application
+within no time.
+
+717
+01:03:07,200 --> 01:03:09,240
+So that's one of the main feature.
+
+718
+01:03:09,240 --> 01:03:11,640
+The other features that we discussed were
+
+719
+01:03:12,480 --> 01:03:15,840
+more resources
+that we do not have right now.
+
+720
+01:03:15,840 --> 01:03:19,800
+So we saw that
+we have different kinds of options
+
+721
+01:03:19,800 --> 01:03:23,280
+for the RAM, for the hard disk
+or the CPU's
+
+722
+01:03:23,280 --> 01:03:27,400
+available to us.
+
+723
+01:03:27,400 --> 01:03:31,800
+One of the most amazing feature of easy
+two instance is
+
+724
+01:03:32,800 --> 01:03:40,520
+auto scaling.
+
+725
+01:03:40,520 --> 01:03:42,960
+Okay, so what happens in auto skinning?
+
+726
+01:03:44,400 --> 01:03:47,760
+Let's say that you launched an instance
+and by now
+
+727
+01:03:47,760 --> 01:03:51,600
+I believe that you guys understand
+that an instance
+
+728
+01:03:51,600 --> 01:03:56,880
+is an easy to machine.
+
+729
+01:03:56,880 --> 01:03:58,960
+Okay? This particular instance
+
+730
+01:04:00,120 --> 01:04:03,840
+now has some
+
+731
+01:04:03,840 --> 01:04:05,680
+softwares
+
+732
+01:04:05,680 --> 01:04:11,880
+or application running.
+
+733
+01:04:11,880 --> 01:04:17,840
+Let's say you are maybe running
+some test scripts on it.
+
+734
+01:04:17,840 --> 01:04:21,280
+Now tell me, is it possible that you
+
+735
+01:04:21,280 --> 01:04:24,400
+chose a computer which had
+
+736
+01:04:26,040 --> 01:04:27,360
+let's see
+
+737
+01:04:27,360 --> 01:04:29,400
+those CPU's
+
+738
+01:04:31,160 --> 01:04:33,320
+RAM was
+
+739
+01:04:33,920 --> 01:04:36,120
+500 GB
+
+740
+01:04:36,120 --> 01:04:38,400
+So 5500 is way too much.
+
+741
+01:04:39,160 --> 01:04:49,920
+Let's go with AGP.
+
+742
+01:04:49,920 --> 01:04:52,760
+So is it possible that
+when you are running this application,
+
+743
+01:04:52,760 --> 01:04:57,800
+your CPU and RAM are totally consumed
+because of the traffic that you have?
+
+744
+01:04:57,800 --> 01:05:00,360
+Or maybe because of the test cases
+that you are running?
+
+745
+01:05:00,600 --> 01:05:03,600
+The computer is under load.
+
+746
+01:05:03,600 --> 01:05:04,440
+Okay.
+
+747
+01:05:04,760 --> 01:05:08,760
+And your performance can be slow right?
+
+748
+01:05:08,760 --> 01:05:10,760
+It might happen
+that your performance becomes a little
+
+749
+01:05:16,440 --> 01:05:18,080
+this can be a critical scenario.
+
+750
+01:05:18,080 --> 01:05:21,520
+Let's say, for example,
+in the case that you have in a web
+
+751
+01:05:21,520 --> 01:05:23,160
+application
+
+752
+01:05:25,080 --> 01:05:28,440
+that is launched on this instance
+
+753
+01:05:28,640 --> 01:05:32,880
+and what happens in web application,
+it is assessed to APIs, right?
+
+754
+01:05:32,880 --> 01:05:36,000
+So the customers are going to be
+
+755
+01:05:36,000 --> 01:05:39,240
+accessing that website using EC2 instance.
+
+756
+01:05:39,240 --> 01:05:41,000
+Right? It's deployed over here.
+
+757
+01:05:41,000 --> 01:05:51,000
+So they will be using some kind of API
+to connect to it.
+
+758
+01:05:51,000 --> 01:05:56,040
+So if a lot of customers
+are using the website at the same time,
+
+759
+01:05:56,040 --> 01:06:01,440
+is the website going to be slow?
+
+760
+01:06:01,440 --> 01:06:02,760
+Yes, it is going to be slow.
+
+761
+01:06:04,320 --> 01:06:08,400
+So EWR provides
+us with an option of auto scaling.
+
+762
+01:06:08,400 --> 01:06:09,840
+So what happens in order scaling?
+
+763
+01:06:09,840 --> 01:06:12,080
+We do
+
+764
+01:06:12,120 --> 01:06:14,600
+mention some criteria, let's say
+
+765
+01:06:15,960 --> 01:06:17,880
+alarms
+
+766
+01:06:19,800 --> 01:06:25,560
+or criteria.
+
+767
+01:06:25,560 --> 01:06:28,920
+So for example, we set an alarm on CPU
+
+768
+01:06:28,920 --> 01:06:31,240
+that if the CPU percentage
+
+769
+01:06:32,080 --> 01:06:39,080
+is greater than 70%, then do what?
+
+770
+01:06:39,800 --> 01:06:53,160
+Launch another instance.
+
+771
+01:06:53,160 --> 01:06:53,560
+Okay.
+
+772
+01:06:53,560 --> 01:06:57,480
+So we cannot increase the CPU
+at runtime, actually.
+
+773
+01:06:58,000 --> 01:06:58,920
+Okay, awesome.
+
+774
+01:06:58,920 --> 01:07:03,440
+It is not possible
+for us to just add a CPU.
+
+775
+01:07:03,840 --> 01:07:05,960
+It will not happen at runtime
+
+776
+01:07:07,120 --> 01:07:08,560
+when the application is running.
+
+777
+01:07:08,560 --> 01:07:12,120
+We can do this that we stop the server
+and we know
+
+778
+01:07:12,400 --> 01:07:14,880
+build the computer again, this time
+a larger one.
+
+779
+01:07:15,320 --> 01:07:19,840
+But that is not an efficient way
+because the traffic is not consistent.
+
+780
+01:07:19,840 --> 01:07:23,960
+There might be time when in a day
+the fluid is not that much.
+
+781
+01:07:23,960 --> 01:07:24,560
+Right?
+
+782
+01:07:24,840 --> 01:07:28,040
+So we we put an alarm that
+
+783
+01:07:28,040 --> 01:07:32,760
+if our CPU percentage go above 70%,
+just launch another instance.
+
+784
+01:07:32,760 --> 01:07:40,080
+So what will happen?
+
+785
+01:07:40,080 --> 01:07:41,520
+It will create
+
+786
+01:07:42,920 --> 01:07:45,840
+Amazon machine image.
+
+787
+01:07:45,840 --> 01:07:50,040
+For the instance
+that we have already created.
+
+788
+01:07:51,400 --> 01:07:55,200
+This image is going to contain
+
+789
+01:07:57,320 --> 01:08:00,960
+all the information, all the softwares
+application that are running
+
+790
+01:08:00,960 --> 01:08:08,520
+along with the web application
+that we were running.
+
+791
+01:08:08,520 --> 01:08:14,640
+As soon as the CPU percentage
+hit 70% and the alarm goes on, it's
+
+792
+01:08:14,640 --> 01:08:20,240
+going to simply launch
+the exact same instance in parallel
+
+793
+01:08:21,000 --> 01:08:23,520
+and all the softwares
+
+794
+01:08:23,520 --> 01:08:27,000
+and web application
+will also be running on this
+
+795
+01:08:28,040 --> 01:08:36,000
+particular instance.
+
+796
+01:08:36,000 --> 01:08:36,240
+Okay.
+
+797
+01:08:36,240 --> 01:08:38,880
+So now we have two same computers
+
+798
+01:08:39,440 --> 01:08:42,960
+running the same application.
+
+799
+01:08:42,960 --> 01:08:45,560
+So this is what are the scaling?
+
+800
+01:08:45,560 --> 01:08:48,280
+Does. So
+
+801
+01:08:51,240 --> 01:09:01,840
+any questions?
+
+802
+01:09:01,840 --> 01:09:05,880
+Okay.
+
+803
+01:09:05,880 --> 01:09:07,800
+Alarms only order scanning.
+
+804
+01:09:07,800 --> 01:09:09,600
+No alarms are everywhere.
+
+805
+01:09:09,600 --> 01:09:12,120
+In DFW
+you'll see different kind of alarms.
+
+806
+01:09:12,120 --> 01:09:15,440
+You can see set down depending upon needs.
+
+807
+01:09:15,440 --> 01:09:17,240
+So they are also in order scanning.
+
+808
+01:09:17,240 --> 01:09:20,320
+They are also available in other options.
+
+809
+01:09:20,320 --> 01:09:23,360
+Also.
+
+810
+01:09:23,360 --> 01:09:24,760
+No, they are not.
+
+811
+01:09:24,760 --> 01:09:26,960
+I would not call them exceptions.
+
+812
+01:09:27,080 --> 01:09:28,640
+It's just like,
+
+813
+01:09:28,640 --> 01:09:33,000
+yeah, it's just like an alarm that okay,
+this particular criteria has been met.
+
+814
+01:09:34,920 --> 01:09:39,240
+Now the question is that
+
+815
+01:09:39,920 --> 01:09:45,440
+how is the traffic going to be balanced?
+
+816
+01:09:45,800 --> 01:09:48,240
+Because this was under stress, right?
+
+817
+01:09:48,240 --> 01:09:49,800
+This computer was under stress.
+
+818
+01:09:49,800 --> 01:09:55,840
+So how is it going to share its load
+with this one?
+
+819
+01:09:55,840 --> 01:09:57,560
+The second one
+
+820
+01:10:08,760 --> 01:10:10,440
+for that purpose,
+
+821
+01:10:10,440 --> 01:10:13,040
+we have a beautiful feature
+
+822
+01:10:13,800 --> 01:10:17,880
+in issue
+two instance called load balancing.
+
+823
+01:10:17,880 --> 01:10:19,600
+Very good, very good.
+
+824
+01:10:19,600 --> 01:10:20,040
+You are
+
+825
+01:10:21,800 --> 01:10:24,400
+we have a load balancing.
+
+826
+01:10:24,400 --> 01:10:25,360
+Okay.
+
+827
+01:10:25,360 --> 01:10:30,200
+Now this load balancer is connected
+to issue
+
+828
+01:10:30,240 --> 01:10:33,120
+two to and easy to want.
+
+829
+01:10:34,440 --> 01:10:37,560
+Yes, you guys must have learned about it
+
+830
+01:10:37,560 --> 01:10:39,600
+in the API as
+
+831
+01:10:41,400 --> 01:10:43,040
+now let's say
+
+832
+01:10:43,040 --> 01:10:45,480
+hundreds of people
+are accessing the website
+
+833
+01:10:45,520 --> 01:10:50,880
+so it will first go to the load balancer
+and the load balancer
+
+834
+01:10:50,880 --> 01:10:54,320
+is then going to decide
+where to rooted out.
+
+835
+01:10:54,960 --> 01:11:01,280
+And in that way air
+traffic is going to be routed accordingly
+
+836
+01:11:01,680 --> 01:11:07,240
+while setting no response time
+lag on your web application.
+
+837
+01:11:07,240 --> 01:11:10,480
+So you also observe this that nowadays
+
+838
+01:11:12,320 --> 01:11:13,600
+we have
+
+839
+01:11:13,960 --> 01:11:16,520
+websites like Facebook, like Instagram,
+
+840
+01:11:17,600 --> 01:11:20,440
+you know, these are the websites on which
+
+841
+01:11:20,440 --> 01:11:23,640
+there is the most traffic all the time,
+
+842
+01:11:24,440 --> 01:11:27,240
+although they have their own
+separate servers available,
+
+843
+01:11:27,240 --> 01:11:31,040
+but they are also using load balancing
+and are just getting techniques
+
+844
+01:11:31,640 --> 01:11:35,880
+so that no person is facing any less.
+
+845
+01:11:36,640 --> 01:11:37,200
+Okay.
+
+846
+01:11:37,200 --> 01:11:41,520
+One of the most important thing
+that I would like to mention here is that
+
+847
+01:11:42,560 --> 01:11:45,480
+when in a company
+you are using auto scaling,
+
+848
+01:11:46,440 --> 01:11:49,320
+it helps you save a lot of money
+
+849
+01:11:49,320 --> 01:11:52,480
+because as soon as the traffic goes down
+
+850
+01:11:52,960 --> 01:11:57,200
+and your CPU percentage is less than 70,
+
+851
+01:11:57,760 --> 01:12:02,880
+it will shut down the other resource.
+
+852
+01:12:02,880 --> 01:12:06,200
+The other instance that you launched,
+saving you a lot of money
+
+853
+01:12:06,440 --> 01:12:10,880
+and as soon as it goes above 70 again,
+it's going to launch another instance
+
+854
+01:12:11,320 --> 01:12:15,000
+and you all get you can also control
+the number of instances
+
+855
+01:12:15,000 --> 01:12:16,200
+that should be launched.
+
+856
+01:12:16,200 --> 01:12:19,680
+You cannot three, four, five,
+six, ten or whatever.
+
+857
+01:12:19,680 --> 01:12:27,080
+It's your choice.
+
+858
+01:12:27,080 --> 01:12:31,080
+Okay, So the configurations
+are not that complicated,
+
+859
+01:12:31,080 --> 01:12:36,880
+but obviously you will not be doing them
+because it may charges for that.
+
+860
+01:12:37,400 --> 01:12:40,840
+As we are going
+to put some stress on the CPUs,
+
+861
+01:12:40,840 --> 01:12:43,320
+it may start charging us for that.
+
+862
+01:12:43,320 --> 01:12:45,000
+So we will not be doing this.
+
+863
+01:12:45,000 --> 01:12:48,000
+I'll just simply show you the options
+where they are available.
+
+864
+01:12:48,360 --> 01:12:52,800
+So if I go to auto scaling group,
+
+865
+01:12:53,640 --> 01:12:58,360
+I have launch configurations.
+
+866
+01:12:58,360 --> 01:12:58,840
+Okay.
+
+867
+01:12:58,840 --> 01:13:03,000
+So in launch configurations, what we said,
+we said the configuration when
+
+868
+01:13:04,000 --> 01:13:06,240
+the instance needs to be launched
+
+869
+01:13:07,520 --> 01:13:09,720
+so I can name it
+
+870
+01:13:09,720 --> 01:13:10,920
+test launch.
+
+871
+01:13:10,920 --> 01:13:12,360
+You guys should not follow this.
+
+872
+01:13:12,360 --> 01:13:14,440
+Just look upon what I'm doing.
+
+873
+01:13:14,440 --> 01:13:18,920
+I'll just walk to quickly
+the concept source and I gave you
+
+874
+01:13:20,440 --> 01:13:22,000
+earlier in the discussion.
+
+875
+01:13:22,000 --> 01:13:26,040
+I'll just show you that how we need to
+configure when we are using the console.
+
+876
+01:13:26,040 --> 01:13:26,600
+Don't it?
+
+877
+01:13:26,600 --> 01:13:29,640
+Because I will not be doing it completely.
+
+878
+01:13:29,880 --> 01:13:31,880
+Yes, just like you.
+
+879
+01:13:32,080 --> 01:13:33,600
+So it says that.
+
+880
+01:13:33,600 --> 01:13:36,080
+Which image do you want to launch when you
+
+881
+01:13:37,800 --> 01:13:40,400
+when you are actually
+
+882
+01:13:40,400 --> 01:13:40,960
+in need?
+
+883
+01:13:40,960 --> 01:13:45,920
+So I'll click on choosing images.
+
+884
+01:13:45,920 --> 01:13:50,360
+But the thing is that
+I want to launch the exact
+
+885
+01:13:50,360 --> 01:13:52,360
+same one that is already launched, right?
+
+886
+01:13:53,600 --> 01:13:54,920
+The one that we launched earlier.
+
+887
+01:13:54,920 --> 01:13:57,880
+I want to launch the exact
+exact same image
+
+888
+01:13:58,720 --> 01:14:04,960
+is in the scenario.
+
+889
+01:14:04,960 --> 01:14:07,400
+I want that kind of am I right?
+
+890
+01:14:07,400 --> 01:14:09,920
+So for that I will have to create first.
+
+891
+01:14:10,280 --> 01:14:12,960
+And am I?
+
+892
+01:14:12,960 --> 01:14:15,320
+So how can we create an image?
+
+893
+01:14:15,480 --> 01:14:18,320
+Go to your instance and simply
+
+894
+01:14:22,840 --> 01:14:24,840
+right click on it
+
+895
+01:14:25,320 --> 01:14:29,960
+and you'll see an icon or create image.
+
+896
+01:14:29,960 --> 01:14:33,000
+So when I click on Create Image,
+
+897
+01:14:34,960 --> 01:14:36,480
+I'll name it
+
+898
+01:14:36,520 --> 01:14:46,320
+my test image.
+
+899
+01:14:46,320 --> 01:14:49,680
+Okay,
+Now the image for this particular machine,
+
+900
+01:14:49,680 --> 01:14:52,360
+whatever is running on
+this, has been created.
+
+901
+01:14:53,440 --> 01:14:57,480
+I can have a look at that image
+by clicking on images.
+
+902
+01:14:58,400 --> 01:14:59,840
+And there you go.
+
+903
+01:14:59,840 --> 01:15:02,520
+My test images here
+
+904
+01:15:03,280 --> 01:15:04,840
+is this clear
+
+905
+01:15:05,880 --> 01:15:08,880
+that first of all,
+they created the image for that machine
+
+906
+01:15:09,360 --> 01:15:13,920
+which we want to launch
+when the resources are out of bounds.
+
+907
+01:15:14,640 --> 01:15:18,240
+So now let's go to launch configurations
+here.
+
+908
+01:15:18,240 --> 01:15:20,400
+We will configure when to launch.
+
+909
+01:15:20,400 --> 01:15:22,920
+So create launch configurations.
+
+910
+01:15:22,920 --> 01:15:27,880
+The name is going to be test launch.
+
+911
+01:15:27,880 --> 01:15:30,720
+Okay. Now from the images,
+
+912
+01:15:30,720 --> 01:15:34,080
+which image should I be choosing
+
+913
+01:15:38,160 --> 01:15:38,840
+my test?
+
+914
+01:15:38,840 --> 01:15:42,240
+What exactly?
+
+915
+01:15:42,240 --> 01:15:43,960
+Choose the instance type.
+
+916
+01:15:44,920 --> 01:15:46,160
+Okay, now this says that.
+
+917
+01:15:46,160 --> 01:15:50,560
+Okay, which instance
+do you want to go along with
+
+918
+01:15:50,560 --> 01:15:53,160
+if you are now launching another one?
+
+919
+01:15:53,600 --> 01:15:58,440
+So to micro, I hope that's available.
+
+920
+01:15:58,440 --> 01:16:01,160
+No. One t to my cross.
+
+921
+01:16:01,160 --> 01:16:09,240
+I think it's not here.
+
+922
+01:16:09,240 --> 01:16:12,800
+And then to our s
+
+923
+01:16:13,960 --> 01:16:17,880
+t to nano micro is not to it.
+
+924
+01:16:18,240 --> 01:16:21,120
+Okay.
+
+925
+01:16:21,120 --> 01:16:37,720
+Okay.
+
+926
+01:16:37,720 --> 01:16:40,080
+Okay. So no other options
+we need to configure.
+
+927
+01:16:40,080 --> 01:16:44,440
+There are some regarding the security ones
+and the keep here.
+
+928
+01:16:44,440 --> 01:16:48,480
+We are using the existing PPA,
+so let it be.
+
+929
+01:16:48,480 --> 01:16:55,080
+Eight of us wanted to see created
+launch configuration.
+
+930
+01:16:55,080 --> 01:16:58,120
+So launch contributions are there. Now.
+
+931
+01:16:58,120 --> 01:17:01,960
+We will go to our two scaling groups
+
+932
+01:17:04,320 --> 01:17:07,520
+and in our order scaling grows,
+we are going to
+
+933
+01:17:08,520 --> 01:17:12,480
+create one or two scaling group.
+
+934
+01:17:12,480 --> 01:17:14,760
+Okay. So group name is testing
+
+935
+01:17:15,720 --> 01:17:21,960
+the launch.
+
+936
+01:17:21,960 --> 01:17:24,680
+Now it wants to
+
+937
+01:17:25,800 --> 01:17:30,400
+choose a launch template
+that contains the instance level settings
+
+938
+01:17:30,400 --> 01:17:35,160
+such in the Amazon Machine
+image type and security group.
+
+939
+01:17:36,480 --> 01:17:38,680
+Let's see if we have one already.
+
+940
+01:17:38,680 --> 01:17:46,160
+We will have to create a launch template.
+
+941
+01:17:46,160 --> 01:17:48,760
+So let's not name a test template
+
+942
+01:18:01,280 --> 01:18:03,960
+and let other options be by default.
+
+943
+01:18:05,360 --> 01:18:09,680
+No. An image template that will be used.
+
+944
+01:18:10,080 --> 01:18:12,840
+Okay, Miami's
+
+945
+01:18:12,840 --> 01:18:14,160
+my test images there.
+
+946
+01:18:14,160 --> 01:18:16,560
+I can select this one
+
+947
+01:18:16,560 --> 01:18:17,280
+instance.
+
+948
+01:18:17,280 --> 01:18:19,840
+Type p one microgaming
+
+949
+01:18:21,680 --> 01:18:22,640
+network settings.
+
+950
+01:18:22,640 --> 01:18:26,000
+We do not need consideration this right.
+
+951
+01:18:26,000 --> 01:18:26,280
+Okay.
+
+952
+01:18:26,280 --> 01:18:28,320
+Now let's create
+
+953
+01:18:39,320 --> 01:18:42,600
+now let's go to launch groups.
+
+954
+01:18:42,600 --> 01:18:43,880
+Sorry are just going to go.
+
+955
+01:18:43,880 --> 01:18:46,320
+Let's try to make one
+
+956
+01:18:47,720 --> 01:18:50,480
+that's auto
+
+957
+01:18:52,480 --> 01:18:55,800
+test template.
+
+958
+01:18:55,800 --> 01:19:00,160
+Okay this one is good versions
+that should be by default.
+
+959
+01:19:01,160 --> 01:19:05,600
+Next VPC is going to be default
+availability zone.
+
+960
+01:19:05,600 --> 01:19:11,440
+Okay, so now over here,
+I want to mention one more thing.
+
+961
+01:19:11,440 --> 01:19:16,160
+Let's say you want to run your
+application in such a way
+
+962
+01:19:17,480 --> 01:19:18,840
+that you also have
+
+963
+01:19:18,840 --> 01:19:22,680
+redundancy for that.
+
+964
+01:19:22,680 --> 01:19:27,120
+For example,
+what happened at the last case
+
+965
+01:19:27,120 --> 01:19:31,400
+that we discussed
+was regarding the load one right?
+
+966
+01:19:31,400 --> 01:19:33,920
+But what if due to some
+
+967
+01:19:34,920 --> 01:19:37,680
+technical fault or natural disaster,
+
+968
+01:19:38,080 --> 01:19:41,080
+your data center stops working,
+
+969
+01:19:41,360 --> 01:19:50,960
+The whole data center is out of operation.
+
+970
+01:19:50,960 --> 01:19:55,200
+So in such a scenario, do you want
+your application to go on or downtime?
+
+971
+01:19:55,200 --> 01:19:58,440
+It's not available to people
+
+972
+01:20:00,800 --> 01:20:02,200
+that you know,
+
+973
+01:20:02,200 --> 01:20:04,760
+but the problem is
+that the whole data center is out.
+
+974
+01:20:06,520 --> 01:20:08,680
+So in your order scaling
+
+975
+01:20:08,680 --> 01:20:13,920
+group, what you'll do is
+
+976
+01:20:14,280 --> 01:20:17,160
+you will choose this subnet
+
+977
+01:20:18,640 --> 01:20:21,600
+different from the previous one.
+
+978
+01:20:21,600 --> 01:20:26,920
+So your one machine is going to lie
+in one building,
+
+979
+01:20:27,720 --> 01:20:30,240
+whereas the other machine
+is going to be like
+
+980
+01:20:30,240 --> 01:20:36,200
+in another building.
+
+981
+01:20:36,200 --> 01:20:40,880
+So that in a scenario
+where even one data center is not working,
+
+982
+01:20:41,960 --> 01:20:43,000
+the other one is
+
+983
+01:20:43,000 --> 01:20:46,120
+still there to support your application.
+
+984
+01:20:47,080 --> 01:20:51,080
+So over here,
+if I selected the first one to be one
+
+985
+01:20:51,080 --> 01:20:58,800
+B, now I can select one eight.
+
+986
+01:20:58,800 --> 01:21:02,640
+Okay, So now if you want to attach a load
+balancer, you can.
+
+987
+01:21:02,640 --> 01:21:04,080
+If not, then you cannot.
+
+988
+01:21:04,080 --> 01:21:06,840
+For now, you will not be launching that.
+
+989
+01:21:08,280 --> 01:21:10,240
+These are somehow check metrics.
+
+990
+01:21:10,240 --> 01:21:13,440
+It means that checking your instance
+
+991
+01:21:13,440 --> 01:21:16,880
+after every 300 seconds,
+if it's there, is good enough.
+
+992
+01:21:16,880 --> 01:21:20,480
+If not, it's going to automatically launch
+another instance
+
+993
+01:21:20,480 --> 01:21:25,560
+in a separate building.
+
+994
+01:21:25,560 --> 01:21:27,720
+Okay, So now
+
+995
+01:21:28,560 --> 01:21:32,760
+what is the desired capacity?
+
+996
+01:21:32,760 --> 01:21:34,440
+One minimum capacity.
+
+997
+01:21:34,440 --> 01:21:39,360
+One desired capacity, let's say three,
+and the maximum capacity, let's say five.
+
+998
+01:21:39,360 --> 01:21:42,920
+So we are saying that minimum
+there should be one instance,
+
+999
+01:21:42,920 --> 01:21:47,520
+like I desired them to be three
+and maximum can mean a five node.
+
+1000
+01:21:47,520 --> 01:21:48,720
+Not no greater than that.
+
+1001
+01:21:50,320 --> 01:21:51,800
+Now we have an optional
+
+1002
+01:21:51,800 --> 01:21:54,920
+scaling the policy scaling policies.
+
+1003
+01:21:55,680 --> 01:21:58,320
+Okay, now target scaling policy.
+
+1004
+01:21:58,480 --> 01:22:04,000
+You can select on average CPU
+utilization, average network in average
+
+1005
+01:22:04,000 --> 01:22:09,160
+network out our application
+load balancer request convert target.
+
+1006
+01:22:09,160 --> 01:22:12,400
+It means that the number of request
+to load counter is load
+
+1007
+01:22:12,400 --> 01:22:17,880
+balancer is encountering so we can go
+with the utilization target value.
+
+1008
+01:22:17,880 --> 01:22:20,680
+We can set to 70
+
+1009
+01:22:23,880 --> 01:22:27,280
+next.
+
+1010
+01:22:27,280 --> 01:22:35,760
+No notifications
+needed, no tags needed, and simply create
+
+1011
+01:22:35,760 --> 01:22:45,000
+autofill and grow.
+
+1012
+01:22:45,000 --> 01:22:48,000
+Okay, so auto scaling has been launched
+
+1013
+01:22:48,240 --> 01:22:51,520
+and now it will be in action.
+
+1014
+01:22:51,800 --> 01:22:58,440
+Let's see in our easy to instance
+dashboard.
+
+1015
+01:22:58,440 --> 01:23:02,520
+Okay, so do you remember
+I said the desired capacity
+
+1016
+01:23:02,520 --> 01:23:08,320
+to three?
+
+1017
+01:23:08,320 --> 01:23:10,480
+I set the desired capacity to three.
+
+1018
+01:23:10,800 --> 01:23:14,880
+So that's why it just like three
+more instance of the same
+
+1019
+01:23:16,080 --> 01:23:17,400
+exact image.
+
+1020
+01:23:17,400 --> 01:23:20,160
+Because desired capacity means that
+
+1021
+01:23:21,040 --> 01:23:24,840
+this is what you prefer
+in normal conditions.
+
+1022
+01:23:24,840 --> 01:23:28,800
+So now the sad part is
+
+1023
+01:23:29,120 --> 01:23:32,200
+I will not be able to terminate it
+even if I terminate
+
+1024
+01:23:34,040 --> 01:23:38,600
+all of them.
+
+1025
+01:23:38,600 --> 01:23:40,960
+They will be launched automatically again,
+
+1026
+01:23:41,640 --> 01:23:45,800
+because the art of scaling up is going to
+see that, okay, instance is not working.
+
+1027
+01:23:46,240 --> 01:23:50,680
+It's going to check itself and it's
+going to be launching it once again.
+
+1028
+01:23:51,640 --> 01:23:54,280
+So I'll just go and delete
+
+1029
+01:23:54,280 --> 01:23:59,640
+the group.
+
+1030
+01:23:59,640 --> 01:24:25,120
+Any questions regarding order
+scaling and load balancing?
+
+1031
+01:24:25,120 --> 01:24:27,000
+Yeah, I'm
+just going to delete these things
+
+1032
+01:24:27,000 --> 01:24:29,000
+because they are going to charge me if
+
+1033
+01:24:30,120 --> 01:24:30,840
+if they are there.
+
+1034
+01:24:30,840 --> 01:24:38,680
+Okay, So That's why I need to delete them.
+
+1035
+01:24:38,680 --> 01:24:41,760
+I don't know why, but due to some reason,
+
+1036
+01:24:41,760 --> 01:24:46,360
+every month I get charged $1
+by eight of us.
+
+1037
+01:24:46,360 --> 01:24:49,360
+I don't know.
+I have not been using any services,
+
+1038
+01:24:50,720 --> 01:24:52,200
+but it's just $1.
+
+1039
+01:24:52,200 --> 01:24:54,880
+So I'm like, okay, just do it.
+
+1040
+01:24:54,880 --> 01:25:03,960
+I don't care.
+
+1041
+01:25:03,960 --> 01:25:07,160
+Actions delete No
+
+1042
+01:25:08,160 --> 01:25:10,280
+option to delete
+
+1043
+01:25:10,680 --> 01:25:15,200
+instances.
+
+1044
+01:25:15,200 --> 01:25:18,600
+Yeah, well, you are right about this.
+
+1045
+01:25:20,200 --> 01:25:21,800
+A lot of money from the don't care
+
+1046
+01:25:21,800 --> 01:25:27,840
+customers.
+
+1047
+01:25:27,840 --> 01:25:29,200
+I checked my account.
+
+1048
+01:25:29,200 --> 01:25:36,320
+I was I saw nothing
+but nothing was launched.
+
+1049
+01:25:36,320 --> 01:25:38,960
+So I don't know what's the fee for.
+
+1050
+01:25:38,960 --> 01:25:41,000
+Obviously they will have some reasons.
+
+1051
+01:25:41,400 --> 01:25:42,320
+It's a big company.
+
+1052
+01:25:42,320 --> 01:25:45,480
+Amazon They cannot just charge me
+for doing nothing.
+
+1053
+01:25:45,480 --> 01:25:49,640
+Maybe I have some.
+
+1054
+01:25:49,640 --> 01:25:52,080
+Maybe I misread some policy
+I don't know about.
+
+1055
+01:25:52,080 --> 01:25:56,400
+Maybe there is an update, but that's
+the reason they will not be charging.
+
+1056
+01:25:56,400 --> 01:25:57,360
+Without any policy.
+
+1057
+01:25:57,360 --> 01:26:01,360
+You cannot do that actually,
+because one legal case
+
+1058
+01:26:02,520 --> 01:26:04,720
+around them can actually destroy them.
+
+1059
+01:26:06,320 --> 01:26:06,720
+Okay.
+
+1060
+01:26:06,720 --> 01:26:09,840
+So regarding the
+issue, to instance, I think
+
+1061
+01:26:10,960 --> 01:26:14,280
+this much information is sufficient enough
+
+1062
+01:26:15,840 --> 01:26:18,080
+and trust me with that, that we have only
+
+1063
+01:26:19,520 --> 01:26:22,800
+like only 20% of SC doing stats.
+
+1064
+01:26:24,440 --> 01:26:27,920
+There are a lot of other options
+available over here
+
+1065
+01:26:27,920 --> 01:26:32,240
+that we can incorporate
+and start working with them.
+
+1066
+01:26:32,240 --> 01:26:34,800
+They are now as
+
+1067
+01:26:37,720 --> 01:26:38,480
+but it's
+
+1068
+01:26:38,480 --> 01:26:41,520
+impossible
+to actually cover, to be very honest.
+
+1069
+01:26:41,520 --> 01:26:45,520
+I am also not familiar
+with all these options that are out there.
+
+1070
+01:26:46,200 --> 01:26:48,680
+So regarding the cloud, I hope that
+
+1071
+01:26:48,680 --> 01:26:51,480
+now you get an idea of how vast it is
+
+1072
+01:26:52,320 --> 01:26:57,000
+and how much complicated it can be.
+
+1073
+01:26:57,840 --> 01:27:01,480
+So the good thing is that
+
+1074
+01:27:02,600 --> 01:27:04,080
+no one is right
+
+1075
+01:27:04,080 --> 01:27:06,360
+now expert of the whole cloud
+
+1076
+01:27:07,080 --> 01:27:09,600
+and people do not expect from
+
+1077
+01:27:11,880 --> 01:27:15,600
+especially the testers or the developers
+to be an expert in cloud.
+
+1078
+01:27:15,600 --> 01:27:17,720
+If you have the basic information,
+
+1079
+01:27:18,720 --> 01:27:19,800
+you are good to go.
+
+1080
+01:27:19,800 --> 01:27:23,320
+If you understand the terminologies,
+what's a security group person?
+
+1081
+01:27:23,320 --> 01:27:24,200
+I am role.
+
+1082
+01:27:24,200 --> 01:27:26,240
+What's an easy to understand?
+
+1083
+01:27:26,240 --> 01:27:28,240
+How many services are there?
+
+1084
+01:27:28,240 --> 01:27:31,040
+How can you make use of a service?
+
+1085
+01:27:31,600 --> 01:27:33,040
+You are good enough.
+
+1086
+01:27:33,040 --> 01:27:36,840
+So for example,
+if you have to use any of other
+
+1087
+01:27:36,840 --> 01:27:39,960
+services, let's say
+
+1088
+01:27:39,960 --> 01:27:42,040
+there is one service kindness.
+
+1089
+01:27:42,360 --> 01:27:43,800
+Let me show you.
+
+1090
+01:27:43,800 --> 01:27:44,160
+Yeah.
+
+1091
+01:27:44,160 --> 01:27:46,680
+This one kind of says
+
+1092
+01:27:52,320 --> 01:27:53,840
+so if you want to
+
+1093
+01:27:53,840 --> 01:27:57,160
+use let's say
+you do not have any idea about kindness,
+
+1094
+01:27:57,160 --> 01:28:01,560
+is that how and what is the application
+of this particular service?
+
+1095
+01:28:01,920 --> 01:28:04,400
+Just go to guidances.
+
+1096
+01:28:04,400 --> 01:28:08,440
+There you'll see a detailed information
+of how how it works.
+
+1097
+01:28:08,480 --> 01:28:12,480
+Collect and store data streams, collect
+gigabytes of data per second,
+
+1098
+01:28:12,480 --> 01:28:15,960
+and make it available
+for processing and analyzing in real time.
+
+1099
+01:28:15,960 --> 01:28:16,800
+It means that
+
+1100
+01:28:18,160 --> 01:28:20,160
+it's a prebuilt application
+
+1101
+01:28:20,160 --> 01:28:22,560
+that collects the data from a source
+
+1102
+01:28:23,280 --> 01:28:25,640
+and makes it available for processing.
+
+1103
+01:28:26,000 --> 01:28:30,480
+So if you have your computer
+
+1104
+01:28:30,480 --> 01:28:34,080
+in your computer, you are generating
+or you are getting some data
+
+1105
+01:28:34,360 --> 01:28:37,240
+and you want to have some real time
+analysis on it,
+
+1106
+01:28:37,480 --> 01:28:41,840
+you can simply connect that computer
+with the stream
+
+1107
+01:28:42,080 --> 01:28:47,040
+and send the data directly to that stream
+and apply some pre-built analysis
+
+1108
+01:28:47,080 --> 01:28:50,760
+technique or algorithms on that data
+that is available.
+
+1109
+01:28:51,880 --> 01:28:55,160
+Currencies, data
+firehose The bear and load
+
+1110
+01:28:55,160 --> 01:28:58,760
+real time data streams into data tools
+and analytics tools.
+
+1111
+01:28:59,640 --> 01:29:02,600
+Kindness is data
+analytics get actionable insights
+
+1112
+01:29:02,600 --> 01:29:04,880
+from streaming data in real time.
+
+1113
+01:29:04,880 --> 01:29:08,280
+So if you want to create this application,
+you can create live
+
+1114
+01:29:08,400 --> 01:29:10,120
+stream, create a data stream.
+
+1115
+01:29:10,120 --> 01:29:14,280
+You'll get a lot of material
+on the database documentation over here
+
+1116
+01:29:14,520 --> 01:29:16,440
+that will guide you how to do this.
+
+1117
+01:29:16,440 --> 01:29:18,960
+This explain
+the stuff in detail, in depth.
+
+1118
+01:29:19,440 --> 01:29:22,160
+So any service that you want to use,
+any service
+
+1119
+01:29:22,160 --> 01:29:26,120
+that you want to learn about,
+you can simply go to that service, read
+
+1120
+01:29:26,120 --> 01:29:30,480
+the documentation about it,
+and give it a free tier.
+
+1121
+01:29:30,480 --> 01:29:33,600
+Go just play around. It will help you out.
+
+1122
+01:29:34,600 --> 01:29:34,880
+Okay.
+
+1123
+01:29:34,880 --> 01:29:38,800
+Regarding the Dockers, yes,
+I'll be teaching the Docker classes
+
+1124
+01:29:39,000 --> 01:29:42,800
+and they are
+just going to be more of a conceptual,
+
+1125
+01:29:43,920 --> 01:29:47,160
+not much practical
+implementation of Dockers is going to be.
+
+1126
+01:29:47,160 --> 01:29:51,920
+The reason being that Dockers
+is really something
+
+1127
+01:29:52,520 --> 01:29:57,080
+that DevOps use testers,
+even me as a developer, I have
+
+1128
+01:29:57,960 --> 01:30:01,440
+I think only use Dockers twice or twice
+
+1129
+01:30:01,440 --> 01:30:05,680
+and that was when I was working
+in the last company in machine learning
+
+1130
+01:30:06,280 --> 01:30:09,480
+because our team was the one
+who were expected
+
+1131
+01:30:10,320 --> 01:30:12,880
+to not go to any of their team
+
+1132
+01:30:12,880 --> 01:30:15,360
+and be capable
+of doing the work of testers,
+
+1133
+01:30:16,000 --> 01:30:20,120
+doing the work of DevOps,
+doing the work of where like everything
+
+1134
+01:30:20,120 --> 01:30:24,640
+we were supposed to and we were expected
+to be able to do everything.
+
+1135
+01:30:24,640 --> 01:30:28,520
+So that's the reason
+I had to use Dockers over there
+
+1136
+01:30:28,520 --> 01:30:32,760
+rather than that developers and testers,
+they don't usually do to Dockers.
+
+1137
+01:30:32,760 --> 01:30:35,880
+It's a configuration do
+and that is the responsibility
+
+1138
+01:30:35,880 --> 01:30:39,400
+of the DevOps team
+in your company to handle that.
+
+1139
+01:30:40,400 --> 01:30:43,680
+So do one thing,
+
+1140
+01:30:44,520 --> 01:30:47,240
+just make sure that before our next class
+
+1141
+01:30:47,560 --> 01:30:51,480
+you guys have
+the docker installed on your computers.
+
+1142
+01:30:51,480 --> 01:30:52,840
+How to do that?
+
+1143
+01:30:52,840 --> 01:30:55,200
+There are plenty of videos on YouTube.
+
+1144
+01:30:55,200 --> 01:30:57,800
+I'll share or two link.
+
+1145
+01:30:57,800 --> 01:31:01,360
+Try those out,
+Make sure that you have Docker installed
+
+1146
+01:31:01,680 --> 01:31:06,600
+so that we can give it a go together
+and do one thing more.
+
+1147
+01:31:06,600 --> 01:31:11,240
+Before you sign off on this account,
+just make sure you go too easy to
+
+1148
+01:31:11,400 --> 01:31:15,800
+and terminate all your instance
+so that you do not get charged for them.
+
+1149
+01:31:16,720 --> 01:31:20,080
+So I'm going to check it again.
+
+1150
+01:31:20,280 --> 01:31:23,640
+It's still here.
+
+1151
+01:31:23,640 --> 01:31:26,640
+Select and select actions.
+
+1152
+01:31:27,960 --> 01:31:34,360
+Now maybe I have terminated them
+
+1153
+01:31:34,360 --> 01:31:35,680
+one by one
+
+1154
+01:31:43,000 --> 01:31:44,160
+state
+
+1155
+01:31:45,120 --> 01:31:47,040
+and so
+
+1156
+01:31:48,080 --> 01:31:50,040
+yeah, and instant state.
+
+1157
+01:31:50,040 --> 01:31:59,760
+Terminate instance, terminate.
+
+1158
+01:31:59,760 --> 01:32:05,320
+Okay, so auto stealing group, just check
+that not have our testing policy
+
+1159
+01:32:05,320 --> 01:32:09,080
+so the incidents are
+not launched automatically
+
+1160
+01:32:13,680 --> 01:32:15,240
+load balance.
+
+1161
+01:32:15,240 --> 01:32:18,000
+I hope
+that we do not have any of the perfect
+
+1162
+01:32:19,880 --> 01:32:22,520
+rate so apart from that, these are some
+
+1163
+01:32:23,600 --> 01:32:26,200
+notes and slides of whatever we have
+discussed.
+
+1164
+01:32:26,200 --> 01:32:30,400
+I have placed all the information
+in these notes and slides.
+
+1165
+01:32:30,400 --> 01:32:33,040
+There you have
+
+1166
+01:32:33,960 --> 01:32:36,520
+also the steps of our data policy,
+
+1167
+01:32:36,520 --> 01:32:40,960
+how to create an instance
+and stuff like that is there.
+
+1168
+01:32:41,800 --> 01:32:51,120
+So you guys can have access to that.
+
+1169
+01:32:51,120 --> 01:32:55,560
+And there are some slides also.
+
+1170
+01:32:55,560 --> 01:32:57,840
+Do we have them read the help you out?
+
+1171
+01:32:58,680 --> 01:33:01,920
+Okay,
+so officially we are done with the cloud.
+
+1172
+01:33:01,920 --> 01:33:05,200
+I hope that you guys are now much clearer
+
+1173
+01:33:05,200 --> 01:33:08,400
+about the idea that what is a cloud
+
+1174
+01:33:08,400 --> 01:33:14,080
+and you are able to launch an instance,
+connect to it, and if you are able to do
+
+1175
+01:33:14,080 --> 01:33:17,400
+and understand this,
+the goal of the class is complete it.
+
+1176
+01:33:18,360 --> 01:33:20,160
+You have three security groups.
+
+1177
+01:33:20,160 --> 01:33:25,560
+You can share the screenshot.
+
+1178
+01:33:25,560 --> 01:33:28,800
+Should I add them to the canvas
+or can I just share them
+
+1179
+01:33:28,800 --> 01:33:35,280
+in the course announcements?
+
+1180
+01:33:35,280 --> 01:33:39,600
+Thank you, Mariam.
+
+1181
+01:33:39,600 --> 01:33:41,360
+Okay. Canvas.
+
+1182
+01:33:41,360 --> 01:33:44,320
+Sure, I'll add them to canvas under us.
+
+1183
+01:33:46,040 --> 01:33:48,520
+Under the eight of us what we call
+
+1184
+01:33:49,760 --> 01:33:51,440
+it Less folder Other demo.
+
+1185
+01:33:51,440 --> 01:33:54,040
+What do.
+
+1186
+01:33:54,040 --> 01:33:56,400
+Okay, so
+
+1187
+01:33:57,800 --> 01:33:58,680
+that's it for today.
+
+1188
+01:33:58,680 --> 01:34:00,520
+I'll see you guys on Tuesday.
+
+1189
+01:34:00,520 --> 01:34:03,040
+Make sure that you have your dollars
+installed.
+
+1190
+01:34:03,040 --> 01:34:06,720
+I'm not sure about the practical stuff.
+
+1191
+01:34:06,720 --> 01:34:10,320
+I believe that we will not be
+
+1192
+01:34:10,320 --> 01:34:13,200
+working on some real
+
+1193
+01:34:13,200 --> 01:34:14,400
+Docker application.
+
+1194
+01:34:14,400 --> 01:34:17,520
+Rather, we will be discussing the concepts
+in detail of
+
+1195
+01:34:17,520 --> 01:34:20,880
+what is a Docker,
+why do we need them and how to
+
+1196
+01:34:22,080 --> 01:34:24,720
+launch it, how it help us in real life.
+
+1197
+01:34:24,880 --> 01:34:27,240
+We'll be discussing stuff.
+
+1198
+01:34:27,760 --> 01:34:31,720
+So but just in case,
+have Dockers installed on your computer
+
+1199
+01:34:31,720 --> 01:34:34,880
+so that you are familiar
+with the interface and
+
+1200
+01:34:34,880 --> 01:34:38,280
+how does it look and how you can actually
+
+1201
+01:34:39,360 --> 01:34:41,600
+launch Docker containers on that?
+
+1202
+01:34:41,600 --> 01:34:42,680
+This is what we will be doing.
+
+1203
+01:34:42,680 --> 01:34:47,400
+You will be launching Docker containers,
+so have them start out
+
+1204
+01:34:47,480 --> 01:34:53,840
+and lead those groups
+keepers, volumes, instances.
+
+1205
+01:34:53,840 --> 01:34:56,480
+No, you'll get I don't think there is
+
+1206
+01:35:06,120 --> 01:35:06,560
+binary.
+
+1207
+01:35:06,560 --> 01:35:10,280
+You have some.
+
+1208
+01:35:10,320 --> 01:35:14,280
+Sure that you'll be to see
+if you can turn off like this.
+
+1209
+01:35:14,280 --> 01:35:15,560
+If not
+
+1210
+01:35:16,320 --> 01:35:18,680
+security group is just a configuration.
+
+1211
+01:35:18,680 --> 01:35:21,480
+Do not need to worry about it.
+There is a lot we charge you.
+
+1212
+01:35:21,480 --> 01:35:22,240
+Anything for that?
+
+1213
+01:35:22,240 --> 01:35:28,680
+Okay.
+
+1214
+01:35:28,680 --> 01:35:31,040
+Okay guys, take care.
+
+1215
+01:35:31,560 --> 01:35:34,000
+See you again.

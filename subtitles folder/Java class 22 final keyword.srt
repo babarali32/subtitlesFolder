@@ -1,0 +1,8481 @@
+﻿1
+00:00:06,720 --> 00:00:09,840
+When I
+start teaching, I start to feel good.
+
+2
+00:00:11,320 --> 00:00:13,200
+Hello. Hello.
+
+3
+00:00:13,200 --> 00:00:15,800
+So today's class number 22.
+
+4
+00:00:15,800 --> 00:00:19,560
+And from the next week,
+your selenium classes are starting
+
+5
+00:00:19,800 --> 00:00:21,800
+and I think Moslem is Moslem.
+
+6
+00:00:21,800 --> 00:00:26,000
+We will be teaching the Selenium classes.
+
+7
+00:00:26,000 --> 00:00:27,720
+So are you guys ready for that?
+
+8
+00:00:27,720 --> 00:00:33,400
+Yes, we are recording.
+
+9
+00:00:33,400 --> 00:00:35,040
+What's up?
+
+10
+00:00:35,040 --> 00:00:37,960
+Sorry I'm late.
+
+11
+00:00:37,960 --> 00:00:39,960
+Meeting specialized. I only have just.
+
+12
+00:00:40,160 --> 00:00:42,080
+We just started.
+
+13
+00:00:42,560 --> 00:00:46,600
+Hello.
+
+14
+00:00:46,600 --> 00:00:48,440
+Ask Country two.
+
+15
+00:00:48,440 --> 00:00:50,640
+What happened to you? Nothing.
+
+16
+00:00:51,200 --> 00:00:53,800
+I don't know, I.
+
+17
+00:00:53,800 --> 00:00:55,880
+I heard some.
+
+18
+00:00:56,040 --> 00:00:58,080
+I think it's because of the orange juice.
+
+19
+00:00:58,080 --> 00:01:00,520
+I have some orange juice
+
+20
+00:01:02,000 --> 00:01:04,280
+and some burgers before the class.
+
+21
+00:01:04,920 --> 00:01:10,240
+They don't take his jello pills. Oh,
+
+22
+00:01:11,520 --> 00:01:17,480
+okay.
+
+23
+00:01:17,480 --> 00:01:19,200
+Or in, guys.
+
+24
+00:01:19,200 --> 00:01:22,360
+So let's discuss your favorite topic
+one more time
+
+25
+00:01:23,360 --> 00:01:25,840
+as a revision, as a recap,
+
+26
+00:01:25,840 --> 00:01:28,400
+and then I hope you guys will feel better.
+
+27
+00:01:28,400 --> 00:01:30,120
+If not, we will do
+
+28
+00:01:30,120 --> 00:01:35,080
+more examples today about the polymorphism
+and I hope it will make some sense.
+
+29
+00:01:35,680 --> 00:01:41,280
+So we went through the overloading
+and overriding part already, right?
+
+30
+00:01:41,280 --> 00:01:44,440
+We realized we had all the nodes as well.
+
+31
+00:01:44,440 --> 00:01:47,200
+I was not not gonna interpret that.
+
+32
+00:01:47,200 --> 00:01:49,480
+You are also sick like so here
+
+33
+00:01:51,440 --> 00:01:52,840
+so far this year.
+
+34
+00:01:52,840 --> 00:01:55,800
+The quota is done for me to be sick
+
+35
+00:01:56,240 --> 00:01:59,960
+and I hope all the rest of the year
+I will be fine.
+
+36
+00:02:00,440 --> 00:02:03,920
+Yes, you may be at me at most,
+maybe one day.
+
+37
+00:02:04,200 --> 00:02:08,080
+So where do you guys
+
+38
+00:02:10,040 --> 00:02:12,240
+what is dengue fever?
+
+39
+00:02:12,240 --> 00:02:14,520
+Is dengue fever, not mango fever.
+
+40
+00:02:14,760 --> 00:02:18,440
+It's a kind of virus in in Asia
+and Sri Lanka.
+
+41
+00:02:19,160 --> 00:02:20,680
+Pakistan. It's common.
+
+42
+00:02:20,680 --> 00:02:25,480
+Yes, India,
+Nepal, Bhutan, in this this area.
+
+43
+00:02:25,480 --> 00:02:27,200
+So, yes, yes.
+
+44
+00:02:27,200 --> 00:02:29,960
+It's spreading through mosquitoes.
+
+45
+00:02:29,960 --> 00:02:32,880
+And it happened last year as well.
+
+46
+00:02:32,880 --> 00:02:36,840
+But the government there responded
+very well to it.
+
+47
+00:02:36,960 --> 00:02:41,240
+But now we have the government
+of Imran Khan.
+
+48
+00:02:41,240 --> 00:02:44,200
+So there and then
+
+49
+00:02:44,480 --> 00:02:46,560
+they're not special efforts this time.
+
+50
+00:02:47,800 --> 00:02:50,880
+Are you see, it's
+kind of like the symptoms
+
+51
+00:02:50,920 --> 00:03:00,360
+are nearly close to malaria.
+
+52
+00:03:00,360 --> 00:03:04,920
+So after that overriding
+thing is we discuss for how
+
+53
+00:03:06,000 --> 00:03:09,800
+we can cost the objects as well.
+
+54
+00:03:09,800 --> 00:03:10,080
+Right?
+
+55
+00:03:10,080 --> 00:03:13,080
+So there was a casting that we discussed
+
+56
+00:03:13,080 --> 00:03:15,640
+when we were
+discussing the primitive types.
+
+57
+00:03:16,440 --> 00:03:19,040
+So if you guys are trying
+
+58
+00:03:19,040 --> 00:03:22,920
+to compare this
+casting to the primitive casting, it's
+
+59
+00:03:22,920 --> 00:03:27,240
+a little different
+because now methods are involved.
+
+60
+00:03:27,240 --> 00:03:30,520
+Now we have the properties as well.
+
+61
+00:03:30,520 --> 00:03:32,920
+Now we have the
+
+62
+00:03:33,160 --> 00:03:35,720
+parent child relationship
+
+63
+00:03:35,720 --> 00:03:36,760
+that's going on.
+
+64
+00:03:36,760 --> 00:03:39,240
+You I was sorry, I was,
+
+65
+00:03:40,720 --> 00:03:45,160
+but I am not enough.
+
+66
+00:03:45,160 --> 00:03:48,320
+So that casting thing, guys,
+
+67
+00:03:48,320 --> 00:03:52,520
+if I am trying to cast a parent
+
+68
+00:03:52,520 --> 00:03:55,960
+object, okay, A parent object
+
+69
+00:03:56,520 --> 00:03:59,800
+to a child object,
+can I do that in objects?
+
+70
+00:03:59,800 --> 00:04:05,280
+Can I cast a parent class to a child
+class?
+
+71
+00:04:05,280 --> 00:04:08,880
+So, for example, let's say
+
+72
+00:04:09,600 --> 00:04:26,200
+I have.
+
+73
+00:04:26,200 --> 00:04:28,080
+So let's take an example, okay?
+
+74
+00:04:28,080 --> 00:04:29,760
+And mother is ready for the example
+
+75
+00:04:36,400 --> 00:04:38,280
+left to someone else this time.
+
+76
+00:04:38,280 --> 00:04:38,760
+What is ready?
+
+77
+00:04:38,760 --> 00:04:39,720
+Who has
+
+78
+00:04:40,920 --> 00:04:44,080
+one or two brothers maybe
+
+79
+00:04:44,080 --> 00:04:46,720
+who have a
+
+80
+00:04:46,720 --> 00:04:48,280
+different one?
+
+81
+00:04:48,280 --> 00:04:51,000
+Borrow?
+
+82
+00:04:51,000 --> 00:04:53,040
+Okay, so I sure you are ready.
+
+83
+00:04:53,520 --> 00:04:58,560
+So let's make your further class.
+
+84
+00:04:58,560 --> 00:05:01,360
+And what is always ready is to ask again.
+
+85
+00:05:02,320 --> 00:05:05,760
+So it's just to give you an idea that
+what a
+
+86
+00:05:05,760 --> 00:05:14,080
+how how the casting worked in Java.
+
+87
+00:05:14,080 --> 00:05:18,920
+So let's say we have this parent class
+then brother, he is not interested
+
+88
+00:05:18,920 --> 00:05:22,120
+only vice role me Mohammad
+
+89
+00:05:25,120 --> 00:05:26,080
+the let's say
+
+90
+00:05:26,080 --> 00:05:33,320
+we have a string filled.
+
+91
+00:05:33,320 --> 00:05:37,680
+Yeah brother is not interesting.
+
+92
+00:05:37,680 --> 00:05:42,800
+We have this name field
+and then there is this constructor
+
+93
+00:05:43,440 --> 00:05:48,600
+through which I should initialize
+the spirit field because constructors,
+
+94
+00:05:48,680 --> 00:05:51,320
+the only purpose the constructors exist
+
+95
+00:05:52,320 --> 00:05:55,640
+is to initialize the instance fields
+
+96
+00:05:55,840 --> 00:05:58,800
+and even the expected fields of a class.
+
+97
+00:05:59,040 --> 00:06:01,840
+So this is the whole purpose
+of constructor.
+
+98
+00:06:01,840 --> 00:06:05,000
+So whenever we have to initialize
+a field of a class,
+
+99
+00:06:05,640 --> 00:06:13,680
+we should always write a constructor. So
+
+100
+00:06:15,840 --> 00:06:18,440
+school nurse initialize
+
+101
+00:06:21,480 --> 00:06:23,800
+and this field for the constructor.
+
+102
+00:06:24,560 --> 00:06:29,040
+So this dot name is equal to name.
+
+103
+00:06:29,680 --> 00:06:33,000
+So anyways,
+tell me why I am using this dog name.
+
+104
+00:06:33,440 --> 00:06:44,360
+Well, why can't I do
+this name is equal to name? No.
+
+105
+00:06:45,720 --> 00:06:46,680
+Why? Why?
+
+106
+00:06:46,680 --> 00:06:49,560
+Why? I need this keyword guys.
+
+107
+00:06:49,560 --> 00:06:50,160
+What is this?
+
+108
+00:06:50,160 --> 00:06:53,240
+This keyword is going in here
+
+109
+00:06:54,160 --> 00:06:58,360
+not repeating to differentiate
+
+110
+00:07:02,000 --> 00:07:04,640
+I to the instance will be able
+
+111
+00:07:06,560 --> 00:07:10,520
+to be confused
+or you need another name. Yes.
+
+112
+00:07:10,520 --> 00:07:14,120
+So if I am writing this
+
+113
+00:07:15,160 --> 00:07:17,240
+line of word, what I am
+
+114
+00:07:17,920 --> 00:07:20,600
+technically saying, I am saying
+
+115
+00:07:21,320 --> 00:07:23,920
+get b value from this name field
+
+116
+00:07:23,920 --> 00:07:28,440
+and store it again back to the name field.
+
+117
+00:07:28,520 --> 00:07:31,720
+Okay, so whatever value is coming
+
+118
+00:07:31,720 --> 00:07:35,160
+through this constructor
+inside this name field,
+
+119
+00:07:35,760 --> 00:07:39,600
+I am picking that name field
+and I am assigning it back to the same
+
+120
+00:07:39,600 --> 00:07:44,280
+variable, same local variable,
+which means I will never be
+
+121
+00:07:44,560 --> 00:07:49,920
+using this name field,
+which is an instance field of this class.
+
+122
+00:07:49,920 --> 00:07:51,640
+Okay, so this will never work.
+
+123
+00:07:51,640 --> 00:07:55,840
+This the value will never get extra
+inside this name field.
+
+124
+00:07:56,160 --> 00:08:00,080
+So if I want to use the instance spheres,
+
+125
+00:08:00,480 --> 00:08:03,560
+I need to write this keyword.
+
+126
+00:08:03,960 --> 00:08:07,040
+This refers to the current class object.
+
+127
+00:08:07,040 --> 00:08:07,680
+You can do it,
+
+128
+00:08:07,680 --> 00:08:11,600
+but it does not change instances variable
+if you don't use this here.
+
+129
+00:08:11,640 --> 00:08:15,200
+Yes, you guys are right.
+
+130
+00:08:15,200 --> 00:08:24,120
+So let's say
+there are two behaviors in here.
+
+131
+00:08:24,120 --> 00:08:25,600
+Okay, so
+
+132
+00:08:27,640 --> 00:08:28,200
+who is ready
+
+133
+00:08:28,200 --> 00:08:36,280
+for the example?
+
+134
+00:08:36,280 --> 00:08:41,720
+Having some siblings, Sheriff is Steve.
+
+135
+00:08:42,160 --> 00:08:44,520
+How many are your father like to sleep?
+
+136
+00:08:44,520 --> 00:08:46,320
+I am now.
+
+137
+00:08:46,320 --> 00:08:51,560
+How many are your father like to sleep?
+
+138
+00:08:51,560 --> 00:08:52,800
+8 hours.
+
+139
+00:08:53,920 --> 00:08:57,320
+I like to sleep.
+
+140
+00:08:58,080 --> 00:08:59,640
+It out.
+
+141
+00:08:59,640 --> 00:09:02,760
+Okay.
+
+142
+00:09:02,760 --> 00:09:05,920
+And then ward it.
+
+143
+00:09:06,360 --> 00:09:09,320
+And what does he like to eat?
+
+144
+00:09:09,320 --> 00:09:18,560
+Six or 7 hours.
+
+145
+00:09:18,560 --> 00:09:22,280
+Reggie? Everything.
+
+146
+00:09:22,280 --> 00:09:26,240
+Eric's a selfish.
+
+147
+00:09:26,240 --> 00:09:26,840
+Okay,
+
+148
+00:09:29,600 --> 00:09:31,840
+so we have this parent class now,
+
+149
+00:09:32,440 --> 00:09:38,160
+even in our real life
+and in Java, as well.
+
+150
+00:09:38,160 --> 00:09:42,760
+What happens is that from the parent
+class, the things they are.
+
+151
+00:09:43,280 --> 00:09:43,800
+Hello, guys.
+
+152
+00:09:43,800 --> 00:09:44,840
+I'm sorry I'm late.
+
+153
+00:09:44,840 --> 00:09:47,600
+Did I miss anything else?
+
+154
+00:09:47,600 --> 00:09:50,960
+So what happens
+is that we inherit something.
+
+155
+00:09:51,160 --> 00:09:54,880
+So our children, they inherit
+
+156
+00:09:55,040 --> 00:10:00,320
+the properties,
+the behaviors of the parents.
+
+157
+00:10:00,720 --> 00:10:03,480
+But it does not happen in the reverse
+order.
+
+158
+00:10:03,480 --> 00:10:03,960
+Right?
+
+159
+00:10:03,960 --> 00:10:07,200
+The parents,
+they don't inherit anything from children.
+
+160
+00:10:07,200 --> 00:10:10,640
+So it's a one way relationship. So
+
+161
+00:10:11,760 --> 00:10:14,760
+and it
+
+162
+00:10:14,760 --> 00:10:17,440
+it acts like same in the Java as well.
+
+163
+00:10:17,440 --> 00:10:21,160
+So let's say, for example
+
+164
+00:10:21,520 --> 00:10:25,240
+and now if I have a
+
+165
+00:10:25,440 --> 00:10:40,080
+child class, so what I can do,
+
+166
+00:10:40,520 --> 00:10:43,760
+I can inherit from this father class
+
+167
+00:10:48,360 --> 00:10:52,440
+and as soon as I do, I get pissed at it.
+
+168
+00:10:52,800 --> 00:10:58,320
+There is no default constructor
+available in Father.
+
+169
+00:10:58,440 --> 00:10:59,840
+What does this mean?
+
+170
+00:10:59,840 --> 00:11:14,560
+Guys?
+
+171
+00:11:14,560 --> 00:11:19,240
+You need father
+and then parentheses Constructor
+
+172
+00:11:20,320 --> 00:11:23,240
+need for constructing father
+
+173
+00:11:23,800 --> 00:11:26,640
+we can inherit only default constructor
+
+174
+00:11:28,960 --> 00:11:31,800
+job or cannot create
+a default constructor.
+
+175
+00:11:32,040 --> 00:11:33,720
+How can I resolve this issue?
+
+176
+00:11:33,720 --> 00:11:36,480
+So one way is to provide a
+
+177
+00:11:36,960 --> 00:11:39,440
+no argument constructor
+
+178
+00:11:39,880 --> 00:11:43,200
+inside the father class,
+but I want to use this field.
+
+179
+00:11:43,320 --> 00:11:48,440
+So what should be my approach
+if I want to use this name field in here?
+
+180
+00:11:48,440 --> 00:11:50,640
+Should I create
+a default constructor in here
+
+181
+00:11:50,640 --> 00:12:05,520
+or should I create
+some kind of constructors in this class?
+
+182
+00:12:05,520 --> 00:12:11,840
+We need a constructor to initialize
+be variables because if child classes
+
+183
+00:12:12,840 --> 00:12:15,240
+they are planning to use
+
+184
+00:12:15,240 --> 00:12:19,000
+the fields or masters
+from the parent class.
+
+185
+00:12:19,800 --> 00:12:23,200
+They must create a matching constructor
+
+186
+00:12:24,000 --> 00:12:27,000
+and then they should
+initialize those fields.
+
+187
+00:12:27,000 --> 00:12:30,320
+So for example,
+I should do and I should do this.
+
+188
+00:12:30,760 --> 00:12:35,560
+I should say, Son, because I have a field
+inside the parent class
+
+189
+00:12:36,600 --> 00:12:45,680
+that I must initialize.
+
+190
+00:12:45,680 --> 00:12:48,240
+I say a super.
+
+191
+00:12:48,240 --> 00:12:51,600
+And then I was listening
+and you guys tell me,
+
+192
+00:12:51,600 --> 00:13:00,760
+what is this super doing in here?
+
+193
+00:13:00,760 --> 00:13:02,360
+Yes, Constructors.
+
+194
+00:13:02,360 --> 00:13:06,760
+They don't participate in inheritance,
+but we can use
+
+195
+00:13:08,040 --> 00:13:10,520
+a mechanism in Jala through
+
+196
+00:13:10,520 --> 00:13:14,240
+which we can call the constructor
+
+197
+00:13:14,600 --> 00:13:17,640
+of the parent class,
+
+198
+00:13:17,680 --> 00:13:22,160
+and that mechanism is super
+with these parentheses.
+
+199
+00:13:22,440 --> 00:13:25,720
+So when I super end these parentheses,
+
+200
+00:13:26,240 --> 00:13:29,280
+whenever the object of this sunglass
+
+201
+00:13:29,280 --> 00:13:32,520
+will be created, it will fall.
+
+202
+00:13:32,600 --> 00:13:35,160
+This son construct.
+
+203
+00:13:35,160 --> 00:13:39,320
+And inside this some constructor
+I am calling the constructor
+
+204
+00:13:39,920 --> 00:13:44,360
+of the parent class
+that we in this field will be initialize
+
+205
+00:13:46,360 --> 00:13:50,200
+whether I am creating an object of child
+
+206
+00:13:50,720 --> 00:13:55,280
+or if I am creating an object
+of dependent or directly.
+
+207
+00:13:55,720 --> 00:13:59,120
+So now I am always sure that
+
+208
+00:13:59,120 --> 00:14:04,160
+no matter if there is a child class object
+or there is a parent,
+
+209
+00:14:04,160 --> 00:14:07,920
+a class object, I am always
+initializing this to name field.
+
+210
+00:14:08,360 --> 00:14:10,880
+Now what can happen is that
+
+211
+00:14:12,440 --> 00:14:13,560
+my methods
+
+212
+00:14:13,560 --> 00:14:16,200
+inside the parent class, they might be
+
+213
+00:14:17,520 --> 00:14:21,480
+using this name field right now.
+
+214
+00:14:21,480 --> 00:14:25,360
+And if I am also planning to use
+
+215
+00:14:26,400 --> 00:14:28,680
+these methods from the parent class
+
+216
+00:14:28,800 --> 00:14:32,320
+because they will automatically
+be inherited in the child class.
+
+217
+00:14:32,560 --> 00:14:33,240
+All right.
+
+218
+00:14:33,400 --> 00:14:38,440
+So I should always initialize this field
+because these methods, they are also using
+
+219
+00:14:38,440 --> 00:14:43,640
+this field field and they are now
+part of this fun class as well.
+
+220
+00:14:45,000 --> 00:14:48,680
+So when I am using
+something from my parent class,
+
+221
+00:14:48,680 --> 00:14:54,480
+I should always make sure that I am
+initializing those things as well.
+
+222
+00:14:55,960 --> 00:14:58,040
+Is this super following the
+
+223
+00:14:58,120 --> 00:15:02,760
+father constructor or is it calling
+the superstring name variable?
+
+224
+00:15:03,560 --> 00:15:05,960
+It is calling the father
+constructor moment,
+
+225
+00:15:07,720 --> 00:15:10,640
+so I will do even that code as well
+so that you guys can see
+
+226
+00:15:10,640 --> 00:15:15,120
+the flow of information.
+
+227
+00:15:15,120 --> 00:15:20,640
+And now with the help of polymorphism
+and with the help of overriding
+
+228
+00:15:21,280 --> 00:15:24,440
+what I can do, let's say following sample,
+
+229
+00:15:24,440 --> 00:15:28,240
+I have a slightly different behavior,
+right?
+
+230
+00:15:28,480 --> 00:15:30,840
+So let's say
+Shareef has a slightly different behavior.
+
+231
+00:15:31,080 --> 00:15:35,400
+So me how much you would like to sleep.
+
+232
+00:15:35,400 --> 00:15:39,040
+So let's say Shareef liked to sleep
+maybe 10 hours.
+
+233
+00:15:39,120 --> 00:15:42,360
+Right now it's a different behavior
+
+234
+00:15:45,760 --> 00:15:48,000
+from his father, right?
+
+235
+00:15:48,000 --> 00:15:50,640
+So with the help of overriding,
+
+236
+00:15:51,600 --> 00:15:56,040
+I don't have to come up
+with a different name for this method
+
+237
+00:15:56,400 --> 00:16:00,960
+because essentially Shareef
+is doing the exact same thing, right?
+
+238
+00:16:01,560 --> 00:16:04,440
+The the Shareef is doing
+the exact same thing.
+
+239
+00:16:04,680 --> 00:16:08,400
+So with the help of overwriting,
+instead of coming up
+
+240
+00:16:08,400 --> 00:16:12,200
+with a different name,
+maybe a sleep one or something
+
+241
+00:16:12,240 --> 00:16:15,600
+officially or something like that,
+and creating the confusion,
+
+242
+00:16:16,080 --> 00:16:20,360
+what I can do,
+I can define the exact same name
+
+243
+00:16:20,360 --> 00:16:22,920
+method in the child class
+
+244
+00:16:23,360 --> 00:16:28,320
+and I can customize that method
+according to me.
+
+245
+00:16:28,440 --> 00:16:29,080
+Right.
+
+246
+00:16:29,680 --> 00:16:42,360
+And sorry, what do you like to eat?
+
+247
+00:16:42,360 --> 00:16:45,480
+Kabob. You guys are all fan of kabob.
+
+248
+00:16:45,960 --> 00:16:48,600
+I'm starting from turkey to Afghanistan.
+
+249
+00:16:48,600 --> 00:16:54,760
+Everyone likes kabob, so
+
+250
+00:17:03,040 --> 00:17:04,360
+in Libya and
+
+251
+00:17:05,160 --> 00:17:06,560
+even in Ukraine.
+
+252
+00:17:06,560 --> 00:17:13,040
+So you guys also have the same name.
+
+253
+00:17:13,040 --> 00:17:13,800
+What about you?
+
+254
+00:17:13,800 --> 00:17:17,600
+I also like kabob, biryani,
+chicken, mutton,
+
+255
+00:17:18,120 --> 00:17:20,800
+almost everything
+
+256
+00:17:21,280 --> 00:17:24,880
+you can arise.
+
+257
+00:17:24,880 --> 00:17:27,680
+There are hardly a few things
+that I don't like.
+
+258
+00:17:28,080 --> 00:17:32,080
+Vegetables, fish, mutton, chicken,
+
+259
+00:17:32,520 --> 00:17:36,800
+everything I eat, everything.
+
+260
+00:17:36,800 --> 00:17:38,880
+All word, loves, kabob, Anybody, any
+
+261
+00:17:40,000 --> 00:17:42,240
+of us. Quarter Pounder.
+
+262
+00:17:42,440 --> 00:17:44,400
+My mom is making beef biryani now.
+
+263
+00:17:44,400 --> 00:17:48,320
+Almighty God,
+
+264
+00:17:48,320 --> 00:17:53,080
+you guys are still making your moms
+and dads dares to cook for you.
+
+265
+00:17:53,680 --> 00:17:55,880
+Okay. Okay.
+
+266
+00:17:56,000 --> 00:17:58,200
+So what is happening in here?
+
+267
+00:18:00,000 --> 00:18:03,720
+I am using something from my parent
+
+268
+00:18:03,920 --> 00:18:06,160
+in this example, the name string.
+
+269
+00:18:07,000 --> 00:18:07,840
+Okay.
+
+270
+00:18:07,960 --> 00:18:12,000
+If I have the same behavior
+
+271
+00:18:13,280 --> 00:18:15,600
+I can inherited directly,
+
+272
+00:18:15,800 --> 00:18:19,320
+if I don't like that behavior,
+I can change it.
+
+273
+00:18:19,320 --> 00:18:22,400
+I can override it in my child class.
+
+274
+00:18:22,400 --> 00:18:25,040
+Okay, so this is the power of
+
+275
+00:18:29,440 --> 00:18:57,560
+overriding.
+
+276
+00:18:57,560 --> 00:18:58,880
+Let's parent under class.
+
+277
+00:18:58,880 --> 00:19:00,840
+No, there is another class.
+
+278
+00:19:00,840 --> 00:19:03,600
+And inside this class,
+
+279
+00:19:03,600 --> 00:19:06,720
+this class is more,
+let's say maybe 50%, same
+
+280
+00:19:07,800 --> 00:19:10,480
+as in the parent
+
+281
+00:19:10,480 --> 00:19:45,840
+class.
+
+282
+00:19:45,840 --> 00:20:04,920
+Well, I'm getting analogous.
+
+283
+00:20:04,920 --> 00:20:11,360
+So even if I try to initialize
+this name field,
+
+284
+00:20:11,360 --> 00:20:15,840
+which is coming from Father,
+I still get an error.
+
+285
+00:20:16,400 --> 00:20:17,160
+Okay.
+
+286
+00:20:17,160 --> 00:20:20,680
+And I am getting an editor
+because they're always saying their task
+
+287
+00:20:20,680 --> 00:20:25,400
+that this is not the proper way
+of initializing this field, this name,
+
+288
+00:20:25,400 --> 00:20:26,520
+not field.
+
+289
+00:20:26,520 --> 00:20:31,080
+You are trying to initialize
+this fear of this sunglass.
+
+290
+00:20:31,080 --> 00:20:35,000
+Okay, so if you want to initialize
+the parent field,
+
+291
+00:20:35,000 --> 00:20:38,760
+you must focus.
+
+292
+00:20:38,760 --> 00:20:40,800
+You must say
+
+293
+00:20:44,080 --> 00:20:45,240
+super name
+
+294
+00:20:45,240 --> 00:20:47,680
+because remember guys inheritance.
+
+295
+00:20:48,200 --> 00:20:51,160
+What inheritance is doing
+
+296
+00:20:51,160 --> 00:20:54,240
+is kind of copying
+
+297
+00:20:54,960 --> 00:20:56,680
+is kind of copying
+
+298
+00:20:56,680 --> 00:21:01,080
+all the code except constructive
+
+299
+00:21:02,000 --> 00:21:05,040
+and private fields are methods
+
+300
+00:21:05,640 --> 00:21:10,960
+inside this child class and this keyword.
+
+301
+00:21:11,320 --> 00:21:15,720
+It always refers
+to the members of this current class.
+
+302
+00:21:15,720 --> 00:21:16,360
+It never
+
+303
+00:21:17,600 --> 00:21:18,480
+it can never
+
+304
+00:21:18,480 --> 00:21:22,560
+refer to the name field of the father
+class.
+
+305
+00:21:22,560 --> 00:21:23,320
+Okay.
+
+306
+00:21:23,400 --> 00:21:29,480
+So if we are planning to use
+these methods are filled from the parent,
+
+307
+00:21:30,040 --> 00:21:32,760
+you must initialize them
+through the super,
+
+308
+00:21:33,000 --> 00:21:36,000
+not using the this keyword
+or any other method.
+
+309
+00:21:36,000 --> 00:21:40,680
+Okay.
+
+310
+00:21:40,680 --> 00:21:44,680
+So this is for child
+class and super is for father.
+
+311
+00:21:44,800 --> 00:21:50,040
+Father class? Yes.
+
+312
+00:21:50,040 --> 00:21:53,960
+Let's say
+there is this another son of this father
+
+313
+00:21:54,160 --> 00:21:58,360
+and he he like he likes to sleep indoors,
+
+314
+00:21:59,400 --> 00:22:02,520
+but he likes to eat fish.
+
+315
+00:22:02,520 --> 00:22:03,120
+Okay.
+
+316
+00:22:03,120 --> 00:22:05,640
+And the rest of the things they are same.
+
+317
+00:22:05,640 --> 00:22:11,400
+So now we will try to.
+
+318
+00:22:11,400 --> 00:22:12,480
+Maybe I can do this.
+
+319
+00:22:12,480 --> 00:22:17,880
+Guys, if you guys are comfortable,
+maybe I can copy
+
+320
+00:22:18,360 --> 00:22:21,640
+both the classes inside this same class
+
+321
+00:22:25,880 --> 00:22:28,920
+so that you guys, it's easy for you to
+
+322
+00:22:32,720 --> 00:22:35,720
+read these classes because there is
+
+323
+00:22:36,880 --> 00:22:38,920
+nothing much that is going on
+
+324
+00:22:40,600 --> 00:22:44,040
+inside these classes.
+
+325
+00:22:44,040 --> 00:22:46,600
+So let me put it in here.
+
+326
+00:22:46,920 --> 00:22:50,440
+And guys,
+don't try to change the code on your own.
+
+327
+00:22:50,440 --> 00:22:53,160
+Let me send this code.
+
+328
+00:22:53,280 --> 00:22:54,800
+So keep this package in.
+
+329
+00:22:54,800 --> 00:23:00,040
+This package might be different for you.
+
+330
+00:23:00,040 --> 00:23:02,160
+And let me show you the rest of the code
+
+331
+00:23:10,040 --> 00:23:11,720
+who are getting any issues.
+
+332
+00:23:11,720 --> 00:23:14,280
+You guys can use the code from here.
+
+333
+00:23:14,280 --> 00:23:16,200
+Let me know once you guys are done.
+
+334
+00:23:16,200 --> 00:23:19,240
+But in the real world,
+it should be in a different file estimate.
+
+335
+00:23:19,360 --> 00:23:21,720
+Yes, you are right
+
+336
+00:23:51,960 --> 00:23:52,520
+at work.
+
+337
+00:23:52,520 --> 00:23:56,280
+We will also call you to copy
+paste your code.
+
+338
+00:23:56,280 --> 00:23:59,560
+Yet 90% of the time
+you guys will be copying
+
+339
+00:23:59,560 --> 00:24:03,240
+and pasting the code from the internet
+
+340
+00:24:03,280 --> 00:24:03,720
+because
+
+341
+00:24:05,600 --> 00:24:06,400
+there is a high
+
+342
+00:24:06,400 --> 00:24:10,920
+probability that the problems
+that you guys will be facing,
+
+343
+00:24:10,920 --> 00:24:12,640
+the solutions that you guys
+
+344
+00:24:12,640 --> 00:24:16,200
+will be looking for,
+they are already solved by someone else.
+
+345
+00:24:16,800 --> 00:24:19,760
+So you just need to be good
+at sucking skins
+
+346
+00:24:21,120 --> 00:24:23,600
+and then integrating the code
+from different sources.
+
+347
+00:24:24,800 --> 00:24:27,840
+So that's why these concepts are
+
+348
+00:24:27,840 --> 00:24:31,560
+important for you, because on the internet
+
+349
+00:24:31,560 --> 00:24:35,920
+you guys will find the examples
+of using all of these concepts.
+
+350
+00:24:36,920 --> 00:24:39,800
+And if you don't understand
+how that piece of code is working,
+
+351
+00:24:40,080 --> 00:24:44,360
+you will never be able to integrate
+and writing all the code from scratch.
+
+352
+00:24:44,360 --> 00:24:59,880
+It will take huge amounts of time.
+
+353
+00:24:59,880 --> 00:25:03,960
+This need to learn how to make 10 minutes
+of ruling and 30 minutes of modification
+
+354
+00:25:03,960 --> 00:25:06,320
+seems like 6 hours. But yep,
+
+355
+00:25:07,480 --> 00:25:08,480
+I mean, literally if
+
+356
+00:25:08,480 --> 00:25:14,280
+you are if you observe a developer
+or a automation engineer
+
+357
+00:25:14,600 --> 00:25:17,280
+who are doing their job,
+you guys will find that
+
+358
+00:25:17,640 --> 00:25:21,360
+there will be 200 tabs
+open on their laptops.
+
+359
+00:25:21,960 --> 00:25:24,360
+And essentially what they all they, they,
+
+360
+00:25:24,800 --> 00:25:28,280
+what they do, they just copy and paste
+and then integrate.
+
+361
+00:25:28,680 --> 00:25:31,160
+It is all the errors that they get.
+
+362
+00:25:31,160 --> 00:25:32,720
+Fix the issue with the subject.
+
+363
+00:25:32,720 --> 00:25:35,720
+Again, check if it is working fine or not.
+
+364
+00:25:35,720 --> 00:25:38,440
+So troubleshooting,
+searching and integrating the code,
+
+365
+00:25:38,800 --> 00:25:42,400
+it's it's rare that you guys
+will be writing the complete classes
+
+366
+00:25:42,400 --> 00:26:00,760
+and all the code and everything.
+
+367
+00:26:00,760 --> 00:26:08,280
+So now let's try to understand
+disgusting guys.
+
+368
+00:26:08,280 --> 00:26:10,560
+So you guys understand
+
+369
+00:26:11,840 --> 00:26:16,680
+this part
+very well that so if you guys understand
+
+370
+00:26:16,680 --> 00:26:19,840
+this concept, the casting will be
+will be super easy for you.
+
+371
+00:26:21,160 --> 00:26:23,000
+This parent guys,
+
+372
+00:26:23,000 --> 00:26:25,240
+everything that this parent has
+
+373
+00:26:27,240 --> 00:26:29,480
+that is available to this child
+
+374
+00:26:30,200 --> 00:26:33,440
+and this child right.
+
+375
+00:26:33,440 --> 00:26:42,000
+And initial the screenshot.
+
+376
+00:26:42,000 --> 00:26:42,720
+Nice.
+
+377
+00:26:42,720 --> 00:26:44,880
+Everything that this parent has
+
+378
+00:26:46,880 --> 00:26:48,880
+is is available
+
+379
+00:26:48,880 --> 00:26:51,200
+with the help of this external keyword
+
+380
+00:26:52,720 --> 00:26:54,360
+to these child classes.
+
+381
+00:26:54,360 --> 00:26:58,080
+That's why when we try to store
+
+382
+00:27:05,800 --> 00:27:06,520
+their slime
+
+383
+00:27:06,520 --> 00:27:08,720
+and we try to store a sun
+
+384
+00:27:12,400 --> 00:27:17,680
+inside the parent class,
+
+385
+00:27:17,680 --> 00:27:20,280
+we don't get any at us.
+
+386
+00:27:21,360 --> 00:27:23,720
+You have to father classes.
+
+387
+00:27:23,720 --> 00:27:25,520
+Okay, just give me an
+
+388
+00:27:36,360 --> 00:27:38,400
+so that's why when
+
+389
+00:27:38,400 --> 00:27:44,200
+whenever I try to store the object
+from a giant class
+
+390
+00:27:44,200 --> 00:27:47,560
+inside the variable of the parent type,
+
+391
+00:27:47,880 --> 00:27:51,480
+I can easily do that because this father.
+
+392
+00:27:51,480 --> 00:27:55,120
+So whatever the son is inheriting
+from this father, father
+
+393
+00:27:55,400 --> 00:27:59,800
+already have those properties
+and those behaviors work.
+
+394
+00:27:59,800 --> 00:28:02,400
+Is it true father, son guys?
+
+395
+00:28:02,400 --> 00:28:03,800
+Is it true father son?
+
+396
+00:28:05,040 --> 00:28:07,840
+So if I say a son is equal to
+
+397
+00:28:08,640 --> 00:28:10,840
+father,
+
+398
+00:28:10,840 --> 00:28:21,840
+New, No, it's wrong.
+
+399
+00:28:21,840 --> 00:28:24,120
+It's a one way thing, right?
+
+400
+00:28:24,600 --> 00:28:27,160
+So one weird thing because inheritance
+
+401
+00:28:27,160 --> 00:28:30,000
+happens from parent class
+
+402
+00:28:30,360 --> 00:28:34,120
+to this child class, not from the child
+class to the parent a class.
+
+403
+00:28:34,120 --> 00:28:36,840
+So this son, the son,
+
+404
+00:28:37,280 --> 00:28:41,000
+it might be having something different.
+
+405
+00:28:41,280 --> 00:28:43,560
+And that's why we cannot store
+
+406
+00:28:44,720 --> 00:28:46,040
+that information.
+
+407
+00:28:46,040 --> 00:28:49,480
+So let's say, for example,
+this son has something additional.
+
+408
+00:28:49,480 --> 00:28:52,840
+Maybe Ward play
+
+409
+00:28:54,960 --> 00:28:57,560
+video games.
+
+410
+00:28:57,920 --> 00:29:04,440
+Yeah,
+
+411
+00:29:04,440 --> 00:29:08,280
+I can play
+
+412
+00:29:08,400 --> 00:29:09,360
+video games.
+
+413
+00:29:09,360 --> 00:29:11,760
+Okay.
+
+414
+00:29:11,760 --> 00:29:16,440
+So what happens
+is that when we say the son
+
+415
+00:29:16,760 --> 00:29:23,560
+inside the memory, inside the memory
+
+416
+00:29:25,360 --> 00:29:27,960
+media, inside the memory,
+because we are extending.
+
+417
+00:29:27,960 --> 00:29:31,840
+So there will be a name field in here.
+
+418
+00:29:31,840 --> 00:29:34,720
+So a memory
+location of our name will be reserved
+
+419
+00:29:35,680 --> 00:29:36,000
+then.
+
+420
+00:29:36,000 --> 00:29:38,440
+And remember, location of our sleep
+will be reserved
+
+421
+00:29:39,480 --> 00:29:42,000
+for it will be reserved
+
+422
+00:29:42,000 --> 00:29:44,960
+for play, video games will be okay.
+
+423
+00:29:45,520 --> 00:29:48,120
+And when we are saying the new father job,
+
+424
+00:29:48,160 --> 00:29:52,520
+I will try to fit these things
+from the father class.
+
+425
+00:29:52,520 --> 00:29:55,920
+So it will successfully
+it will be able to create this name,
+
+426
+00:29:57,080 --> 00:29:59,200
+it will be able to create this sleep.
+
+427
+00:29:59,840 --> 00:30:02,040
+But now Angela does not know.
+
+428
+00:30:03,720 --> 00:30:05,680
+So because it's a one way relationship,
+
+429
+00:30:05,680 --> 00:30:07,320
+does not know
+
+430
+00:30:12,200 --> 00:30:14,440
+about the sleep method
+
+431
+00:30:14,440 --> 00:30:16,840
+that exist inside the father class.
+
+432
+00:30:17,040 --> 00:30:18,040
+Okay.
+
+433
+00:30:18,040 --> 00:30:20,560
+But because we are extending
+so it's possible
+
+434
+00:30:21,440 --> 00:30:24,440
+inside the child class
+
+435
+00:30:24,840 --> 00:30:28,760
+because we all
+we inherit everything from the parents.
+
+436
+00:30:28,760 --> 00:30:32,040
+So this class has the information
+
+437
+00:30:32,040 --> 00:30:35,040
+about this matters
+and then we override these methods.
+
+438
+00:30:35,040 --> 00:30:37,080
+So what happens is that
+
+439
+00:30:39,360 --> 00:30:43,200
+in Java they have defined the inheritance
+
+440
+00:30:44,400 --> 00:30:45,920
+and the casting like this.
+
+441
+00:30:45,920 --> 00:30:48,480
+So right now, if I out of my mouth
+
+442
+00:30:49,480 --> 00:30:52,000
+it says required son provided father.
+
+443
+00:30:52,000 --> 00:30:54,240
+But if I try to store this son class
+
+444
+00:30:54,680 --> 00:30:58,280
+inside the father class,
+I don't get any errors.
+
+445
+00:30:58,560 --> 00:31:00,600
+Okay. Now
+
+446
+00:31:02,320 --> 00:31:04,720
+what is also possible
+
+447
+00:31:04,720 --> 00:31:09,200
+So this is not possible
+that we can directly store
+
+448
+00:31:09,680 --> 00:31:12,240
+an object of father class
+
+449
+00:31:13,160 --> 00:31:17,320
+inside a variable All son class.
+
+450
+00:31:17,640 --> 00:31:19,680
+But what is possible is this.
+
+451
+00:31:20,320 --> 00:31:24,720
+So I have initially stored this Shareef
+
+452
+00:31:25,680 --> 00:31:28,920
+inside a box off type father.
+
+453
+00:31:30,040 --> 00:31:32,520
+And if I want to get back
+
+454
+00:31:35,040 --> 00:31:44,720
+this Shareef,
+
+455
+00:31:44,720 --> 00:31:48,360
+I can get it back with the help of casting
+
+456
+00:31:48,360 --> 00:31:52,440
+so I can see son
+
+457
+00:31:54,640 --> 00:31:57,040
+and then son.
+
+458
+00:31:57,360 --> 00:31:57,720
+Yeah.
+
+459
+00:31:58,200 --> 00:32:01,640
+So it's a capitalist.
+
+460
+00:32:01,640 --> 00:32:04,800
+So now in, in this example,
+what I am doing.
+
+461
+00:32:05,000 --> 00:32:07,920
+So let's, let's assume I have a box,
+
+462
+00:32:09,520 --> 00:32:10,200
+okay?
+
+463
+00:32:10,200 --> 00:32:14,560
+And this box is a special box.
+
+464
+00:32:14,560 --> 00:32:15,200
+Okay?
+
+465
+00:32:15,200 --> 00:32:17,760
+Although the type of this box is farther
+
+466
+00:32:19,640 --> 00:32:20,320
+to people.
+
+467
+00:32:20,440 --> 00:32:23,760
+So these classes,
+they are also called types.
+
+468
+00:32:24,920 --> 00:32:26,720
+So this father type.
+
+469
+00:32:26,720 --> 00:32:30,600
+So I put Shareef inside this box,
+and this box is designed
+
+470
+00:32:30,600 --> 00:32:33,040
+in Java
+in such a way that it can hold this one.
+
+471
+00:32:33,920 --> 00:32:37,080
+So I put this on in here and later
+
+472
+00:32:37,080 --> 00:32:40,480
+on, on this line
+
+473
+00:32:40,920 --> 00:32:44,720
+I am asking Java to give this son back.
+
+474
+00:32:44,880 --> 00:32:47,200
+So now I have a different box.
+
+475
+00:32:48,080 --> 00:32:50,920
+This box is of type son.
+
+476
+00:32:52,320 --> 00:32:52,560
+Okay?
+
+477
+00:32:52,560 --> 00:32:56,320
+So these variables, they are they are
+treated as like boxes, memory, location.
+
+478
+00:32:56,320 --> 00:32:59,200
+So this, this is the son box.
+
+479
+00:32:59,640 --> 00:33:04,640
+And what I am saying,
+I am saying that this box please
+
+480
+00:33:04,640 --> 00:33:09,000
+give this son back from this box
+and try to fit it inside in here.
+
+481
+00:33:09,320 --> 00:33:11,280
+So I will not be getting any issues
+
+482
+00:33:11,280 --> 00:33:15,080
+because initially this box
+was big enough to hold the son.
+
+483
+00:33:15,320 --> 00:33:19,240
+And the only thing that I am doing on
+this line is I am getting back this son
+
+484
+00:33:19,240 --> 00:33:20,840
+from this box. From this box. So
+
+485
+00:33:22,080 --> 00:33:24,200
+storing the object
+
+486
+00:33:24,200 --> 00:33:29,920
+of one type in inside
+another type is only possible
+
+487
+00:33:29,920 --> 00:33:36,000
+if we are storing it inside
+a father class, inside a parent class.
+
+488
+00:33:36,000 --> 00:33:40,840
+Okay, Only this is possible.
+
+489
+00:33:41,680 --> 00:33:45,400
+And if we have this scenario,
+then we can do this thing.
+
+490
+00:33:45,400 --> 00:33:47,480
+Otherwise we cannot.
+
+491
+00:33:47,480 --> 00:33:48,520
+Otherwise we cannot.
+
+492
+00:33:48,520 --> 00:33:50,680
+We will be getting in it
+
+493
+00:33:50,800 --> 00:33:53,720
+now. And I know this, guys.
+
+494
+00:33:53,720 --> 00:33:57,120
+I have this son class in here
+and then I have another class
+
+495
+00:33:57,120 --> 00:34:00,480
+which is a son to now
+the son to use a different class.
+
+496
+00:34:00,480 --> 00:34:00,840
+Right.
+
+497
+00:34:00,840 --> 00:34:03,480
+It might be having hundred
+different methods in here.
+
+498
+00:34:04,160 --> 00:34:07,840
+Can I say this that in Italy
+I put the son in here,
+
+499
+00:34:07,840 --> 00:34:11,600
+but on this line I get back the son to
+
+500
+00:34:18,520 --> 00:34:18,840
+know.
+
+501
+00:34:18,840 --> 00:34:19,560
+Right?
+
+502
+00:34:19,560 --> 00:34:25,920
+And even if I try to do that,
+and then if I try to do that,
+
+503
+00:34:25,920 --> 00:34:31,640
+then I will be executing my code.
+
+504
+00:34:31,640 --> 00:34:34,400
+I will be getting this class cost
+exception.
+
+505
+00:34:34,440 --> 00:34:37,000
+Silver dollar is trying to do
+why you don't have it.
+
+506
+00:34:37,120 --> 00:34:38,880
+How will you get it
+
+507
+00:34:39,880 --> 00:34:41,440
+when you don't have it?
+
+508
+00:34:41,440 --> 00:34:42,720
+How? Yes.
+
+509
+00:34:42,720 --> 00:34:45,480
+So initially I had son, right?
+
+510
+00:34:45,720 --> 00:34:48,960
+And now I am trying this a son.
+
+511
+00:34:48,960 --> 00:34:52,440
+I am trying this son to convert it to in.
+
+512
+00:34:52,920 --> 00:34:53,280
+Okay.
+
+513
+00:34:53,480 --> 00:34:56,120
+And then I'm trying to store it
+inside this object.
+
+514
+00:34:56,120 --> 00:34:59,600
+So there is nothing wrong
+with this part of the core in
+
+515
+00:34:59,880 --> 00:35:03,600
+I am just declaring a variable often
+to I'm giving it a name Sharif.
+
+516
+00:35:03,960 --> 00:35:06,720
+But the problem is here
+
+517
+00:35:06,720 --> 00:35:11,080
+because I am this variable horse,
+this son, and I am trying
+
+518
+00:35:11,080 --> 00:35:16,360
+to cast it to the son to variable, okay,
+which is not possible.
+
+519
+00:35:16,400 --> 00:35:22,160
+So the only thing that you guys
+will be doing in Java
+
+520
+00:35:22,160 --> 00:35:26,280
+regarding this casting and sun
+and all of that thing
+
+521
+00:35:26,760 --> 00:35:31,560
+you guys will be using this
+to achieve the polymorphism.
+
+522
+00:35:31,560 --> 00:35:36,640
+And for polymorphism, the only thing that
+you guys will be doing, you guys will be
+
+523
+00:35:39,240 --> 00:35:40,040
+creating an
+
+524
+00:35:40,040 --> 00:35:44,840
+array or you guys will be storing
+the objects
+
+525
+00:35:44,840 --> 00:35:49,320
+of these jali classes
+inside the parent class or.
+
+526
+00:35:49,320 --> 00:35:54,520
+If you guys have understood this part
+that we can store a child
+
+527
+00:35:54,560 --> 00:35:58,560
+class object inside a parent or variable
+
+528
+00:35:59,760 --> 00:36:03,600
+we can create
+ADD is of parent type variable
+
+529
+00:36:03,600 --> 00:36:07,200
+and we can put all the child class
+object inside that.
+
+530
+00:36:07,200 --> 00:36:08,520
+I can look through it.
+
+531
+00:36:08,520 --> 00:36:11,280
+I can call all the methods.
+
+532
+00:36:11,280 --> 00:36:15,200
+And if a specific method is available
+inside
+
+533
+00:36:15,200 --> 00:36:19,840
+a class, inside a special child class,
+I cannot call it that's enough.
+
+534
+00:36:21,480 --> 00:36:24,200
+If it was possible,
+it would be nested polymorphism.
+
+535
+00:36:25,080 --> 00:36:29,080
+So let me repeat
+if you guys have understood this thing
+
+536
+00:36:29,080 --> 00:36:34,800
+that I can store
+Egide class object inside A
+
+537
+00:36:35,080 --> 00:36:39,520
+and let me also write this so we can
+
+538
+00:36:40,480 --> 00:36:42,640
+store a
+
+539
+00:36:43,840 --> 00:36:45,960
+jar class
+
+540
+00:36:48,320 --> 00:36:49,920
+object.
+
+541
+00:36:50,320 --> 00:36:52,600
+So let me repeat, let me write
+
+542
+00:36:54,440 --> 00:36:57,840
+rules for busting
+
+543
+00:37:00,360 --> 00:37:01,320
+objects
+
+544
+00:37:01,320 --> 00:37:06,840
+or classes.
+
+545
+00:37:06,840 --> 00:37:09,000
+I think we need another example
+from scratch.
+
+546
+00:37:09,000 --> 00:37:11,000
+We will do anything.
+
+547
+00:37:11,680 --> 00:37:14,560
+We can store a child class
+
+548
+00:37:14,560 --> 00:37:18,880
+all go inside a parent
+
+549
+00:37:20,920 --> 00:37:22,680
+or type
+
+550
+00:37:28,160 --> 00:37:31,200
+inside a parent type variable.
+
+551
+00:37:31,480 --> 00:37:33,560
+Okay.
+
+552
+00:37:33,560 --> 00:37:35,040
+Because
+
+553
+00:37:35,960 --> 00:37:38,120
+inheritance
+
+554
+00:37:42,360 --> 00:37:44,640
+is one way
+
+555
+00:37:45,840 --> 00:37:50,160
+from better to die
+
+556
+00:37:58,560 --> 00:37:59,880
+so we can store the child
+
+557
+00:37:59,880 --> 00:38:02,640
+class
+object inside a parent class variable.
+
+558
+00:38:03,920 --> 00:38:06,880
+Or we can view the year
+
+559
+00:38:07,600 --> 00:38:10,520
+areas of type
+
+560
+00:38:12,200 --> 00:38:13,440
+parent
+
+561
+00:38:14,120 --> 00:38:16,280
+and can store
+
+562
+00:38:17,520 --> 00:38:19,920
+all the
+
+563
+00:38:20,120 --> 00:38:22,200
+objects of the
+
+564
+00:38:23,640 --> 00:38:26,600
+child classes
+
+565
+00:38:27,000 --> 00:38:29,760
+inside that adding birth
+
+566
+00:38:29,760 --> 00:38:32,640
+have the same type notes as last class.
+
+567
+00:38:33,480 --> 00:38:36,720
+Okay, sure.
+
+568
+00:38:36,720 --> 00:38:41,520
+But we all alone or override in here.
+
+569
+00:38:41,520 --> 00:38:48,040
+So this all of these examples in here
+we are overwriting.
+
+570
+00:38:48,720 --> 00:38:51,480
+So you see in here I have this statement
+
+571
+00:38:51,480 --> 00:38:54,600
+little snippet tossed in here
+I am overridden.
+
+572
+00:38:54,600 --> 00:38:58,440
+That would be what I, I can write, Lou,
+for any of those statements
+
+573
+00:38:58,440 --> 00:39:01,120
+or any of that logic inside this method,
+
+574
+00:39:01,120 --> 00:39:05,080
+I am really finding the same name
+method inside the tile class.
+
+575
+00:39:05,080 --> 00:39:11,200
+So this is all the overriding problem.
+
+576
+00:39:11,200 --> 00:39:12,040
+Is it clear
+
+577
+00:39:16,440 --> 00:39:18,760
+if I don't override guys,
+
+578
+00:39:18,760 --> 00:39:22,040
+if I don't override any file,
+try to use polymorphism.
+
+579
+00:39:22,040 --> 00:39:23,520
+What will happen
+
+580
+00:39:39,840 --> 00:39:41,280
+this override
+
+581
+00:39:41,280 --> 00:39:46,160
+that that
+that that annotation is optional?
+
+582
+00:39:46,160 --> 00:39:47,760
+No, it will work.
+
+583
+00:39:47,760 --> 00:39:51,080
+It will work like like for example,
+I am saying this
+
+584
+00:39:51,080 --> 00:39:55,080
+if I don't override these matters,
+what will happen?
+
+585
+00:39:55,080 --> 00:39:59,200
+The exact same methods
+from the parent class.
+
+586
+00:39:59,480 --> 00:40:01,600
+They will get inherited in here. Right?
+
+587
+00:40:02,360 --> 00:40:04,880
+And the exact same letters will
+
+588
+00:40:05,200 --> 00:40:08,120
+will get inherited inside
+this one too as well.
+
+589
+00:40:08,840 --> 00:40:11,160
+So there is no point of polymorphism.
+
+590
+00:40:11,160 --> 00:40:13,720
+Right?
+Because what we are essentially doing,
+
+591
+00:40:13,720 --> 00:40:16,320
+we are calling same method again
+and again.
+
+592
+00:40:17,040 --> 00:40:17,600
+Right.
+
+593
+00:40:17,600 --> 00:40:19,040
+I can just write,
+
+594
+00:40:19,040 --> 00:40:22,280
+I can just create the object of this class
+and call the method from here
+
+595
+00:40:23,560 --> 00:40:27,160
+because I am not providing
+in any different implementation,
+
+596
+00:40:27,160 --> 00:40:29,920
+then what's the point
+of creating this child class
+
+597
+00:40:30,160 --> 00:40:34,920
+if I am doing exactly the same thing
+inside this child as well?
+
+598
+00:40:35,520 --> 00:40:35,880
+Right.
+
+599
+00:40:38,000 --> 00:40:40,560
+You get paid in a class method
+if you don't override them.
+
+600
+00:40:40,560 --> 00:40:42,600
+Yes, I get the parent class method.
+
+601
+00:40:42,600 --> 00:40:44,880
+Exact the same method right.
+
+602
+00:40:44,880 --> 00:40:48,080
+Then what is the point of writing a loop
+
+603
+00:40:48,280 --> 00:40:48,720
+and then
+
+604
+00:40:48,720 --> 00:40:52,480
+storing all the objects of the child
+and then calling the same method
+
+605
+00:40:52,480 --> 00:40:53,880
+again and again and again. Right.
+
+606
+00:40:53,880 --> 00:40:56,720
+I will always be getting the same output.
+
+607
+00:40:57,240 --> 00:41:03,280
+There is no point without the overwriting.
+
+608
+00:41:03,280 --> 00:41:04,840
+So that's why we override.
+
+609
+00:41:04,840 --> 00:41:09,040
+Because in child classes they want to have
+some different functionality.
+
+610
+00:41:09,600 --> 00:41:12,960
+Think about the testing right
+then we are testing
+
+611
+00:41:12,960 --> 00:41:16,480
+on Firefox classes, on Google Chrome
+classes, on safari.
+
+612
+00:41:16,880 --> 00:41:20,840
+These things,
+they don't exactly behave same.
+
+613
+00:41:20,840 --> 00:41:23,640
+There are differences right there.
+
+614
+00:41:23,640 --> 00:41:28,680
+So I would create a matter in the web
+driver class and all of these classes
+
+615
+00:41:28,680 --> 00:41:32,160
+this slightly differently implement
+those matters
+
+616
+00:41:32,720 --> 00:41:34,800
+and that's why we use the polymorphism.
+
+617
+00:41:34,800 --> 00:41:37,640
+Right
+Because they are different things. So
+
+618
+00:41:38,720 --> 00:41:41,160
+that's where you should be using the.
+
+619
+00:41:41,160 --> 00:41:44,600
+And then polymorphism, if,
+if you have to do the same thing,
+
+620
+00:41:44,600 --> 00:41:58,320
+then then there is no point of overwriting
+or anything like that.
+
+621
+00:41:58,320 --> 00:42:03,120
+So we can create
+add as of type parent and again store
+
+622
+00:42:03,120 --> 00:42:06,120
+all the objects of the child classes
+
+623
+00:42:06,120 --> 00:42:08,280
+inside that and
+
+624
+00:42:09,840 --> 00:42:12,560
+then we can
+
+625
+00:42:12,560 --> 00:42:14,160
+override
+
+626
+00:42:14,400 --> 00:42:18,000
+loops to pull all the
+
+627
+00:42:21,720 --> 00:42:22,800
+matters
+
+628
+00:42:22,800 --> 00:42:37,280
+from all the classes.
+
+629
+00:42:37,280 --> 00:42:39,840
+So our days to pass database.
+
+630
+00:42:41,640 --> 00:42:44,240
+So you guys have done
+the homework on days to pass.
+
+631
+00:42:44,760 --> 00:42:47,400
+I showed to example in the previous class.
+
+632
+00:42:48,080 --> 00:42:57,960
+Is there anyone is still confused
+about these 2.0?
+
+633
+00:42:57,960 --> 00:42:58,520
+Okay.
+
+634
+00:42:58,520 --> 00:43:03,840
+So the third thing is or we cannot score a
+
+635
+00:43:05,000 --> 00:43:06,320
+parent
+
+636
+00:43:07,000 --> 00:43:08,440
+class
+
+637
+00:43:08,880 --> 00:43:12,160
+object, we cannot store
+
+638
+00:43:12,160 --> 00:43:16,880
+or cost a parent class object to the
+
+639
+00:43:17,960 --> 00:43:19,080
+child class. Okay,
+
+640
+00:43:20,560 --> 00:43:22,600
+So and
+
+641
+00:43:23,880 --> 00:43:26,800
+neither we can store a parent class object
+
+642
+00:43:26,800 --> 00:43:31,360
+in a child type variable,
+nor we can bastard.
+
+643
+00:43:31,360 --> 00:43:35,400
+Okay. But
+
+644
+00:43:37,400 --> 00:43:40,920
+if the parent type
+
+645
+00:43:42,000 --> 00:43:42,560
+variable.
+
+646
+00:43:42,560 --> 00:43:45,080
+But so I am using different things in here
+
+647
+00:43:46,240 --> 00:43:51,120
+focused in here guys in here I am saying
+storing or costing it being in the class
+
+648
+00:43:51,120 --> 00:43:55,000
+object in here I am talking about
+the parent type variable.
+
+649
+00:43:55,000 --> 00:43:58,160
+When I say parent type variable,
+
+650
+00:43:58,160 --> 00:44:00,160
+I mean this, I mean this.
+
+651
+00:44:00,440 --> 00:44:03,480
+This is a variable.
+And this type is parent.
+
+652
+00:44:03,800 --> 00:44:08,880
+Do you guys understand this parent type
+of variable for parent time?
+
+653
+00:44:08,880 --> 00:44:12,240
+This is the I am calling a class as a type
+
+654
+00:44:12,600 --> 00:44:14,840
+because in Java classes they are types
+
+655
+00:44:16,400 --> 00:44:18,480
+I am storing.
+
+656
+00:44:18,680 --> 00:44:21,000
+So I am having a variable of type parent
+
+657
+00:44:21,240 --> 00:44:24,400
+and then I am trying to store a child
+
+658
+00:44:24,400 --> 00:44:27,720
+class object inside that variable.
+
+659
+00:44:28,280 --> 00:44:28,880
+Okay.
+
+660
+00:44:29,160 --> 00:44:34,680
+So from child to parent,
+it's possible, but from
+
+661
+00:44:37,120 --> 00:44:39,640
+parent to child it is not possible.
+
+662
+00:44:39,640 --> 00:44:43,280
+So for example,
+I cannot have a variable of type
+
+663
+00:44:44,000 --> 00:44:49,360
+child, son and I cannot store a father
+object inside that.
+
+664
+00:44:49,360 --> 00:44:53,000
+So this is we are this
+this third warrant is referential
+
+665
+00:44:53,240 --> 00:44:56,160
+or we cannot store or accost a parent
+
+666
+00:44:56,160 --> 00:44:58,640
+class object to a child class,
+
+667
+00:45:00,120 --> 00:45:01,760
+child class
+
+668
+00:45:06,400 --> 00:45:07,560
+variable.
+
+669
+00:45:07,560 --> 00:45:10,840
+But if parent type already
+
+670
+00:45:12,200 --> 00:45:14,280
+already contains
+
+671
+00:45:14,280 --> 00:45:18,400
+the child object,
+
+672
+00:45:19,320 --> 00:45:23,280
+then we can get it back
+
+673
+00:45:24,600 --> 00:45:32,120
+by casting it.
+
+674
+00:45:32,120 --> 00:45:35,200
+So if the class
+
+675
+00:45:35,200 --> 00:45:37,480
+already have a child,
+
+676
+00:45:37,480 --> 00:45:41,000
+objects
+or if a variable already have a child
+
+677
+00:45:41,000 --> 00:45:45,120
+object inside it, then I can get it back.
+
+678
+00:45:45,240 --> 00:45:47,880
+Okay, then I can
+
+679
+00:45:56,880 --> 00:45:57,600
+throw.
+
+680
+00:45:57,720 --> 00:46:00,840
+So if a variable already has
+
+681
+00:46:04,600 --> 00:46:06,160
+directly, it is not possible.
+
+682
+00:46:06,160 --> 00:46:09,360
+Yes, not even even
+indirectly is not possible.
+
+683
+00:46:09,960 --> 00:46:11,880
+Even indirectly is not possible.
+
+684
+00:46:11,880 --> 00:46:17,120
+So let's say, for example,
+instead of this one, if I try to store
+
+685
+00:46:18,400 --> 00:46:20,160
+a father in here,
+
+686
+00:46:20,160 --> 00:46:24,600
+okay, still I will be getting an error
+because what I am doing technically,
+
+687
+00:46:25,080 --> 00:46:29,160
+if I ignore the is to ignore this,
+ignore the cell
+
+688
+00:46:29,520 --> 00:46:32,400
+and get all this variable in here.
+
+689
+00:46:32,400 --> 00:46:36,480
+I am kind of trying to store this
+this new father inside this object.
+
+690
+00:46:36,480 --> 00:46:37,040
+Right?
+
+691
+00:46:37,560 --> 00:46:40,440
+This is just an intermediate step
+
+692
+00:46:40,440 --> 00:46:43,680
+that I first proposed this object
+inside this variable.
+
+693
+00:46:43,680 --> 00:46:46,000
+And from this variable
+I try to get going back.
+
+694
+00:46:46,520 --> 00:46:46,920
+Okay?
+
+695
+00:46:47,040 --> 00:46:48,920
+If just an extra member location
+
+696
+00:46:48,920 --> 00:46:52,160
+that I am using,
+it's like temporarily variable, right?
+
+697
+00:46:52,800 --> 00:46:55,000
+But still I am doing this.
+
+698
+00:46:55,000 --> 00:46:58,040
+I am trying to store a father
+
+699
+00:46:58,040 --> 00:47:01,800
+in extra steps inside a son variable.
+
+700
+00:47:01,800 --> 00:47:03,920
+Is it possible? Goes
+
+701
+00:47:07,440 --> 00:47:08,280
+no. Right.
+
+702
+00:47:08,280 --> 00:47:12,720
+Because I cannot store a father
+inside this variable.
+
+703
+00:47:13,000 --> 00:47:13,320
+Okay.
+
+704
+00:47:13,520 --> 00:47:16,360
+So again,
+I will be getting a class cost exception.
+
+705
+00:47:17,080 --> 00:47:19,160
+So only one way is possible.
+
+706
+00:47:20,080 --> 00:47:22,680
+Storing child class objects
+
+707
+00:47:23,800 --> 00:47:26,160
+inside of parent type variables.
+
+708
+00:47:26,520 --> 00:47:31,320
+If this is only this is possible,
+the rest of these things,
+
+709
+00:47:31,360 --> 00:47:34,800
+this costing out all of this,
+
+710
+00:47:34,800 --> 00:47:37,640
+you guys will hardly be needing this.
+
+711
+00:47:37,960 --> 00:47:39,800
+But yes, it's possible.
+
+712
+00:47:39,800 --> 00:47:40,080
+Okay.
+
+713
+00:47:40,080 --> 00:47:43,800
+Up costing it is required in.
+
+714
+00:47:43,800 --> 00:47:47,960
+You guys will be learning a short
+framework, a small framework study
+
+715
+00:47:48,840 --> 00:47:51,240
+on different data structures is
+
+716
+00:47:53,520 --> 00:47:56,520
+it will be I think after
+
+717
+00:47:56,520 --> 00:47:59,680
+two weeks all for
+so there you guys will you
+
+718
+00:47:59,840 --> 00:48:03,240
+you guys might want to do that
+this up costing or down costing
+
+719
+00:48:03,800 --> 00:48:06,560
+and before that you guys
+will be using this up costing and down
+
+720
+00:48:06,600 --> 00:48:10,560
+costing in your
+in your very first selenium class.
+
+721
+00:48:11,280 --> 00:48:14,600
+So you guys will be creating a web driver
+element
+
+722
+00:48:15,240 --> 00:48:17,480
+web driver class object variable,
+
+723
+00:48:18,360 --> 00:48:21,800
+and then you will be storing Google Chrome
+or Firefox inside of that.
+
+724
+00:48:21,800 --> 00:48:25,080
+And then you will be opening Google Chrome
+or Firefox on your computers
+
+725
+00:48:25,080 --> 00:48:48,000
+with the help of some methods
+that are present in there.
+
+726
+00:48:48,000 --> 00:48:48,680
+Okay.
+
+727
+00:48:48,960 --> 00:49:17,400
+Let's do one more example.
+
+728
+00:49:17,400 --> 00:49:21,640
+So let's say I have a person class.
+
+729
+00:49:21,640 --> 00:49:27,120
+The article is done typing the code
+of the classes and the notes as well.
+
+730
+00:49:27,360 --> 00:49:44,480
+And can I start the new class?
+
+731
+00:49:44,480 --> 00:49:47,040
+Let's say this person has a name for you
+
+732
+00:49:54,880 --> 00:49:56,280
+and I am
+
+733
+00:49:56,280 --> 00:49:59,760
+leaving this name field again
+through the constructor
+
+734
+00:50:52,560 --> 00:50:53,880
+I guess on
+
+735
+00:50:53,880 --> 00:51:27,720
+what is available in this four channel.
+
+736
+00:51:27,720 --> 00:51:30,200
+And then I have
+
+737
+00:51:30,200 --> 00:51:32,000
+an employee
+
+738
+00:51:35,360 --> 00:51:39,320
+note from the person
+
+739
+00:51:43,080 --> 00:51:48,960
+and now I am getting an error.
+
+740
+00:51:48,960 --> 00:51:51,200
+What is this paradise
+
+741
+00:52:04,320 --> 00:52:05,320
+again?
+
+742
+00:52:05,640 --> 00:52:06,840
+Because I am extending
+
+743
+00:52:06,840 --> 00:52:11,160
+and I have a constructor
+that takes one argument inside the parent.
+
+744
+00:52:11,160 --> 00:52:16,080
+I must provide a matching constructor
+inside my child class,
+
+745
+00:52:16,840 --> 00:52:19,360
+so I need a matching
+
+746
+00:52:19,360 --> 00:52:21,960
+constructor in here for the in here
+
+747
+00:52:22,760 --> 00:52:25,280
+and this constructor
+
+748
+00:52:25,680 --> 00:52:27,400
+here should not only match,
+
+749
+00:52:27,400 --> 00:52:30,360
+you should also call the parent
+class constructor
+
+750
+00:52:31,440 --> 00:53:26,600
+with the help of super keyword.
+
+751
+00:53:26,600 --> 00:53:31,000
+So I have another class
+that has a slightly different behavior
+
+752
+00:53:31,240 --> 00:53:33,320
+for this perform daily task.
+
+753
+00:53:34,520 --> 00:53:37,280
+So what I do, I override this behavior
+
+754
+00:53:37,520 --> 00:53:40,040
+and I provide my own implementation.
+
+755
+00:53:40,280 --> 00:53:43,040
+But for one of the matters I don't have,
+
+756
+00:53:43,040 --> 00:53:46,520
+I don't mind if I have
+the exact same implementation.
+
+757
+00:53:46,520 --> 00:53:47,240
+Right?
+
+758
+00:53:47,520 --> 00:53:55,960
+So which concept I am using in here guys?
+
+759
+00:53:55,960 --> 00:54:04,560
+Overriding, not overloading, overriding.
+
+760
+00:54:04,560 --> 00:54:06,960
+And then I can have another class
+
+761
+00:54:10,400 --> 00:54:13,800
+student extending
+
+762
+00:54:14,200 --> 00:54:20,680
+person.
+
+763
+00:54:20,680 --> 00:54:40,000
+So again, need a matching constructor,
+
+764
+00:54:40,000 --> 00:54:43,840
+right?
+
+765
+00:54:43,840 --> 00:54:47,200
+Then the student can have
+a slightly different behavior.
+
+766
+00:54:47,200 --> 00:55:11,320
+Right?
+
+767
+00:55:11,320 --> 00:55:13,160
+Then I can have another class.
+
+768
+00:55:13,160 --> 00:55:15,040
+So now you guys are getting this point.
+
+769
+00:55:15,040 --> 00:55:18,680
+But if I am having, if I want to use
+
+770
+00:55:18,680 --> 00:55:20,880
+some functionality from one class
+
+771
+00:55:21,840 --> 00:55:25,440
+and I don't like the
+I maybe the other piece of functionality,
+
+772
+00:55:25,440 --> 00:55:28,600
+maybe I like two matters
+and I don't like maybe five.
+
+773
+00:55:28,600 --> 00:55:30,800
+My third from the parent class.
+
+774
+00:55:30,800 --> 00:55:34,520
+I have this flexibility that I can provide
+
+775
+00:55:34,520 --> 00:55:37,560
+my own implementation for those matters.
+
+776
+00:55:37,560 --> 00:55:38,280
+Right?
+
+777
+00:55:38,640 --> 00:55:40,560
+I don't have to change the names.
+
+778
+00:55:40,560 --> 00:55:46,040
+If I am essentially doing the same thing,
+I can have my own thing, but
+
+779
+00:55:46,240 --> 00:55:49,040
+and at the same time
+I can have the same name.
+
+780
+00:55:49,280 --> 00:56:09,720
+Okay, please
+
+781
+00:56:09,720 --> 00:56:13,040
+repeat line 23 to 25.
+
+782
+00:56:13,040 --> 00:56:16,440
+And so in here then this I am calling.
+
+783
+00:56:16,440 --> 00:56:19,120
+I am writing a meeting constructor
+
+784
+00:56:20,160 --> 00:56:22,800
+inside the child class.
+
+785
+00:56:22,800 --> 00:56:25,600
+I am writing a matching constructor
+to the parent class.
+
+786
+00:56:25,880 --> 00:56:29,320
+So I have a constructor
+inside the parent class
+
+787
+00:56:29,320 --> 00:56:32,840
+which takes this argument off by string.
+
+788
+00:56:32,840 --> 00:56:37,840
+So if I am allowing this inheritance,
+if I am extending from this class,
+
+789
+00:56:37,840 --> 00:56:40,800
+I must have a same constructor
+
+790
+00:56:41,600 --> 00:56:44,080
+inside the child class
+and that constructor
+
+791
+00:56:44,080 --> 00:56:48,000
+should call the parent class constructor
+so that the first of the parent
+
+792
+00:56:48,000 --> 00:56:50,040
+class can be initialized properly.
+
+793
+00:56:51,760 --> 00:56:54,560
+So it's mandatory from Java
+
+794
+00:56:54,560 --> 00:56:56,480
+to initialize the fields of the parent
+
+795
+00:56:56,480 --> 00:56:59,640
+if you are extending from a feeder.
+
+796
+00:56:59,840 --> 00:57:03,040
+So if there is a constructor
+in the parent class, you must
+
+797
+00:57:04,440 --> 00:57:10,560
+have a matching constructor
+in your child's class.
+
+798
+00:57:10,560 --> 00:57:13,560
+So that's why I need matching constructor
+in this class of
+
+799
+00:57:19,240 --> 00:57:19,840
+because I
+
+800
+00:57:19,840 --> 00:57:23,320
+if what happens is
+if I don't have the matching constructor
+
+801
+00:57:23,320 --> 00:57:38,400
+as the parent class constructor,
+what can go wrong?
+
+802
+00:57:38,400 --> 00:57:44,160
+So whatever the parent class
+has, each alternate is the same. Yes
+
+803
+00:57:47,640 --> 00:57:48,720
+or writing
+
+804
+00:57:48,720 --> 00:57:59,560
+will not work.
+
+805
+00:57:59,560 --> 00:58:02,560
+You will not be able to inherit
+the methods of the parent.
+
+806
+00:58:03,320 --> 00:58:08,840
+Okay, so let me do this guys
+
+807
+00:58:10,160 --> 00:58:12,160
+inside this person class.
+
+808
+00:58:13,120 --> 00:58:15,800
+Let me comment on this line.
+
+809
+00:58:15,800 --> 00:58:19,800
+Okay, so all of these constructors,
+they are calling this constructor, right?
+
+810
+00:58:20,760 --> 00:58:24,280
+And whatever I was doing in here,
+I have commented that out.
+
+811
+00:58:24,280 --> 00:58:28,920
+So technically,
+as if I am not calling this constructor
+
+812
+00:58:29,160 --> 00:58:31,440
+or if I don't have
+this constructor anymore.
+
+813
+00:58:32,000 --> 00:58:36,360
+Okay, because if I try to remove it
+completely, I will give me an error.
+
+814
+00:58:36,720 --> 00:58:39,560
+So I am trying to show you the
+
+815
+00:58:39,560 --> 00:58:42,960
+benefit of having this super in here.
+
+816
+00:58:43,000 --> 00:58:43,320
+Okay.
+
+817
+00:58:43,320 --> 00:58:46,080
+I cannot remove it completely
+because I will be getting an error.
+
+818
+00:58:46,320 --> 00:58:49,280
+But instead what I have done,
+whatever I was doing in here
+
+819
+00:58:49,800 --> 00:58:54,000
+because the super it calls this
+in the class constructor, right?
+
+820
+00:58:54,520 --> 00:58:56,800
+So I have removed this line here.
+
+821
+00:58:56,960 --> 00:58:58,400
+I have removed this line.
+
+822
+00:58:58,400 --> 00:58:59,640
+So now you guys will be able
+
+823
+00:58:59,640 --> 00:59:03,720
+to see what happens
+if we don't have that matching struct that
+
+824
+00:59:21,200 --> 00:59:24,400
+the name will not initialize the instance
+variable in that case.
+
+825
+00:59:24,400 --> 00:59:26,320
+Yes. That's that.
+
+826
+00:59:26,320 --> 00:59:30,320
+That's exactly what happens if we don't
+
+827
+00:59:30,600 --> 00:59:33,280
+call the parent class constructor.
+
+828
+00:59:34,120 --> 00:59:42,360
+So let's say, for example,
+
+829
+00:59:42,360 --> 00:59:45,000
+if I am using this name field in here
+right
+
+830
+00:59:48,720 --> 00:59:51,520
+inside one of my methods
+
+831
+00:59:51,520 --> 00:59:55,000
+and if this is not there to solve
+the instance
+
+832
+00:59:55,000 --> 00:59:57,240
+variable is only the instance.
+
+833
+00:59:57,240 --> 01:00:00,400
+So if I am using these instance fields
+
+834
+01:00:00,920 --> 01:00:05,280
+inside my methods now all of this matters.
+
+835
+01:00:05,280 --> 01:00:09,440
+They will misbehave by misbehave
+I mean I will be getting a null value.
+
+836
+01:00:10,040 --> 01:00:10,640
+Okay.
+
+837
+01:00:10,640 --> 01:00:13,560
+Because the same method
+is inherited inside this employee.
+
+838
+01:00:13,560 --> 01:00:15,240
+The same method is inherited inside
+
+839
+01:00:15,240 --> 01:00:17,920
+student, the same method is inherited
+inside this teacher.
+
+840
+01:00:18,200 --> 01:00:21,120
+Okay, so now if I say
+
+841
+01:00:22,680 --> 01:00:28,000
+so, if I say, is this what you do?
+
+842
+01:00:28,000 --> 01:00:28,480
+Is there
+
+843
+01:00:30,480 --> 01:00:34,960
+if I'm
+
+844
+01:00:34,960 --> 01:00:36,160
+just giving
+
+845
+01:00:46,240 --> 01:00:48,840
+this So
+
+846
+01:00:48,840 --> 01:00:51,520
+let me open side by side
+
+847
+01:00:53,160 --> 01:00:54,280
+and a guide.
+
+848
+01:00:54,280 --> 01:00:56,560
+Are you done typing it?
+
+849
+01:00:57,160 --> 01:00:58,440
+Yes, I did.
+
+850
+01:00:58,440 --> 01:00:59,040
+Here,
+
+851
+01:01:01,240 --> 01:01:03,240
+actually, there was this store and my
+
+852
+01:01:03,240 --> 01:01:05,680
+I hope you guys all know. So
+
+853
+01:01:07,120 --> 01:01:10,400
+it was so let me show you is missing me
+
+854
+01:01:10,880 --> 01:01:14,960
+and so I was supposed
+to teach the school classes
+
+855
+01:01:15,440 --> 01:01:17,600
+what I could not
+
+856
+01:01:23,160 --> 01:01:30,600
+teach in this picture.
+
+857
+01:01:30,600 --> 01:01:31,680
+How can I open that?
+
+858
+01:01:31,680 --> 01:01:34,920
+Okay,
+
+859
+01:01:34,920 --> 01:01:39,280
+I hope you guys can see the
+
+860
+01:01:43,280 --> 01:01:45,000
+then I had here
+
+861
+01:01:45,000 --> 01:01:47,880
+similar a similar to his
+
+862
+01:01:49,360 --> 01:01:53,200
+because he was missing me badly.
+
+863
+01:01:53,200 --> 01:02:06,480
+He was the mean guide.
+
+864
+01:02:06,480 --> 01:02:13,320
+And you tell me please in case we need
+your static award performed activity.
+
+865
+01:02:13,320 --> 01:02:17,720
+So mostly Alexa, you guys will be
+creating the state a static methods.
+
+866
+01:02:18,720 --> 01:02:21,960
+So if you are not planning to use
+the instance.
+
+867
+01:02:21,960 --> 01:02:25,080
+Feels like for example, this one always go
+
+868
+01:02:25,080 --> 01:02:31,920
+with the static method.
+
+869
+01:02:31,920 --> 01:02:35,520
+Someone is asking
+the price are let me converted.
+
+870
+01:02:35,520 --> 01:02:44,400
+I guess it passed $3 $3.
+
+871
+01:02:44,400 --> 01:02:47,120
+But it's still expensive, right?
+
+872
+01:02:47,280 --> 01:02:51,560
+I mean $5 a call
+in Ukraine versus $3 here.
+
+873
+01:02:52,760 --> 01:03:02,880
+If so, now
+
+874
+01:03:05,160 --> 01:03:07,120
+if I now
+
+875
+01:03:07,120 --> 01:03:10,800
+create the object of, let's say, teacher
+
+876
+01:03:11,200 --> 01:03:15,040
+or feature is equal to new teacher or
+
+877
+01:03:21,400 --> 01:03:26,520
+pupil, my like Pakistan and Indian barber,
+
+878
+01:03:27,040 --> 01:03:32,000
+weird, incorrect.
+
+879
+01:03:32,000 --> 01:03:35,280
+Okay, so if I fall oops.
+
+880
+01:03:35,560 --> 01:03:40,960
+If I say teacher dot it
+
+881
+01:03:41,520 --> 01:03:43,800
+what I what I will get
+
+882
+01:03:56,640 --> 01:04:00,480
+or why do I forget to tell you
+I had this official as well.
+
+883
+01:04:00,960 --> 01:04:13,480
+It's official playing card
+and all that into dollars.
+
+884
+01:04:13,480 --> 01:04:16,920
+So if you ask me if I execute the score
+
+885
+01:04:17,640 --> 01:04:20,520
+you see only is eating.
+
+886
+01:04:20,520 --> 01:04:22,920
+Yes, only three is eating.
+
+887
+01:04:22,920 --> 01:04:25,400
+This is the problem that happens
+
+888
+01:04:25,400 --> 01:04:30,720
+if we don't use
+the super keyword the fields,
+
+889
+01:04:30,720 --> 01:04:35,400
+and then I am using from my parent class,
+
+890
+01:04:35,920 --> 01:04:38,000
+they will never be initialized.
+
+891
+01:04:38,760 --> 01:04:42,520
+They will never be initialized
+if any of the method
+
+892
+01:04:42,760 --> 01:04:46,440
+from the parent class,
+if they are using those fields,
+
+893
+01:04:47,160 --> 01:04:50,520
+they will never work properly.
+
+894
+01:04:50,520 --> 01:04:51,240
+There's the
+
+895
+01:04:52,280 --> 01:04:54,480
+that's the use of the super keyword.
+
+896
+01:04:54,480 --> 01:04:55,160
+Okay.
+
+897
+01:04:55,200 --> 01:04:58,840
+So I have not removed this
+this super from here
+
+898
+01:04:58,840 --> 01:05:01,320
+because we will be getting an error.
+
+899
+01:05:02,400 --> 01:05:06,480
+But what I have done,
+I have commented this
+
+900
+01:05:07,120 --> 01:05:09,720
+in this piece of code inside that matter.
+
+901
+01:05:09,720 --> 01:05:14,360
+So technically, same
+as if we are not calling the super dot
+
+902
+01:05:14,360 --> 01:05:17,920
+and these parentheses,
+if I am not calling the super constructor.
+
+903
+01:05:18,760 --> 01:05:21,440
+So if I put it back.
+
+904
+01:05:21,440 --> 01:05:25,360
+So because I was, I was using this method
+
+905
+01:05:25,400 --> 01:05:29,360
+from the parent class and that each method
+was using this instance field
+
+906
+01:05:29,360 --> 01:05:32,360
+and this instance field
+must be initialized
+
+907
+01:05:32,880 --> 01:05:35,400
+if I want this method to behave properly.
+
+908
+01:05:36,200 --> 01:05:40,080
+That's why I call the super from here.
+
+909
+01:05:40,080 --> 01:05:43,920
+So even though if I am doing it
+from the child class,
+
+910
+01:05:44,080 --> 01:05:48,360
+still the parent class feels
+they get initialized.
+
+911
+01:05:48,720 --> 01:05:49,720
+Is this clear now?
+
+912
+01:05:49,720 --> 01:05:51,480
+The use of super keyword.
+
+913
+01:05:51,480 --> 01:05:53,480
+So now if I execute the score
+
+914
+01:05:57,000 --> 01:05:59,360
+now I will get escalating.
+
+915
+01:05:59,360 --> 01:05:59,760
+Yeah.
+
+916
+01:05:59,880 --> 01:06:03,000
+Now the fields of dependent
+class are properly
+
+917
+01:06:03,000 --> 01:06:12,200
+initialized.
+
+918
+01:06:12,200 --> 01:06:14,320
+Super. And this in the main class.
+
+919
+01:06:15,640 --> 01:06:18,240
+What was the rule number three
+in the note, please?
+
+920
+01:06:18,240 --> 01:06:25,480
+The rule number three was this.
+
+921
+01:06:26,720 --> 01:06:35,040
+And so
+
+922
+01:06:36,880 --> 01:06:40,440
+if we are trying to store a child class
+
+923
+01:06:40,840 --> 01:06:44,560
+inside the parent type variable,
+I can do that.
+
+924
+01:06:45,160 --> 01:06:49,040
+But if I am doing the reverse
+storing a parent object
+
+925
+01:06:49,040 --> 01:06:51,640
+inside the child variable
+that I cannot do,
+
+926
+01:06:52,040 --> 01:06:55,560
+okay, directly or indirectly,
+
+927
+01:06:55,560 --> 01:06:58,200
+that that was the total number three.
+
+928
+01:06:58,720 --> 01:07:00,560
+Anyone ever tried to fool go?
+
+929
+01:07:00,560 --> 01:07:02,480
+I will be getting a runtime exception.
+
+930
+01:07:02,480 --> 01:07:03,840
+Class casting exception.
+
+931
+01:07:03,840 --> 01:07:08,800
+Okay, so now guys, tell me.
+
+932
+01:07:09,800 --> 01:07:13,280
+So this was about the super key
+were not telling me how can I,
+
+933
+01:07:13,960 --> 01:07:16,680
+how can you please that an example.
+
+934
+01:07:16,840 --> 01:07:20,200
+So yes,
+I can explain that in an example as well.
+
+935
+01:07:20,200 --> 01:07:23,360
+So tell me guys is so
+
+936
+01:07:23,360 --> 01:07:26,120
+this also relates to real things.
+
+937
+01:07:26,360 --> 01:07:31,240
+Okay is it
+feature is it is is is a teacher
+
+938
+01:07:31,320 --> 01:07:37,720
+a person also?
+
+939
+01:07:37,720 --> 01:07:38,360
+Right.
+
+940
+01:07:38,360 --> 01:07:39,600
+So I can do that.
+
+941
+01:07:39,600 --> 01:07:43,320
+I can say a person person is equal to new
+
+942
+01:07:45,640 --> 01:07:47,400
+new teacher.
+
+943
+01:07:47,960 --> 01:07:50,280
+Okay, I can do that
+
+944
+01:07:50,280 --> 01:07:52,400
+because this is how it works
+in real life, right?
+
+945
+01:07:53,000 --> 01:08:04,520
+I can do that.
+
+946
+01:08:04,520 --> 01:08:06,600
+Yes. This subclass and
+
+947
+01:08:09,440 --> 01:08:10,560
+now tell me,
+
+948
+01:08:10,560 --> 01:08:13,920
+are all these persons are their teachers
+
+949
+01:08:13,920 --> 01:08:18,240
+also in our real life?
+
+950
+01:08:18,240 --> 01:08:19,280
+No. Right.
+
+951
+01:08:19,280 --> 01:08:22,080
+So I cannot do that in Java. But okay.
+
+952
+01:08:22,280 --> 01:08:25,080
+I cannot do that.
+I cannot say teacher Oops.
+
+953
+01:08:25,800 --> 01:08:30,960
+Teacher,
+teacher is equal to new person, right?
+
+954
+01:08:31,360 --> 01:08:34,800
+Because this is not how it works
+in our real life.
+
+955
+01:08:34,960 --> 01:08:38,440
+And the same rules
+they apply in Java as well.
+
+956
+01:08:38,920 --> 01:08:41,240
+So I hope now you guys can remember it.
+
+957
+01:08:41,240 --> 01:08:46,120
+If something is, it can be categorized
+
+958
+01:08:46,120 --> 01:08:51,000
+under something else,
+then we can do that in Java as well.
+
+959
+01:08:51,040 --> 01:08:56,280
+It same in in our real life as
+okay so that's why.
+
+960
+01:08:56,480 --> 01:08:56,960
+Because
+
+961
+01:08:58,200 --> 01:09:01,320
+the whole purpose of this object
+oriented programing,
+
+962
+01:09:01,320 --> 01:09:06,240
+guys, is to translate the information
+from real life,
+
+963
+01:09:07,280 --> 01:09:11,560
+then build the rules
+against those objects and classes.
+
+964
+01:09:12,440 --> 01:09:16,320
+So you guys are kind of literally
+creating everything that exists in
+
+965
+01:09:16,640 --> 01:09:21,840
+or sometimes a portion of a thing
+from our real life, right?
+
+966
+01:09:22,400 --> 01:09:24,520
+Think of the banking applications, right?
+
+967
+01:09:24,600 --> 01:09:29,360
+They virtually did they they created this
+that there will be an account
+
+968
+01:09:29,360 --> 01:09:30,280
+inside the account.
+
+969
+01:09:30,280 --> 01:09:32,920
+There will be funds inside of the funds
+
+970
+01:09:33,400 --> 01:09:35,880
+someone can deposit
+or someone can withdraw.
+
+971
+01:09:36,160 --> 01:09:39,880
+So it's all about translating things
+
+972
+01:09:39,880 --> 01:09:44,680
+from real life to the these computers
+inside this virtual world
+
+973
+01:09:45,000 --> 01:09:49,560
+and then defining the rules
+around those objects and classes.
+
+974
+01:09:49,560 --> 01:09:53,960
+Now, if these things like like if how
+
+975
+01:09:53,960 --> 01:09:58,560
+they work in real life,
+if they also work almost
+
+976
+01:09:59,680 --> 01:10:00,440
+the same way
+
+977
+01:10:00,440 --> 01:10:02,880
+in the virtual world
+on inside the computers,
+
+978
+01:10:03,600 --> 01:10:07,680
+you guys will be able to write programs
+
+979
+01:10:09,760 --> 01:10:12,240
+easier and in a much better
+
+980
+01:10:12,240 --> 01:10:16,040
+way, Like so which our guys have done.
+
+981
+01:10:16,040 --> 01:10:17,000
+They have
+
+982
+01:10:18,120 --> 01:10:19,720
+they have also
+
+983
+01:10:19,720 --> 01:10:23,480
+almost same rules
+as we have rules in our real life.
+
+984
+01:10:23,640 --> 01:10:23,920
+Okay.
+
+985
+01:10:23,920 --> 01:10:28,120
+So that you guys can easily
+translate the problem from from real life.
+
+986
+01:10:28,120 --> 01:10:32,360
+You guys can build applications
+around the around the real life
+
+987
+01:10:33,000 --> 01:10:35,200
+solving any issues or like that because
+
+988
+01:10:36,480 --> 01:10:38,760
+programing languages,
+
+989
+01:10:38,760 --> 01:10:42,040
+these object
+oriented and high level languages, they
+
+990
+01:10:42,040 --> 01:10:45,960
+they were not created right away
+when the computers got invented,
+
+991
+01:10:45,960 --> 01:10:50,520
+it took them 15 to 20 years,
+actually more than that.
+
+992
+01:10:50,520 --> 01:10:53,560
+So they started building
+programing languages in 1968
+
+993
+01:10:53,960 --> 01:10:56,880
+and Java came into being in 1995.
+
+994
+01:10:57,320 --> 01:10:59,600
+So almost five years.
+
+995
+01:10:59,600 --> 01:11:01,920
+So they have slowly learned these things.
+
+996
+01:11:02,160 --> 01:11:06,320
+They have slowly learned
+how we can solve real life examples
+
+997
+01:11:07,280 --> 01:11:09,720
+in a better way using this programing.
+
+998
+01:11:09,720 --> 01:11:11,200
+So so they they did it.
+
+999
+01:11:11,200 --> 01:11:13,400
+That's why they have almost similar rules.
+
+1000
+01:11:13,800 --> 01:11:15,440
+So this is not possible.
+
+1001
+01:11:15,440 --> 01:11:15,920
+Yeah.
+
+1002
+01:11:15,960 --> 01:11:18,200
+So you guys
+you guys going to have a very quick check?
+
+1003
+01:11:18,440 --> 01:11:19,920
+Just check for that.
+
+1004
+01:11:19,920 --> 01:11:23,400
+Is a relationship
+like you even that exist.
+
+1005
+01:11:23,520 --> 01:11:24,480
+You guys can do that.
+
+1006
+01:11:24,480 --> 01:11:29,520
+If that does not exist, we cannot do that.
+
+1007
+01:11:29,520 --> 01:11:31,360
+Who was asking about now?
+
+1008
+01:11:31,360 --> 01:11:33,600
+And I think for hard.
+
+1009
+01:11:33,600 --> 01:11:35,600
+No, not for hard.
+
+1010
+01:11:35,600 --> 01:11:37,720
+Is it clear now who ever.
+
+1011
+01:11:37,720 --> 01:11:43,560
+Well, ask most of our.
+
+1012
+01:11:43,560 --> 01:11:49,600
+Okay so I cannot do that.
+
+1013
+01:11:49,600 --> 01:11:50,640
+All right.
+
+1014
+01:11:50,640 --> 01:11:52,760
+So can you guys tell me now,
+
+1015
+01:11:53,760 --> 01:11:55,080
+can I say this?
+
+1016
+01:11:55,080 --> 01:11:57,280
+Can I say
+
+1017
+01:12:03,600 --> 01:12:05,600
+so? This equal to sign.
+
+1018
+01:12:06,400 --> 01:12:08,720
+This equal to sign is
+
+1019
+01:12:08,720 --> 01:12:12,720
+it is is pretty much
+saying if the thing that is
+
+1020
+01:12:13,680 --> 01:12:15,840
+to the right, if it is same
+
+1021
+01:12:15,840 --> 01:12:19,120
+as the as this thing that is towards
+the left of it
+
+1022
+01:12:19,760 --> 01:12:22,440
+or if it has this is a relationship
+
+1023
+01:12:23,040 --> 01:12:28,560
+okay so again I say maybe I'll give
+
+1024
+01:12:28,680 --> 01:12:33,400
+tell me this if you guys have understood
+this and I say student
+
+1025
+01:12:45,560 --> 01:12:48,600
+who is equal to new person
+
+1026
+01:12:48,680 --> 01:12:50,120
+and I say that
+
+1027
+01:12:53,520 --> 01:12:54,360
+no, Why?
+
+1028
+01:12:54,360 --> 01:12:57,840
+Because not all the persons
+
+1029
+01:12:58,560 --> 01:13:03,320
+in our real life,
+not all of them, they are, they are.
+
+1030
+01:13:03,320 --> 01:13:04,480
+Student Right?
+
+1031
+01:13:04,480 --> 01:13:07,480
+Some of them
+they might be right, but not all of them.
+
+1032
+01:13:07,760 --> 01:13:12,960
+But if we do the other way around,
+if we see one
+
+1033
+01:13:14,160 --> 01:13:18,440
+person, person
+one is equal to new student.
+
+1034
+01:13:19,080 --> 01:13:23,480
+Is this logically correct?
+
+1035
+01:13:23,480 --> 01:13:24,360
+Right.
+
+1036
+01:13:24,720 --> 01:13:28,440
+So I can see that, okay,
+Java will not give me any errors.
+
+1037
+01:13:29,640 --> 01:13:31,560
+All right, guys,
+
+1038
+01:13:31,760 --> 01:13:33,080
+back.
+
+1039
+01:13:33,080 --> 01:13:36,480
+So can you guys now tell me,
+how can I use polymorphism
+
+1040
+01:13:36,480 --> 01:13:37,320
+in here
+
+1041
+01:13:44,360 --> 01:13:45,720
+at the bottom of it?
+
+1042
+01:13:45,720 --> 01:13:50,240
+Is that a right and for the array,
+
+1043
+01:13:50,360 --> 01:13:53,560
+what should I should be this type
+
+1044
+01:13:53,560 --> 01:13:55,440
+of that addy
+
+1045
+01:14:02,000 --> 01:14:04,120
+brings strings, string
+
+1046
+01:14:06,960 --> 01:14:09,760
+strings.
+
+1047
+01:14:09,760 --> 01:14:13,920
+So tell me guys
+if I so so a lot of you are saying string
+
+1048
+01:14:14,280 --> 01:14:15,960
+and then
+
+1049
+01:14:18,000 --> 01:14:21,360
+area is equal to New York New
+
+1050
+01:14:23,040 --> 01:14:25,360
+York New
+
+1051
+01:14:26,800 --> 01:14:29,440
+maybe let's say student
+
+1052
+01:14:29,440 --> 01:14:31,840
+are students
+
+1053
+01:14:31,840 --> 01:14:34,800
+are all these students are this things
+
+1054
+01:14:35,360 --> 01:14:37,280
+are these things
+
+1055
+01:14:38,520 --> 01:14:41,480
+to organize for this
+
+1056
+01:14:41,520 --> 01:14:43,840
+to represent inside strings thing at
+
+1057
+01:14:48,480 --> 01:14:50,840
+any type of this
+
+1058
+01:14:52,680 --> 01:14:54,520
+it should be
+
+1059
+01:14:54,520 --> 01:14:58,240
+the logic should hold true for this
+part of the add is as well.
+
+1060
+01:14:58,240 --> 01:14:58,840
+Right.
+
+1061
+01:14:59,200 --> 01:15:01,160
+So now this is logically true, right?
+
+1062
+01:15:01,160 --> 01:15:03,640
+Only this to all the students.
+They are percents.
+
+1063
+01:15:03,920 --> 01:15:09,360
+That's why I can create an area of persons
+and I can put inside that person.
+
+1064
+01:15:09,360 --> 01:15:14,560
+I can put student,
+I can put employees, I can put teachers.
+
+1065
+01:15:14,560 --> 01:15:18,320
+And because logically,
+they are all persons, okay?
+
+1066
+01:15:18,440 --> 01:15:19,960
+That's why I can do that.
+
+1067
+01:15:19,960 --> 01:15:22,320
+But I cannot do that with string, right?
+
+1068
+01:15:23,040 --> 01:15:25,600
+Because implies they are not strings.
+
+1069
+01:15:25,720 --> 01:15:32,760
+Right.
+
+1070
+01:15:32,760 --> 01:15:39,920
+Okay.
+
+1071
+01:15:39,920 --> 01:15:41,560
+And then I can say
+
+1072
+01:15:44,200 --> 01:15:45,480
+yes, it's like a train so
+
+1073
+01:15:45,480 --> 01:15:48,040
+I can send you employee
+
+1074
+01:15:51,080 --> 01:15:54,080
+and I can put it on me line
+
+1075
+01:16:01,200 --> 01:16:01,560
+things.
+
+1076
+01:16:01,560 --> 01:16:09,680
+String, string.
+
+1077
+01:16:09,680 --> 01:16:12,000
+And then you
+
+1078
+01:16:13,200 --> 01:16:16,160
+feature right?
+
+1079
+01:16:16,160 --> 01:16:18,760
+Okay. All right.
+
+1080
+01:16:19,240 --> 01:16:23,200
+And now how can I call all the method
+
+1081
+01:16:23,200 --> 01:16:26,760
+from all of these classes
+
+1082
+01:16:28,400 --> 01:16:29,040
+loop.
+
+1083
+01:16:29,040 --> 01:16:29,840
+Right.
+
+1084
+01:16:29,840 --> 01:16:34,000
+Can I use this simple for loop
+will that I variable
+
+1085
+01:16:34,040 --> 01:16:37,800
+is equal to zero
+I less then and then I plus plus.
+
+1086
+01:16:37,840 --> 01:16:48,240
+Can I use that loop?
+
+1087
+01:16:48,240 --> 01:16:49,000
+No clue.
+
+1088
+01:16:49,000 --> 01:16:50,160
+Better law.
+
+1089
+01:16:50,160 --> 01:16:52,680
+So yes, I can use that loop as well.
+
+1090
+01:16:53,280 --> 01:16:53,520
+Okay.
+
+1091
+01:16:53,520 --> 01:16:58,480
+I was just checking if you guys have
+revised the concept for selenium or not,
+
+1092
+01:16:59,160 --> 01:17:03,160
+but the advanced one, the enhanced one,
+they are recommended
+
+1093
+01:17:03,480 --> 01:17:07,160
+because if we are only accessing a value,
+
+1094
+01:17:07,560 --> 01:17:09,880
+we should always go with the advanced one.
+
+1095
+01:17:09,880 --> 01:17:11,640
+Okay. It's more clear.
+
+1096
+01:17:11,640 --> 01:17:17,760
+It's more easy to read.
+
+1097
+01:17:17,760 --> 01:17:19,840
+So I can say for each
+
+1098
+01:17:21,720 --> 01:17:23,400
+here and then a version with
+
+1099
+01:17:23,400 --> 01:17:25,640
+the type of the variable in here
+
+1100
+01:17:30,640 --> 01:17:32,520
+person, right?
+
+1101
+01:17:32,520 --> 01:17:35,640
+The first person and then
+
+1102
+01:17:36,720 --> 01:17:38,400
+adding okay.
+
+1103
+01:17:38,400 --> 01:17:39,400
+Or maybe less.
+
+1104
+01:17:39,400 --> 01:17:42,440
+So most of the time
+you guys will see this terminology first
+
+1105
+01:17:42,440 --> 01:17:43,520
+since
+
+1106
+01:17:46,200 --> 01:17:48,360
+they already have this variable.
+
+1107
+01:17:48,360 --> 01:17:50,520
+So let me make it person two
+
+1108
+01:17:51,360 --> 01:17:56,200
+and now I can say person to God,
+
+1109
+01:17:57,800 --> 01:17:59,640
+perform daily tasks.
+
+1110
+01:17:59,640 --> 01:18:02,960
+Okay, so now I will see all the methods
+
+1111
+01:18:03,680 --> 01:18:07,080
+from all of these classes
+
+1112
+01:18:07,080 --> 01:18:09,560
+that I am storing and
+
+1113
+01:18:15,520 --> 01:18:20,760
+all that comes in here.
+
+1114
+01:18:20,760 --> 01:18:24,920
+Now tell me, guys,
+is there anyone who is still confused
+
+1115
+01:18:24,920 --> 01:18:27,800
+about casting or polymorphism?
+
+1116
+01:18:28,080 --> 01:18:30,360
+What if we have specific
+method for teacher class?
+
+1117
+01:18:30,360 --> 01:18:31,360
+We cannot do that.
+
+1118
+01:18:31,360 --> 01:18:37,200
+Yes, we can argue that.
+
+1119
+01:18:37,200 --> 01:18:38,560
+So let's say for example.
+
+1120
+01:18:38,560 --> 01:18:42,640
+So you'll get
+I saying if let's say for example,
+
+1121
+01:18:44,480 --> 01:18:44,960
+there is
+
+1122
+01:18:44,960 --> 01:19:20,000
+special method in here.
+
+1123
+01:19:20,000 --> 01:19:22,440
+So now this method
+
+1124
+01:19:23,800 --> 01:19:26,520
+is only available inside
+
+1125
+01:19:26,600 --> 01:19:30,040
+this feature, this person class.
+
+1126
+01:19:31,160 --> 01:19:33,600
+Yes, we can do, but this person
+
+1127
+01:19:33,600 --> 01:19:38,040
+class has no idea about this
+
+1128
+01:19:38,080 --> 01:19:42,000
+design class
+and the variable time that I am
+
+1129
+01:19:42,000 --> 01:19:45,600
+using to call all of these method,
+what is the type of this variable?
+
+1130
+01:19:45,760 --> 01:19:48,040
+Is this person to
+
+1131
+01:19:52,440 --> 01:19:53,320
+this person?
+
+1132
+01:19:53,320 --> 01:19:56,960
+Right? What does this person know about?
+
+1133
+01:19:56,960 --> 01:20:01,280
+This specific method?
+
+1134
+01:20:01,280 --> 01:20:03,040
+No. Right.
+
+1135
+01:20:03,040 --> 01:20:07,920
+So now if I try to say
+
+1136
+01:20:10,680 --> 01:20:13,480
+person to dot
+
+1137
+01:20:14,040 --> 01:20:15,280
+design class
+
+1138
+01:20:15,280 --> 01:20:18,000
+or something like that,
+I will not be able to do that.
+
+1139
+01:20:18,600 --> 01:20:20,720
+Okay. Or about.
+
+1140
+01:20:20,720 --> 01:20:24,160
+But what we have something
+or I forget I forgot about
+
+1141
+01:20:24,600 --> 01:20:29,760
+what do you guys going to do something
+that is with the help of another keyword
+
+1142
+01:20:29,880 --> 01:20:32,440
+that is called instance of keyword.
+
+1143
+01:20:33,040 --> 01:20:36,480
+Okay, so let's say
+you want to call a specific method.
+
+1144
+01:20:37,400 --> 01:20:39,000
+So what is happening in here, guys?
+
+1145
+01:20:40,720 --> 01:20:43,840
+Firstly, object
+of new state, new student is created.
+
+1146
+01:20:44,360 --> 01:20:46,440
+It is placed inside this variable.
+
+1147
+01:20:46,520 --> 01:20:51,000
+This method executes right
+then the object of the symbols created.
+
+1148
+01:20:51,280 --> 01:20:53,480
+Then it is placed inside this variable.
+
+1149
+01:20:53,480 --> 01:20:57,160
+The method on that object is executed
+and then we do the same.
+
+1150
+01:20:57,560 --> 01:21:08,640
+How many of you understand
+what I have just said?
+
+1151
+01:21:08,640 --> 01:21:10,800
+So not me.
+
+1152
+01:21:11,240 --> 01:21:14,040
+Okay, let me repeat from this area.
+
+1153
+01:21:15,320 --> 01:21:19,680
+From this area
+I am getting the object of student
+
+1154
+01:21:20,320 --> 01:21:22,800
+with the help of this loop
+
+1155
+01:21:22,800 --> 01:21:24,880
+and I am calling this
+
+1156
+01:21:24,880 --> 01:21:28,160
+this method on that object.
+
+1157
+01:21:28,160 --> 01:21:33,000
+Then I get the second objectively
+second element of the array.
+
+1158
+01:21:33,480 --> 01:21:36,000
+I executed the method on second
+
+1159
+01:21:36,000 --> 01:21:39,040
+object, then I get to the third object.
+
+1160
+01:21:39,040 --> 01:21:43,120
+Then I execute this method on the target
+of how many of you understand
+
+1161
+01:21:44,200 --> 01:21:44,680
+this?
+
+1162
+01:21:44,680 --> 01:21:52,000
+This is this is what this loop is doing.
+
+1163
+01:21:52,000 --> 01:21:54,640
+So there is there is another keyword.
+
+1164
+01:21:55,920 --> 01:21:58,200
+We with the help of that keyword,
+
+1165
+01:21:58,480 --> 01:22:01,760
+we can actually at runtime we can check
+
+1166
+01:22:02,640 --> 01:22:06,720
+which object
+this person two variables contains.
+
+1167
+01:22:07,360 --> 01:22:11,280
+I did that to that object
+that the keyword is
+
+1168
+01:22:11,960 --> 01:22:14,160
+we can say if
+
+1169
+01:22:14,600 --> 01:22:16,680
+person to
+
+1170
+01:22:17,400 --> 01:22:20,040
+instance off
+
+1171
+01:22:20,920 --> 01:22:22,000
+feature.
+
+1172
+01:22:22,560 --> 01:22:23,320
+Okay,
+
+1173
+01:22:24,480 --> 01:22:26,880
+so with the help of this keyword,
+
+1174
+01:22:26,880 --> 01:22:29,400
+if this person contains
+
+1175
+01:22:29,920 --> 01:22:33,800
+and object of teacher class,
+this will return true.
+
+1176
+01:22:34,280 --> 01:22:34,760
+Okay.
+
+1177
+01:22:34,760 --> 01:22:37,760
+This condition will return true
+if this person do
+
+1178
+01:22:37,800 --> 01:22:41,160
+contains on which I appreciate this
+condition will be true based
+
+1179
+01:22:41,880 --> 01:22:49,800
+on which our duration of the loop
+This condition will be true.
+
+1180
+01:22:49,800 --> 01:22:52,520
+Yes, we are doing the same thing
+
+1181
+01:22:52,520 --> 01:22:53,080
+in the loop.
+
+1182
+01:22:53,080 --> 01:22:57,000
+Maybe it would be more clear if we put
+name inside, perform daily tasks.
+
+1183
+01:22:57,760 --> 01:23:00,120
+Yes, we can also do that.
+
+1184
+01:23:00,120 --> 01:23:01,440
+But give me one more.
+
+1185
+01:23:01,440 --> 01:23:06,120
+And so when the last hour duration
+will happen, this person two will contain
+
+1186
+01:23:06,120 --> 01:23:08,760
+this feature object
+and this condition will be true,
+
+1187
+01:23:09,480 --> 01:23:12,040
+then what I can do?
+
+1188
+01:23:12,080 --> 01:23:17,400
+I can convert this person to object.
+
+1189
+01:23:17,400 --> 01:23:21,280
+Can I convert this person to object
+back to the teacher?
+
+1190
+01:23:22,120 --> 01:23:32,640
+In the last citation?
+
+1191
+01:23:32,640 --> 01:23:36,600
+So is the same example I book the teacher
+
+1192
+01:23:36,920 --> 01:23:41,280
+inside of the person box
+and now I am trying to get them back.
+
+1193
+01:23:41,600 --> 01:23:46,840
+The person from that box included.
+
+1194
+01:23:46,840 --> 01:23:50,280
+I pulled the teacher
+entire parent type variable
+
+1195
+01:23:51,240 --> 01:23:53,360
+and first I check
+
+1196
+01:23:53,360 --> 01:23:57,160
+if that box contains the teacher or not.
+
+1197
+01:23:57,360 --> 01:24:01,680
+If it contains the teacher,
+I get it back from that box.
+
+1198
+01:24:02,160 --> 01:24:06,480
+So in the last iteration
+I will be storing teacher inside person to
+
+1199
+01:24:07,040 --> 01:24:10,680
+I check in here
+if this box contains a teacher
+
+1200
+01:24:11,120 --> 01:24:14,520
+and then I am trying
+to get the teacher back.
+
+1201
+01:24:14,520 --> 01:24:15,840
+And I know that
+
+1202
+01:24:20,840 --> 01:24:22,640
+yes we can.
+
+1203
+01:24:22,640 --> 01:24:28,200
+So what I can do,
+I can convert it back to a teacher
+
+1204
+01:24:29,280 --> 01:24:32,040
+right in the last iteration
+
+1205
+01:24:32,040 --> 01:24:35,880
+I can convert it back to a teacher
+
+1206
+01:24:37,000 --> 01:24:39,200
+and then I can call
+
+1207
+01:24:40,200 --> 01:24:43,560
+these line classes.
+
+1208
+01:24:43,560 --> 01:24:44,200
+Okay.
+
+1209
+01:24:44,200 --> 01:24:47,760
+And I will not be getting any error
+and the code will work fine.
+
+1210
+01:24:48,120 --> 01:24:52,840
+By the way, if you guys don't understand
+score, it's all because of your data.
+
+1211
+01:24:52,840 --> 01:24:53,160
+Okay.
+
+1212
+01:24:53,160 --> 01:24:57,840
+I was not planning to show this.
+
+1213
+01:24:57,840 --> 01:24:59,440
+I'm just kidding.
+
+1214
+01:24:59,520 --> 01:25:01,240
+So it's a good point.
+
+1215
+01:25:01,240 --> 01:25:02,760
+She reminded me about this.
+
+1216
+01:25:04,680 --> 01:25:07,000
+So now if I execute this code,
+
+1217
+01:25:07,320 --> 01:25:10,560
+you see, create wrap and design classes.
+
+1218
+01:25:10,760 --> 01:25:14,840
+Okay, so giving homeworks after that,
+it has printed this.
+
+1219
+01:25:15,120 --> 01:25:18,120
+Now, if if I don't put this if condition
+
+1220
+01:25:18,120 --> 01:25:22,080
+guys, if I don't put this
+if condition we'll do this thing
+
+1221
+01:25:22,080 --> 01:25:39,720
+what will happen now.
+
+1222
+01:25:39,720 --> 01:25:41,960
+It will not get executed.
+
+1223
+01:25:41,960 --> 01:25:44,080
+It will show for everyone.
+
+1224
+01:25:45,360 --> 01:25:47,600
+So from the first I tradition,
+
+1225
+01:25:47,720 --> 01:25:51,120
+what I am putting inside the box
+
+1226
+01:25:55,520 --> 01:25:57,840
+student But what I am doing in here,
+
+1227
+01:25:57,840 --> 01:26:03,240
+what I am trying to get from that box.
+
+1228
+01:26:03,240 --> 01:26:04,760
+So I put this to order.
+
+1229
+01:26:04,760 --> 01:26:05,760
+I try to go to the back.
+
+1230
+01:26:05,760 --> 01:26:10,920
+Teacher Is it possible?
+
+1231
+01:26:10,920 --> 01:26:14,160
+So we cannot I will get
+
+1232
+01:26:14,160 --> 01:26:16,080
+the famous
+
+1233
+01:26:16,920 --> 01:26:19,920
+class cost exception
+
+1234
+01:26:19,920 --> 01:26:23,960
+here because teachers and the students,
+they are not equal fired.
+
+1235
+01:26:23,960 --> 01:26:25,440
+They are not equal.
+
+1236
+01:26:25,440 --> 01:26:28,840
+So that's why I write that if condition
+
+1237
+01:26:29,200 --> 01:26:32,000
+I only try to get back teacher
+
+1238
+01:26:32,560 --> 01:26:36,160
+if that box actually contains the teacher.
+
+1239
+01:26:37,000 --> 01:26:39,720
+Okay, therefore this
+if condition is important,
+
+1240
+01:26:39,800 --> 01:26:41,520
+do you guys understand
+the importance of this?
+
+1241
+01:26:41,520 --> 01:26:47,120
+If condition and how it is working?
+
+1242
+01:26:47,120 --> 01:26:48,840
+But there are so many things.
+
+1243
+01:26:50,040 --> 01:26:50,600
+I mean, we
+
+1244
+01:26:50,600 --> 01:26:53,280
+can spend the next five years
+just learning Java.
+
+1245
+01:26:53,760 --> 01:26:56,160
+There are so many concepts,
+so many things.
+
+1246
+01:26:58,080 --> 01:27:00,440
+But and then because we will,
+
+1247
+01:27:00,440 --> 01:27:03,360
+we are training you
+for an academician engineer.
+
+1248
+01:27:03,360 --> 01:27:07,320
+So we only try to show you that part.
+
+1249
+01:27:08,440 --> 01:27:11,760
+So I think we can throw if and else if.
+
+1250
+01:27:11,800 --> 01:27:14,480
+No, I, I'm in total.
+
+1251
+01:27:14,480 --> 01:27:15,560
+It depends on you.
+
+1252
+01:27:15,560 --> 01:27:18,960
+If you want to use if you want to best
+for multiple conditions,
+
+1253
+01:27:19,360 --> 01:27:22,400
+then definitely you need if as if
+
+1254
+01:27:22,920 --> 01:27:25,600
+if you are only testing one condition,
+
+1255
+01:27:26,280 --> 01:27:29,760
+then you only need one if condition
+
+1256
+01:27:31,400 --> 01:27:34,120
+can you scroll down on the person class?
+
+1257
+01:27:35,440 --> 01:27:36,680
+Exact max.
+
+1258
+01:27:36,680 --> 01:27:40,840
+I cannot scroll down further.
+
+1259
+01:27:40,840 --> 01:27:43,000
+I think we need to do
+
+1260
+01:27:46,560 --> 01:27:48,640
+so. If you guys are not comfortable
+
+1261
+01:27:48,640 --> 01:27:51,120
+with polymorphism overriding,
+
+1262
+01:27:52,120 --> 01:27:56,160
+maybe we can spend more time on that.
+
+1263
+01:27:56,160 --> 01:27:57,600
+Yes, we can go to break
+
+1264
+01:27:59,200 --> 01:28:02,160
+and after the break we will do.
+
+1265
+01:28:02,160 --> 01:28:06,440
+I think Lobo is not present in here,
+so after the break
+
+1266
+01:28:06,440 --> 01:28:08,960
+we will do an example again,
+
+1267
+01:28:09,680 --> 01:28:11,960
+break, break article, The Colonial Break.
+
+1268
+01:28:11,960 --> 01:28:16,680
+And on the first week,
+I mean on the next week you guys will be
+
+1269
+01:28:17,760 --> 01:28:18,960
+starting your selenium.
+
+1270
+01:28:18,960 --> 01:28:22,040
+And in the very first class
+you guys will be using
+
+1271
+01:28:23,200 --> 01:28:26,360
+this concept of polymorphism
+if it is not clear,
+
+1272
+01:28:26,800 --> 01:28:30,640
+you guys, you guys can tell me
+in the next week in class
+
+1273
+01:28:31,000 --> 01:28:35,720
+and then I will show you more examples
+from automation as well, because by
+
+1274
+01:28:35,720 --> 01:28:39,200
+that time you guys will be familiar
+with selenium and automation.
+
+1275
+01:28:39,640 --> 01:28:42,360
+Can you explain
+if as one more time, please?
+
+1276
+01:28:42,600 --> 01:28:46,680
+So this if is, if as if.
+
+1277
+01:28:46,960 --> 01:28:50,520
+Okay,
+so if ls means if I'll do the required
+
+1278
+01:28:50,960 --> 01:28:53,280
+when we are checking multiple conditions
+
+1279
+01:28:54,120 --> 01:28:57,040
+if only a single if is required.
+
+1280
+01:28:57,600 --> 01:29:06,200
+If we are only checking
+a single condition.
+
+1281
+01:29:06,200 --> 01:29:10,320
+So before we go on break someone,
+someone was asking to debug
+
+1282
+01:29:10,320 --> 01:29:14,200
+discord.
+
+1283
+01:29:14,200 --> 01:29:22,480
+Do you guys want me to label the score?
+
+1284
+01:29:22,480 --> 01:29:24,840
+Okay, so let me do this.
+
+1285
+01:29:24,840 --> 01:29:27,440
+Let me put a label point in here
+and in here.
+
+1286
+01:29:27,480 --> 01:29:30,720
+So those who understand
+how debugging works and
+
+1287
+01:29:31,680 --> 01:29:32,440
+how this all is
+
+1288
+01:29:32,440 --> 01:29:34,720
+working, you guys can on
+what can be on break.
+
+1289
+01:29:35,440 --> 01:29:45,600
+This is the only thing that I will showing
+and then we will be having a big.
+
+1290
+01:29:45,600 --> 01:29:50,040
+So let me put it in here and let me debug
+
+1291
+01:29:57,920 --> 01:30:03,040
+so I have this step over button
+and then step into button.
+
+1292
+01:30:03,040 --> 01:30:05,920
+I want to go to the next line,
+which button I should click guys
+
+1293
+01:30:12,480 --> 01:30:13,240
+over button.
+
+1294
+01:30:13,240 --> 01:30:14,040
+Right.
+
+1295
+01:30:14,160 --> 01:30:18,160
+So the object person
+one is declared, right?
+
+1296
+01:30:19,280 --> 01:30:21,120
+And then we are declaring in it.
+
+1297
+01:30:21,120 --> 01:30:24,400
+So the of persons
+
+1298
+01:30:25,080 --> 01:30:27,360
+it has three elements.
+
+1299
+01:30:28,240 --> 01:30:31,560
+The first element
+
+1300
+01:30:31,560 --> 01:30:33,360
+is a student.
+
+1301
+01:30:33,360 --> 01:30:34,920
+You guys can see that in here.
+
+1302
+01:30:34,920 --> 01:30:40,280
+The second one is an employee
+and the third one is a feature.
+
+1303
+01:30:40,280 --> 01:30:44,160
+So now I have this person variable
+and I want to focus.
+
+1304
+01:30:44,760 --> 01:30:48,080
+I want you to focus on this person
+to actually see it's very important.
+
+1305
+01:30:48,080 --> 01:30:50,760
+So as the moment I say
+
+1306
+01:30:52,440 --> 01:30:55,840
+next going to see from this area,
+
+1307
+01:30:55,960 --> 01:30:59,280
+the first element was student
+and it has been copied
+
+1308
+01:31:00,920 --> 01:31:01,680
+to this person.
+
+1309
+01:31:01,680 --> 01:31:03,880
+So you see it now contains student.
+
+1310
+01:31:03,880 --> 01:31:06,480
+So this person is right now
+
+1311
+01:31:06,880 --> 01:31:09,760
+containing a student object.
+
+1312
+01:31:09,760 --> 01:31:13,840
+Okay, then I call this perform daily task.
+
+1313
+01:31:13,920 --> 01:31:15,000
+So what will happen?
+
+1314
+01:31:15,000 --> 01:31:17,920
+The method from this student
+will be called, right?
+
+1315
+01:31:18,080 --> 01:31:20,240
+Because I have the object that student.
+
+1316
+01:31:20,240 --> 01:31:21,000
+Right.
+
+1317
+01:31:21,240 --> 01:31:27,360
+So I say next.
+
+1318
+01:31:27,960 --> 01:31:31,000
+Then I check if person two
+
+1319
+01:31:31,080 --> 01:31:34,440
+which right now contains a student,
+
+1320
+01:31:34,440 --> 01:31:40,440
+if it is an instance of teacher
+So this condition will return me false
+
+1321
+01:31:40,480 --> 01:31:45,280
+because student is not an instance
+of teacher class, right?
+
+1322
+01:31:46,280 --> 01:31:48,040
+So this will be false.
+
+1323
+01:31:48,040 --> 01:31:52,600
+And I go,
+I go to the next iteration of the loop
+
+1324
+01:31:53,200 --> 01:31:55,920
+and as soon as I execute
+the next iteration,
+
+1325
+01:31:55,920 --> 01:32:00,960
+you go see this time
+this person too, it contains an employee.
+
+1326
+01:32:02,160 --> 01:32:04,400
+So again, we perform daily task
+
+1327
+01:32:04,400 --> 01:32:08,960
+from the employee class will be executed
+and we will see this output.
+
+1328
+01:32:10,480 --> 01:32:12,160
+Then again, this is condition text.
+
+1329
+01:32:12,160 --> 01:32:17,040
+If employee is an instance of teacher,
+is it an instance of teacher?
+
+1330
+01:32:17,080 --> 01:32:21,200
+Guys? No.
+
+1331
+01:32:21,400 --> 01:32:24,920
+Right. So
+
+1332
+01:32:26,480 --> 01:32:28,560
+this condition will again be false.
+
+1333
+01:32:30,120 --> 01:32:36,240
+Then a teacher will be placed
+to the last object.
+
+1334
+01:32:36,560 --> 01:32:39,960
+This this one from the area
+is now placed inside the person.
+
+1335
+01:32:40,920 --> 01:32:44,000
+So to execute the perform the task first,
+
+1336
+01:32:45,200 --> 01:32:46,200
+then it checks.
+
+1337
+01:32:46,200 --> 01:32:48,760
+If teacher is an instance of teacher
+or not.
+
+1338
+01:32:49,000 --> 01:32:52,760
+Is this condition true now?
+
+1339
+01:32:52,760 --> 01:32:55,840
+So now it will enter inside in here.
+
+1340
+01:32:56,440 --> 01:32:57,240
+Okay.
+
+1341
+01:32:57,360 --> 01:33:00,400
+So and from this person to box,
+
+1342
+01:33:00,960 --> 01:33:03,840
+I am getting this teacher instance back.
+
+1343
+01:33:05,040 --> 01:33:09,320
+Okay,
+I'm getting this teacher instance back.
+
+1344
+01:33:09,320 --> 01:33:12,560
+And now the design class will be called.
+
+1345
+01:33:13,160 --> 01:33:18,240
+Okay, So if I have a specific method
+inside a class,
+
+1346
+01:33:18,800 --> 01:33:21,120
+I must have the object
+
+1347
+01:33:21,600 --> 01:33:25,320
+in its original form to call that method.
+
+1348
+01:33:25,320 --> 01:33:27,440
+That's
+why I am writing this piece of line.
+
+1349
+01:33:28,440 --> 01:33:30,840
+That's
+why I dislike this part of the code.
+
+1350
+01:33:31,280 --> 01:33:34,640
+That's why I convert the person back
+
+1351
+01:33:34,640 --> 01:33:39,800
+to its original teacher form
+so that I can execute this method.
+
+1352
+01:33:39,840 --> 01:33:44,040
+Because executing this method
+when the teacher is stored
+
+1353
+01:33:44,040 --> 01:33:47,600
+inside of the parent type box,
+if not possible,
+
+1354
+01:33:47,640 --> 01:33:50,680
+we have to convert it
+to its original form.
+
+1355
+01:33:51,760 --> 01:33:54,480
+Well, I'm getting an error first person so
+
+1356
+01:33:59,640 --> 01:34:00,560
+Michael,
+
+1357
+01:34:00,560 --> 01:34:04,560
+on line 16,
+you have given the name to your array
+
+1358
+01:34:04,560 --> 01:34:08,640
+as array, but on line nine
+then you are using person.
+
+1359
+01:34:08,680 --> 01:34:13,360
+So either change the line
+number 16, Edit 2% or change your line.
+
+1360
+01:34:13,360 --> 01:34:15,880
+Number 19 to a
+
+1361
+01:34:17,320 --> 01:34:18,960
+or address.
+
+1362
+01:34:18,960 --> 01:34:20,720
+So is it clear now
+
+1363
+01:34:20,720 --> 01:34:25,320
+how the shifting of objects
+from one box to the other box happens?
+
+1364
+01:34:25,320 --> 01:34:30,800
+We can call specific method
+and how we can execute all the meters,
+
+1365
+01:34:31,120 --> 01:34:34,440
+how casting works, why it works like this,
+
+1366
+01:34:34,440 --> 01:34:37,720
+why we cannot store one type of object
+in another type.
+
+1367
+01:34:38,320 --> 01:34:40,200
+How, how, how the logic works.
+
+1368
+01:34:40,200 --> 01:34:42,120
+Why it is logical to
+
+1369
+01:34:44,000 --> 01:34:46,240
+divide and does all of this.
+
+1370
+01:34:47,080 --> 01:34:49,320
+Okay, so now let's have a break.
+
+1371
+01:34:49,320 --> 01:34:51,240
+After the break, we will solve the task.
+
+1372
+01:34:51,240 --> 01:34:54,320
+And today's class will
+we will start today's
+
+1373
+01:34:54,320 --> 01:34:56,240
+class back
+
+1374
+01:34:59,360 --> 01:35:02,960
+so we can spend more time
+on polymorphism and overwriting.
+
+1375
+01:35:02,960 --> 01:35:06,480
+And this if you guys don't understand it
+
+1376
+01:35:07,200 --> 01:35:09,480
+after the next week as well, don't
+
+1377
+01:35:09,480 --> 01:35:17,440
+worry about it.
+
+1378
+01:35:17,440 --> 01:35:20,280
+So three for P and then
+
+1379
+01:35:22,800 --> 01:35:23,400
+to two
+
+1380
+01:35:24,920 --> 01:35:26,400
+for 52
+
+1381
+01:35:26,720 --> 01:35:28,320
+it will be 15 minutes, right?
+
+1382
+01:35:28,320 --> 01:35:30,000
+Or 15 minutes.
+
+1383
+01:35:30,840 --> 01:35:31,560
+Yes please.
+
+1384
+01:35:31,560 --> 01:35:33,920
+We should stay on polymorphism.
+
+1385
+01:35:33,920 --> 01:35:36,200
+So if you don't want to
+
+1386
+01:35:36,480 --> 01:35:44,000
+complete this bootcamp,
+otherwise please be back by 853
+
+1387
+01:35:44,000 --> 01:36:12,920
+and remind me about the coding.
+
+1388
+01:36:12,920 --> 01:36:19,880
+All right, guys, I hope you guys are back.
+
+1389
+01:36:19,880 --> 01:36:22,000
+Three. Thank you.
+
+1390
+01:36:22,000 --> 01:36:24,040
+Okay, we are already recording.
+
+1391
+01:36:25,400 --> 01:36:27,520
+Look at my profile picture
+
+1392
+01:36:31,440 --> 01:36:33,760
+it. It's
+
+1393
+01:36:34,120 --> 01:36:37,480
+the Western Now I have to have a haircut
+like you.
+
+1394
+01:36:37,480 --> 01:36:38,920
+Next time, maybe.
+
+1395
+01:36:38,920 --> 01:36:43,680
+Or I can gain weight like you.
+
+1396
+01:36:43,680 --> 01:37:01,280
+So if it great.
+
+1397
+01:37:01,280 --> 01:37:12,760
+Let's have the work.
+
+1398
+01:37:12,760 --> 01:37:15,160
+Oh, by the way, I forgot.
+
+1399
+01:37:15,160 --> 01:37:16,840
+I forgot to tell you that.
+
+1400
+01:37:16,840 --> 01:37:19,840
+That today's class
+is actually the easiest class.
+
+1401
+01:37:20,200 --> 01:37:23,640
+It's about the final keyword with the you
+
+1402
+01:37:27,520 --> 01:37:28,560
+final? Yes.
+
+1403
+01:37:28,560 --> 01:37:33,960
+Finally,
+we will learn about the final keywords.
+
+1404
+01:37:33,960 --> 01:37:35,440
+You always said this.
+
+1405
+01:37:35,440 --> 01:37:41,160
+So now you guys know the truth.
+
+1406
+01:37:41,160 --> 01:37:41,400
+Well,
+
+1407
+01:37:42,360 --> 01:37:47,160
+I know this setup, okay?
+
+1408
+01:37:47,640 --> 01:37:48,080
+It's.
+
+1409
+01:37:48,320 --> 01:37:51,960
+It's really
+it's really it's really the easiest class.
+
+1410
+01:37:52,800 --> 01:37:55,600
+So, again, you guys send me the
+
+1411
+01:37:55,600 --> 01:37:57,960
+statement for question
+
+1412
+01:38:02,280 --> 01:38:05,640
+and we will expect it hard.
+
+1413
+01:38:05,640 --> 01:38:07,280
+The hard part is gone.
+
+1414
+01:38:07,280 --> 01:38:12,360
+It was polymorphic ism.
+
+1415
+01:38:12,360 --> 01:38:15,800
+It was hard, right? It was actually hard.
+
+1416
+01:38:17,000 --> 01:38:18,440
+I mean, as compared to
+
+1417
+01:38:18,440 --> 01:38:24,520
+other classes.
+
+1418
+01:38:24,520 --> 01:38:32,760
+But not too much. Yep.
+
+1419
+01:38:33,760 --> 01:38:35,040
+Can you guys send me this statement?
+
+1420
+01:38:35,040 --> 01:38:37,000
+I need more explanation about this.
+
+1421
+01:38:37,000 --> 01:38:38,200
+Yes. Now,
+
+1422
+01:38:38,640 --> 01:38:42,960
+on your job,
+you will only be needing the polymorphism.
+
+1423
+01:38:43,080 --> 01:38:43,800
+Nothing else.
+
+1424
+01:38:43,800 --> 01:38:44,320
+Right.
+
+1425
+01:38:44,320 --> 01:38:46,680
+So let's spend all the classes on that.
+
+1426
+01:38:47,760 --> 01:38:54,480
+We have already spent three classes.
+
+1427
+01:38:54,480 --> 01:38:56,520
+Don't worry, I'm just kidding.
+
+1428
+01:38:56,520 --> 01:38:57,840
+We will spend more time.
+
+1429
+01:38:57,840 --> 01:38:59,480
+If you guys want to create.
+
+1430
+01:38:59,480 --> 01:39:02,280
+This work already
+you covered in your review class.
+
+1431
+01:39:03,000 --> 01:39:08,560
+I told us all to go about to go through
+the polymorphism and all that as well.
+
+1432
+01:39:08,720 --> 01:39:18,160
+During review class as well.
+
+1433
+01:39:18,160 --> 01:39:20,680
+Access modifiers
+
+1434
+01:39:24,360 --> 01:39:25,440
+at here.
+
+1435
+01:39:25,440 --> 01:39:29,320
+So next time I will ask Suhail or ASL
+
+1436
+01:39:30,400 --> 01:39:32,760
+to spend more time
+
+1437
+01:39:34,160 --> 01:39:36,560
+on polymorphism
+
+1438
+01:39:54,280 --> 01:39:54,960
+or create
+
+1439
+01:39:54,960 --> 01:39:59,120
+a class store that will have pre subclass.
+
+1440
+01:39:59,120 --> 01:40:02,760
+See that as syntax student quality.
+
+1441
+01:40:02,760 --> 01:40:07,360
+Our schools
+define common behavior within parent class
+
+1442
+01:40:08,800 --> 01:40:11,920
+and override some of the matters
+in this child.
+
+1443
+01:40:11,920 --> 01:40:13,000
+Classes.
+
+1444
+01:40:13,240 --> 01:40:16,200
+Define
+some methods specific to child classes.
+
+1445
+01:40:16,840 --> 01:40:19,840
+Great example of achieving polymorphism
+
+1446
+01:40:21,600 --> 01:40:24,240
+or so
+
+1447
+01:40:26,000 --> 01:40:29,640
+let's define a behavior study.
+
+1448
+01:40:29,640 --> 01:40:33,360
+Right all the disorders this fairly
+
+1449
+01:40:58,040 --> 01:41:01,760
+to you look in our homeworks.
+
+1450
+01:41:01,800 --> 01:41:03,720
+Yes I do.
+
+1451
+01:41:04,080 --> 01:41:07,560
+So when I see lot of people
+they are making same mistake.
+
+1452
+01:41:07,960 --> 01:41:11,800
+Then I try to incorporate that feedback
+during the during
+
+1453
+01:41:11,800 --> 01:41:12,840
+the class
+
+1454
+01:41:19,120 --> 01:41:21,360
+and I am thinking of
+
+1455
+01:41:23,240 --> 01:41:26,000
+actually picking the homework
+from any one of you
+
+1456
+01:41:26,320 --> 01:41:31,200
+from the next classes
+and then maybe trying to fix text
+
+1457
+01:41:31,440 --> 01:41:35,040
+so that you guys can see
+how we're where things were wrong
+
+1458
+01:41:35,440 --> 01:42:03,360
+and how we fix them.
+
+1459
+01:42:03,360 --> 01:42:05,440
+And you guys can define any methods.
+
+1460
+01:42:05,440 --> 01:42:06,760
+I am defining these methods.
+
+1461
+01:42:06,760 --> 01:42:07,560
+You guys
+
+1462
+01:42:08,840 --> 01:42:35,280
+can have any methods in here. Now
+
+1463
+01:42:36,440 --> 01:42:38,640
+let's have a syntax class
+
+1464
+01:42:39,880 --> 01:42:43,440
+class syntax to run experience
+
+1465
+01:42:45,080 --> 01:42:50,200
+and the student.
+
+1466
+01:42:50,200 --> 01:42:50,360
+Okay,
+
+1467
+01:42:51,600 --> 01:42:54,000
+so now let's try to override
+
+1468
+01:42:54,000 --> 01:43:20,160
+some behavior.
+
+1469
+01:43:20,160 --> 01:43:35,160
+Is it okay to study 25 hours a week?
+
+1470
+01:43:35,160 --> 01:43:37,920
+Is anyone angry?
+
+1471
+01:43:38,080 --> 01:43:40,360
+Yes, I am
+
+1472
+01:44:02,240 --> 01:44:03,280
+enjoying hurting.
+
+1473
+01:44:03,280 --> 01:44:05,520
+Is from parents, right?
+
+1474
+01:44:05,520 --> 01:44:08,280
+Attending the classes.
+
+1475
+01:44:08,280 --> 01:44:09,960
+I am so happy I am not hungry.
+
+1476
+01:44:09,960 --> 01:44:12,760
+Otherwise I would walk after
+
+1477
+01:44:12,760 --> 01:44:27,760
+class.
+
+1478
+01:44:27,760 --> 01:44:30,200
+But in the picture world
+they are playing game, right?
+
+1479
+01:44:30,320 --> 01:44:33,040
+They are not studying
+or doing like something like that.
+
+1480
+01:44:33,040 --> 01:44:33,760
+Right.
+
+1481
+01:44:34,440 --> 01:44:45,800
+Question Question.
+
+1482
+01:44:45,800 --> 01:44:48,600
+Still, it's a good
+
+1483
+01:44:48,600 --> 01:44:49,920
+good use.
+
+1484
+01:44:49,920 --> 01:44:53,560
+So syntax student must do
+
+1485
+01:44:55,760 --> 01:44:59,280
+additional reasons
+
+1486
+01:45:03,480 --> 01:45:06,480
+and then we can have the class
+
+1487
+01:45:11,240 --> 01:45:29,760
+college students.
+
+1488
+01:45:29,760 --> 01:45:33,920
+And then I don't want to override
+these methods
+
+1489
+01:45:33,920 --> 01:45:35,960
+for the student, but
+
+1490
+01:45:38,120 --> 01:45:41,400
+only, only let's override
+one of the methods.
+
+1491
+01:45:41,400 --> 01:45:44,520
+So two of the methods they will be
+
+1492
+01:45:45,720 --> 01:46:03,400
+same.
+
+1493
+01:46:03,400 --> 01:46:05,080
+And then
+
+1494
+01:46:07,960 --> 01:46:09,400
+class
+
+1495
+01:46:13,400 --> 01:46:14,840
+will student
+
+1496
+01:46:16,600 --> 01:46:18,520
+and not override
+
+1497
+01:46:18,520 --> 01:46:22,480
+any of the methods in here.
+
+1498
+01:46:22,480 --> 01:46:25,160
+But we need to write override at all.
+
+1499
+01:46:25,920 --> 01:46:27,240
+It's just a recommendation.
+
+1500
+01:46:27,240 --> 01:46:29,280
+It's just an annotation.
+
+1501
+01:46:29,280 --> 01:46:31,680
+Yes. It's good to write. It's
+good to write.
+
+1502
+01:46:31,680 --> 01:46:33,240
+You should always like it.
+
+1503
+01:46:33,240 --> 01:46:34,760
+Let me actually follow the best.
+
+1504
+01:46:34,760 --> 01:46:36,880
+Represent me
+
+1505
+01:46:36,880 --> 01:46:41,040
+back in here.
+
+1506
+01:46:41,040 --> 01:46:44,040
+It's always good to have
+
+1507
+01:46:44,880 --> 01:46:47,880
+because it will tell you
+if you are making a mistake or not.
+
+1508
+01:46:47,880 --> 01:46:51,480
+You see, if I if I put this override
+
+1509
+01:46:51,480 --> 01:46:54,480
+on study and homework,
+I don't get any error.
+
+1510
+01:46:54,480 --> 01:46:57,840
+But the moment I put it on to do research,
+I get an error
+
+1511
+01:46:58,160 --> 01:47:01,840
+and it says method does not override
+method from the superclass.
+
+1512
+01:47:02,160 --> 01:47:10,720
+Or what does this error means?
+
+1513
+01:47:10,720 --> 01:47:12,360
+It is saying hey is good.
+
+1514
+01:47:12,360 --> 01:47:17,400
+There is no new research
+method inside your parent class.
+
+1515
+01:47:17,920 --> 01:47:19,200
+If there is no method
+
+1516
+01:47:19,200 --> 01:47:22,920
+presented inside the parent class,
+you cannot override it, right?
+
+1517
+01:47:23,040 --> 01:47:24,200
+You cannot override it.
+
+1518
+01:47:25,840 --> 01:47:28,800
+So that's how these override annotation
+
+1519
+01:47:29,400 --> 01:47:35,040
+annotations can help.
+
+1520
+01:47:35,040 --> 01:47:36,720
+It's always good to hear.
+
+1521
+01:47:36,720 --> 01:47:40,520
+So now let's have
+
+1522
+01:48:06,000 --> 01:48:07,160
+so guys
+
+1523
+01:48:09,320 --> 01:48:11,040
+quickly write the code
+
+1524
+01:48:11,040 --> 01:48:15,080
+to achieve the polymorphism
+or the code that you guys have written.
+
+1525
+01:48:15,080 --> 01:48:16,800
+To achieve the polymorphism.
+
+1526
+01:48:16,800 --> 01:48:19,000
+Quickly
+send that in the IntelliJ questions.
+
+1527
+01:48:19,040 --> 01:48:29,080
+Jenna, Let me let me see how you guys
+have written it.
+
+1528
+01:48:29,080 --> 01:48:31,200
+Student to college.
+
+1529
+01:48:31,200 --> 01:48:34,560
+Student Senior Student
+
+1530
+01:48:37,200 --> 01:48:38,520
+Okay, so Elena has written
+
+1531
+01:48:38,520 --> 01:49:27,880
+this piece of work.
+
+1532
+01:49:27,880 --> 01:49:29,240
+Oh, I think you have already.
+
+1533
+01:49:29,240 --> 01:49:39,360
+You'll be casting in it
+and all that pre tutorials.
+
+1534
+01:49:39,360 --> 01:49:40,120
+All right, perfect.
+
+1535
+01:49:40,120 --> 01:49:45,120
+So I have this study method,
+
+1536
+01:49:45,880 --> 01:49:48,680
+I have this homework method,
+
+1537
+01:49:49,360 --> 01:49:52,320
+and then this
+
+1538
+01:49:52,440 --> 01:49:54,280
+practice method
+
+1539
+01:49:57,000 --> 01:49:57,520
+already.
+
+1540
+01:49:57,520 --> 01:50:01,400
+So I will be able to call these
+three methods
+
+1541
+01:50:01,400 --> 01:50:04,680
+without any costing right.
+
+1542
+01:50:04,680 --> 01:50:07,680
+But drive decode
+
+1543
+01:50:07,680 --> 01:50:13,200
+if I want to for inside the same look,
+how can I execute this?
+
+1544
+01:50:13,200 --> 01:50:15,400
+Do research as well.
+
+1545
+01:50:15,400 --> 01:50:16,080
+Right. Right.
+
+1546
+01:50:16,080 --> 01:50:25,200
+That piece of code. Yes.
+
+1547
+01:50:25,200 --> 01:50:29,280
+With the if condition otherwise
+we will be getting an error right.
+
+1548
+01:50:29,280 --> 01:50:32,280
+Because we are inside the loop
+and that will try
+
+1549
+01:50:32,280 --> 01:50:36,200
+to convert every object
+to the syntax student object.
+
+1550
+01:50:37,000 --> 01:50:39,360
+Yes. According to today's class, if
+
+1551
+01:50:55,240 --> 01:50:58,080
+if first instance of syntax to run.
+
+1552
+01:50:58,200 --> 01:50:59,760
+Yes. Next.
+
+1553
+01:50:59,760 --> 01:51:03,200
+After that, what should I do
+if I want all this new research
+
+1554
+01:51:58,240 --> 01:51:58,680
+Student
+
+1555
+01:51:58,680 --> 01:52:03,040
+One instance of syntax class to index to.
+
+1556
+01:52:03,320 --> 01:52:06,000
+Student one And learn or this is great.
+
+1557
+01:52:06,000 --> 01:52:08,440
+Alex So your guitar,
+your code is not correct
+
+1558
+01:52:10,800 --> 01:52:14,040
+because I cannot
+this is not a static method, right?
+
+1559
+01:52:14,040 --> 01:52:17,800
+So I cannot call it on
+the name of the class, no collaborators.
+
+1560
+01:52:17,800 --> 01:52:21,160
+And then you are missing
+that name of the object as that.
+
+1561
+01:52:21,600 --> 01:52:22,160
+Okay. Okay.
+
+1562
+01:52:22,160 --> 01:52:22,800
+No, no, no.
+
+1563
+01:52:22,800 --> 01:52:25,640
+So you this is the object, right?
+
+1564
+01:52:25,640 --> 01:52:28,680
+So as yes, no other then?
+
+1565
+01:52:28,680 --> 01:52:31,200
+That is correct. Yes, it's correct.
+
+1566
+01:52:31,280 --> 01:52:44,240
+And then that.
+
+1567
+01:52:44,240 --> 01:52:49,200
+So if s is an instance of syntax student
+try to convert their S
+
+1568
+01:52:49,920 --> 01:52:52,480
+and then try to call this
+
+1569
+01:52:54,080 --> 01:52:56,720
+new research
+
+1570
+01:52:57,440 --> 01:52:59,440
+and execute for
+
+1571
+01:53:03,720 --> 01:53:06,680
+and I get all the output from everywhere
+
+1572
+01:53:06,680 --> 01:53:08,720
+and I get this output, but
+
+1573
+01:53:12,480 --> 01:53:13,720
+any questions from this task
+
+1574
+01:53:13,720 --> 01:53:25,440
+based.
+
+1575
+01:53:25,440 --> 01:53:28,320
+Yes, maybe as defined
+the variable differently.
+
+1576
+01:53:29,760 --> 01:53:31,720
+So this is how you guys
+
+1577
+01:53:31,720 --> 01:53:34,760
+are supposed to solve this homework.
+
+1578
+01:53:35,760 --> 01:53:36,080
+Okay.
+
+1579
+01:53:36,080 --> 01:53:51,760
+Just going.
+
+1580
+01:53:51,760 --> 01:53:53,720
+Okay, so no questions.
+
+1581
+01:53:53,720 --> 01:53:55,560
+So we move to the
+
+1582
+01:53:56,000 --> 01:54:05,080
+today's class.
+
+1583
+01:54:05,080 --> 01:54:08,320
+Okay, so
+
+1584
+01:54:08,640 --> 01:54:10,600
+look, we did a long way,
+
+1585
+01:54:10,600 --> 01:54:13,600
+but I wondered only not research
+
+1586
+01:54:13,600 --> 01:54:17,240
+of how to do that.
+
+1587
+01:54:17,240 --> 01:54:21,440
+Technically, this is I mean, this
+
+1588
+01:55:21,920 --> 01:55:24,480
+let's say I,
+
+1589
+01:55:24,480 --> 01:55:26,280
+I have this
+
+1590
+01:55:31,120 --> 01:55:38,960
+class, and inside this pattern,
+
+1591
+01:55:38,960 --> 01:56:00,760
+I have a field.
+
+1592
+01:56:00,760 --> 01:56:04,240
+How many of you know about the value of pi
+
+1593
+01:56:04,440 --> 01:56:10,400
+or the value of gravity?
+
+1594
+01:56:10,400 --> 01:56:13,400
+The value of g gravitational pull or not,
+
+1595
+01:56:13,560 --> 01:56:16,760
+or any other constant?
+
+1596
+01:56:16,760 --> 01:56:24,880
+Are you guys all aware of gravity?
+
+1597
+01:56:24,880 --> 01:56:29,960
+No, not me. So
+
+1598
+01:56:31,600 --> 01:56:33,680
+those who are not aware of the gravity,
+
+1599
+01:56:33,680 --> 01:56:37,720
+can you guys
+tell me if we throw something to
+
+1600
+01:56:38,000 --> 01:56:49,400
+in the sky,
+why it falls back on the earth?
+
+1601
+01:56:49,400 --> 01:56:50,880
+It's because of the gravity.
+
+1602
+01:56:50,880 --> 01:56:54,840
+So our earth is always putting a force,
+
+1603
+01:56:54,840 --> 01:57:00,000
+kind of attracting everything
+with the force of 9.8 meter per second.
+
+1604
+01:57:00,000 --> 01:57:03,920
+So in simple terms,
+
+1605
+01:57:03,920 --> 01:57:06,760
+due to gravity, we all stick to earth.
+
+1606
+01:57:07,040 --> 01:57:10,920
+What goes up must come down.
+
+1607
+01:57:10,920 --> 01:57:13,560
+But this does not happen in this space.
+
+1608
+01:57:14,160 --> 01:57:17,040
+If you throw something in this space,
+
+1609
+01:57:17,640 --> 01:57:21,320
+like, for example,
+if you are in the middle of the
+
+1610
+01:57:22,680 --> 01:57:25,920
+I mean, if you are not on any planet
+or moon or something like that,
+
+1611
+01:57:26,160 --> 01:57:30,520
+if you throw something,
+it will keep on moving indefinitely.
+
+1612
+01:57:30,520 --> 01:57:31,200
+Okay?
+
+1613
+01:57:31,440 --> 01:57:35,560
+Because there is no gravity or no other
+force or nothing that can stop it, okay?
+
+1614
+01:57:35,600 --> 01:57:38,760
+It's not like it does not work.
+
+1615
+01:57:38,760 --> 01:57:43,080
+Like on like
+with like it works on the earth, okay?
+
+1616
+01:57:43,440 --> 01:57:44,520
+It does not come back.
+
+1617
+01:57:44,520 --> 01:57:47,280
+It will keep on moving in that direction.
+
+1618
+01:57:47,960 --> 01:57:52,560
+So everything stick to earth because of
+this gravity, all those C and everything.
+
+1619
+01:57:52,840 --> 01:57:56,680
+All those waves that we see in these
+
+1620
+01:57:58,160 --> 01:57:59,880
+in C, they are
+
+1621
+01:57:59,880 --> 01:58:03,600
+of the gravitational pull of the moon.
+
+1622
+01:58:03,600 --> 01:58:05,920
+So when we have to right,
+
+1623
+01:58:06,480 --> 01:58:09,280
+when we have to really find
+some mathematical classes
+
+1624
+01:58:09,520 --> 01:58:12,400
+we are doing,
+when we are defining some classes
+
+1625
+01:58:12,400 --> 01:58:15,560
+that will be dealing
+with these constants or,
+
+1626
+01:58:15,720 --> 01:58:20,760
+or if also there is something
+that we never want to change.
+
+1627
+01:58:21,160 --> 01:58:26,320
+That is something universe that we want
+to define their thing inside a variable
+
+1628
+01:58:26,760 --> 01:58:30,840
+and we don't want anyone
+to change in their thing.
+
+1629
+01:58:31,240 --> 01:58:31,760
+Okay?
+
+1630
+01:58:31,760 --> 01:58:34,280
+To change the value of their thing,
+
+1631
+01:58:34,800 --> 01:58:39,200
+then we will define their thing as final.
+
+1632
+01:58:39,200 --> 01:58:42,120
+So for example,
+we all know that on the earth
+
+1633
+01:58:44,360 --> 01:58:47,280
+the value of gravity
+
+1634
+01:58:51,880 --> 01:58:54,200
+will be 9.8.
+
+1635
+01:58:54,200 --> 01:58:57,400
+Now, we don't want to change this thing
+
+1636
+01:58:57,680 --> 01:59:00,320
+in any of the classes, okay?
+
+1637
+01:59:00,600 --> 01:59:04,680
+We don't want to change this thing
+inside the business class.
+
+1638
+01:59:04,800 --> 01:59:05,360
+Okay?
+
+1639
+01:59:05,360 --> 01:59:08,320
+Because if we are allowed
+to change in this thing,
+
+1640
+01:59:08,640 --> 01:59:10,880
+this value of this variable,
+
+1641
+01:59:11,600 --> 01:59:14,560
+and if other matters
+
+1642
+01:59:14,560 --> 01:59:17,440
+or other fields are only using this value,
+
+1643
+01:59:17,880 --> 01:59:21,840
+we can get a wrong result
+for all those matters.
+
+1644
+01:59:21,960 --> 01:59:24,200
+All those matters, they can be here.
+
+1645
+01:59:24,520 --> 01:59:28,600
+So when you want something
+constant in your code
+
+1646
+01:59:29,320 --> 01:59:34,440
+like laws, universal constants
+or values of your variables,
+
+1647
+01:59:36,000 --> 01:59:38,280
+you make their thing
+
+1648
+01:59:38,280 --> 01:59:43,520
+final and you store their thing
+and the value inside of that thing.
+
+1649
+01:59:43,520 --> 01:59:47,960
+There is one more benefit
+of defining these final variables.
+
+1650
+01:59:48,240 --> 01:59:51,840
+Do you guys know there is
+another paradigm, the functional paradigm.
+
+1651
+01:59:52,120 --> 01:59:55,400
+In that paradigm, every variable is final.
+
+1652
+01:59:55,920 --> 01:59:59,000
+When we do that what happens is
+there can be hackers.
+
+1653
+01:59:59,320 --> 02:00:03,960
+They can try,
+they can go and check your memory.
+
+1654
+02:00:04,000 --> 02:00:08,880
+So all of the programs
+and they are executing inside the RAM
+
+1655
+02:00:08,880 --> 02:00:10,720
+right on my computer.
+
+1656
+02:00:10,720 --> 02:00:14,640
+I can write a program
+that can that can go inside
+
+1657
+02:00:14,640 --> 02:00:19,040
+the memory of other programs
+and it can change the values.
+
+1658
+02:00:19,320 --> 02:00:22,080
+But if I define if I declare
+
+1659
+02:00:22,440 --> 02:00:25,240
+the variables as final,
+
+1660
+02:00:25,240 --> 02:00:29,880
+those those things, they can never
+be changed or not even inside of memory.
+
+1661
+02:00:29,880 --> 02:00:33,760
+So it's very good practice
+for security reasons as well.
+
+1662
+02:00:34,360 --> 02:00:40,160
+If you know that something is going to
+make it fine, it declared it final. Now,
+
+1663
+02:00:41,320 --> 02:00:42,640
+how we can achieve that?
+
+1664
+02:00:42,640 --> 02:00:45,520
+We achieve that
+with the help of final keyword.
+
+1665
+02:00:45,520 --> 02:00:51,760
+Now let's see if I have a method.
+
+1666
+02:00:51,760 --> 02:00:53,200
+Maybe
+
+1667
+02:00:53,840 --> 02:00:55,840
+strategy can be changed.
+
+1668
+02:00:55,840 --> 02:00:58,200
+Yesterday can be changed
+
+1669
+02:00:58,200 --> 02:01:00,720
+starting again,
+but just starting means something.
+
+1670
+02:01:00,720 --> 02:01:04,880
+Sure, across
+all the objects, static does not mean
+
+1671
+02:01:06,560 --> 02:01:08,560
+a thing that can not be change.
+
+1672
+02:01:08,560 --> 02:01:10,720
+Okay. If you define it.
+
+1673
+02:01:11,360 --> 02:01:17,240
+So maybe the naming convention
+is confusing. You.
+
+1674
+02:01:17,240 --> 02:01:21,080
+That static keyword
+is coming from a special memory area
+
+1675
+02:01:21,080 --> 02:01:23,760
+inside our computer that is called static.
+
+1676
+02:01:24,120 --> 02:01:26,760
+That's why we call those variable
+that static
+
+1677
+02:01:27,160 --> 02:01:48,640
+because they are declared inside
+that static area.
+
+1678
+02:01:48,640 --> 02:01:51,600
+So I am now writing a method.
+
+1679
+02:01:52,520 --> 02:01:57,000
+Okay So I am writing a method
+
+1680
+02:01:57,000 --> 02:02:01,320
+and I see
+if I say gravity is equal to 10.2,
+
+1681
+02:02:02,400 --> 02:02:06,200
+I will get an active okay
+and the error save
+
+1682
+02:02:07,080 --> 02:02:12,400
+can not assign a value
+to final variable and gravity.
+
+1683
+02:02:12,400 --> 02:02:18,360
+These final variables,
+they are only assigned a value once.
+
+1684
+02:02:18,480 --> 02:02:21,320
+Once you have initialized the
+these variables.
+
+1685
+02:02:21,560 --> 02:02:24,400
+Once you have stored something inside
+
+1686
+02:02:24,400 --> 02:02:27,640
+of these final variables,
+you cannot change that.
+
+1687
+02:02:28,200 --> 02:02:28,600
+Okay?
+
+1688
+02:02:28,640 --> 02:02:33,920
+You cannot change that.
+
+1689
+02:02:33,920 --> 02:02:35,680
+So I cannot reassign it.
+
+1690
+02:02:35,680 --> 02:02:37,840
+I cannot change it. Okay.
+
+1691
+02:02:37,840 --> 02:02:50,640
+I can now only replace.
+
+1692
+02:02:50,640 --> 02:02:53,560
+All right, now,
+what are the other uses of the
+
+1693
+02:02:54,640 --> 02:02:55,960
+final plot?
+
+1694
+02:02:55,960 --> 02:03:01,040
+The final fewer.
+
+1695
+02:03:01,040 --> 02:03:02,640
+So right now,
+
+1696
+02:03:03,720 --> 02:03:07,920
+every class inside Java, again,
+
+1697
+02:03:07,920 --> 02:03:11,120
+inherited from the spin class.
+
+1698
+02:03:11,120 --> 02:03:13,760
+If you guys don't want this behavior,
+
+1699
+02:03:14,040 --> 02:03:17,720
+if you don't want the others programmers
+
+1700
+02:03:18,000 --> 02:03:21,280
+external from your class, use your code
+
+1701
+02:03:21,640 --> 02:03:23,960
+and then develop on top of your code.
+
+1702
+02:03:24,600 --> 02:03:29,320
+What you can do,
+you can make your class final as well.
+
+1703
+02:03:30,240 --> 02:03:33,960
+And now the moment you you do that
+
+1704
+02:03:38,200 --> 02:03:40,920
+now, any class
+
+1705
+02:03:41,760 --> 02:03:45,360
+that now tries to extend from your class
+will get
+
+1706
+02:03:45,360 --> 02:03:48,760
+an error
+cannot and added from final period.
+
+1707
+02:03:49,440 --> 02:03:51,840
+Okay no one now
+
+1708
+02:03:52,560 --> 02:03:55,600
+can inherit from your parent class
+
+1709
+02:03:55,600 --> 02:04:00,240
+because we have declared
+that class as final.
+
+1710
+02:04:00,720 --> 02:04:07,400
+This is the second use
+of the final keyword.
+
+1711
+02:04:07,400 --> 02:04:10,560
+The hard to use of this final keyword is
+
+1712
+02:04:11,160 --> 02:04:13,240
+will be matters
+
+1713
+02:04:13,920 --> 02:04:15,640
+ready programmers will love that
+
+1714
+02:04:20,760 --> 02:04:21,440
+the term
+
+1715
+02:04:21,440 --> 02:04:25,040
+to use the tanios is will be methods.
+
+1716
+02:04:25,200 --> 02:04:28,560
+So you guys have learned how
+well what happens
+
+1717
+02:04:28,560 --> 02:04:31,520
+if we put the final keyword
+with variables?
+
+1718
+02:04:32,280 --> 02:04:35,800
+What happens
+if we write final keyword with class?
+
+1719
+02:04:36,280 --> 02:04:39,600
+Now if I put final with the method
+
+1720
+02:04:41,080 --> 02:04:43,800
+now, I cannot override
+
+1721
+02:04:43,800 --> 02:04:47,640
+this method inside.
+
+1722
+02:04:47,640 --> 02:04:58,080
+My child class.
+
+1723
+02:04:58,080 --> 02:04:58,560
+Okay,
+
+1724
+02:05:00,200 --> 02:05:03,240
+so now I go to Sara, blah blah blah.
+
+1725
+02:05:03,280 --> 02:05:08,960
+Cannot be override in blah blah blah over
+method is final.
+
+1726
+02:05:09,240 --> 02:05:13,360
+Okay,
+so now I cannot override that method.
+
+1727
+02:05:13,400 --> 02:05:18,680
+So for example, for example,
+if guys want something now,
+
+1728
+02:05:18,720 --> 02:05:21,920
+if you know, if you don't want your child
+classes.
+
+1729
+02:05:22,280 --> 02:05:27,120
+No, no, it does not work for the overtone,
+only for override.
+
+1730
+02:05:27,640 --> 02:05:28,200
+Okay.
+
+1731
+02:05:28,680 --> 02:05:32,560
+Only for override.
+
+1732
+02:05:32,560 --> 02:05:37,800
+So in the previous example, if I am not
+is is trying to marry someone else.
+
+1733
+02:05:38,400 --> 02:05:41,560
+What the father of four I am not can do.
+
+1734
+02:05:41,560 --> 02:05:46,800
+He can make the method as final now
+and what cannot override.
+
+1735
+02:05:47,280 --> 02:05:47,920
+Okay.
+
+1736
+02:05:47,920 --> 02:05:51,240
+And if I'm still trying to find new method
+
+1737
+02:05:51,760 --> 02:05:55,120
+it is Father
+can even make the whole class as final.
+
+1738
+02:05:55,440 --> 02:05:57,840
+So now he don't get any inheritance?
+
+1739
+02:05:57,840 --> 02:05:59,280
+No, No property.
+
+1740
+02:05:59,280 --> 02:06:02,960
+No money from Father.
+
+1741
+02:06:02,960 --> 02:06:09,040
+So these are
+the three uses of the final keyword
+
+1742
+02:06:09,280 --> 02:06:13,880
+when we put it with the variable,
+we cannot change its value.
+
+1743
+02:06:14,440 --> 02:06:19,200
+When we put it with the method,
+we cannot override that method.
+
+1744
+02:06:19,440 --> 02:06:24,720
+When we put it with class,
+we cannot inherit from that class.
+
+1745
+02:06:24,960 --> 02:06:26,720
+So then that was for this class.
+
+1746
+02:06:27,760 --> 02:06:30,120
+I hope you guys have into this.
+
+1747
+02:06:30,120 --> 02:06:30,960
+Thank you so much.
+
+1748
+02:06:30,960 --> 02:06:35,040
+Joining and by
+
+1749
+02:06:38,960 --> 02:06:41,120
+so this is the third
+
+1750
+02:06:41,200 --> 02:06:44,600
+use of the final key
+or let me put it on the nose as well
+
+1751
+02:06:45,720 --> 02:06:48,160
+so there is one one that you guys can do.
+
+1752
+02:06:49,520 --> 02:06:52,280
+Last thing is if
+
+1753
+02:07:00,840 --> 02:07:01,800
+if let's say
+
+1754
+02:07:01,800 --> 02:07:04,920
+I don't know the value and this time
+
+1755
+02:07:04,920 --> 02:07:09,520
+I am writing this class, okay,
+so what I can do,
+
+1756
+02:07:09,520 --> 02:07:12,600
+I can also give initial value
+
+1757
+02:07:12,960 --> 02:07:16,240
+to this gravity variable
+
+1758
+02:07:18,840 --> 02:07:20,400
+inside the constructor.
+
+1759
+02:07:20,400 --> 02:07:22,800
+I can also take this value from outside.
+
+1760
+02:07:23,960 --> 02:07:29,120
+So this is possible, but it is allowed
+only inside the constructor.
+
+1761
+02:07:29,520 --> 02:07:29,800
+Okay.
+
+1762
+02:07:29,800 --> 02:07:37,480
+Only inside the constructor.
+
+1763
+02:07:37,480 --> 02:07:42,720
+So this not gravity is equal to gravity.
+
+1764
+02:07:42,720 --> 02:07:46,040
+And once you call
+the constructor of this class
+
+1765
+02:07:46,320 --> 02:07:49,280
+and you assign the value,
+now that value is fixed.
+
+1766
+02:07:49,880 --> 02:07:53,560
+Okay, so we can only assign the value
+
+1767
+02:07:53,560 --> 02:07:57,400
+to this variable inside the constructor,
+
+1768
+02:07:58,200 --> 02:08:01,480
+or we can initialize it right away
+
+1769
+02:08:01,480 --> 02:08:04,440
+when we declaring that variable.
+
+1770
+02:08:05,320 --> 02:08:13,520
+Okay.
+
+1771
+02:08:13,520 --> 02:08:16,880
+And now we must
+have a matching constructor
+
+1772
+02:08:17,880 --> 02:08:20,000
+inside the
+
+1773
+02:08:20,440 --> 02:08:36,760
+class as well.
+
+1774
+02:08:36,760 --> 02:08:37,920
+The is it?
+
+1775
+02:08:37,920 --> 02:08:42,080
+Is there anyone confused
+about these three uses of the final
+
+1776
+02:08:42,080 --> 02:08:42,920
+keyword
+
+1777
+02:08:57,800 --> 02:08:58,200
+is here.
+
+1778
+02:08:58,200 --> 02:09:01,480
+So that is straightforward
+and that's all about it.
+
+1779
+02:09:01,480 --> 02:09:07,600
+So let me put it in the notes.
+
+1780
+02:09:07,600 --> 02:09:09,480
+Final
+
+1781
+02:09:09,800 --> 02:09:10,760
+keyword.
+
+1782
+02:09:11,880 --> 02:09:14,160
+So what is the first use of the final
+keyword?
+
+1783
+02:09:14,160 --> 02:09:14,840
+Right?
+
+1784
+02:09:14,920 --> 02:09:18,200
+Or one of the uses
+will be during the homework.
+
+1785
+02:09:18,200 --> 02:09:22,080
+As always, yes,
+
+1786
+02:09:22,760 --> 02:09:25,560
+I will try that fight with the variable.
+
+1787
+02:09:25,560 --> 02:09:26,280
+Right.
+
+1788
+02:09:27,800 --> 02:09:32,480
+If we write final with
+
+1789
+02:09:33,960 --> 02:09:39,600
+variable.
+
+1790
+02:09:39,600 --> 02:09:44,360
+And let me show you one more thing.
+
+1791
+02:09:44,360 --> 02:09:46,800
+So let's try
+
+1792
+02:09:48,120 --> 02:09:51,560
+to have
+
+1793
+02:10:18,480 --> 02:10:21,080
+so what we can do,
+
+1794
+02:10:21,080 --> 02:10:23,520
+we can really clear this variable
+
+1795
+02:10:24,160 --> 02:10:28,440
+in inside the child class, but we cannot
+
+1796
+02:10:29,640 --> 02:10:32,440
+change its value from the parent class.
+
+1797
+02:10:32,440 --> 02:10:33,680
+Okay, so this is possible.
+
+1798
+02:10:33,680 --> 02:10:37,880
+So don't don't get confused
+that we cannot also really declare it
+
+1799
+02:10:38,200 --> 02:10:41,560
+like like, for example,
+we can not really clear this method,
+
+1800
+02:10:41,800 --> 02:10:44,880
+but we can redeploy
+clear this variable in here.
+
+1801
+02:10:44,880 --> 02:10:47,680
+Okay. So different from this one.
+
+1802
+02:10:49,400 --> 02:10:52,680
+Okay. So
+
+1803
+02:10:52,840 --> 02:10:56,760
+if we write the final with variable
+
+1804
+02:10:56,880 --> 02:10:57,680
+rule,
+
+1805
+02:10:59,920 --> 02:11:02,400
+we cannot
+
+1806
+02:11:02,400 --> 02:11:07,960
+change its value.
+
+1807
+02:11:07,960 --> 02:11:11,400
+And there is one more restriction we must
+
+1808
+02:11:13,760 --> 02:11:20,960
+dangerous value.
+
+1809
+02:11:20,960 --> 02:11:23,520
+Either we should
+
+1810
+02:11:26,400 --> 02:11:29,200
+initialize it
+
+1811
+02:11:30,240 --> 02:11:31,920
+right away
+
+1812
+02:11:32,880 --> 02:11:37,560
+or through the constructor
+
+1813
+02:11:54,840 --> 02:11:57,360
+when used with the method.
+
+1814
+02:11:57,360 --> 02:12:01,840
+What happens is if we use it with method,
+but about uppercase
+
+1815
+02:12:01,840 --> 02:12:04,680
+name of final variable as we will or
+
+1816
+02:12:04,840 --> 02:12:07,240
+Alex will do or is not right.
+
+1817
+02:12:07,840 --> 02:12:09,760
+What about uppercase name?
+
+1818
+02:12:09,760 --> 02:12:11,280
+Oh yes.
+
+1819
+02:12:11,280 --> 02:12:15,840
+So someone is going to remind me
+there is one more best practice guys,
+
+1820
+02:12:16,760 --> 02:12:20,600
+regarding the final variable that
+
+1821
+02:12:21,640 --> 02:12:25,240
+when we make something
+
+1822
+02:12:25,320 --> 02:12:26,640
+constant, when we declare
+
+1823
+02:12:26,640 --> 02:12:32,600
+something called the SO convention
+in Java, that we declare it
+
+1824
+02:12:32,760 --> 02:12:36,360
+in all uppercase letters,
+
+1825
+02:12:36,480 --> 02:12:37,200
+okay,
+
+1826
+02:12:38,160 --> 02:12:43,320
+Like this, It's convention all caps
+
+1827
+02:12:44,080 --> 02:12:50,400
+just for the final variables.
+
+1828
+02:12:50,400 --> 02:12:52,720
+You will not be getting any errors
+or something like that.
+
+1829
+02:12:52,720 --> 02:13:03,800
+It's just a good practice.
+
+1830
+02:13:03,800 --> 02:13:06,200
+All perfect. So.
+
+1831
+02:13:06,200 --> 02:13:07,840
+So what type of guys, when we
+
+1832
+02:13:09,360 --> 02:13:11,720
+when we write this
+
+1833
+02:13:11,720 --> 02:13:15,240
+final keyword with the method,
+when used with
+
+1834
+02:13:16,320 --> 02:13:20,440
+method, we cannot
+
+1835
+02:13:20,800 --> 02:13:22,240
+we can't
+
+1836
+02:13:24,400 --> 02:13:26,960
+override that
+
+1837
+02:13:26,960 --> 02:13:29,040
+method in the
+
+1838
+02:13:30,360 --> 02:13:34,920
+charter class, when used with
+
+1839
+02:13:36,680 --> 02:13:38,000
+class.
+
+1840
+02:13:38,720 --> 02:13:41,400
+What happens if we use the final keyword
+
+1841
+02:13:41,400 --> 02:13:53,840
+with class?
+
+1842
+02:13:53,840 --> 02:13:57,040
+No class.
+
+1843
+02:13:57,040 --> 02:13:58,400
+Then explain.
+
+1844
+02:13:58,400 --> 02:14:00,960
+And from
+
+1845
+02:14:04,880 --> 02:14:07,080
+from that class
+
+1846
+02:14:07,680 --> 02:14:09,960
+class can extend from class to
+
+1847
+02:14:10,880 --> 02:14:13,560
+so let me check if we are missing
+
+1848
+02:14:13,560 --> 02:14:18,480
+something. Oh,
+
+1849
+02:14:19,480 --> 02:14:29,480
+you guys have done this.
+
+1850
+02:14:29,480 --> 02:14:30,560
+And if you.
+
+1851
+02:14:30,560 --> 02:14:32,600
+You were
+
+1852
+02:14:42,760 --> 02:14:45,800
+so final variable
+to create constant variables.
+
+1853
+02:14:45,800 --> 02:14:49,080
+Final method to prevent the method
+overriding final class
+
+1854
+02:14:49,520 --> 02:14:53,080
+inheritance.
+
+1855
+02:14:53,080 --> 02:14:55,680
+This is just another example.
+
+1856
+02:14:55,680 --> 02:14:58,200
+And that example and third set.
+
+1857
+02:14:58,640 --> 02:15:04,400
+Okay, so how many of you know
+want me to start with abstraction in Java?
+
+1858
+02:15:04,680 --> 02:15:07,640
+And how many of you want to add to
+this class
+
+1859
+02:15:07,640 --> 02:15:12,000
+in here?
+
+1860
+02:15:12,000 --> 02:15:17,520
+I'm not fast due to
+this class was super, super short.
+
+1861
+02:15:17,520 --> 02:15:22,400
+And what, you guys are all tired
+
+1862
+02:15:23,520 --> 02:15:25,520
+so I can you write
+
+1863
+02:15:25,520 --> 02:15:40,160
+in English,
+
+1864
+02:15:40,160 --> 02:15:43,400
+see the song, start
+
+1865
+02:15:43,920 --> 02:15:44,280
+I'm in.
+
+1866
+02:15:44,280 --> 02:15:46,320
+Google is unable to even understand that
+
+1867
+02:15:50,240 --> 02:15:52,320
+it's enough for today.
+
+1868
+02:15:52,320 --> 02:15:54,760
+Okay, so let me give you a little bit.
+
+1869
+02:15:54,760 --> 02:15:59,240
+Let me give you an overview,
+kind of overview about the abstraction.
+
+1870
+02:16:00,320 --> 02:16:02,760
+I focus have so many.
+
+1871
+02:16:02,760 --> 02:16:03,240
+No, no.
+
+1872
+02:16:03,240 --> 02:16:06,560
+Easy to remember when you do. Yes.
+
+1873
+02:16:08,080 --> 02:16:10,440
+Put too much to order.
+
+1874
+02:16:10,440 --> 02:16:15,360
+No. 933 We still have like 26
+
+1875
+02:16:15,640 --> 02:16:21,720
+7 minutes right.
+
+1876
+02:16:21,720 --> 02:16:25,200
+Okay, let's end the class
+because I'm also not feeling well.
+
+1877
+02:16:26,880 --> 02:16:28,320
+And tomorrow
+
+1878
+02:16:28,320 --> 02:16:33,360
+we will learn about the abstraction.
+
+1879
+02:16:33,360 --> 02:16:38,440
+Abstraction is also not that tough,
+but actually nothing is an alternative.
+
+1880
+02:16:38,880 --> 02:16:41,400
+After this class
+
+1881
+02:16:41,520 --> 02:16:44,200
+from this polymorphism
+
+1882
+02:16:45,840 --> 02:16:48,560
+interfaces
+
+1883
+02:16:48,560 --> 02:16:52,240
+encapsulation you guys already know
+about again those same.
+
+1884
+02:16:52,240 --> 02:16:54,720
+So try decrement thirds
+
+1885
+02:16:55,600 --> 02:16:56,360
+in here.
+
+1886
+02:16:56,360 --> 02:16:58,920
+You guys will be getting another project
+
+1887
+02:16:59,840 --> 02:17:04,520
+regarding the videos,
+explaining the concepts writing code open
+
+1888
+02:17:06,960 --> 02:17:09,360
+and this is my favorite part,
+
+1889
+02:17:09,360 --> 02:17:13,560
+the collections framework.
+
+1890
+02:17:13,560 --> 02:17:17,600
+These are the things that that you guys
+will be using the most.
+
+1891
+02:17:18,480 --> 02:17:20,000
+Any push people to become.
+
+1892
+02:17:20,000 --> 02:17:26,400
+Yes, I can do that.
+
+1893
+02:17:26,400 --> 02:17:28,040
+I hope you build them well.
+
+1894
+02:17:28,040 --> 02:17:30,160
+Thank you, Nurse. Please.
+
+1895
+02:17:30,240 --> 02:17:35,160
+They will be pushed with the class.
+
+1896
+02:17:35,160 --> 02:17:37,640
+I will share them with you on abstraction.
+
+1897
+02:17:38,120 --> 02:17:40,200
+So try to watch that video.
+
+1898
+02:17:40,200 --> 02:17:44,160
+I will share the slide.
+
+1899
+02:17:44,160 --> 02:17:47,800
+Try to have a look
+
+1900
+02:17:49,080 --> 02:17:50,240
+over the slide as well.
+
+1901
+02:17:50,240 --> 02:17:53,120
+Can you tell me about your watch here?
+
+1902
+02:17:53,200 --> 02:17:56,720
+Say a galaxy, I think pool. What
+
+1903
+02:17:58,560 --> 02:18:00,720
+android? If
+
+1904
+02:18:01,480 --> 02:18:03,480
+Thank you now said
+
+1905
+02:18:04,040 --> 02:18:04,440
+homework.
+
+1906
+02:18:04,440 --> 02:18:09,320
+I have posted the homework in course
+and also our standards.
+
+1907
+02:18:09,320 --> 02:18:12,880
+Your new talk just happen like in 3 hours
+before
+
+1908
+02:18:13,320 --> 02:18:16,760
+I was feeling well I think just need a hot
+cup of coffee.
+
+1909
+02:18:17,240 --> 02:18:18,600
+Can you look at the calendar?
+
+1910
+02:18:18,600 --> 02:18:20,560
+Yes, I can take calls.
+
+1911
+02:18:20,560 --> 02:18:23,280
+I can make calls and text.
+
+1912
+02:18:23,280 --> 02:18:28,560
+I can watch videos verify, hey,
+everything is available on this one.
+
+1913
+02:18:28,880 --> 02:18:30,680
+There is a complete Android phone, kind of
+
+1914
+02:18:33,480 --> 02:18:36,880
+those watch is so scratchy.
+
+1915
+02:18:36,960 --> 02:18:41,160
+I think this one is not
+because it's been more than two years
+
+1916
+02:18:41,280 --> 02:18:46,360
+and it still looks shiny
+and it's like new.
+
+1917
+02:18:47,920 --> 02:18:48,800
+I have the same one.
+
+1918
+02:18:48,800 --> 02:18:49,400
+I don't know.
+
+1919
+02:18:49,400 --> 02:18:52,720
+I don't know how you use it, but
+
+1920
+02:18:52,720 --> 02:18:54,800
+I don't use it on a daily basis.
+
+1921
+02:18:54,800 --> 02:18:58,320
+So it might be
+this is because because of this,
+
+1922
+02:18:58,320 --> 02:19:02,600
+it looks good still.
+
+1923
+02:19:02,600 --> 02:19:08,360
+Garmin 66 and it's 99, 99.
+
+1924
+02:19:08,360 --> 02:19:14,480
+If we have time,
+can you look the calendar on canvas? Yes.
+
+1925
+02:19:14,520 --> 02:19:15,160
+You guys can leave.
+
+1926
+02:19:15,160 --> 02:19:18,640
+I will not be taking anything new
+because I my my throat
+
+1927
+02:19:18,640 --> 02:19:21,640
+is kind of done
+
+1928
+02:19:21,640 --> 02:19:24,000
+speaking for today
+
+1929
+02:19:25,760 --> 02:19:27,080
+and kosher
+
+1930
+02:19:31,600 --> 02:19:36,160
+last.
+
+1931
+02:19:36,160 --> 02:19:49,520
+Is there anything wrong on the calendar?
+
+1932
+02:19:49,520 --> 02:19:53,400
+If one.
+
+1933
+02:19:53,400 --> 02:19:56,640
+Yes, we have the calendar
+
+1934
+02:19:57,000 --> 02:20:07,120
+next Saturday.
+
+1935
+02:20:07,120 --> 02:20:08,880
+EPA class
+
+1936
+02:20:17,600 --> 02:20:18,480
+next session
+
+1937
+02:20:18,480 --> 02:20:23,040
+Review class.
+
+1938
+02:20:23,040 --> 02:20:25,840
+Oh, you guys are on but 11 or ten
+
+1939
+02:20:29,360 --> 02:20:31,680
+group projects
+
+1940
+02:20:33,120 --> 02:20:39,480
+collections,
+
+1941
+02:20:39,480 --> 02:20:43,160
+abstraction.
+
+1942
+02:20:43,160 --> 02:20:45,840
+You mean on
+
+1943
+02:20:46,280 --> 02:20:48,600
+here?
+
+1944
+02:20:48,600 --> 02:20:50,280
+Sorry, not me here.
+
+1945
+02:20:50,280 --> 02:20:52,360
+You mean in here? It is.
+
+1946
+02:20:52,360 --> 02:20:53,720
+It looks good.
+
+1947
+02:20:53,720 --> 02:20:56,160
+Next sensitivity class.
+
+1948
+02:20:56,160 --> 02:20:57,680
+Okay, so this is the Saturday.
+
+1949
+02:20:57,680 --> 02:21:02,720
+Sorry, This friend collections
+bring the certain interface.
+
+1950
+02:21:02,720 --> 02:21:05,280
+It looks good on December 3rd.
+
+1951
+02:21:06,480 --> 02:21:08,600
+So on December 3rd.
+
+1952
+02:21:08,920 --> 02:21:12,800
+You guys a review class on Friday.
+
+1953
+02:21:12,800 --> 02:21:16,440
+And this is what you want me to tell.
+
+1954
+02:21:16,440 --> 02:21:19,880
+But then I guess they will be starting
+
+1955
+02:21:21,440 --> 02:21:23,280
+in 15. Check.
+
+1956
+02:21:23,280 --> 02:21:26,320
+When is the best first starting
+
+1957
+02:21:27,640 --> 02:21:31,400
+and they will be having
+their first class on
+
+1958
+02:21:33,360 --> 02:21:34,080
+orientation.
+
+1959
+02:21:34,080 --> 02:21:36,200
+It will be on it off. Generally
+
+1960
+02:21:37,320 --> 02:21:39,880
+not doing it on
+
+1961
+02:21:39,880 --> 02:21:40,720
+Friday.
+
+1962
+02:21:40,720 --> 02:21:43,880
+I'll it should not be on Friday.
+
+1963
+02:21:45,120 --> 02:21:46,920
+Let me discuss it with the cell
+
+1964
+02:21:46,920 --> 02:21:50,760
+and it should be actually on Thursday.
+
+1965
+02:21:50,760 --> 02:21:55,760
+So if there is nothing special,
+is there anything special on on
+
+1966
+02:21:55,760 --> 02:21:58,760
+2nd of December, some kind of holiday or
+
+1967
+02:21:58,760 --> 02:22:02,440
+something like that. No.
+
+1968
+02:22:02,640 --> 02:22:08,360
+Then it should be on Thursday.
+
+1969
+02:22:08,360 --> 02:22:11,400
+But I will discuss it
+and I will let you know in the course.
+
+1970
+02:22:11,640 --> 02:22:12,120
+Question
+
+1971
+02:22:13,280 --> 02:22:15,480
+Honored guys take some rest.
+
+1972
+02:22:15,480 --> 02:22:18,400
+Bye bye. Good night.

@@ -1,0 +1,10802 @@
+﻿1
+00:00:07,800 --> 00:00:09,480
+According to Smith,
+
+2
+00:00:10,080 --> 00:00:12,360
+all road students
+
+3
+00:00:13,680 --> 00:00:15,200
+last number
+
+4
+00:00:19,200 --> 00:00:20,160
+eight
+
+5
+00:00:21,280 --> 00:00:25,080
+according to canvas
+last class of the timber
+
+6
+00:00:26,320 --> 00:00:26,720
+fire.
+
+7
+00:00:27,560 --> 00:00:30,000
+And we're almost on the verge to complete
+
+8
+00:00:30,560 --> 00:00:33,520
+their paperwork will deliver almost 90% of
+
+9
+00:00:34,720 --> 00:00:38,400
+the remaining 10%
+desirable contribution metrics.
+
+10
+00:00:38,640 --> 00:00:41,000
+Let's pick Right.
+
+11
+00:00:41,000 --> 00:00:46,280
+So first, let's quickly go to
+what are the links, the debates,
+
+12
+00:00:46,280 --> 00:00:48,520
+what are the things we covered in
+yesterday's issue?
+
+13
+00:00:48,960 --> 00:00:50,080
+Edmunds?
+
+14
+00:00:50,400 --> 00:01:04,560
+What was the first thing
+that we really asserted?
+
+15
+00:01:04,560 --> 00:01:06,080
+Scruggs.
+
+16
+00:01:07,080 --> 00:01:10,440
+What was the first topic
+we learned in the studies class?
+
+17
+00:01:11,400 --> 00:01:13,320
+Got it. Got it.
+
+18
+00:01:13,320 --> 00:01:17,240
+The first thing was using
+
+19
+00:01:17,480 --> 00:01:19,920
+each object more of
+
+20
+00:01:19,960 --> 00:01:21,480
+the right
+
+21
+00:01:21,880 --> 00:01:24,600
+functions in in
+
+22
+00:01:25,640 --> 00:01:27,840
+respective classes.
+
+23
+00:01:27,840 --> 00:01:30,120
+Correct.
+
+24
+00:01:34,920 --> 00:01:37,080
+The very first thing, what we did
+
+25
+00:01:37,080 --> 00:01:42,200
+this one correct.
+
+26
+00:01:42,200 --> 00:01:44,600
+Now, according
+to this particular function,
+
+27
+00:01:44,640 --> 00:01:48,920
+according to this particular function,
+what we are doing here in this function
+
+28
+00:01:48,960 --> 00:01:52,200
+is related to one particular class.
+
+29
+00:01:52,880 --> 00:01:53,760
+Right.
+
+30
+00:01:53,760 --> 00:01:57,680
+If we have any function which we see
+which is given for this particular screen
+
+31
+00:01:57,680 --> 00:01:59,000
+in the application.
+
+32
+00:01:59,000 --> 00:02:02,880
+So instead of writing that function
+in our class,
+
+33
+00:02:02,920 --> 00:02:06,120
+according to three locators
+there, we can write
+
+34
+00:02:06,120 --> 00:02:10,200
+this particular method in this class
+or to set in the speech itself.
+
+35
+00:02:10,440 --> 00:02:15,000
+And then instead of calling to three
+locators begin, simply call one method
+
+36
+00:02:16,120 --> 00:02:21,520
+correct. This
+
+37
+00:02:24,080 --> 00:02:27,600
+disconnect, and
+
+38
+00:02:27,600 --> 00:02:29,880
+then we can do these things
+for polymorphism.
+
+39
+00:02:30,840 --> 00:02:32,400
+Yes. Yes.
+
+40
+00:02:32,400 --> 00:02:33,080
+Correct.
+
+41
+00:02:34,160 --> 00:02:36,640
+Now, after this, in common methods,
+
+42
+00:02:36,640 --> 00:02:40,080
+we came up with the requirement
+of very common operations.
+
+43
+00:02:40,680 --> 00:02:43,080
+The operations
+which we perform every now and then,
+
+44
+00:02:44,040 --> 00:02:47,040
+for example, say,
+to give the operation Click operation.
+
+45
+00:02:47,280 --> 00:02:51,520
+And then we saw a couple of more scenarios
+associated to this particular
+
+46
+00:02:52,080 --> 00:02:54,720
+operations. For example,
+
+47
+00:02:54,720 --> 00:02:56,280
+same gives method.
+
+48
+00:02:56,280 --> 00:03:00,240
+But every time when we are going
+to send the data before that,
+
+49
+00:03:00,400 --> 00:03:05,720
+it might happen that there is some data
+available in that particular suit.
+
+50
+00:03:06,240 --> 00:03:06,880
+Right.
+
+51
+00:03:07,720 --> 00:03:10,840
+In that case,
+if I'm simply sending the new data,
+
+52
+00:03:11,040 --> 00:03:15,760
+it will come, it will add
+with the previous data, existing data.
+
+53
+00:03:15,760 --> 00:03:19,320
+So for example, if it was this day
+and I am sending one, two, three,
+
+54
+00:03:19,560 --> 00:03:23,520
+so my final value becomes
+absolutely not going to be correct.
+
+55
+00:03:24,320 --> 00:03:27,520
+In that case, in that case, missing
+that he was going to create.
+
+56
+00:03:28,200 --> 00:03:30,640
+So now, according to the minimum,
+
+57
+00:03:30,640 --> 00:03:34,000
+what we have to do
+first, we have to clear the
+
+58
+00:03:34,960 --> 00:03:37,200
+and then we have to save the date.
+
+59
+00:03:37,200 --> 00:03:39,600
+These are the two things
+we need to perform.
+
+60
+00:03:40,400 --> 00:03:42,960
+But if I'm using these operations,
+
+61
+00:03:42,960 --> 00:03:46,040
+it gives operation
+every now and then in the application. C
+
+62
+00:03:47,120 --> 00:03:49,600
+15 times, 20 times are 2000 times, right?
+
+63
+00:03:49,920 --> 00:03:52,640
+Every time I have to call the near doors,
+it gives me an
+
+64
+00:03:54,040 --> 00:03:56,280
+uneasy. Suddenly I'm coding same methods.
+
+65
+00:03:56,280 --> 00:04:00,000
+Two times I do methods this much of times
+again and again.
+
+66
+00:04:00,360 --> 00:04:02,080
+It's not going to make any sense.
+
+67
+00:04:02,080 --> 00:04:04,000
+So what we did,
+
+68
+00:04:04,080 --> 00:04:06,720
+we created a class called Common Methods
+
+69
+00:04:08,000 --> 00:04:10,640
+in this Common methods.
+
+70
+00:04:10,720 --> 00:04:12,360
+In this common methods.
+
+71
+00:04:12,360 --> 00:04:15,760
+We added the function here,
+and in that function
+
+72
+00:04:16,040 --> 00:04:18,160
+we provided no clear method,
+
+73
+00:04:20,240 --> 00:04:24,920
+but so this time
+we are overwriting only element
+
+74
+00:04:25,040 --> 00:04:28,920
+and the data which we need to
+parse in the form of string.
+
+75
+00:04:30,480 --> 00:04:31,720
+This is what we are doing
+
+76
+00:04:31,720 --> 00:04:36,000
+and it's
+
+77
+00:04:39,920 --> 00:04:45,200
+this is what we are doing.
+
+78
+00:04:45,200 --> 00:04:45,760
+Fine.
+
+79
+00:04:45,760 --> 00:04:48,240
+So next time I don't need to call out
+Delimiter.
+
+80
+00:04:48,240 --> 00:04:49,720
+Dawson gives method. No.
+
+81
+00:04:49,720 --> 00:04:54,400
+What I will do simply is I will call this
+particular method same text
+
+82
+00:04:55,600 --> 00:04:57,000
+file locator.
+
+83
+00:04:57,000 --> 00:05:01,440
+I already have great in mind pages
+according to object model
+
+84
+00:05:01,440 --> 00:05:02,520
+designed by then.
+
+85
+00:05:02,520 --> 00:05:06,080
+Basically I'm using initialize
+all those elements.
+
+86
+00:05:06,360 --> 00:05:09,720
+When I initialized all those elements,
+I can call anything
+
+87
+00:05:09,720 --> 00:05:12,920
+from there
+while creating the object object
+
+88
+00:05:13,080 --> 00:05:16,800
+I had created in big initialize
+this class.
+
+89
+00:05:17,400 --> 00:05:19,440
+Next page initialize this class.
+
+90
+00:05:19,640 --> 00:05:22,440
+I extend it in my common methods. Right.
+
+91
+00:05:22,680 --> 00:05:26,880
+So the same object is working
+throughout my project or not.
+
+92
+00:05:27,600 --> 00:05:36,280
+The same object is working
+toward my project.
+
+93
+00:05:36,280 --> 00:05:37,480
+So now.
+
+94
+00:05:37,800 --> 00:05:39,760
+So now things are getting to be used.
+
+95
+00:05:40,920 --> 00:05:43,080
+Things are getting absolutely reduced
+
+96
+00:05:45,920 --> 00:05:48,920
+and you see object calling particular
+
+97
+00:05:49,920 --> 00:05:52,920
+data is coming from either Excel by right
+
+98
+00:05:52,920 --> 00:05:57,960
+or feature file or properties
+file from anywhere,
+
+99
+00:05:58,040 --> 00:06:01,920
+and the method is performing
+its operations.
+
+100
+00:06:02,240 --> 00:06:05,160
+That's how we wrap up every single thing
+
+101
+00:06:05,160 --> 00:06:08,680
+with the concepts of Java.
+
+102
+00:06:08,720 --> 00:06:10,080
+Now we are able to connect
+
+103
+00:06:10,080 --> 00:06:13,200
+every single point
+a method connected to my classes.
+
+104
+00:06:13,440 --> 00:06:17,240
+Classes are connected via objects
+we are calling constructor.
+
+105
+00:06:17,640 --> 00:06:19,560
+Initialize
+all these objects using my script.
+
+106
+00:06:19,560 --> 00:06:22,360
+Pre feature
+files are connected to the steps.
+
+107
+00:06:22,440 --> 00:06:26,840
+If steps are connected to my
+This features are connected to my classes
+
+108
+00:06:27,080 --> 00:06:31,480
+and the classes are connected
+to my politics that I have already.
+
+109
+00:06:31,480 --> 00:06:31,960
+Right?
+
+110
+00:06:31,960 --> 00:06:35,760
+So now my entire project becomes a big
+
+111
+00:06:37,320 --> 00:06:39,600
+this big becomes a complete big
+
+112
+00:06:39,720 --> 00:06:43,680
+and that's what we need
+single execution point.
+
+113
+00:06:43,680 --> 00:06:46,880
+When we use Mavin project
+in Mavin project,
+
+114
+00:06:47,040 --> 00:06:52,480
+we have a single execution point
+going from Don extremely high and
+
+115
+00:06:53,560 --> 00:06:54,040
+due to
+
+116
+00:06:54,040 --> 00:06:57,800
+this reason we added this particular part
+as a plug in.
+
+117
+00:06:58,080 --> 00:06:59,760
+We call it Mavin.
+
+118
+00:06:59,760 --> 00:07:00,240
+Sure.
+
+119
+00:07:00,240 --> 00:07:03,560
+Why is plugging now?
+
+120
+00:07:03,560 --> 00:07:07,680
+What does what display
+plugging that specifically this plug in?
+
+121
+00:07:07,680 --> 00:07:08,360
+Mavin sure.
+
+122
+00:07:08,360 --> 00:07:13,440
+But like in generally
+makes our project in the form of a bead.
+
+123
+00:07:13,440 --> 00:07:17,320
+Will a single unit connect
+all the glasses, collect
+
+124
+00:07:17,320 --> 00:07:21,160
+all the packages, checks
+all the functions, check all the code,
+
+125
+00:07:21,400 --> 00:07:24,760
+compile
+this code, execute this code in a single
+
+126
+00:07:25,080 --> 00:07:27,360
+fully understood
+
+127
+00:07:28,320 --> 00:07:29,000
+always
+
+128
+00:07:33,000 --> 00:07:34,040
+remember
+
+129
+00:07:34,640 --> 00:07:37,320
+either you use this dandy
+
+130
+00:07:37,320 --> 00:07:39,840
+framework or you use Kimber framework.
+
+131
+00:07:40,080 --> 00:07:43,840
+You will use much better plug in
+because this plug in
+
+132
+00:07:44,000 --> 00:07:47,920
+is related to your Mavin
+notwithstanding the conversion rate.
+
+133
+00:07:47,920 --> 00:07:51,200
+So if we are working with the project,
+we will always use
+
+134
+00:07:51,200 --> 00:07:54,440
+Mavin should be lucky is that everyone
+
+135
+00:08:03,760 --> 00:08:04,680
+All right.
+
+136
+00:08:04,680 --> 00:08:07,280
+So the very first method be completed
+
+137
+00:08:07,280 --> 00:08:10,720
+in the class was same method, right?
+
+138
+00:08:11,280 --> 00:08:23,760
+So put it in the notes.
+
+139
+00:08:23,760 --> 00:08:32,240
+Should note
+
+140
+00:08:32,240 --> 00:08:36,440
+the second operation in this song
+was clear completion.
+
+141
+00:08:36,440 --> 00:08:37,000
+Right.
+
+142
+00:08:37,360 --> 00:08:40,160
+But we using this click operation
+every time
+
+143
+00:08:40,160 --> 00:08:43,520
+without providing bit in my application.
+
+144
+00:08:43,520 --> 00:08:46,960
+It is loading
+sometimes the selenium will not lead
+
+145
+00:08:48,280 --> 00:08:51,360
+unfortunately like this is will be right.
+
+146
+00:08:51,960 --> 00:08:57,160
+If it will be my best guesses then it will
+affect my overall automation coverage.
+
+147
+00:08:57,480 --> 00:09:02,800
+So according to the standards, we have to
+provide a sufficient amount of bead
+
+148
+00:09:03,040 --> 00:09:06,120
+so that my bead becomes loaded properly,
+
+149
+00:09:06,120 --> 00:09:08,640
+my element becomes visible on the screen
+
+150
+00:09:09,640 --> 00:09:11,600
+and it will becomes visible on the screen.
+
+151
+00:09:11,600 --> 00:09:14,560
+I can easily perform
+whatever the operations
+
+152
+00:09:14,720 --> 00:09:17,880
+I want to perform
+on the particular element, right?
+
+153
+00:09:18,240 --> 00:09:23,640
+So for that reason,
+we learn to operate in selenium, right?
+
+154
+00:09:24,000 --> 00:09:31,360
+What are those tools?
+
+155
+00:09:31,360 --> 00:09:31,920
+Nice.
+
+156
+00:09:31,920 --> 00:09:35,280
+We have two types of works
+implicit and explicit.
+
+157
+00:09:35,280 --> 00:09:37,360
+Click right between these.
+
+158
+00:09:37,360 --> 00:09:41,760
+What is the difference
+between implicit and explicit?
+
+159
+00:09:41,760 --> 00:09:42,080
+Nice.
+
+160
+00:09:42,080 --> 00:09:43,800
+Christine Implicit.
+
+161
+00:09:43,800 --> 00:09:45,880
+Wade That relies on
+
+162
+00:09:47,160 --> 00:09:47,880
+time.
+
+163
+00:09:47,880 --> 00:09:51,240
+Implicit which relies on time and explicit
+
+164
+00:09:51,240 --> 00:09:53,560
+will relies on completion.
+
+165
+00:09:54,240 --> 00:09:56,400
+Explicit, which relies on condition.
+
+166
+00:09:56,720 --> 00:09:59,160
+Fine. Now,
+
+167
+00:10:00,480 --> 00:10:03,960
+when we talk about implicit,
+we have a separate method for this
+
+168
+00:10:04,200 --> 00:10:08,600
+that were not managed
+by most are implicit rate correct.
+
+169
+00:10:09,680 --> 00:10:11,960
+We have this method directly Selenium.
+
+170
+00:10:12,240 --> 00:10:15,880
+Unfortunately for explicit
+we do not have an environment
+
+171
+00:10:15,920 --> 00:10:17,960
+manager timeout not explicitly.
+
+172
+00:10:17,960 --> 00:10:19,200
+We do not have a method.
+
+173
+00:10:19,200 --> 00:10:24,280
+So what we have to do,
+we have to use a degree of explicit weight
+
+174
+00:10:24,280 --> 00:10:27,840
+and that a degree is web driver with
+
+175
+00:10:29,280 --> 00:10:31,960
+that driver beat
+
+176
+00:10:31,960 --> 00:10:34,600
+underscore.
+
+177
+00:10:34,600 --> 00:10:38,720
+I gave you one more explanation when we
+were taking a selenium review fluently.
+
+178
+00:10:39,840 --> 00:10:40,960
+What is the difference?
+
+179
+00:10:40,960 --> 00:10:43,400
+Driver do what are explicit?
+
+180
+00:10:43,400 --> 00:10:45,200
+What is the difference
+
+181
+00:10:49,400 --> 00:10:52,440
+is before
+
+182
+00:10:52,440 --> 00:10:56,120
+explaining the topic of window
+and as I gave you this explanation
+
+183
+00:11:00,840 --> 00:11:01,360
+that Luther
+
+184
+00:11:01,360 --> 00:11:05,680
+one, I'm just asking you a question
+from that informative you today.
+
+185
+00:11:05,680 --> 00:11:07,680
+I didn't start anything yet.
+
+186
+00:11:07,680 --> 00:11:10,440
+We are just still revising.
+
+187
+00:11:10,680 --> 00:11:12,960
+My question is
+
+188
+00:11:12,960 --> 00:11:14,400
+right now.
+
+189
+00:11:14,400 --> 00:11:17,440
+So right now
+we are talking about implicit weight
+
+190
+00:11:17,440 --> 00:11:19,800
+and explicit weight
+in our function, right?
+
+191
+00:11:20,480 --> 00:11:22,760
+In selenium in framework.
+
+192
+00:11:22,760 --> 00:11:25,320
+So implicit work which relies on
+
+193
+00:11:26,040 --> 00:11:28,680
+which relies on implicit
+
+194
+00:11:28,680 --> 00:11:30,680
+and explicit, which is the one
+
+195
+00:11:30,680 --> 00:11:33,720
+which relies on condition setting.
+
+196
+00:11:34,200 --> 00:11:39,000
+But when I was taking, I was taking
+your review sessions for selenium.
+
+197
+00:11:39,240 --> 00:11:43,080
+And that point of time
+I explained one more type of make
+
+198
+00:11:44,600 --> 00:11:47,040
+implicit explicit in explicit
+
+199
+00:11:47,080 --> 00:11:51,680
+the driver and another one
+was blue in the late right.
+
+200
+00:11:51,960 --> 00:11:56,200
+So when I ask what is the difference
+in between the blue?
+
+201
+00:11:56,640 --> 00:11:59,160
+So how would you answer
+
+202
+00:12:13,680 --> 00:12:14,160
+that? And
+
+203
+00:12:15,200 --> 00:12:15,640
+we end.
+
+204
+00:12:15,640 --> 00:12:19,200
+We will also be relying on conditions
+
+205
+00:12:19,440 --> 00:12:23,720
+by the number of quotations
+be provided in blue, incomplete.
+
+206
+00:12:24,320 --> 00:12:29,040
+So based on those number of liquidations
+it removes its cycle rating.
+
+207
+00:12:29,400 --> 00:12:32,200
+Yeah, it correct or correct,
+you just google it.
+
+208
+00:12:32,200 --> 00:12:34,280
+No, it just Google it.
+
+209
+00:12:36,040 --> 00:12:37,440
+Excellent.
+
+210
+00:12:37,720 --> 00:12:39,760
+The where do you see
+appalling delinquency.
+
+211
+00:12:40,200 --> 00:12:42,800
+My I got this what is available there.
+
+212
+00:12:42,800 --> 00:12:45,320
+I know what frequency right.
+
+213
+00:12:45,600 --> 00:12:49,280
+So basically rate
+basically when we talk about it
+
+214
+00:12:49,320 --> 00:12:52,840
+we simply for example you want to wait
+for this particular condition.
+
+215
+00:12:53,720 --> 00:12:56,000
+For particular condition.
+
+216
+00:12:56,000 --> 00:12:59,280
+So you really wait for this condition
+three times increments.
+
+217
+00:12:59,280 --> 00:13:03,000
+Then seconds one stands again is completed
+again, the cycle
+
+218
+00:13:03,000 --> 00:13:06,040
+for insisting that it would again
+to print the cycle audience.
+
+219
+00:13:06,040 --> 00:13:08,280
+It goes how many times? Three times. Why?
+
+220
+00:13:08,400 --> 00:13:11,000
+Because the Model three predictions
+you provided is three
+
+221
+00:13:18,960 --> 00:13:26,360
+ways reputation
+
+222
+00:13:26,720 --> 00:13:30,440
+of you define the reputation of times,
+reputation
+
+223
+00:13:30,440 --> 00:13:32,120
+of cycle in a
+
+224
+00:13:37,880 --> 00:13:48,600
+the final.
+
+225
+00:13:48,600 --> 00:13:49,360
+So right then
+
+226
+00:13:49,360 --> 00:13:52,280
+that's why I always anecdotes from here
+and then illustrate
+
+227
+00:13:52,280 --> 00:13:53,360
+to do this
+
+228
+00:13:56,920 --> 00:14:00,400
+maximum time for the driver
+to wait for the condition the other one
+
+229
+00:14:00,400 --> 00:14:03,480
+they expect of doing to make it to
+the game is used for define
+
+230
+00:14:03,600 --> 00:14:09,000
+and what is the remaining definition.
+
+231
+00:14:09,000 --> 00:14:10,320
+This is how
+
+232
+00:14:13,560 --> 00:14:16,960
+maximum determines what the
+
+233
+00:14:18,240 --> 00:14:20,520
+what exam. But if you provide 10 seconds.
+
+234
+00:14:20,680 --> 00:14:24,120
+Right and you provide three depredations,
+maybe the big once is three.
+
+235
+00:14:24,120 --> 00:14:26,240
+So how many times
+I wish time it would make for
+
+236
+00:14:27,080 --> 00:14:28,920
+end plus ten plus ten, three times.
+
+237
+00:14:28,920 --> 00:14:30,120
+That is a constraint.
+
+238
+00:14:30,120 --> 00:14:35,760
+This is the maximum.
+
+239
+00:14:35,760 --> 00:14:37,920
+So it is just
+for the interview question, Right.
+
+240
+00:14:38,520 --> 00:14:39,640
+So you should know.
+
+241
+00:14:39,640 --> 00:14:41,920
+You should know what is doing great.
+
+242
+00:14:41,920 --> 00:14:43,080
+What is the primary rate?
+
+243
+00:14:43,080 --> 00:14:46,840
+What is the difference between this Indian
+and any other way to use whatever
+
+244
+00:14:46,920 --> 00:14:48,920
+documentation mode?
+
+245
+00:14:48,920 --> 00:14:50,760
+Everyone knows it.
+
+246
+00:14:50,760 --> 00:14:52,520
+You will use the same. But it's true.
+
+247
+00:14:52,520 --> 00:14:54,400
+Names are always using the same.
+
+248
+00:14:54,400 --> 00:14:57,400
+I know couple of students
+who have been working in a different last
+
+249
+00:14:57,720 --> 00:14:59,120
+five six years in the industry.
+
+250
+00:14:59,120 --> 00:15:05,480
+They're still using technologies
+sleep an implicit every bit.
+
+251
+00:15:05,480 --> 00:15:06,800
+That's what I'm explaining. So
+
+252
+00:15:08,240 --> 00:15:08,760
+as well
+
+253
+00:15:08,760 --> 00:15:12,040
+as the frequency rate is used to define,
+
+254
+00:15:12,040 --> 00:15:15,040
+you'll give me a Venetian
+if my maximum length.
+
+255
+00:15:15,280 --> 00:15:18,440
+There's why I argue is the half of
+the definition is what is the big one.
+
+256
+00:15:18,480 --> 00:15:21,600
+See with which we want to check
+the condition before throwing in.
+
+257
+00:15:22,080 --> 00:15:22,600
+Great.
+
+258
+00:15:23,160 --> 00:15:38,160
+So this is the frequency
+limit number of reputation.
+
+259
+00:15:38,160 --> 00:15:42,080
+Great.
+
+260
+00:15:42,080 --> 00:15:46,760
+So now here, here we are using
+which one goes in click method.
+
+261
+00:15:48,160 --> 00:15:50,320
+When we provide the method
+
+262
+00:15:50,760 --> 00:15:53,920
+which which way we could see
+
+263
+00:15:53,920 --> 00:15:57,640
+when we are providing this big method,
+wait for the community method.
+
+264
+00:15:57,920 --> 00:16:02,480
+So we are using explicit, oblique,
+explicit way.
+
+265
+00:16:02,720 --> 00:16:05,760
+It means migrate is relying on the mission
+
+266
+00:16:07,040 --> 00:16:09,720
+to make the element becomes clickable
+
+267
+00:16:09,960 --> 00:16:13,400
+and you'll see this condition
+employed in my function.
+
+268
+00:16:14,520 --> 00:16:15,080
+Right there is
+
+269
+00:16:19,680 --> 00:16:21,120
+is this correct or not?
+
+270
+00:16:21,120 --> 00:16:29,440
+Then we be 11..
+
+271
+00:16:29,440 --> 00:16:29,840
+One point.
+
+272
+00:16:29,840 --> 00:16:31,440
+I just remember
+
+273
+00:16:32,040 --> 00:16:40,240
+already based.
+
+274
+00:16:40,240 --> 00:16:42,640
+So now now here
+
+275
+00:16:43,800 --> 00:16:45,680
+I've been using this
+
+276
+00:16:45,680 --> 00:16:48,680
+particular
+for two methods for applicability
+
+277
+00:16:49,480 --> 00:16:54,480
+click method same next to method.
+
+278
+00:16:54,480 --> 00:16:57,320
+Sometimes it's important.
+Sometimes it's very important, right?
+
+279
+00:16:57,360 --> 00:17:01,880
+So that everyone, everyone can be
+a part of this conversation right next.
+
+280
+00:17:01,880 --> 00:17:04,040
+So we learn Excel.
+
+281
+00:17:04,320 --> 00:17:07,240
+In my opinion, lecture should not be
+
+282
+00:17:07,240 --> 00:17:10,280
+a one week conversation
+
+283
+00:17:10,280 --> 00:17:13,120
+right
+when I'm delivering the lecture point.
+
+284
+00:17:13,120 --> 00:17:16,000
+When it comes to topic,
+then only I should explain.
+
+285
+00:17:16,640 --> 00:17:17,080
+Right?
+
+286
+00:17:17,080 --> 00:17:20,400
+And I never allow anyone to distort
+their decorum of the class when I'm
+
+287
+00:17:21,040 --> 00:17:22,120
+something important.
+
+288
+00:17:22,120 --> 00:17:26,240
+But at the same time I have to make sure
+that my superiors are not getting bored.
+
+289
+00:17:27,080 --> 00:17:30,280
+I need to involve them with
+the communication, with the conversation.
+
+290
+00:17:30,680 --> 00:17:33,080
+You guys can open up great. Like this.
+
+291
+00:17:33,320 --> 00:17:36,880
+If you guys get an opportunity
+to speak on this particular platform.
+
+292
+00:17:37,120 --> 00:17:37,600
+Right.
+
+293
+00:17:37,600 --> 00:17:40,840
+And if I ask you to play your part here.
+
+294
+00:17:40,840 --> 00:17:42,040
+Right, definitely.
+
+295
+00:17:42,040 --> 00:17:43,400
+It will boost up your confidence.
+
+296
+00:17:43,400 --> 00:17:48,440
+At the same time,
+you will get more interest in my classes.
+
+297
+00:17:48,440 --> 00:17:49,040
+I got to
+
+298
+00:17:50,160 --> 00:17:50,960
+correct
+
+299
+00:17:51,520 --> 00:17:54,960
+this philosophy for kids
+also came from this background, right?
+
+300
+00:17:54,960 --> 00:17:56,640
+From the business, from here.
+
+301
+00:17:56,640 --> 00:17:58,640
+Engagement is extremely important.
+
+302
+00:17:58,640 --> 00:18:01,160
+Business engagement rates plus liquidity,
+
+303
+00:18:02,160 --> 00:18:05,160
+and that level of engagement
+is extremely important
+
+304
+00:18:09,040 --> 00:18:09,720
+the way they live.
+
+305
+00:18:09,720 --> 00:18:11,200
+And I'm saying engagement is important.
+
+306
+00:18:11,200 --> 00:18:14,160
+Everyone starts planning to get to get to
+
+307
+00:18:25,960 --> 00:18:29,560
+finance.
+
+308
+00:18:29,560 --> 00:18:32,920
+Just it's hard.
+
+309
+00:18:32,920 --> 00:18:33,720
+Congratulations.
+
+310
+00:18:33,720 --> 00:18:36,480
+And you didn't invite me very big.
+
+311
+00:18:37,200 --> 00:18:40,120
+I purchased new T-shirt for your function
+and you didn't
+
+312
+00:18:40,120 --> 00:18:46,200
+wait with.
+
+313
+00:18:46,200 --> 00:18:48,960
+Excellent. Excellent.
+You are very free now.
+
+314
+00:18:49,000 --> 00:19:00,840
+It is utilized Google go it completely.
+
+315
+00:19:00,840 --> 00:19:03,840
+Although you have people upset
+or you're frustrated.
+
+316
+00:19:03,840 --> 00:19:05,280
+I think it
+
+317
+00:19:09,440 --> 00:19:13,680
+Excellent, excellent.
+
+318
+00:19:13,680 --> 00:19:19,880
+She is happy.
+
+319
+00:19:19,880 --> 00:19:22,560
+Nice.
+
+320
+00:19:22,560 --> 00:19:25,240
+We are not, you know
+
+321
+00:19:25,240 --> 00:19:29,000
+even thinking of the boss to
+and you are ready for the second one also
+
+322
+00:19:30,280 --> 00:19:33,600
+excellent second inning
+is going to start nice All the very best
+
+323
+00:19:36,400 --> 00:19:37,600
+and see
+
+324
+00:19:38,640 --> 00:19:40,800
+for me is thinking about when I'm
+
+325
+00:19:40,800 --> 00:19:45,880
+going to teach in base 12.
+
+326
+00:19:45,880 --> 00:19:53,840
+So cutting
+
+327
+00:19:55,240 --> 00:19:56,560
+exactly
+
+328
+00:20:01,800 --> 00:20:04,440
+the moment you'll see
+
+329
+00:20:04,520 --> 00:20:06,920
+there is a restriction
+
+330
+00:20:08,160 --> 00:20:11,240
+to your freedom, to your thought process,
+
+331
+00:20:11,880 --> 00:20:14,400
+where you are
+not finding new things to block
+
+332
+00:20:15,760 --> 00:20:17,880
+better the need that please
+
+333
+00:20:17,880 --> 00:20:26,040
+immediately.
+
+334
+00:20:26,040 --> 00:20:30,600
+Sometimes, sometimes you have
+to understand one thing liquidity.
+
+335
+00:20:30,600 --> 00:20:32,960
+At this point it's start.
+
+336
+00:20:33,000 --> 00:20:35,440
+What a question, Alex.
+
+337
+00:20:36,120 --> 00:20:38,760
+It's like how you can execute your script
+
+338
+00:20:38,760 --> 00:20:42,920
+without writing it.
+
+339
+00:20:42,920 --> 00:20:47,080
+If you need to build a failure report,
+you need to write or commission
+
+340
+00:20:47,080 --> 00:20:50,680
+script first, like
+
+341
+00:20:52,760 --> 00:20:53,880
+by guys,
+
+342
+00:20:53,880 --> 00:20:57,440
+now click method,
+send text button vibrant.
+
+343
+00:20:57,800 --> 00:21:00,480
+Let's talk about JavaScript,
+execute the method.
+
+344
+00:21:01,000 --> 00:21:03,600
+Why do we need JavaScript?
+
+345
+00:21:03,600 --> 00:21:07,480
+Execute method 10 minutes
+
+346
+00:21:09,320 --> 00:21:10,400
+Students
+
+347
+00:21:15,120 --> 00:21:15,520
+Right.
+
+348
+00:21:15,640 --> 00:21:19,440
+Sometimes in our application
+there are a couple of operations
+
+349
+00:21:19,800 --> 00:21:22,560
+on which my selenium normal command
+
+350
+00:21:22,600 --> 00:21:25,200
+doesn't work, such as completion.
+
+351
+00:21:25,760 --> 00:21:31,360
+So when interacting with the code,
+if my nightly operation is not working
+
+352
+00:21:31,360 --> 00:21:36,120
+or any other operation is not working,
+I should be having an alternative, right?
+
+353
+00:21:36,240 --> 00:21:40,120
+So we do one alternative here
+for completion
+
+354
+00:21:40,960 --> 00:21:43,360
+by a JavaScript execute there. Great.
+
+355
+00:21:43,520 --> 00:21:46,800
+So what is the difference in between
+JavaScript executing and normal take?
+
+356
+00:21:46,800 --> 00:21:47,520
+I told you
+
+357
+00:21:49,200 --> 00:21:52,360
+this normal still in complete command
+always checks for two things
+
+358
+00:21:52,360 --> 00:21:56,280
+whether the element is available there
+or not, what it is intractable or not
+
+359
+00:21:56,280 --> 00:22:00,880
+great in UI clean,
+but at the same time with the same thing.
+
+360
+00:22:00,880 --> 00:22:03,720
+If we talk about JavaScript
+bleep work here,
+
+361
+00:22:04,040 --> 00:22:06,640
+it works with the code,
+it interacts with the code.
+
+362
+00:22:06,920 --> 00:22:07,640
+All right.
+
+363
+00:22:07,640 --> 00:22:15,480
+The good header give you have
+within the next edit beneath there.
+
+364
+00:22:15,480 --> 00:22:16,720
+So that's the difference.
+
+365
+00:22:16,720 --> 00:22:19,080
+That's the difference
+in between JavaScript, execute
+
+366
+00:22:19,400 --> 00:22:22,200
+and normal click method.
+
+367
+00:22:22,200 --> 00:22:23,080
+So far so good.
+
+368
+00:22:23,080 --> 00:22:27,600
+Everyone to this point.
+
+369
+00:22:27,600 --> 00:22:32,160
+Then after that after they
+we downloaded something from someone.
+
+370
+00:22:32,160 --> 00:22:35,680
+Junior. Remember this particular plugin?
+
+371
+00:22:35,680 --> 00:22:40,920
+We downloaded this part great board
+because we need,
+
+372
+00:22:41,200 --> 00:22:46,440
+we need the Google
+Maven report right to do MAVEN report.
+
+373
+00:22:46,680 --> 00:22:49,320
+So we got one guy called Damian.
+
+374
+00:22:49,320 --> 00:22:50,600
+Great call Damian.
+
+375
+00:22:50,600 --> 00:22:51,880
+Let me show you once again
+
+376
+00:22:58,000 --> 00:22:59,200
+this guy,
+
+377
+00:22:59,880 --> 00:23:01,000
+this guy.
+
+378
+00:23:01,080 --> 00:23:03,280
+Great. Damian
+
+379
+00:23:03,720 --> 00:23:07,560
+So this guy wrote
+one particular plugin for us.
+
+380
+00:23:08,200 --> 00:23:14,120
+So then with this plugin we can generate
+very good report or graphical report
+
+381
+00:23:14,400 --> 00:23:18,640
+current and see how, how generous
+
+382
+00:23:18,640 --> 00:23:24,120
+this guy is.
+
+383
+00:23:24,120 --> 00:23:27,120
+Yet a jigsaw
+once we are happy with by this number.
+
+384
+00:23:28,920 --> 00:23:31,760
+So much with brother even will this number
+
+385
+00:23:36,680 --> 00:23:39,920
+all right.
+
+386
+00:23:39,920 --> 00:23:43,320
+Excellent Alex What a beautiful quality
+Everything he had.
+
+387
+00:23:43,440 --> 00:23:45,320
+I didn't understand that.
+
+388
+00:23:45,320 --> 00:23:52,440
+But now, now you see here
+it says Maven move or that you can
+
+389
+00:23:52,440 --> 00:23:57,560
+by reporting put this into your politics
+AML file right run this command.
+
+390
+00:23:57,560 --> 00:24:00,000
+But we had an ambient test command. Right.
+
+391
+00:24:00,000 --> 00:24:03,800
+And the reports are generating
+in target folder in the combat
+
+392
+00:24:04,240 --> 00:24:06,120
+multiple supported fine.
+
+393
+00:24:06,120 --> 00:24:09,240
+So we added this particular plugin
+yesterday in our class.
+
+394
+00:24:09,520 --> 00:24:10,200
+Right.
+
+395
+00:24:10,200 --> 00:24:13,800
+And we deleted some
+of the optional code played
+
+396
+00:24:17,840 --> 00:24:19,080
+below Asia.
+
+397
+00:24:19,080 --> 00:24:19,680
+Great.
+
+398
+00:24:19,800 --> 00:24:24,160
+So now here we change the project name,
+which is the input directly grade.
+
+399
+00:24:24,600 --> 00:24:27,000
+We changed this version, right?
+
+400
+00:24:27,280 --> 00:24:31,560
+If this project is not working for
+someone, drive it 5.5.0.
+
+401
+00:24:32,000 --> 00:24:34,080
+Right. That right there.
+
+402
+00:24:34,080 --> 00:24:36,880
+It will work
+if that region is also not working.
+
+403
+00:24:37,520 --> 00:24:40,960
+I me give you a couple of more words,
+but majority of people
+
+404
+00:24:41,280 --> 00:24:44,560
+were able to solve this problem yesterday
+joining the workshops.
+
+405
+00:24:44,560 --> 00:24:45,960
+Please do it.
+
+406
+00:24:45,960 --> 00:24:47,400
+All right, guys.
+
+407
+00:24:47,400 --> 00:24:50,160
+So we changed this particular part
+
+408
+00:24:50,160 --> 00:24:52,600
+execution point
+
+409
+00:24:53,400 --> 00:24:55,120
+so far in this part, right
+
+410
+00:24:55,120 --> 00:24:57,960
+after reading this particular plugin
+from here.
+
+411
+00:24:58,320 --> 00:25:02,880
+B they do R and R class
+and when we went to our class,
+
+412
+00:25:02,880 --> 00:25:06,360
+we and here would bring together
+a part called GZ Target.
+
+413
+00:25:06,400 --> 00:25:08,080
+Could you, can you see this?
+
+414
+00:25:09,240 --> 00:25:11,520
+Can everyone see this
+
+415
+00:25:11,520 --> 00:25:14,840
+right now when we are executing, remember
+
+416
+00:25:15,320 --> 00:25:18,360
+to generate this report we have to
+
+417
+00:25:18,360 --> 00:25:20,560
+execute automatic simplify.
+
+418
+00:25:21,360 --> 00:25:25,320
+If you're executing only a smoke,
+it will not generate this report.
+
+419
+00:25:25,320 --> 00:25:28,280
+Bomb not accessible
+will generate this report grade.
+
+420
+00:25:28,520 --> 00:25:33,360
+So after executing from an excellent file,
+we got this particular folder
+
+421
+00:25:33,360 --> 00:25:34,200
+he had collected.
+
+422
+00:25:34,200 --> 00:25:38,480
+You were a team of report and there we see
+all these reports available
+
+423
+00:25:39,000 --> 00:25:42,520
+so you can see for tags,
+related steps, related features,
+
+424
+00:25:42,520 --> 00:25:45,280
+related failures selected
+indisputably What
+
+425
+00:25:47,560 --> 00:25:48,840
+screwed everyone
+
+426
+00:25:54,320 --> 00:25:55,080
+from. Yes.
+
+427
+00:25:55,080 --> 00:25:57,480
+Got it. Got it.
+So I'm coming to that point. Nobody.
+
+428
+00:25:57,480 --> 00:25:59,880
+I'm coming to their point now.
+
+429
+00:25:59,880 --> 00:26:02,640
+Now, I gave you one task yesterday, right?
+
+430
+00:26:02,640 --> 00:26:06,880
+And Jimi, I should I must acknowledge
+you did a great job.
+
+431
+00:26:07,400 --> 00:26:11,880
+This guy did a complete function
+in the common methods, Right?
+
+432
+00:26:11,880 --> 00:26:15,640
+The task which I gave
+and his code was working absolutely fine.
+
+433
+00:26:15,640 --> 00:26:20,360
+The best part is he applied within two,
+3 hours after the completion of the class.
+
+434
+00:26:20,360 --> 00:26:22,160
+It shows his consistency.
+
+435
+00:26:22,160 --> 00:26:23,680
+It shows his particular,
+
+436
+00:26:23,680 --> 00:26:27,480
+you know, commitment towards the job,
+towards his work, work to the study.
+
+437
+00:26:27,720 --> 00:26:28,680
+I must appreciate it.
+
+438
+00:26:28,680 --> 00:26:33,080
+Good job, Jimmy.
+
+439
+00:26:33,080 --> 00:26:37,080
+All right, fine.
+
+440
+00:26:37,080 --> 00:26:43,040
+Or if I need that kind of dedication
+from your students.
+
+441
+00:26:43,040 --> 00:26:46,880
+So now, now that function, that function,
+
+442
+00:26:46,880 --> 00:26:51,400
+we are going to add in a common methods
+played.
+
+443
+00:26:51,400 --> 00:26:52,480
+Common methods. Correct.
+
+444
+00:26:53,760 --> 00:26:54,240
+In this
+
+445
+00:26:54,240 --> 00:26:57,760
+common
+methods, we are going to add a function.
+
+446
+00:26:58,000 --> 00:27:03,600
+Through that function we will select
+any drop and we will select any drop down.
+
+447
+00:27:03,760 --> 00:27:07,120
+So now, before writing that function,
+that idea
+
+448
+00:27:08,200 --> 00:27:12,560
+or drop drop down selection
+
+449
+00:27:13,320 --> 00:27:16,640
+or dropdown selection using
+
+450
+00:27:17,720 --> 00:27:19,920
+text, see now
+
+451
+00:27:19,920 --> 00:27:23,240
+tell me if I want to select any value
+from there.
+
+452
+00:27:23,240 --> 00:27:25,440
+Drop down how many things I need.
+
+453
+00:27:25,800 --> 00:27:29,520
+Just think about the code for select
+class 18.
+
+454
+00:27:29,520 --> 00:27:31,560
+How many things we need to automate.
+
+455
+00:27:31,560 --> 00:27:32,760
+One dropdown
+
+456
+00:27:35,760 --> 00:27:36,400
+greetings.
+
+457
+00:27:36,400 --> 00:27:36,800
+All right.
+
+458
+00:27:36,800 --> 00:27:39,040
+What are those two things the most is
+
+459
+00:27:39,920 --> 00:27:43,400
+all right.
+
+460
+00:27:43,400 --> 00:27:44,120
+All right.
+
+461
+00:27:44,440 --> 00:27:45,680
+Well, element is one thing.
+
+462
+00:27:45,680 --> 00:27:47,920
+What are remaining to value?
+
+463
+00:27:47,960 --> 00:27:51,800
+Second thing and select glass 35.
+
+464
+00:27:51,800 --> 00:27:54,880
+So variables think is very
+
+465
+00:27:54,880 --> 00:27:58,040
+first thing is all the geniuses
+
+466
+00:27:58,440 --> 00:28:02,040
+we need to write the function.
+
+467
+00:28:02,040 --> 00:28:04,960
+We need to write a function, select
+
+468
+00:28:05,920 --> 00:28:07,840
+the dropdown.
+
+469
+00:28:07,840 --> 00:28:09,240
+We need to write the function.
+
+470
+00:28:09,240 --> 00:28:11,840
+This is the very first thing
+
+471
+00:28:13,800 --> 00:28:14,520
+we have done it
+
+472
+00:28:14,520 --> 00:28:17,400
+for dropdown in choosing date and calendar
+with this month.
+
+473
+00:28:18,480 --> 00:28:19,800
+Correct. I wrote the code.
+
+474
+00:28:19,800 --> 00:28:20,800
+It disturbs your whole mark,
+
+475
+00:28:20,800 --> 00:28:24,680
+but their task was to write
+this function in common method.
+
+476
+00:28:25,400 --> 00:28:26,600
+Yeah, that's fine. That's fine.
+
+477
+00:28:26,600 --> 00:28:29,680
+You can copy this
+because see what I'm saying?
+
+478
+00:28:29,680 --> 00:28:33,720
+Basically, next time
+you don't have to use this function here
+
+479
+00:28:33,720 --> 00:28:38,880
+and then simply call this method, provide
+the web element, provide the dataset.
+
+480
+00:28:39,680 --> 00:28:40,080
+Okay.
+
+481
+00:28:40,080 --> 00:28:45,240
+So first thing
+first thing we need web element,
+
+482
+00:28:45,240 --> 00:28:48,680
+and second thing we need is text read
+
+483
+00:28:50,680 --> 00:28:52,560
+is this Critics
+
+484
+00:28:53,320 --> 00:28:55,360
+see not what I'm writing in the function.
+
+485
+00:28:55,360 --> 00:29:02,200
+I think select is is equals to nil select
+and I'm passing this element
+
+486
+00:29:02,520 --> 00:29:06,080
+now again,
+again, the concept of polymorphism
+
+487
+00:29:07,080 --> 00:29:10,280
+method overriding what will happen here.
+
+488
+00:29:10,280 --> 00:29:12,560
+I will override the element. Right?
+
+489
+00:29:12,840 --> 00:29:17,800
+And now I have this method in select
+class selected by value, select by index.
+
+490
+00:29:17,920 --> 00:29:19,640
+Select my visibility text.
+
+491
+00:29:19,640 --> 00:29:23,760
+If I'm providing select by index
+instead of providing here in the argument
+
+492
+00:29:23,760 --> 00:29:26,480
+is doing what I do plus
+
+493
+00:29:27,800 --> 00:29:30,600
+integer symbol,
+then I can override the integer.
+
+494
+00:29:31,000 --> 00:29:31,520
+Right?
+
+495
+00:29:31,520 --> 00:29:33,840
+If I want to pass the value,
+then again a string.
+
+496
+00:29:34,040 --> 00:29:37,720
+If I want to mask the text,
+I can pass complete text from the string.
+
+497
+00:29:39,480 --> 00:29:42,360
+Does it make sense to everyone?
+
+498
+00:29:42,360 --> 00:29:43,680
+Does it make sense to everyone?
+
+499
+00:29:43,680 --> 00:29:51,000
+Does?
+
+500
+00:29:51,000 --> 00:29:53,040
+Is this clear to everyone based
+what I'm doing.
+
+501
+00:29:53,840 --> 00:29:56,120
+So now, now, next time.
+
+502
+00:29:56,120 --> 00:29:57,240
+Let's see.
+
+503
+00:29:57,240 --> 00:29:58,200
+Did say in your inheritance.
+
+504
+00:29:58,200 --> 00:30:01,480
+Can someone please.
+
+505
+00:30:01,480 --> 00:30:04,680
+Okay,
+get someone please share the code for that
+
+506
+00:30:04,680 --> 00:30:07,800
+particular one so I can copy and paste it.
+
+507
+00:30:07,800 --> 00:30:11,040
+Code is their task homework
+and they can write
+
+508
+00:30:11,040 --> 00:30:30,280
+here.
+
+509
+00:30:30,280 --> 00:30:31,440
+No, no, not discord.
+
+510
+00:30:32,880 --> 00:30:33,400
+Yeah, that
+
+511
+00:30:33,400 --> 00:30:37,920
+is fine.
+
+512
+00:30:37,920 --> 00:30:39,280
+I just want. Okay, let's do it.
+
+513
+00:30:39,280 --> 00:30:41,120
+Let's do one thing. Let's do one thing.
+
+514
+00:30:41,120 --> 00:30:43,240
+What I'm going to do is post here.
+
+515
+00:30:43,240 --> 00:30:45,800
+Let me show you the application
+right here.
+
+516
+00:30:46,320 --> 00:30:48,880
+This is the application we have.
+
+517
+00:30:48,880 --> 00:30:51,160
+If I click on an employee here,
+
+518
+00:30:52,200 --> 00:30:55,040
+I can. So
+
+519
+00:31:12,800 --> 00:31:14,640
+when I save it
+
+520
+00:31:18,800 --> 00:31:19,520
+after this,
+
+521
+00:31:19,520 --> 00:31:22,680
+I have to click on this every time
+
+522
+00:31:22,840 --> 00:31:24,400
+I used it. Which code?
+
+523
+00:31:24,400 --> 00:31:26,520
+But code four month,
+which I gave you right.
+
+524
+00:31:26,520 --> 00:31:38,800
+Yesterday in the task,
+did you complete the task.
+
+525
+00:31:38,800 --> 00:31:39,360
+Fine.
+
+526
+00:31:39,360 --> 00:31:42,440
+So now, now I'm
+coming to this particular screen rate.
+
+527
+00:31:42,600 --> 00:31:45,480
+In this screen
+I have a code, if you remember, but
+
+528
+00:31:45,560 --> 00:31:47,520
+ending the employee training.
+
+529
+00:31:47,520 --> 00:31:50,040
+So let me quickly read
+once the menu. Right.
+
+530
+00:31:50,040 --> 00:31:52,280
+And then hit a button, click on it.
+
+531
+00:31:52,280 --> 00:31:53,760
+Option right.
+
+532
+00:31:53,760 --> 00:31:56,880
+I will try to select any one part
+such as nationality.
+
+533
+00:31:57,120 --> 00:32:00,960
+Just one thing I'm going to show you using
+this particular function, would they be
+
+534
+00:32:00,960 --> 00:32:08,360
+okay,
+
+535
+00:32:08,360 --> 00:32:11,640
+So let's do it in an employee feature.
+
+536
+00:32:11,640 --> 00:32:13,800
+If I'm adding one particular employee.
+
+537
+00:32:15,040 --> 00:32:17,640
+So this in already this one
+
+538
+00:32:20,120 --> 00:32:22,200
+clicks on, see a button and the employee,
+
+539
+00:32:22,200 --> 00:32:25,600
+if it successfully
+let me go to this particular store
+
+540
+00:32:26,640 --> 00:32:31,120
+and here it is
+the gear discord forced just to check.
+
+541
+00:32:32,000 --> 00:32:34,920
+So I'm seeing here,
+instead of changing these
+
+542
+00:32:37,080 --> 00:32:38,320
+dropdown
+
+543
+00:32:39,400 --> 00:32:41,800
+and here I'm writing
+
+544
+00:32:42,480 --> 00:32:43,720
+dropdown
+
+545
+00:32:45,120 --> 00:32:47,280
+first, I just want to check
+
+546
+00:32:47,280 --> 00:32:49,600
+whether my
+this particular function is working
+
+547
+00:32:49,600 --> 00:32:50,520
+or not
+
+548
+00:33:21,480 --> 00:33:22,320
+working.
+
+549
+00:33:22,320 --> 00:33:25,920
+Click on Save Button
+after clicking on Save button.
+
+550
+00:33:25,920 --> 00:33:29,640
+What it does,
+it will take me to this particular page
+
+551
+00:33:30,080 --> 00:33:32,840
+right now here, I need to find this edit
+
+552
+00:33:32,840 --> 00:33:36,040
+option to place.
+
+553
+00:33:36,040 --> 00:33:38,120
+That is going to be my point.
+What I'm doing here.
+
+554
+00:33:38,120 --> 00:33:40,320
+It will take me to this particular
+edit option.
+
+555
+00:33:41,200 --> 00:33:43,320
+So let me take this edit option.
+
+556
+00:33:43,920 --> 00:33:46,680
+It says I did button. Steve
+
+557
+00:33:47,800 --> 00:33:48,880
+Let's take way of value.
+
+558
+00:33:48,880 --> 00:33:49,800
+This type
+
+559
+00:34:08,840 --> 00:34:11,600
+based export
+
+560
+00:34:12,000 --> 00:34:14,400
+rate.
+
+561
+00:34:14,400 --> 00:34:15,960
+Yeah, that's fine, but I'm just checking.
+
+562
+00:34:15,960 --> 00:34:18,440
+I'm just it just for this purpose.
+
+563
+00:34:18,440 --> 00:34:20,480
+Don't worry.
+I mean, I'm not going to do this.
+
+564
+00:34:21,160 --> 00:34:23,000
+Follow this completely. Everything.
+
+565
+00:34:23,000 --> 00:34:24,000
+I can put it anywhere.
+
+566
+00:34:24,000 --> 00:34:27,720
+So there's a new employee page here.
+
+567
+00:34:27,720 --> 00:34:47,280
+I'm going to write this
+particular function, but edit option it.
+
+568
+00:34:47,280 --> 00:34:50,040
+And then the second look
+that I would need is
+
+569
+00:34:51,600 --> 00:34:54,240
+marital status post. See,
+
+570
+00:34:55,920 --> 00:34:58,160
+it says Here it is, this one
+
+571
+00:35:00,080 --> 00:35:00,400
+item.
+
+572
+00:35:00,400 --> 00:35:03,080
+So let me go for this idea
+
+573
+00:35:04,640 --> 00:35:06,080
+I'm putting in guys again.
+
+574
+00:35:06,080 --> 00:35:09,240
+I'm saying in an employee pay rate,
+not employee detail speech
+
+575
+00:35:09,680 --> 00:35:12,360
+or employee less
+because I didn't clear the pages of now.
+
+576
+00:35:13,200 --> 00:35:13,400
+Okay.
+
+577
+00:35:13,400 --> 00:35:19,160
+Just to show you
+I'm doing this member status.
+
+578
+00:35:19,160 --> 00:35:22,880
+And then another thing is
+don't don't get confused with the task
+
+579
+00:35:23,240 --> 00:35:26,520
+for your task
+is you have to create a new page for this
+
+580
+00:35:27,880 --> 00:35:29,320
+and I will go
+
+581
+00:35:29,320 --> 00:35:33,000
+check with the nationality
+
+582
+00:35:34,600 --> 00:35:35,280
+first.
+
+583
+00:35:36,200 --> 00:35:45,680
+Names in combination,
+
+584
+00:35:45,680 --> 00:35:48,920
+find marital status
+or nationality and adoption point.
+
+585
+00:35:49,720 --> 00:35:52,560
+So not if I go in my date Employee here,
+
+586
+00:35:54,120 --> 00:35:57,120
+Employee successfully going to declaration
+
+587
+00:35:58,240 --> 00:35:58,760
+employee here.
+
+588
+00:35:58,760 --> 00:36:02,240
+I'm going to write dashboard
+
+589
+00:36:05,400 --> 00:36:06,640
+Redemption
+
+590
+00:36:08,000 --> 00:36:11,880
+here I need to perform Click completion.
+
+591
+00:36:11,880 --> 00:36:12,240
+Right.
+
+592
+00:36:12,240 --> 00:36:16,440
+So let me put it into the click operation
+post after this.
+
+593
+00:36:16,440 --> 00:36:20,680
+I'm talking about select dropdown for it,
+so it is asking for two things.
+
+594
+00:36:21,200 --> 00:36:25,320
+So first one I'm going to take is stored
+marital status, comma.
+
+595
+00:36:25,920 --> 00:36:35,880
+What would be the value
+of the mental status?
+
+596
+00:36:35,880 --> 00:36:39,440
+Single married, other.
+
+597
+00:36:39,440 --> 00:36:45,360
+Let's talk about here other.
+
+598
+00:36:45,360 --> 00:36:46,800
+How can you say married?
+
+599
+00:36:46,800 --> 00:36:51,120
+Lot of people are planning
+to get separated if you're not married?
+
+600
+00:36:51,600 --> 00:36:54,200
+It's either.
+
+601
+00:36:54,200 --> 00:36:56,840
+Then the another one is select dropdown.
+
+602
+00:36:56,880 --> 00:37:01,320
+Again, I'm taking an employee page
+or nationality.
+
+603
+00:37:01,880 --> 00:37:02,280
+Right.
+
+604
+00:37:02,280 --> 00:37:05,520
+And here in the
+nationality this time select.
+
+605
+00:37:07,200 --> 00:37:09,200
+Let's take the easy one.
+
+606
+00:37:09,200 --> 00:37:15,880
+British, British one.
+
+607
+00:37:15,880 --> 00:37:22,080
+And then here is going to click
+on Save option.
+
+608
+00:37:22,080 --> 00:37:24,680
+So again, this particular word I can use
+
+609
+00:37:28,160 --> 00:37:28,800
+is this correct?
+
+610
+00:37:28,800 --> 00:37:31,920
+This just to show you
+I'm putting this code
+
+611
+00:37:32,920 --> 00:37:35,880
+and putting up this putting up this code
+just to show you.
+
+612
+00:37:35,880 --> 00:37:37,800
+So let me go ahead
+
+613
+00:37:39,240 --> 00:37:39,960
+and this time
+
+614
+00:37:39,960 --> 00:37:51,760
+execute this task.
+
+615
+00:37:51,760 --> 00:37:55,560
+Yeah,
+I clicked on Steve option already, Jimmy
+
+616
+00:37:55,680 --> 00:38:07,240
+and I'm doing great.
+
+617
+00:38:07,240 --> 00:38:12,480
+See it selected British selected
+other entities successfully saved like
+
+618
+00:38:15,200 --> 00:38:16,400
+right case
+
+619
+00:38:16,880 --> 00:38:19,200
+So now your global function
+
+620
+00:38:19,440 --> 00:38:22,440
+your global function is working
+absolutely fine.
+
+621
+00:38:23,040 --> 00:38:26,880
+Which function working
+absolutely fine or drop down automation
+
+622
+00:38:27,280 --> 00:38:31,840
+right now let's talk about
+another important function here.
+
+623
+00:38:32,640 --> 00:38:37,440
+You'll get the finally,
+
+624
+00:38:37,440 --> 00:38:41,240
+your favorite part is into the picture.
+
+625
+00:38:41,640 --> 00:38:43,160
+Yes, Correct.
+
+626
+00:38:43,160 --> 00:38:45,920
+So we are going to work on
+
+627
+00:38:47,520 --> 00:38:49,920
+screenshot method.
+
+628
+00:38:49,920 --> 00:38:52,160
+Screenshot method.
+
+629
+00:38:52,800 --> 00:38:56,080
+Thanks for being patient with me.
+
+630
+00:38:56,080 --> 00:38:59,440
+Now I see what they want.
+
+631
+00:38:59,480 --> 00:39:03,600
+The reports we are providing doesn't
+mean that how we have executing the code
+
+632
+00:39:03,880 --> 00:39:06,960
+and whatever the things we are doing
+absolutely fine.
+
+633
+00:39:07,720 --> 00:39:11,880
+But we do not have any article is not.
+
+634
+00:39:11,880 --> 00:39:14,440
+We do not have any idea it is open now
+
+635
+00:39:15,040 --> 00:39:15,760
+that it
+
+636
+00:39:36,400 --> 00:39:37,200
+started.
+
+637
+00:39:38,160 --> 00:39:40,120
+So let's write a function.
+
+638
+00:39:40,120 --> 00:39:42,400
+Let's write a function for screenshot.
+
+639
+00:39:43,320 --> 00:39:46,440
+So here I'm going to write
+this particular function.
+
+640
+00:39:46,680 --> 00:39:50,360
+This particular function will return
+me, will return me
+
+641
+00:39:50,560 --> 00:39:53,120
+the screenshot of the scenario.
+
+642
+00:39:53,280 --> 00:39:55,440
+I am going to execute.
+
+643
+00:39:55,440 --> 00:39:57,360
+This function will return
+with the scenario.
+
+644
+00:39:57,360 --> 00:39:59,360
+I'm going to execute. All right.
+
+645
+00:40:01,080 --> 00:40:01,480
+All right.
+
+646
+00:40:01,480 --> 00:40:04,280
+Great.
+
+647
+00:40:04,280 --> 00:40:09,720
+For every single execution
+which we are going to make, this function
+
+648
+00:40:09,920 --> 00:40:13,360
+will then make a particular screenshot
+and just put everyone
+
+649
+00:40:23,640 --> 00:40:25,800
+nowadays don't write anything right.
+
+650
+00:40:25,800 --> 00:40:29,320
+Focus here
+what I'm trying to do very first thing
+
+651
+00:40:30,440 --> 00:40:53,680
+I remember, can we find this method in
+
+652
+00:40:54,800 --> 00:40:56,640
+which materials
+
+653
+00:40:59,040 --> 00:41:03,400
+dropdown selection?
+
+654
+00:41:03,400 --> 00:41:04,280
+Yes, obviously.
+
+655
+00:41:04,280 --> 00:41:05,280
+Why not?
+
+656
+00:41:05,640 --> 00:41:08,040
+I'm going to put it into the code.
+
+657
+00:41:08,040 --> 00:41:09,520
+Everything will been developed.
+
+658
+00:41:09,520 --> 00:41:11,720
+This is what I'm doing for you
+when needed.
+
+659
+00:41:11,720 --> 00:41:13,200
+So you get it.
+
+660
+00:41:13,600 --> 00:41:15,840
+So now see the remember whenever we talk
+
+661
+00:41:15,840 --> 00:41:19,160
+about the grammar,
+whenever we talk about Gutenberg.
+
+662
+00:41:19,520 --> 00:41:23,840
+So he can do always returns,
+always returns
+
+663
+00:41:24,920 --> 00:41:28,760
+and able find
+
+664
+00:41:28,840 --> 00:41:30,840
+what it returns
+
+665
+00:41:31,600 --> 00:41:34,360
+life it returns and able byte.
+
+666
+00:41:34,600 --> 00:41:39,000
+So when we get when we get the data
+multiple, multiple bytes,
+
+667
+00:41:39,000 --> 00:41:42,520
+multiple bytes existence
+which means area of byte.
+
+668
+00:41:42,760 --> 00:41:43,680
+Understood.
+
+669
+00:41:43,680 --> 00:41:48,440
+So in part function we read the function
+for taking the screenshot in the
+
+670
+00:41:48,440 --> 00:41:51,960
+could remember it will return one thing
+that is area of byte.
+
+671
+00:41:52,240 --> 00:41:53,480
+So in the end.
+
+672
+00:41:53,480 --> 00:41:58,200
+In the end I have Eddie Obeid
+also were writing the function button.
+
+673
+00:41:58,200 --> 00:42:01,440
+So what would be the return type
+in this case for my function?
+
+674
+00:42:02,960 --> 00:42:05,200
+What would be the return date in this case
+case?
+
+675
+00:42:05,200 --> 00:42:07,480
+Ariel Bait. Simple.
+
+676
+00:42:07,480 --> 00:42:08,880
+Let's go ahead and write.
+
+677
+00:42:08,880 --> 00:42:11,120
+One function was to be public
+
+678
+00:42:12,360 --> 00:42:14,520
+stating write public stating.
+
+679
+00:42:14,520 --> 00:42:17,520
+And I'm seeing my
+
+680
+00:42:17,520 --> 00:42:19,360
+name would be a
+
+681
+00:42:19,440 --> 00:42:23,160
+screenshot.
+
+682
+00:42:23,160 --> 00:42:24,520
+Now see
+
+683
+00:42:26,080 --> 00:42:28,160
+now see it is giving me right now
+
+684
+00:42:28,160 --> 00:42:30,360
+it is giving me this
+
+685
+00:42:35,800 --> 00:42:36,160
+right.
+
+686
+00:42:36,840 --> 00:42:41,760
+So here
+it would be my edit of my understood
+
+687
+00:42:42,720 --> 00:42:45,240
+edit of Mike and here
+
+688
+00:42:45,360 --> 00:42:47,960
+I am going to write
+so terminates in selenium
+
+689
+00:42:48,240 --> 00:42:51,840
+which might be used for screenshots.
+
+690
+00:42:51,840 --> 00:42:59,080
+We use a screenshot.
+
+691
+00:43:00,160 --> 00:43:02,360
+This is equals to
+
+692
+00:43:04,320 --> 00:43:06,240
+x screenshot
+
+693
+00:43:06,480 --> 00:43:07,440
+driver.
+
+694
+00:43:07,760 --> 00:43:10,680
+I hope everyone used this particular
+method.
+
+695
+00:43:10,680 --> 00:43:14,120
+This particular part
+in your selenium classes.
+
+696
+00:43:14,120 --> 00:43:16,800
+I hope everyone used it.
+
+697
+00:43:16,800 --> 00:43:20,360
+If someone didn't do
+
+698
+00:43:22,160 --> 00:43:22,680
+slide
+
+699
+00:43:22,680 --> 00:43:26,480
+this lately, we are going to change this
+according to this particular framework.
+
+700
+00:43:26,520 --> 00:43:30,640
+That cucumber that we are using.
+
+701
+00:43:30,640 --> 00:43:32,040
+Yeah, that's what I am saying. So
+
+702
+00:43:36,760 --> 00:43:38,320
+here, here.
+
+703
+00:43:38,320 --> 00:43:38,880
+Right.
+
+704
+00:43:38,880 --> 00:43:43,480
+What we can do basically is simply
+we can simply change it
+
+705
+00:43:43,480 --> 00:43:47,000
+according to the consumer functionality
+that we are using.
+
+706
+00:43:47,000 --> 00:43:47,640
+All right.
+
+707
+00:43:47,640 --> 00:43:50,400
+So that's why I implemented any of byte.
+
+708
+00:43:50,840 --> 00:43:53,880
+Now see what we are going to change
+in this function,
+
+709
+00:43:54,360 --> 00:43:57,000
+read this function and even most days
+
+710
+00:43:57,000 --> 00:43:59,760
+don't get screenshot s right.
+
+711
+00:44:00,000 --> 00:44:04,200
+So here we provide
+what output takes, output based output.
+
+712
+00:44:04,200 --> 00:44:06,320
+Then what you generally
+provide is still me.
+
+713
+00:44:06,320 --> 00:44:07,480
+You provide FYI.
+
+714
+00:44:07,480 --> 00:44:08,320
+Correct
+
+715
+00:44:09,280 --> 00:44:12,840
+here because it is returning me
+any overbite.
+
+716
+00:44:13,040 --> 00:44:16,680
+So do we need to provide file
+or do we need to provide something else?
+
+717
+00:44:16,680 --> 00:44:19,360
+You see three functions d function.
+
+718
+00:44:19,360 --> 00:44:22,840
+So which one we should provide
+because it is written by it.
+
+719
+00:44:22,840 --> 00:44:24,960
+So we have to provide bytes.
+
+720
+00:44:26,280 --> 00:44:28,200
+We have to provide bytes.
+
+721
+00:44:28,200 --> 00:44:30,600
+Understood.
+
+722
+00:44:30,600 --> 00:44:32,000
+Since it is returning bytes.
+
+723
+00:44:32,000 --> 00:44:36,280
+So here I writing the object
+that I'm going to store it as big bytes
+
+724
+00:44:36,600 --> 00:44:40,800
+picture of bytes
+which is mine, which is my edit,
+
+725
+00:44:42,240 --> 00:44:43,840
+which is my body.
+
+726
+00:44:43,840 --> 00:44:48,480
+Understood.
+
+727
+00:44:48,480 --> 00:44:53,080
+Understood.
+
+728
+00:44:53,080 --> 00:44:57,240
+Now, Now when it is returning,
+it is returning.
+
+729
+00:44:57,240 --> 00:45:01,920
+I need to store this screenshot
+somewhere in my framework.
+
+730
+00:45:02,960 --> 00:45:06,440
+I need to store this
+the screenshots in my inbox
+
+731
+00:45:06,640 --> 00:45:09,960
+when I need to provide
+one particular files.
+
+732
+00:45:10,280 --> 00:45:13,280
+Right So here I am writing five. Right.
+
+733
+00:45:13,600 --> 00:45:16,680
+It would be my list of source five,
+maybe eight. So
+
+734
+00:45:17,920 --> 00:45:20,000
+I'm going to write it as dot
+
+735
+00:45:21,200 --> 00:45:23,400
+get screenshot as
+
+736
+00:45:23,400 --> 00:45:25,840
+so now here it will be my file.
+
+737
+00:45:26,080 --> 00:45:29,400
+This payment would be
+
+738
+00:45:29,400 --> 00:45:30,320
+split output.
+
+739
+00:45:30,320 --> 00:45:33,240
+They would be mine for free.
+
+740
+00:45:34,120 --> 00:45:45,680
+Whatever.
+
+741
+00:45:45,680 --> 00:45:50,200
+Okay, now see what I'm going to write you.
+
+742
+00:45:50,240 --> 00:45:54,840
+I'm going to write 10 minutes
+to access the file, to access the file
+
+743
+00:45:54,840 --> 00:46:00,040
+and copy the code which file utility
+we have to do with the file in Java,
+
+744
+00:46:00,240 --> 00:46:05,320
+which utility we use.
+
+745
+00:46:05,320 --> 00:46:06,080
+I knew this
+
+746
+00:46:07,160 --> 00:46:09,600
+and we use pilot in space
+
+747
+00:46:09,840 --> 00:46:13,200
+Dark copy fight is this method correct?
+
+748
+00:46:13,200 --> 00:46:17,360
+What I'm writing
+it is asking source by so source fine.
+
+749
+00:46:17,560 --> 00:46:18,120
+Which one?
+
+750
+00:46:18,120 --> 00:46:21,360
+I've already provided Source my right.
+
+751
+00:46:21,880 --> 00:46:25,840
+It's his destination
+by destination by now.
+
+752
+00:46:25,840 --> 00:46:27,960
+Right. The destination by now.
+
+753
+00:46:27,960 --> 00:46:32,880
+I am going to define like this
+C needle fly.
+
+754
+00:46:32,880 --> 00:46:37,280
+And here in this new file
+I'm going to provide the bottom
+
+755
+00:46:39,160 --> 00:46:40,520
+right arm location.
+
+756
+00:46:40,520 --> 00:46:43,040
+So do we have any location
+for the screenshot as of now?
+
+757
+00:46:45,040 --> 00:46:46,840
+Do we have any location
+for this screenshot?
+
+758
+00:46:46,840 --> 00:46:52,480
+As of no, we do not.
+
+759
+00:46:53,160 --> 00:46:53,760
+Right.
+
+760
+00:46:55,240 --> 00:46:57,120
+So let's go ahead and do it.
+
+761
+00:46:57,120 --> 00:46:58,680
+Let's go ahead and do it.
+
+762
+00:46:58,680 --> 00:47:01,800
+Open your constants class,
+
+763
+00:47:01,800 --> 00:47:03,360
+Open your constraints class
+
+764
+00:47:03,360 --> 00:47:06,480
+and provide a box
+here in your constants class.
+
+765
+00:47:06,760 --> 00:47:07,840
+Provide a but
+
+766
+00:47:09,600 --> 00:47:12,040
+what would be under your package?
+
+767
+00:47:12,360 --> 00:47:14,080
+Enter your package. Great.
+
+768
+00:47:14,080 --> 00:47:18,160
+So now see in constants, I'm
+going to provide a public
+
+769
+00:47:19,280 --> 00:47:21,560
+static final.
+
+770
+00:47:22,320 --> 00:47:24,440
+I'm going to provide the path is
+
+771
+00:47:26,240 --> 00:47:29,400
+a screenshot
+
+772
+00:47:29,400 --> 00:47:32,600
+screenshot file, but
+
+773
+00:47:32,600 --> 00:47:33,360
+great
+
+774
+00:47:34,040 --> 00:47:36,600
+in this point code would be C
+
+775
+00:47:37,280 --> 00:47:41,680
+and then here I am providing I'm
+providing the path for the screenshot
+
+776
+00:47:41,680 --> 00:47:45,040
+is under the screenshot
+
+777
+00:47:45,400 --> 00:47:47,920
+folder under the screenshots folder.
+
+778
+00:47:48,520 --> 00:47:49,120
+Okay.
+
+779
+00:47:49,200 --> 00:47:51,760
+So now tell me if I say under screenshots
+folder.
+
+780
+00:47:51,800 --> 00:47:55,000
+Maybe have to create this
+particular volume
+
+781
+00:47:55,120 --> 00:47:56,320
+where we have to create this order.
+
+782
+00:47:56,320 --> 00:47:57,080
+It'd be
+
+783
+00:47:58,280 --> 00:48:01,880
+nice.
+
+784
+00:48:01,880 --> 00:48:05,640
+I'm not a Jardim is here, here, here.
+
+785
+00:48:06,480 --> 00:48:07,480
+So now.
+
+786
+00:48:07,480 --> 00:48:09,240
+Now let's do.
+
+787
+00:48:09,240 --> 00:48:11,520
+Let's do it here like this.
+
+788
+00:48:11,520 --> 00:48:15,840
+It should be more screen.
+
+789
+00:48:15,840 --> 00:48:17,840
+Can you see
+I haven't already announced interest
+
+790
+00:48:19,680 --> 00:48:22,840
+Can everyone see
+I have this folder A screenshots here now
+
+791
+00:48:28,680 --> 00:48:29,320
+right
+
+792
+00:48:29,840 --> 00:48:32,000
+now go into your common interests
+
+793
+00:48:32,160 --> 00:48:34,680
+so far any questions
+how we provided this part
+
+794
+00:48:35,520 --> 00:48:37,680
+so for any question for this anyone
+
+795
+00:48:40,720 --> 00:48:46,520
+is that clear.
+
+796
+00:48:46,520 --> 00:48:49,320
+That clear.
+
+797
+00:48:49,320 --> 00:48:51,320
+Guys please don't die Please don't date
+
+798
+00:48:51,360 --> 00:48:52,680
+been responding
+
+799
+00:48:55,560 --> 00:48:55,920
+short.
+
+800
+00:48:55,920 --> 00:48:58,040
+Are you want me to show again?
+
+801
+00:48:59,880 --> 00:49:02,440
+Okay.
+
+802
+00:49:02,440 --> 00:49:04,160
+Now see, guys here.
+
+803
+00:49:04,160 --> 00:49:07,440
+We provided this part in the context
+because this thought
+
+804
+00:49:07,440 --> 00:49:09,360
+is not going to change. Correct.
+
+805
+00:49:09,360 --> 00:49:13,720
+So we provided always those boxes
+when these are binding in our constants.
+
+806
+00:49:13,720 --> 00:49:16,200
+Plus, what is your user idea?
+
+807
+00:49:16,560 --> 00:49:19,600
+What you in the class
+When I explain this part of city
+
+808
+00:49:20,040 --> 00:49:22,880
+user data is always redundant.
+
+809
+00:49:22,880 --> 00:49:25,480
+It is a command,
+right of operating system.
+
+810
+00:49:25,720 --> 00:49:29,760
+It's always written from Java,
+the back of your project.
+
+811
+00:49:29,760 --> 00:49:33,840
+So whenever
+whenever you are executing this command,
+
+812
+00:49:34,000 --> 00:49:37,440
+it returns
+the part of the Project Builder project,
+
+813
+00:49:37,440 --> 00:49:40,000
+but it returns the command,
+it returns output.
+
+814
+00:49:40,120 --> 00:49:42,800
+Okay, is the SO user territory.
+
+815
+00:49:43,080 --> 00:49:46,840
+Okay, so user directory students
+for part of this particular
+
+816
+00:49:46,840 --> 00:49:48,480
+no issues, That's what I would say.
+
+817
+00:49:48,480 --> 00:49:51,280
+So now it becomes odd part global
+
+818
+00:49:51,600 --> 00:49:55,160
+because if I write this in your machine
+it will return the part of your machine.
+
+819
+00:49:55,960 --> 00:49:59,600
+If I ran it in my machine,
+included in the portal by machine.
+
+820
+00:49:59,880 --> 00:50:00,440
+Right.
+
+821
+00:50:00,440 --> 00:50:03,880
+So if I write this one,
+it makes our base globally on
+
+822
+00:50:04,440 --> 00:50:07,280
+an inside this, this bot are constants.
+
+823
+00:50:07,280 --> 00:50:11,280
+This button constant dynamic,
+these quantities and this could now be one
+
+824
+00:50:15,680 --> 00:50:16,200
+point.
+
+825
+00:50:16,200 --> 00:50:18,000
+So now let's go into the common method.
+
+826
+00:50:18,000 --> 00:50:20,600
+So here, here and with the right enemy.
+
+827
+00:50:20,880 --> 00:50:27,880
+No, my file location, I have a mark,
+I have a file location.
+
+828
+00:50:28,160 --> 00:50:31,000
+Is it just a screenshot Facebook
+
+829
+00:50:31,920 --> 00:50:34,560
+extension Facebook group.
+
+830
+00:50:37,880 --> 00:50:38,240
+It is
+
+831
+00:50:38,240 --> 00:50:41,560
+giving me the error mode a chance to
+I get.
+
+832
+00:50:41,560 --> 00:50:42,320
+Fine. Let's do it.
+
+833
+00:50:42,320 --> 00:50:44,560
+We take it to over. And now.
+
+834
+00:50:44,920 --> 00:50:48,040
+Now here
+simply I'm going to say it returns
+
+835
+00:50:48,240 --> 00:50:52,280
+it returns my big box.
+
+836
+00:50:52,280 --> 00:50:55,240
+You see guys this function
+
+837
+00:50:55,280 --> 00:50:56,880
+you see guys this function is
+
+838
+00:50:56,880 --> 00:51:00,200
+clean screenshot.
+
+839
+00:51:00,200 --> 00:51:01,320
+Can you see it?
+
+840
+00:51:01,320 --> 00:51:04,000
+Everyone.
+
+841
+00:51:04,000 --> 00:51:09,400
+But but I can see one problem
+in this function I'm seeing find
+
+842
+00:51:09,560 --> 00:51:12,880
+should be saved in this screenshot file,
+but which need
+
+843
+00:51:14,040 --> 00:51:16,360
+which name right with what name
+
+844
+00:51:16,360 --> 00:51:19,400
+we need to provide.
+
+845
+00:51:19,400 --> 00:51:21,240
+And you see any name being provided.
+
+846
+00:51:21,240 --> 00:51:25,360
+The facebook? No.
+
+847
+00:51:25,360 --> 00:51:26,880
+We deployed. Right.
+
+848
+00:51:26,880 --> 00:51:29,640
+And can you predict
+the name of the scenario?
+
+849
+00:51:29,640 --> 00:51:31,840
+With scenario we are going to execute
+
+850
+00:51:31,840 --> 00:51:35,400
+how many submenus
+we are going execute can predict. No.
+
+851
+00:51:36,360 --> 00:51:39,160
+So if
+we cannot predict something like this,
+
+852
+00:51:39,160 --> 00:51:43,400
+if we cannot predict what scenario
+we are going to execute our minister,
+
+853
+00:51:43,400 --> 00:51:46,560
+we are going to execute
+which one is going to be parsed,
+
+854
+00:51:46,560 --> 00:51:49,680
+which one is going to be fiend,
+What is the name of the method?
+
+855
+00:51:49,960 --> 00:51:53,280
+We cannot see anything
+because it completely depends
+
+856
+00:51:53,280 --> 00:51:57,880
+on the requirement of what execution
+our required.
+
+857
+00:51:57,880 --> 00:52:00,720
+We we would change this, right?
+
+858
+00:52:01,040 --> 00:52:05,680
+So first first what we will do,
+we will provide a global FYI,
+
+859
+00:52:06,360 --> 00:52:09,800
+we will provide a global file name.
+
+860
+00:52:09,840 --> 00:52:14,520
+And this we will hand in here
+in our method in terms of kingdom.
+
+861
+00:52:14,560 --> 00:52:17,320
+So now you'll see
+
+862
+00:52:18,120 --> 00:52:20,520
+in terms of correct firstly
+
+863
+00:52:21,600 --> 00:52:24,240
+timestamp we will do the mission,
+we will do that bundle.
+
+864
+00:52:24,240 --> 00:52:27,360
+So first thing you see, find nameplate
+
+865
+00:52:29,640 --> 00:52:33,760
+is correct
+
+866
+00:52:33,760 --> 00:52:38,200
+or not.
+
+867
+00:52:38,200 --> 00:52:41,440
+Now now here, now here. What is happening?
+
+868
+00:52:41,880 --> 00:52:45,800
+If I provide this tiny right,
+you might provide this by name,
+
+869
+00:52:45,800 --> 00:52:50,240
+then what would happen here
+after providing the file name, right?
+
+870
+00:52:50,480 --> 00:52:54,560
+If I'm executing one
+just because it will generate the report,
+
+871
+00:52:54,680 --> 00:52:58,920
+take this feature if I provide second best
+because then execute it.
+
+872
+00:52:59,040 --> 00:53:01,800
+What would happen?
+
+873
+00:53:01,800 --> 00:53:02,840
+What would enter?
+
+874
+00:53:02,840 --> 00:53:05,760
+It can override this one.
+
+875
+00:53:06,200 --> 00:53:07,200
+It will replace.
+
+876
+00:53:07,200 --> 00:53:11,400
+So will I get the previous one here?
+
+877
+00:53:11,400 --> 00:53:13,800
+Will I get the previous one? No,
+I won't see.
+
+878
+00:53:14,160 --> 00:53:17,480
+So let's let me show you this here
+what I'm seeing.
+
+879
+00:53:18,400 --> 00:53:21,960
+Let's see my screenshot name is ABC.
+
+880
+00:53:21,960 --> 00:53:24,400
+After first execution
+
+881
+00:53:25,400 --> 00:53:28,960
+after second execution again,
+ABC report will be generated
+
+882
+00:53:29,520 --> 00:53:34,400
+so here I executed ten scenarios
+and here I execute in five scenarios.
+
+883
+00:53:34,680 --> 00:53:35,080
+Right.
+
+884
+00:53:35,080 --> 00:53:37,600
+So tell me which one would be the last.
+
+885
+00:53:37,600 --> 00:53:39,120
+This one is the latest one.
+
+886
+00:53:39,120 --> 00:53:41,080
+So we will not be able to get this one.
+
+887
+00:53:41,080 --> 00:53:43,520
+We will be able to get only
+this one right.
+
+888
+00:53:43,680 --> 00:53:46,360
+It means my this data is gone, right?
+
+889
+00:53:46,480 --> 00:53:49,240
+So I don't want that kind of setup here.
+
+890
+00:53:49,240 --> 00:53:51,360
+I want to set up
+where I can find this one.
+
+891
+00:53:51,560 --> 00:53:53,640
+I can find this one. Got it.
+
+892
+00:53:54,920 --> 00:53:55,720
+Got it.
+
+893
+00:53:55,720 --> 00:53:56,920
+So what can I do?
+
+894
+00:53:56,920 --> 00:53:59,280
+I can see this file.
+
+895
+00:53:59,520 --> 00:54:02,880
+Instead of writing this ABC pilot, X,
+Y, or Z byte,
+
+896
+00:54:03,120 --> 00:54:06,480
+I can save this fine with some parameters.
+
+897
+00:54:06,640 --> 00:54:09,240
+Those parameters which are unique.
+
+898
+00:54:09,240 --> 00:54:13,120
+So when it comes to unique, what is unique
+design is unique.
+
+899
+00:54:13,120 --> 00:54:16,600
+Maybe did seem
+
+900
+00:54:16,600 --> 00:54:21,520
+maybe month the same, maybe even seen,
+
+901
+00:54:22,800 --> 00:54:25,880
+maybe our same in the same one hour.
+
+902
+00:54:25,920 --> 00:54:28,120
+We can execute multiple things
+because this or not.
+
+903
+00:54:28,120 --> 00:54:31,080
+Instead we guys
+
+904
+00:54:32,400 --> 00:54:35,040
+maybe minutes also same guys.
+
+905
+00:54:35,040 --> 00:54:41,040
+In one minute
+we can execute multiple or not.
+
+906
+00:54:41,040 --> 00:54:42,600
+Maybe state gives also same.
+
+907
+00:54:42,600 --> 00:54:44,760
+If it is a small execution.
+
+908
+00:54:44,760 --> 00:54:48,280
+In a small execution,
+we can execute a mistake,
+
+909
+00:54:48,280 --> 00:54:51,040
+but milliseconds would not be seen.
+
+910
+00:54:51,480 --> 00:54:52,120
+Right.
+
+911
+00:54:52,120 --> 00:54:56,560
+So you'll see this much of time
+we can provide right in the file name.
+
+912
+00:54:56,760 --> 00:55:01,400
+So if we get exact date,
+execute the month, execute it,
+
+913
+00:55:01,440 --> 00:55:04,400
+execute our commitment sequence
+
+914
+00:55:04,400 --> 00:55:08,520
+and exit the milliseconds plus destiny.
+
+915
+00:55:08,520 --> 00:55:12,800
+If we provide a file name like this,
+then everything, even
+
+916
+00:55:12,800 --> 00:55:18,320
+if it is executing up to 1 milliseconds C
+one millisecond it takes one millisecond.
+
+917
+00:55:18,320 --> 00:55:21,400
+It always takes to open the browser,
+to close the browser.
+
+918
+00:55:21,600 --> 00:55:23,920
+And this is the smallest scenario.
+
+919
+00:55:23,920 --> 00:55:26,240
+So now after every execution
+
+920
+00:55:26,320 --> 00:55:35,000
+we will get separate payload,
+We will get separate by cutting
+
+921
+00:55:38,400 --> 00:55:39,000
+final.
+
+922
+00:55:39,120 --> 00:55:42,600
+So to do this, to do this,
+do we have any parameter
+
+923
+00:55:42,600 --> 00:55:45,600
+right now to provide timestamp here?
+
+924
+00:55:45,600 --> 00:55:48,000
+Do we have any parameter?
+
+925
+00:55:48,200 --> 00:55:50,480
+No, we don't have, we don't have.
+
+926
+00:55:50,480 --> 00:55:53,600
+But in Java, in Java
+
+927
+00:55:53,600 --> 00:55:55,680
+we have a clause going deep
+
+928
+00:55:56,800 --> 00:55:59,040
+which class we have in Java date.
+
+929
+00:55:59,040 --> 00:56:02,960
+And this data class
+basically returns, returns right.
+
+930
+00:56:03,120 --> 00:56:04,560
+The current date.
+
+931
+00:56:04,560 --> 00:56:07,200
+So let me write for the time it's
+been writing yet
+
+932
+00:56:07,200 --> 00:56:10,440
+public static string.
+
+933
+00:56:10,440 --> 00:56:13,760
+I'm writing because I need something
+in return of this method.
+
+934
+00:56:13,760 --> 00:56:17,480
+So I didn't get time stamps again.
+
+935
+00:56:17,480 --> 00:56:19,760
+Time stamp? Yes. Fine.
+
+936
+00:56:19,760 --> 00:56:25,160
+Now tell me guys, first first, let me show
+you something and I will ask this.
+
+937
+00:56:25,160 --> 00:56:27,400
+Is it did
+
+938
+00:56:27,960 --> 00:56:30,280
+is it was do
+
+939
+00:56:30,840 --> 00:56:33,400
+you did this
+
+940
+00:56:35,280 --> 00:56:36,400
+now here,
+
+941
+00:56:36,400 --> 00:56:40,520
+right here by default, by default,
+the better by default.
+
+942
+00:56:40,520 --> 00:56:47,560
+The python is here.
+
+943
+00:56:47,560 --> 00:56:49,320
+Great. Our
+
+944
+00:56:51,280 --> 00:56:54,640
+great state games and.
+
+945
+00:56:54,640 --> 00:56:57,120
+This is the default format which we get.
+
+946
+00:56:57,480 --> 00:56:58,640
+Great guys.
+
+947
+00:56:59,880 --> 00:57:00,680
+Correct.
+
+948
+00:57:02,040 --> 00:57:04,600
+Hello.
+
+949
+00:57:04,600 --> 00:57:07,360
+Right now,
+
+950
+00:57:07,440 --> 00:57:09,600
+maybe it returns something else for me.
+
+951
+00:57:09,960 --> 00:57:12,040
+I don't want this particular format.
+
+952
+00:57:12,040 --> 00:57:13,760
+I want something else. Great.
+
+953
+00:57:13,760 --> 00:57:16,080
+I want something
+that is so what I can see.
+
+954
+00:57:16,240 --> 00:57:20,960
+Okay, In this particular bar,
+I will define my own python.
+
+955
+00:57:22,080 --> 00:57:24,560
+I will define my own python. In which way?
+
+956
+00:57:24,560 --> 00:57:27,920
+Then I need you to return me that big.
+
+957
+00:57:28,240 --> 00:57:32,800
+I will define my own return in mass in
+any that I want d I want minutes.
+
+958
+00:57:32,800 --> 00:57:34,440
+I want only milliseconds.
+
+959
+00:57:34,440 --> 00:57:36,680
+I want only is against whatever
+the things.
+
+960
+00:57:36,920 --> 00:57:41,920
+I will define it on my own.
+
+961
+00:57:41,920 --> 00:57:45,120
+So now I'm going to write here C Simple
+
+962
+00:57:47,200 --> 00:57:49,360
+date for me
+
+963
+00:57:50,120 --> 00:57:54,440
+equals to new simple date for me.
+
+964
+00:57:54,440 --> 00:57:58,120
+And according to date,
+which did better the python
+
+965
+00:57:58,120 --> 00:58:01,280
+which I will be providing
+so it will return me.
+
+966
+00:58:01,280 --> 00:58:07,360
+Simple is the method for me
+and it does this object we think
+
+967
+00:58:09,280 --> 00:58:10,800
+any question
+
+968
+00:58:10,800 --> 00:58:14,080
+in this function let me right here
+I'm writing it is
+
+969
+00:58:16,200 --> 00:58:18,280
+for made B
+
+970
+00:58:19,920 --> 00:58:22,440
+according according
+
+971
+00:58:22,440 --> 00:58:26,040
+according to r choice.
+
+972
+00:58:26,040 --> 00:58:29,840
+We have to use this function
+
+973
+00:58:30,240 --> 00:58:34,320
+which function is d of simple date
+for make function.
+
+974
+00:58:34,320 --> 00:58:36,600
+We have to use this function. Why?
+
+975
+00:58:36,800 --> 00:58:40,280
+Because Java is returning one particular
+date in one particular for form.
+
+976
+00:58:40,680 --> 00:58:42,680
+I don't want that by another date.
+
+977
+00:58:42,680 --> 00:58:45,600
+I want my own back
+and so I have to rearranged.
+
+978
+00:58:46,320 --> 00:58:47,720
+I have to form a statement.
+
+979
+00:58:47,720 --> 00:58:52,040
+And for me, that particular victim,
+two things I need first function
+
+980
+00:58:52,360 --> 00:58:56,160
+through which I will form and second
+by which I mean boss in that function.
+
+981
+00:58:56,400 --> 00:58:56,960
+Right.
+
+982
+00:58:56,960 --> 00:59:01,080
+So this is the function which I am
+using simple date for me to formatted
+
+983
+00:59:01,240 --> 00:59:02,640
+according to the method.
+
+984
+00:59:02,640 --> 00:59:06,880
+And this back
+then I will provide in my scenario
+
+985
+00:59:06,960 --> 00:59:10,560
+while providing the
+name to my student industrial
+
+986
+00:59:12,680 --> 00:59:13,200
+and the school
+
+987
+00:59:13,200 --> 00:59:21,800
+disk is going to see it.
+
+988
+00:59:21,800 --> 00:59:24,160
+So now see what I'm doing, what I'm doing.
+
+989
+00:59:24,160 --> 00:59:27,120
+So far
+when I provided this final nameplate
+
+990
+00:59:27,520 --> 00:59:31,120
+file name I can provide, but I might need
+maybe to file names.
+
+991
+00:59:31,120 --> 00:59:36,080
+Can be seen as of now is off
+now if I can was simply so let me.
+
+992
+00:59:36,080 --> 00:59:37,400
+Makes it different.
+
+993
+00:59:37,400 --> 00:59:41,200
+Even if the file name is seen, the
+remaining parameters will be different.
+
+994
+00:59:41,200 --> 00:59:44,200
+Now let's see through label programing.
+
+995
+00:59:44,280 --> 00:59:47,320
+See, first
+I will provide the space in the name.
+
+996
+00:59:48,360 --> 00:59:52,040
+Most I will provide is space in the mean
+and output is this.
+
+997
+00:59:52,040 --> 00:59:56,360
+I will provide here this particular
+method called big time step.
+
+998
+00:59:57,600 --> 00:59:59,640
+So it is asking for paper. Yes.
+
+999
+01:00:00,080 --> 01:00:01,760
+Guys, can you see
+
+1000
+01:00:01,920 --> 01:00:03,920
+it is asking for pregnant.
+
+1001
+01:00:03,920 --> 01:00:05,760
+I am providing the name dates.
+
+1002
+01:00:05,760 --> 01:00:10,160
+I'm planning to provide the name
+so it is asking for Baghdad.
+
+1003
+01:00:10,320 --> 01:00:16,360
+Can everyone see it?
+
+1004
+01:00:16,360 --> 01:00:19,280
+So then here I'm going to provide
+which button I need.
+
+1005
+01:00:19,960 --> 01:00:22,160
+I need. Let's see. Viva
+
+1006
+01:00:24,120 --> 01:00:26,160
+in name.
+
+1007
+01:00:26,160 --> 01:00:28,280
+You can
+find this button on Google exhibit.
+
+1008
+01:00:28,840 --> 01:00:31,440
+You can find this picture on Google is
+what do you need?
+
+1009
+01:00:31,440 --> 01:00:33,560
+Because month is in capital
+
+1010
+01:00:34,520 --> 01:00:36,680
+hours is in also capital grade.
+
+1011
+01:00:36,680 --> 01:00:37,560
+It is by default.
+
+1012
+01:00:37,560 --> 01:00:41,000
+But then I'm not doing in
+capital name use for months.
+
+1013
+01:00:41,360 --> 01:00:44,120
+If people use but I would say small
+
+1014
+01:00:44,120 --> 01:00:46,960
+D four days is more like one year.
+
+1015
+01:00:47,440 --> 01:00:49,480
+And after this
+
+1016
+01:00:49,680 --> 01:00:51,480
+small in 4 minutes
+
+1017
+01:00:51,480 --> 01:00:53,840
+and the small is positive is
+
+1018
+01:00:55,200 --> 01:00:57,040
+understood. I need 10% gain.
+
+1019
+01:00:57,040 --> 01:01:00,240
+Sorry I don't want this
+milliseconds in all is discussed
+
+1020
+01:01:00,240 --> 01:01:01,560
+and that's what I'm saying.
+
+1021
+01:01:01,560 --> 01:01:03,160
+Yes, but it
+
+1022
+01:01:04,200 --> 01:01:06,960
+nasty guys now see
+
+1023
+01:01:06,960 --> 01:01:10,280
+in this folder
+but in this folder portrayed
+
+1024
+01:01:10,680 --> 01:01:12,840
+it will save my file getting
+
+1025
+01:01:13,960 --> 01:01:19,160
+this will save my file this file
+having the fighting name with file name.
+
+1026
+01:01:19,160 --> 01:01:21,320
+I will provide the reason for that.
+
+1027
+01:01:21,960 --> 01:01:24,240
+You consist of this right?
+
+1028
+01:01:24,240 --> 01:01:26,880
+For example, if my name is
+
+1029
+01:01:26,880 --> 01:01:29,520
+if I name is ABC so it will save
+
+1030
+01:01:29,920 --> 01:01:33,320
+ABC 2021 right.
+
+1031
+01:01:33,800 --> 01:01:38,640
+12238
+
+1032
+01:01:39,480 --> 01:01:44,040
+2133 something like this
+file would be like this and one
+
+1033
+01:01:46,200 --> 01:01:47,840
+Why are the month what is kept?
+
+1034
+01:01:47,840 --> 01:01:52,200
+Remember like I said, it is a pre
+defined a format reading define it.
+
+1035
+01:01:52,400 --> 01:01:56,760
+We are simply using it from Java eight.
+
+1036
+01:01:56,760 --> 01:02:00,760
+So why we should ask this to the students
+of Northeastern University.
+
+1037
+01:02:01,200 --> 01:02:02,200
+Straight
+
+1038
+01:02:05,120 --> 01:02:06,600
+or Sun Microsystems?
+
+1039
+01:02:06,600 --> 01:02:08,000
+Basically?
+
+1040
+01:02:08,000 --> 01:02:09,080
+No, no.
+
+1041
+01:02:09,080 --> 01:02:14,280
+After this, the last thing which
+we have to provide is in which for weight.
+
+1042
+01:02:14,280 --> 01:02:17,840
+I want to see my file in this screenshot.
+
+1043
+01:02:18,640 --> 01:02:20,640
+So what is the most common for me?
+
+1044
+01:02:20,880 --> 01:02:23,520
+We have a flood to go
+
+1045
+01:02:23,560 --> 01:02:27,680
+with being right, So fine, let's provide.
+
+1046
+01:02:27,920 --> 01:02:29,320
+Don't be in default.
+
+1047
+01:02:29,320 --> 01:02:31,320
+I need to save this point.
+
+1048
+01:02:31,320 --> 01:02:36,480
+I want not be in default mode
+to save this point.
+
+1049
+01:02:36,480 --> 01:02:40,200
+So for any question in this function,
+this store, for any question
+
+1050
+01:02:40,200 --> 01:02:42,840
+in this function
+and in this lecture did me
+
+1051
+01:02:48,400 --> 01:02:49,360
+is there
+
+1052
+01:02:49,360 --> 01:02:52,080
+anyone who has any question
+
+1053
+01:02:52,200 --> 01:02:55,080
+in this particular function
+
+1054
+01:03:02,160 --> 01:03:02,720
+experience,
+
+1055
+01:03:02,720 --> 01:03:06,000
+please don't take the code
+in answer to my question, please.
+
+1056
+01:03:06,840 --> 01:03:08,760
+But it's perfect.
+
+1057
+01:03:08,760 --> 01:03:12,720
+The only thing might line them,
+but a bit fine.
+
+1058
+01:03:13,320 --> 01:03:14,640
+So here, here.
+
+1059
+01:03:14,640 --> 01:03:16,960
+I seen this line, right?
+
+1060
+01:03:16,960 --> 01:03:21,160
+Because we need a unique
+findings category.
+
+1061
+01:03:21,160 --> 01:03:22,440
+We need unique findings.
+
+1062
+01:03:22,440 --> 01:03:24,800
+Can we use project
+name for device or expose?
+
+1063
+01:03:24,800 --> 01:03:26,120
+No, no, no.
+
+1064
+01:03:26,120 --> 01:03:28,080
+I will tell you that we can do that
+
+1065
+01:03:28,080 --> 01:03:30,600
+because we didn't
+call this method anywhere.
+
+1066
+01:03:30,600 --> 01:03:35,400
+Okay, So what you need to understand
+is why we're providing this timestamp.
+
+1067
+01:03:35,680 --> 01:03:40,840
+Because seen if your tool file names
+are similar, it will over your fight.
+
+1068
+01:03:42,040 --> 01:03:44,360
+It will override your flight. Correct.
+
+1069
+01:03:44,360 --> 01:03:46,600
+And it would overwrite you have been
+you will know
+
+1070
+01:03:46,600 --> 01:03:48,680
+you will lose your previous report.
+
+1071
+01:03:48,680 --> 01:03:51,360
+So that's
+why to make a pretty board unique
+
+1072
+01:03:51,600 --> 01:03:54,200
+we need to provide
+this is just a name of your flight.
+
+1073
+01:03:54,200 --> 01:03:54,600
+Okay.
+
+1074
+01:03:54,600 --> 01:03:58,280
+This would be the name of your flight
+with your finally actually it
+
+1075
+01:03:59,040 --> 01:03:59,680
+now I understood
+
+1076
+01:04:02,760 --> 01:04:03,960
+almost would
+
+1077
+01:04:09,600 --> 01:04:13,720
+find for example
+let's say you are executing your test case
+
+1078
+01:04:13,720 --> 01:04:17,520
+having the name log right
+So first time if you create
+
+1079
+01:04:17,520 --> 01:04:22,080
+and if you don't provide timestamp create
+and file name by providing right, let's
+
+1080
+01:04:22,080 --> 01:04:25,240
+say whatever the mind is to name is
+that would be my Finally
+
+1081
+01:04:25,320 --> 01:04:27,160
+for the screenshot
+
+1082
+01:04:28,600 --> 01:04:30,920
+yet no one because milliseconds
+we don't need fade.
+
+1083
+01:04:30,960 --> 01:04:34,400
+Like I said, this is our own vector
+so we are providing 10 seconds.
+
+1084
+01:04:34,400 --> 01:04:37,440
+That is fine because we need,
+even if there are 2 seconds
+
+1085
+01:04:37,720 --> 01:04:41,480
+plus one, execute it in second one
+and second one executing second.
+
+1086
+01:04:41,800 --> 01:04:44,400
+Then obviously these are two things.
+
+1087
+01:04:44,400 --> 01:04:46,440
+Now just consider one scenario.
+
+1088
+01:04:46,440 --> 01:04:49,800
+You have a log in, test,
+your scenario name is no name.
+
+1089
+01:04:50,480 --> 01:04:51,960
+You execute your scenario.
+
+1090
+01:04:51,960 --> 01:04:53,600
+Big APM, for example.
+
+1091
+01:04:53,600 --> 01:04:54,680
+So what would be the name of
+
+1092
+01:04:54,680 --> 01:04:58,840
+your scenario in screenshot if you don't
+provide good gives stack loaded
+
+1093
+01:05:00,440 --> 01:05:00,880
+because you
+
+1094
+01:05:00,880 --> 01:05:04,280
+calling that and you want to save your way
+with the name of the scenario.
+
+1095
+01:05:04,280 --> 01:05:09,720
+So there is nothing it in being again
+you executed those teams in any way
+
+1096
+01:05:09,960 --> 01:05:12,840
+so against in would be generated
+and this time we
+
+1097
+01:05:12,920 --> 01:05:14,480
+the screenshot
+
+1098
+01:05:16,240 --> 01:05:17,960
+next is what I am seeking
+
+1099
+01:05:17,960 --> 01:05:22,120
+so it runs in seconds
+also you see that's why 2 seconds.
+
+1100
+01:05:22,680 --> 01:05:25,480
+So in my project in my project if you see
+
+1101
+01:05:25,720 --> 01:05:29,040
+even if you consider the most fastest
+isn't any
+
+1102
+01:05:29,520 --> 01:05:33,600
+how much time it takes to open
+the browser is to represent or not
+
+1103
+01:05:35,160 --> 01:05:36,360
+those like. Right.
+
+1104
+01:05:36,360 --> 01:05:40,760
+So if in executing do the forensic games
+would be a different name or not,
+
+1105
+01:05:41,520 --> 01:05:44,520
+even if it is in seconds.
+
+1106
+01:05:44,520 --> 01:05:47,760
+So now just consider the situation
+without get name.
+
+1107
+01:05:47,760 --> 01:05:48,840
+Instead, what would happen
+
+1108
+01:05:50,040 --> 01:05:51,960
+if you execute using that you would now
+
+1109
+01:05:51,960 --> 01:05:56,400
+give me free and you provided
+the fighting name is the scenario name.
+
+1110
+01:05:56,640 --> 01:05:59,920
+So first it executed, then it got it.
+
+1111
+01:05:59,920 --> 01:06:02,680
+Give you the name of
+this creature does not indicate B
+
+1112
+01:06:03,440 --> 01:06:06,280
+Now you'll again execute in this scenario
+it might be
+
+1113
+01:06:06,680 --> 01:06:10,880
+so this time again it will give you
+the screenshot name as logging.
+
+1114
+01:06:11,320 --> 01:06:14,160
+Right. So when do files are on same name?
+
+1115
+01:06:14,400 --> 01:06:17,880
+The latest one
+always replace your previous one.
+
+1116
+01:06:18,840 --> 01:06:23,760
+It happens or not.
+
+1117
+01:06:23,760 --> 01:06:24,200
+Great.
+
+1118
+01:06:24,200 --> 01:06:27,400
+So again, I have to either rename it
+or it will get replaced.
+
+1119
+01:06:27,400 --> 01:06:28,920
+All right, fine.
+
+1120
+01:06:28,920 --> 01:06:33,000
+I don't want the situation right everyone
+to face the situation in my project.
+
+1121
+01:06:33,280 --> 01:06:35,880
+So that's why I came on with.
+
+1122
+01:06:35,920 --> 01:06:39,280
+I will provide some feedback on this
+with my final name.
+
+1123
+01:06:39,520 --> 01:06:41,640
+So now, even if my filing is same,
+
+1124
+01:06:41,640 --> 01:06:43,920
+but this topics information
+will not be the same.
+
+1125
+01:06:44,080 --> 01:06:45,640
+It will change every name.
+
+1126
+01:06:45,640 --> 01:06:48,960
+And then so I will get all of my points
+right again.
+
+1127
+01:06:48,960 --> 01:06:51,160
+Universal function, global function.
+
+1128
+01:06:51,160 --> 01:06:52,520
+No dependency on hard hardcoded
+
+1129
+01:06:59,880 --> 01:07:00,840
+loophole.
+
+1130
+01:07:00,840 --> 01:07:05,320
+The date is coming right from the calendar
+so we can do it.
+
+1131
+01:07:05,320 --> 01:07:06,240
+Yes. Correct.
+
+1132
+01:07:06,240 --> 01:07:08,560
+So what panel execution
+has to do with this?
+
+1133
+01:07:09,360 --> 01:07:12,800
+Even in the parallel execution,
+you know, the concept of Multithreading
+
+1134
+01:07:14,000 --> 01:07:16,480
+when you get tickets online at one time
+
+1135
+01:07:16,480 --> 01:07:19,160
+for watching any movie,
+like for example, Spiderman,
+
+1136
+01:07:19,880 --> 01:07:22,560
+if anyone is trying,
+everyone is trying to move that they could
+
+1137
+01:07:22,840 --> 01:07:25,080
+implement is a way to access this screen.
+
+1138
+01:07:25,080 --> 01:07:28,840
+But this application is providing
+multiple threads
+
+1139
+01:07:28,840 --> 01:07:30,960
+to multiple user one, 3 to 1 user.
+
+1140
+01:07:31,280 --> 01:07:34,920
+For us,
+we see it executions, best example rate
+
+1141
+01:07:35,760 --> 01:07:38,040
+rates on providing to all the users
+that one day.
+
+1142
+01:07:38,280 --> 01:07:42,000
+But there is a delay even in nanoseconds,
+milliseconds microseconds
+
+1143
+01:07:42,000 --> 01:07:46,320
+because like it's correct, there is a
+delay in every single trade rate.
+
+1144
+01:07:46,520 --> 01:07:48,720
+So same thing be playing here.
+
+1145
+01:07:48,720 --> 01:07:53,520
+So you should also include work rate.
+
+1146
+01:07:53,520 --> 01:07:57,280
+Fine, fine.
+
+1147
+01:07:57,440 --> 01:07:58,960
+Now what we are going to do see,
+
+1148
+01:08:00,400 --> 01:08:01,560
+eliminate,
+
+1149
+01:08:02,720 --> 01:08:05,720
+think be soon master
+this part clear to everyone.
+
+1150
+01:08:05,960 --> 01:08:07,960
+This particular part clear to everyone
+
+1151
+01:08:11,560 --> 01:08:12,720
+then is just
+
+1152
+01:08:12,720 --> 01:08:15,840
+just 5 minutes
+the I'm completing this part
+
+1153
+01:08:16,040 --> 01:08:19,640
+and then I will give you
+when I'm completing this part just by.
+
+1154
+01:08:19,960 --> 01:08:20,520
+Okay.
+
+1155
+01:08:22,080 --> 01:08:22,920
+So far, so good.
+
+1156
+01:08:22,920 --> 01:08:27,600
+Everyone.
+
+1157
+01:08:27,600 --> 01:08:30,720
+Now, now I missed the part for the byte.
+
+1158
+01:08:31,400 --> 01:08:34,440
+The mirrored
+basically the area of by trade computer
+
+1159
+01:08:34,440 --> 01:08:38,160
+always any of it in terms of screenshot.
+
+1160
+01:08:38,280 --> 01:08:42,320
+Okay.
+
+1161
+01:08:42,320 --> 01:08:44,160
+No, it's not required. It's up to you.
+
+1162
+01:08:44,160 --> 01:08:47,120
+It's up to you. It's
+why we provided this area of writing.
+
+1163
+01:08:47,120 --> 01:08:49,480
+We are handling area of rate.
+
+1164
+01:08:49,680 --> 01:08:51,360
+That's why we're not putting our name.
+
+1165
+01:08:51,360 --> 01:08:53,320
+Don't buy we are putting out good.
+
+1166
+01:08:53,320 --> 01:08:55,240
+But it's not.
+
+1167
+01:08:55,240 --> 01:09:00,280
+Day is when we did a screenshot.
+
+1168
+01:09:00,280 --> 01:09:11,120
+When we did a screenshot.
+
+1169
+01:09:11,120 --> 01:09:15,680
+No, no we can not we can not use
+you saw we got just three options.
+
+1170
+01:09:15,680 --> 01:09:16,960
+Bye bye.
+
+1171
+01:09:17,040 --> 01:09:19,680
+So see you see the 64 link
+
+1172
+01:09:20,680 --> 01:09:22,280
+verify something when we're
+
+1173
+01:09:22,280 --> 01:09:26,280
+not at the end of the disconnect
+passing at the end of it.
+
+1174
+01:09:26,280 --> 01:09:28,320
+What it is doesn't matter
+whether it is past
+
+1175
+01:09:28,920 --> 01:09:31,720
+or it is spilled or whatever, it is great.
+
+1176
+01:09:31,720 --> 01:09:35,280
+Whatever it is, we need a screenshot
+with every single report.
+
+1177
+01:09:35,800 --> 01:09:38,760
+Correct.
+
+1178
+01:09:38,760 --> 01:09:42,520
+But we need to ensure we use digital
+domains to highlight the error.
+
+1179
+01:09:42,840 --> 01:09:44,800
+Yes, JavaScript code is something else.
+
+1180
+01:09:44,800 --> 01:09:45,720
+Great moment.
+
+1181
+01:09:45,720 --> 01:09:47,680
+Don't get into that part of the register.
+
+1182
+01:09:47,680 --> 01:09:49,200
+Get confused. Right.
+
+1183
+01:09:49,200 --> 01:09:51,000
+So now we don't need listeners.
+
+1184
+01:09:51,000 --> 01:09:56,280
+Tell me which part
+of which part of article, but has that bar
+
+1185
+01:09:56,600 --> 01:10:00,120
+it will always execute after my code
+
+1186
+01:10:01,600 --> 01:10:05,760
+that we always execute
+after my code into interview.
+
+1187
+01:10:05,800 --> 01:10:07,720
+But we have the portion already.
+
+1188
+01:10:07,720 --> 01:10:10,680
+Which portion is there?
+
+1189
+01:10:10,680 --> 01:10:13,520
+Yes, yes, we have hooks.
+
+1190
+01:10:15,000 --> 01:10:16,720
+We have hooks in hooks.
+
+1191
+01:10:16,720 --> 01:10:19,040
+Remember precondition, post condition.
+
+1192
+01:10:19,280 --> 01:10:22,400
+So precondition out of school
+we don't need as of now,
+
+1193
+01:10:22,560 --> 01:10:24,000
+we need post condition.
+
+1194
+01:10:24,000 --> 01:10:26,160
+So it is my hooks and then of my esters.
+
+1195
+01:10:26,760 --> 01:10:28,240
+You see this method.
+
+1196
+01:10:28,240 --> 01:10:28,760
+I can
+
+1197
+01:10:30,000 --> 01:10:30,840
+you see this method?
+
+1198
+01:10:30,840 --> 01:10:32,880
+I have ratings.
+
+1199
+01:10:34,080 --> 01:10:36,800
+So now here in this method I'm c
+
+1200
+01:10:37,080 --> 01:10:40,960
+before closing the browser,
+before closing the browser.
+
+1201
+01:10:41,320 --> 01:10:46,360
+In the end, when my post condition
+executes big the screenshot
+
+1202
+01:10:46,560 --> 01:10:51,920
+and recover the screenshot,
+that's what I'm seeing already.
+
+1203
+01:10:51,920 --> 01:10:59,320
+Well, read.
+
+1204
+01:10:59,320 --> 01:11:00,480
+No no.
+
+1205
+01:11:00,480 --> 01:11:04,640
+Here, here.
+
+1206
+01:11:04,640 --> 01:11:08,480
+See what I'm seeing.
+
+1207
+01:11:08,480 --> 01:11:13,280
+Let's see.
+
+1208
+01:11:13,280 --> 01:11:14,960
+This is my
+
+1209
+01:11:16,360 --> 01:11:19,040
+the screenshots folder.
+
+1210
+01:11:19,680 --> 01:11:23,160
+I executed five scenario
+
+1211
+01:11:23,160 --> 01:11:24,960
+how many screenshots it will generate.
+
+1212
+01:11:24,960 --> 01:11:28,200
+Hooks will execute many times
+
+1213
+01:11:28,240 --> 01:11:29,560
+for five scenarios. Looks good.
+
+1214
+01:11:29,560 --> 01:11:31,280
+Executed five things.
+
+1215
+01:11:31,280 --> 01:11:33,040
+So how many screenshots we will get here
+
+1216
+01:11:34,840 --> 01:11:36,240
+in the screenshot folder?
+
+1217
+01:11:36,240 --> 01:11:37,520
+It's been short one.
+
+1218
+01:11:37,520 --> 01:11:40,080
+This screenshot to exclude showed three
+
+1219
+01:11:40,440 --> 01:11:43,680
+in short four screenshot from
+
+1220
+01:11:44,640 --> 01:11:46,240
+after execution.
+
+1221
+01:11:46,240 --> 01:11:50,480
+While looking into this folder here,
+can you see with scenario
+
+1222
+01:11:50,480 --> 01:11:53,720
+as Boston was to use the
+
+1223
+01:11:57,840 --> 01:11:58,880
+can you select this there?
+
+1224
+01:11:58,880 --> 01:12:00,600
+This is pass.
+
+1225
+01:12:00,880 --> 01:12:04,480
+Does this pass?
+
+1226
+01:12:04,480 --> 01:12:06,360
+Does this feel
+
+1227
+01:12:06,560 --> 01:12:08,720
+this is failing
+
+1228
+01:12:08,880 --> 01:12:10,320
+and this is big.
+
+1229
+01:12:10,320 --> 01:12:12,360
+Can we say this
+by looking into this menu for
+
+1230
+01:12:13,440 --> 01:12:14,320
+no from the report?
+
+1231
+01:12:14,320 --> 01:12:16,960
+That's what I'm asking. From here
+we can see or more.
+
+1232
+01:12:17,080 --> 01:12:20,120
+No, we can not,
+because there is no distribution.
+
+1233
+01:12:20,920 --> 01:12:22,560
+The distro distribution.
+
+1234
+01:12:22,560 --> 01:12:24,760
+Now what we will
+
+1235
+01:12:25,440 --> 01:12:29,360
+see under this situation,
+this problem in this one,
+
+1236
+01:12:29,880 --> 01:12:32,680
+what kind of problem behavior?
+
+1237
+01:12:32,680 --> 01:12:35,280
+Everyone understood this part.
+
+1238
+01:12:35,360 --> 01:12:36,680
+So now
+
+1239
+01:12:40,240 --> 01:12:44,040
+that you understood the problem,
+let me give you the solution.
+
+1240
+01:12:45,000 --> 01:12:47,320
+We built article.
+
+1241
+01:12:47,320 --> 01:12:50,080
+But to save this screenshot.
+
+1242
+01:12:50,640 --> 01:12:52,280
+To save the screenshot.
+
+1243
+01:12:52,280 --> 01:12:54,640
+How if they are fail,
+
+1244
+01:12:55,400 --> 01:12:58,560
+put it in the fail folder in their Bosque.
+
+1245
+01:12:59,000 --> 01:13:02,160
+Put it in the passport section.
+
+1246
+01:13:02,160 --> 01:13:04,840
+Now if I execute five scenario
+
+1247
+01:13:05,360 --> 01:13:09,760
+my and out of them
+three passed and two are failed.
+
+1248
+01:13:10,040 --> 01:13:12,840
+So my document will provide
+
+1249
+01:13:13,400 --> 01:13:18,120
+two scenarios inside this folder
+and three scenarios inside us.
+
+1250
+01:13:18,120 --> 01:13:20,680
+For understood
+
+1251
+01:13:20,680 --> 01:13:21,880
+understood
+
+1252
+01:13:23,840 --> 01:13:26,120
+how how we will do it.
+
+1253
+01:13:26,120 --> 01:13:27,240
+Let's see.
+
+1254
+01:13:27,240 --> 01:13:29,480
+Isn't it interesting part
+that we are going to do now?
+
+1255
+01:13:30,480 --> 01:13:33,320
+See, guys,
+I need your attention for just 5 minutes.
+
+1256
+01:13:33,440 --> 01:13:35,520
+Just 5 minutes. Here.
+
+1257
+01:13:36,240 --> 01:13:36,960
+Here.
+
+1258
+01:13:37,040 --> 01:13:44,800
+We have to use one class from the number.
+
+1259
+01:13:44,800 --> 01:14:19,560
+So maybe.
+
+1260
+01:14:20,040 --> 01:14:21,440
+Maybe this is
+
+1261
+01:14:22,920 --> 01:14:25,400
+sideways. So.
+
+1262
+01:14:25,400 --> 01:14:30,000
+So now here, now here.
+
+1263
+01:14:30,040 --> 01:14:34,840
+What I'm going to do
+is I am going to use one particular class
+
+1264
+01:14:34,840 --> 01:14:39,720
+from the computer,
+and we call this class as in, you see,
+
+1265
+01:14:40,200 --> 01:14:45,000
+I will talk to Jumbo or Java,
+we will call this class is scenario.
+
+1266
+01:14:45,000 --> 01:14:47,600
+So we will use
+the object of this to let us
+
+1267
+01:14:49,200 --> 01:14:52,840
+which class we are going to use based.
+
+1268
+01:14:52,840 --> 01:14:55,360
+We are going to use scenario class.
+
+1269
+01:14:55,360 --> 01:14:58,200
+Understood.
+
+1270
+01:14:58,200 --> 01:15:01,680
+The is just just by for the next
+really interesting part is going on
+
+1271
+01:15:02,000 --> 01:15:04,400
+grade don't don't focus it
+
+1272
+01:15:06,200 --> 01:15:09,000
+focusing right now I am going to see
+
+1273
+01:15:09,280 --> 01:15:13,440
+all right
+my convert is going to return what
+
+1274
+01:15:14,520 --> 01:15:18,080
+the screenshot method is returning, what
+
+1275
+01:15:18,240 --> 01:15:19,160
+based
+
+1276
+01:15:20,560 --> 01:15:22,680
+big any of my trade
+
+1277
+01:15:22,680 --> 01:15:25,840
+any off buying it is returning any of it.
+
+1278
+01:15:25,840 --> 01:15:29,560
+So I'm seeing the object
+first for this area of like
+
+1279
+01:15:30,040 --> 01:15:32,160
+understand what is next.
+
+1280
+01:15:32,880 --> 01:15:38,640
+Now I want to capture the screenshot,
+find with this scenario method.
+
+1281
+01:15:38,640 --> 01:15:40,360
+So remember this scenario.
+
+1282
+01:15:40,360 --> 01:15:42,680
+Plus I'm going to right here.
+
+1283
+01:15:42,680 --> 01:15:44,480
+Right. I'm going to right here.
+
+1284
+01:15:44,480 --> 01:15:49,240
+This scenario class from from
+
+1285
+01:15:50,320 --> 01:15:54,800
+December because the complete information,
+
+1286
+01:15:55,200 --> 01:15:59,280
+the complete information
+of your execution,
+
+1287
+01:15:59,800 --> 01:16:04,040
+what it does, it pulls the complete
+information of your execution,
+
+1288
+01:16:04,280 --> 01:16:07,840
+what you have executed,
+what is the status of your executed,
+
+1289
+01:16:07,840 --> 01:16:10,480
+what is the name of the scenario
+that you're executing?
+
+1290
+01:16:10,520 --> 01:16:12,560
+It would a single thing that would
+
+1291
+01:16:14,400 --> 01:16:15,560
+understood.
+
+1292
+01:16:16,920 --> 01:16:19,680
+So now now what I'm going to write to see,
+
+1293
+01:16:20,040 --> 01:16:22,680
+I am seeing see how distribution is done.
+
+1294
+01:16:23,280 --> 01:16:27,440
+If if I'm using this object.
+
+1295
+01:16:27,440 --> 01:16:30,000
+My scenario is feed.
+
+1296
+01:16:31,320 --> 01:16:34,960
+If my scenario is three,
+then what you have to do
+
+1297
+01:16:35,520 --> 01:16:39,440
+in the area of byte,
+if this object creates this big object
+
+1298
+01:16:39,440 --> 01:16:44,040
+for the area of byte
+I'm seeing in this object, call my method.
+
+1299
+01:16:44,040 --> 01:16:47,960
+Take a screenshot point,
+call my method, take a screenshot.
+
+1300
+01:16:48,320 --> 01:16:50,160
+Now what is not filing?
+
+1301
+01:16:50,160 --> 01:16:51,920
+It's providing my findings.
+
+1302
+01:16:51,920 --> 01:16:55,680
+So I'm seeing a scenario
+not get me scenario.
+
+1303
+01:16:55,720 --> 01:16:58,080
+Don't get him would be my file.
+
+1304
+01:16:58,320 --> 01:17:01,040
+Can you see? Okay.
+
+1305
+01:17:01,240 --> 01:17:04,560
+Because I told you my scenario is holding
+
+1306
+01:17:04,800 --> 01:17:09,160
+all the information, all the information
+straight of my execution.
+
+1307
+01:17:09,360 --> 01:17:11,840
+So now I'm providing scenario not get name
+
+1308
+01:17:12,800 --> 01:17:17,120
+else and see else I'm seeing.
+
+1309
+01:17:17,600 --> 01:17:21,200
+Save the screenshot
+for big screenshot again.
+
+1310
+01:17:21,400 --> 01:17:22,920
+Big scenario.
+
+1311
+01:17:22,920 --> 01:17:25,720
+Don't get
+
+1312
+01:17:27,280 --> 01:17:31,240
+No, wait, wait.
+
+1313
+01:17:31,240 --> 01:17:32,520
+With the weather.
+
+1314
+01:17:32,520 --> 01:17:35,840
+My scenario is
+if my scenario is free, right?
+
+1315
+01:17:35,920 --> 01:17:39,200
+If my scenario is filled,
+it is going to take the screenshot,
+
+1316
+01:17:39,720 --> 01:17:43,440
+find it otherwise
+also it will going to take the screenshot.
+
+1317
+01:17:44,280 --> 01:17:46,600
+So what the situations are saying,
+can you see
+
+1318
+01:17:47,520 --> 01:17:50,360
+if it is forced
+taking the screenshot, taking the name
+
+1319
+01:17:50,920 --> 01:17:54,720
+if it is taking the screenshot, taking the
+screenshot of response, taking the name.
+
+1320
+01:17:55,200 --> 01:17:58,440
+There is no distribution for feeling mask
+still
+
+1321
+01:17:58,680 --> 01:18:01,000
+because we are just checking the status
+here.
+
+1322
+01:18:01,480 --> 01:18:04,200
+If it is feel is going to seem like this.
+
+1323
+01:18:04,440 --> 01:18:07,000
+If it is forced
+screenshot saved like this.
+
+1324
+01:18:07,480 --> 01:18:08,440
+We are
+
+1325
+01:18:09,760 --> 01:18:12,120
+very to see
+this screenshot of failing bus.
+
+1326
+01:18:12,360 --> 01:18:15,840
+So one more thing we have to do is here
+
+1327
+01:18:16,120 --> 01:18:19,320
+I'm going to write
+create one folder called
+
+1328
+01:18:20,760 --> 01:18:22,440
+Goal feed.
+
+1329
+01:18:22,440 --> 01:18:23,280
+Right
+
+1330
+01:18:23,960 --> 01:18:26,640
+only for those where my screenshot is big
+
+1331
+01:18:27,600 --> 01:18:30,280
+and create one more folder here.
+
+1332
+01:18:30,480 --> 01:18:33,080
+Say run for it here, go
+
+1333
+01:18:34,920 --> 01:18:39,960
+paused right or buzzed so dag nasty nasty.
+
+1334
+01:18:39,960 --> 01:18:44,400
+If my scenario is feed
+it will take the screenshot
+
+1335
+01:18:44,760 --> 01:18:47,440
+seaweed under the feed folder under
+
+1336
+01:18:47,440 --> 01:18:50,240
+screenshot folder with my scenario name.
+
+1337
+01:18:50,680 --> 01:18:51,400
+Right.
+
+1338
+01:18:51,400 --> 01:18:55,080
+And here also
+it will see under my scenario understood
+
+1339
+01:18:56,400 --> 01:18:56,920
+and desperate.
+
+1340
+01:18:56,920 --> 01:19:01,440
+Everyone.
+
+1341
+01:19:01,440 --> 01:19:03,800
+So it will exist in India. Great.
+
+1342
+01:19:04,440 --> 01:19:05,760
+Now see,
+
+1343
+01:19:06,200 --> 01:19:08,320
+now see, one thing is done.
+
+1344
+01:19:08,320 --> 01:19:09,240
+One thing done.
+
+1345
+01:19:09,240 --> 01:19:10,520
+In my scenario
+
+1346
+01:19:10,520 --> 01:19:15,840
+selected is screenshots will be captured
+under is screenshots folder.
+
+1347
+01:19:16,240 --> 01:19:17,040
+Right.
+
+1348
+01:19:17,280 --> 01:19:19,560
+And then the screenshots folder.
+
+1349
+01:19:19,560 --> 01:19:21,560
+But do we need food for them?
+
+1350
+01:19:21,600 --> 01:19:26,800
+Why don't we need food for the utility?
+
+1351
+01:19:26,800 --> 01:19:28,320
+Why don't we need this?
+
+1352
+01:19:28,320 --> 01:19:30,720
+We are discussing the point.
+
+1353
+01:19:30,720 --> 01:19:32,240
+Yes, we have to.
+
+1354
+01:19:32,240 --> 01:19:33,040
+We have to.
+
+1355
+01:19:33,040 --> 01:19:36,800
+We have to add this build and fast folder
+we automatically
+
+1356
+01:19:36,800 --> 01:19:39,840
+we generated because we are putting them
+in this script.
+
+1357
+01:19:40,240 --> 01:19:40,800
+Right.
+
+1358
+01:19:40,800 --> 01:19:42,960
+So this folders will be generated.
+Correct.
+
+1359
+01:19:43,200 --> 01:19:46,720
+My take a screenshot whether we generate
+the folder based on the
+
+1360
+01:19:46,800 --> 01:19:51,000
+what we have provided in the common matrix
+and they take screenshot function.
+
+1361
+01:19:51,400 --> 01:19:53,120
+That function we have called here.
+
+1362
+01:19:53,120 --> 01:20:02,160
+So it will create itself right? Yes.
+
+1363
+01:20:02,760 --> 01:20:05,960
+Yes. Got it.
+
+1364
+01:20:05,960 --> 01:20:06,840
+Got it.
+
+1365
+01:20:06,840 --> 01:20:12,400
+So now see here with this method,
+what I am seeing, this is storing mind.
+
+1366
+01:20:12,400 --> 01:20:16,720
+This is storing and capturing
+my screenshot and the screenshot spoiler.
+
+1367
+01:20:17,800 --> 01:20:19,080
+But I don't want this.
+
+1368
+01:20:19,080 --> 01:20:21,520
+These screenshots
+only in domestic interest folder.
+
+1369
+01:20:22,080 --> 01:20:23,280
+I want this.
+
+1370
+01:20:23,280 --> 01:20:28,280
+The screenshots
+will be attached with my report.
+
+1371
+01:20:28,280 --> 01:20:32,120
+I want these screenshots
+to be based with my report.
+
+1372
+01:20:32,240 --> 01:20:32,920
+All right.
+
+1373
+01:20:32,920 --> 01:20:37,360
+So next time I execute my scenario,
+I want to see this
+
+1374
+01:20:37,520 --> 01:20:40,560
+screenshot week
+based in my reporting system.
+
+1375
+01:20:41,280 --> 01:20:41,920
+All right.
+
+1376
+01:20:41,920 --> 01:20:45,000
+So to do this just one command
+I need to add.
+
+1377
+01:20:45,440 --> 01:20:46,920
+This scenario will do everything.
+
+1378
+01:20:46,920 --> 01:20:49,320
+So now you don't bug batch.
+
+1379
+01:20:49,520 --> 01:20:50,720
+Can you see?
+
+1380
+01:20:51,000 --> 01:20:53,520
+Can you see it is asking post by default.
+
+1381
+01:20:53,520 --> 01:20:59,040
+It is asking any of my Do not tell me guys
+Eddie of Berkeley do the asking.
+
+1382
+01:20:59,400 --> 01:21:01,600
+So I am writing area of byte I have big
+
+1383
+01:21:02,720 --> 01:21:03,600
+I have big.
+
+1384
+01:21:03,600 --> 01:21:06,640
+This big is the object
+that I've created for Eddie Obeid.
+
+1385
+01:21:07,080 --> 01:21:09,480
+So it can be by asking for maybe a date.
+
+1386
+01:21:09,480 --> 01:21:11,640
+So what would be the media of this image?
+
+1387
+01:21:12,160 --> 01:21:17,840
+So I will provide image
+sort of image, which image being image
+
+1388
+01:21:18,880 --> 01:21:19,320
+feed.
+
+1389
+01:21:19,440 --> 01:21:22,640
+And then the third thing
+it is asking is string name.
+
+1390
+01:21:22,840 --> 01:21:26,800
+So here the name of the string
+that I would be provided release theme
+
+1391
+01:21:28,160 --> 01:21:31,120
+name named
+Keep it simple, Let's keep it simple.
+
+1392
+01:21:31,120 --> 01:21:33,400
+Only the name of the video industry.
+
+1393
+01:21:33,960 --> 01:21:36,080
+So what it will do it
+
+1394
+01:21:36,920 --> 01:21:42,960
+will it will attach the pics
+
+1395
+01:21:43,240 --> 01:21:46,440
+in the food
+
+1396
+01:21:47,240 --> 01:21:51,440
+and putting these commands also so
+that you can understand what we are doing,
+
+1397
+01:21:51,600 --> 01:21:54,320
+so that you can understand
+what we are doing.
+
+1398
+01:21:54,320 --> 01:21:58,560
+Is this part to everyone?
+
+1399
+01:21:58,560 --> 01:22:01,560
+Is this part clear to one
+
+1400
+01:22:03,200 --> 01:22:07,200
+easy, just four lines, be easy and
+
+1401
+01:22:13,120 --> 01:22:14,520
+now let me do one thing
+
+1402
+01:22:14,520 --> 01:22:16,520
+to execute one very common scenario.
+
+1403
+01:22:17,480 --> 01:22:19,280
+Take this batch 11 one plate.
+
+1404
+01:22:19,280 --> 01:22:21,840
+It would take this bent elements in edu.
+
+1405
+01:22:21,840 --> 01:22:24,000
+So I'm going to put it in my
+
+1406
+01:22:25,040 --> 01:22:26,000
+things
+
+1407
+01:22:26,440 --> 01:22:29,640
+and I'm
+going to execute this scenario from mine.
+
+1408
+01:22:30,320 --> 01:22:33,840
+But I'm not extremely fine guys from my
+
+1409
+01:22:34,040 --> 01:22:35,360
+which any
+
+1410
+01:22:38,320 --> 01:22:42,560
+bom not exemplify point.
+
+1411
+01:22:42,560 --> 01:22:48,160
+No. See, I am going to execute this menu
+from here from my to make fine.
+
+1412
+01:22:48,160 --> 01:22:50,000
+So test
+
+1413
+01:23:18,560 --> 01:23:21,400
+build success based
+
+1414
+01:23:21,400 --> 01:23:23,480
+will success is just
+
+1415
+01:23:24,560 --> 01:23:27,840
+can you see here
+can you see here under the screenshots
+
+1416
+01:23:28,360 --> 01:23:31,200
+folder generated called parsed can you see
+
+1417
+01:23:33,000 --> 01:23:36,880
+folder generated parsed
+
+1418
+01:23:36,880 --> 01:23:39,560
+and this and here
+
+1419
+01:23:39,560 --> 01:23:43,120
+you'll see this is my scenario
+name really and mini log in.
+
+1420
+01:23:43,800 --> 01:23:48,240
+Great this is there for me
+the burden which we passed I see
+
+1421
+01:23:48,240 --> 01:23:53,000
+this is the format between must not be in
+g now just match this
+
+1422
+01:23:53,520 --> 01:23:56,520
+with this particular part see
+
+1423
+01:23:57,600 --> 01:24:00,520
+is screenshot file
+but the provided file name.
+
+1424
+01:24:00,520 --> 01:24:03,920
+So finally we provided a scenario
+don't get me
+
+1425
+01:24:04,320 --> 01:24:07,840
+great scenario,
+don't me scenario name. See?
+
+1426
+01:24:07,880 --> 01:24:08,480
+But it
+
+1427
+01:24:10,280 --> 01:24:13,960
+is based you see here this, this
+and then here.
+
+1428
+01:24:14,000 --> 01:24:16,320
+So here you see is month.
+
+1429
+01:24:16,440 --> 01:24:22,280
+So you see January day 23 hours 22
+
+1430
+01:24:23,200 --> 01:24:26,160
+See here 2226 minutes 25
+
+1431
+01:24:26,160 --> 01:24:30,440
+just one minute ago and seconds
+continue forward.
+
+1432
+01:24:30,600 --> 01:24:31,600
+Don't be
+
+1433
+01:24:33,400 --> 01:24:34,240
+eight days.
+
+1434
+01:24:34,240 --> 01:24:38,920
+The same format what we provided
+my code is working according to that.
+
+1435
+01:24:39,240 --> 01:24:42,040
+Correct.
+
+1436
+01:24:42,040 --> 01:24:42,960
+Is this correct?
+
+1437
+01:24:42,960 --> 01:24:48,400
+Everyone, now,
+
+1438
+01:24:48,880 --> 01:24:52,800
+now let's open this open report.
+
+1439
+01:24:53,880 --> 01:24:55,200
+It's open adequate. How?
+
+1440
+01:24:55,200 --> 01:24:58,680
+We open the report right
+click open in any browser.
+
+1441
+01:24:58,880 --> 01:25:02,320
+Open in any browser.
+
+1442
+01:25:02,320 --> 01:25:06,680
+Can you see this report right.
+
+1443
+01:25:06,680 --> 01:25:07,640
+Can you see this report?
+
+1444
+01:25:07,640 --> 01:25:08,280
+We want
+
+1445
+01:25:12,600 --> 01:25:13,880
+open it
+
+1446
+01:25:14,280 --> 01:25:16,400
+going to looks can you see
+
+1447
+01:25:16,400 --> 01:25:19,800
+now this time of hooks execute trade
+
+1448
+01:25:20,160 --> 01:25:22,920
+this hooks it says that is an attachment.
+
+1449
+01:25:24,040 --> 01:25:28,920
+Now click on it is this this screen
+where I completed my execution.
+
+1450
+01:25:28,920 --> 01:25:33,480
+Is this the script for the last display
+when my execution stops?
+
+1451
+01:25:34,920 --> 01:25:37,040
+This is right.
+
+1452
+01:25:37,440 --> 01:25:41,080
+Correct.
+
+1453
+01:25:41,080 --> 01:25:43,800
+Correct. See,
+
+1454
+01:25:44,840 --> 01:25:46,760
+I got all the details straight.
+
+1455
+01:25:46,760 --> 01:25:49,680
+I got all the details. Wait,
+how many steps fast?
+
+1456
+01:25:49,680 --> 01:25:51,120
+It it'sit's everything.
+
+1457
+01:25:51,120 --> 01:25:54,440
+And here also
+it is attaching my screenshot visible.
+
+1458
+01:25:54,960 --> 01:26:00,760
+See this?
+
+1459
+01:26:00,760 --> 01:26:05,800
+Is this part clear to everyone?
+
+1460
+01:26:05,800 --> 01:26:07,120
+Right? Exactly.
+
+1461
+01:26:07,120 --> 01:26:13,080
+Damian remembers idle.
+
+1462
+01:26:13,080 --> 01:26:21,240
+So for any question in this part,
+but they're taking them on.
+
+1463
+01:26:21,240 --> 01:26:23,560
+For example, I didn't provide anything.
+
+1464
+01:26:23,560 --> 01:26:26,160
+They mean bombarding similitude.
+
+1465
+01:26:26,160 --> 01:26:28,360
+Where have you seen this that I provided
+big name in
+
+1466
+01:26:30,600 --> 01:26:32,360
+which take moment
+
+1467
+01:26:32,520 --> 01:26:35,000
+which you are not involved
+
+1468
+01:26:37,480 --> 01:26:39,240
+match 11.
+
+1469
+01:26:39,720 --> 01:26:42,080
+No it's not going to take some insert
+
+1470
+01:26:42,200 --> 01:26:44,640
+expander your small cricket
+it is more enough
+
+1471
+01:26:45,920 --> 01:26:47,760
+under small
+
+1472
+01:26:56,520 --> 01:26:57,280
+point.
+
+1473
+01:26:57,480 --> 01:26:59,880
+Let me come in this code
+
+1474
+01:27:01,160 --> 01:27:04,920
+so for any question in this part strings
+
+1475
+01:27:09,080 --> 01:27:09,520
+there
+
+1476
+01:27:10,680 --> 01:27:12,000
+is any question so far
+
+1477
+01:27:15,040 --> 01:27:17,320
+no question here
+
+1478
+01:27:18,040 --> 01:27:18,960
+except
+
+1479
+01:27:20,880 --> 01:27:22,560
+now you in a big it's
+
+1480
+01:27:22,560 --> 01:27:24,960
+been almost 2 hours already 2 hours
+
+1481
+01:27:26,800 --> 01:27:30,120
+code is
+can we take to the repository right.
+
+1482
+01:27:30,120 --> 01:27:32,240
+Let's take a break. This
+
+1483
+01:27:34,840 --> 01:27:38,280
+at the middle Like I said the
+
+1484
+01:27:39,600 --> 01:27:40,880
+like I said,
+
+1485
+01:27:41,360 --> 01:27:43,280
+it does only any overbite.
+
+1486
+01:27:43,280 --> 01:27:45,360
+That is the only thing that's big.
+
+1487
+01:27:45,360 --> 01:27:49,720
+But yeah, you can read it and
+then you will deprecate very easy part.
+
+1488
+01:27:49,960 --> 01:28:00,760
+This remaining all the steps
+are symptoms of selenium bar.
+
+1489
+01:28:00,760 --> 01:28:02,840
+I totally understand.
+
+1490
+01:28:02,840 --> 01:28:04,320
+Another important topic guys.
+
+1491
+01:28:04,320 --> 01:28:06,480
+After the break we will discuss.
+
+1492
+01:28:06,480 --> 01:28:07,120
+Let's see.
+
+1493
+01:28:07,120 --> 01:28:09,440
+Sebastian is already got the screenshot.
+
+1494
+01:28:10,200 --> 01:28:14,120
+Is this part working for everyone of
+
+1495
+01:28:21,480 --> 01:28:22,920
+my screen?
+
+1496
+01:28:23,240 --> 01:28:25,640
+So guys, let's take a break.
+
+1497
+01:28:25,640 --> 01:28:27,920
+Let's take a break for 15 minutes.
+
+1498
+01:28:28,200 --> 01:28:30,240
+And after 15 minutes we connect again.
+
+1499
+01:28:30,240 --> 01:28:33,120
+Okay.
+
+1500
+01:28:33,120 --> 01:28:34,320
+One store next.
+
+1501
+01:28:34,320 --> 01:28:35,520
+So far, so good.
+
+1502
+01:28:35,520 --> 01:28:47,560
+Everyone.
+
+1503
+01:28:47,560 --> 01:28:48,000
+Nice,
+
+1504
+01:28:49,160 --> 01:28:49,880
+nice place.
+
+1505
+01:28:49,880 --> 01:28:53,840
+I produced it as everyone gets
+so we can proceed for the please
+
+1506
+01:28:53,840 --> 01:28:55,280
+of big screen quickly.
+
+1507
+01:28:55,280 --> 01:29:13,880
+But fine.
+
+1508
+01:29:14,600 --> 01:29:15,720
+So now.
+
+1509
+01:29:15,720 --> 01:29:19,080
+Now ready to not do more things.
+
+1510
+01:29:19,160 --> 01:29:22,400
+Very interesting thing.
+
+1511
+01:29:22,400 --> 01:29:24,080
+I did not get that feature.
+
+1512
+01:29:24,080 --> 01:29:24,920
+It would
+
+1513
+01:29:26,640 --> 01:29:28,560
+Sir Richard McWhirter talking about
+
+1514
+01:29:28,560 --> 01:29:29,840
+which feature
+
+1515
+01:29:36,240 --> 01:29:37,360
+This one.
+
+1516
+01:29:37,560 --> 01:29:37,960
+This one?
+
+1517
+01:29:37,960 --> 01:29:38,600
+You mean
+
+1518
+01:29:48,200 --> 01:29:50,200
+So I can clearly see, right?
+
+1519
+01:29:50,200 --> 01:29:52,040
+I can clearly see it's already of liberty.
+
+1520
+01:29:52,040 --> 01:29:53,920
+It was just you expanding this way.
+
+1521
+01:29:53,920 --> 01:29:56,560
+The view is going.
+
+1522
+01:29:56,560 --> 01:29:57,960
+It just you expand there just to,
+
+1523
+01:29:57,960 --> 01:30:00,120
+you know, hold it
+and then you will get that to put
+
+1524
+01:30:00,720 --> 01:30:03,680
+or maybe execute it one more time
+and then you will get the connectivity.
+
+1525
+01:30:03,720 --> 01:30:06,720
+Look, in this part,
+
+1526
+01:30:06,720 --> 01:30:08,760
+when you're talking about this
+particular part, right,
+
+1527
+01:30:10,120 --> 01:30:11,280
+You from here.
+
+1528
+01:30:11,280 --> 01:30:13,280
+From here,
+if you see you have to click on this,
+
+1529
+01:30:13,280 --> 01:30:16,680
+it will get highlighted
+and then can open this part or
+
+1530
+01:30:18,320 --> 01:30:18,960
+right
+
+1531
+01:30:19,920 --> 01:30:22,080
+now, do we have reviewed the model?
+
+1532
+01:30:22,080 --> 01:30:25,520
+Yes, ma'am, we do have we do have
+
+1533
+01:30:25,520 --> 01:30:30,040
+your welcome, sir.
+
+1534
+01:30:30,040 --> 01:30:30,600
+All right.
+
+1535
+01:30:30,600 --> 01:30:36,440
+So now see, guys, Aisha.
+
+1536
+01:30:36,480 --> 01:30:39,240
+Yes, I will tell you that also,
+I read in their notes
+
+1537
+01:30:39,640 --> 01:30:43,200
+we don't have to do it
+explicitly will have in function for them
+
+1538
+01:30:43,480 --> 01:30:48,240
+one commander, we do everything okay.
+
+1539
+01:30:48,240 --> 01:30:51,360
+Nice, nice, nice, nice.
+
+1540
+01:30:51,440 --> 01:30:52,320
+Let's come here.
+
+1541
+01:30:52,320 --> 01:30:55,080
+Just let me execute.
+
+1542
+01:30:55,320 --> 01:30:58,400
+Let me execute this log in so you can
+
+1543
+01:30:58,400 --> 01:31:01,840
+you see everyone?
+
+1544
+01:31:01,840 --> 01:31:04,000
+Everyone. You see this log incident?
+
+1545
+01:31:05,560 --> 01:31:08,160
+Sometimes what happens,
+Sometimes what happens?
+
+1546
+01:31:08,160 --> 01:31:09,480
+Basically,
+
+1547
+01:31:09,960 --> 01:31:13,080
+if you execute hundreds in that you do
+scenario,
+
+1548
+01:31:13,080 --> 01:31:17,400
+maybe for this and then you wait,
+you execute this mercenary.
+
+1549
+01:31:17,400 --> 01:31:19,680
+Also, there's a out of hundred scenarios
+
+1550
+01:31:20,400 --> 01:31:22,960
+in Evil boss and 20 will see
+
+1551
+01:31:24,360 --> 01:31:24,960
+it happens.
+
+1552
+01:31:24,960 --> 01:31:28,680
+Many names take these.
+
+1553
+01:31:28,680 --> 01:31:30,800
+Remember the example
+of parallel execution?
+
+1554
+01:31:32,080 --> 01:31:33,600
+It happens multiple times, right?
+
+1555
+01:31:33,600 --> 01:31:37,280
+When you execute scenarios,
+some of them passed, some of them feel
+
+1556
+01:31:38,920 --> 01:31:41,320
+they please, please join me. Now.
+
+1557
+01:31:41,320 --> 01:31:43,640
+We have already done writing the code,
+copying the code.
+
+1558
+01:31:43,640 --> 01:31:46,200
+Everything now
+makes it more than two conversation.
+
+1559
+01:31:46,200 --> 01:31:48,720
+It's important discussion.
+
+1560
+01:31:48,720 --> 01:31:52,920
+Now what happens is basically
+if this premise scenarios
+
+1561
+01:31:52,920 --> 01:31:56,600
+are failing,
+these two scenarios are free raid.
+
+1562
+01:31:56,880 --> 01:32:00,080
+So it's not necessary that these are
+these scenarios are failed
+
+1563
+01:32:00,120 --> 01:32:02,360
+because of issue in this script.
+
+1564
+01:32:03,120 --> 01:32:06,360
+Because if you execute them one by one,
+then this
+
+1565
+01:32:06,640 --> 01:32:08,720
+you pass, right?
+
+1566
+01:32:09,360 --> 01:32:13,360
+So maybe due to some unforeseen
+circumstances such as application
+
+1567
+01:32:13,360 --> 01:32:16,600
+not loaded doom was not available
+
+1568
+01:32:17,440 --> 01:32:21,240
+station not created Selenium time out
+
+1569
+01:32:21,240 --> 01:32:25,680
+because of some x, y, z issue,
+because of these exceptions and issue.
+
+1570
+01:32:25,680 --> 01:32:27,400
+Sometimes here disk is good big,
+
+1571
+01:32:28,480 --> 01:32:31,160
+but sometimes you just get speed.
+
+1572
+01:32:32,200 --> 01:32:37,320
+So now what we are doing as of now,
+if my if I executing my request,
+
+1573
+01:32:37,320 --> 01:32:40,200
+guess in the batch execution
+I hope everyone knows
+
+1574
+01:32:40,680 --> 01:32:43,960
+what is better execution
+they expect already at the time of destiny
+
+1575
+01:32:45,280 --> 01:32:45,720
+there
+
+1576
+01:32:49,280 --> 01:32:49,600
+batch
+
+1577
+01:32:49,600 --> 01:32:56,760
+execution.
+
+1578
+01:32:56,760 --> 01:32:58,080
+Fine, fine.
+
+1579
+01:32:58,080 --> 01:33:00,520
+So now, now, now see
+
+1580
+01:33:01,280 --> 01:33:04,480
+what are doing
+If we are executing raid by a batch.
+
+1581
+01:33:04,640 --> 01:33:08,040
+So if hundreds
+and that is I'm executing 23.
+
+1582
+01:33:08,440 --> 01:33:12,200
+So again
+I'm executing 100 scenarios to test.
+
+1583
+01:33:12,960 --> 01:33:18,720
+That's what we are doing so far,
+but that's what we are doing.
+
+1584
+01:33:18,960 --> 01:33:19,840
+Correct.
+
+1585
+01:33:19,920 --> 01:33:22,320
+Now, Now I do not want to do this.
+
+1586
+01:33:23,760 --> 01:33:26,640
+I want if I'm executing hundred scenarios,
+
+1587
+01:33:27,480 --> 01:33:30,280
+if 80 bars
+
+1588
+01:33:30,280 --> 01:33:32,680
+and 20 fail,
+
+1589
+01:33:33,560 --> 01:33:38,400
+I want my convert to execute
+only destroying these scenarios again,
+
+1590
+01:33:39,720 --> 01:33:40,080
+because
+
+1591
+01:33:40,080 --> 01:33:43,080
+if my ID are already paused,
+why should I execute?
+
+1592
+01:33:43,080 --> 01:33:44,160
+Do it again?
+
+1593
+01:33:44,160 --> 01:33:46,880
+I just want to execute this
+20 scenarios fake.
+
+1594
+01:33:47,760 --> 01:33:51,400
+So what make me do passes
+make dumas's point fine.
+
+1595
+01:33:51,440 --> 01:33:55,200
+What I will do
+I will execute your scenarios.
+
+1596
+01:33:55,200 --> 01:33:57,200
+If you're a designer, use paused.
+
+1597
+01:33:57,200 --> 01:34:00,440
+I'm not bothering
+that I'm more bothered about this 20
+
+1598
+01:34:00,720 --> 01:34:05,600
+so I will give you the name of this
+20 fields in areas,
+
+1599
+01:34:06,120 --> 01:34:10,040
+name of this 24 scenarios
+and then you can execute
+
+1600
+01:34:10,040 --> 01:34:14,160
+only these 20 scenarios which are already
+available in just one peak
+
+1601
+01:34:15,240 --> 01:34:16,680
+in just one thing.
+
+1602
+01:34:16,680 --> 01:34:19,880
+And just so we can rerun
+
+1603
+01:34:20,040 --> 01:34:23,840
+only three scenarios.
+
+1604
+01:34:23,840 --> 01:34:28,800
+First execution all the scenarios,
+then return one more execution
+
+1605
+01:34:28,800 --> 01:34:33,560
+only for privacy settings,
+that kind of sector we need in our.
+
+1606
+01:34:33,560 --> 01:34:38,520
+Now tell me, isn't it very effective that
+if I'm executing 100 of these scenarios
+
+1607
+01:34:38,720 --> 01:34:42,880
+out of them, 100 past four people, So
+next time I don't need to execute those.
+
+1608
+01:34:42,880 --> 01:34:44,640
+I just execute remaining to be
+
+1609
+01:34:44,640 --> 01:34:48,600
+and then they will also be passed
+and it is still the issue exist.
+
+1610
+01:34:48,800 --> 01:34:51,600
+Then maybe we can go
+and check our script, right?
+
+1611
+01:34:51,880 --> 01:34:52,880
+So right away
+
+1612
+01:34:52,880 --> 01:34:56,440
+on the script and changing it
+and then it's not a good solution for us.
+
+1613
+01:34:56,720 --> 01:34:59,120
+Give this scenario
+speaking to one or two prior
+
+1614
+01:34:59,280 --> 01:35:00,840
+and then come off with your script.
+
+1615
+01:35:00,840 --> 01:35:02,560
+At this point.
+
+1616
+01:35:02,560 --> 01:35:05,960
+So what it does to the overview,
+the situation, the condition
+
+1617
+01:35:05,960 --> 01:35:09,960
+which we are going to implement now,
+
+1618
+01:35:09,960 --> 01:35:14,240
+everyone, let's
+
+1619
+01:35:14,240 --> 01:35:17,680
+go ahead and do it and implement
+this part.
+
+1620
+01:35:17,800 --> 01:35:21,480
+To implement this part first,
+what I'm going to do is
+
+1621
+01:35:21,920 --> 01:35:24,680
+I am going to open my small guest.
+
+1622
+01:35:24,680 --> 01:35:27,240
+If I'm going to open my smoke, relentless.
+
+1623
+01:35:27,600 --> 01:35:31,080
+And here in this plugin,
+in this plugin, I'm
+
+1624
+01:35:31,080 --> 01:35:36,400
+going add under the blanket
+and that plugin name is Reason.
+
+1625
+01:35:37,560 --> 01:35:40,480
+What is the name of this plugin these
+
+1626
+01:35:40,480 --> 01:35:42,680
+days?
+
+1627
+01:35:42,680 --> 01:35:45,800
+Reading and in zero plugin issued
+
+1628
+01:35:46,680 --> 01:35:49,000
+under target folder.
+
+1629
+01:35:49,000 --> 01:35:52,200
+Under target folder create one
+
+1630
+01:35:52,480 --> 01:35:55,920
+the XD file with the name feed.
+
+1631
+01:35:57,080 --> 01:35:58,920
+So now what would happen?
+
+1632
+01:35:58,920 --> 01:36:02,040
+What would happen here is C
+
+1633
+01:36:02,320 --> 01:36:05,520
+this thing disappeared
+
+1634
+01:36:07,400 --> 01:36:11,760
+or b XD by holds
+
+1635
+01:36:12,960 --> 01:36:16,040
+all the scenarios, all the scenarios
+
+1636
+01:36:16,040 --> 01:36:19,880
+which are which are feed
+
+1637
+01:36:21,240 --> 01:36:23,680
+during execution plus two
+
+1638
+01:36:24,960 --> 01:36:33,360
+industrial days.
+
+1639
+01:36:33,360 --> 01:36:34,520
+And now.
+
+1640
+01:36:34,520 --> 01:36:37,440
+Now when it comes to execute
+only those scenarios
+
+1641
+01:36:37,560 --> 01:36:40,760
+which are field during the execution,
+what we have to do
+
+1642
+01:36:41,240 --> 01:36:43,880
+we need this the file but
+
+1643
+01:36:44,200 --> 01:36:48,480
+read this but we need fine
+so when we need this
+
+1644
+01:36:48,480 --> 01:36:51,960
+but how we can get it to see I'm
+going to create
+
+1645
+01:36:52,520 --> 01:36:54,720
+another another class go
+
+1646
+01:36:56,760 --> 01:36:57,640
+read.
+
+1647
+01:36:57,880 --> 01:37:01,680
+What I'm going to create
+is an additional class going
+
+1648
+01:37:02,040 --> 01:37:05,920
+children of right
+and in this field, in this
+
+1649
+01:37:06,840 --> 01:37:10,640
+take you let me create
+this in the class now see
+
+1650
+01:37:13,320 --> 01:37:16,240
+in this field and then what I need
+
+1651
+01:37:18,120 --> 01:37:19,400
+let me copy this part
+
+1652
+01:37:19,400 --> 01:37:21,480
+from here to read complete but from here
+
+1653
+01:37:23,520 --> 01:37:27,120
+and I will pasted here.
+
+1654
+01:37:27,120 --> 01:37:28,880
+Now tell me this
+
+1655
+01:37:29,920 --> 01:37:33,640
+Do we need this dry rectangular
+
+1656
+01:37:33,920 --> 01:37:35,640
+to check whether my steps implemented
+
+1657
+01:37:35,640 --> 01:37:39,880
+or not?
+
+1658
+01:37:39,880 --> 01:37:41,000
+Do we need this bag?
+
+1659
+01:37:41,000 --> 01:37:43,520
+Also,
+are we going to execute based on base?
+
+1660
+01:37:43,520 --> 01:37:50,720
+No, we don't.
+
+1661
+01:37:50,720 --> 01:37:53,880
+Do we need this written like any of
+
+1662
+01:37:53,880 --> 01:37:57,480
+the we need this plugin?
+
+1663
+01:37:57,480 --> 01:38:02,440
+No, because the employee is
+generally used to generate the field,
+
+1664
+01:38:02,440 --> 01:38:06,920
+not the XD and they should not be
+well executed from here.
+
+1665
+01:38:07,240 --> 01:38:10,320
+So when we're executing already
+for the scenario.
+
+1666
+01:38:10,600 --> 01:38:13,280
+So this time why do we need we don't need
+
+1667
+01:38:14,600 --> 01:38:17,520
+the do we need this reports
+guys, this reports
+
+1668
+01:38:17,520 --> 01:38:19,600
+but we need this import once again we
+
+1669
+01:38:21,000 --> 01:38:23,720
+know because
+reports we are already generating from our
+
+1670
+01:38:24,160 --> 01:38:27,480
+or not render classmate
+a smaller regression analysis like
+
+1671
+01:38:28,840 --> 01:38:32,040
+Eric.
+
+1672
+01:38:32,040 --> 01:38:33,520
+Let's do it.
+
+1673
+01:38:33,680 --> 01:38:35,040
+Let's do it. It's pretty.
+
+1674
+01:38:35,040 --> 01:38:39,600
+We are keeping it because this pretty well
+print all the execution steps in action
+
+1675
+01:38:39,880 --> 01:38:44,520
+so we'll keeping now tell me,
+is this the right but is this the right
+
+1676
+01:38:44,520 --> 01:38:50,040
+path to get my finger to see
+is this the correct one.
+
+1677
+01:38:50,040 --> 01:38:52,440
+No. Right. So what is the right but
+
+1678
+01:38:53,520 --> 01:38:56,960
+where where my the extreme
+will be generated under
+
+1679
+01:38:58,880 --> 01:39:00,720
+under target aid.
+
+1680
+01:39:00,720 --> 01:39:03,200
+So to write target the folder
+
+1681
+01:39:03,560 --> 01:39:05,720
+we have to provide but like this
+
+1682
+01:39:06,280 --> 01:39:10,160
+not to get in under target under target.
+
+1683
+01:39:10,160 --> 01:39:11,400
+What is the name of my clinic?
+
+1684
+01:39:11,400 --> 01:39:13,240
+That's field.
+
+1685
+01:39:13,240 --> 01:39:14,880
+Don't be
+
+1686
+01:39:15,960 --> 01:39:18,480
+adherent or the normal field don't be.
+
+1687
+01:39:18,880 --> 01:39:20,560
+This is the finding we have seen
+
+1688
+01:39:22,160 --> 01:39:22,800
+here.
+
+1689
+01:39:22,920 --> 01:39:26,040
+This is done by newbie applied.
+
+1690
+01:39:26,040 --> 01:39:29,760
+Can you see?
+
+1691
+01:39:29,760 --> 01:39:36,520
+Can you see that we want.
+
+1692
+01:39:36,520 --> 01:39:40,400
+So now let me do one thing.
+
+1693
+01:39:40,400 --> 01:39:43,080
+Let me execute
+
+1694
+01:39:45,360 --> 01:39:48,320
+batch 11 mistake here also
+
+1695
+01:39:49,400 --> 01:39:51,920
+and let me end this big here also.
+
+1696
+01:39:53,000 --> 01:39:56,160
+So so now in burst
+well it is this username
+
+1697
+01:39:56,160 --> 01:39:57,600
+and password
+
+1698
+01:40:03,960 --> 01:40:04,840
+intentionally.
+
+1699
+01:40:04,840 --> 01:40:08,160
+I'm going to feed this one scenario.
+
+1700
+01:40:08,160 --> 01:40:12,400
+I'm going to make three out of 384.
+
+1701
+01:40:12,400 --> 01:40:14,160
+Let me just execute two scenario.
+
+1702
+01:40:14,160 --> 01:40:15,960
+Otherwise it would take more time.
+
+1703
+01:40:15,960 --> 01:40:19,800
+So these two scenarios,
+these two I'm going to execute
+
+1704
+01:40:20,160 --> 01:40:24,360
+and in this scenario intentionally,
+I'm going to pass one
+
+1705
+01:40:24,360 --> 01:40:26,800
+and I'm going to fill the second one
+just to
+
+1706
+01:40:29,640 --> 01:40:31,760
+right now.
+
+1707
+01:40:32,520 --> 01:40:34,680
+Let me first change this batch.
+
+1708
+01:40:34,680 --> 01:40:36,920
+1.11 is right.
+
+1709
+01:40:36,920 --> 01:40:38,320
+And here.
+
+1710
+01:40:38,320 --> 01:40:40,000
+Here. See what I'm going to do now?
+
+1711
+01:40:41,000 --> 01:40:43,920
+I'm going to execute my bomberg exemplify.
+
+1712
+01:40:45,600 --> 01:40:47,640
+So based double click on test,
+
+1713
+01:40:48,640 --> 01:40:51,040
+double click on test to execute this one
+
+1714
+01:41:10,680 --> 01:41:13,560
+for scenario, execute
+
+1715
+01:41:14,120 --> 01:41:17,960
+not it is executing the second one
+
+1716
+01:41:20,960 --> 01:41:23,520
+will feel played
+
+1717
+01:41:23,520 --> 01:41:24,200
+beautifully.
+
+1718
+01:41:24,200 --> 01:41:25,560
+No issues,
+
+1719
+01:41:26,520 --> 01:41:27,320
+Nancy.
+
+1720
+01:41:27,320 --> 01:41:30,120
+According to the setup
+which I've made grade.
+
+1721
+01:41:30,360 --> 01:41:34,440
+According to that setup,
+I should be able to see their test case
+
+1722
+01:41:34,440 --> 01:41:36,440
+name, which is field under me
+
+1723
+01:41:37,560 --> 01:41:38,320
+and then
+
+1724
+01:41:40,000 --> 01:41:44,400
+and then Target.
+
+1725
+01:41:44,400 --> 01:41:47,680
+Can you see in the target
+it generates one point call field
+
+1726
+01:41:47,680 --> 01:41:48,400
+or the
+
+1727
+01:41:51,800 --> 01:41:56,040
+can everyone see this point?
+
+1728
+01:41:56,040 --> 01:41:58,520
+Now let's double click and open this blank
+
+1729
+01:41:59,640 --> 01:42:04,440
+Can you see it
+says FYI is is not to see test results
+
+1730
+01:42:04,440 --> 01:42:07,600
+this features log in don't feature line
+
+1731
+01:42:07,600 --> 01:42:10,240
+number seven do not see
+
+1732
+01:42:11,280 --> 01:42:14,680
+log entered feature line
+number seven being
+
+1733
+01:42:14,680 --> 01:42:19,400
+it means this in any any valid
+is this log in this one failed or more
+
+1734
+01:42:24,240 --> 01:42:26,720
+this one thing point
+
+1735
+01:42:26,720 --> 01:42:28,960
+No Now tell me
+
+1736
+01:42:28,960 --> 01:42:32,680
+how many scenarios of have executed
+
+1737
+01:42:33,200 --> 01:42:37,440
+two How many of you got here?
+
+1738
+01:42:37,440 --> 01:42:40,080
+One late only failed when we got eight.
+
+1739
+01:42:40,520 --> 01:42:42,920
+So next time, what do we do?
+
+1740
+01:42:42,920 --> 01:42:46,960
+Let's go into the scenario
+check already and find this.
+
+1741
+01:42:46,960 --> 01:42:47,920
+And that is failing.
+
+1742
+01:42:47,920 --> 01:42:49,440
+My vote is waiting.
+
+1743
+01:42:49,440 --> 01:42:51,360
+Oh, there is an issue with the code.
+
+1744
+01:42:51,360 --> 01:42:57,560
+I notice I'm going to change this part
+with an I need to fix it.
+
+1745
+01:42:58,080 --> 01:42:58,880
+And now.
+
+1746
+01:42:58,880 --> 01:43:01,800
+Now I don't need to execute
+the past scenario.
+
+1747
+01:43:02,440 --> 01:43:05,160
+I will execute only the fields
+
+1748
+01:43:05,160 --> 01:43:08,160
+in any right
+to execute the field scenario.
+
+1749
+01:43:08,160 --> 01:43:08,600
+Here.
+
+1750
+01:43:08,600 --> 01:43:11,480
+What I will do,
+I'm simply executing it from here on
+
+1751
+01:43:12,480 --> 01:43:15,920
+right Click Return
+
+1752
+01:43:17,120 --> 01:43:18,160
+just to show you.
+
+1753
+01:43:18,160 --> 01:43:20,440
+So this time
+how many scenario will get executed
+
+1754
+01:43:22,560 --> 01:43:26,040
+just once in a grade C
+
+1755
+01:43:26,440 --> 01:43:29,400
+spaced, just one scenario got executed.
+
+1756
+01:43:29,520 --> 01:43:30,560
+Understood.
+
+1757
+01:43:30,560 --> 01:43:32,760
+So this particular fight
+
+1758
+01:43:33,360 --> 01:43:36,800
+now see can you see it is creating the do
+folder
+
+1759
+01:43:36,840 --> 01:43:40,520
+based on field also because
+my one scenario of liquidity is this in
+
+1760
+01:43:40,800 --> 01:43:43,480
+it gave me the name of the scenario
+with the paper.
+
+1761
+01:43:44,000 --> 01:43:47,720
+Also for the screenshots
+you can see this things, right?
+
+1762
+01:43:48,160 --> 01:43:51,840
+So my screenshots are also working
+according to my condition,
+
+1763
+01:43:51,960 --> 01:43:55,040
+the condition which I passed by
+
+1764
+01:43:58,080 --> 01:44:00,880
+students, what can you see it
+
+1765
+01:44:03,560 --> 01:44:05,120
+in here?
+
+1766
+01:44:05,400 --> 01:44:05,680
+Here.
+
+1767
+01:44:05,680 --> 01:44:11,840
+This part is also working fine.
+
+1768
+01:44:11,840 --> 01:44:15,360
+What happens to the text file
+after the world's biggest file?
+
+1769
+01:44:15,360 --> 01:44:16,480
+It generates read.
+
+1770
+01:44:16,480 --> 01:44:19,360
+It generates their data
+for all the failure text case
+
+1771
+01:44:19,800 --> 01:44:22,160
+and we provide this file.
+
+1772
+01:44:22,160 --> 01:44:28,360
+But we provided this file
+support from field or the field runner.
+
+1773
+01:44:28,360 --> 01:44:33,360
+So next time, whatever their best guesses,
+we get this best guesses
+
+1774
+01:44:33,360 --> 01:44:38,080
+details inside this field running via
+ready to not be fight.
+
+1775
+01:44:38,080 --> 01:44:40,400
+So now you can run from momentum.
+
+1776
+01:44:40,440 --> 01:44:42,640
+Your report.
+Yes we can run from memory as well.
+
+1777
+01:44:42,640 --> 01:44:45,120
+We need to change
+this from the field on the
+
+1778
+01:44:49,800 --> 01:44:51,400
+moment you can read that.
+
+1779
+01:44:51,400 --> 01:44:55,040
+But also right you can go I had this
+but also just wanted to show you.
+
+1780
+01:44:55,320 --> 01:44:58,320
+That's why I execute from your point
+
+1781
+01:44:59,520 --> 01:45:03,920
+nine guys.
+
+1782
+01:45:03,920 --> 01:45:08,240
+Everyone, they
+
+1783
+01:45:12,960 --> 01:45:13,600
+know.
+
+1784
+01:45:13,600 --> 01:45:17,440
+Now let's do something interesting
+
+1785
+01:45:55,480 --> 01:45:57,160
+first in case.
+
+1786
+01:45:57,320 --> 01:45:59,880
+Tell me,
+how many of you guys in the Startup
+
+1787
+01:45:59,880 --> 01:46:10,960
+Moment Project?
+
+1788
+01:46:10,960 --> 01:46:13,520
+Everyone got it right. Everyone got it.
+
+1789
+01:46:14,040 --> 01:46:14,800
+Getting
+
+1790
+01:46:27,960 --> 01:46:29,960
+now. Everyone.
+
+1791
+01:46:29,960 --> 01:46:39,280
+So home environment right?
+
+1792
+01:46:39,280 --> 01:46:40,960
+Okay, so they we're in that video.
+
+1793
+01:46:40,960 --> 01:46:46,560
+In that video you can see now see
+just open your terminal or command prompt.
+
+1794
+01:46:46,560 --> 01:46:49,680
+Open your terminal
+or command prompt and raid
+
+1795
+01:46:49,680 --> 01:46:53,000
+when command called in the end
+
+1796
+01:46:54,560 --> 01:46:57,000
+and be in space.
+
+1797
+01:46:58,080 --> 01:46:59,120
+Watch it
+
+1798
+01:47:00,360 --> 01:47:02,880
+when you running ambient space
+
+1799
+01:47:02,880 --> 01:47:05,880
+hyphen virgin right
+
+1800
+01:47:11,720 --> 01:47:12,280
+right.
+
+1801
+01:47:12,280 --> 01:47:15,920
+So see when I when this come ambient space
+
+1802
+01:47:16,120 --> 01:47:19,760
+hyphen virgin
+it gives me the detail of my moment.
+
+1803
+01:47:19,760 --> 01:47:21,600
+Can you see a bottom event?
+
+1804
+01:47:21,600 --> 01:47:24,240
+3.8.3 which is installed in my machine.
+
+1805
+01:47:25,400 --> 01:47:28,560
+Can you see this everyone.
+
+1806
+01:47:28,560 --> 01:47:29,200
+Right,
+
+1807
+01:47:30,800 --> 01:47:32,400
+right now.
+
+1808
+01:47:32,400 --> 01:47:36,480
+See what I'm doing?
+
+1809
+01:47:36,480 --> 01:47:37,840
+What is my project available?
+
+1810
+01:47:37,840 --> 01:47:40,080
+It's in my machine. In my machine?
+
+1811
+01:47:40,080 --> 01:47:49,200
+What is my project available to me?
+
+1812
+01:47:49,200 --> 01:47:49,960
+And you see these?
+
+1813
+01:47:49,960 --> 01:47:54,960
+See you obviously intelligible,
+intelligent.
+
+1814
+01:47:54,960 --> 01:47:56,400
+I'm using my project.
+
+1815
+01:47:56,400 --> 01:47:58,840
+Getting my project is available.
+
+1816
+01:47:58,840 --> 01:48:03,880
+And let's see users
+Suhail Idea Projects BET 11.
+
+1817
+01:48:03,880 --> 01:48:06,600
+H&M is vegetarian, Correct?
+
+1818
+01:48:06,600 --> 01:48:08,640
+This is my project.
+
+1819
+01:48:09,400 --> 01:48:14,320
+Good to always do is to into this part.
+
+1820
+01:48:14,320 --> 01:48:16,400
+First click here.
+
+1821
+01:48:16,400 --> 01:48:19,880
+Right click here
+
+1822
+01:48:20,960 --> 01:48:22,840
+open in terminal right.
+
+1823
+01:48:22,840 --> 01:48:25,480
+So you will get the part
+or that party will get it.
+
+1824
+01:48:26,280 --> 01:48:28,200
+This is the part.
+
+1825
+01:48:28,800 --> 01:48:29,920
+This is the part.
+
+1826
+01:48:29,920 --> 01:48:32,000
+So just copy this part reference from you.
+
+1827
+01:48:32,400 --> 01:48:36,080
+Maybe this particular part, or
+
+1828
+01:48:36,320 --> 01:48:39,160
+you can simply find this part
+in your folder.
+
+1829
+01:48:39,160 --> 01:48:41,880
+So you'll see this is the match element.
+
+1830
+01:48:41,880 --> 01:48:43,160
+H&M is match element.
+
+1831
+01:48:43,160 --> 01:48:44,480
+Can you see this folder for me
+
+1832
+01:48:45,560 --> 01:48:47,760
+guys in my machine, each item is batch 11
+
+1833
+01:48:48,440 --> 01:48:51,960
+and inside this is inside this.
+
+1834
+01:48:51,960 --> 01:48:53,640
+I have all the files.
+
+1835
+01:48:53,640 --> 01:48:57,160
+Can you see all the files
+related to my project I have?
+
+1836
+01:48:57,160 --> 01:48:59,880
+Everything is database.
+
+1837
+01:48:59,880 --> 01:49:00,760
+Everyone
+
+1838
+01:49:05,160 --> 01:49:09,040
+now know what we have to do is there.
+
+1839
+01:49:09,040 --> 01:49:13,400
+My bonded assembly is available
+where might This bonded
+
+1840
+01:49:13,400 --> 01:49:16,480
+exhibit is available
+inside this particular part.
+
+1841
+01:49:16,920 --> 01:49:20,480
+I have to open my command
+prompt from here.
+
+1842
+01:49:21,240 --> 01:49:22,720
+What I have to.
+
+1843
+01:49:22,720 --> 01:49:24,840
+I have to open my command prompt here.
+
+1844
+01:49:24,840 --> 01:49:27,880
+So see,
+it says open is windows done within point.
+
+1845
+01:49:28,000 --> 01:49:31,640
+Click, click.
+
+1846
+01:49:32,000 --> 01:49:36,280
+Can you see I'm under see users
+Suhail idea
+
+1847
+01:49:36,280 --> 01:49:39,120
+projects batch 11
+which are in this batch deliver
+
+1848
+01:49:40,200 --> 01:49:41,400
+can you see
+
+1849
+01:49:43,000 --> 01:49:44,400
+it means I'm under
+
+1850
+01:49:44,400 --> 01:49:48,040
+my project grid connect directly
+
+1851
+01:49:48,960 --> 01:49:51,960
+one more way easy be easy be
+
+1852
+01:49:53,320 --> 01:49:56,160
+you open your command from
+
+1853
+01:49:56,840 --> 01:49:58,960
+Let's see you are in this one right now
+right?
+
+1854
+01:49:59,280 --> 01:50:02,360
+I have to go under my idea project.
+
+1855
+01:50:02,360 --> 01:50:05,880
+So see the idea project?
+
+1856
+01:50:05,880 --> 01:50:09,000
+So I am under my idea projects
+Then see this
+
+1857
+01:50:09,000 --> 01:50:11,640
+based, right?
+
+1858
+01:50:12,040 --> 01:50:13,920
+I'm under my image element.
+
+1859
+01:50:13,920 --> 01:50:14,240
+Great.
+
+1860
+01:50:14,240 --> 01:50:16,440
+Then see the space.
+
+1861
+01:50:17,880 --> 01:50:18,960
+Italian is my living.
+
+1862
+01:50:18,960 --> 01:50:21,000
+So I am. And there might be H&M
+especially.
+
+1863
+01:50:21,840 --> 01:50:23,560
+Can you see this case?
+
+1864
+01:50:24,320 --> 01:50:28,920
+So can we see the transport
+change category then go inside
+
+1865
+01:50:29,240 --> 01:50:32,080
+till the time you go to your project name
+H&M as mentioned.
+
+1866
+01:50:32,080 --> 01:50:35,760
+Even so, here
+now I see all the fancy one get
+
+1867
+01:50:36,800 --> 01:50:41,320
+not idea screenshots, no respond or text
+can you see similar?
+
+1868
+01:50:41,440 --> 01:50:42,800
+So I got it.
+
+1869
+01:50:43,360 --> 01:50:46,160
+So now I got my one excellent fight.
+
+1870
+01:50:46,320 --> 01:50:47,040
+I got this.
+
+1871
+01:50:47,040 --> 01:50:52,240
+But always I showed
+how to come to your project group.
+
+1872
+01:50:53,000 --> 01:50:55,320
+Part of me simply click here.
+
+1873
+01:50:56,360 --> 01:50:58,520
+I see me
+
+1874
+01:50:58,520 --> 01:51:00,880
+pressing the You are already in the month.
+
+1875
+01:51:02,400 --> 01:51:03,880
+Do you want me to show the Third world?
+
+1876
+01:51:03,880 --> 01:51:07,960
+So once again, guys,
+
+1877
+01:51:08,280 --> 01:51:11,000
+so do we see?
+
+1878
+01:51:11,000 --> 01:51:13,440
+Click here, click here.
+
+1879
+01:51:14,240 --> 01:51:16,160
+I see. Be
+
+1880
+01:51:17,200 --> 01:51:18,360
+man I showed three.
+
+1881
+01:51:18,360 --> 01:51:25,520
+These are all three fast.
+
+1882
+01:51:25,520 --> 01:51:27,600
+It is just playing with the terminal.
+
+1883
+01:51:27,600 --> 01:51:29,480
+I'm just playing with the terminal.
+
+1884
+01:51:29,480 --> 01:51:30,120
+Playing
+
+1885
+01:51:32,600 --> 01:51:33,600
+against this one.
+
+1886
+01:51:33,600 --> 01:51:36,840
+See, again, I'm showing
+
+1887
+01:51:36,840 --> 01:51:39,760
+this is your folder part right click here.
+
+1888
+01:51:40,520 --> 01:51:43,960
+I see and the interesting to
+
+1889
+01:51:44,040 --> 01:51:47,160
+you are in your particular CMT command
+
+1890
+01:51:47,160 --> 01:51:50,200
+terminal part.
+
+1891
+01:51:50,200 --> 01:51:52,920
+Yes correct. Correct.
+
+1892
+01:51:52,920 --> 01:51:55,760
+Third place the best yet because
+this is the shortest one the shortcut.
+
+1893
+01:51:57,080 --> 01:51:58,680
+No, no.
+
+1894
+01:51:58,680 --> 01:52:04,080
+Here first for see,
+I'm not going to execute anything
+
+1895
+01:52:04,200 --> 01:52:09,240
+from my intelligent line
+because I can execute my bombarding
+
+1896
+01:52:09,240 --> 01:52:14,360
+symbol flight from my command prompt
+if it is available here,
+
+1897
+01:52:14,800 --> 01:52:17,600
+if my method is available in my machine
+
+1898
+01:52:17,800 --> 01:52:23,600
+and I am in the correct folder repository,
+if I'm in the correct project group
+
+1899
+01:52:24,040 --> 01:52:29,520
+with my ribbon so I can execute everything
+from my command prompt,
+
+1900
+01:52:30,640 --> 01:52:32,520
+I can execute everything so
+
+1901
+01:52:32,520 --> 01:52:35,120
+my command prompt understood this point.
+
+1902
+01:52:36,360 --> 01:52:38,440
+Remember I told you forced
+
+1903
+01:52:38,960 --> 01:52:41,680
+execute everything from feature point.
+
+1904
+01:52:41,680 --> 01:52:42,640
+Then you will execute
+
+1905
+01:52:42,640 --> 01:52:46,120
+everything from remote
+plus then you will execute everything from
+
+1906
+01:52:46,800 --> 01:52:48,160
+textbook fine and.
+
+1907
+01:52:48,160 --> 01:52:53,040
+Now without even in intelligible,
+we will execute everything
+
+1908
+01:53:00,120 --> 01:53:05,840
+correct?
+
+1909
+01:53:05,840 --> 01:53:07,920
+Correct. Yeah. Correct.
+
+1910
+01:53:07,920 --> 01:53:10,480
+So now see what I'm going
+to write the first.
+
+1911
+01:53:10,760 --> 01:53:15,040
+First, let me tell you how we can execute
+simply right in the end
+
+1912
+01:53:15,440 --> 01:53:17,880
+in the space clean.
+
+1913
+01:53:18,760 --> 01:53:21,840
+Why we use clean the base to remove
+
+1914
+01:53:21,840 --> 01:53:26,160
+and to delete target
+for the right to clean up project.
+
+1915
+01:53:26,520 --> 01:53:29,880
+If we get big sexist message here.
+
+1916
+01:53:29,880 --> 01:53:33,720
+If we get sexist message here,
+what do we do?
+
+1917
+01:53:34,040 --> 01:53:35,920
+We simply executing.
+
+1918
+01:53:35,920 --> 01:53:40,080
+If we get this message,
+then we will execute our actual code.
+
+1919
+01:53:40,280 --> 01:53:43,560
+All right. Alright
+
+1920
+01:53:47,880 --> 01:53:48,280
+guys,
+
+1921
+01:53:48,280 --> 01:53:51,560
+please
+reply by you guys are always really busy.
+
+1922
+01:53:51,560 --> 01:53:53,280
+Maybe can I ask your business?
+
+1923
+01:53:53,280 --> 01:54:15,600
+This business is ask ask.
+
+1924
+01:54:15,600 --> 01:54:17,880
+No, you don't need.
+
+1925
+01:54:18,080 --> 01:54:18,840
+You don't
+
+1926
+01:54:23,120 --> 01:54:23,600
+come.
+
+1927
+01:54:24,840 --> 01:54:27,600
+So now, now
+
+1928
+01:54:27,600 --> 01:54:31,160
+with this in being clean
+with this inventory.
+
+1929
+01:54:31,160 --> 01:54:34,560
+Right,
+we are going to clean our target folder
+
+1930
+01:54:35,040 --> 01:54:35,880
+cutting
+
+1931
+01:54:39,480 --> 01:54:40,520
+inventory.
+
+1932
+01:54:40,520 --> 01:54:42,840
+So now I am going to run this command.
+
+1933
+01:54:43,000 --> 01:54:46,080
+And what I'm expecting that message,
+I expect.
+
+1934
+01:54:46,080 --> 01:54:46,360
+Right.
+
+1935
+01:54:46,360 --> 01:54:51,200
+I should expect right to the bomb, right
+symbol, same message, success.
+
+1936
+01:54:51,360 --> 01:54:51,760
+Right.
+
+1937
+01:54:51,760 --> 01:54:55,240
+So executing.
+
+1938
+01:54:55,320 --> 01:54:57,320
+Can you see anything?
+
+1939
+01:54:57,320 --> 01:55:05,160
+I got big success message here.
+
+1940
+01:55:05,160 --> 01:55:05,840
+Great
+
+1941
+01:55:11,160 --> 01:55:12,120
+boom success message.
+
+1942
+01:55:12,120 --> 01:55:13,680
+We are cutting
+
+1943
+01:55:14,160 --> 01:55:18,720
+inventory now now I'm to perform mine.
+
+1944
+01:55:18,720 --> 01:55:20,920
+Second is what is this like this guy still
+
+1945
+01:55:28,280 --> 01:55:30,360
+in this great
+
+1946
+01:55:31,520 --> 01:55:32,720
+feature
+
+1947
+01:55:36,880 --> 01:55:37,840
+feature?
+
+1948
+01:55:38,360 --> 01:55:39,320
+We have to.
+
+1949
+01:55:39,320 --> 01:55:42,840
+No, no, I'm doing this for you
+because I want a genius.
+
+1950
+01:55:43,320 --> 01:55:45,360
+We are going to execute great.
+
+1951
+01:55:45,840 --> 01:55:51,200
+We are going to execute our exhibit
+quite right in this command.
+
+1952
+01:55:51,480 --> 01:55:54,720
+We used to execute bombed or similarly
+
+1953
+01:55:55,120 --> 01:55:57,880
+in that complex you will find we provided
+
+1954
+01:55:57,880 --> 01:56:00,840
+the bottom smoke in smoke.
+
+1955
+01:56:01,320 --> 01:56:03,680
+We provided a couple of tapes,
+customize missions,
+
+1956
+01:56:03,800 --> 01:56:07,200
+we provided feature point,
+but there's so many other things, right?
+
+1957
+01:56:07,400 --> 01:56:11,000
+So the we are bombed
+or ExxonMobil was executing
+
+1958
+01:56:11,280 --> 01:56:14,080
+big failure to see the full strength
+project to in-situ.
+
+1959
+01:56:14,120 --> 01:56:16,320
+There is no bombing there.
+That is the remnants.
+
+1960
+01:56:16,320 --> 01:56:19,760
+What I am seeing again and again,
+you have to be in the right repository.
+
+1961
+01:56:19,920 --> 01:56:21,080
+You are executing it.
+
+1962
+01:56:21,080 --> 01:56:25,200
+Another user is not in the project,
+so radio project is available
+
+1963
+01:56:25,440 --> 01:56:28,560
+right where your bomb external file
+is available.
+
+1964
+01:56:28,760 --> 01:56:31,960
+Open your terminal on that point
+and then will execute.
+
+1965
+01:56:32,160 --> 01:56:34,480
+Otherwise your operating symbol
+is not available there.
+
+1966
+01:56:34,480 --> 01:56:36,560
+How will pulling the courier
+project? Right.
+
+1967
+01:56:36,920 --> 01:56:38,520
+I showed this earlier as well.
+
+1968
+01:56:38,520 --> 01:56:40,280
+No, that's fine. Let's wait. Fine.
+
+1969
+01:56:40,280 --> 01:56:41,320
+We it's totally
+
+1970
+01:56:43,080 --> 01:56:43,920
+all right.
+
+1971
+01:56:43,920 --> 01:56:47,880
+So now, now, next thing,
+what I'm going to do the moment
+
+1972
+01:56:48,000 --> 01:56:51,440
+I have run this command in being clean
+and being based
+
+1973
+01:56:51,640 --> 01:56:55,680
+the way it was executing my small grammar
+using exhibit
+
+1974
+01:56:55,880 --> 01:57:00,120
+in the same way
+it will execute even without intelligence.
+
+1975
+01:57:00,400 --> 01:57:02,480
+So let me be in print
+
+1976
+01:57:05,560 --> 01:57:08,680
+what an invalid now needs to be
+
+1977
+01:57:10,920 --> 01:57:11,560
+compiling.
+
+1978
+01:57:11,560 --> 01:57:20,120
+So it would be great for me, I think.
+
+1979
+01:57:20,160 --> 01:57:21,520
+Very good resource.
+
+1980
+01:57:21,520 --> 01:57:23,680
+So need to see the
+
+1981
+01:57:23,680 --> 01:57:26,080
+maybe it is a double Olympic minus again.
+
+1982
+01:57:26,080 --> 01:57:28,080
+Explain this point. Let me quickly fix it.
+
+1983
+01:57:29,160 --> 01:57:42,320
+I can fix signatures.
+
+1984
+01:57:42,320 --> 01:57:44,040
+Your works videos. Yeah, that's fine.
+
+1985
+01:57:44,040 --> 01:57:46,680
+Despite being
+
+1986
+01:57:46,840 --> 01:57:50,640
+not Nazi
+
+1987
+01:57:51,720 --> 01:57:53,840
+Nazis. As if I'm doing it.
+
+1988
+01:57:54,280 --> 01:57:57,480
+See, I'm doing it from my.
+
+1989
+01:57:57,480 --> 01:57:58,720
+From mine.
+
+1990
+01:57:58,720 --> 01:58:00,960
+Come on, from
+now. See, it is working fine.
+
+1991
+01:58:03,960 --> 01:58:05,200
+It is working fine.
+
+1992
+01:58:05,200 --> 01:58:06,040
+Correct.
+
+1993
+01:58:06,080 --> 01:58:08,840
+This is this like scenario
+which I am executing.
+
+1994
+01:58:09,160 --> 01:58:09,960
+Correct.
+
+1995
+01:58:11,200 --> 01:58:12,000
+Getting
+
+1996
+01:58:14,520 --> 01:58:18,560
+correct Nazi mine to test fast
+
+1997
+01:58:19,120 --> 01:58:22,280
+even without touching my intelligence.
+
+1998
+01:58:22,640 --> 01:58:24,000
+I got the result.
+
+1999
+01:58:24,000 --> 01:58:28,400
+My two best
+first grade don't test run to failure.
+
+2000
+01:58:28,400 --> 01:58:31,320
+Zero errors zero zero.
+
+2001
+01:58:31,600 --> 01:58:34,440
+Correct.
+
+2002
+01:58:34,440 --> 01:58:37,680
+Is this correct?
+
+2003
+01:58:37,680 --> 01:58:38,520
+Grade
+
+2004
+01:58:39,720 --> 01:58:43,600
+some output
+that is in console rate putting in console
+
+2005
+01:58:43,600 --> 01:58:47,960
+in your command company auditing,
+getting every single information.
+
+2006
+01:58:47,960 --> 01:58:54,280
+Every single information in this command
+appropriate.
+
+2007
+01:58:54,280 --> 01:58:57,800
+Good. Correct. Correct. No.
+
+2008
+01:58:57,800 --> 01:59:01,000
+We're directly dealing
+with the data management tool, right.
+
+2009
+01:59:01,280 --> 01:59:05,080
+Directly
+dealing with the written management,
+
+2010
+01:59:05,080 --> 01:59:05,560
+which
+
+2011
+01:59:10,360 --> 01:59:13,200
+already correct
+
+2012
+01:59:18,800 --> 01:59:21,800
+already industrial.
+
+2013
+01:59:22,080 --> 01:59:25,760
+We should test we want to run from
+city of the I'm coming to that point.
+
+2014
+01:59:25,760 --> 01:59:28,080
+You get that for us to learn
+what I'm teaching.
+
+2015
+01:59:28,800 --> 01:59:29,160
+Right.
+
+2016
+01:59:29,160 --> 01:59:31,640
+And then coming to the point
+which I will teach later
+
+2017
+01:59:32,200 --> 01:59:34,840
+is that any so far which I lived,
+
+2018
+01:59:36,240 --> 01:59:37,120
+I didn't
+
+2019
+01:59:37,320 --> 01:59:40,280
+leave any single point
+covering one by one.
+
+2020
+01:59:40,480 --> 01:59:45,040
+But the problem is
+I am only one guy so I can cover 1.1.
+
+2021
+01:59:45,040 --> 01:59:47,680
+But after some time
+I will take another topic.
+
+2022
+01:59:47,880 --> 01:59:48,400
+Okay,
+
+2023
+01:59:49,160 --> 01:59:51,240
+so now, now here from that's
+
+2024
+01:59:51,240 --> 01:59:55,200
+how developers work.
+
+2025
+01:59:55,200 --> 01:59:56,880
+They never execute, right?
+
+2026
+01:59:56,880 --> 01:59:59,080
+They do not execute from intended
+
+2027
+01:59:59,280 --> 02:00:02,760
+or from a glimpse because the project
+is available in some repository
+
+2028
+02:00:03,080 --> 02:00:06,440
+somewhere right there
+to the updated project in their folder.
+
+2029
+02:00:06,600 --> 02:00:09,600
+They simply open the command prompt
+in this input on this command
+
+2030
+02:00:09,600 --> 02:00:11,200
+and it's working point there.
+
+2031
+02:00:11,200 --> 02:00:14,200
+So they work in the studio
+
+2032
+02:00:16,600 --> 02:00:20,200
+indisputably on how they work.
+
+2033
+02:00:20,200 --> 02:00:27,320
+Is. Yeah, please knock, please.
+
+2034
+02:00:27,320 --> 02:00:31,440
+Plus a
+
+2035
+02:00:32,680 --> 02:00:33,000
+knock.
+
+2036
+02:00:33,000 --> 02:00:33,720
+There's one time.
+
+2037
+02:00:33,720 --> 02:00:36,080
+See, I will cover this point.
+
+2038
+02:00:36,280 --> 02:00:38,280
+I will cover this point week.
+
+2039
+02:00:38,520 --> 02:00:41,680
+I just explained this is one time.
+
+2040
+02:00:41,680 --> 02:00:46,680
+Don't expect everything.
+
+2041
+02:00:46,680 --> 02:00:48,360
+Can you repeat that one? Yes.
+
+2042
+02:00:48,360 --> 02:00:49,080
+So how?
+
+2043
+02:00:49,080 --> 02:00:52,960
+If we do not want to execute our best
+guess from intelligent from anywhere?
+
+2044
+02:00:53,280 --> 02:00:54,480
+What do you have this project?
+
+2045
+02:00:54,480 --> 02:00:56,640
+Do you have any your good right?
+
+2046
+02:00:56,640 --> 02:00:57,480
+What do you do?
+
+2047
+02:00:57,480 --> 02:01:00,320
+Just take the updated code
+from the gate in your machine.
+
+2048
+02:01:00,840 --> 02:01:04,600
+Once you have this code in your machine,
+open the folder.
+
+2049
+02:01:04,600 --> 02:01:09,000
+You have vulgar ExxonMobil
+in your local computer time command prompt
+
+2050
+02:01:09,000 --> 02:01:12,920
+or open that particular folder
+in your terminal or in command prompt.
+
+2051
+02:01:13,080 --> 02:01:16,760
+Very apologetic symbolism
+and then simply run this command.
+
+2052
+02:01:17,120 --> 02:01:19,480
+Now you need an intelligent eclipse.
+
+2053
+02:01:19,760 --> 02:01:21,080
+You don't need it. Got it.
+
+2054
+02:01:22,920 --> 02:01:23,600
+You don't need it.
+
+2055
+02:01:23,600 --> 02:01:24,320
+You don't
+
+2056
+02:01:26,640 --> 02:01:28,040
+quite So now
+
+2057
+02:01:28,040 --> 02:01:31,760
+coming to the last point, coming
+to the last point of this particular path.
+
+2058
+02:01:32,040 --> 02:01:32,720
+Right.
+
+2059
+02:01:33,600 --> 02:01:34,080
+Got it.
+
+2060
+02:01:34,080 --> 02:01:36,560
+Coming to the last line
+of this particular work. See
+
+2061
+02:01:37,800 --> 02:01:39,960
+if I want to run,
+
+2062
+02:01:39,960 --> 02:01:42,360
+if I want to run both these things
+
+2063
+02:01:42,360 --> 02:01:46,200
+together in being clean and being busy
+right now, what we are doing,
+
+2064
+02:01:46,440 --> 02:01:49,200
+we are cleaning
+first in the existing best.
+
+2065
+02:01:49,680 --> 02:01:53,640
+Now we are doing and being clean and test
+both together.
+
+2066
+02:01:54,840 --> 02:01:56,880
+Press enough,
+
+2067
+02:01:57,800 --> 02:02:00,240
+see first it cleaned everything.
+
+2068
+02:02:00,840 --> 02:02:04,480
+It deleted their target folder,
+then it is started the execution.
+
+2069
+02:02:05,080 --> 02:02:09,120
+When it started the execution, it executes
+all of my best case
+
+2070
+02:02:09,600 --> 02:02:12,680
+once and executing all of my best guess.
+
+2071
+02:02:12,680 --> 02:02:22,920
+See, Aisha
+
+2072
+02:02:24,720 --> 02:02:26,440
+is there answer to your question?
+
+2073
+02:02:26,440 --> 02:02:29,160
+Do we need to execute clean
+always before test?
+
+2074
+02:02:29,160 --> 02:02:34,320
+So the answer is no one
+command will work for both cleaning best
+
+2075
+02:02:35,480 --> 02:02:37,880
+understood everyone
+
+2076
+02:02:39,680 --> 02:02:40,960
+there is everyone understood
+
+2077
+02:02:40,960 --> 02:02:48,680
+this.
+
+2078
+02:02:48,680 --> 02:02:51,000
+Nice. Now last one.
+
+2079
+02:02:51,000 --> 02:02:53,160
+Last one.
+
+2080
+02:02:53,160 --> 02:02:54,600
+What if.
+
+2081
+02:02:54,600 --> 02:02:58,560
+What if I am on to override my bag?
+
+2082
+02:02:59,080 --> 02:03:01,280
+I don't want to execute
+only smokes in animals.
+
+2083
+02:03:01,280 --> 02:03:03,800
+I don't want to execute only integrations.
+
+2084
+02:03:04,080 --> 02:03:05,960
+Usually I want to execute
+
+2085
+02:03:05,960 --> 02:03:09,360
+scenarios based on their dates
+I would be providing here on me.
+
+2086
+02:03:09,720 --> 02:03:10,800
+Right here only.
+
+2087
+02:03:10,800 --> 02:03:13,080
+So what is the resolution to that point?
+
+2088
+02:03:14,120 --> 02:03:16,080
+How we can do that
+
+2089
+02:03:19,880 --> 02:03:21,960
+and as to what I'm seeing.
+
+2090
+02:03:23,880 --> 02:03:24,560
+So now.
+
+2091
+02:03:24,560 --> 02:03:26,360
+Sorry, can you show the last command?
+
+2092
+02:03:26,360 --> 02:03:28,720
+It's Ambient cleaning based together.
+
+2093
+02:03:29,200 --> 02:03:31,480
+Ambient cleaning this together. Right.
+
+2094
+02:03:32,040 --> 02:03:33,080
+So the one
+
+2095
+02:03:34,800 --> 02:03:36,600
+what do you want to see them
+
+2096
+02:03:36,600 --> 02:03:40,920
+the last command executed in
+we end up next.
+
+2097
+02:03:40,920 --> 02:03:43,480
+We already discussed this in being clean.
+
+2098
+02:03:43,520 --> 02:03:44,600
+So your target folder,
+
+2099
+02:03:45,720 --> 02:03:46,280
+if you guys
+
+2100
+02:03:46,280 --> 02:03:49,280
+want to see which command
+you executed last.
+
+2101
+02:03:49,480 --> 02:03:54,360
+So simply simply place this over
+the upper end, over.
+
+2102
+02:03:54,360 --> 02:03:57,000
+See, I typed in your keyboard.
+
+2103
+02:03:57,000 --> 02:03:59,400
+It gives me the command
+which I executed last.
+
+2104
+02:04:00,160 --> 02:04:01,400
+Before that I executed.
+
+2105
+02:04:01,400 --> 02:04:02,800
+And we invest one more time.
+
+2106
+02:04:02,800 --> 02:04:05,720
+If I click this upper, it'll
+
+2107
+02:04:05,720 --> 02:04:07,200
+give me that command.
+
+2108
+02:04:07,200 --> 02:04:09,600
+This would be my last third, last third.
+
+2109
+02:04:09,600 --> 02:04:11,200
+So last again.
+
+2110
+02:04:11,200 --> 02:04:12,040
+Last command.
+
+2111
+02:04:12,040 --> 02:04:18,960
+Can you see this?
+
+2112
+02:04:18,960 --> 02:04:19,640
+Right.
+
+2113
+02:04:19,640 --> 02:04:21,840
+So now it's time.
+
+2114
+02:04:21,840 --> 02:04:24,120
+It's time to override.
+
+2115
+02:04:24,120 --> 02:04:27,680
+Let me go here.
+
+2116
+02:04:27,680 --> 02:04:28,840
+Let me go here.
+
+2117
+02:04:28,840 --> 02:04:31,640
+And this time. Right.
+
+2118
+02:04:31,680 --> 02:04:35,280
+Let's change this to change changes
+to ambient.
+
+2119
+02:04:36,200 --> 02:04:39,320
+Let's change is to me in back right now
+
+2120
+02:04:39,320 --> 02:04:41,720
+see in my smoke which they use available
+
+2121
+02:04:44,360 --> 02:04:45,240
+even if we ran
+
+2122
+02:04:45,240 --> 02:04:49,320
+it from terminal would still go
+Yes yes it will still be report
+
+2123
+02:04:49,640 --> 02:04:53,920
+because to me
+we are executing our protection and import
+
+2124
+02:04:54,480 --> 02:04:59,440
+exam will be I to plug it in so intimately
+it is creating report everything
+
+2125
+02:05:00,840 --> 02:05:03,480
+paid rate.
+
+2126
+02:05:03,840 --> 02:05:06,920
+So now
+now guys, what I'm going to do here I'm
+
+2127
+02:05:06,920 --> 02:05:11,360
+going to I'm going to
+what am I to my big brain?
+
+2128
+02:05:11,520 --> 02:05:12,360
+How to do that?
+
+2129
+02:05:12,360 --> 02:05:15,560
+See here I will write ambient
+
+2130
+02:05:17,240 --> 02:05:19,280
+test my normal command
+
+2131
+02:05:20,560 --> 02:05:22,600
+and weirdest is my normal
+command of delete.
+
+2132
+02:05:23,560 --> 02:05:25,680
+That is
+
+2133
+02:05:26,400 --> 02:05:28,160
+going after this.
+
+2134
+02:05:28,160 --> 02:05:33,680
+I have to date minus B minus
+B, then I have to write
+
+2135
+02:05:33,680 --> 02:05:37,600
+here it go letter dot options
+
+2136
+02:05:38,760 --> 02:05:41,440
+minus D into my dot options
+
+2137
+02:05:42,040 --> 02:05:44,640
+without space minus d
+
+2138
+02:05:44,800 --> 02:05:48,120
+to compare dog options is equals to
+
+2139
+02:05:49,200 --> 02:05:51,680
+is equals to double
+
+2140
+02:05:51,680 --> 02:05:54,840
+and the will cause minus minus
+
+2141
+02:05:55,480 --> 02:05:59,120
+six, minus minus x.
+
+2142
+02:05:59,320 --> 02:06:00,760
+And you see guys
+
+2143
+02:06:08,760 --> 02:06:11,560
+minus maintenance bags
+
+2144
+02:06:11,560 --> 02:06:13,680
+at the rate mean
+
+2145
+02:06:15,480 --> 02:06:17,960
+whatever I think very ambient.
+
+2146
+02:06:17,960 --> 02:06:19,800
+You see everyone this
+
+2147
+02:06:22,400 --> 02:06:24,480
+so this time doesn't matter.
+
+2148
+02:06:24,720 --> 02:06:30,920
+This time doesn't matter which particular
+bag you have provided in your book.
+
+2149
+02:06:31,040 --> 02:06:32,880
+Smoker enough right.
+
+2150
+02:06:32,880 --> 02:06:36,360
+This Vonnegut exhibit
+will take you to smoke or not,
+
+2151
+02:06:36,560 --> 02:06:41,200
+but will replace this bag
+from your ambient big so only scenario
+
+2152
+02:06:41,200 --> 02:06:47,280
+which is I mean in being dead
+will get executed afterwards.
+
+2153
+02:06:47,280 --> 02:06:48,720
+That's this point everyone
+
+2154
+02:06:52,560 --> 02:06:54,280
+wants to be one industrial designer.
+
+2155
+02:06:54,280 --> 02:07:03,280
+What?
+
+2156
+02:07:03,280 --> 02:07:05,400
+No, we don't need to change anywhere.
+
+2157
+02:07:05,720 --> 02:07:08,000
+We don't need to change anything any bit.
+
+2158
+02:07:08,000 --> 02:07:11,000
+Everything will be going from here.
+
+2159
+02:07:11,000 --> 02:07:21,120
+No, see, no.
+
+2160
+02:07:21,840 --> 02:07:23,000
+Didn't take it.
+
+2161
+02:07:23,000 --> 02:07:26,280
+Didn't think there would be something
+wrong happen
+
+2162
+02:07:30,600 --> 02:07:33,480
+to a john and badge eliminate about target
+
+2163
+02:07:36,920 --> 02:07:40,080
+port number
+is this take a smoking bench 11 blade
+
+2164
+02:07:40,480 --> 02:07:43,440
+so they take a look right
+Let me change this
+
+2165
+02:07:45,360 --> 02:07:48,640
+Let me change this command to
+
+2166
+02:07:49,240 --> 02:07:51,920
+minus D to convert
+
+2167
+02:07:51,960 --> 02:07:54,560
+or are free to talk.
+
+2168
+02:07:55,320 --> 02:07:58,720
+X is equals two
+
+2169
+02:08:01,360 --> 02:08:03,000
+is equals to this time.
+
+2170
+02:08:03,000 --> 02:08:05,360
+And that in
+
+2171
+02:08:19,560 --> 02:08:21,760
+you it won't see.
+
+2172
+02:08:22,320 --> 02:08:24,800
+So now know which command
+we have to use gate
+
+2173
+02:08:24,800 --> 02:08:29,080
+See my ambient best is my normal command
+rate.
+
+2174
+02:08:29,160 --> 02:08:35,360
+Ambient best is my normal
+command minus d controller dot filter
+
+2175
+02:08:35,640 --> 02:08:40,560
+dot bags is equals to
+and the rate in which did I want the bus.
+
+2176
+02:08:41,640 --> 02:08:42,280
+So now
+
+2177
+02:08:42,280 --> 02:08:47,960
+now if you see here it executed
+it executed my wish take a direct ambient
+
+2178
+02:08:47,960 --> 02:08:51,760
+is this the scenario be executed
+so there is no match 11 now
+
+2179
+02:08:51,800 --> 02:08:52,880
+can you see
+
+2180
+02:08:54,960 --> 02:08:57,560
+and you see how we override
+
+2181
+02:08:57,560 --> 02:09:00,040
+how we override this part C
+
+2182
+02:09:00,040 --> 02:09:04,080
+B ambient best minus D could convert
+
+2183
+02:09:04,320 --> 02:09:07,960
+not free dog because the ambient let me
+
+2184
+02:09:09,080 --> 02:09:10,360
+put this command.
+
+2185
+02:09:10,360 --> 02:09:12,520
+If we put this command in
+
+2186
+02:09:13,800 --> 02:09:15,000
+in No you're not.
+
+2187
+02:09:15,000 --> 02:09:17,080
+So it is the most
+
+2188
+02:09:18,480 --> 02:09:20,760
+to execute from
+
+2189
+02:09:22,280 --> 02:09:24,520
+from CMB or
+
+2190
+02:09:29,240 --> 02:09:30,120
+in place.
+
+2191
+02:09:30,120 --> 02:09:31,440
+One command
+
+2192
+02:09:32,400 --> 02:09:35,080
+post is another command in being clean.
+
+2193
+02:09:35,280 --> 02:09:39,160
+Is this under the command in its mind
+as de
+
+2194
+02:09:40,440 --> 02:09:43,480
+da to
+
+2195
+02:09:44,640 --> 02:09:48,760
+don't fix is equals to iterate
+
+2196
+02:09:49,400 --> 02:09:53,480
+whatever you want to provide
+from the override already base
+
+2197
+02:09:54,800 --> 02:09:56,840
+it a couple of more points
+
+2198
+02:09:57,600 --> 02:10:03,360
+open, open the CMB or terminal,
+
+2199
+02:10:03,440 --> 02:10:08,160
+open this DMV or
+terminal in the project Root
+
+2200
+02:10:09,200 --> 02:10:11,640
+beer on dark.
+
+2201
+02:10:11,880 --> 02:10:14,320
+Examine is available
+
+2202
+02:10:15,600 --> 02:10:18,560
+and then execute
+
+2203
+02:10:19,600 --> 02:10:21,720
+it. Your commands
+
+2204
+02:10:22,720 --> 02:10:25,200
+and just put this part
+
+2205
+02:10:26,280 --> 02:10:28,240
+and dispute this part.
+
+2206
+02:10:28,280 --> 02:10:30,960
+Let me take another one.
+
+2207
+02:10:30,960 --> 02:10:33,440
+Let's take any scenario, for example here.
+
+2208
+02:10:33,880 --> 02:10:37,320
+Go in in school here and take any of those
+
+2209
+02:10:37,320 --> 02:10:39,400
+in any of
+
+2210
+02:10:41,040 --> 02:10:42,280
+maybe from this book.
+
+2211
+02:10:42,280 --> 02:10:45,720
+So let's finish facility grade point,
+
+2212
+02:10:46,920 --> 02:10:50,720
+go here and instead of ambient
+I want to execute dashboard,
+
+2213
+02:10:51,880 --> 02:10:53,520
+let's execute.
+
+2214
+02:10:54,480 --> 02:11:14,280
+See it executed one scenario
+
+2215
+02:11:14,880 --> 02:11:34,680
+and which one it executed.
+
+2216
+02:11:34,680 --> 02:11:37,040
+Number 33.
+
+2217
+02:11:37,040 --> 02:11:40,280
+x is equal to the rate
+
+2218
+02:11:41,520 --> 02:11:48,600
+in the fish board.
+
+2219
+02:11:48,600 --> 02:11:49,160
+Wait, wait.
+
+2220
+02:11:49,160 --> 02:11:50,680
+I want to show you the remote.
+
+2221
+02:11:50,680 --> 02:11:51,760
+That's why
+
+2222
+02:11:52,320 --> 02:11:54,640
+this should be visible correctly.
+
+2223
+02:11:54,640 --> 02:11:57,520
+It opened the scenario
+
+2224
+02:11:57,720 --> 02:12:01,880
+and it got executed now.
+
+2225
+02:12:01,960 --> 02:12:03,040
+So see
+
+2226
+02:12:04,600 --> 02:12:07,760
+here it executed for data main beam,
+live time
+
+2227
+02:12:07,960 --> 02:12:12,000
+recruitment performance dashboard
+that both things in the message
+
+2228
+02:12:12,000 --> 02:12:17,040
+all values or tables are equal in best
+guess his past which best kids exist.
+
+2229
+02:12:17,040 --> 02:12:17,800
+This board
+
+2230
+02:12:18,800 --> 02:12:20,560
+ought to be overriding their next or not.
+
+2231
+02:12:20,560 --> 02:12:22,120
+Nice Tell me here
+
+2232
+02:12:24,080 --> 02:12:26,320
+are we overriding their tanks or not?
+
+2233
+02:12:26,760 --> 02:12:30,800
+So if you want to execute your smoke,
+just simply say no.
+
+2234
+02:12:30,840 --> 02:12:32,720
+Come on, it will execute.
+
+2235
+02:12:32,720 --> 02:12:35,320
+If you want to execute the ignition one,
+come on,
+
+2236
+02:12:35,320 --> 02:12:40,280
+it will execute the student.
+
+2237
+02:12:40,280 --> 02:12:42,840
+They want the new member
+to execute their test.
+
+2238
+02:12:42,840 --> 02:12:47,000
+Because this idea that advantages
+of not so many things
+
+2239
+02:12:47,000 --> 02:12:50,640
+to compile your code to make your code
+rate is a single boot.
+
+2240
+02:12:51,440 --> 02:12:54,600
+Yeah I already coming to this command
+right in your
+
+2241
+02:12:55,720 --> 02:12:58,240
+in your code
+but still see this is the command
+
+2242
+02:12:59,560 --> 02:13:01,440
+ambient best minus
+
+2243
+02:13:01,440 --> 02:13:05,680
+the jumper not filtered
+or x is equal to the rig.
+
+2244
+02:13:05,680 --> 02:13:12,360
+Whatever you want to pass on replace.
+
+2245
+02:13:12,360 --> 02:13:19,000
+All right, guys.
+
+2246
+02:13:19,000 --> 02:13:22,440
+So now now practically for code
+
+2247
+02:13:22,440 --> 02:13:25,760
+writing part
+minuses will probably I did typing wrong
+
+2248
+02:13:34,400 --> 02:13:34,960
+correct.
+
+2249
+02:13:34,960 --> 02:13:36,200
+Correct. Probably.
+
+2250
+02:13:36,200 --> 02:13:40,080
+You're typing something wrong this way.
+
+2251
+02:13:40,080 --> 02:13:42,720
+So now we are done with that.
+
+2252
+02:13:42,720 --> 02:13:45,720
+The chamber framework portion.
+
+2253
+02:13:45,720 --> 02:13:48,000
+We are done with the input crucial rate.
+
+2254
+02:13:48,000 --> 02:13:52,440
+All the coding related part,
+big part conceptual part.
+
+2255
+02:13:52,440 --> 02:13:55,200
+Everything is done.
+Just one thing is remaining there.
+
+2256
+02:13:55,400 --> 02:14:00,480
+The explanation code moment that I will do
+after the break or after the break
+
+2257
+02:14:00,680 --> 02:14:03,120
+with see what member means.
+
+2258
+02:14:04,440 --> 02:14:07,200
+Let's take a break guys, for 15 minutes
+
+2259
+02:14:08,280 --> 02:14:12,000
+of the minutes before
+
+2260
+02:14:14,640 --> 02:14:18,360
+10 minutes admin instead of a beep
+
+2261
+02:14:26,840 --> 02:14:27,880
+note the text.
+
+2262
+02:14:27,880 --> 02:14:29,040
+It's completely
+
+2263
+02:14:42,880 --> 02:14:44,800
+code is committed pushed.
+
+2264
+02:14:44,800 --> 02:14:45,480
+Right.
+
+2265
+02:14:46,120 --> 02:14:48,240
+All right.
+I see you attempting to escalate.
+
+2266
+02:14:48,600 --> 02:14:52,080
+11 2332 2347 We meet once again
+
+2267
+02:14:53,040 --> 02:14:56,160
+15 minute.
+
+2268
+02:14:56,160 --> 02:14:58,480
+All right, base final
+
+2269
+02:15:10,800 --> 02:15:13,320
+alright can you Napier ambient clean
+
+2270
+02:15:14,000 --> 02:15:16,800
+can it be here
+
+2271
+02:15:21,480 --> 02:15:23,800
+intended need I just want to check
+
+2272
+02:15:35,960 --> 02:15:38,160
+what is the output really successful
+for you
+
+2273
+02:15:42,360 --> 02:15:49,800
+looking by now.
+
+2274
+02:15:49,800 --> 02:15:56,160
+If it is really success with ambient bleed
+it means the problem is with a big test.
+
+2275
+02:15:56,160 --> 02:16:01,280
+See it says will success rate
+now it is working fine now blink ambient
+
+2276
+02:16:01,280 --> 02:16:04,640
+test simple in being pissed right
+and we entered
+
+2277
+02:16:08,120 --> 02:16:11,280
+late in ambient test sick and
+
+2278
+02:16:15,560 --> 02:16:17,000
+I give you one by moment.
+
+2279
+02:16:17,000 --> 02:16:21,280
+I didn't give you the complete
+information of ambient test.
+
+2280
+02:16:21,280 --> 02:16:25,440
+Minor could convert or not
+baked in the plus short and we are just
+
+2281
+02:16:25,920 --> 02:16:29,320
+then ambient clean ambient
+clean this together
+
+2282
+02:16:29,520 --> 02:16:33,840
+and then overwriting that take me do it
+step by step so that you can check
+
+2283
+02:16:34,120 --> 02:16:40,720
+whether your code is working
+correctly or not.
+
+2284
+02:16:40,720 --> 02:16:41,560
+Well, read
+
+2285
+02:16:43,160 --> 02:16:45,400
+my source for Max.
+
+2286
+02:16:45,400 --> 02:16:51,120
+Everyone is here now.
+
+2287
+02:16:51,120 --> 02:16:53,520
+Right? So now this is the problem
+with your another class.
+
+2288
+02:16:53,520 --> 02:16:55,840
+I could totally see this in the error.
+
+2289
+02:16:55,840 --> 02:16:58,520
+The problem is with yet
+another class. And what class
+
+2290
+02:17:02,560 --> 02:17:05,400
+this time problem is with your class.
+
+2291
+02:17:05,400 --> 02:17:06,400
+Put it in the support.
+
+2292
+02:17:06,400 --> 02:17:10,760
+They will help you Shiva, if your there
+in the sample, please help on one read.
+
+2293
+02:17:10,920 --> 02:17:13,360
+She is having some really basic
+problem. Right?
+
+2294
+02:17:13,360 --> 02:17:16,120
+These are committed
+
+2295
+02:17:16,120 --> 02:17:18,840
+by good okay students.
+
+2296
+02:17:18,880 --> 02:17:22,000
+So now. Now here
+
+2297
+02:17:22,000 --> 02:17:22,320
+here.
+
+2298
+02:17:22,320 --> 02:17:25,360
+See I'm looking about
+
+2299
+02:17:25,760 --> 02:17:26,800
+Melbourne.
+
+2300
+02:17:26,800 --> 02:17:28,480
+No segment
+
+2301
+02:17:30,720 --> 02:17:32,080
+if you see
+
+2302
+02:17:32,080 --> 02:17:37,680
+clean validate compile
+this package ready by install side deploy.
+
+2303
+02:17:37,680 --> 02:17:40,320
+Can you see all this like sake?
+
+2304
+02:17:41,240 --> 02:17:43,200
+Can anyone see this
+
+2305
+02:17:44,880 --> 02:17:45,640
+right now?
+
+2306
+02:17:45,640 --> 02:17:47,000
+What is the meaning?
+
+2307
+02:17:47,000 --> 02:17:48,960
+What is the meaning of this lifecycle?
+
+2308
+02:17:48,960 --> 02:17:52,920
+Why we use let me tell you, higher grade
+
+2309
+02:17:54,120 --> 02:17:54,920
+here,
+
+2310
+02:17:55,760 --> 02:17:56,560
+here,
+
+2311
+02:17:57,480 --> 02:17:59,280
+here, here.
+
+2312
+02:17:59,280 --> 02:18:03,480
+When we talk about clean grade,
+when we talk about clean.
+
+2313
+02:18:03,480 --> 02:18:06,480
+So the moment you run in being clean,
+what it does
+
+2314
+02:18:07,080 --> 02:18:10,320
+it briefly, it performs
+three actions be clean,
+
+2315
+02:18:11,400 --> 02:18:12,320
+clean,
+
+2316
+02:18:12,880 --> 02:18:15,120
+forced, simple.
+
+2317
+02:18:15,120 --> 02:18:15,840
+This clean.
+
+2318
+02:18:15,840 --> 02:18:19,200
+If we talk about in the clean action,
+it removes
+
+2319
+02:18:19,200 --> 02:18:23,520
+and cleans my mine.
+
+2320
+02:18:23,520 --> 02:18:26,640
+But a good friend of mine I did it for
+
+2321
+02:18:27,760 --> 02:18:28,840
+industrial.
+
+2322
+02:18:29,120 --> 02:18:34,040
+It bleeds my body food industry everyone.
+
+2323
+02:18:34,040 --> 02:18:37,240
+Now this is the $7 billion
+
+2324
+02:18:37,640 --> 02:18:40,360
+7 billion after clean.
+
+2325
+02:18:40,440 --> 02:18:43,760
+What did this see after clean
+what it does.
+
+2326
+02:18:44,040 --> 02:18:47,080
+So here we have complied
+
+2327
+02:18:48,720 --> 02:18:51,600
+we have test
+
+2328
+02:18:51,600 --> 02:18:54,480
+we package
+
+2329
+02:18:54,600 --> 02:18:57,400
+we have installed
+
+2330
+02:18:57,400 --> 02:19:00,120
+we have deployed.
+
+2331
+02:19:00,120 --> 02:19:02,840
+We have really by
+
+2332
+02:19:02,840 --> 02:19:04,760
+grade we have been
+
+2333
+02:19:04,760 --> 02:19:09,560
+put in a stored and there is some movement
+the repository site available
+
+2334
+02:19:09,680 --> 02:19:13,240
+break this part. Now
+
+2335
+02:19:14,280 --> 02:19:18,080
+when you actually test
+when you actually run the command call,
+
+2336
+02:19:19,440 --> 02:19:22,880
+when you actually run a command record
+and read a test.
+
+2337
+02:19:22,920 --> 02:19:27,000
+So what it does,
+what this command is first,
+
+2338
+02:19:27,240 --> 02:19:33,760
+first
+it combined your code, it can verify its
+
+2339
+02:19:36,840 --> 02:19:40,720
+if if there
+is something which we need to install.
+
+2340
+02:19:40,840 --> 02:19:44,840
+Let's say you read a dependency rate
+but operating the dependency
+
+2341
+02:19:44,840 --> 02:19:46,520
+you reload your project.
+
+2342
+02:19:46,520 --> 02:19:50,440
+So installation is yet to be done
+if you run in your test.
+
+2343
+02:19:50,680 --> 02:19:56,640
+So clean install those jobs
+dependencies as well and then it converts
+
+2344
+02:19:56,640 --> 02:20:02,280
+your entire project into a package
+so that it can make a single build.
+
+2345
+02:20:02,600 --> 02:20:06,320
+And after that
+it will execute your test case.
+
+2346
+02:20:06,680 --> 02:20:10,840
+So before execution
+it combines your code capability,
+
+2347
+02:20:10,880 --> 02:20:13,960
+but it's within your code is not
+
+2348
+02:20:13,960 --> 02:20:17,240
+build, build your part installed.
+
+2349
+02:20:17,240 --> 02:20:21,920
+If there is any dependency
+or job widespread that needs to be added
+
+2350
+02:20:22,200 --> 02:20:26,640
+and then convert your package
+into convert your code project
+
+2351
+02:20:26,680 --> 02:20:30,920
+into a package form
+and then simply execute via test.
+
+2352
+02:20:30,920 --> 02:20:31,320
+Come on.
+
+2353
+02:20:33,200 --> 02:20:34,600
+I'm not talking about deploy
+
+2354
+02:20:34,600 --> 02:20:38,960
+because this deployed it's
+not that deploy the deployment.
+
+2355
+02:20:39,880 --> 02:20:42,320
+It is something as diplomacy elements
+
+2356
+02:20:42,560 --> 02:20:45,880
+relating to the server
+to execute for execution
+
+2357
+02:20:47,600 --> 02:20:48,200
+or discord.
+
+2358
+02:20:48,200 --> 02:20:48,960
+Everyone
+
+2359
+02:20:51,920 --> 02:20:54,120
+everyone understood
+
+2360
+02:20:54,480 --> 02:20:56,160
+will lifecycle.
+
+2361
+02:20:56,160 --> 02:20:58,960
+If we make it very clear
+
+2362
+02:21:00,520 --> 02:21:02,360
+that we used
+
+2363
+02:21:04,040 --> 02:21:06,360
+cannot be put there.
+
+2364
+02:21:06,640 --> 02:21:09,000
+So it would be your
+
+2365
+02:21:10,960 --> 02:21:15,440
+compiler test
+
+2366
+02:21:19,720 --> 02:21:21,400
+package
+
+2367
+02:21:22,520 --> 02:21:26,280
+for installing
+
+2368
+02:21:27,240 --> 02:21:30,480
+deploy.
+
+2369
+02:21:30,480 --> 02:21:32,200
+We deployed
+
+2370
+02:21:34,520 --> 02:21:34,840
+clean.
+
+2371
+02:21:34,840 --> 02:21:38,760
+So here
+I served three actions three clean, clean
+
+2372
+02:21:40,480 --> 02:21:42,320
+and paused clean.
+
+2373
+02:21:42,320 --> 02:21:43,440
+And this is available.
+
+2374
+02:21:43,440 --> 02:21:46,960
+You signed there.
+
+2375
+02:21:47,040 --> 02:21:50,040
+So that's how
+
+2376
+02:21:51,520 --> 02:21:53,040
+things work.
+
+2377
+02:21:53,040 --> 02:21:54,920
+This is Europe.
+
+2378
+02:21:54,920 --> 02:21:57,240
+This is your Melbourne.
+
+2379
+02:21:57,520 --> 02:22:04,280
+This is your Melbourne Lifecycle.
+
+2380
+02:22:04,280 --> 02:22:05,640
+Remember life cycle.
+
+2381
+02:22:05,640 --> 02:22:10,680
+Everyone, everyone,
+
+2382
+02:22:10,680 --> 02:22:26,040
+guys, come on.
+
+2383
+02:22:26,040 --> 02:22:26,880
+Any questions?
+
+2384
+02:22:26,880 --> 02:22:30,160
+Look, in this park,
+what is movement lifecycle,
+
+2385
+02:22:30,400 --> 02:22:44,960
+how we generally use it?
+
+2386
+02:22:44,960 --> 02:22:47,840
+Is there anyone who has
+any question about this park
+
+2387
+02:22:53,440 --> 02:22:54,280
+currently
+
+2388
+02:22:55,520 --> 02:22:59,560
+not correct, but that's what
+we generally do rate many of the year.
+
+2389
+02:22:59,760 --> 02:23:03,000
+It is doing everything on it,
+so we don't need group
+
+2390
+02:23:04,440 --> 02:23:05,120
+rate.
+
+2391
+02:23:06,200 --> 02:23:10,760
+This is all the visitors information,
+all the business of measurement.
+
+2392
+02:23:11,240 --> 02:23:16,160
+That's why we use measurement
+as a mood management tool to compare.
+
+2393
+02:23:16,680 --> 02:23:19,040
+But with both
+
+2394
+02:23:19,080 --> 02:23:21,480
+basics and framework
+
+2395
+02:23:21,480 --> 02:23:29,080
+is done.
+
+2396
+02:23:29,080 --> 02:23:31,480
+Correct? Correct. Right.
+
+2397
+02:23:31,480 --> 02:23:36,200
+See, this is a part of lifecycle inventory
+validate compile Best buy.
+
+2398
+02:23:36,200 --> 02:23:38,000
+Get ready by installing deploy site.
+
+2399
+02:23:38,000 --> 02:23:40,480
+Everything is a part of lifecycle trade
+
+2400
+02:23:42,200 --> 02:23:42,880
+correctness.
+
+2401
+02:23:42,960 --> 02:23:48,400
+Can you see this on my screen?
+
+2402
+02:23:48,400 --> 02:23:51,560
+Come on students display
+start typing days.
+
+2403
+02:23:52,160 --> 02:23:53,520
+I'm going to commit the code in that.
+
+2404
+02:23:53,520 --> 02:24:01,440
+Importantly.
+
+2405
+02:24:01,440 --> 02:24:02,680
+Nice nice.
+
+2406
+02:24:02,680 --> 02:24:05,760
+Fine. Fine.
+
+2407
+02:24:05,760 --> 02:24:11,360
+So finally we are done with command.
+
+2408
+02:24:11,360 --> 02:24:17,160
+So prior to 2 minutes, how is the journey?
+
+2409
+02:24:17,160 --> 02:24:39,360
+How is the journey so far?
+
+2410
+02:24:39,360 --> 02:24:42,000
+This is something you have to do
+for the entire thing,
+
+2411
+02:24:42,000 --> 02:24:49,640
+not just the last part, but Angelica.
+
+2412
+02:24:49,640 --> 02:24:52,440
+I hope
+that is no concentrate with and as food,
+
+2413
+02:24:53,440 --> 02:24:55,560
+there is no concept we should get it.
+
+2414
+02:24:55,560 --> 02:24:57,560
+You got every single concept.
+
+2415
+02:24:57,560 --> 02:25:05,080
+What did we.
+
+2416
+02:25:05,080 --> 02:25:06,440
+I'm talking.
+
+2417
+02:25:06,440 --> 02:25:11,280
+I'm asking from understanding
+perspective, explanation, perspective.
+
+2418
+02:25:11,280 --> 02:25:13,440
+Was that anything?
+
+2419
+02:25:13,480 --> 02:25:16,680
+Was there anything from my side
+that you made a mistake?
+
+2420
+02:25:17,040 --> 02:25:21,920
+Is there anything or is there any concept
+that you guys didn't understand?
+
+2421
+02:25:21,920 --> 02:25:45,560
+It was like a monster for you.
+
+2422
+02:25:45,560 --> 02:25:49,440
+Concepts are clear.
+
+2423
+02:25:49,440 --> 02:25:53,760
+It's great.
+
+2424
+02:25:53,760 --> 02:25:56,160
+Seen for that right before that
+once you are done with the course.
+
+2425
+02:25:56,160 --> 02:26:00,120
+I read that you remember all of this
+
+2426
+02:26:02,040 --> 02:26:23,440
+was totally in the stomach.
+
+2427
+02:26:23,440 --> 02:26:27,560
+No, not one important point as I see many.
+
+2428
+02:26:27,560 --> 02:26:30,920
+You got exhausted because of
+not of information recovered to date.
+
+2429
+02:26:32,000 --> 02:26:35,160
+Great greatness.
+
+2430
+02:26:35,160 --> 02:26:36,000
+Students, come on.
+
+2431
+02:26:36,000 --> 02:26:39,880
+Just a couple of more minutes with me
+and then you will be to play.
+
+2432
+02:26:40,400 --> 02:26:44,800
+I know you guys are exhausted because
+we have learned a lot of information.
+
+2433
+02:26:44,800 --> 02:26:47,200
+So now I'm going to give you some ease
+
+2434
+02:26:47,920 --> 02:26:52,320
+rate and we do give you
+some is what we are going to do today.
+
+2435
+02:26:52,320 --> 02:26:57,120
+I was supposed to cover one more topic
+related to testing, right?
+
+2436
+02:26:57,800 --> 02:27:01,040
+So this is we can create a project
+
+2437
+02:27:01,040 --> 02:27:04,840
+level project with best integration
+work, best engineering related.
+
+2438
+02:27:04,840 --> 02:27:07,920
+It's a because we've seen 90% see,
+
+2439
+02:27:08,320 --> 02:27:12,480
+but because by looking at
+your responses here and the
+
+2440
+02:27:13,520 --> 02:27:15,600
+energy level rate for everyone,
+
+2441
+02:27:15,600 --> 02:27:18,200
+I decided to postpone this
+
+2442
+02:27:18,560 --> 02:27:21,360
+big group the models class.
+
+2443
+02:27:21,360 --> 02:27:23,600
+So in tomorrow's review,
+
+2444
+02:27:23,600 --> 02:27:26,320
+it's a must attend review for all of you
+
+2445
+02:27:26,680 --> 02:27:30,640
+because in the first portion
+of that particular review,
+
+2446
+02:27:30,840 --> 02:27:34,680
+we will create this energy
+based framework, right?
+
+2447
+02:27:35,000 --> 02:27:37,080
+Based on the best framework
+in just one hour.
+
+2448
+02:27:37,080 --> 02:27:40,240
+What it will take, hardly
+one hour will make just one or two test
+
+2449
+02:27:40,320 --> 02:27:42,800
+is not more than just one or two gives us
+
+2450
+02:27:47,720 --> 02:27:49,920
+have to be true during the review class.
+
+2451
+02:27:50,160 --> 02:27:54,920
+Yeah, very important but important piece
+because it doesn't make any sense
+
+2452
+02:27:54,920 --> 02:27:57,320
+if I beat you right.
+Not as the new framework also.
+
+2453
+02:27:57,360 --> 02:27:59,720
+And you guys get confusion,
+both of them. Right?
+
+2454
+02:28:00,000 --> 02:28:06,520
+I totally understand that you guys need
+practice that
+
+2455
+02:28:23,320 --> 02:28:24,280
+already today.
+
+2456
+02:28:24,280 --> 02:28:24,880
+So now
+
+2457
+02:28:31,480 --> 02:28:33,360
+Yammer,
+you might want to hear the standard
+
+2458
+02:28:33,360 --> 02:28:35,240
+but then you this topic, right?
+
+2459
+02:28:35,240 --> 02:28:37,760
+This topic is you can watch right?
+
+2460
+02:28:38,320 --> 02:28:39,680
+You can watch this topic.
+
+2461
+02:28:39,680 --> 02:28:45,160
+And in the recordings, basically it won't
+take more than an hour for me to explain.
+
+2462
+02:28:45,160 --> 02:28:46,320
+So I will do that.
+
+2463
+02:28:46,320 --> 02:28:48,600
+And you guys would be comfortable
+for that.
+
+2464
+02:28:48,600 --> 02:28:53,520
+I know I'm pretty sure that
+because the hardest part, the hardest part
+
+2465
+02:28:53,880 --> 02:28:56,520
+you guys are going through already,
+you guys are done
+
+2466
+02:28:56,520 --> 02:29:00,000
+and you guys did really well
+In the hardest part.
+
+2467
+02:29:00,000 --> 02:29:01,680
+That was the framework.
+
+2468
+02:29:01,680 --> 02:29:03,840
+If you understood the framework,
+
+2469
+02:29:04,800 --> 02:29:11,800
+if you can, the framework, right.
+
+2470
+02:29:12,160 --> 02:29:14,520
+If you understand this,
+if you can explain this,
+
+2471
+02:29:15,600 --> 02:29:18,040
+that the intention, the
+
+2472
+02:29:18,600 --> 02:29:21,280
+of attending the asset class is achieved,
+
+2473
+02:29:22,680 --> 02:29:24,000
+it's achievable.
+
+2474
+02:29:24,000 --> 02:29:28,640
+If you can explain this framework part
+according to the expectations,
+
+2475
+02:29:28,640 --> 02:29:29,440
+if you can do it,
+
+2476
+02:29:30,520 --> 02:29:32,560
+definitely everything is done.
+
+2477
+02:29:32,560 --> 02:29:33,200
+Quick question.
+
+2478
+02:29:33,200 --> 02:29:39,360
+I don't know if you're already answered
+this, that that's what I'm saying.
+
+2479
+02:29:39,360 --> 02:29:41,840
+We are going to create one thing
+working out tomorrow.
+
+2480
+02:29:41,840 --> 02:29:45,000
+Do you in the top that would be best
+and you work with whomever
+
+2481
+02:29:46,160 --> 02:29:49,320
+the correct.
+
+2482
+02:29:50,040 --> 02:29:50,800
+I will.
+
+2483
+02:29:51,440 --> 02:29:54,200
+I would be too late
+
+2484
+02:29:54,200 --> 02:29:55,680
+already.
+
+2485
+02:29:55,680 --> 02:30:00,480
+One more class with all of you and
+then you guys will be free from mistake.
+
+2486
+02:30:00,600 --> 02:30:03,200
+Okay, I think I'm done from my sailboat
+race class.
+
+2487
+02:30:03,200 --> 02:30:05,200
+If you guys have any question, please ask.
